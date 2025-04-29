@@ -1,0 +1,5 @@
+- [[Nostalgia]] 
+- [[Perception]]
+- [[Agency]]
+- [[Anti-Capitalism]]
+- [[Desire]]
