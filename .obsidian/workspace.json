@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "90bb0691420e6b70",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "7012be1cdf118958",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f45011d123b70b3f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,13 +65,13 @@
             }
           },
           {
-            "id": "f06ff07777d013c5",
+            "id": "974d840b064864e2",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -190,18 +190,57 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "footlinks:Footlinks": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f45011d123b70b3f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03-Artist Studies/Artist Index.md",
-    "02-Sources/People/People Index.md",
-    "02-Sources/People",
-    "00-Home/00-Home.md",
-    "01-Research Questions/Research Landscape.md",
-    "05-Synthesis Maps/Synthesis Maps Index.md",
     "01-Research Questions/Core Research Question.md",
-    "05-Synthesis Maps/Anti-Capitalism.md"
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A stock with one reinforcing loop and one balancing loop—population….md",
+    "01-Research Questions/Working Thesis.md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A renewable stock contained by a nonrenewable stock—an oil economy.md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A reinforcing feedback loop enhances whatever direction of change….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A feedback loop is formed when changes in a stock affect the flows….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A balancing feedback loop opposes whatever direction of change is….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A change in purpose charges a system profoundly, even if every element….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/3 ways to avoid the tragedy of the commons.md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/What Art Does/Art makes communities.md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/What Art Does/Art is the continuation of play into adulthood. We keep playing as….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/What Art Does/Art changes how we feel about our feelings. How we notice them, how….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/What Art Does/A piece of art doesn’t have to be a piece of art for everybody. It….md",
+    "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/What Art Does/A crucial part of self-realization is being able to distinguish between….md",
+    "02-Sources/Bibliography.md",
+    "01-Research Questions/Research Landscape.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/Artists.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/Community Tab.md",
+    "Thinking In Systems/John Holmes Studio/Ephemera of Desire.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/How Curatorial Research is Conducted.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/What do I want to do next.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/Grant Applications.md",
+    "Thinking In Systems/What mistakes did I make last time.md",
+    "Thinking In Systems/New Media Nashville/Phase 0/Based on Art + Com.md",
+    "Thinking In Systems/Education/Courses/TouchDesigner Bootcamp/SOPs Demystified.md",
+    "Thinking In Systems/John Holmes Studio/Identity.md",
+    "Thinking In Systems/attachments/NMN THEORY OF CHANGE (Poster (US)).png.png",
+    "Thinking In Systems/attachments/3BC72856-CEC2-48B7-A92A-BB96819607F9.png",
+    "Thinking In Systems/attachments/IMG_0173.jpeg",
+    "Thinking In Systems/attachments/IMG_0068.heic",
+    "Thinking In Systems/attachments/8A0A2BE2-8F44-4FA2-AA90-3AFFA456B976_1_201_a.heic",
+    "Thinking In Systems/attachments/IMG_9925.heic",
+    "Thinking In Systems/attachments/IMG_9882.heic",
+    "Thinking In Systems/attachments/IMG_9881.heic",
+    "Thinking In Systems/attachments/IMG_9924.heic",
+    "Thinking In Systems/attachments/7CBBD143-E3AA-4553-ACF9-D6E97440CAAE_1_201_a.heic",
+    "Thinking In Systems/attachments/IMG_9880.heic",
+    "Thinking In Systems/attachments/IMG_9861.heic",
+    "Thinking In Systems/attachments/IMG_9860.heic",
+    "Thinking In Systems/attachments/IMG_9851.png",
+    "Thinking In Systems/attachments/IMG_9846.jpeg",
+    "Thinking In Systems/attachments/Buchanan Arts Open Floor Plan Page 25.png",
+    "Thinking In Systems/attachments/241111 cowgirl.jpeg",
+    "Thinking In Systems/attachments/7DD16859-55BE-443D-B99F-80E59FB73943.png",
+    "Thinking In Systems/attachments/Entergy account number 1.jpeg",
+    "Thinking In Systems/attachments/Entergy account number.jpeg"
   ]
 }

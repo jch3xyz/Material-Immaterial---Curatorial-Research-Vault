@@ -2,4 +2,6 @@
 - [[Perception]]
 - [[Agency]]
 - [[Anti-Capitalism]]
-- [[Desire]]
+- [[Porn]]
+- [[Social Media]]
+- 

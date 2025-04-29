@@ -8,4 +8,6 @@
 - [[Synthesis Maps Index]]
 - [[Exhibition Concepts Index]]
 - [[Writings Index]] 
-- [[Public Artifact Plan]]
+- [[Artworks Index]]
+- [[Public Programming Index]]
+- [[README]]

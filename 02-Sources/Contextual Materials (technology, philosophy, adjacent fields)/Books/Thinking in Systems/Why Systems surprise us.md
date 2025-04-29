@@ -1,0 +1,57 @@
+86-110
+
+- **Beguiling Events**
+	- Events are the outputs from the Black box of a system.
+	- Events are the most visible aspect of a larger complex—but not always the most important.
+	- Events accumulate into dynamic patterns of *behavior*. The behavior of a system is its performance over time.
+	- Structure is key to understanding not just *what* is happening but *why*
+		- The structure of a system is its interlocking stocks, flows, and feedback loops
+		- Structure determines what behaviors are latent in the system.
+	- Much analysis of the world goes no deeper than events. These explanations give you no ability to predict what will happen tomorrow.
+	- Most economic analysis goes one level deeper, to behavior over time This better but still has problems because it does not fundamentally analyze system *structure*.
+		- They typically overemphasize system flows and underemphasize stocks
+		- There’s no reason to expect any flow to bear a stable relationship to any other flow. Flows fluctuate in all sorts of combinations in response to stocks, not to other flows.
+		- Behavior based models are pretty good at predicting near-term performance, quite bad at predicting longer-term performance, and terrible at telling one how to improve performance.
+- **Linear Minds in a Nonlinear World**
+	- A **linear relationship** between two elements in a system can be drawn on a graph with a straight line. It’s a relationship with constant proportions.
+	- A **nonlinear relationship** is one in which the cause does not produce a proportional effect. The relationship can only be drawn with curves or wiggles, not with a straight line.
+	- The world is full of nonlinearities
+	- Nonlinearities *change the relative strengths of feedback loops*. They can flip a system from one mode of behavior to another.
+		- AKA “shifting dominance”
+- **Nonexistent Boundaries**
+	- There are no such things as “side-effects” is systems thinking. It’s all just system behavior that is predicted by the structure of the system.
+	- The clouds in systems diagrams set artificial boundaries for the purpose of simplifying the discussion of a system; however, these boundaries do not actually exist. They are the doorway to another system. Everything is connected to everything else, and not neatly.
+	- The world has no real boundaries, we create boundaries with concepts. Our conception of the world is an artificial mental-model, never the real truth of the world as it is. 
+		- We have to invent boundaries for clarity and sanity; and boundaries can produce problems when we forget that we’ve artificially created them.
+	- The greatest complexities occur precisely at “boundaries”. Disorderly, mixed-up borders are sources of diversity and creativity.
+	- Whether it’s legitimate to replace a stock with a cloud in a system diagram is dependent on whether the stock is likely to have a significant impact on the behavior of the system *over the time period of interest*.
+	- Clouds are a necessary part of models that describe metaphysical flows. If we’re to understand anything, we have to simplify, which means we have to make boundaries. Often, that’s a safe thing to do.
+	- There are no separate systems. The world is a continuum. Where to draw the boundary around a system depends on the purpose of the discussion—the questions we want to ask.
+	- It is necessary to make boundaries not too narrow—so as to not be surprised by system behavior—and not too wide—so as to not obscure the answers we’re looking for in piles of irrelevant information. Ideally, we would have the mental flexibility to find the appropriate boundary for thinking about each new problem.
+- **Layers of Limits**
+	- Any physical entity with multiple inputs and outputs is surrounded by layers of limits. 
+	- We don’t like to think about limits, especially when our own plans and desires are involved. 
+	- The **limiting factor** is the input that you don’t have enough of to keep going. It doesn’t matter how much of everything else you have. This is also referred to as the “law of the minimum”.
+		- At any given time, the input that is most important to the system is the one that is most limiting.
+	- This concept interacts with the artificial boundaries. The limiting factor might lie behind a “cloud”.
+	- Jay Forester’s corporate-growth model of shifting limits mirrors Alex Hormozi’s maxim to grow until something breaks, fix that bottleneck, and then repeat. 
+		- Insight comes from not only recognizing which factor is limiting, but from seeing that *growth itself depletes or enhances limits*, and therefore changes what is limiting.
+		- To shift attention from the abundant factors to the next potential limiting factor is to gain real understanding of, and control over, the growth process.
+	- For any physical entity in a finite environment, perpetual growth is impossible. Ultimately, the choice is not to grow forever but to decide what limits to live within.
+	- If limits aren’t self-imposed, they will be system-imposed.
+- **Ubiquitous Delays**
+	- We are surprised over and over again by how long things take.
+	- Jay Forester says that when modeling a delay, take your best guess and then multiply by 3.
+	- Every stock is a delay, and most flows have delays.
+	- Similar to boundaries, choosing what delays to model is dependent on the relevant time scale to the questions we want to ask. There are always delays—they can happen on the scale of microseconds or eons.
+	- Delays are often sensitive leverage points for policy—if they can be made shorter or longer they can drastically change system behavior.
+		- If a decision point in a system is responding to delayed information, or responding with a delay, actions taken may be too much or too little to achieve the decision maker’s goals. One the other hand, if action is taken too quickly, it may nervously amplify short-term variation and create unnecessary instability.
+	- Delays determine how fast systems can react, how accurately they hit their targets, and how timely is the information passed around a system.
+- **Bounded Rationality**
+	- The world presents us with multiple examples of people acting rationally in their short-term best interests and producing aggregate results that no one likes.
+	- Bounded rationality means that people make quite reasonable decision based on the information they have. But they don’t have perfect information, especially about more distant parts of the system.
+		- With all our cognitive biases, we don’t even make decisions that optimize our own individual good, much less the good of the system as a whole.
+	- Seeing how individual decisions are rational within the bounds of the information available does not provide an excuse for narrow-minded behavior. It provides an understanding of why that behavior arises.
+	- Change comes first from stepping outside the limited information that can be seen from any single place in the system and getting an overview.
+	- Self-regulatory systems are structured to function well despite bounded rationality. The right feedback gets to the right place at the right time.
+	- Putting new actors into the same system will not improve the system’s performance. What makes a difference is redesigning the system to improve the information, incentives, disincentives, goals, stresses, and constraints that have an effect on specific actors.
