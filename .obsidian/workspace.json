@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Home/00-Home.md",
+                "file": "01-Research Questions/Research Landscape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Home"
+              "title": "Research Landscape"
             }
           }
         ]
@@ -177,26 +177,26 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "footlinks:Footlinks": false,
-      "media-extended:Open media": false,
-      "map-of-content:Update Map of Content": false
+      "footlinks:Footlinks": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01-Research Questions/Core Research Question.md",
+    "00-Home/00-Home.md",
+    "01-Research Questions/Core Research Questions.md",
+    "04-Techniques/Techniques Index.md",
+    "04-Techniques",
+    "03-Artist Studies/Artist Index.md",
+    "02-Sources/Theory & Critique/AI is Inherently Evil - Annotated Reference.md",
+    "99-Templates/Annotated Reference Template.md",
+    "02-Sources/Theory & Critique",
     "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A stock with one reinforcing loop and one balancing loop—population….md",
     "01-Research Questions/Working Thesis.md",
     "02-Sources/Contextual Materials (technology, philosophy, adjacent fields)/Books/Thinking in Systems/A renewable stock contained by a nonrenewable stock—an oil economy.md",
@@ -217,11 +217,6 @@
     "Thinking In Systems/John Holmes Studio/Ephemera of Desire.md",
     "Thinking In Systems/New Media Nashville/Phase 0/How Curatorial Research is Conducted.md",
     "Thinking In Systems/New Media Nashville/Phase 0/What do I want to do next.md",
-    "Thinking In Systems/New Media Nashville/Phase 0/Grant Applications.md",
-    "Thinking In Systems/What mistakes did I make last time.md",
-    "Thinking In Systems/New Media Nashville/Phase 0/Based on Art + Com.md",
-    "Thinking In Systems/Education/Courses/TouchDesigner Bootcamp/SOPs Demystified.md",
-    "Thinking In Systems/John Holmes Studio/Identity.md",
     "Thinking In Systems/attachments/NMN THEORY OF CHANGE (Poster (US)).png.png",
     "Thinking In Systems/attachments/3BC72856-CEC2-48B7-A92A-BB96819607F9.png",
     "Thinking In Systems/attachments/IMG_0173.jpeg",
@@ -233,8 +228,6 @@
     "Thinking In Systems/attachments/IMG_9924.heic",
     "Thinking In Systems/attachments/7CBBD143-E3AA-4553-ACF9-D6E97440CAAE_1_201_a.heic",
     "Thinking In Systems/attachments/IMG_9880.heic",
-    "Thinking In Systems/attachments/IMG_9861.heic",
-    "Thinking In Systems/attachments/IMG_9860.heic",
     "Thinking In Systems/attachments/IMG_9851.png",
     "Thinking In Systems/attachments/IMG_9846.jpeg",
     "Thinking In Systems/attachments/Buchanan Arts Open Floor Plan Page 25.png",
