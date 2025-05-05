@@ -1,7 +1,0 @@
-- [[Nostalgia]] 
-- [[Perception]]
-- [[Agency]]
-- [[Anti-Capitalism]]
-- [[Porn]]
-- [[Social Media]]
-- 
