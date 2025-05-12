@@ -1,7 +1,10 @@
 [
-  "footlinks",
+  "obsidian-git",
   "homepage",
-  "longform",
+  "obsidian-importer",
+  "obsidian-dictionary-plugin",
+  "url-into-selection",
   "media-notes",
-  "url-into-selection"
+  "longform",
+  "obsidian-timeline"
 ]
