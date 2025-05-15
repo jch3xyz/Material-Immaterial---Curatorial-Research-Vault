@@ -1,5 +1,5 @@
 ---
-Source: "[[The Society of Spectacle#1. Separation Perfected]]"
+Source: "[[The Society of the Spectacle#1. Separation Perfected]]"
 Page: "7"
 ---
 [[The concentration of these media thus amounts to concentrating in the hands of the administrators of the existing system the means that enable them to carry on this particular form of administration.]]

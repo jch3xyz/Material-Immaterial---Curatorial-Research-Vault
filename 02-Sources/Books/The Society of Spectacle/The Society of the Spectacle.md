@@ -83,7 +83,15 @@ Topics:
 - [[Though alienated from what they produce, people now create every detail of their world with increasing power. Yet the closer their lives come to being their own creation, the more alienated they become from those lives.]] 
 - [[The spectacle is capital accumulated to the point that it becomes images.]] 
 ### 2. The Commodity as Spectacle
-- 
+- [[When commodities dominate all of society, we stop relating to each other and to ourselves as living, creative beings — and start seeing everything, including ourselves, as things.]] 
+- [[The spectacle's basic practice is to incorporate into itself all of the fluid aspects of human activity so as to possess them in a congealed for, and to invert living values into purely abstract values.]] 
+- [[The fetishism of the commodity attains its ultimate fulfillment in the spectacle, where the perceptible world is replaced by a selection of images projected above it, yet also succeeds in making itself regarded as the perceptible par excellence.]] 
+- [[The world at once present and absent that the spectacle holds up to view is the world of the commodity domination all living experience.]]
+- [[The development of the world of the commodity is identical to people's estrangement from each other and from everything they produce.]]
+- [[The commodity form reduces everything ti quantitative equivalence. The quantitative is what it develops, and it can develop only within the quantitative.]]
+- [[The entire economy then became that the commodity had already shown itself to be - a process of quantitative development.]]
+- [[The constant expansion of economic power in the form of commodities produced a level of abundance sufficient to solve the initial problem of survival - but only in such a way that the same problem is continually regenerated at a higher level.]] 
+- [[The abundance of commodities - that is, the abundance of commodity relations - amounts to nothing more than an augmented survival.]] 
 ### 3. Unity and Division Within Appearances
 ### 4. The Proletariat as Subject and Representation
 ### 5. Time and History

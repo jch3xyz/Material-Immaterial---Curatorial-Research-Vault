@@ -1,5 +1,5 @@
 ---
-Source: "[[The Society of Spectacle#1. Separation Perfected]]"
+Source: "[[The Society of the Spectacle#1. Separation Perfected]]"
 Page: "3"
 ---
 ## Thoughts

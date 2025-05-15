@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Sources/Books/The Society of Spectacle/The Society of Spectacle.md",
+                "file": "00-Home/00-Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Society of Spectacle"
+              "title": "00-Home"
             }
           }
         ]
@@ -183,20 +183,27 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "footlinks:Footlinks": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02-Sources/Books/The Society of Spectacle/Though alienated from what they produce, people now create every detail of their world with increasing power. Yet the closer their lives come to being their own creation, the more alienated they become from those lives..md",
+    "02-Sources/Books/The Society of Spectacle/The Society of the Spectacle.md",
+    "02-Sources/Books/The Society of Spectacle/The entire economy then became that the commodity had already shown itself to be - a process of quantitative development..md",
+    "02-Sources/Books/The Society of Spectacle/The fetishism of the commodity attains its ultimate fulfillment in the spectacle, where the perceptible world is replaced by a selection of images projected above it, yet also succeeds in making itself regarded as the perceptible par excellence..md",
+    "09-Research Based Artworks/Artworks Index.md",
+    "09-Research Based Artworks/Works In Progress/United In Separation.md",
+    "09-Research Based Artworks/Works In Progress/The Attention Economy.md",
+    "02-Sources/Books/The Society of Spectacle/The spectacle's basic practice is to incorporate into itself all of the fluid aspects of human activity so as to possess them in a congealed for, and to invert living values into purely abstract values..md",
+    "02-Sources/Books/The Society of Spectacle/When commodities dominate all of society, we stop relating to each other and to ourselves as living, creative beings — and start seeing everything, including ourselves, as things..md",
+    "01-Research Questions/Core Research Questions.md",
+    "00-Home/00-Home.md",
     "02-Sources/Books/The Society of Spectacle/The Society of Spectacle.md",
+    "02-Sources/Books/The Society of Spectacle/Though alienated from what they produce, people now create every detail of their world with increasing power. Yet the closer their lives come to being their own creation, the more alienated they become from those lives..md",
     "02-Sources/Books/The Society of Spectacle/The spectacle's social function is the concrete manufacture of alienation. Economic expansion consists primarily of the expansion of this particular sector of industrial production..md",
     "02-Sources/Books/The Society of Spectacle/The spectator does not feel at home anywhere, because the spectacle is everywhere..md",
     "02-Sources/Books/The Society of Spectacle/The alienation of the spectator works like this - the more he contemplates, the less he lives - the more he identifies with the dominant images of need, the less he understands his own life and desires..md",
-    "09-Research Based Artworks/Works In Progress/Spectators - United In Separation.md",
     "02-Sources/Books/The Society of Spectacle/Spectators are linked solely by their one-way relationship to the very center that keeps them isolated from each other. The spectacle thus reunites the separated, but it reunites them only in their separateness..md",
-    "09-Research Based Artworks/Artworks Index.md",
     "02-Sources/Books/The Society of Spectacle/The abstractifying of all individual labor and the general abstractness of what is produced are perfectly reflected in the spectacle, whose manner of being concrete is precisely abstraction..md",
     "02-Sources/Books/The Society of Spectacle/The goods that the spectacular system chooses to produce also serve it as weapons for constantly reinforcing the conditions that engender \"lonely crowds\". With ever-increasing concreteness the spectacle recreates its own presuppositions..md",
     "02-Sources/Books/The Society of Spectacle/In the course of this development, all community and all critical awareness have disintegrated, and the forces that were able to grow by separating from each other have not yet been reunited..md",
@@ -207,14 +214,6 @@
     "02-Sources/Books/The Society of Spectacle/If the administration of this society and all contact between people has become totally dependent on these means of instantaneous communication, it is because this \"communication\" is essentially unilateral..md",
     "02-Sources/Books/The Society of Spectacle/The spectacle is not the inevitable consequence of some supposedly natural technological development. The society of the spectacle is a form that chooses its own technological content..md",
     "02-Sources/Books/The Society of Spectacle/The fetishistic appearance of pure objectivity in spectacular relations conceals their true character as relations between people and between classes..md",
-    "02-Sources/Books/The Society of Spectacle/The spectacle plays the specialized role of speaking in the name of all other activities. It is hierarchical society's ambassador to itself, delivering its messages at a court where no one else is allowed to speak..md",
-    "02-Sources/Books/The Society of Spectacle/The root of the spectacle is that oldest of all social specializations, the specialization of power..md",
-    "02-Sources/Books/The Society of Spectacle/The spectacle is the bad dream of a modern society in chains and ultimately expresses nothing more than its wish for sleep. The spectacle is the guardian of that sleep..md",
-    "02-Sources/Books/The Society of Spectacle/As long as necessity is socially dreamed, dreaming will remain necessary..md",
-    "02-Sources/Books/The Society of Spectacle/The spectacle is the technological version of exiling human powers into a \"world beyond\" - the culmination of humanity's internal separation..md",
-    "02-Sources/Books/The Society of Spectacle/gesruvner.md",
-    "02-Sources/Books/The Society of Spectacle/Philosophy - the power of separate thought and the thought of separate power - was never by itself able to supersede theology..md",
-    "02-Sources/Books/The Society of Spectacle/Spectacular technology has not dispersed the religious mists into which human beings had projected their own alienated powers, it has merely brought those mists down to earth..md",
     "99-Templates",
     "10-Public Programming/Workshops",
     "10-Public Programming/Talks",
