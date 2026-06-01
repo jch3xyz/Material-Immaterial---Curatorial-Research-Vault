@@ -1,0 +1,1148 @@
+---
+book: "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"
+author: "Shoshana Zuboff"
+chapter: "Index"
+source_pages: "PDF pp. 440–477"
+type: source
+---
+
+# Index
+
+*Note: Page numbers with f refer to figures.*
+
+- About Behaviorism (Skinner), 326, 362
+- A/B tests, 298, 301
+- accidents: machine learning moves toward elimination of, 409, 414; as phenomena lacking information, 364, 367, 368, 412
+- accumulation by dispossession, 99
+- Acemoglu, Daron, 503–504
+- Acquisti, Alessandro, 460
+- action. See economies of action
+- actuation: as completion of means of behavioral modification, 293–294; definition of, 293; and internet of things, 203; and Pokémon Go, 312–319; and uncontracts, 334
+- Adams, Samuel, 503
+- adaptation stage of dispossession cycle: and Facebook, 160, 306; and Google Glass, 157; and Google Street View, 148–149; and information corruption, 511; tactics of, 140; and Verizon tracking, 169
+- addiction, 446, 449–451, 456
+- Addiction by Design (Schüll), 450
+- adolescence: and asymmetrical power of hive, 465–466; “discovery” of, 452; emerging adulthood, 446– 447, 449, 452–453, 467; and Facebook’s mastery of social proof, 456–457; homing to the herd in, 467; and selfhood, 453–454; social media molded to psychological needs of, 449, 451–452
+- Adorno, Theodor, 22, 359, 518
+- ad pricing, 76–77, 82–83
+- AdSense (Google), 83
+- Advanced Research and Development Activity (ARDA), 116
+- advertising: and bigotry, 509–510; and digital assistants, 259–260, 261, 262, 268–269; and emotion analytics, 282–284, 288–290, 305–306; expenditures, 162; and Facebook, 47–48, 160–161, 162, 278–279, 305–306, 307; and geo-targeting, 242–243; and Google, 47, 65, 71, 74–75, 77–80, 84, 162, 507–508; and internet of things, 210, 217, 239; and personality prediction, 273, 274, 277, 278– 279; and Pokémon Go, 314, 315–316, 318–319; public response to, 340; and smart cities, 230–231; and smart TVs, 264–265; and Verizon, 166–167, 166–168, 169–170; and wearables, 246–247
+- Advertising Age, 166–167
+- AdWords (Google), 71, 74, 76–77, 83, 92, 169
+- Affectiva, 288, 289–290
+- affective computing, 282, 285–290, 442. See also emotion analytics
+- Affective Computing (Picard), 285–286, 286–287
+- agreeableness, 275, 277–278
+- Ahmed, Nafeez, 118
+- AI. See machine intelligence
+- ALEC, 126
+- Alexa (Amazon digital assistant), 268–269
+- Alexander, Keith, 117–118
+- algorithms: manipulation of reality through, 186–187; not the same as surveillance capitalism, 16; oversight of, 484; Page Rank algorithm, 69; radicalism algorithm, 386, 393
+- Alibaba, 390
+- Allcott, Hunt, 507
+- Allen, Anita, 480
+- Allo (Google messaging app), 262
+- Allstate Insurance, 213
+- Alphabet (Google holding company): acquisition of AI tech by, 189; Nest under umbrella of, 6, 237, 264; new city proposal of, 231–232; Niantic Labs under umbrella of, 150, 311; revenues of, 93; Sidewalk Labs under umbrella of, 228. See also Google; Schmidt, Eric
+- Amazon: Alexa, 268–269; Dot speakers, 268; Echo, 261, 268, 269, 387; Lex, 268; turn toward surveillance capitalism, 9, 23, 268–269; and voice recognition, 263; and voice shopping, 218, 261
+- ambient computing. See ubiquitous computing
+- American Psychological Association, 325
+- American Revolution, 502–503
+- Americans for Tax Reform, 126
+- analysis, definition of, 65
+- analytics, 97f
+- “Anatomy of a Large-Scale Hypertextual Web Search Engine, The” (Brin and Page), 71
+- Android mobile phones: amount of users, 400–401; and cornering supply routes, 133–135; and games, 311; market share in Europe, 487; tracking on, 136–137, 154, 243–244
+- Angle, Colin, 235
+- Angwin, Julia, 168, 509
+- animal behavior: and homing to the herd, 467; MacKay’s tracking of, 204–207; Pentland’s study of, 418– 419; Skinner’s work with, 296, 361
+- anomalies, elimination/preemption of: in machine intelligence, 408, 409–410; Microsoft patent for, 411– 412. See also friction
+- Ant Financial, 390
+- antitrust investigations, 125–126, 127, 134, 138
+- AOL: Overture search engine, 71, 76; Verizon purchase of, 169–170
+- the apparatus. See ubiquitous computing
+- Apple: abuses of user expectations by, 50; apparent rejection of surveillance capitalism, 9, 23; the Apple inversion as hacking capitalism, 28–31, 46–47; criticisms of, 46–47; iOS platform, 248; Siri digital assistant, 269; and voice recognition, 263
+- applied utopistics, 404–407, 437–438; and machine relations, 407–411; speed as key element in, 421. See also Pentland, Alex; utopianism
+- Arendt, Hannah, 22, 139; on behaviorism, 382; on cycle of capital accumulation, 99; on export of capital to lawless regions, 104; on indignation, 522; on miracles as human freedom, 524; on totalitarianism, 358–359, 359–360, 383, 518; on tyranny, 513; on the will as the organ of the future, 330–331
+- ARM, 240
+- Armstrong, Tim, 169, 170, 171
+- Ars Technica, 165
+- artificial intelligence. See machine intelligence
+- artists, 489–491
+- association graphs, 79
+- astonishment, 195, 220, 340, 346–347, 357–358, 394–395. See also psychic numbing effect
+- asylum, right of, 478. See also right to sanctuary
+- asymmetries: collective action needed to challenge, 485–486; of knowledge, 11, 80–81, 181, 182, 281, 484, 498; of power, 185, 188–189, 281, 328
+- AT Kearney, 215, 216
+- Atlantic, 302–303
+- AT&T, 167
+- Auden, W. H.: Sonnets from China, 24; I, 98, 176, 398; II, 27; III, 495; VI, 63, 199; VII, 376; VIII, 445; IX, 329; X, 416; XI, 293, 351; “We Too Had Known Golden Hours,” 128
+- audio recording analysts, 263
+- augmented reality games: Ingress, 150, 312–313. See also Pokémon Go
+- Australia, 387
+- Australian, 305
+- Austria, 149
+- authority: and dangers of surveillance capitalism, 175; and digital dispossession, 100; as oldest political question, 3–5; as reason for success of surveillance capitalism, 343; and Spanish Conquest, 178; and utopianism, 437–438; who decides?, 181–182, 192, 223, 327, 328
+- autism, 286, 288
+- automation of people/behavior, 381; in casino design, 449–451; as goal of surveillance capitalism, 8, 339–340; through machine relations, 408–411; Microsoft patent for, 411–412. See also economies of action; means of behavioral modification
+- automobiles: car payments, 213, 215, 333, 335–336; Ford Motor Company, 63–64, 85–86; insurance companies, 213–218, 275; self-driving cars, 125, 413–414; vehicle telematics, 213, 214–215, 216– 218; vehicular monitoring systems, 213, 215, 219, 333, 336
+- Autonomous Technology (Winner), 220
+- autonomy: definition of, 308; and emerging adulthood, 454; relational autonomy, 453; Skinner rejects, 322–323, 364, 366, 367–368, 368–369, 380, 439; as source of friction, 319, 380, 381, 438, 441; as threat to instrumentarianism, 381, 444; as threat to surveillance capitalism, 307–309. See also free will
+- Aware Home, 5–6, 234–235, 247
+- awareness: and empathy, 307; instrumentarian power bypasses, 381, 424; observation ideally outside awareness of organism being observed, 204, 205–206, 246, 370, 424; self-awareness, 307–309; as threat to behavioral modification, 307–308, 370. See also autonomy; free will; secrecy
+- Bachelard, Gaston, 476, 477
+- Backslash Tool Kit, 490
+- “backstage,” 471
+- Baidu, 246, 263
+- balance of power. See reciprocity
+- Balkin, Jack, 119
+- Bank of America, 425
+- Barbie Dream House, 266–267
+- Battelle, John, 89
+- Bauman, Zygmunt, 45
+- Beacon (Facebook advertising tracker), 47–48, 91–92, 457
+- Bedoya, Alvaro, 253
+- behavioral data, 97f; behavioral surplus as 8, 69, 74–79, 81, 90, 92, 111–112, 179, 219, 233–234, 338– 339, 344; in behavioral value reinvestment cycle, 69–70, 70f, 74–75, 88, 97f, 297, 343; emotions as, 285; and Pentland’s work on sociometrics/reality mining, 419–421, 423–424; purposes of data collection, 22; significance of, 67–68; sources of, 8; surveillance capitalism claims right to, 179; tracking of location data, 137, 140, 154, 174, 242–245, 317, 318; used for targeted advertising, 74– 75, 78–81; why experience is rendered as, 94, 233–234. See also behavioral surplus; rendition
+- behavioral futures markets, 97f; about, 8, 96, 338; and auto insurance, 218; and certainty, 497; and Chinese social credit system, 390, 393; customer satisfaction in, 129; establishment of in real world, 153–155, 210, 217; extent of, 10; Facebook’s primary orientation to, 278–279; human experience as natural resource in, 100; need for rejection of, 344, 486; and Pokémon Go, 312, 316–317, 318–319; and supply routes, 129–130. See also behavioral surplus; internet of things; means of behavioral modification; prediction products
+- behavioral modification: awareness as threat to, 307–308, 370; critiques of, 323–324, 324–325; Facebook’s, 299–309, 468–469; gamification, 216, 313–314, 317, 325; herding approach, 8–9, 202, 295–296, 463; instrumentarianism’s use of, 397f, 428–429, 434–435; and Microsoft patent for monitoring mental states, 411–413; military applications of, 321–322; and Pokémon Go, 312–313; public concern over, 320, 322; through social comparison, 463; through social pressure, 435–437, 463; techniques of, 202, 294–297, 324–325, 339; and vehicle telematics, 215–216. See also means of behavioral modification; radical behaviorism; tuning approach to behavioral modification
+- behavioral prediction: as basis of behavioral futures markets, 9–10, 96, 100, 278–279, 351; Google’s mastery of, 83–85; as imperative of surveillance capitalism, 200–203; Skinner on, 380. See also behavioral futures markets; prediction products
+- behavioral surplus: cornering, 102–103, 130–133, 338; as digital breadcrumbs, 90, 422, 428; as digital exhaust, 68, 90, 163, 338; discovery of, 74–82, 97f, 338; and economies of scale, 131f, 169–170, 171, 195, 200–201, 214, 338; extension into offline world, 201; and extraction imperative, 87–92, 128–130, 131f, 201, 338; Facebook “Like” button as source of, 159, 457; and fortification strategies, 121–127, 341–342; and Pentland’s work on sociometrics, 420, 422, 425; regulation as threat to, 105; at scale, 82–85, 200–201; and secrecy, 88–89; sources of, 8, 111–112, 128–129, 131f, 239; and surveillance-as-a-service, 172–174; as surveillance assets, 94; value of, 93–94. See also depth of behavioral surplus; dispossession cycle; economies of action; economies of scope; machine intelligence; prediction products; rendition; shadow text
+- behavioral underwriting, 214–215
+- behavioral value reinvestment cycle, 69–70, 70f, 297; change in role of, 88; rarity of, 343; subordinated to targeting advertising, 74–75, 97f
+- “Behavior Change Implemented in Electronic Lifestyle Activity Monitors” study, 297–298
+- behavior for the greater good, 431–432. See also collectivism
+- behaviorism. See radical behaviorism
+- Behavior of Organisms, The (Skinner), 366
+- Bentham, Samuel, 470–471
+- Berkman Klein Center for Internet & Society, Harvard Law School, 387
+- Berlin Wall, 345
+- Bernstein, Joseph, 317
+- Beyond Freedom & Dignity (Skinner): criticisms of, 323, 326, 362; future based on behavioral modification in, 322–323; on ignorance, 364, 367–368, 369; individuality in, 439; on need for collectivism (behavior for the greater good), 431
+- Big Brother, 144, 352, 371, 372–373, 396f
+- Big Other, 20; the apparatus as, 376; and coup from above, 513–514; definition of, 376; and the end of sanctuary, 477–478; and instrumentarian power, 376–379; as metaphor of instrumentarian power, 396f; Pentland on, 427; radical indifference of, 377. See also instrumentarianism; ubiquitous computing
+- Bing search engine, 95, 162, 163
+- biomedical telemetry, 205–206
+- biometrics: in Chinese social credit system, 389, 392; data collected by Sleep Number bed, 236; and Facebook, 251–252; fingerprints, 389, 489; regulation of data collection, 125, 251, 252–253; used in emotion analytics products, 283, 289. See also emotion analytics; facial recognition; voice recognition; wearable technologies
+- Bitcoin, 442
+- blockchain, 442
+- Bloomberg, 76–77, 315
+- Bloomberg Businessweek, 28, 102, 263, 388, 511
+- Blumenthal, Richard, 146–147
+- body consciousness, 464
+- body rendition: through facial recognition, 251–253; through health care apps, 247–251; through location data, 242–245; through wearables, 246–248, 249
+- Bogost, Ian, 314
+- Boston Globe, 388
+- Boston Police Department, 388
+- Bosworth, Andrew, 457, 505–506
+- bots, “conversations” with, 164. See also digital assistants
+- boyd, danah, 455
+- Brandimarte, Laura, 460
+- Breen, T. H., 502, 503
+- Brexit vote (2016), 278, 507
+- Brin, Sergey: and advertising, 71, 84; on Carol Brady search data, 75; and Google corporate governance structure, 101–102; and Google’s secrecy, 89; rejection of resistance by, 157; on right to be forgotten ruling, 60
+- Britain. See United Kingdom
+- broadband privacy regulations, 171–172
+- Broadcom, 245
+- Brookings Institution, 182
+- Bryan, William Jennings, 106–107
+- Business Insider, 104–105
+- Business View, 153
+- Buttarelli, Giovanni, 487
+- BuzzFeed, 317, 505, 509–510
+- Cambridge Analytica, 273, 278–279, 279–281, 282, 482–483
+- Cambridge University Psychometrics Centre, 273
+- Canada, 144, 231–232, 387, 517
+- Cap Gemini, 218
+- Capital in the Twenty-First Century (Piketty), 43
+- capitalism: assumptions about, 495–496; distinction from surveillance capitalism, 22–23; end of, 517; as evolutionary process, 51; plasticity of, 520–521. See also capitalism, surveillance capitalism’s departure from history of; industrial capitalism; information capitalism; neoliberal market economics; surveillance capitalism
+- capitalism, surveillance capitalism’s departure from history of, 21, 495–512; abandoning reciprocities, 499–504; distinct from capitalism, 22–23, 495–499; insisting on unfettered freedom and knowledge, 495–499; and radical indifference, 504–512
+- “Carol Brady’s maiden name” search query, 75
+- Carter, Ash, 120
+- Carter, Jimmy, 40
+- Cartographer (Google), 152–153
+- casinos, 449–451
+- Cate, Fred, 120
+- Cato Institute, 126
+- causality, 32, 298, 434
+- cell phones. See smartphones
+- censorship: in China, 392–393; self-censorship, in “real life,” 471–472
+- Center for Media and Democracy, 126
+- Center for Public Integrity, 251
+- Central Intelligence Agency (CIA), 114, 116, 117, 321–322
+- certainty: and auto insurance, 212–218; and behavioral futures markets, 497; in instrumentarianism, 396f, 515–516; instrumentarian power aims for, in form of guaranteed outcomes, 378; internet of things enabling, 203; and Skinner’s vision, 364, 367, 368–369, 379–380; substituted for society, 384, 388– 394; surveillance capitalism offers, 383. See also knowledge; totality; uncertainty
+- Chambers, Chris, 303
+- children/youth: compulsion to social media, 451–452; emerging adulthood, 446–447, 449, 452–453, 467; experience of hive life, 445–449; as pioneers on the new frontier of power, 444; social media addiction of, 445, 446–447. See also adolescence
+- chilling effect, 472; and extended chilling effect, 472, 489
+- China: conflation of instrumentarian and authoritarian power in, 389, 393–394; crisis of social trust in, 389–390; funding Pentland’s research lab, 417; Shenzhen trade show and surveillance technology industry, 393–394, 395; Skinner’s views on, 443; social credit system in, 388–394; use of location data in, 246
+- China Daily, 391
+- chips, 189, 245, 289, 392
+- choice architectures, 294, 370
+- Chomsky, Noam, 323, 441
+- Choudhury, Tanzeem, 419, 420
+- Chrome browser, 400, 487
+- CIA (Central Intelligence Agency), 114, 116, 117, 321–322
+- Cisco, 227, 264, 417
+- Cisco Kinetic, 227–228
+- cities, 227–232
+- civil society organizations, 126
+- Clapper, James, 387
+- click-through rates, 76, 82, 83–84, 95–96, 277
+- click-wrap agreements, 48–50, 108
+- climate, sensors of, 206
+- climate change, 126, 346
+- cloud, the: Google’s, 188, 218; and human relationships, 410; and machine relations, 408; Microsoft’s, 400
+- Cohen, Jared, 103, 223
+- Cohen, Leonard, 255
+- cold war, 108, 320–321
+- collaboration: and contractual agreements, 333, 334, 335–336, 337; and social pressure, 435–436
+- collective action: confluence as new form of, 409, 413; and contractual agreements, 333; needed to challenge asymmetries of knowledge and power, 344–345, 485–486, 520–525
+- collective decision making, 407, 432–433
+- collective mind. See hive mind
+- collectivism: behavior for the greater good, 431–432; and death of individuality, 436–437, 438–440, 444, 469; neoliberal ideology in opposition to, 38, 39, 108, 504–505; and surveillance capitalism’s collectivist social vision as departure from market democracy, 21, 495, 504–512, 519. See also hive mind
+- Columbus, Christopher, 176–177
+- Columbus, Ohio, 229
+- co-marketing, 217
+- commodity fictions (Polanyi), 99, 345–346, 514
+- Common Rule (legal standards for experimentation), 303–304, 320, 325
+- Communications Decency Act (1996), Section 230, 110–112
+- communism, 321
+- Communist Manifesto, The (Marx and Engels), 222
+- Communist Party, 356, 389
+- compulsion: elements of, 451; and mobile advertising, 242–243; of social media, 449–453, 457–458, 463, 466–467; through uncontract, 221
+- CompuServe, 111
+- “Computer for the 21st Century, The” (Weiser), 199–202, 398
+- computer-mediated transactions, new uses of, 64–65, 212–213, 256
+- Concept of the Corporation (Drucker), 64
+- conditioning: definition of, 296–297; “mind control” as system of, 322; operant conditioning, 296, 322, 361
+- confluence: as core social process of instrumentarianism, 397f; in the hive, 466; as machine relations, 20– 21, 407–411; as new form of collective action, 409, 413; as new template for social order, 21, 411– 415, 429
+- conquerors, Spanish, 12, 176–177, 177–178, 193
+- conquest: through declaration, 176–180; and domination of souls, 354, 359, 365
+- Conquest, Robert, 356, 357
+- conquest pattern, 176, 177–178, 338
+- conscientiousness, 275, 277
+- consciousness. See awareness
+- consent: and broadband privacy regulations, 171–172; and emotion analytics, 291–292; in EU regulations, 481; and facial recognition, 253; and online contracts, 48–50. See also decision rights; opt-out policies; rendition
+- conservative-libertarian agenda, 109
+- Constitutional law: First Amendment rights, 60, 108–109, 325; Fourth Amendment rights, 480–481
+- “Constitution in the National Surveillance State, The” (Balkin), 119
+- consumers, 29–30, 31, 33, 87; and the Apple inversion, 46; and historical role in evolution of capitalism, 51, 257; and online contracts, 49–50; and traditional reciprocities with producers, 499–503. See also Federal Communications Commission (FCC); privacy
+- Consumer Watchdog, 17, 507–508
+- contagion effect, through online manipulation, 300, 301–302, 306–307
+- content moderation, 506, 508–509
+- context aggregation, 209
+- continuous experimentation, 298–299; by Facebook, 299–309; as new use of computer-mediated transactions, 64, 213, 298; Pokémon Go as, 309–319
+- contracts: and empathy, 335–336; “new contractual forms due to better monitoring,” 64, 213, 218–219; uncontracts, 218–221, 295, 333–336. See also reciprocity
+- contracts, online, 48–50, 108, 237
+- contract utopia, 334
+- convenience, 18, 30, 257, 383, 429
+- conversation: and digital assistants, 260–261
+- conversational commerce, 164
+- cookies: development of, 86; and “Like” button, 159; quantities of, 136; regulation of, 86–87; and Verizon, 167; zombie cookies, 167, 168
+- cooperation. See collaboration; collective decision making
+- cornering, of behavioral surplus supplies, 130–138, 338
+- corporate action as speech, 109
+- Cortana (Microsoft digital assistant), 163–164, 165, 255, 400
+- Costeja González, Mario, 58, 59
+- counter-declarations (form of resistance/withdrawing social agreement), 345, 489–492. See also regulations; synthetic declarations
+- coup from above, 21, 513–516
+- Couzens, James, 64
+- Covisint, 217
+- creative destruction, 50, 51
+- credit scores, 172–173, 393
+- Creemers, Rogier, 393
+- cryptocurrencies, 442
+- Cubrilovic, Nik, 159
+- Cukier, Kenneth, 68
+- culture, intentional design of, 431
+- customers: as source of organic capitalist reciprocities, 31–32, 40, 501–504; vs users, 10, 69, 77, 82, 93–94, 96, 129
+- customization. See personalization
+- cyberlibertarianism, 109
+- Daily Beast, 42
+- dark data, 210–211
+- data: dark data, 210–211; definition of, 65; meta-data, 117–118, 245, 272–273, 275; traffic/transit data, 228–229, 230. See also behavioral data
+- data exhaust, 67–70; as digital breadcrumbs, 90, 422, 428; as digital exhaust, 90; as euphemism and misdirection, 90; as source of behavioral surplus, 74–78, 81, 338
+- data extraction and analysis: as basis of the extraction imperative, 87–88; definition of, 65; as new use of computer-mediated transactions, 64, 65, 213
+- datafication: definition of, 187–188; and rendition, 234
+- Datalogix, 160–161
+- data mining, 67–68, 116–117, 420. See also reality mining
+- data ownership: data as private property, 172; and EU regulations, 481; and Fourth Amendment, 480–481; Pentland’s view of, 441–442. See also data protection
+- data protection: and Facebook, 482–485; General Data Protection Regulation (GDPR), 481, 485, 487– 488; and Google Street View, 143–149; in Spain/EU, 57–60. See also data ownership; Federal Communications Commission (FCC); Federal Trade Commission (FTC)
+- data scientists: and economies of action, 295; on the internet of things, 224–225; interviewing of, 24, 224; “missing generation” of (lured to tech firms), 189–190
+- debt, 215, 335, 391
+- decision rights: and continuous experimentation, 298; definition of, 90; public response to loss of, 340; surveillance capitalism’s usurpation of, 179; as privileges of the wealthy, 257
+- declarations: conquest by, 176–180, 193, 341; counter-declarations, 345, 489–492; definition of, 177; Google’s, 179–180; and Spanish conquest, 177–178; synthetic declarations, 345, 395, 480, 524–525
+- De Filippi, Primavera, 442
+- Dehaye, Paul-Olivier, 482–485
+- de las Casas, Bartolomé, 178
+- Dell, 217
+- Deloitte, 214, 216–217, 417, 425
+- democracy: and collective decision making, 433; and division of learning in society, 191–192; Google refuses to cooperate with in Street View investigations, 144–148; and industrial capitalism, 107, 501–504; and neoliberalism, 108, 505; pace of vs tech companies, 104–105, 115; Skinner’s rejection of, 373, 433; surveillance capitalism as threat to, 21, 512–513, 516–519; and trends in information society, 191; USSR Constitution described as, 356. See also electoral politics
+- democratic “recession” (deconsolidation), 516–518; and surveillance capitalism, 518–519
+- Dempsey, James, 120
+- dependency: and habituation, 140; on “the others,” 447–448, 456–457, 465; and psychic numbing effect, 11; and success of surveillance capitalism, 342, 397f. See also reciprocity; rendition
+- depression, 275, 287, 446, 464–465
+- depth of behavioral surplus (second dimension of economies of scope), 201, 241, 339; and affective computing, 282–290; and digital assistants, 255–262, 268–269; and Facebook personality prediction, 271–276, 278–282; and IBM personality prediction, 276–278; and voice recognition, 262–268. See also personalization
+- destruction rhetoric, 50, 51
+- Diageo, 239
+- DIALOG, 270–271
+- digital assistants: Amazon’s Alexa, 268–269; Apple’s Siri, 269; and conversation, 260–261; Facebook’s M, 259; Google Assistant, 6, 401, 402; Google Now, 256–259; herding toward commerce, 259–260; as inevitable, 257; Microsoft’s Cortana, 163–164, 165, 255, 400; Samsung’s Viv, 269; as supply routes for behavioral surplus, 268–269
+- digital dispossession, 99, 100, 150–151, 210–211. See also dispossession cycle
+- digitalization: capacity for, 187–188; of music, 29–30; resistance to, 139; of work, 180–181
+- digital natives, 447
+- digital omniscience, 208–209, 223, 229, 402. See also Big Other
+- disclosure: of Google as source of funding for research papers, 126; by Microsoft, about extent of Cortana’s knowledge, 164. See also consent; decision rights; privacy policies
+- Disconnect, Inc., 135, 137–138
+- Disney, 316
+- dispossession, accumulation by, 99
+- dispossession, digital, 99, 100, 150–151, 210–211
+- dispossession cycle, 138–155, 342; adaptation stage, 140, 148–149, 306; competition in, 158–166; habituation stage, 140, 145–148, 306; incursion stage, 139–140, 141–145, 306; progression from knowledge to influence to control, 153–154, 420; redirection stage, 140, 149–155, 306
+- division of labor, 32, 183–185, 347–348
+- Division of Labor in Society, The (Durkheim), 183
+- division of learning in society: as cause of user ignorance, 343–344; essential questions of, 181–183, 327–328; instrumentarian power’s command over, 379, 396f; and new priesthood, 187–190; as principle of social order, 185–186, 190–192; privatization of, 19, 190–192; and problem of the two texts, 186–187; surveillance capitalism’s dominance over, 180, 351–352;
+- Doctoroff, Dan, 228, 229, 230–231
+- Doctrine of Fascism, The (Mussolini and Gentile), 354
+- Doerr, John, 72, 76
+- Domingos, Pedro, 191
+- DoppelLab, 208
+- dot-com economy, 72–73
+- DoubleClick, 161
+- double movement, 39–40, 52, 182, 395, 500–501
+- Douglas, William O., 90
+- Driving Mode, 154
+- Drucker, Peter, 64
+- Dublon, Gershon, 209
+- Dulles, Allen, 321
+- Duranty, Walter, 356
+- Durkheim, Emile, 22, 32, 183–187, 192
+- Eagle, Nathan, 420, 421, 423
+- eBay, 393
+- “economic orientation” (Max Weber), 16, 297, 346; of Google, 77
+- economies of action, 131f, 195, 202, 293–299, 339; and actuation/means of behavioral modification, 293–294; approaches to, 294–297; in China’s social credit system, 389–391; and Facebook’s user experiments, 299–309; and “for-profit cities,” 231; and games, 311; and means of behavioral modification, 203; and Pokémon Go, 309–329; and vehicle telematics, 213, 215
+- economies of scale, 131f, 195, 200–201, 338; in totalitarianism, 359; and vehicle telematics, 214
+- economies of scope, 131f, 195, 339; and depth of behavioral surplus extraction (second dimension of economies of scope), 201, 241, 339; and extension of extraction operations into offline world (first dimension of economies of scope), 201, 241, 339; and “for-profit cities,” 231; rendition activities in, 241; shift toward, 201–202; and vehicle telematics, 213, 214. See also extension of extraction operations into offline world (first dimension of economies of scope); depth of behavioral surplus (second dimension of economies of scope)
+- Economist, 391
+- Edelman, Benjamin, 130–132
+- Edison, Thomas, 16–17, 184, 520
+- “Education after Auschwitz” (Adorno), 518
+- Edwards, Douglas, 89, 98
+- effective life, human need for, 11, 32–33, 43–44, 53, 256–257, 342, 347, 518
+- Ekman, Paul, 285
+- electoral politics: Cambridge Analytica’s involvement in, 278, 280; and Facebook user experiments, 299–300, 301, 436; funding for election campaigns, 43, 109; Google’s involvement in, 122–124, 341–342; and online disinformation, 508, 510
+- Electric Horseman, The (Garland), 233
+- Electronic Frontier Foundation (EFF), 165, 167
+- Electronic Privacy Information Center (EPIC), 114, 139, 144, 160, 169, 318
+- electronic text, 181, 182–183, 186–187, 270. See also shadow text
+- electrophysiology, 324–325
+- emerging adulthood, 446–447, 449, 452–453, 467
+- Emoshape, 289
+- emotion analytics, 282–290; and Affectiva, 288–290; and consent, 291–292; development of, 285–287; revenues from, 287; SEWA project, 282–284
+- emotions: emotional toll of social media, 445, 446; manipulation of by Facebook, 301–302, 305–306, 307; Microsoft patent for monitoring mental states, 411–412; and reinforcement for social harmony, 435. See also emotion analytics; empathy; mental health
+- empathy, 302; and awareness, 307; and contractual agreements, 335–336; and Facebook emotional contagion experiments, 302, 436; and Pentland’s social theory, 437
+- employment levels, 42, 56, 500
+- Endor, 425
+- Englehardt, Steven, 136
+- entrepreneurs, 41, 99, 342
+- envy, 463
+- equivalence without equality: and Facebook, 505–506, 507, 509; as “radical indifference,” 377; as the “reality business,” 399; and targeted advertising, 509–510; and tyranny, 513
+- Erikson, Erik, 36, 452
+- Ervin, Sam, 320, 323–324
+- ethics. See morality
+- euphemism, used to obfuscate surveillance capitalism, 90–91, 210–211
+- European Council, 387
+- European Union: Android antitrust investigation, 134, 138; General Data Protection Regulation (GDPR), 481, 485, 487–488; Safe Harbor Framework, 160, 486
+- EU Commission, 103, 282, 417
+- EU Court of Justice, 59–60, 486
+- Evil by Design (Nodder), 456
+- exceptionalism. See surveillance exceptionalism
+- execution architectures, 203, 213, 218
+- exits. See no exit
+- Exodus Privacy, 137
+- “Experimental Evidence of Massive-Scale Emotional Contagion Through Social Networks” (Kramer, Guillory, and Hancock), 301
+- experimentation: Common Rule legal standards for, 303–304, 320, 325; Facebook user experiments in electoral politics, 299–300, 301, 436; Facebook user experiments in manipulating emotional contagion, 301–302, 305–306, 307
+- experimentation, continuous, 298–299; by Facebook, 299–309; as new use of computer-mediated transactions, 64, 213, 298; Pokémon Go as, 309–319
+- extension of extraction operations into offline world (first dimension of economies of scope), 201, 241, 339; as facial recognition, 251–253; as healthcare, 247–251; as location data, 242–246; as wearables, 246–247
+- extraction: definition of, 65
+- extraction architectures, 129, 202
+- extraction imperative, 87–92; drive for new sources of behavioral surplus, 131f; and push for scale in supply operations, 128–130, 201, 338. See also prediction imperative
+- Fabbrini, Federico, 60
+- Facebook: acquisition of startups by, 103; addictive design of, 451, 456–457; Beacon program, 47–48, 91–92, 457; and Cambridge Analytica, 278–279, 279–280; content moderation on, 508–509; as content provider, 506–507; corporate governance structure, 102, 511; and disinformation, 508–509, 510, 511; and dispossession cycle, 159; and emotion analytics, 287; evading surveillance by, 491; and facial recognition, 251–252; FBLearner Flow machine intelligence platform, 279, 484; and FOMO, 463; and GDPR, 487–488; growth rate in Europe, 486; and instrumentarianism, 402–403, 407, 468–469, 497; involvement in electoral politics, 299–300, 301, 436; and lawlessness of cyberspace, 251–252; “Like” button, 159–161, 274, 275, 457–458, 491; lobbying by, 125, 252; manipulation of reality through algorithms that select and order information, 186–187; market capitalization of, 500; M digital assistant, 259; and mental health, 446, 463–465; patents filed by, 159–160, 393; and personality prediction, 271–273, 273–275, 278–279, 280; and privacy norms, 274; and radical indifference, 505–506; and requests for personal data, 482–484; revenues of, 161– 162, 405; and self-presentation, 462, 464, 472; study of surveillance capitalist practices of, 24; surveillance capitalism spreads to, 9, 91–92; targeted advertising by, 160–161; tracking by, 136, 159–160, 160–161, 482; user experiments by (contagion experiments), 19–20, 299–309, 436, 457; and young people’s psychological needs, 446–447, 456–457; and zombie cookie, 168. See also Facebook News Feed
+- Facebook Messenger, 259
+- Facebook News Feed: and fake news, 507; favoring discussion, 511–512; history of, 458–460; and “Like” button, 457; manipulation of, 186, 299, 301, 303
+- Facebook profiles: reflecting real personalities, 272–273
+- Facial Action Coding System (FACS), 285
+- facial recognition: and emotion analytics, 283; Facebook’s use of, 251–252; hiding from, 489, 490–491; surveillance capitalists’ opposition to regulation of, 251–253
+- fake news, 507, 509–510
+- fascism, 323, 354, 518
+- FBLearner Flow, 279, 484
+- fear of missing out (FOMO), 462–463
+- Federal Communications Commission (FCC): and Google Glass, 157; investigation into Google Street View Spy-Fi scandal, 145–146; proposed consumer privacy guidelines for ISPs, 169–172; and Verizon tracking, 169, 170
+- Federalist Society, 126
+- Federal Trade Commission (FTC): and cookies, 86; and credit scoring, 393; and Facebook privacy, 160; and Google antitrust case, 125–126; and Google privacy, 161; as key actor defining internet privacy debate, 113; and mobile health apps, 248; and Pokémon Go, 318; and post-9/11 focus on security, 114; and Vizio smart TVs, 265–266
+- Felten, Edward, 245
+- Ferguson, Andrew Guthrie, 481
+- Ferrary, Michel, 73
+- feudalism, 109
+- FidZup, 137
+- Financial Times, 60, 145, 162, 315, 316, 401
+- finger gestures, sensors reading, 208, 246, 260
+- fingerprints, 389, 489
+- First Amendment rights (freedom of expression/speech), 60, 325; claimed as defense of surveillance capitalism, 108–112, 253
+- first modernity, 33–34, 35–36, 87–88, 184–185
+- first-person voice: and identity formation, 454; right to speak in the first person, 291, 330; and the will to will, 291, 330. See also autonomy; self, the; self-determination
+- Fiske, Susan, 301, 302–303
+- Fitbits, 387
+- fitness trackers, 249–250
+- five-factor personality model, 272, 273, 275, 276, 277–278, 285
+- Fleischer, Peter, 141–142
+- Flow (Sidewalk Labs/Google Traffic Management System), 228–231
+- FOMO (fear of missing out), 462–463
+- Food and Drug Administration, 248–249
+- Forbes, 169
+- Ford, Henry, 16–17, 29, 31, 64, 85–86, 87, 96, 335, 499, 520, 544n43
+- Ford Motor Company, 63–64, 85–86, 552n6
+- Foreign Policy, 389
+- Forster, Nathaniel, 257
+- fortification strategies (Google), 121–127, 341–342
+- Fourth Amendment rights, 480–481
+- Franken, Al, 318
+- Franks, Mary Anne, 118
+- freedom: and capitalism, 495–496, 498; and ignorance, 364, 366, 367–368, 412, 439, 496–497; and the self, 290–291; Senate subcommittee’s 1974 defense of, against behavioral modification, 323–324; Skinner rejects, 322–323, 380, 412–413
+- freedom from law (Google cry freedom strategy), 101–107
+- freedom of speech: as elemental right, 332; equated with Google’s incursions, 143; under First Amendment, 108–109; First Amendment rights (freedom of expression/speech), 60, 108–109, 325; as justification for unobstructed commercial application of technology, 106. See also First Amendment rights
+- free internet, hidden cost of, 172, 213, 228
+- free markets, 38, 373, 498. See also neoliberal market economics
+- free services, hidden cost of, 18
+- free speech fundamentalism (Pasquale), 109, 110
+- free will, 20; autonomous action as, 308; and commitment to the future, 331–332; Pentland on (and behaviorism), 439, 440, 441; and scientific knowledge, 364; Skinnerian view of (and behaviorism), 366, 367, 368, 380, 439. See also autonomy
+- friction: be the friction (resistance to surveillance capitalism), 21, 327–328, 520–525; independent thought as source of, 319, 380, 381, 438, 441; politics as source of, 433, 434; privacy as source of, 249; social trust as, 336; surveillance capitalism pursues elimination of, 210, 241, 261, 381; users’ decision rights as source of, 79–80
+- Friedman, Milton, 38, 520
+- Friedrich, Carl, 357, 358, 359, 394, 632n21
+- Friesen, Wallace, 285
+- fusion, psychological: as characteristic of adolescent relationships, 453–454, 458, 464, 468; and Facebook engineering design, 458, 459–460; with slot machine, 450
+- gamification, 216, 313–314, 317, 325
+- gaming industry technology, as behavioral engineering, 369–370, 449–451
+- Garcia-Martinez, Antonio, 306
+- Garland, Robert, 233
+- General Data Protection Regulation (GDPR), 481, 485, 487–488
+- General Motors (GM), 9, 29, 63, 64, 217, 500–501
+- “Generating User Information for Use in Targeted Advertising” patent (2003), 77–80
+- Generation Z, 447. See also adolescence
+- Genesis Toys, 266
+- genocide, 353, 356, 359, 365
+- Gentile, Giovanni, 354
+- Gentzkow, Matthew, 507
+- Geofeedia, 387–388
+- geofencing, 242
+- geotags, 242
+- Germany: commitment to democracy in, 517; Federal Commission for Data Protection, 143; Federal Network Agency, 267; responses to terrorism in, 114, 386; Street View in, 142, 143–144, 148–149; totalitarianism in, 355, 359
+- Gilded Age robber barons, 16–17, 52, 105–107, 524
+- Global Internet Forum to Counter Terrorism, 386
+- Gmail, 47, 139, 141, 161, 400
+- God’s eye view (observation from a distance), 418–419, 430, 434, 436; Facebook’s use of, 459–460, 470
+- Goebbels, Joseph, 355
+- Goethe, Johann Wolfgang von, 404, 481
+- Goffman, Erving, 471–472
+- “good samaritan” blocking of offensive material, 111
+- Google: 2017 user and device statistics, 400–401; campaign of influence over academic work/cultural conversation, 122, 125–127; concentration of AI talent at, 189, 190; and content moderation, 509; as content provider, 132, 506–507; continuous experimentation by, 298; corporate governance structure, 101–102, 511; declarations of conquest, 179, 341; and digital dispossession, 98–101; and disinformation, 507–508, 509–510, 511; and “for-profit cities,” 228–232; fortification strategies, 122–127, 341–342; founding of, 67; funding Pentland’s research lab, 417; grants to antigovernment groups, 126; and hyperscale operations (material infrastructure), 188–189, 500; and instrumentarianism, 401–402; and intelligence agencies, 115–120; involvement in electoral politics, 122–124; lack of cooperation with investigations/democracy, in Street View violations, 144–148; and lawlessness of cyberspace, 104–105; lawsuits against, 64, 139, 144, 146–147; lobbying by, 122, 124–125; manipulation of reality through algorithms that select and order information, 186–187; market capitalization of, 500; market share in Europe, 487; and Nest thermostat, 6; patents filed by, 77–80, 150; and Pentland, 417; personnel migrating to/from Obama administration, 122, 124; as pioneer/inventor of surveillance capitalism, 9–10, 18–19, 63–67; quantity of “products,” 129; relationship with users, 88; response to terrorism, 386; retaining search histories, 15; revenues of, 87, 93, 405; and “right to be forgotten” ruling, 27, 57–61; search for capitalism, 71–74; secrecy of, 64, 88–90; on “smart” products, 239; study of surveillance capitalist practices of, 24; and telematics, 217–218; tracking by, 136, 161, 168, 243–244; and voice recognition, 263; and wearables, 246; work on machine intelligence, 65. See also Alphabet (Google holding company); Brin, Sergey; Google, and advertising; Google products; Page, Larry; Schmidt, Eric; Varian, Hal
+- Google, and advertising: antipathy toward at inception of company, 71; Google’s development of targeted advertising, 65, 74–75; and market dominance, 162; ownership of third party domains, 135–136; patent for generating user personal information (UPI) for use in, 77–80, 81; pricing for ads, 76–77, 82–83; share of online ad market, 162; targeted ads served through Gmail, 47
+- Google antitrust case, 125–126
+- Google digital assistant: Google Assistant, 261–262, 401, 402; Google Home, 261, 262, 269; Google Now, 256–259, 261; and Nest thermostat, 6
+- Google France, 218
+- Google Maps, 142, 149, 150–151; can’t turn it off, 154; Driving Mode, 154; and “for-profit cities,” 230; mapping interior spaces, 152–153; and Pokémon Go, 310–311; and telemetry, 218; user statistics, 400. See also Google Street View
+- Google official blog: and Google Glass, 157–158; and Google Maps, 152–153; and Street View, 141– 142, 144, 148
+- Google Play, 134; Disconnect app banned from, 137, 138; location monitoring by, 154; number of users, 401
+- Google Policy Fellows for 2014, 126
+- Google products: AdSense, 83; AdWords, 71, 74, 76–77, 83, 92, 169; Allo, 262; Chrome browser, 400, 487; Gmail, 47, 134, 139, 141, 161, 400; Google+, 139; Google Buzz, 139, 156; Google Drive, 401; Google Earth, 142–143, 311; Google Glass, 139, 156–158, 417; Google Home, 261, 262, 269; Google Now, 256–259; Google Photos, 401; Google Timeline, 244; Google Toolbar, 130–132; YouTube, 102–103, 289, 401. See also Google digital assistant; Google Maps; Google Search; Google Street View
+- Google Search: behavioral data byproduct of, 67–68; and discovery of behavioral surplus, 74–82; early balance of power in process improvement, 68; as means of training machine intelligence capabilities, 95; as supply route (and extraction imperative), 130–132
+- Google Street View, 141–155; adaptation stage of, 148–149; Google cars collecting personal data from private Wi-Fi networks, 143–144; habituation stage of, 145–148; incursion stage of, 141–145; redirection stage of, 149–155; resistance to collection of personal information through, 139–140, 143–144, 148–149; surveillance-gathering tools of (vehicles etc.), 142, 151–152
+- Google Transparency Project, 124
+- “Googlization of the Far Right, The” (Center for Media and Democracy), 126
+- Gould, Jay, 106
+- Graepel, Thore, 274
+- Granovetter, Mark, 73
+- Grapes of Wrath, The (Steinbeck), 226
+- Green, Harriet, 210, 211
+- Grimmelmann, James, 304
+- Grosser, Benjamin, 491
+- Ground Truth (Google), 151
+- Grove, Andy, 104
+- Guardian, 162, 229, 302, 303, 306, 448
+- habituation stage of dispossession cycle: and Facebook, 159–160, 306; and Google Glass, 157–158; and Google Street View, 145–148; and instrumentarianism, 398–399; and rendition of the self, 278; and “smart” toys, 266–267, 267–268; tactics of, 140, 147, 157–158; and Verizon tracking, 168–169; through workplaces, 153, 157–158, 422–423, 424–425, 426
+- Hall, G. Stanley, 452, 453
+- “Hallelujah” (Cohen), 255
+- Hancock, Jeffrey, 303
+- Hanke, John: and Google Earth, 117, 142, 311; on Google Glass, 156; and Google Maps, 117, 142, 310– 311; and Google Street View, 142–143, 147–148, 310; and Ingress virtual reality game, 150; intelligence community connections, 117, 142; and Niantic Labs, 150, 310–312; and Pokémon Go, 310–311, 313, 315, 316, 317
+- Harley, John B., 155
+- Harvard Law Review, 326
+- Harvey, Adam, 490–491
+- Harvey, David, 99
+- hate speech: and calculation of radical indifference in Facebook content moderation, 509–510; First Amendment rejection of restrictions on, 109
+- Hawkins, Amy, 389–390
+- Hayden, Michael, 114
+- Hayek, Friedrich, 37–39, 106–108, 181, 496–498, 505, 519–520
+- health care: and internet of things, 247–251; and wearable technologies, 240, 247–249
+- health insurance, 216, 295
+- Heatherton, Todd, 308
+- Heinrich, Bernd, 467
+- herding approach to behavioral modification, 8–9, 202, 295–296, 463
+- Heritage Action, 126
+- Herrnstein, Richard, 368
+- heteronomy, 308, 320
+- Heyman, Steven, 109
+- hiding, from surveillance, 489–492
+- Hilbert, Martin, 183, 188
+- Hildebrand, Grant, 475
+- hiQ, 174
+- Hive (Facebook data log storage area), 483
+- the hive: for children/youth, 444, 445–449, 465–466; and compulsion, 449–450, 451; dangers of, 455– 456, 492; and Facebook design, 451, 456–461; and homing to the herd, 465–470; as instrumentarianism’s ideal for a third modernity, 443–445; life in, 445–474; and no exit, 470–474; psychological processes in, 461–465; and psychological processes of adolescence, 449, 452–455; and social comparison, 461–465. See also hive mind
+- hive mind: as core social process of instrumentarianism, 397f; instrumentarian society as, 20–21, 419; human hive, 414–415; machine confluence as, 409; machine hive, 413–415, 492; and radical indifference, 504–512; and social hive, 431; social pressure exerted by, 436–437
+- HIV research, 61–62
+- Hoffman-Andrews, Jacob, 167, 168
+- Hölzle, Urs, 189
+- home: and Big Other, 477–479; and digital assistants, 261–262; house fire, author’s, 12–13, 475–476; and lack of Fourth Amendment protection from Big Other, 480–481; as private domain, 6, 478–479; search for, 4–5; as sanctuary of self, 475–477. See also smart-home devices
+- Homer, 3
+- homing to the herd, 467
+- Hoofnagle, Chris Jay, 114
+- Horowitz, Brad, 417
+- “horseless-carriage” syndrome, 12, 20, 156, 220, 341, 353
+- Hounshell, David, 86
+- house fire, author’s, 12–13, 475–476
+- Howard, Philip, 122–123
+- human agency: and inevitabilism, 223, 225–227; Skinner rejects, 364; uncontract bypasses in favor of compulsion, 221. See also autonomy; free will
+- human experience: as natural resource, 98–101, 179, 328, 515; the self as inward space of, 290–292; why experience is rendered as behavioral data, 233
+- human frailty, ideology of, 343
+- Humanyze (formerly Sociometric Solutions), 424–425
+- Hwang, Jenq-Neng, 206
+- hyperscale firms, 188, 500, 501
+- IBM, 210, 211, 217, 276–277, 417
+- ICREACH, 117–118
+- idea flow (Pentland), 431, 434–435, 436, 438
+- identification with surveillance capitalists, 342
+- identity formation, 452–454. See also self, the
+- ignorance, 498; freedom as a signal of, in behaviorism and neoliberal theory, 364, 366, 367–368, 412, 439, 496–497; as impediment to social progress (Skinner), 367–368, 369; as justification for freedom of market actors, 495–497; machine knowledge replacing, 408–409; mobile tracking operations designed to induce, 243; a reason for success of surveillance capitalism, 10, 11, 94, 343– 344; as tactical requirement for rendition operations, 253, 281. See also knowledge
+- Illinois Biometric Privacy Act, 251
+- imperialism, 353
+- incentive systems: to align managerial behavior with owners’ interests (shareholder value maximization), 39, 370; and gamification, 216, 313–314, 317, 325; in Google’s ad pricing, 82; Pentland on, 428, 429, 435, 436; Skinner’s anticipation of, 370. See also reinforcement
+- inclusion, need for (vs exclusion): as characteristic of adolescence, 449, 452; a reason for success of surveillance capitalism, 342, 449, 463, 466, 498
+- incursion, initial stage of dispossession cycle: and Facebook’s behavioral modification, 306; and Google Glass, 156–157; and Google Street View, 141–145; and “Like” button, 159; tactics of, 139–140; and Verizon tracking, 167–168
+- Indignados movement (Spain), 42, 56
+- individuality, death of (Pentland), 436–437, 438–440, 444, 469
+- individualization: acceleration of, 455; and Apple inversion, 46; and collision with neoliberal politics and market economics, 18, 37, 44–46, 193; definition of, 33; and first modernity, 33–34; as longterm historical process, 18, 33; and second modernity, 35–37
+- Industrial and Commercial Bank of China, 391
+- industrial capitalism: and commodification of nature, 94, 345–346, 470, 515; and democracy, 503–504; division of labor as principle of, 183–185, 347–348; and economies of scale in production, 87–88; and Gilded Age robber barons, 16–17, 52, 105–107; and intensification of means of production, 9, 339; laws of, 66; and need for reinvention of civilization, 16–17, 347–348; success factors of, 411; theorists of, 22
+- inequalities, economic and social: and division of labor, 185; increase in, 42–45; necessary to capitalist development, 257. See also asymmetries; division of learning in society; neoliberalism
+- inevitabilism, 195; as driver of surveillance capitalist growth, 224, 225, 238; and Google city, 231; as ideology, 221–223, 225–227; and instrumentarian power, 395, 515–516; and internet of things, 221– 225; a reason for success of surveillance capitalism, 343; rejection of, 522; and resistance to vehicle telematics, 216–217; and search engines, 15; Silicon Valley as axis mundi of, 223, 225–227; and Spanish conquest, 177–178; and utopianism, 222
+- information, volume of production vs processing, 187–188
+- informational privacy: vs physical privacy, 480; right to be forgotten, 27, 57–61, 485. See also decision rights
+- information capitalism: foreclosure of alternatives as one reason for success of surveillance capitalism, 343; forms of, 195, 347, 395; as liberating/democratic social force, 67; surveillance capitalism as dominant form of, 12, 13, 52–53; surveillance exceptionalism shaping course of, 120
+- information civilization, emergence of, 4, 11–12, 515
+- information warfare, 281
+- Ingress game (augmented reality), 150, 312–313
+- Inktomi search engine, 71
+- In-Q-Tel, 116, 117
+- Instagram, 276, 457–458, 484
+- Institute of the Chinese Academy of International Trade and Economic Cooperation, 391
+- instrumentalization: definition of, 352; of digital social connection, 455–457; gamification as form of, 216, 313–314, 317, 325; Pentland’s work on, 420, 436
+- instrumentarianism, 376–395; and Big Other, 376–379; in China, 388–394; compared with totalitarianism, 20, 360–361, 396f–397f, 399; definition of, 8, 352; and division of learning, 443–444; intent of, 353; and market project of total certainty, 379–382; market solution to problems of second modernity, 383; mistakenly equated with totalitarianism, 352; moral agnosticism of, 381; operates from viewpoint of Other-One, 382; Pentland’s theory of, 416–419, 426–429; rise of, 20, 381; social relations patterned on machines in, 411–415, 426; as solution to societal uncertainty, 383–388, 403, 514–516; state power’s engagement with, 386–387, 394; stealth of, 381; surveillance capitalism’s use of, 374–375; as unprecedented form of power, 352; and Walden Two, 374. See also Big Other; instrumentarianism, principles of social relations in
+- instrumentarianism, principles of social relations in, 431–441; as applied utopistics, 437–438; as controlled behavior for the greater good, 431–432; as death of individuality, 438–441; normalization of, 469; as replacement of politics with plans, 432–435; as social pressure for harmony, 435–437
+- instrumentation, 434; definition of, 352; Pentland’s work on, 420
+- insurance companies, 212, 213–218, 275, 316
+- Intel, 209, 240
+- intelligence community, 386, 387; and Google, 115–120
+- intelligent edge, 408, 410
+- International Monetary Fund, 42
+- internet of things: and actuation/behavioral modification, 293–294; and animal tracking, 204–207; and auto insurers, 213–218; and behavioral modification, 295–296, 296–297; and cities, 227–232; as “dark data,” 210–211; economic imperative of, 204; enabling guaranteed outcomes, 203; and health care, 247–251; and inevitabilism, 221–225; and legal protections, 481; and machine relations in factory, 408–411; as medium of instrumentarianism, 8; Pentland on, 427; and prediction imperative, 199–204; and rendition, 234–240; and tech companies, 209–212; terminology of, 202; TVs, 263– 266; and ubiquitous computing, 199–200; and ubiquitous sensors, 207–209; and the uncontract, 218– 221. See also smart-home devices; ubiquitous computing; wearable technologies
+- internet service providers (ISPs): AT&T, 166, 167; turn to surveillance capitalism, 166–172; Verizon, 166–170, 171, 417
+- In the Age of the Smart Machine (Zuboff), 3–4, 181, 270
+- invisible hand, 496
+- iOS platform (Apple), 248
+- iPhones, 28, 387
+- iPods, 28, 29–30, 69
+- iRobot, 235–236
+- isolation: as category of privacy behavior, 479; and social media, 446, 447, 464; and totalitarianism, 358–359, 397f, 518
+- Issenberg, Sasha, 123
+- Italy, 148, 354, 508, 517
+- iTunes, 28, 29–30
+- Jana, 421
+- Japan, 142, 148, 316
+- Jensen, Michael, 38, 40–41, 106, 181, 370
+- job polarization, 182
+- Jobs, Steve, 28
+- journalism, 506–507; fake news, 507, 509–510
+- Journal of American Medicine, 250
+- Kahn, Herman, 219–220
+- Kaliouby, Rana el, 288, 289, 290
+- Kegan, Robert, 454, 455
+- Kelly, Kevin, 95
+- Keyhole, 117, 142, 311
+- Kim, Nancy, 49–50
+- Klein, Michelle, 448
+- Kleiner Perkins, 68, 72
+- knowledge: concentration of by Google, 180, 401–402; and dangers of surveillance capitalism, 175; and digital dispossession, 100; dispels the illusion of freedom, 364; and instrumentarianism’s pursuit of totality, 430, 497; as oldest political question, 3–5; surveillance capitalism’s right to, 179; “who knows?” as an essential question of division of learning, 181, 192, 223, 327–328. See also certainty; totality
+- knowledge, asymmetries in, 11, 19, 80–81, 484, 498; and affective computing/emotion analytics, 286– 290; and Aware Home project, 6, 7, 234–235, 247; and elemental rights, 54; and information warfare, 281; as pathology of the division of learning, 185–186; and telemedicine, 247–251
+- Kogan, Alexander, 280
+- Kosinski, Michal, 273–274, 274–275, 275–276, 280, 615n64
+- Kramer, Adam, 303
+- Kreiss, Daniel, 122–123
+- La Diega, Guido Noto, 237
+- language, philosophy of: and declarations, 177
+- Lapsley, Daniel, 453, 456
+- Law and Economics Center, George Mason University, 125
+- lawlessness: of cyberspace, 103–105; essential to advance of surveillance capitalism, 101; Facebook’s interest in, 251–252; and facial recognition, 251–252; intelligence agencies covet private sector’s, 118–120; and the internet of things, 209–210; and ISPs/internet companies, 171–172; and rise of industrial capitalism, 105–107
+- laws of motion, 66–67
+- laws of social behavior (Pentland), 430–431
+- Lefort, Claude, 355, 359
+- Leibowitz, Jon, 50, 160
+- Lemov, Rebecca, 322
+- lending companies, 172–173, 507–508
+- Lenin, Vladimir, 406
+- Levi Strauss, 246
+- Levy, Steven, 47, 72–73
+- Libert, Timothy, 136
+- libertarianism, 109, 138, 323
+- life expectancies, improved: and rise of second modernity, 35–36
+- life pattern marketing, 243
+- “Like” button (Facebook), 159–161, 274, 275, 457–458, 491
+- LinkedIn, 165
+- ListenTree, 207–208
+- Livestream, 157
+- lobbying (political): Big Tech, 105, 114, 122, 342, 487; Facebook, 252–253; Google, 122, 124–126; ISPs, 171
+- location data, tracking of, 137, 154, 174, 242–245; and Pokémon Go, 317, 318; resistance to, 140
+- Loewenstein, George, 460
+- London, August 2011 riots in, 27, 41–42, 44
+- London Times, 143
+- Look magazine, 356–357
+- Loveluck, Benjamin, 442
+- Luca, Michael, 132
+- luxuries, 257
+- Lynn, Barry, 127
+- Lyon, David, 112, 115
+- M (Facebook digital assistant), 259
+- MAC address, 249–250
+- Machado, Antonio, 34
+- machine hive, 413–414, 492
+- machine intelligence: acquisition of, 102; capabilities of, 95; definition of, 65; and emotion analytics, 282–290, 291–292; Facebook’s FBLearner Flow, 279; Google’s investment in, 188–189; IBM’s, 211, 276–277; as means of production, 95–96, 97f; recruitment/dispersal of scientists in, 189–190; revenues from, 189. See also digital assistants
+- machine learning: as collective mind, 409, 413–414; included in machine intelligence, 65; used by surveillance-as-a-service firms, 174; used to generate UPI, 79
+- machine relations, and confluence (as template for human social relations), 407–411
+- machine zone, 450
+- MacKay, R. Stuart, 204–207, 211, 213, 218, 227–228, 246, 247, 253, 301, 375, 378, 424
+- Madrigal, Alexis, 151
+- Managerial Revolution, The (Burnham), 523
+- managers: and radical indifference, 505–506; and shareholder value maximization, 38–39
+- manifest destiny, 225
+- manipulation, 202
+- Manuel, Frank, 222, 405
+- Manuel, Fritzie, 222, 405
+- mapping: and Google, 150–155, 244–245; and Pokémon Go, 310–311, 312–314, 317; as privilege of invaders, 90–91; by Roomba vacuum cleaner, 235–236
+- maps. See Google Street View
+- market democracy, 31–32, 40, 496–497
+- Marketplace of Revolution, The (Breen), 502
+- Marx, Karl, 99, 222, 406, 598n64
+- Marxism, 222
+- Mashable, 235
+- mass production, 29, 31, 63–64, 85–86, 87–88, 347–348
+- material infrastructure: hyperscale of, 188–189, 500, 501
+- Mattel, 266–267
+- Mayer, Jonathan, 168
+- McCann Erickson, 288
+- McClain, Linda, 479
+- McConnell, Mike, 119–120
+- McDonald’s, 316
+- McKinsey, 217
+- means of behavioral modification: actuation as completion of, 293–294; aimed at “them” vs at “us,” 327; and Big Other, 376, 379; China’s use of, 388–389, 391; definition of, 339; as form of state power, 320, 322, 324, 326; and “goodness,” 432; guaranteed outcomes as result of, 203; history of resistance to, 320–328; ideology of human frailty legitimates, 343; information warfare (secrecy, asymmetries of knowledge and power) as essential to, 281; and instrumentarian power, 352, 360, 376, 379, 396f; means of production subordinated to, 8, 9, 11, 19–20, 67, 339, 351; means of social participation coextensive with, 342; need for rejection of, 344; operations of, 351; ownership of, 11, 326–327, 430; production of, 203; regulation of, 320–326. See also behavioral modification; economies of action; uncontracts
+- means of production: machine intelligence as, 95–96, 97f; serves means of behavioral modification, 8, 9, 11, 19–20, 67, 339, 351. See also means of behavioral modification
+- Meckling, William, 38
+- media use, international study of “unplugging” from, 445, 446
+- medical fields: and emotion analytics, 288; and internet of things, 247–251
+- mental health: depression, 275, 287, 446, 464–465; and Facebook use, 446, 463–465; monitoring of, 412; predictions of, 275
+- Mercer, Robert, 278
+- Mercury News, 116
+- meta-data, 117–118, 245, 272–273, 275
+- Meyer, Max, 362–363, 363–364, 364–366, 372, 412, 633n39, 634n42, 634n44, 635n45
+- Meyer, Michelle, 304
+- m-health (mobile health apps), 248–251
+- Michaels, Jon, 119
+- Microsoft, 24, 400; Bing search engine, 95, 162, 163; collaboration with metal-cutting factory, 407–409; Cortana digital assistant, 163–164, 165, 255, 400; Inktomi search engine, 71; and insurers, 217; patents filed by, 411–412; revenues of, 165–166, 405; surveillance capitalism spreads to, 9, 162– 163; and voice recognition, 263; Windows 10 operating system, 164–165. See also Nadella, Satya
+- Milgram, Stanley, 473–474
+- military applications of behavioral modification, 321–322
+- Millward Brown, 288–289
+- Milner, Marius, 150, 311
+- MindReader machine learning system, 288
+- MIT Media Lab, 207, 288, 416, 421
+- MIT Technology Review, 116, 421, 422
+- MKUltra project, 321
+- mobile advertising as surveillance, 172, 243, 421; and Facebook, 161–162; and geo-targeting, 242–243; Google, 137–140, 156, 243–245; and health data, 248–251; and Pokémon Go, 315–319; and Verizon, 166–171; and wearables, 246–247
+- mobile phones. See smartphones
+- modeling: operating through privatized digital spaces, 456
+- modernities, 31–37. See also first modernity; second modernity; third modernity
+- Mohammed, Jahangir, 227
+- Monarchical Edict of 1513 (Requirimiento), 178
+- Monitor, 325
+- monopoly (antitrust): as category that falls short in contesting surveillance capitalism, 14, 23, 194, 344, 486; as means of cornering behavioral surplus supply routes, 132–138
+- moral life of civilization: shaped by practices of capitalism, 17, 347–348
+- Moritz, Michael, 72, 76, 84–85
+- Morozov, Evgeny, 629n14
+- Motorola, 135
+- Mumford, Lewis, 371
+- music industry, 28–30
+- Mussolini, Benito, 354
+- mutations, economic, 47, 51–52
+- My Friend Cayla (doll), 266, 267
+- myPersonality database, 273
+- Nadella, Satya: on “conversational commerce,” 164; on digital assistants, 255; on LinkedIn acquisition, 165; on machine relations, 407–408, 410, 411; on power of technology, 400, 407, 427, 498; and shift toward surveillance capitalism, 162–166
+- Nader, Laura, 485
+- Napster, 28
+- Narayanan, Arvind, 136, 245
+- Nasaw, David, 107
+- National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, 325–326
+- National Research Act (1974), 325
+- national security (after 9/11): and emergence of surveillance capitalism, 9–10, 112–115, 193–194, 385– 386
+- National Security Agency (NSA), 117, 118
+- National Telecommunications and Information Association (NTIA), 252, 253
+- native peoples (indigenous peoples), 91, 177–178
+- Nature, 299, 304
+- nature, commodification of: and industrial capitalism, 94, 345–346, 470, 515
+- Nazism, 355
+- neofeudalism, 44
+- neoliberalism: as shelter for rise of surveillance capitalism, 101, 107–112, 341; surveillance capitalism’s origins in, 504–505
+- neoliberal market economics, 37–41; helps surveillance capitalism flourish, 54; increase in inequalities under, 42–45; vs individualization, 18, 37. See also Friedman, Milton; Hayek, Friedrich; Jensen, Michael
+- Nest thermostat, 6–7, 237–238
+- Netherlands, 144, 517
+- Netscape, 86
+- Network Advertising Initiative, 86–87
+- networked publics, 455–456
+- neuroticism, 277
+- New America Foundation, 125, 127
+- New Deal, 108
+- New Digital Age, The (Schmidt and Cohen), 103, 223
+- News Feed. See Facebook News Feed
+- New York Times: on AI research harnessed to power, 191; and broadband privacy regulations, 172; on Carol Brady search data, 75; and Facebook user experiments, 303; and GDPR impact, 487; on Google business model, 72; on Google influencing research, 127; and Google’s secrecy, 89; on Google Street View privacy violations, 147; on intelligence agencies’ interest in data-mining, 116– 117; on Obama campaign, 123; on Pokémon Go, 315; report on political funding, 43; on Verizon, 169, 171; on video content, 512
+- Niantic (ship), 311–312
+- Niantic Labs: data collection by, 317–319; Hanke founds, 150, 310, 311; Ingress game, 150, 312–313; surveillance policy, 317, 318. See also Hanke, John; Pokémon Go
+- 1984 (Orwell), 371, 372–373
+- Nintendo, 311, 315
+- Nix, Alexander, 278
+- Nodder, Chris, 456–457
+- no exit, 470–474, 488
+- No Exit (Sartre), 471
+- None of Your Business (NOYB), 486
+- nonprofit organizations, Google’s funding of, 126
+- normalization of the abnormal, 11, 12–13, 398–399, 422, 456, 469, 472–474, 489–492. See also habituation stage of dispossession cycle; psychic numbing effect
+- Norvig, Peter, 118
+- Nuance Communications, 264, 266
+- nudges, 202, 294–295, 370, 435
+- Obama administration, 120, 124–125, 385–386
+- Obama campaigns, 122–124, 281
+- objectification, 211–212, 337, 377; otherization of humanity, 363–364, 365–366, 378, 397f, 410; selfobjectification, dangers of, 464. See also free will; Other-One viewpoint
+- observation without witness, as instrumentarianism’s point of view, 376–377. See also Other-One viewpoint; privacy
+- Occupy movement, 42, 44–45
+- Oculus, 103
+- Odyssey, The, 3
+- offensive material, blocking of, 110–112
+- Ohlhausen, Maureen K., 265–266
+- Ohm, Paul, 245
+- O’Neill, Richard, 118
+- One Voice, competition for, 260–261, 267, 268–269
+- “Online Eraser” law (California, 2015), 61
+- On Photography (Sontag), 233
+- OnStar Go, 217
+- Open Effect, 249
+- openness to experience, 275, 277
+- open source, Android platform as, 134
+- operant conditioning. See conditioning
+- operating systems: Android, 133–135, 137, 154, 264; Apple iOS platform, 248; Windows 10, 164–165
+- opt-in, 174, 235–236, 241
+- opt-out policies: choice architecture of, 294; and Google Street View, 149; lack of, for Facebook “Like” button, 161; and rendition, 241; Verizon’s, 169, 170; and Verizon tracking ID, 167, 168, 169. See also consent
+- Oremus, Will, 459
+- Origins of Architectural Pleasure (Hildebrand), 475
+- Origins of Totalitarianism, The (Arendt), 358, 383, 518
+- Orwell, George, 90, 523–524; and 1984, 371, 372–373, 636n68
+- otherization of humanity, 363–364, 365–366, 378, 397f, 410
+- Other-One viewpoint: as global presence, with Big Other, 377; human being as organism, 363–364, 365– 366, 377; instrumentarian power operates from, 382, 418–419; Meyer’s, 363–366; Skinner seeks technology of human behavior institutionalizing, 369–371; Skinner’s elaboration of, 366–368; society as, 398–399; and tyranny, 513–514; in Walden Two, 373–374; and young people’s experience of hive life, 445–446, 465
+- “others,” dependency on: in adolescence, 448–449, 453–454, 465–466; and social media, 447–448, 456– 457, 465
+- outside-looking-in experience of the self, 447–448, 456–457, 465
+- Overstock.com, 48
+- Overture search engine, 71, 76
+- Ovum, 246
+- Page, Larry: and advertising, 71, 74, 84; as exception to traditional utopian thinkers, 405; on Google as automagical, 128; and Google corporate governance structure, 101–102; and Google’s secrecy, 89; on lawlessness of cyberspace, 105; on right to be forgotten ruling, 60; on transformation of society, 401–402; on true nature of Google’s business, 98
+- Page Rank algorithm, 69
+- Paglen, Trevor, 491
+- Paine, Thomas, 513, 522
+- Palantir, 388
+- panopticon, 470–471
+- Paradiso, Joseph, 207–208, 208–209, 221, 224, 240, 378
+- Parker, Sean, 451
+- parking spaces, 229–230
+- Pasquale, Frank, 108, 109, 174, 187
+- Patel, Amit, 67–68, 75, 76
+- patents: Facebook’s, 159–160, 287, 393; Google’s, 77–80, 150; Microsoft’s, 411–412; for reality mining, 423; for vehicle telematics, 216
+- patients’ rights, 322, 325
+- Patriot Act (2001), 114
+- Pedersen, Darhl, 479
+- Peifer, Karl-Nikolaus, 59
+- Pentagon Highlands Forum, 118
+- Pentland, Alex: on attractions of instrumentarianism, 429; on behavior for the greater good, 432; commercial ventures of, 422, 424–425; on computation replacing politics, 433–434, 438; credentials of, 417–418; on death of individuality, 438–439, 440, 441; and detached observation (God’s eye view), 418–419; on laws of social behavior, 430–431; principles of instrumentarianism, 430–442; and reality mining, 420–423, 428; rejection of old social categories by, 428; on social network incentives, 436; on social pressure for harmony, 436–437; students of, 417–418, 419; theory of instrumentarianism, 416–417, 426–429; work on rendition of social relations, 419–429
+- people analytics. See rendition of social relations
+- permissionless innovation, 50, 60
+- personality prediction: through Facebook profiles, 272–273, 273–275, 279, 280; by IBM, 276–278
+- personalization, 19; as coup from above, 513; and digital assistants, 255–262, 268–269; and emotion analytics, 282–284; as new use of computer-mediated transactions, 64, 213, 256; as part of prediction imperative, 256; and rendition of the self, 271, 273, 274, 277, 278; and voice recognition, 262–268
+- persuasion score, 123
+- Pew Research, 61, 157, 243, 340, 447, 517
+- Philippines, 508
+- phones. See smartphones
+- photography, 233
+- Picard, Rosalind, 285–287, 288, 291–292, 441
+- Pichai, Sundar: and breadth/depth of Google’s instrumentarian media, 400–401; and personalization, 261–262; and salience of machine intelligence, 191
+- Piketty, Thomas, 43–44, 518, 519, 520, 543n42
+- Pinterest, 509
+- Planck, Max, 363, 375, 412, 633n38, 634–635n45
+- planning: and authority, 437–438; and contracts, 334–335; replacing politics, 432–435; in socialist economics, 334
+- Poetics of Space, The (Bachelard), 476
+- Poindexter, John, 116
+- Pokémon Go, 309–319; and ads, 314, 315–316, 318–319; and behavioral futures markets, 317; as behavioral modification, 299, 312, 313, 314; dynamics of, 312; as experiment in economies of action, 311–314; and Hanke, 310–311; as herding, 8–9; Ingress as test bed for, 150; and lack of privacy, 309–310; launch of, 314–315; and social pressure, 342, 463; as surveillance capitalism, 315–316, 319
+- Poland, 356, 517
+- Polanyi, Karl, 39, 98–99, 345–346, 514
+- police departments/law enforcement agencies, 387–388
+- policies, 409–410
+- political funding (funding for election campaigns), 43, 109
+- Politico, 123
+- politics, plans replacing, 432–435
+- pornography, restrictions on, 109, 509
+- Poupyrev, Ivan, 246
+- poverty: in Catalonia, 56; in US and UK, 42–43
+- power: assumptions about, 6, 7, 234–235, 247; asymmetries of, 185, 188–189, 281, 328; concentration of by Google, 180; corporate, 109–110; and dangers of surveillance capitalism, 175; and digital dispossession, 100; as oldest political question, 3–5; surveillance capitalism’s shift from knowledge to, 8; and tendency to over-share personal information, 460; who decides who decides?, 181, 182, 192, 223, 327, 328. See also instrumentarianism; totalitarianism
+- PrecisionID, 167–168, 170
+- prediction imperative, 131f, 195, 199–204, 339; definition of, 200–201; and internet of things, 209–212; and surveillance-as-a-service companies, 425. See also extraction imperative
+- prediction products, 8, 97f, 338; and click-through rates, 82, 95; depending on surplus at scale (and extraction imperative), 200–201, 338; need for rejection of, 344; overview, 96; quality of, 201
+- Presentation of Self in Everyday Life, The (Goffman), 471
+- prisons, 322, 324, 325, 326
+- privacy: artists’ strategies to protect, 489–491; and backstage/onstage, 471, 474; behaviors of, 479; as category that falls short in contesting surveillance capitalism, 14, 194; in China, 392; collective action on behalf of, 485–486; vs decision rights, 90; declared no longer a social norm, 48, 274, 370– 371; definition of, 90; and division of learning in society, 191–192; EU regulation of with GDPR, 481, 485, 487–488; Facebook’s disregard for, 160, 274, 458; FTC championing of, 113; and Google Glass, 156–157; Google posing as advocate for, 168; Google’s disregard for, 19, 79–80, 81–82, 161; and Google Street View, 141–142, 143–145, 147–148, 149–150; and home as sanctuary, 478– 479; informational privacy, 27, 57–61, 480, 485; in information society, 191–192; and ISPs/internet companies, 171–172; Microsoft’s disregard for, 164–165; and Pentland’s view of data ownership, 441–442; and Pokémon Go, 310; public response to loss of, 340–341; and requests for personal data collected by Facebook, 482–484; and resistance to telematics, 216; Senate subcommittee’s 1974 defense of, against behavioral modification, 323–324, 325; Skinner on, 370–371; study on, 479; and tendency to over-share personal information, 460; and Verizon tracking ID, 167–168. See also Google Street View; privacy, assumptions about; privacy, decision rights over; privacy laws; privacy policies; privacy settings, bypassing of
+- privacy, assumptions about: and affective computing/emotion analytics, 286–287; and Aware Home project, 6, 7, 234–235, 247; and telemedicine, 247
+- privacy, decision rights over, 90; Google’s disregard for (and Street View), 143; and user profile information, 79–80, 81–82
+- privacy census, 136
+- Privacy International, 143, 144
+- privacy laws, 191, 480–488; GDPR (in EU), 481, 485, 487–488
+- privacy policies: Facebook’s, 48, 160; of health care apps, 251; impossible to read, 49–50; Microsoft’s, 163–164; for Nest thermostat, 7; Niantic’s, 317, 318; and Roomba vacuum cleaner, 235–236; of Samsung Smart TV, 264; and Sleep Number bed, 236–237; time spent reading, 237; Verizon’s, 169– 170
+- privacy settings, bypassing of: resistance to, 140; by tracking programs, 137–138, 167–168
+- privatization of networked spaces, 455–456
+- Proceedings of the National Academy of Sciences, 301, 303–304
+- Prodigy, 111
+- producer-consumer reciprocities, lack of in surveillance capitalism, 10
+- profile inflation, 462
+- promises: and right to the future tense, 330–334, 337; and the right to sanctuary, 492; and the seventh extinction, 516. See also contracts
+- ProPublica, 168, 509, 511
+- psychic numbing effect: and dependency, 11; encouragement of, 456; evidence of, 20, 78, 418; in habituation stage of dispossession cycle, 140; and personal experience vs abstraction, 21–22; and sanctuary, 492; and threat to democracy, 519; and the uncontract, 337; and values/expectations, 521
+- “Psychological Functions of Privacy” (Pedersen), 479
+- psychology, discipline of: and adolescence, 452; and privacy, 479; professionalization of, 325; and viewpoint of observation, 363–364, 366–367. See also radical behaviorism
+- Psychology of the Other-One (Meyer), 363
+- psychosurgery, 324
+- public corporations: diminishment of, 40–41
+- public opinion, 520
+- public spaces: Google’s claim to, 141–142
+- “puppet master vs puppet” (surveillance capitalism confused with its technologies), 14–17, 238, 352, 376
+- Qualcomm, 240
+- quality scores, 82–83
+- Quartz, 244
+- racism, 509–510
+- radical behaviorism, 20, 353, 360–361; Arendt on, 382; and free will, 366, 367, 368, 380, 439, 440, 441; roots of, 362–363; as technology of human behavior, 369–371; viewpoint of observation, 363–364, 366–367. See also behavioral modification; Pentland, Alex; Skinner, B. F.
+- radical indifference, 376–377, 397f, 504–512; definition of, 377; tyranny’s foundation on, 513
+- radicalism algorithm, 386, 393
+- Radin, Margaret, 49
+- Realeyes, 282, 284
+- reality, creation of through declarations, 177
+- reality business, 19; and the internet of things, 202; reality mining paves the way for, 420
+- reality mining, 420–423, 428
+- Recorded Future, 117
+- Reddit, 509
+- redirection stage of dispossession cycle: and disinformation at Facebook, 511–512; and Facebook’s behavioral modification, 306; and Google Glass, 157–158; and Google Street View, 149–155; and “Like” button, 160–161; tactics of, 140; and Verizon tracking, 169
+- Register, 154
+- regulation, of business: broadband privacy regulations, 171–172; Common Rule (legal standards for experimentation), 303–304, 320, 325; of cookies, 86–87; of data collection from biometrics, 125, 251, 252–253; General Data Protection Regulation (GDPR), 481, 485, 487–488; Google supports civil society organizations against, 126; neoliberal ideology on, 107–108, 341; public response to lack of, 340; and rise of industrial capitalism, 106–107; self-regulation, by firms, 108, 110, 113, 147, 248–249, 305; tech companies argue against, 103–105
+- reinforcement, 326; Facebook “likes” as, 451; Pentland’s version of (social network incentives), 436; positive reinforcement, 325; Skinner’s work with, 296, 361; in Walden Two, 435
+- relational autonomy, 453
+- rendered behavior, 70f, 97f
+- rendering: definitions of, 234
+- rendition, 339; definition of, 233–234
+- rendition of bodies, 242–253; through facial recognition, 251–253; through health care apps, 247–251; through location data, 242–245; through wearables, 246–248, 249
+- rendition of emotions, 282–290; and Affectiva, 288–290; and consent, 290–292; development of, 285– 287; market growth in, 287; and SEWA project, 282–284
+- rendition of personal experience, 255–269; and digital assistants, 255–262, 268–269; and voice recognition, 262–268
+- rendition of social relations, 419–429; instruments for, 419–421, 423–424; Pentland’s essay on, 426–429; and Pentland’s work on sociometrics, 422–425; and reality mining, 420–423
+- rendition of the self, 270–282; and Cambridge Analytica, 278–282; and consent, 290–292; through DIALOG platform, 270–271; and Facebook personality prediction, 271–276; and IBM personality prediction, 276–278
+- Requirimiento (Monarchical Edict of 1513), 178
+- research and policy papers: Google funding, 126–127
+- resistance: “be the friction,” 520–525; to collection of personal information through Google Street View, 139–140, 143–144, 148–149; as counter-declarations, 345, 489–492; and dispossession cycle, 141, 158; forms of withdrawing social agreement, 344–345; hiding as, 489–492; hope for, 194–195, 395; need for new forms of collective action, 486; and Spanish conquest, 178; as synthetic declarations, 345, 395, 480, 524–525
+- Restall, Matthew, 177–178
+- rights, constitutional: First Amendment rights, 60, 108–109, 325; Fourth Amendment rights, 480–481
+- rights, surveillance capitalism’s claim to, 179, 314, 519, 521–522
+- Rights of Man, The (Paine), 513
+- right to be forgotten (informational privacy), 27; as effective democratic action, 57–61, 485. See also collective action; decision rights
+- right to the future tense, 20, 54, 329–348; and behavioral modification, 309; and contracts, 333–336; definition of, 195; and human will, 329–338; loss of under instrumentarian power, 378–379, 430, 444; and promises, 330–332; prophecy, 345–348; and transformation of human relationships, 347– 348; and uncertainty, 331, 333–338
+- right to sanctuary, 21, 54, 475–492; Big Other erasing, 477–480, 492; and hiding, 489–491; home as sanctuary, 475–477; and privacy laws, 480–488
+- right to speak in the first person, 291, 330, 381, 439, 444, 454, 488, 515
+- Roberts, John, 49
+- Robinson, James A., 503–504
+- Rockefeller, John, 106
+- roles, social: in first modernity, 34; in second modernity, 36
+- Rometty, Ginni, 211
+- Roomba (vacuum cleaner), 235–236
+- Roosendaal, Arnold, 159
+- Rosenberg, Jonathan, 124
+- Rotenberg, Marc, 114, 139
+- Russia, totalitarianism in, 355, 356
+- Rutenberg, Jim, 123–124
+- Rutherford, Alexandra, 322
+- Safegraph, 174
+- Safe Harbor Framework, 160, 486
+- Samsung, 263–265, 268, 269
+- sanctuary: home as, 5, 6, 310, 475–477, 478–479; principle of/history of, 478; the self as, 291; as a space where self can be nurtured, 474. See also right to sanctuary
+- Sandberg, Sheryl, 92, 161, 511
+- Sartre, Jean-Paul, 291, 471
+- Sassen, Saskia, 42
+- satellite imaging, 152
+- Satori, 163
+- saudade (yearning for home), 5, 517
+- scale. See economies of scale
+- scapegoating: by Google, in Street View violations, 144–145, 147
+- Schmidt, Eric: on Android, 134–135; on Defense Innovation Advisory Board, 120; and “for-profit cities,” 231–232; on future of the internet, 199, 378; on Google acquisition of YouTube, 103; on Google Glass, 157; on Google’s corporate governance structure, 101–102; and Google’s secrecy, 88–89; hired at Google, 76; influencing academic research, 125; involvement in Obama campaigns, 122, 123, 124, 281; on lawlessness of cyberspace, 103, 104–105; on lobbyists, 124; on machine intelligence, 413–414; The New Digital Age, 103, 223; on power of technology, 180, 401, 498; on quantity of Google’s products, 129; and response to terrorism, 386; on right to be forgotten ruling, 60; on search engines retaining data, 15; on Spy-Fi scandal, 145; on true nature of Google’s business, 98
+- Schrems, Max, 486, 653n19
+- Schroepfer, Mike, 305
+- Schüll, Natasha Dow, 450
+- Schumpeter, Joseph, 50–52
+- Schwartz, Paul M., 59, 191
+- Science and Human Behavior (Skinner), 367
+- Scientific American, 425
+- scope. See economies of scope
+- search: meaning of, and individualization, 34
+- search engines: AOL’s Overture, 71, 76; Baidu (Chinese), 246; Microsoft’s Bing, 95, 162, 163; models for generating revenue, 71; retaining data, 15, 140. See also Google Search
+- Searle, John, 177, 331, 332
+- second modernity: challenges of, 36–37; and division of learning, 185–186; and individualization, 35–37; instability of, 41–46; needs of, 342, 402, 403
+- Securities and Exchange Commission, 239
+- security issues, 386; for Nest thermostat, 7; post-9/11, 113–115
+- self, the, 33, 34–36; in emerging adulthood, 453–455, 456; as exempt from scientific inquiry, 364–365; and home, 475–477; individualization, 18, 33–37, 44–46, 455; as inward space of lived experience, 290–291. See also sovereignty of the individual
+- self, rendition of, 270–282; and affective computing/emotion analytics, 282–290; and Cambridge Analytica, 279–282; through DIALOG platform, 270–271; and Facebook machine learning, 278– 279; and Facebook personality prediction, 271–276; and IBM personality prediction, 276–278; as “personalization,” 271; as threat to human autonomy, 290–292
+- self-awareness, 307–309. See also free will
+- self-determination, 35; centrality of self-awareness to, 307–308; Senate subcommittee’s 1974 defense of, against behavioral modification, 323–324; surrender of, 518. See also autonomy; free will
+- self-driving cars, 125, 413–414
+- self-interest: as one reason for success of surveillance capitalism, 342
+- self-objectification: psychological dangers of, 464. See also social comparison
+- self-presentation, 462, 464, 472
+- self-regulation, by firms, 108, 110, 113, 147, 248–249, 305, 341
+- self-regulation, human, 307–308
+- Selvaggio, Leo, 489–490
+- Senate Committee on Commerce, Science, and Transportation, 169
+- Senate Subcommittee on Constitutional Rights, 320, 322, 323–325
+- Sense Networks, 425
+- sensors: for analysis of social relations (sociometer), 420, 423–424; and behavioral modification, 293– 294; and emotion analytics, 283; in wearable technologies, 247–248
+- sensors, ubiquitous, 207–209, 240. See also internet of things; “smart” products; wearable technologies
+- September 11, 2001 (9/11) attacks, 9–10, 101, 112–115, 193–194, 341
+- Sequoia Capital, 68, 72
+- Sesame Credit, 390, 391–392, 393
+- SEWA: Automatic Sentiment Analysis in the Wild, 282–284
+- shadow text: access to, 483–485; as digital dossier, 393; Instagram’s use of, 457–458; need for rejection of, 344; as pathological division of learning, 186–187, 327–328; and reality business, 202; as reversion to pre-Gutenberg order, 190. See also uncertainty
+- Shaffer, Howard, 450, 451
+- shareholder value maximization, 38–39, 41, 175, 181–182, 370, 499
+- shock and awe approach (speed as violence), 344, 346, 400, 406
+- Short, Jodi, 107–108
+- Shorten, Richard, 359
+- Sidewalk Labs, 228–232
+- signal blocking, 489
+- Silicon Valley, business environment in, 72–73
+- Simitis, Spiros, 191
+- Singularity University, 426
+- Siri (Apple digital assistant), 269
+- “A 61-Million-Person Experiment in Social Influence and Political Mobilization” (Bond et al.), 299
+- Skinner, B. F., 361–363; About Behaviorism, 326, 362; anticipates instrumentarian power, 379–381; on applied utopistics, 437–438; on behavior for the greater good, 431; The Behavior of Organisms, 366; on collective decision making, 432–433; criticisms of, 323, 326, 441; on free will, 366, 367– 368, 380; on increase in knowledge, 367, 368–369; and instrumentarian power, 379–380; and operant conditioning, 296, 361; and Other-One viewpoint, 366–368; Pentland as successor to, 418, 419, 424, 430, 431, 440; on planned society, 432–434, 437–438; prescribes future based on behavioral modification, 322–323, 412–413; on privacy, 370–371; on problem of autonomous individual, 439–440; on roots of behaviorism, 362–363; Science and Human Behavior, 367; seeks technology of human behavior, 369–371; on societal control of individual, 435. See also Beyond Freedom & Dignity; Walden Two
+- Skybox, 152
+- Skyhook Wireless, 135
+- Slate, 164, 459
+- SleepIQ app, 236
+- Sleep Number bed, 236–237
+- Sloan, Alfred, 29, 64
+- slot machines, 450
+- smart health, 247–248
+- smart-home devices, 5–7; and Amazon, 268–269; Aware Home, 5–6, 234–235, 247; examples of, 238– 239; Google Home, 261, 262, 269; Nest thermostat, 6–7, 237–238; and privacy, 234–238, 477–478; and rendition, 238–240; Roomba, 235–236; value of market, 6; and voice recognition, 261
+- smart machines vs smart people (businesses’ investments in), 3, 181–182
+- smartphones: data mining by auto insurers, 214; data mining by lending companies, 172–173; health apps on, 248–251; reality mining (rendition of social relations) through, 420–421, 422–423; as supply route, 133–135; tracking of location data, 137, 140, 154, 174, 242–245. See also Android mobile phones
+- “smart skin,” 240
+- Smith, Adam, 183–184, 257, 496, 499
+- Snowden, Edward, 385, 511
+- social comparison, 461–465; and adolescence, 447–448, 454; as core process of instrumentarianism, 397f; definition of, 461; Facebook’s use of, 468; in Facebook voting experiment, 307, 463; and FOMO, 462–463; intensity of increases with social media, 462, 466–467; mental health consequences of, 463–465, 466–467; operating through privatized digital spaces, 456
+- social connection: dependent upon surveillance capitalism, 383, 455–456; surveillance capitalism offers, 383
+- “social credit” system, China’s, 388–394
+- social Darwinism, 106
+- social efficiency (Pentland), 429, 438
+- social graphs: Facebook’s, 92, 403; LinkedIn as Microsoft’s supply route to, 165; Pokémon Go as, 317
+- social influence: and adolescence, 453–454; and Facebook’s experiments, 306–307; forms of (social pressure, social comparison, modeling, subliminal priming), 456; Pentland on, 440; and Pentland’s “social physics,” 428–429, 436–437, 438. See also social pressure
+- socialism, 334, 357, 433, 523
+- social learning, 466; definition of, 431
+- social media: addictive design of, 448, 449, 451–452; Chinese censorship of, 392–393; and compulsion, 453–454; and destructive dynamics of hive mind, 21; DIALOG platform as precursor to, 270; emotional toll of, 445, 446, 447–448; and homing to the herd, 467–468; Instagram, 276, 457–458, 484; meta-data about, 272–273; Obama campaign’s use of, 123; privatization of, 455–456; profile inflation in, 462; rendition of the self through, 271–276; self-presentation through, 462, 464, 472; and social comparison, 462; surveillance-as-a-service firms’ use of, 173–174, 386, 388, 393; trust in, 340; users’ vulnerability to social influence, and Facebook’s experiments, 306–307, 436. See also Facebook; Twitter
+- social network incentives, 436, 438
+- social networks: Google+, 139; Google Buzz, 139, 156; Google’s efforts to establish supply routes in, 139, 156; LinkedIn, 165. See also Facebook
+- social participation: as coextensive with means of behavioral modification, 342; and dependency on digital connection, 4, 11, 174, 339, 342, 446, 449, 455–456
+- social persuasion: as one reason for success of surveillance capitalism, 343
+- Social Physics (Pentland), 418, 419, 430
+- social pressure: experienced by young people on social media, 447–448, 454; Facebook’s use of, 436, 446, 463, 467, 468–469; and instrumentarianism, 444; operating through privatized digital spaces, 456; Pentland’s advocacy of, in social learning, 431, 435–437; social comparison heightening, 463
+- social proof, 456–457
+- social relations, instrumentarianism’s principles of, 431–441; applied utopistics, 437–438; behavior for the greater good (collective perspective and values), 431–432; death of individuality, 438–441; as facts of modern life, 469; plans replace politics, 432–435; social pressure for harmony, 435–437
+- social relations, rendition of, 419–429; instruments for, 419–421, 423–424; Pentland’s essay on, 426– 429; and Pentland’s work on sociometrics, 422–425; and reality mining, 420–423
+- social trust: in China, 389; and contracts, 334; decline of, 383–384; superseded by instrumentarianism, 442; and the uncontract, 336–337
+- society: instrumentarianism’s control over, 20–21, 399, 400–404
+- “Society’s Nervous System: Building Effective Government, Energy, and Public Health Systems” (Pentland), 426–429
+- sociometer, 420, 423–424
+- Sociometric Solutions (later renamed Humanyze), 424–425
+- software-as-a-service (SaaS), 172–174
+- Sonnets from China (Auden), 24; I, 98, 176, 398; II, 27; III, 495; VI, 63, 199; VII, 376; VIII, 445; IX, 329; X, 351, 416; XI, 293
+- Sontag, Susan, 233
+- sorcerer’s apprentice, 404, 481
+- soul, the: as exempt from scientific inquiry, 364–365; totalitarianism’s engineering of, 353, 354–355, 359, 372–373
+- sovereignty of the individual, 6, 21, 36, 469, 521; and creation of meaning from experience, 290–291; elemental rights of, 54, 332. See also decision rights; freedom
+- Spain: commitment to democracy in, 517; economic crisis in, 56; Indignados movement in, 42, 56; right to be forgotten in, 27, 57–59
+- Spanish conquest (fifteenth century), 176–177, 177–178, 193
+- Spanish Data Protection Agency (Agencia Española de Protección de Datos), 57–58, 58–59
+- speed: as form of violence (shock and awe approach), 344, 346, 400, 406; and velocity of surveillance capitalism, 115, 119, 344, 400, 406, 421, 433–434
+- Spireon, 215, 216
+- Spotify, 316
+- Sprint, 316
+- Spy-Fi scandal, 143–145
+- Stalin, Joseph, 354–355, 356–357
+- Stamp Act (1765), 502
+- Starbucks, 316
+- Starner, Thad, 417
+- startups: acquisitions of, 102–103, 152; investment in, 72, 73, 117; surveillance-as-a-service firms, 172– 173, 387–388
+- state power: fusion of instrumentarian power with, in China, 388–392, 394; and instrumentarian power, 386–387, 443–444; means of behavioral modification as form of, 320, 322, 324, 326, 341
+- Steinbeck, John, 226
+- Stillwell, David, 273–274, 280, 613n54, 615n64
+- stock share structures, 101, 102
+- Street View. See Google Street View
+- student data, collection of: resistance to, 140
+- subliminal priming, 294, 301–302, 307, 456
+- subprime mortgages, 507–508
+- Sunstein, Cass, 294–295
+- superorganisms, 373, 436–437
+- supply routes (behavioral surplus), 102–103, 129–130, 130–132, 132–133, 133–135, 156, 157, 163–165, 169–170, 201, 289
+- Surveillance After September 11 (Lyon), 112
+- surveillance-as-a-service (SVaaS), 172–174; and law enforcement, 387–388; Microsoft patent for preempting human behavior, 412; and Pentland’s work on sociometrics, 425; use of social media, 173–174, 386, 388, 393
+- surveillance capital, 94
+- surveillance capitalism: awareness as threat to, 307–308; dressed up in rhetoric of empowerment, 10; emergence of, 52–55; expansion into offline world, 10, 19–20, 129; exploiting human needs for effective life, 53, 342; foundations of, 18–19; how did it take root?, 53–54; how did they get away with it?, 100–101, 338–345; as human invention, 85–87; invisibility/illegibility/ignorance of, 10, 11; logic and operations of, 8–12, 93–96, 338–340; naming and taming of, 61–62, 347, 353; objectives of, 399; offers solutions for problems of second modernity, 383; as parasitic and self-referential, 9; Pentland on, 442; rejection of/withdrawal of social agreement to, 344–345; shift of focus to social world, 20–21; what is it?, 512–516; who are customers of, 10
+- surveillance capitalism, summaries of key elements, 8–12, 93–97, 338–340, 512–516
+- surveillance economy, 94
+- surveillance exceptionalism, 74, 81–82, 112–121, 194, 324, 341
+- surveillance revenues, 94, 97f, 111, 166–175
+- susceptibility to persuasion, 308
+- Swire, Peter, 113, 114, 385, 564n57
+- synthetic declarations (form of resistance/withdrawing social agreement; assertion of alternative framework), 345, 395, 480, 524–525. See also resistance
+- Taínos (indigenous people), 12, 177–178, 193
+- targeted applications, 217, 250
+- Tea Act (1773), 503
+- TechCrunch, 317, 318, 458–459
+- technological “drift,” 226
+- technologies, surveillance capitalism confused with (“puppet master vs puppet”), 14–17, 238, 352, 376
+- technology addiction, hand-and-glove relationship of, 449–453
+- technology of human behavior, 369–371, 379–380. See also behavioral modification; radical behaviorism
+- telematics, 205–206, 206–207, 214–215, 216
+- telemedicine, 247–249
+- telemetry, 204–205, 218, 247, 375
+- telestimulation, 206, 207, 307, 312, 319, 470
+- television, 263–266, 462
+- Tenet, George, 116
+- tensor processing units (TPUs), 189
+- terms-of-service agreements, 48–49, 237. See also contracts
+- terrorism: instrumentarian power as solution to, 385–387; war on terror and surveillance exceptionalism, 112–116, 324, 341
+- Thaler, Richard, 294–295
+- theory and practice: of instrumentarianism vs totalitarianism, 396f; of neoliberal market economics, 38– 39; of surveillance capitalism, 406; and utopianism, 406. See also dispossession cycle; Pentland, Alex
+- third modernity, 46–52; Facebook as one model of, 469–470; and hiding technologies, 489–491; the hive as instrumentarianism’s model of, 443–444; positive possibilities for, 54, 195; two visions of, 55, 395. See also second modernity
+- Thrun, Sebastian, 413–414
+- Time, 357, 361, 371, 459
+- Toronto, Ontario, 231–232
+- Toronto Globe and Mail, 232
+- Total Information Awareness (TIA) program, 116
+- totalitarianism, 20, 354–360; Burnham’s prediction of success, 523; in China, 389; compared with instrumentarianism, 396f–397f, 399; defied comprehension, 353, 356–360, 394; in Germany, 355; instrumentarianism mistakenly equated with, 352; intent of, 353; in Italy, 354; neoliberalism’s fear of, 108, 504–505; in 1984, 372–373; path to, 518; in Russia, 355–357; state solution to problems of first modernity, 383
+- totality: instrumentarianism’s pursuit of includes society, 399, 400–404, 430, 519; surveillance capitalism’s urge toward, 95, 268, 351, 399, 497; totalitarianism’s pursuit of, 354, 399. See also certainty
+- Townshend Acts (1767), 503
+- tracking programs: analyses of, 135–137; through Android phones, 136–137, 154; and broadband privacy regulations, 171–172; Facebook’s, 47–48, 91–92, 136, 159–160, 160–161, 457, 482; Google’s, 136, 161, 243–244; location data on smartphones, 137, 140, 154, 174, 242–245; and Pokémon Go, 317, 318; through smart TVs, 264–265; and surveillance-as-a-service firms, 174; by Verizon, 166–170. See also cookies
+- traffic/transit data, 228–229, 230
+- travel, 35
+- TripAdvisor, 110
+- Trump campaign (2016), 278
+- trust. See social trust
+- tuning approach to behavioral modification: definition of, 294–295; and Facebook, 299–300, 301–302, 307, 463, 470; nudges, 202, 294–295, 370, 435; Pentland’s use of, 434–435, 438, 466; and radical indifference, 505
+- Turn, 167, 168, 169
+- TVs, 263–266
+- Twitter: and content moderation, 509; and free speech, 110; funding Pentland’s research lab, 417; and personality prediction, 273, 276, 277; removal of metrics from, 491; and tracking, 136; and Verizon tracking ID, 168
+- tyranny, 513–514
+- Uber, 230, 393
+- ubiquitous computing: and actuation/behavioral modification, 293–294; Aware Home as living lab for study of, 5–6; data from as “dark data,” 210–211; and inevitabilism, 221–225, 227; and instrumentarianism, 8, 20, 352, 374–375, 376–377; Paradiso on, 207, 208–209, 221, 224; Pentland on, 427; producing certainty, 203–204; and reality mining, 420; and rendition, 233–241; and smart cities, 227–232; terminology of, 202; and ubiquitous sensing, 207–209; Weiser on, 199–200, 398. See also Big Other; internet of things
+- uncertainty: and contracts, 333, 334, 336; and inevitabilism, 221–222; and instrumentarianism, 384–385; and insurance industry, 214–215, 216; and the will, 330–331, 333, 337. See also certainty
+- uncontracts, 218–221, 295, 333–336
+- unemployment, 42, 56
+- Unger, Roberto, 521
+- United Kingdom: August 2011 riots in, 27, 41–42, 44; Brexit vote, 278, 507; and democracy, 501, 502– 503, 503–504, 517; “missing generation” of data scientists in, 189; outside-looking-in experience of young women in, 447–448; Pokémon Go in, 316; resistance to Street View in, 143–144; response to terrorism, 387
+- US Congress: broadband privacy regulations overturned, 171–172; regulation of human research by, 325– 326; Senate Committee on Commerce, Science, and Transportation, 169; Senate Subcommittee on Constitutional Rights, 320, 322, 323–325; surveillance activities expanded post-9/11, 114
+- US Department of Agriculture, 43
+- US Department of Commerce, 252
+- US Department of Justice, 508
+- US Department of Transportation (DOT), 228
+- US Department of Treasury, 508
+- US government: collusion with tech companies, 385–386, 511; funding Pentland’s research lab, 417; response to terrorism, 386, 387; trust in, 384; use of behavioral modification by, 320–322, 324, 326
+- unprecedented, the, 12–14, 20–23, 66, 95, 178, 193–195, 341, 351–353, 516, 519; Google Glass as horseless carriage, 156. See also “horseless-carriage” syndrome
+- “User Behavior Monitoring on a Computerized Device” (2013 Microsoft patent), 411–412
+- user profile information (UPI), 78–80, 92
+- user profiles, consolidation of, 140
+- users: vs customers, 69; reciprocal relationship between Google and, 68–69, 74, 81–82, 88; as suppliers of raw material, 88, 94
+- US Steel, 52
+- us-them relationships: of instrumentarianism society, 430; and means of behavioral modification, 327
+- utopianism: applied utopistics, 404–407, 407–411, 421, 437–438; and authority, 437–438; elements of, 405; and inevitabilism, 222; and instrumentarianism, 404–407; and surveillance capitalist vision for transformation of society, 401, 403
+- Varian, Hal, 84; on continuous experimentation, 298; on contractual forms, 218–219, 333; on feedback loop in improvement of Google Search, 68–69; on new uses of computer-mediated transactions, 64– 65, 212–213, 256, 298; on personalization/customization, 256–257, 552n6
+- vehicular monitoring systems, 213, 215, 219, 333, 336
+- velocity of surveillance capitalism (speed), 115, 119, 400, 406, 421, 433–434; as one reason for surveillance capitalism’s success, 344
+- venture capitalists, 72–73
+- Verizon, 166–170, 171, 417
+- Verma, Inder M., 303–304
+- video marketing, 282, 512
+- violence: in instrumentarianism, 360, 381–382, 395, 396f, 515; speed as form of (shock and awe approach), 344, 346, 400, 406; in totalitarianism, 356, 357–358, 396f
+- Viv (Samsung digital assistant), 269
+- Vizio, 265
+- voice communications, capture of, 262–263, 268; resistance to, 140; by toys, 266; by TVs, 264
+- voice recognition, 260–269; and digital assistants, 260; and toys, 266–267; and TVs, 263–266
+- voting, and Facebook experiment, 299–301, 306–307, 436
+- Waber, Ben, 424
+- Walden, Ian, 237
+- Walden Two (Skinner), 362; as antidote to totalitarianism, 372, 373–374; and behavior for the greater good, 431; collective decision making in, 433; critical reception of, 371; form of power in, 372; and ideal of Other-One, 373–374; and instrumentarian power, 379; social planning in, 437–438; social pressure for harmony in, 435
+- Wall Street Journal: on app-based lending startups, 173; Facebook in, 159, 303; Google in, 104, 126, 154, 157, 231; Pokémon Go unveiled to, 314; on Silicon Valley investment community, 73–74; on Verizon/AOL advertising programs, 170
+- Walmart, 168
+- Wang, Yang, 392
+- wardriving, 145
+- Washington Post, 104, 119, 124, 125, 166, 174, 451–452
+- Watson (IBM machine intelligence system), 211, 276–277
+- Watson, John B., 362
+- Waze, 152
+- wearable technologies: and emotion analytics, 289; Google Glass, 139, 156–158, 417; and government surveillance, 387; and health care, 247–250; for hiding from surveillance, 489–490, 490–491; independently networked, 490; MacKay’s first generation of, 205–206; and Pentland, 417, 422, 423– 424; Picard’s vision of, 287; and Pokémon Go, 314; rendition of the body through, 246–247; resistance to, 140; sociometer, 420, 423–424
+- Weaver, Henry “Buck,” 64
+- web bugs, 86
+- Weber, Max, 16, 115, 333–334, 628n10
+- WebMD, 168
+- websites as intermediaries or publishers, 110–112
+- Weiser, Mark, 199–200, 398
+- Weiwei, Ai, 491
+- Weizenbaum, Joseph, 292
+- Werbach, Kevin, 313
+- “We Too Had Known Golden Hours” (Auden), 128
+- WhatsApp, 103
+- Wheeler, Tom, 170, 172
+- Whitten, Alma, 148, 150
+- who decides? (essential question about authority over division of learning), 181–182, 192, 223, 327, 328
+- who decides who decides? (essential question about power over division of learning), 181, 182, 192, 223, 327, 328
+- who knows? (essential question about distribution of knowledge in division of learning), 181, 192, 223, 327–328
+- Who Wants to Be a Millionaire? (TV show), 75
+- Williamson, Oliver, 334, 628n8
+- the will to will, 20, 291, 329–332, 333–338, 516. See also free will
+- Windows 10, 164–165
+- Winkler, Adam, 109–110
+- Winner, Langdon, 220, 226
+- Wired, 117, 120, 167, 267, 423
+- Wood, Ellen Meiksins, 66
+- Woodbury, Ryan, 453, 456
+- workplace, as captive environment for habituation to incursions through use of: and Google Glass, 157– 158; and Google Street View, 153; and Pentland, 422–423, 424–425, 426
+- World Economic Forum, 417, 427, 441
+- Wu, Tim, 132

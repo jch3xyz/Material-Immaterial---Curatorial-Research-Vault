@@ -1,0 +1,142 @@
+---
+book: "Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century"
+author: "Jack Burnham"
+chapter: "List of Illustrations"
+source_pages: "pp. 389–394"
+type: source
+---
+
+# List of Illustrations
+
+- I. Edgar Degas, The Little Dancer of Fourteen, 1876. Metropolitan Museum of Art, New York. Bequest of Mrs. H. O. Havemeyer, 1929. H. O. Havemeyer Collection.
+- 2. Edgar Degas, The Tub, circa 1886. Metropolitan Museum of Art, New York. Bequest of Mrs. H. O. Havemeyer, 1'929. H. O. Havemeyer Collection.
+- 3. Medardo Rosso, The Kiss on the Tomb, 1886. Reproduced from Medardo Rosso by Mino Borghi, Edizioni, del Milione, Milan.
+- 4-5. Auguste Rodin, The Burghers of Calais, and Detail of Plinth, 1844-1886. Rodin Museum, Philadelphia Museum of Art.
+- 6. Umberto Boccioni, Development of a Bottle in Space, 1912. Collection, Museum of Modern Art, New York. Aristide Maillol Fund.
+- 7. Umberto Boccioni, Unique Forms of Continuity in Space, 1913. Collection, Museum of Modem Art, New York.
+- 8. Constantin Brancusi, Bird in Space, 1919. Collection, Museum of Modem Art, New York.
+- 9. Constantin Brancusi, The Fish, 1930. Collection, Museum of Modem Art, New York. Lillie P. Bliss Beq uest.
+- 10. Constantin Brancusi, The Fish, 1924. Courtesy, Museum of Fine Arts, Boston. II. Constantin Brancusi, Leda, 1924. Courtesy, Art Institute of Chicago.
+- 12. Naum Gabo, Construction in Space with Balance on Two Points, 1925. Collection, Yale University Art Gallery. Gift of H. Wade White in Memory of Joseph Hirschman.
+- 13. Antoine Pevsner, Construction for an Airport, 1934. Courtesy, Stedelijk Museum, Amsterdam and Mme. Virginie Pevsner.
+- 14. Naum Gabo, Construction for the Bijenkorj, 1954-1957. Courtesy of the artist.
+- 15. Alexander Calder, Black Beast, 1957 version of 1940 original. Photograph, Eliot Noyes.
+- 16. Richard Lippold, Variation within a Sphere, No. 10: the Sun, 1954-1956. Collection Metropolitan Museum of Art, Fletcher Fund, 1956.
+- 17. David von Schlegell, Twisted Column, 1963. Courtesy, Royal Marks Gallery, New York.
+- 18. Harry Bertoia, Untitled, 1960. Collection of the artist. Photograph, Staempfli Gallery, New York.
+- 19. Robert Grosvenor, Transoxiana, 1965. Courtesy, Park Place Gallery, New York.
+- 20. Morio Shinoda, Tension and Compression 32, 1963. Courtesy of the artist.
+- 21. Alberto Collie, Floatile No. II, 1967. Courtesy, Lee Nordness Galleries, New York. Photograph, Geoffrey Clements.
+- 22. Robert Grosvenor. Floating Sculpture, 1966-1967. Courtesy, Park Place Gallery, New York.
+- 23. Hans Haacke, Sphere in Oblique Air-Jet, 1967. Courtesy of the artist. CHAPTER TWO:
+- 24. Henri Gaudier-Brzeska, Birds Erect, 1914. Collection, Museum of Modern Art, New York. Gift of Mrs. W. Murray Crane.
+- 25. Constantin Brancusi, Sleeping Muse, 1910. Courtesy, Art Institute of Chicago.
+- 26. Constantin Brancusi, The Beginning of the World (Sculpture for the Blind), 1924. Philadelphia Museum of Art. The Louise and Walter Arensberg Collection.
+- 27. Jean Arp, Human Concretion, 1949, cast stone after 1935 original plaster. Collection, Museum of Modern Art, New York. Gift of the Advisory Committee.
+- 28. Jean Arp, Crown of Buds, 1936. Collection, Mr. and Mrs. Samuel M. Kootz.
+- 29. Jean Arp, Growth, 1938. Collection, Philadelphia Museum of Art.
+- 30. Henry Moore, Four Piece Composition, (Reclining Figure), 1934. Collection, Martha Jackson. Photography courtesy, Martha Jackson Gallery, New York.
+- 31. Henry Moore, Reclining Figure, II, 1960. Collection, Museum of Modern Art, New York. Given in memory of G. David Thompson, Jr. by his father.
+- 32. Henry Moore, Sculpture (Locking Piece), 1962. Courtesy of the artist.
+- 33. Theodore Roszak, Thorn Blossom, 1948. Collection, Whitney Museum of American Art, New York.
+- 34. Ibram Lassaw, Kwannon, 1952. Collection, Museum of Modern Art, New York. Katharine Cornell Fund.
+- 35. Seymour A. Lipton, Jungle Bloom, 1954. Collection, Yale University Art Gallery, New Haven. Gift of Mrs. Frederick W. Hilles.
+- 36. Seymour Lipton, Sentinel, 1959. Collection, Yale University Art Gallery, New Haven. CHAPTER THREE:
+- 37. David Smith, Cubi XVIII, 1964. From the Estate of David Smith. Photograph, Marlborough-Gerson Gallery, New York.
+- 38. David Smith. Cubi XXIII, 1964. Collection Los Angeles County Museum of Art. Gift of Contemporary Art Council.
+- 39. Anthony Caro, Homage to David Smith, 1966. Courtesy, Mrs. Mary H. D. Swift. Photograph, Andre Emmerich Gallery.
+- 40. Gerald Laing and Peter Phillips, Hybrid, 1965. Courtesy, Kornblee Gallery, New York.
+- 41. Naum Gabo, Construction in Space, 1928. Philadelphia Museum of Art. A. E. Gallatin Collection.
+- 42. Kenneth Snelson, Atom, 1964. Courtesy, Dwan Gallery, New York.
+- 43. Georges Vantongerloo, Drawing for a Construction in an Inscribed and Circumscribed Square ofa Circle, 1924. From Georges Vantongerloo: "Paintings. Sculptures, Reflections" (Series: Problems of Contemporary Art, Volume 5). Courtesy, George Wittenborn, Inc., New York.
+- 44. Georges Vantongerloo, Construction in an. Inscribed and Circumscribed Square of a Circle,
+- 1924. From Georges Vantongerloo: "Paintings, Sculptures, Reflections" (Series: Problems of Contemporary Art, Volume 5). Collection, Peggy Guggenheim Foundation, Venice. Courtesy, George Wittenborn, Inc., New York.
+- 45. Georges Vantongerloo, Drawing for a Construction Based on an Equilateral Hyperbola, XY=K, 1929. From Georges Vantongerloo: "Paintings, Sculptures, Reflections" (Series: Problems of Contemporary Art, Volume 5). Courtesy, George Wittenborn, Inc., New York. =
+- 46. Georges Vantongerloo, Construction Based on an Equilateral Hyperbola, XY K, 1929. From Georges Vantongerloo: "Paintings, Sculptures, Reflections" (Series: Problems of Contemporary Art, Volume 5). Courtesy, George Wittenborn, Inc., New York.
+- 47. Antoine Pevsner, Developable Surface, 1936. Courtesy of Mme. Virginie Pevsner.
+- 48. Antoine Pevsner, Developable Column, 1942. Collection, Museum of Modern Art, New York.
+- 49. Naum Gabo, Linear Construction, 1942. Collection, Solomon R. Guggenheim Museum, New York.
+- 50. Naum Gabo, Translucent Variation on Spheric Theme, 1951 version of 1937 original. Collection, Solomon R. Guggenheim Museum, New York. 5!. Max Bill, Endless Ribbon, 1935-1953. Collection, Openair Museum for Sculpture, Middelheim, Antwerp. Photography by Jean De Maeyer, Antwerp.
+- 52. Max Bill, Monoangulated Surface in Space, 1959. Courtesy, Detroit Institute of Arts.
+- 53. Max Bill, Continuous Surface in Form of a Column, 1953-1958. Collection, Albright-Knox Art Gallery, Buffalo, New York. Gift of Seymour H. Knox.
+- 54. Edwin Hauer, Identical and Complementary Volumes, 1958. Courtesy of the artist.
+- 55. Claes Oldenburg, Dual Hamburgers, 1962. Collection, Museum of Modern Art, New York. Philip C. Johnson Fund.
+- 56. Donald Judd, Untitled, 1965. Collection, Whitney Museum of American Art, New York. Gift of the Howard and Jean Lipman Foundation, Inc.
+- 57. Alexander Archipenko, Woman Combing Her Hair, 1915. Collection, Museum of Modern Art, New York. Acquired through the Lillie P. Bliss Bequest.
+- 58. Barbara Hepworth, Hollow Form (Penwith), 1955-1956. Collection, Museum of Modern Art, New York. Gift of Dr. and Mrs. Arthur Lejwa.
+- 59. Larry Bell, Untitled, 1966. Courtesy, Pace Gallery, New York.
+- 60. Vladimir Tatlin, Monument to the Third International, 1920. Reproduced from The Great Experiment: Russian Art 1863-1922 by courtesy of Miss Camilla Gray.
+- 61. Deborah de Moulpied, Form No.4, 1960 (Vinyl). Courtesy of the artist.
+- 62. Julio Gonzalez, Maternity, 1933. Reprinted from "Julio Gonzalez." Courtesy, Museum of Modern Art, New York. Collection, Moderna Museet, Stockholm.
+- 63. Isamu Noguchi, The Cry, 1962. Collection, Albright-Knox Art Gallery, Buffalo, New York. George Cary and Elisabeth H. Gate's Funds.
+- 64. David von Schlegell, Needle, 1967. Courtesy, Art Institute of Chicago.
+- 65. Kenneth Snelson, Audry 1, 1966. Courtesy, Dwan Gallery, New York.
+- 66. Jose de Rivera, Brussels Construction, 1958. Courtesy, Art Institute of Chicago.
+- 67. Hans Breder, Untitled, 1966. Courtesy, Mr. and Mrs. Gustave Rath.
+- 68. Will Horwitt, Growth, 1959. Courtesy, Wadsworth Atheneum, Hartford. Photograph taken by the author.
+- 69. Gerald Laing, Tunnel, 1966. Collection, Professor Hanford Yang. Photograph, Richard Feigen Gallery, New York. CHAPTER FOUR:
+- 70. Phillip King, Rosebud, 1962. Collection, Richard Feigen Gallery, New York.
+- 71. Donald Judd, View of exhibition at Green Gallery, December 17, 1963-January II, 1964. Courtesy, Leo Castelli Gallery, New York.
+- 72. Tony Smith, Amaryllis, 1965, Courtesy, Fischbach Gallery, New York.
+- 73. Donald Judd, Untitled, 1964. Courtesy, Leo Castelli Gallery, New York.
+- 74. Robert Morris, View of exhibition at Dwan Gallery. Los Angeles, 1966. Courtesy, Leo Castelli Gallery, New York.
+- 75. Sol Lewitt, Untitled, 1966. Courtesy, Dwan Gallery, New York. CHAPTER FIVE:
+- 76. Alexander Archipenko, Medrano I (Juggler), 1912. Courtesy, Mrs. Alexander Archipenko.
+- 77. Antoine Pevsner, Torso, 1924-1926. Collection, Museum of Modem Art, New York. Katherine S. Dreier Bequest.
+- 78. Raymond Duchamp-Villon, The Great Horse, 1914. Courtesy, Art Institute of Chicago.
+- 79. Jacques Lipchitz, Man with Mandolin, 1917. Collection, Yale University Art Gallery, New Haven. Gift of the Societe Anonyme.
+- 80. Femand Leger, The Card Players, 1917. Courtesy, Rijksmuseum Kroller-Miiller, Otterloo, Holland.
+- 81. Oskar Schlemmer, Abstract Figure, 1921. Courtesy, Frau Tut Schlemmer, Stuttgart.
+- 82. Marcel Duchamp, The Great Glass, 1915—1923. Courtesy, Philadelphia Museum of Art. Photograph, A. J. Wyatt, staff photographer. CHAPTER SIX:
+- 83. Marcel Duchamp, Bicycle Wheel, 1913. Reprinted from Marcel Duchamp by Robert Lebel. Photograph courtesy of The Trianon Press.
+- 84. Marcel Duchamp, Rotary Demi-Sphere, 1925. Reprinted from Marcel Duchamp by Robert Lebel. Photograph courtesy of The Trianon Press.
+- 85. Naum Gabo, Kinetic Construction, 1920. Courtesy of the artist.
+- 86. Alexander Calder, A Universe, 1934. Collection, Museum of Modem Art, New York. Gift of Abby Aldrich Rockefeller.
+- 87. Alexander Calder, Snow Flurry I, 1948. Collection, Museum of Modem Art, New York. Gift of the artist.
+- 88. Yves Klein, Double Sided Wall of Fire, 1961 (Installed for Yves Klein exhibition at the Museum Haus Lange, Krefeld, West Germany). Courtesy, Museum Haus Lange.
+- 89. Jean Tinguely, Radio Drawing, 1962. Courtesy, Alexander Iolas Gallery, New York.
+- 90. Piet Mondrian, Composition in Black and Grey, 1919. Courtesy, Philadelphia Museum of Art. Louise and Walter Arensberg Collection.
+- 91. Gunther Uecker, Moving Light, 1960. Courtesy, Howard Wise Gallery, New York.
+- 92. Toni Costa, Visual Dynamics. 1965. Courtesy, Waddell Gallery, Inc., New York.
+- 93. Enrico Castellani, Convergent Structure, 1966. Courtesy, Betty Parsons Gallery, New York.
+- 94. Francisco Sobrino, Juxtaposition Superimposition C, 1962-1963. Courtesy, The Contemporaries, New York.
+- 95. Francois Morellet, Sphere- Web, 1962. Courtesy, The Contemporaries, New York.
+- 96. Joel Stein, Trihedral: With Manipulatable Elements, 1964. Courtesy, The Contemporaries, New York.
+- 97. Heinz Mack, Light Dynamo No.2, 1966. Courtesy, Howard Wise Gallery, New York.
+- 98. George Rickey, Two Lines-Temporal I, 1964. Collection, Museum of Modem Art, New York. Mrs. Simon Guggenheim Fund.
+- 99. Len Lye, Loop (still), 1963. Courtesy, Art Institute of Chicago.
+- 100. Takis, Installation photo of 1967 exhibition at Howard Wise Gallery, New York. Courtesy, Howard Wise Gallery.
+- 101. Pol Bury, 18 Superimposed Balls, 1965. Collection, Mr. and Mrs. Chapin Riley. Photograph, Lefebre Gallery, New York.
+- 102. Julio Le Pare, Continuel-Mobile Suspended, 1962. Courtesy, Howard Wise Gallery, New York.
+- 103. Nicolas Schaffer, M icrotemps 10, 1964. Courtesy of the artist. Photograph, Galerie Denise Rene, Paris.
+- 104. Hans Haacke, Weather Cube, 1965. Courtesy of the artist. CHAPTER SEVEN:
+- 105. Thomas Wilfred, Lumia Suite, Opus 158, 1963-1964. Collection, Museum of Modern Art, New York. Commission by Museum of Modern Art, Mrs. Simon Guggenheim Fund, 1963.
+- 106. Laszlo Moholy-Nagy, Light-Space Modulator, 1922-1930. Courtesy, Busch-Reisinger Museum, Harvard University, Cambridge.
+- 107. Otto Piene, Light Ballet, 1961 (from a show at the Museum Leverkusen, West Germany). Collection, Museum Leverkusen. Photograph courtesy of the artist.
+- 108. Otto Piene, Corona Borealis, 1965. Courtesy, Howard Wise Gallery, New York.
+- 109. Nicolas Schaffer. Lux I, 1957. Courtesy of the artist. Photograph, Galerie Denise Rene, Paris.
+- 110. Francois Morellet, Successive Illuminations, 1963. Courtesy, The Contemporaries, New York. III. Jack Burnham. Two Four-Unit Modular Tapes. 1968. Collection of the artist.
+- 112. Dan Flavin. Installation photograph of 1964 exhibition at the Green Gallery. New York. Courtesy, Kornblee Gallery, New York.
+- 113. Chryssa, Ampersand IV, 1965. Courtesy, Pace Gallery, New York.
+- 114. Martial Raysse, Proposition to Escape: Heart Garden, 1966. Courtesy, Alexander lolas Gallery, New York.
+- 115. Howard W. Jones. Skylight Two, 1966. Collection, Mr. and Mrs. Bruce B. Dayton, Minneapolis.
+- 116. Ted Kraynik, Video Luminar No.3, 1967. Courtesy of the artist.
+- 117. Billy Apple, Solar 15, 1966. Courtesy, Howard Wise Gallery, New York. CHAPTER EIGHT:
+- 118. Eduardo Paolozzi, St. Sebastian, No.2, 1957. Collection, Solomon R. Guggenheim Museum, New York. 393
+- 119. Ernest Trova, Study Falling Man (Landscape on Wheels), 1966-1967. Courtesy, Pace Gallery, New York. Photograph, Ferdinand Boesch.
+- 120. Frank Gallo, Walking Nude, 1967. Courtesy, Gilman Galleries, Chicago.
+- 121. Jean Ipousteguy, David and Goliath, 1959. Collection, Museum of Modern Art, New York. Matthew T. Mellon Foundation Fund.
+- 122. Edward Kienholz, The State Hospital, 1964-1966. Courtesy, Dwan Gallery, New York. Nicolas Schaffer, Courtesy of the artist. Photograph, Editions du Griffon,
+- 123. CYSP I, 1956. Neuchatel, Switzerland.
+- 124. Hans Haacke, Ice Stick, 1966. Courtesy of the artist. Hans Haacke, Courtesy of the artist.
+- 125. Grass Cube, 1967.
+- 126. Enrique Castro-Cid, Installation photograph of 1965 exhibition. Courtesy, Richard Feigen Gallery, New York. Photograph, Geoffrey Clements.
+- 127. Nam June Paik, Robot-K456 with 20-Channel Radio Control and lO-Channel Data Recorder, Courtesy, Galeria Bonino, Ltd., New York. Photograph, Peter Moore. 1965.
+- 128. David von Schlegell, Radio Controlled Sculpture, 1966. Collection, Whitney Museum of American Art, New York. Gift of the Howard and Jean Lipman Foundation, Inc.
+- 129. Robert Breer, Self-Propelled Styrofoam Floats, 1965-1966. Courtesy, Galeria Bonino, Ltd., New York. Dallegret, Courtesy of the artist.
+- 130. Francois The Machine, 1966.
+- 131. Thomas Shannon, Squat, 1966. Courtesy of the artist.
+- 132. James Seawright, Searcher, 1966. Collection, Whitney Museum of American Art, New York. Gift of the Howard and Jean Lipman Foundation, Inc. Photograph courtesy, Stable Gallery, New York.
+- 133. Alex Hay, Grass Field, in "9 evenings: theatre & engineering," October 13-22, 1966. Courtesy of the artist. Photograph, Peter Moore. Les Levine, Courtesy of the artist.
+- 134. Slipcover: A Place, 1967.
+- 135. Morton Shamberg, God, 1918. Courtesy, Philadelphia Museum of Art. Louise and Walter Arensberg Collection.

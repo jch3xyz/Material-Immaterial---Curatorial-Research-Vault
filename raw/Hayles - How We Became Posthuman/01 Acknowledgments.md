@@ -1,0 +1,18 @@
+---
+book: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
+author: N. Katherine Hayles
+section: Acknowledgments
+source_pages: 10-11 (PDF pages; 400dpi scans, re-OCR’d)
+type: source
+---
+
+# Acknowledgments
+
+The notion of distributed cognition, central to the posthuman as it is defined in this book, makes acknowledging intellectual and practical contributions to this project an inevitability as well as a pleasure. The arguments have benefited from conversations and correspondence with many friends and colleagues, among them Evelyn Fox Keller, Felicity Nussbaum, Rob Latham, Adalaide Morris, Brooks Landon, Peter Galison, Timothy Lenoir, Sandra Harding, Sharon Traweek, and Marjorie Luesebrink. Mark Poster and an anonymous reader for the University of Chicago Press gave valuable suggestions for revisions and rethinking parts of the argument. Tom Ray, Rodney Brooks, and Mark Tilden graciously spoke with me about their artificial life projects, and Stefan Helmreich shared with me an early version of his book on artificial life. Many of my students gave valuable feedback and criticism of early versions of my ideas, including Carol Wald, Jim Berkley, Kevin Fisher, Evan Nisonson, Mark Sander, Linda Whitford, and jill Galvin.
+
+I am also very grateful for the institutional support I have received, including a fellowship from the Guggenheim Foundation, a fellowship from the Stanford Humanities Center, a Presidential Research Fellowship from the University of California, support from the Council on Research at the University of California at Los Angeles, and a leave of absence and research support from the University of Towa. I could not have completed this project without this generous support.
+
+I owe a debt of gratitude as well to Routledge Press for allowing me to reprint “Narratives of Artificial Life,” from FutureNatural: Nature, Science, Culture, edited by George Robertson, Melinda Mash, Lisa Tickner, John Bird, Barry Curtis, and Tim Putnam, pp. 145-46, © 1996 (appearing in revised form as chapter 9); and “Designs on the Body: Cybernetics, Norbert Wiener, and the Play of Metaphor,” from History of the Human Sciences 3 (1990): 212-28 (appearing in revised from as a portion of chapter 4). Johns Hopkins University Press has graciously allowed me to reprint three articles appearing in Configurations: A Journal of Literature, Science, and Technology—‘The Materiality of Informatics,” Configurations | (1993): 147-70 (appearing in revised form as a portion of chapter 8); “Boundary Disputes: Homeostasis, Reflexivity, and the Foundations of Cybernetics,” ibid. 3 (1994): 441-67 (appearing in revised form as part of chapter 3); and “The Posthuman Body: Inscription and Incorporation in Galatea 2.2 and Snow Crash,” ibid. 5 (1997): 241-66 (appearing as part of chapter 10). MIT Press has given permission to reprint “Virtual Bodies and Flickering Signifiers,” from October 66 (Fall 1993): 69-91 (appearing in slightly revised form as chapter 2). The University of North Carolina Press has given permission to reprint a portion of “Voices Out of Bodies, Bodies Out of Voices,” from Sound States: Innovative Poetics and Acoustical Technologies, edited by Adalaide Morris, pp. 74-78, 86-96, © 1997 by The University of North Carolina Press (appearing in revised form as a part of chapter 8). The Journal of the Fantastic in the Arts has given permission to reprint “Schizoid Android: Cybernetics and the Mid-60s Novels of Dick,” JFIA 8 (1997): 419-42 (appearing in slightly revised form as chapter 6).
+
+Finally, my greatest debt is to my family, who have listened patiently to my ideas over the years, and to my husband, Nick Gessler, from whom I have learned more than I can say.
+

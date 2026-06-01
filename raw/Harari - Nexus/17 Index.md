@@ -1,0 +1,1632 @@
+---
+book: "Nexus: A Brief History of Information Networks from the Stone Age to AI"
+author: "Yuval Noah Harari"
+chapter: "Index"
+source_pages: "PDF pp. 509–590"
+type: source
+---
+
+# Index
+
+*Page numbers refer to the print edition.*
+
+
+### A
+
+- Aaronsohn, Sarah, 6, 8–9, 40
+- Abkhazia, 26
+- academia, 52, 128
+  - See also science
+- Acts of Paul and Thecla, 88, 198
+- Adams, John Quincy, 149–51, 152
+- AI
+  - agency as hallmark of, 199–200
+  - automation and, 316–22, 373–74
+  - canonization of, 399–400
+  - culture and, 212–13
+  - data analysis and, 235
+  - development of, 366–70, 469n8
+  - digital anarchy and, 342
+  - end of history and, 211–12
+  - existential threats and, xxii, 300–301, 305, 361–62, 403
+  - go (game) and, 331–32, 368–69
+  - holy books and, 82
+  - infallibility and, 71
+  - intelligence vs. consciousness and, 201–2, 204, 321–22
+  - intimacy and, 210–11, 214–15, 320–22, 342
+  - language and, 207–8, 210, 211, 213
+  - legal personhood and, 288–89, 381
+  - naive view of information on, xx–xxi
+  - political conversations and, 209–10
+  - political influence and, 211–12, 342, 344–45
+  - political positions on, 224–25
+  - religion and, 209
+  - societal benefits of, 305–6
+  - stories and, 214
+  - terminology and, 217–18
+  - training of, 222, 293–97, 349, 350, 366, 367–68
+  - See also algorithms; alignment problem; computer-based network;
+  - computers as independent agents; global impacts; regulation
+- Akiva, Rabbi, 77
+- Alexander VI (pope), 107
+- AlexNet, 367–68, 469n8
+- algorithms
+  - computers as independent agents and, 198, 199–200, 202–3, 224
+  - criminal justice system and, 329–31
+  - cryptocurrency and, 288
+  - data analysis and, 235–37
+  - doublespeak and, 353
+  - facial recognition, 243–44, 245–46, 293–94, 295–96, 368
+  - Google ranks and, 286–87
+  - multiple data points and, 334–37
+  - political influence and, 198, 344–45
+  - regulation of, 344–45
+  - as self-correcting mechanisms, 36–38
+  - societal benefits of, 266
+  - suspected terrorists and, 235–36
+  - terminology and, 217, 218
+  - See also AI; computer-based network; computer network goals;
+  - computers as independent agents; social media
+- Alibaba, 219, 368
+- alignment problem, 267–77
+  - computer network goals and, 274–77
+  - military theory and, 267–71, 275–76
+  - mythology and, 285
+  - paper-clip thought experiment and, 271–72, 274
+  - totalitarian computer politics and, 352
+- AlphaGo, 331–32, 368–69
+- Altman, Sam, xxi
+- Amazon, 219, 296–97, 373
+- Amini, Mahsa, 245, 247
+- Amodei, Dario, 273
+- ancient world
+  - autocracy vs. totalitarianism and, 154–56
+  - centralization of power, 118–19, 140–41, 356–58, 372–73
+  - democracy and, 136–41, 142, 143–44
+  - media and, 152
+  - money, 250
+  - religious institutions, 73
+  - totalitarian experiments, 156–60
+  - written documents, 45–46, 47–48
+  - See also Roman Empire; Stone Age humans
+- Andreessen, Marc, xx, 305
+- animals
+  - biological dramas and, 59, 60, 61–62
+  - cooperation and, 18, 19
+  - stories and, 30
+- Annan, Kofi, 396
+- antisemitism, 65–67, 183
+  - See also bias; Nazism
+- anti-vax movement, xxiv
+- Apple, 227
+- Aquinas, Thomas, 91
+- archives, 49, 64–65, 74, 78, 98
+  - See also written documents
+- Ariosto, Ludovico, 63–64
+- Aristotle, 144
+- Armenian Church, 87
+- art, 58–59, 62–63
+- Arthashastra, 411n21
+- Artificial Intelligence Act (European Union), 340, 466n47
+- astrology, 11
+- Athanasius of Alexandria, 85–86, 87
+- Athens, 138–39, 152
+  - See also Greece, ancient
+- atom bomb, 32, 33
+- Augustine, Saint, 22, 70, 91
+- Augustus Caesar (Roman emperor), 140, 141, 356
+- authoritarian regimes. See autocracies; totalitarianism
+- authority. See power
+- autocracies
+  - absence of self-correcting mechanisms in, 117, 119, 179–80, 358–60
+  - ancient world, 139–40, 154
+  - centralization of power and, 118–19, 121
+  - computer-based network and, 224
+  - elections and, 122–23, 134, 141, 144–45
+  - evaluating, 134–36
+  - local democracy within, 144–46, 160
+  - majority rule and, 123–24
+  - overthrow threat and, 155, 354
+  - populism and, 133–34
+  - simplicity and, 129
+  - surveillance and, 241
+  - vs. totalitarianism, 118–19, 154–56
+  - unfathomability and, 326
+  - See also totalitarianism
+- automation, 316–22, 373–74
+
+### B
+
+- Baidu, 219, 368
+- Baining people, 71–73
+- Balfour Declaration (1917), 9
+- Benedict XII (pope) (Jacques Fournier), 89–90, 91, 112
+- benevolence, 311–12
+- Bengio, Yoshua, xxi
+- Bentham, Jeremy, 281, 282
+- Berkeley, George, 102
+- Bernstein, Eduard, 149
+- Bialik, Hayim Nahman, 40
+- bias
+  - computer-based network and, 292–98, 329
+  - data analysis and, 236
+  - intersubjective realities and, 290–91
+  - self-correcting mechanisms and, 111, 115, 128
+  - See also antisemitism; errors; racism
+- Bible
+  - biological dramas and, 60
+  - connection and, 16
+  - definitions of information and, 4–5, 14–15
+  - enslavement and, 328
+  - interpretation of, 89–91, 328
+  - misinformation/disinformation and, 15–16, 414n15
+  - Protestant Reformation and, 91
+  - self-correcting mechanisms and, 35–36
+  - Zionism and, 42
+  - See also Hebrew Bible; New Testament; religion
+- Biden, Joe, 376
+- Big Short, The, 63
+- biological dramas, 58–62, 63, 216, 327–28
+- biometric surveillance, 238–40, 241–42, 291, 451n19
+- bitcoin, 25–26, 288
+- Black Mirror, 339, 340
+- Blazich, Frank, 21–22
+- Bletchley Declaration on AI (2023), xxi
+- blockchain technology, 350–51
+- Boguet, Henri, 96
+- Bolshevik Revolution (1917), 161, 323
+- Bolsonaro, Jair, xxiv, xxv–xxvi, xxvii, 122, 259
+  - See also Brazil
+- Bondarenko, Aleksandr, 115
+- books, 74
+  - See also holy books
+- Borges, Jorge Luis, 10, 13
+- Bostrom, Nick, 271–72, 412–13n1
+- bots, 218, 287, 341–42, 344, 352
+  - See also algorithms
+- Boyle, Robert, 102
+- Bradley, Ann Walsh, 330
+- Brahe, Tycho, 102
+- Brandeis, Louis D., 11
+- brands, 20–21, 22
+- Brazil, 263, 272
+  - See also Bolsonaro, Jair
+- Brown v. Board of Education, 327, 328–29
+- Buddhism, 213
+- Bukharin, Nikolai, 351
+- Buolamwini, Joy, 293, 295
+- bureaucracy, 49–58
+  - alignment problem and, 271
+  - antipathy to, 56–57, 63–64
+  - art and, 58–59, 62–63
+  - benevolence and, 311
+  - biological dramas and, 58–59, 62–63, 338
+  - centralization of power and, 58
+  - compartmentalization and, 50–54
+  - computer-based network and, 68, 305
+  - dangers of, 65–67, 68
+  - democracy and, 129
+  - errors and, 70
+  - goals of, 51, 284–85
+  - human basis of, 327–28
+  - intersubjective realities and, 50, 291
+  - societal benefits of, 54–56, 68
+  - surveillance and, 230–31
+  - totalitarianism and, 169, 170
+  - truth-order balance and, 49–50, 51, 68
+  - unfathomability and, 56–57, 62, 63, 129, 326–27
+  - witch hunts and, 98–99
+  - See also written documents
+- Burke, Edmund, 323, 324
+- Bush, George H. W., 126, 269
+- Byzantine empire, 174
+
+### C
+
+- Cain and Abel story, 60
+- California Homebrew Computer Club, 227
+- Camillus, Marcus, 143
+- Canon Episcopi, 93, 428n68
+- Cantor, Georg, 114–15
+- Capitol attack (Jan. 6, 2021), 209, 242–43, 324
+- CAPTCHA puzzles, 203–4
+- Caracalla (Roman emperor), 140, 351
+- caste system, 61, 314
+- Catch-22 (Heller), 62
+- Catholic Church
+  - apologies by, 107–8
+  - Bible interpretation and, 89–91
+  - centralization of power and, 90, 102, 175–76
+  - Investiture Controversy, 173
+  - mind-body problem and, 379
+  - network size of, 18
+  - New Testament canonization and, 88
+  - papal infallibility, 107
+  - print revolution and, 92
+  - schisms in, 89
+  - self-correcting mechanisms and, 105–6, 107–8
+  - stories and, 19
+  - totalitarianism and, 173
+  - witch hunts and, 93, 94
+- CCTV cameras, 242
+- Ceauşescu, Nicolae, 232–33
+- centralization of power
+  - ancient world, 118–19, 140–41, 356–58, 372–73
+  - autocracies and, 118–19, 121
+  - bureaucracy and, 58
+  - disadvantages of, 177–78
+  - global impacts and, 364, 366
+  - holy books and, 90
+  - imperialism/colonialism and, 372–73
+  - overthrow threat and, 356–58, 357
+  - religion and, 90, 102
+  - totalitarianism and, 118–19, 157, 176–77, 348–50, 354–58, 357
+- Chail, Jaswant Singh, 211
+- Chalmers, David, 412–13n1
+- Chaos Machine, The (Fisher), 259–61
+- charismatic leadership
+  - absence of self-correcting mechanisms and, 179–80, 358
+  - brands and, 20–21
+  - majority rule and, 127
+  - populism and, xxvii, xxviii, 134
+  - stories and, 19–21
+- ChatGPT, 319–20, 342
+- Chávez, Hugo, 131
+- Cher Ami, 4, 21–22
+- Chernobyl disaster (1986), 177–78, 179
+- child mortality, xix–xx
+- chimpanzees. See animals
+- China
+  - AI development and, 369
+  - network size of, 18
+  - Qin dynasty, 157–60
+  - Silicon Curtain and, 375–76
+  - social media banning, 371
+  - social order and, 36
+  - stories and, 19
+- cholera, 55–56
+- Christianity
+  - biological dramas and, 59
+  - errors and, 70
+  - Hebrew Bible and, 84–85, 86
+  - intersubjective realities and, 27
+  - mind-body problem and, 378–79, 382
+  - stories and, 22–23
+  - See also Catholic Church
+- Citizens United v. Federal Election Commission, 288
+- city-states, 138, 143, 144, 156–57
+- civil rights, democracy and, 124–26
+- Clarke, Arthur C., 194
+- Clausewitz, Carl von, 267–68, 270–71, 275–76
+- climate change, 127, 229
+- Coca-Cola, 20
+- Cold War, xiv, xvii–xviii, 117, 308, 382–83
+- colonialism. See imperialism/colonialism
+- Coming Wave, The (Suleyman), 332
+- Communist Manifesto, The (Marx), xxv
+- communist parties, 130
+- Communist Party of Great Britain (CPGB), 130
+- compartmentalization, 50–54
+- COMPAS, 329–30, 335, 336–38
+- computer-based network
+  - autocracies and, 224
+  - bias and, 292–98, 329
+  - bureaucracy and, 68, 305
+  - as comprehensive nexus, 235
+  - continuous operation of, 254–55
+  - counterfeiting and, 344
+  - data analysis and, 235–36
+  - fallibility of, 255, 261, 299, 300–301, 329, 400
+  - finance and, 215, 220–21
+  - as infallible, 298–99
+  - inter-computer realities and, 285–89
+  - power of, 272
+  - revolutionary nature of, 219
+  - societal benefits of, 289
+  - surveillance and, 234–35, 237, 238–40
+  - taxation and, 221–24
+  - unprecedented nature of, 205–6, 206, 215–16
+  - See also computer network goals; democratic computer politics; global
+  - impacts; totalitarian computer politics
+- computer network goals, 202–4, 274–84
+  - AI training and, 295–96
+  - bureaucracy and, 51, 284–85
+  - deontology and, 278–80, 284
+  - history and, 396
+  - intelligence vs. consciousness and, 201, 204
+  - mythology and, 284–85
+  - self-correcting mechanisms and, 274–75
+  - totalitarian computer politics and, 355
+  - utilitarianism and, 281–84
+  - See also alignment problem; user engagement
+- computer politics, 211–12
+  - truth-order balance and, 229
+  - unfathomability of, 224–25
+  - See also democratic computer politics; totalitarian computer politics
+- computers
+  - capabilities of, 207–8
+  - early development of, 188, 226–28
+  - evolution of, 193, 216–17, 218–19
+  - history of, 193
+  - physical basis of, 218
+  - Soviet industry and, 188, 226–27
+  - terminology for, 217
+  - written documents as forerunners of, 46
+  - See also AI; algorithms; computer-based network; computers as
+  - independent agents
+- computers as independent agents, xxiii–xxiv
+  - blame on human nature and, 261–62
+  - computer politics and, 224
+  - digital anarchy and, 342–43
+  - fallibility and, 261, 299
+  - political influence and, 197, 198–200, 260–61, 263, 272, 344–45,
+  - 371
+  - regulation and, 344–45
+  - tech company culpability and, 219–20, 261–64
+  - tech company pushback on, 261–62
+  - totalitarian computer politics and, 354–56
+  - as unprecedented, 194–95, 399
+  - See also computer network goals
+- confirmation bias, 104
+- Confucianism, 159, 160
+- connection, 12, 13–14, 16–17, 19
+- conspiracy theories
+  - AI and, 200
+  - biometric surveillance and, 240
+  - QAnon, xxiv, 95, 208–9
+  - self-correcting mechanisms and, 104
+  - social media and, 196, 259, 260
+  - Stalinism and, 168, 180, 183, 184, 290
+  - unfathomability and, 334
+  - witch hunts and, 95, 96, 97, 99, 100
+- Constantine V (Byzantine emperor), 174
+- cooperation
+  - global possibilities, 384–86
+  - vs. personal bonds, 18–19
+  - property rights and, 46–47
+  - Stone Age humans and, 19, 32, 388–89
+  - stories and, 18–19, 28–29, 384–85, 416n19
+- Copernicus, Nicolaus, 101, 102
+- corporations. See tech companies
+- Council of Carthage (397), 86, 88
+- Council of Hieria (754), 174
+- Council of Hippo (393), 86, 88
+- counterspeech doctrine, 10–11
+- COVID-19 pandemic, 16, 51–52, 241, 282–83, 385
+- creativity, 318
+- Crown, The, 63
+- cryptocurrency, 25–26, 288
+- cyber warfare, 383
+
+### D
+
+- damnatio memoriae, 351
+- Daoism, 159
+- data mining, 221, 311–12, 313, 372
+- Dead Sea Scrolls, 75–76
+- decentralization, 146–48, 149, 151, 312–13, 340, 362–64, 435nn36–37
+- democracy
+  - ancient world and, 136–41, 142, 143–44
+  - as autocratic tool, 122–23
+  - bureaucracy and, 129
+  - complexity of, 129
+  - as continuum, 135, 146–47, 151
+  - decentralization and, 146–48, 149, 151, 312–13, 340, 435nn36–37
+  - disadvantages of, 186
+  - distributed information networks and, 119–20, 176, 177–78, 186,
+  - 189
+  - education and, 142
+  - elections and, 123–24, 150–51
+  - evaluating, 134–36
+  - freedom of the press and, 152–53, 154
+  - human and civil rights and, 124–26, 147
+  - information technology and, 185–86, 345–46
+  - local, 144–45, 160
+  - majority rule and, 120, 122, 124–25, 126–27
+  - media and, 142, 146, 148–53
+  - misinformation/disinformation and, 126–27
+  - 1960s cultural conflicts and, 186–87, 345
+  - populism as threat to, 131–32
+  - power of the people and, 129
+  - self-correcting mechanisms and, 117, 119, 120–22, 123, 124–25,
+  - 128, 147, 151
+  - Silicon Curtain and, 375
+  - social order and, 188–89
+  - Stone Age humans and, 136–38
+  - success of, 309, 310
+  - truth and, 127–28
+  - truth-order balance and, 186–87
+  - undermining of, 122–23, 133–34
+  - See also democratic computer politics; political conversations
+- democratic computer politics, 309–47
+  - automation and, 316–22
+  - conservative party self-destruction and, 322–26
+  - data mining and, 311–12
+  - decentralization and, 312–13
+  - digital anarchy and, 340–43
+  - flexibility and, 325–26
+  - regulation and, 340, 343–45
+  - right to explanation and, 331, 333
+  - stories and, 338–40
+  - surveillance and, 309–16
+  - See also unfathomability
+- Demosthenes, 152
+- Dennett, Daniel, 343, 344
+- deontology, 278–80, 284
+- Descartes, René, 102, 213
+- de Staël, Madame, 140
+- Deuteronomy, 76
+- de Waal, Frans, 388
+- Diagnostic and Statistical Manual of Mental Disorders (DSM), 111
+- dictatorships. See autocracies
+- Diderot, Denis, 102
+- digital anarchy, 340–43
+- disease, 16, 51–52, 55–56, 61, 385–86
+  - See also COVID-19 pandemic
+- disinformation. See misinformation/disinformation
+- distributed information networks, 119–20, 176, 177–78, 186, 189
+  - See also decentralization
+- DNA, 12–13
+- Dreyfus, Hubert, 317
+- Dum Diversas, 108
+- Dutch Republic, 146, 147–48, 149
+- Duterte, Rodrigo, 122
+
+### E
+
+- Eager, Sherman, 21–22
+- East Germany, 228
+- Edelin, Guillaume, 97–98
+- education, 142
+- effective altruism movement, 281
+- Eichmann, Adolf, 279
+- Einstein, Albert, 359–60
+- elections
+  - autocracies and, 122–23, 134, 141, 144–45
+  - democracy and, 123–24, 150–51
+  - local, 144–45
+  - populism and, 129–30, 134
+  - self-correcting mechanisms and, 121–22, 126
+  - truth-order balance and, 126
+  - See also majority rule
+- emotional intelligence, 318–21
+- empires, 138–39
+  - See also imperialism/colonialism
+- empiricism, xxvi–xxvii
+- Encyclopédie, 103
+- Enoch, 75–76, 77
+- enslavement, 151, 170, 328
+- epidemics. See disease
+- Erdogan, Recep Tayyip, 122, 123, 131
+- error-enhancing mechanisms, 265
+- errors
+  - centralization of power and, 349
+  - denial of, 109
+  - in holy books, 79
+  - naive view of information on, 91–92
+  - new technologies and, 305–9
+  - stories and, 31
+  - truth-order balance and, 68–69
+  - written documents and, 46
+  - See also infallibility; misinformation/disinformation; self-correcting
+  - mechanisms
+- Ethiopian Church, 87
+- European Union, 340, 375, 466n47
+- evolution
+  - biological dramas and, 59–60, 62
+  - compartmentalization and, 52–53
+  - cooperation and, 19
+  - definitions of information and, 13
+  - memory and, 49
+  - stories and, 44
+  - truth-order balance and, 38
+- existential threats, xxii, 300–301, 305, 361–62, 403
+- extinction, 54
+- eye-movement tracking, 238–39
+
+### F
+
+- Facebook
+  - AI development and, 368
+  - culpability of, 204, 219, 220, 262–63, 264
+  - error-enhancing mechanisms, 265
+  - political influence and, 195–99, 259
+  - QAnon and, 208–9
+  - self-correcting mechanisms and, 264
+  - See also social media; tech companies
+- facial recognition, 243–44, 245–47, 293–94, 295–96, 368
+- fake news. See misinformation/disinformation
+- fallibility. See errors; infallibility
+- false consciousness, 130, 131
+- family, 23, 24, 171–72
+- fiduciary duty, 311–12
+- finance
+  - computer-based network and, 215, 220–21
+  - computer power and, 207
+  - inter-computer realities and, 288
+  - money, 250–52
+  - regulation and, 343–44
+  - unfathomability and, 333–34
+- financial crisis (2007–2008), 63, 288, 334
+- Fisher, Max, 259–61
+- Flood myth, 4–5, 414n15
+- Foucault, Michel, xxv
+- Fournier, Jacques (Pope Benedict XII), 89–90, 92, 112
+- Francis (pope), 108, 109
+- freedom of the press, 152–53, 154
+- freedom of speech, 136, 289, 344, 354
+- French Académie des Sciences, 102
+- French Revolution, 65, 324
+
+### G
+
+- game theory, 384
+- Game of Thrones, 63
+- Genesis, 15, 75, 76, 77, 414n15
+- Gettysburg Address (Lincoln), 152–53
+- Ghazanfarabadi, Mousa, 245
+- global impacts, 361–93
+  - automation and, 373–74
+  - centralization of power and, 364, 366
+  - cooperation and, 384–86
+  - cultural divisions, 378–82
+  - current international decentralization and, 362–64
+  - data colonialism and, 370–74
+  - existential threats, xxii, 300–301, 305, 361–62, 403
+  - international system and, 387–93
+  - mind-body problem and, 377–82
+  - regulation and, 387
+  - Silicon Curtain divisions, xxi–xxii, 190, 364, 374–77, 381–82, 384
+  - warfare, 382–84
+- global trade network, 18, 19
+- go (game), 331–32, 368–69
+- God, Human, Animal, Machine (O’Gieblyn), 298
+- Goethe, Johann Wolfgang von, xii–xiii, xviii, xix, xxviii, 271, 272
+- Goga, Octavian, 65, 66
+- Golovina, Antonina, 171
+- Good Soldier Švejk (Hašek), 177
+- Google
+  - AI development and, 366, 368–69
+  - inter-computer realities and, 286–87
+  - naive view of information and, xviii
+  - size of, 349–50
+  - societal benefits and, 266
+  - See also tech companies
+- GPT-4, 202–4, 210
+- Great Jewish Revolt (66 CE), 65
+- Greece, ancient, 73, 138–39, 152, 213
+- Greek Septuagint, 76
+- Greene, Marjorie Taylor, 209
+- Gregory VII (pope), 173
+- Gui Hao, 243–44
+- Gulag Archipelago, The (Solzhenitsyn), 256
+
+### H
+
+- Han dynasty (China), 160
+- Han Fei, 411n21
+- Hanyecz, Laszlo, 25
+- Hao Chen, 244
+- Hašek, Jaroslav, 177
+- Haugen, Frances, 262
+- Haven, Kendall, 44–45
+- health care. See medicine
+- Hebrew Bible, 75–83
+  - canonization of, 76–77, 81, 84
+  - Dead Sea Scrolls and, 75–76
+  - dissemination of, 78–79
+  - interpretation of, 79–80, 81–83
+  - origins of Christianity and, 84–85, 86
+- Heisenberg, Werner, 33
+- Heller, Joseph, 62
+- Henry IV (Holy Roman Emperor), 173
+- Henry VI, Part 2 (Shakespeare), 64
+- Herodotus, 73
+- Herzl, Theodor, 40, 41–42
+- Himmler, Heinrich, 162
+- Hinduism
+  - biological dramas and, 58, 59, 61
+  - caste system, 61, 314
+  - on illusion, 213
+  - institutions and, 73
+  - memory and, 44
+  - skeptical view of of information and, 411n21
+- Hinton, Geoffrey, xxi
+- Histoire de l’Académie Royale des Sciences, 103
+- history
+  - AI as unprecedented in, 397
+  - deontology and, 278–79, 284
+  - end of, 211–12
+  - impossibility of predicting, 403
+  - international system in, 387–92
+  - intersubjective realities and, 30–31
+  - materialist views of, 29–30
+  - new militarism and, 392–93
+  - political goals of, 396–97
+  - role of information in, xxiii, 3, 12
+  - as study of change, xxx
+  - totalitarian erasure of, 351, 353–54
+  - utilitarianism and, 281–84
+  - See also specific events
+- Hitler, Adolf. See Nazism
+- Hobbes, Thomas, 411n21
+- Holocaust, 66, 67, 279, 281, 282, 424n52
+- holy books, 73–91
+  - canonization of, 74–75, 76–77, 81, 84, 85–88, 198, 399–400
+  - dissemination of, 78–79, 90
+  - informational universe and, 83
+  - interpretation of, 79–80, 81–83, 89–91, 209
+  - origins of, 74, 75–76
+  - power of, 198
+  - Protestant Reformation and, 91
+  - religious institutions and, 76–77, 80, 81, 88
+  - self-correcting mechanisms and, 35–36
+  - See also Bible
+- Homo Deus (Harari), xxiii, 395
+- homosexuality, 109, 111, 282
+  - See also LGBTQ people
+- horizontal gene transfer, 53
+- hubris, xii–xiii
+- human rights, 124, 125–26
+- hunter-gatherer economies, 136–37
+  - See also Stone Age humans; tribal networks
+- Hutton, Ronald, 112–13
+
+### I
+
+- IBM, 226
+- iconoclasm, 174
+- Ijma, 106–7
+- Ilahita, 416n19
+- ImageNet, 367
+- imperialism/colonialism
+  - Catholic Church and, 108
+  - centralization of power and, 372–73
+  - data colonialism, 370–74
+  - Industrial Revolution and, 306–7, 365–66
+- “In the City of Slaughter” (Bialik), 40–41
+- India, 56, 61, 371
+- indigenous peoples, 108, 137–38
+- Industrial Revolution, 305, 306, 317, 365–66, 373, 397
+- infallibility, 69, 71–73, 103
+  - autocracies and, 119
+  - computer-based network and, 298–99
+  - religion and, 69, 71–73, 103, 106–7
+  - vs. self-correcting mechanisms, 105–7, 109
+  - totalitarianism and, 161, 358–60
+  - See also holy books
+- information
+  - connection and, 12, 13–14
+  - defining, 3–17
+  - holy book interpretation and, 83
+  - increase in, xx
+  - secret police and, 162–63
+  - simulation hypothesis and, 412–13n1
+  - skeptical view of, xxiv–xxv, xxiv, 37, 400–401, 410–11n21
+  - See also naive view of information
+- information-for-information deals, 223, 224
+- information technology, 398–99
+  - choice and, 226–29
+  - democracy and, 185–86, 345–46
+  - fallibility of, 46, 80
+  - new wave of, 189–90, 193
+  - political conversations and, 142, 143, 144, 148, 152–53, 344–45
+  - print revolution, 92, 94–96, 101, 146, 197
+  - Silicon Curtain and, 377
+  - totalitarianism and, 153–54, 157, 159, 160, 169, 185–86, 227,
+  - 348–49
+  - See also computers; holy books; mass media; media; naive view of
+  - information; print revolution; self-correcting mechanisms; social
+  - media; stories; written documents
+- inter-computer realities, 285–89, 299, 305
+- intersubjective realities
+  - acknowledgment of fictive nature and, 35, 37
+  - alignment problem and, 276
+  - bureaucracy and, 50, 291
+  - compartmentalization and, 51, 53–54
+  - connection and, 12, 14
+  - context dependence of, 27–28
+  - deontology and, 279–80
+  - history and, 30–31
+  - human and civil rights as, 125–26
+  - imposition of, 289–92
+  - nations and, 26–27, 33, 34–35
+  - racism as, 290–91
+  - religion and, 22, 27, 287
+  - self-correcting mechanisms and, 35–36
+  - Soviet collectivization and, 171
+  - Soviet kulak liquidation campaign and, 290
+  - stories and, 25–28, 33, 34–35
+  - witch hunts as, 98–101, 289–90
+  - written documents and, 46–48, 291
+  - See also bias; inter-computer realities; mythology
+- intimacy, 210–11, 214–15, 320–22, 342
+- Iosifescu, Gheorghe, 231–32, 234
+- Iran, 33, 134, 245–47, 292, 368
+- Iraq War, 121, 126–27, 269, 270, 283–84
+- Isaiah, 84
+- Islam, 106–7
+- Israel
+  - creation of, 9, 40–41
+  - history and, 396–97
+  - See also Israeli-Palestinian conflict
+- Israeli-Palestinian conflict
+  - facial recognition and, 368
+  - intersubjective realities and, 26, 287
+  - stories and, 41, 418n3
+  - uncomfortable truths and, 33–34
+  - World War I and, 9
+
+### J
+
+- Jack Cade’s Rebellion (1450), 64
+- Jackson, Andrew, 150
+- Jerusalem, 287
+- Jesus, stories and, 22
+- Jewish State, The (Herzl), 41–42
+- Jobs, Steve, 227
+- John Chrysostom, Saint, 86–87
+- John Paul II (pope), 107, 175–76
+- Jordy, Carlos, 260
+- journalism. See media
+- Judaism
+  - biological dramas and, 60
+  - infallibility and, 106
+  - intersubjective realities and, 27
+  - mind-body problem and, 378, 379
+  - origins of Christianity and, 84, 86
+  - stories and, 23–24
+  - See also Hebrew Bible
+- judiciary, 128, 133, 328–31
+
+### K
+
+- Kafka, Franz, 62, 63
+- Kalapalo tribe, 73
+- Kammerer, Paul, 432n111
+- Kant, Immanuel, 278–80, 282
+- Karpechenko, Georgii, 115
+- Kataguiri, Kim, 260, 261
+- Keitel, Wilhelm, 162
+- Kelly, Kevin, 366
+- Keynes, John Maynard, 285
+- Khameini, Ayatollah Ruhollah, 112
+- Khruschev, Nikita, 153
+- Kim Jong Un, 135–36
+  - See also North Korea
+- King Lear (Shakespeare), 60
+- 1 Kings, 82–83
+- Kinstler, Linda, 250
+- Kishinev Pogrom (1903), 40–41
+- Koestler, Arthur, 101
+- Kolibin, Pronia, 172
+- Kosovo, 26
+- Köthenbürger, Marko, 222
+- Kramer, Heinrich, 94–96, 101, 168, 208
+- Kronecker, Leopold, 115
+- Kubrick, Stanley, 194
+- Kurchatov, Igor, 33
+- Kurzweil, Ray, xviii, xx–xxi, 305
+
+### L
+
+- LaMDA, 210
+- language, 207–8, 210, 211, 213
+- Last Supper, 23
+- Lau, David, 112
+- Legalism, 158–59, 160
+- Leibnez, Gottfried Wilhelm, 102
+- Lemoine, Blake, 210
+- Lenin, V. I., 149
+- Leofric (bishop of Exeter), 90
+- Le Pen, Marine, 385
+- Lewis, Michael, 63
+- LGBTQ people, 267
+- libertarianism, 284
+- Library of Alexandria, xx, 410n13
+- lies. See misinformation/disinformation
+- Lincoln, Abraham, 152–53
+- Linnaeus, Carl, 52
+- Li Si, 159
+- lists, 42–44, 45
+- literacy. See written documents
+- Litvak, Salvador, 24
+- Loch Ness Monster, 26
+- Locke, John, 102
+- Loomis v. Wisconsin, 329–30, 336–38
+- Lost Battalion, 4, 21–22
+- Luddites, 305, 306
+- Lugal-Zagesi of Umma, 138
+- Luther, Martin, 22, 380–81
+- Luttinger, Bruno, 65, 66–67
+- Lysenko, Trofim, 115, 180
+
+### M
+
+- Machiavelli, Niccolo, 411n21
+- machine learning, 294
+- Macro, Naevius Sutorius, 357
+- Madison, James, 120–21
+- majority rule, 120, 122, 123–25, 126–28
+- Malleus Maleficarum—The Hammer of the Witches (Kramer), 94–96, 101,
+  - 168, 208
+- Manhattan Project, 32
+- Marat, Jean-Paul, 149
+- Marcion of Sinope, 86, 87
+- Marx, Karl. See Marxism
+- Marxism
+  - Bolshevik Revolution and, 161
+  - errors and, 70
+  - on international system, 388
+  - populism and, xxv–xxvi
+  - Soviet collectivization and, 168
+  - on stories, 29, 30
+- mass media, 146, 148–54
+  - See also media
+- materialist history, 29–30
+- Matrix, The, 213
+- McLuhan, Marshall, 6
+- Mearsheimer, John, 387–88
+- media
+  - democracy and, 142, 146, 148–53
+  - populism on, 133
+  - self-correcting mechanisms and, 128, 148
+  - skeptical views of, xxvi, xxvii
+  - totalitarianism and, 153–54
+  - See also social media
+- medicine, xix–xx, 311, 314–15, 318, 350
+- memory
+  - fake, 24, 99
+  - religion and, 23–24, 43, 44
+  - retrieval and, 48–49
+  - stories and, 43–45, 46
+- Mesopotamia, 45–46, 47–48, 138, 250
+- Metaverse, 13–14
+- Mickiewicz, Adam, 42
+- military espionage, 5–6, 7, 8–9
+- military theory, 267–71, 275–76
+- Miller, Chris, 188
+- mind-body problem, 378–81
+- Mishnah, 81, 84, 86, 106
+- misinformation/disinformation
+  - Bible and, 15–16, 414n15
+  - computers as independent agents and, 200
+  - conflict and, 195, 196
+  - connection and, 13, 16–17
+  - counterspeech doctrine on, 10–11
+  - definitions of information and, 11–12
+  - democracy and, 126–27
+  - digital anarchy and, 342
+  - disintegration and, 13
+  - majority rule and, 126, 127–28
+  - naive view of information and, 10–11, 16–17
+  - social order and, 37
+  - stories and, 21
+  - witch hunts and, 93–94
+  - written documents and, 65–66
+  - See also conspiracy theories
+- misogyny, 87–88, 293–94, 296–97
+- mnemonic devices, 45
+- Modi, Narendra, 56, 369
+- moon walk (1969), 14
+- Morgenthau, Hans, 387
+- Morozov, Pavlik, 172
+- Mudde, Cas, xxvi
+- Müller, Jan-Werner, 131
+- music, connection and, 12
+- Musk, Elon, xxi, 71, 239, 240
+- Muslim caliphs, 36
+- Mussolini, Benito, 149
+- mutuality, 313–14
+- mutually assured destruction, 383–84
+- Myanmar, 11, 396, 397
+  - See also Rohingya massacre
+- mythology
+  - biological dramas and, 60–61, 62
+  - computer network goals and, 284–85
+  - deontology and, 280
+  - inter-computer realities and, 285, 299–300, 305
+  - nations and, 42
+  - populism and, 134
+  - racism and, 314
+  - self-correcting mechanisms and, 116, 300
+  - utilitarianism and, 284
+  - See also intersubjective realities; stories
+
+### N
+
+- naive view of information, xv–xxi, xvi, 400
+  - on AI, xx–xxi
+  - definitions of information and, 6–7, 11, 12, 14
+  - on errors, xv, 91–92
+  - misinformation/disinformation and, 10–11, 16–17
+  - on power, 31–32
+  - on print revolution, 92
+  - on regulation, 345
+  - on stories, 31–32
+  - tech company belief in, xviii, 39
+  - tech company culpability and, 263–64
+  - truth-order balance and, 37, 39
+  - on wisdom, xvi–xvii
+  - witch hunts and, 101
+- Napoleon Bonaparte, 268–69, 275–76
+- Narâmtani, 48
+- nations
+  - biological dramas and, 60–61
+  - current international decentralization and, 362–64
+  - international system and, 387–88, 389
+  - intersubjective realities and, 26–27, 33, 34–35
+  - lists and, 42–43
+  - military spending and, 390–91
+  - stories and, 33, 34, 41–42
+  - uncomfortable truths and, 33–34
+- Nazism
+  - biological dramas and, 60–61
+  - centralization of power and, 118
+  - connection and, 17
+  - control and, 164
+  - cooperation and, 33
+  - elections and, 122
+  - human abuse of power and, xii
+  - Industrial Revolution and, 307
+  - intersubjective realities and, 291
+  - mythology and, 285
+  - populism and, 130–31
+  - power of, xiv
+  - science and, 38
+  - stories and, 30–31
+  - totalitarian system under, 162
+  - truth-order balance and, 402
+  - unemployment and, 316, 325
+  - See also Holocaust
+- Neanderthals, 19, 28, 53
+- Nell, John, 4
+- Nero (Roman emperor), 118–19, 154–55
+- Netanyahu, Benjamin, 122–23, 396–97
+- Neuralink, 239
+- newspapers, 148–50, 152–53
+  - See also media
+- New Testament, canonization of, 85–88, 198, 399–400
+- Newton, Isaac, 110
+- nexus, 222
+- Nicholas V (pope), 108
+- NILI spy network, 5–6, 7, 8–9, 40
+- 1960s cultural conflicts, 186–87, 188–89, 227, 345
+- Nineteen Eighty-Four (Orwell), 352–53
+- Noah, 4–5
+- noble lie, 34
+- North Korea, 134, 135–36, 141
+- nuclear physics, 32, 33
+- Numbers, 82
+- Nusseibeh, Sari, 287
+
+### O
+
+- Obama, Barack, xviii, 397
+- objective reality, 24–25
+- O’Gieblyn, Meghan, 298
+- Old Assyrian dialect, 47–48
+- Old New Land, The (Herzl), 42
+- Old Testament. See Hebrew Bible; Judaism
+- “On Exactitude in Science” (Borges), 10
+- On the Revolutions of the Heavenly Spheres (Copernicus), 101, 102
+- On War (Clausewitz), 268, 270–71, 275–76
+- Oppenheimer, Robert, 32, 33
+- Orbán, Viktor, 122
+- original sin, 70
+- Orwell, George, xiv, 352–53
+- Ottoman Empire, 390
+- Owen, Wilfred, 8
+- ownership. See property rights
+
+### P
+
+- Pacepa, Ion Mihai, 233
+- Page, Larry, 366
+- Paoli, Pasquale, 277
+- paper-clip thought experiment, 271–72, 274
+- parental neglect, 59
+- Passover, 23–24
+- pattern recognition, 235–37, 295, 318–19
+- Paul, Saint, 22, 87, 91, 379
+- Pauling, Linus, 114
+- Peasants’ Revolt (1381), 64
+- peer-to-peer surveillance, 248–50
+- Peloponnesian War, 156–57
+- Petofi, Sándor, 42
+- Phaethon myth, xii, xxviii
+- Philosophical Transactions of the Royal Society, 103
+- Pisistratus, 138
+- Plato, 34, 144, 213, 410–11n21
+- Poincaré, Henri, 115
+- Pokémon Go, 286
+- Polish-Lithuanian Commonwealth, 146–47, 151, 435nn36–37
+- political conversations
+  - AI and, 209–10
+  - decentralization and, 147
+  - democracy/autocracy continuum and, 135–36
+  - digital anarchy and, 340, 342–43
+  - vs. elections, 141–42
+  - information technology as necessary for, 142, 143, 144, 148, 152–
+  - 53, 344–45
+  - local democracy and, 145–46
+  - 1960s cultural conflicts and, 187, 188–89
+  - population size and, 141–44
+  - regulation and, 345
+- Pompeii, 144–46
+- populism, xxiv–xxvi, 129–34
+  - charismatic leadership and, xxvii, xxviii, 134
+  - cooperation and, 385
+  - incoherence of, xxvi
+  - on information as weapon, xxiv–xxv, xxiv, xxvi, 400–401
+  - Marxism and, xxv–xxvi
+  - religion and, xxvii, xxviii
+  - simplicity and, 133
+  - skeptical empiricism and, xxvi–xxvii
+  - social media and, 259–60
+  - as threat to democracy, 131–32
+  - on truth, xxiv
+  - unfathomability and, 334
+- power
+  - alignment problem and, 272
+  - cooperation and, 32
+  - curation institutions and, 90, 102
+  - human abuse of, xi–xiv, xx, xxiii, xxvii, 401–2
+  - information as weapon and, xxiv–xxv, 400–401
+  - international system and, 387–88, 389
+  - naive view of information on, 31–32
+  - populism and, xxiv–xxv, 129, 132–33, 134
+  - societal benefits of, 402
+  - totalitarianism and, 158–59
+  - truth and, 31–32
+  - truth-order balance and, 402
+  - written documents and, 57–58
+  - See also centralization of power
+- print revolution, 92, 94–96, 101, 146, 197
+- privacy. See surveillance
+- propaganda, 21
+- property rights, 46–47
+- Protocols of the Elders of Zion, 183
+- Psalms, 76
+- psychiatry, 111
+- purity/impurity, 60–61
+- Putin, Vladimir. See Russia
+- Pwint Htun, 264, 265
+- Pythia, 73
+
+### Q
+
+- QAnon, xxiv, 95, 208–9
+- Qatar, 363
+- Qin dynasty (China), 157–60
+- Qin Shi Huang (Chinese emperor), 157, 159
+
+### R
+
+- rabbinate, 80, 81, 106
+- racism
+  - algorithmic bias and, 293–94
+  - biological dramas, 327–28
+  - as intersubjective reality, 290–91
+  - naive view of information on, xvii
+  - rigidity/pliability and, 314
+  - self-correcting mechanisms and, 110
+  - See also bias
+- radio, 197, 228
+  - See also information technology
+- Ramayana, 44, 58, 59, 60, 61–62
+- rationality, alignment problem and, 270–71, 275–76, 277
+- Reagan, Ronald, xvii–xviii
+- realism, 388, 396
+- reality
+  - holy book interpretation and, 83
+  - illusion and, 213
+  - objective vs. subjective, 24–25
+  - vs. truth, 7–10
+  - virtual, 13–14
+  - See also intersubjective realities
+- regulation, 219–20, 340, 343–45
+- religion
+  - AI and, 209
+  - automation and, 320
+  - biological dramas and, 60–61
+  - brands and, 22
+  - democracy and, 147
+  - enslavement and, 328
+  - errors and, 70
+  - human abuse of power and, xiii
+  - incentive structures and, 111–12
+  - inconsistency and, 71–72
+  - infallibility and, 69, 71–73, 103, 106–7
+  - intersubjective realities and, 22, 27, 287
+  - memory and, 23–24, 43, 44
+  - nations and, 33
+  - personal revelations and, 71–72
+  - populism and, xxvii, xxviii
+  - self-correcting mechanisms and, 35–36, 104, 106–7, 108–9
+  - social credit systems and, 291–92
+  - social order and, 36, 71
+  - stories and, 19, 22–24, 38, 416n19
+  - totalitarianism and, 173–76
+  - truth-order balance and, 38
+  - utilitarianism and, 283, 284
+  - See also Christianity; holy books; Judaism; religious institutions
+- religious institutions, 72–73, 76–77, 80, 81, 88, 91, 173–76
+  - See also Catholic Church
+- Replika, 211
+- Republic (Plato), 34, 410–11n21
+- reputation market, 251–52, 253
+- rigidity/pliability, 314–16
+- robots, 218, 316–17
+- Rohingya massacre (Myanmar), 195–200
+  - alignment problem and, 272
+  - alternative views and, 197–98
+  - computer network goals and, 199, 259, 265
+  - computers as independent agents and, 197, 198–200
+  - culpability for, 199–200
+  - deontology and, 278–79
+  - error-enhancing mechanisms and, 265
+  - misinformation/disinformation and, 195, 196
+  - self-correcting mechanisms and, 264
+  - tech company culpability and, 199, 200, 219, 220, 263
+- Roman Empire
+  - autocracy vs. totalitarianism and, 154–55, 156
+  - centralization of power and, 118–19, 356–58, 372–73
+  - damnatio memoriae, 351
+  - democracy and, 139, 141, 142, 143–44
+  - infallibility and, 119
+  - military spending, 390
+  - self-correcting mechanisms and, 151–52
+- Romania, 65–67, 231–33, 234, 236, 424n52
+- romantic triangles, 60
+- Roosevelt, Franklin D., 33, 325
+- Rousseau, Jean-Jacque, 102
+- Royal Society of London for Improving Natural Knowledge, 102
+- Russell, Bertrand, 359–60
+- Russell-Einstein Manifesto (1955), 359–60
+- Russia
+  - AI development and, 369
+  - democracy as autocratic tool and, 122, 123, 134
+  - doublespeak and, 352–53
+  - Silicon Curtain and, 375
+  - social media banning, 371
+  - Ukraine invasion, 353, 392–93
+  - See also Tsarist Russia
+- Rwanda genocide (1994), 60, 197
+- Rychagov, Pavel, 180–81
+
+### S
+
+- Said, Edward, xxv
+- Salazar Frías, Alonso de, 101
+- Sayadaw U Vithuddha, 197–98
+- science
+  - bureaucracy and, 51–52
+  - collaboration and, xxvii
+  - compartmentalization and, 51–54
+  - cooperation and, 32, 33
+  - dissent and, 113–15, 180
+  - majority rule and, 127
+  - Nazism and, 38
+  - populism on, 133
+  - religion and, 16
+  - self-correcting mechanisms and, 103–5, 110–15
+  - skeptical empiricism and, xxvi–xxvii
+  - skeptical views of, xxv, xxvi
+  - Soviet collectivization and, 166, 168
+- scientific revolution, 92, 101, 102–3
+- Second Council of Lyon (1274), 379
+- Sedol, Lee, 332, 333, 368
+- Sejanus, Lucius Aelius, 356–58
+- self-correcting mechanisms, 103–17
+  - absence in autocracies, 117, 119, 179–80, 358–60
+  - algorithms as, 336–38
+  - ancient world, 156
+  - civil rights and, 124
+  - computer-based network fallibility and, 301
+  - computer network goals and, 274–75
+  - decentralization and, 312–13
+  - democracy and, 117, 119, 120–22, 123, 124–25, 128, 147, 151
+  - denial of, 109
+  - dissent and, 113–16, 432n111
+  - elections and, 121–22, 126
+  - as essential, 402–4
+  - vs. external correction, 104
+  - incentive structures and, 111–12
+  - vs. infallibility, 105–7, 109
+  - infallibility and, 70
+  - majority rule and, 124–25
+  - media and, 128, 148
+  - natural occurrence, 105
+  - neutralization of, 123, 133–34, 140, 403
+  - populism on, 133
+  - regulation, 219–20, 340, 343–45
+  - religion and, 35–36, 104, 106–7, 108–9
+  - rigidity/pliability and, 316
+  - science and, 103–5, 110–15
+  - truth-order balance and, 68, 116
+- Septimius Severus (Roman emperor), 140, 351
+- Sermon on the Mount, 89
+- Shakespeare, William, 60, 64
+- Shang Yang, 411n21
+- Shechtman, Dan, 113–14
+- Shevchenko, Taras, 42
+- Shulgi (king of Ur), 45
+- sibling rivalry, 59–60
+- Silicon Curtain, xxi–xxii, 190, 364, 374–77, 381–82, 384
+- Silicon Valley. See tech companies
+- Simeon, Saint, 380
+- simulation hypothesis, 412–13n1
+- Singularity Is Nearer, The (Kurzweil), xviii, xx–xxi
+- Skynet, 236
+- smartphones, 234, 240, 248, 286
+- Snow, John, 55–56
+- social credit systems, 250–54, 291–92, 299, 329, 339–40, 371, 375
+- social media
+  - alignment problem and, 272, 274
+  - banning of, 271
+  - bots and, 287, 341–42, 344
+  - charismatic leadership and, 20
+  - culpability of, 199–200, 261–64
+  - error-enhancing mechanisms, 265
+  - as independent agent, 198, 199–200
+  - misinformation/disinformation and, 14, 195, 196
+  - political influence and, 195–99, 258–61, 263, 272, 371
+  - populism and, 259–60
+  - QAnon and, 208–9
+  - regulation of, 344–45
+  - societal benefits of, 266–67
+- social order
+  - acknowledgment of fictive nature and, 35
+  - democracy and, 188–89
+  - political conversations and, 188, 340
+  - power and, 32, 33
+  - religion and, 36, 71
+  - stories and, 33, 34–35, 37
+  - totalitarianism and, 176, 177, 184–85
+  - U.S. 1960s activism and, 186–87
+  - See also truth-order balance
+- Socrates, 300
+- Solzhenitsyn, Aleksandr, 256–57
+- Song of Songs, 76–77
+- “Sorcerer’s Apprentice, The” (Goethe), xii–xiii, xviii, xxviii, 271, 272
+- South Korea, 141
+- Soviet Union
+  - Afghanistan invasion, 117
+  - Chernobyl disaster (1986), 177–78, 179
+  - Cold War and, 117
+  - collapse of, 187–88
+  - computer industry, 188, 226–27
+  - doctors’ plot, 183–84
+  - mass media and, 153–54
+  - military spending, 391
+  - self-correcting mechanisms and, 117
+  - totalitarian system, 161–62
+  - See also Stalinism
+- Sparta, 156
+- Spinoza, Baruch, 102
+- Stalin, Joseph. See Stalinism
+- Stalinism
+  - centralization of power and, 118, 358
+  - collectivization and, 165–71, 184–85, 402, 440n90, 441nn95–96
+  - connection and, 17
+  - control and, 164–67
+  - cooperation and, 33
+  - death of Stalin, 183–84
+  - dissent and, 115–16
+  - erasure of past and, 351
+  - family and, 171–72
+  - Great Terror, 162–63, 185, 256–57, 351
+  - human abuse of power and, xii
+  - Industrial Revolution and, 307
+  - infallibility and, 119
+  - kulak liquidation campaign, 167–71, 290, 441nn95–96
+  - mass media and, 153
+  - power of, xiv–xv
+  - state-party cooperation and, 173–74
+  - stories and, 20
+  - surveillance and, 233, 234, 256–58
+  - terror and, 155, 162–63, 180–81, 182, 183, 185
+  - totalitarian system under, 161–62
+  - truth-order balance and, 185
+  - utilitarianism and, 284
+  - World War II and, 181–82, 184, 185
+- stalkerware technology, 248
+- states. See nations
+- Stock, Kathleen, 432n111
+- Stone Age humans
+  - cooperation and, 19, 32, 388–89
+  - democracy and, 136–38
+  - evolution of, 19, 52–53
+  - political conversations and, 143
+  - stories and, 28–29
+- stories, 18–39
+  - AI and, 214
+  - biological dramas, 58–62, 63, 216, 327–28
+  - vs. books, 74
+  - brands and, 20
+  - charismatic leadership and, 19–21
+  - computer-based network and, 68
+  - conflicts and, 30
+  - cooperation and, 18–19, 28–29, 384–85, 416n19
+  - democratic computer politics and, 338–40
+  - errors and, 31
+  - existential threats and, 362
+  - family and, 23, 24
+  - fear of illusions and, 213
+  - intersubjective realities and, 25–28, 33, 34–35
+  - limitations of, 41–42, 43, 418n3
+  - materialist views of, 29
+  - memory and, 43–45, 46
+  - naive view of information on, 31–32
+  - Nazism and, 30–31
+  - power and, 57
+  - propaganda and, 21–22
+  - religion and, 19, 22–24, 38, 416n19
+  - self-correcting mechanisms and, 116
+  - tribal networks and, 416n19
+  - truth-order balance and, 37–39, 37
+- Story Proof: The Science Behind the Startling Power of Story (Haven), 43–45
+- Streletsky, Dmitry, 170
+- subjective reality, 25
+- Succession, 60, 63
+- Suleyman, Mustafa, xxi, 331–32
+- Sunflower Student Movement, 225
+- Superintelligence (Bostrom), 271–72
+- surveillance
+  - behavioral impact of, 257–58
+  - biometric, 238–40, 241–42, 291, 451n19
+  - bureaucracy and, 230–31
+  - computer-based network and, 234–35, 237, 238–40
+  - democratic computer politics and, 309–16
+  - of employees, 248
+  - end of privacy and, 241–42, 249–50, 253, 254
+  - facial recognition, 243–44, 245–47, 293–94, 295–96, 368
+  - mutuality and, 313–14
+  - peer-to-peer, 248–50
+  - reputation market, 251–52, 253–54
+  - rigidity/pliability and, 314–16
+  - societal benefits of, 230–31, 242–44, 252–53, 310
+  - stalkerware technology and, 248
+  - totalitarianism and, 162, 231–34, 239, 245, 247, 256–58, 350
+  - truth-order balance and, 257–58
+  - See also social credit systems
+- symbols, 4–5
+
+### T
+
+- Tacitus, 155, 356
+- Talmud, 81, 84, 86, 106
+- Tang, Audrey, 225
+- taxation, 221–24
+- Tay chatbot, 293, 295
+- tech companies
+  - AI development and, 368–69
+  - centralization of power and, 373
+  - on computers as independent agents, 261–62
+  - conflict exascerbation and, 371
+  - culpability of, 199, 200, 204, 219–20, 261–64
+  - data mining and, 311
+  - early computer development and, 226
+  - effective altruism movement and, 281
+  - information asymmetry and, 225
+  - naive view of information, xviii
+  - optimistic predictions and, 237
+  - regulation and, 219–20
+  - self-correcting mechanisms and, 264
+  - size of, 349–50
+  - societal benefits and, 266
+  - taxation and, 221–23
+- technological determinism, 226, 310
+- television, 153
+- Ten Commandments, 35–36
+- Terminator, The, 213
+- terror, 155, 162–63, 180–81, 182, 183, 185, 352
+- terrorism, 235–36
+- Tertullian, 22, 379
+- Than Shwe, 396, 397
+- Thecla, Saint, 88
+- Thirty Years’ War, 382
+- Three Mile Island accident (1979), 177–78
+- Tiberius (Roman emperor), 356–58
+- TikTok, 371
+- 1 Timothy, 87, 88, 94, 198
+- totalitarian computer politics, 348–60
+  - algorithmic takeover threat and, 354–58
+  - alignment problem and, 352
+  - blockchain technology and, 350–51
+  - bots and, 352
+  - centralization of power and, 348–50, 354–58
+  - computers as independent agents and, 354–56
+  - doublespeak and, 352–53
+  - erasure of past and, 353–54
+  - infallibility and, 358–60
+  - surveillance and, 350
+- totalitarianism
+  - absence of self-correcting mechanisms in, 119, 179–80
+  - ancient experiments, 156–60
+  - vs. autocracies, 118–19, 154–56
+  - bureaucracy and, 169, 170
+  - centralization of power and, 118–19, 157, 176–77, 348–50, 354–58
+  - control and, 164–67
+  - current extent of, 348, 467n2
+  - disadvantages of, 177–78, 180–85, 187–89
+  - family and, 171–72
+  - human abuse of power and, xii
+  - Industrial Revolution and, 307
+  - information technology and, 153–54, 157, 159, 160, 169, 185–86,
+  - 227, 348–49
+  - naive view of information on, xvii
+  - populism and, 129, 132
+  - power of, xiv–xv
+  - religious institutions and, 173–76
+  - resistance to, 166–67
+  - revolutionary purpose of, 174, 175, 314
+  - secret police under, 161, 162, 163
+  - Silicon Curtain and, 375
+  - state-party cooperation and, 173–74
+  - surveillance and, 162, 231–34, 239, 245, 247, 256–58, 350
+  - systems of, 161–63
+  - truth-order balance and, 185, 186
+  - See also Nazism; Stalinism; totalitarian computer politics
+- Tower of Babel, 15, 414n15
+- Trial (Kafka), 62, 63
+- tribal networks, 19, 28–29
+- Tripadvisor, 248–50, 252
+- Trotsky, Leon, 351
+- Trudeau, Justin, 209
+- Trump, Donald, xxiv, xxv–xxvi, xxvii, 209, 324, 369, 376, 385
+- truth
+  - democracy and, 127–28
+  - infallibility and, 71
+  - misinformation/disinformation and, 16–17
+  - naive view of information on, xv, xvi, xvii, 6–7, 11
+  - vs. reality, 7–10
+  - rigidity/pliability and, 314–15
+  - skeptical view of, xxiv, xxv, 37, 132–33, 410–11n21
+  - stories and, 31–32
+  - uncomfortable facets of, 33–34
+  - See also errors; self-correcting mechanisms; truth-order balance
+- truth-order balance
+  - algorithmic bias and, 297–98
+  - bureaucracy and, 49–50, 51, 68
+  - computer-based network fallibility and, 299
+  - computer politics and, 229
+  - curation institutions and, 102
+  - democracy and, 186–87
+  - elections and, 126
+  - majority rule and, 126–27
+  - mechanisms for, 68
+  - power and, 402
+  - religion and, 38
+  - scientific institutions and, 102–3
+  - self-correcting mechanisms and, 68, 116
+  - stories and, 37–39, 37
+  - surveillance and, 257–58
+  - totalitarianism and, 185, 186
+- Tsarist Russia, 36, 145
+- Tukhachevsky, Mikhail, 351
+- Turing, Alan, 194
+- Twitter, 293, 295, 341–42
+- 2001: A Space Odyssey, 194
+
+### U
+
+- Ukraine invasion, 353, 392–93
+- unemployment, 316, 325
+- unfathomability, 326–38
+  - autocracies and, 326
+  - bureaucracy and, 56–57, 62, 63, 129, 326–27
+  - computer politics and, 224–25
+  - cyber warfare and, 383
+  - go and, 332
+  - numerous data points and, 335–37
+  - political polarization and, 345
+  - populism and, 334
+  - right to explanation and, 331, 333, 336–38
+  - terminology and, 217
+- United States
+  - AI development and, 369–70
+  - Capitol attack (Jan. 6, 2021), 209
+  - Cold War and, 117
+  - Constitution, 34–35, 36, 37, 300, 328
+  - disenfranchisement and, 122
+  - early republic, 135, 149–52
+  - Great Depression and, 325
+  - human rights and, 125
+  - independence, 27
+  - 1960s cultural conflicts, 186–87, 227, 345
+  - political conversations in, 136, 187, 188–89
+  - political polarization, 345
+  - Republican Party, 324
+  - self-correcting mechanisms, 151–52
+  - Silicon Curtain and, 375–76
+  - social media banning and, 371
+  - See also Trump, Donald
+- U.S. Constitution, 34–35, 36, 37, 300, 328
+- user engagement goal
+  - alignment problem and, 267, 272, 273
+  - error-enhancing mechanisms and, 265
+  - intelligence vs. consciousness and, 201, 202
+  - political influence and, 260–61
+  - Rohingya massacre and, 199, 259, 265
+  - tech company culpability and, 204, 262–63
+- U.S. Telecommunications Act (1996), 220
+- utilitarianism, 281–84
+
+### V
+
+- values, xvii
+- Vavilov, Nikolai, 115
+- veneer theory, 388
+- Vietnam War, 117
+- virtual reality, 13–14
+- viruses, 53–54
+- Voltaire, 102
+
+### W
+
+- Walsingham, Thomas, 64
+- warfare
+  - decline of, 390–93
+  - global impacts and, 382–84
+- Weimar Republic, 316, 325
+- What Computers Can’t Do (Dreyfus), 317
+- Whitehouse, Harvey, 71–72
+- Whitney v. California, 11
+- Whittlesey, Charles, 4, 21
+- “Why AI Will Save the World” (Andreessen), xx
+- Wirathu, 196, 197, 198, 199, 278–79
+- wisdom
+  - naive view of information on, xvi–xvii
+  - stories and and, 31
+  - truth-order balance and, 38–39
+- Witch, The: A History of Fear (Hutton), 112–13
+- witch hunts, 92–101, 428n68
+  - as intersubjective realities, 98–101, 289–90
+  - print revolution and, 94–96, 101, 197
+  - Soviet kulak liquidation campaign and, 167–68, 169, 170
+- Wojcicki, Susan, 261–62
+- women, 87
+  - See also misogyny
+- World War I
+  - Industrial Revolution and, 307
+  - military espionage, 5–6, 7, 8–9
+  - military spending and, 391
+  - Romanian Jews and, 66
+  - stories and, 4, 21–22
+- World War II
+  - Industrial Revolution and, 307–8
+  - military spending and, 391
+  - Romanian Jews and, 67
+  - Stalinism and, 181–82, 184, 185
+  - totalitarian power and, xiv
+- Wozniak, Steve, 227
+- written documents, 45–49
+  - ancient world, 45–46, 47–48
+  - antipathy to, 64
+  - books, 74
+  - importance of, 67
+  - intersubjective realities and, 46–48, 291
+  - misinformation/disinformation and, 65–66
+  - power and, 57–58
+  - retrieval and, 48–49
+  - See also bureaucracy; holy books
+
+### Y
+
+- Yagoda, Genrikh, 163
+- Yes, Prime Minister, 62–63
+- Yes Minister, 62
+- Yezhov, Nikolai, 163
+- Yishmael, Rabbi, 79
+- YouTube, 259, 260, 261–62
+- Yuechuan Lei, 244
+
+### Z
+
+- Zinovyev, Aleksandr, 258
+- Zionism, 41–42
+- Zuboff, Shoshana, 248
+- Zuckerberg, Mark, xviii, 13
+  - Y Z

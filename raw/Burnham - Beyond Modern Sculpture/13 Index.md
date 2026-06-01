@@ -1,0 +1,612 @@
+---
+book: "Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century"
+author: "Jack Burnham"
+chapter: "Index"
+source_pages: "pp. 395–402"
+type: source
+---
+
+# Index
+
+- Abeel, Erica, 360
+- Abelson, P. H., 64
+- Abramson, Stephen, 324
+- Abstract Expressionism, 171, 241
+- Academicism, 168-72
+- Agam, Yaacov, 233, 242, 247, 252, 258, 261
+- Albers, Josef, 236, 240, 290
+- Albertus Magnus, 193
+- Alexandria, ancient, 189, 192
+- Alloway, Lawrence, 325-26
+- Ampere, Andre, 219-20
+- Anceschi, Giovanni, 252
+- Antonakos, Stephen, 306
+- Antonioni, Michelangelo, 204-5
+- Apollonio, Umbro, 248
+- Apple, Billy, 307-8, 309 Solar /5, 307, FIG. 117
+- Aquinas, Thomas, 193
+- Archipenko, Alexander, 73, 117, 149-50, 161, 206-8, 213, 302 Concaves, 150 Medrano I (Juggler), 207-8, FIG. 76 Seated Figure, 164-65 Woman Combing Her Hair, 150, FIG. 57
+- Aristotle, 56, 149
+- Armando, 247, 252, 261
+- Armitage, Kenneth, 41
+- Amason, H. H., 103
+- Arp, Jean (Hans), 73, 74, 80,86-92, 115, 134, 164, Concretions, 161 Crown of Buds, 191, FIG. 28 Growth, 91, 161, FIG. 29 Human Concretion, 89-91, FIG. 27
+- Artificial intelligence, 338-40, 374-76
+- Ashby, Ross, 204, 318
+- Asimov, Isaac, 202, 328
+- Automata, 14-15, 185-217 superhuman, 374-76 See also Robots
+- Bachelard, Gaston, 38-39, 150
+- Banham, Reyner, 116
+- Baudelaire, Charles, 160,216,221
+- Bauhaus, 132,212,235,236,257,290
+- Bejart, Maurice, 341
+- Bel Geddes, Norman, 286
+- Bell, Larry, 177 Untitled, 152, 162, FIG. 59
+- Belling, Rudolf, 161
+- Bellini, Giovanni, 194
+- Bellmer, Hans, 215 The Doll, 215
+- Bense, Max, 344
+- Bergson, Henri, viii, 61, 65-68, 70, 72, 76, 77
+- Berkeley, Edmund, 336
+- Berlage, H. P., 201
+- Bernard, Claude, 61, 332
+- Berns, Ben, 306
+- Bertalanffy, Ludwig von, 56, 317
+- Bertoia, Harry, 39, 101, 128 altar construction, 161 Untitled, 42, FIG. 18
+- Bettelheim, Bruno, 205
+- Biasi, Alberto, 252, 258, 261
+- Bigelow, Julian, 315
+- Bill, Max, 128, 136, 142-44 Continuous Surface in the Form of a Column, 144, FIG. 53 Endless Ribbon, 143, FIG. 51 Monoangulated Surface in Space, 143, FIG. 52 Transition, 144
+- Bladen, Ronald, 157
+- Blossfeldt, Karl, 76
+- Boccioni, Umberto, 27-28, 225-26 Development of a Bottle in Space, 27-28, FIG. Fusion of a Head and Window, 27 Unique Forms of Continuity in Space, 28, FIG.
+- Boehn, Max von, 203
+- Bolotowsky, llya, 232
+- Bonner, John Tyler, 91
+- Boriani, Davide, 252
+- BOlO, Martha, 252, 261, 294
+- Boulding, Kenneth, 14
+- Bracelli, Giovanni Battista, 206
+- Bradbury, Ray, 323
+- Brainstorming, 120
+- Brancusi, Constantin, 29, 30-34, 35, 43, 46, 73, 80, 83-86, 132, 170, 314 The Beginning of the World, 85, 26 FIG. Bird in Space, 30, 92, 160, FIG. 8 The Fish, 32, FIGS. 9, 10 Leda, 32, FIG. II The New Born, 85 Promethus, 85, 86 Sleeping Muse, 85, FIG. 25
+- Braque, Georges, 114, 208
+- Breasted, James, 188
+- Breder, Hans, Untitled, 162, FIG. 67
+- Breer, Robert, 265 Self-Propelled Styrofoam Floats, 354-55, FIG. 129
+- Breuer, Marcel, 42
+- Brodsky, Horace, 81-82
+- Bureau, Jacques, 340
+- Burnham, Jack, Two Four-Unit Modular Tapes, 302, FIG. III
+- Bury, Pol, 242, 252, 272-73 18 Superimposed Balls, 261, 272, FIG. 101
+- Butler, Reg, 41
+- Butler, Samuel, 222
+- Cage, John, 360
+- Calder, Alexander, 152, 224-26, 232-35, 236, 242, 265, 268 Black Beast, 38, FIG. 15 Snow Flurry J, 234, FIG. 87 A Universe, 234, FIG. 86
+- Canaday, John, 169,269
+- Cannon, Walter, 317
+- Canova, Antonio, Cupid and Psyche, 155
+- Capek, Karel, 202
+- Caro, Anthony, 41, 42, 234 Homage to David Smith, 123, FIG, 39
+- Casson, Stanley, 169
+- Castel, Louis-Bertrand, 286
+- Castellani, Enrico, Convergent Structure, 258, FIG.
+- Castro-Cid, Enrique, 349-51, FIG. 126
+- Anthropomorphic 1, 350
+- Ceram, C. W., 223, 293
+- 6 Cesar (Cesar Baldaccini), 171
+- Cezanne, Paul, 174, 177,206
+- 7 Chabaud, Jean, 344
+- Chadwick, Lynn, 41
+- Chaplin, Charlie, 212
+- Chapuis, Alfred, 189, 192, 199
+- Chase, Stuart, II
+- Chiggio, Ennio, 252
+- Childs, Lucinda, 360
+- Chirico, Giorgio de, 211-12, 282
+- Chryssa, Ampersand series, 304, FIG. 113
+- Clarke, Arthur, 114
+- Cleator, P. E., 204
+- Clockwork automata, 195-96
+- Collie, Alberto, 45-47
+- Flootile No. l l , 46, 21 FIG.
+- Colombo, Gianni, 252
+- Color organs, 286-89
+- Coloring, 162-66
+- Concrete Expressionism, 157
+- Condillac, Etienne de, 335-36
+- Constructivism, 34-38,47,75,115,140,147,165,
+- 178,208,233,247-48,262
+- Mechanical, 234
+- Costa, Toni, 252
+- Visual Dynamics, 258, FIG. 92
+- Craftsmanship, 367-68
+- Craig, Gordon, 286
+- Cruz- Diez, Carlos, 252, 258
+- Cubism, 26—27, 134, 206—11, 230
+- Culberson, James, 339
+- Dadaist movement, 87, 88, 214, 275
+- Dallegret, Francois, La Machine, 355-56,
+- FIG. 130
+- Degas, Edgar
+- The Little Dancer at Fourteen, 21-22, FIG.
+- The Tub, 22-23, 2 FIG.
+- De la Mettrie, Julien, 59-60, 62
+- Descartes, Rene, 58, 59, 136, 197-98
+- Disney's automated figures, 323
+- Display panels, 309-10
+- Di Suvero, Mark, 157
+- Dobson, Frank, 169
+- Doesburg, Theo van, 115, 135
+- Dorazio, Piero, 247, 252, 253
+- Doucet, Jacques, 86
+- Driesch, Hans, 66
+- Droz, Edmond, 189, 192, 199
+- Dubutfet, Jean, 102
+- Ducharnp, Marcel, 29-30, 88, 211, 226—30, 242,
+- 247, 282, 372
+- Bicycle Wheel, 224, 226-27, 83 FIG.
+- A Bruit Secret. 228
+- The Great Glass (The Large Glass), 215-17,
+- 229, FIG. 82
+- Rotary Demi-Sphere, 228, 84 FIG.
+- Rotating Glass Plates, 228
+- Roto-Relief display, 224
+- Rotoreliefs, 228, 230
+- Three Standard Stoppages, 231
+- Why Not Sneeze? 228
+- Ducharnp-Villon, Raymond, 73, 81
+- Great Horse, 208, 78 FIG.
+- Seated Woman, 208
+- Du Nouy, Pierre Lecomte, 63-64
+- Eckhart, Meister, 104
+- Eco, Umberto, 275
+- Egyptian proto-automata, 188-89
+- Einstein, Albert, 255-56
+- Ellul, Jacques, 12-13, 119,281-82
+- Elsen, Albert, 26, 107-8
+- Enjambment, 157
+- Epstein, Sir Jacob, 161, 169, 224
+- Euler, Leonhard, 255
+- Evolution, post-biological, 373-76
+- Experiments in Art and Technology, Inc.
+- (EAT.), 361-62
+- Faraday, Michael, 255
+- Feedback,319
+- Feininger, Lyonel, 290
+- Ferber, Herbert, 38, 101
+- Flavin, Dan. 175, 179, 303, 112 FIG.
+- Flying sculpture, 45-48
+- Focillon, Henri, 69, 77-79, 86
+- Fontana, Lucio, 239-40, 247, 252, 293-94
+- Formalism, 110-l2, 368
+- Fourier, Jean Baptiste, 126
+- "Frankenstein complex," 202
+- Frazier, Charles, 48
+- Fried, Michael, 368
+- Fry, Roger Eliot, 154
+- Fuller, R. Buckrninister, 44
+- Futurism, 27, 224, 230, 273
+- Gabo, Naum (Pevsner), 34-38,43,71,73,75,
+- 112, I 18, 128, 130, 136, 140-44, 150, 155, 226,
+- 230-32,237
+- Bijenkorf Monument, 37-38. FIG. 14
+- Construction in Space (1928), 127, FIG. 41
+- Construction in Space (1953), 36
+- Construction in Space with Balance on Two
+- Points, 36, 12
+- FIG. Construction Suspended in Space, 37 Kinetic Construction, 230-31, FIG. 85 Linear Construction, 141, FIG. 49 Spheric Theme series, 141, FIG. 50 Torsion, 35-36
+- Gabor, Denis, 309
+- Gaddis, Vincent H., 311
+- Gallo, Frank, 328 Walking Nude, FIG. 120
+- Garcia-Rossi, Horacio, 250, 253, 261, 300 /
+- Gaudier-Brzeska, Henri, 80-83, 314 Birds Erect, 81, 83, FIG. 24 Stags, 81, 83
+- Geertsen, Ib, 30 I
+- Geist, Sidney, 163
+- Geometry, 134-41, 149
+- Gerstner, Karl, 252, 261
+- Gestalt theory, 258
+- Giacometti, Alberto, 39, 73, 102, 152
+- Gibson, James, 258
+- Giedion, Sigfried, ix, 54, 223, 371
+- Giedion- Welcker, Carola, 168-69
+- Gilot, Francoise, 114
+- Goeritz, Mathias, 122
+- Goldberg, Rube. 211
+- Gonzalez, Julio, 101 Maternity, 15 , 62 FIG.
+- Goodman, Sam, No Sculptures, 172
+- Gordon, William, 120
+- Graevenitz, Gerhard von, 252, 261
+- Gray, Christopher, 26
+- Greek attitude to sculpture, 371-72
+- Greek automata, 189-93
+- Grosch, Karle, 161
+- Grosvenor, Robert Floating Sculpture, 47-48, FIG. 22 Transoxiana, 43, 157, FIG. 19
+- Group N, 247, 252, 300-1 Unstable Bi-Spaces, 261
+- Group T, 247, 252, 300-1
+- Group Zero, 47, 247, 249, 252, 266, 276
+- Groupe de Recherche d'Art Visuel (G.R.A.V.), 247, 250-52, 253, 276, 282-84, 299-300, 343
+- Gsell, Paul, 25
+- Guimard, Hector, 52
+- GUnther, Gotthard, 344
+- Haacke, Hans, 279-80, 346-49 Grass Cube, 347, 125 FIG. Ice Stick, 347, FIG. 124 Sphere in Oblique Air-Jet. 48, FIG. 23 Weather Cube, 279, FIG. 104
+- Habasque, Guy, 250
+- Haeckel, Ernest, 52, 62, 76
+- Halacy, Daniel, 333 397
+- Hallock-Greenwalt, Mary, 287
+- Handyman, 321-22, 333
+- Hard-Center sculpture, 43, 120
+- Harrison, Jane, 190-92
+- Hartwig, Joseph, Reflective Lightplays, 290
+- Hauer, Erwin, Identical and Complementary Volumes, 146, FIG. 54
+- Hauser, Arnold, 69, 312
+- Hay, Alex, 361 Grass Field, 360, FIG. 133
+- Hay, Deborah, 360
+- Healy, John, 299
+- Hegel, G. W. F., 167
+- Henry, Pierre, 340
+- Hepworth, Barbara, 73, 80, 93-94 Hollow Form (Penwith), 150, FIG. 58
+- Hero of Alexandria, 192.293 Apotheosis of Dionvsus. 189
+- Hiltmann, Jochen, 41-42
+- Hirschfeld-Mack, Ludwig, 290
+- Homeostasis, 317
+- "Horneostat," Ashby's, 204, 336-37
+- Horta, Victor, 52
+- Horwitt, Will, Growth, 164, FIG. 68
+- Hulme, Frederick Edward, 77
+- Hulten, K. G., 225
+- Husser1, Edmund, 173, 178
+- Huxley, Aldous, 244
+- Huygens, Christiaan, 60
+- Hvidberg, Knud, 301
+- IBM 1500, 323, 333
+- Intelligence, artificial, 338-40, 374-76
+- Ipousteguy, Jean-Robert, 329 David and Goliath, FIG. 121
+- Itten, Johannes, 236
+- Jacobsen, Robert, 242
+- Jameson, D. D., 286
+- Jaquet-Droz, Henri Louis, 200, 323
+- Javan, Ali, 309
+- Jianou, Ionel, 85
+- Jones, Howard W. 305 Skylight Two, 305-6, 115 FIG.
+- Jargensen, Berge, 302
+- Judd, Donald, 43, 123, 178, 179, 71 FIG. Untitled (1964), 177-78, FIG. 73 Untitled (1965), 147-48, FIG. 56
+- Jung, C. G., 3, 7, 311
+- JUnger, Ernst, 7
+- Kandinsky, Wassily, 102, 290
+- Kastner, Frederic, 286
+- Kelvin, Lord, 126
+- Kemeny, Alfred, 237
+- Kepes, Gyorgy, 292, 302
+- KLM light mural, 292
+- Kienholz, Edward, 331
+- Birthday, 331
+- The State Hospital, 331, FIG. 122
+- King, Phillip, Rosebud, 174, FIG. 70
+- Kipp, Lyman, 175
+- Klee, Paul, 168, 171,282,290
+- Klein, Adrian Bernard, 286, 287
+- Klein, Yves, 242-44, 247, 249, 253, 256
+- Double Sided Wall of Fire, 243, FIG. 88
+- La Marque de Feu, 243
+- "La Vide," 294
+- Kleint, Boris, 253
+- Kleist, Heinrich von, 212
+- KlUver, Billy, 281, 359-63
+- Kokoschka, Oskar, 215
+- Kozloff, Max, 171, 176
+- Kramer, Harry, 233
+- Kraynik, Ted, Video Luminar No.3, 306, FIG. 116
+- Kricke, Norbert, 152
+- Kuhn, Thomas, 8
+- Kusama, Yayoi, 252
+- Laing, Gerald, 165-66
+- Hybrid, 124, FIG. 40
+- Tunnel, 165, FIG. 69
+- La Mettrie, Julien de, 59-60, 62
+- Landers, Richard R., 369
+- Landi, Edoardo, 252
+- La rdera, Berto, 152
+- Lasers, 309
+- Lassaw, Ibram, 40, 80, 101, 104-5, 152, 161, 164,
+- The Awakened One, 105
+- Kwannon, 105, FIG. 34
+- Quarternity, 105
+- Latil, Pierre de, 335-36
+- Laurens, Henri, 73
+- La urie, Lee, 169
+- Lebel, Robert, 216, 230
+- Le Corbusier, 153
+- Leger, Fernand, 210
+- Ballet Mecanique, 210
+- The Card Players, 210, FIG. 80
+- Leibniz, Gottfried Wilhelm von, 198
+- Leider, Philip, 264-66, 274, 276, 284
+- Leonardo da Vinci, 61, 194
+- Le Pare, Julio, 233, 250, 261, 276-77, 280, 300,
+- mobiles, 276, FIG. 102
+- Leroy, Julien, 60
+- Levine, Les, Slipcover: A Place, 365-66, FIG. 134
+- Lewis, Wyndham, 83
+- Lewitt, Sol, Untitled, 146, 180, FIG. 75
+- Linck, Walter, 233
+- Lipchitz, Jacques, 73, 81, 208-9
+- Man with Mandolin, 208, 79
+- FIG.
+- Lippold, Richard, 40, 43, 128, 152, 161
+- The Sun, 40, FIG. 16
+- Lipton, Seymour, 80, 101, 105-8, 171
+- Jungle Bloom, 106, FIG. 35
+- Sentinel, 107, FIG. 36
+- Lisi, Virna, 330
+- Loos, Adolf, 201
+- Luckish, Matthew, 286
+- Lutken, Per, 301
+- L¥e, Len, 265,269,274
+- Loop, 269-70, FIG. 99
+- Revolving Harmonic, 269
+- Lysippus, 153
+- McClanahan, Preston, Cloverleaf series, 307
+- McCulloch, Warren, 316
+- MacGowan, Roger, 374—76
+- Mack, Heinz, 47, 162,249,294
+- Light Dynamo No.2, 261, FIG. 97
+- Mackintosh, Charles Rennie, 52
+- McLuhan, Marshall, 239, 311
+- Maillart, Robert, 53
+- Malevich, Kasimir, 115-17,210
+- Malina, Frank, 298-99
+- Manship, Paul, 169
+- Marey, E. J., 223, 224
+- Mari, Enzo, 261
+- Marisol, 329-30
+- Marx, Karl, 6
+- Massironi, Manfredo, 252
+- Mathematical influences, 132-38
+- Mattox, Charles, 352-53
+- Act of Love, 353
+- Oscillator :/1:-5 Photosensitive, 353
+- Mavignier, Almir, 249, 253
+- Maxwell, James Clerk, 255, 332
+- Medalla, David, 345-46
+- Cloud Canyons, 345
+- Mefferd, Boyd, 307
+- Megert, Christian, 162, 252
+- Merleau-Ponty, Maurice, 172-74, 177-79
+- Merzbau,38
+- Mestrovic, Ivan, 169
+- Michelangelo, 194
+- Pieta, 365
+- Micro-time, 278
+- Miller, S. L., 63
+- Milles, Carl, 169
+- Minimal sculpture, see Object sculpture
+- Minsky, Marvin, 338-39
+- Minujin, Marta, £1 Batacazo, 330
+- Miro, Joan, 233
+- Mobius band, 143-44
+- Models, scientific, 125-32
+- Moholy-Nagy, Laszlo, 115, 117-18, 160,212, 220, 225, 226, 228, 235-38, 268, 290-92, 302 Kinetic Sculpture, 237 Light-Space Modulator, 235, 291-92, 106 FIG.
+- Moholy-Nagy, Sibyl, 266, 291
+- Moles, Abraham, 344
+- Mondrian, Piet, 102, 116, 117, 135,232-33 Composition in Black and Grey, 253, FIG. 90
+- Moore, Henry, 54, 71-75,80,93-100,170,314 Four Piece Composition (Reclining Figure, 97, FIG. Reclining Figure, II, 98, FIG. 31 Sculpture (Locking Piece), 98, FIG. 32
+- Morellet, Francois, 250, 253, 261 Sphere- Web, 146, 258, 95 FIG. Successive Illuminations, 300, FIG. 110
+- Morris, Robert, 43, 123, 175, 179-81,365
+- Mosher, Ralph S., 321
+- Moulpied, Deborah de, Form No.4, 157, FIG. 61
+- Muller, Johannes, 66
+- Mumford, Lewis, 37, 49, 76, 281
+- Munari, Bruno, 224, 252, 261, 294
+- Murray, Robert, 157, 175
+- Museum exhibition, 363-65
+- Music, electronic, 278, 343-44
+- Muybridge, E., 223-24
+- Nadelman, Elie, 85
+- Nakian, Reuben, 38
+- Neon art, 303-8
+- Neo-Plasticism, 80, 101, 135, 149, 175
+- Neumann, John von, 222
+- Nevelson, Mike, 43
+- New Tendency, 160,238-62,266,275,276
+- "New York School," 41
+- Newman, Barnett, 176
+- Nirenberg, Marshall, 64
+- Noguchi, Isamu, The Cry, 157, 63 FIG.
+- NUL, 247, 252, 266
+- Object sculpture (Minimal sculpture), 10,43, 120, 123,147,175-81,247
+- Objet d'art, concept of, 372
+- Oldenburg, Claes Dual Hamburgers, 146, 55 FIG. Teddy Bear, 327, 328
+- Op Art (Optical Art), 119, 160, 179, 244, 251,
+- Oparin, A. 1., 64
+- Optical properties, 159-66 399 Reification,
+- Ordway, Frederick, 374-76
+- Organicism, 49-56
+- Ovid, 186-87
+- Paik, Nam June, Robot-K456 with 20-Channel
+- Radio Control and IO-Channel Data Recorder,
+- 351, 127
+- FIG.
+- Paolozzi, Eduardo, 224, 325-26
+- St. Sebastian No.2, 325, FIG. 118
+- Pascal, Blaise, 198
+- Pask, Gordon, 337-38, 345
+- Patina, 164
+- Paxton, Joseph, 52
+- Peeters, Henk, 252
+- Pevsner, Antoine, 34, 73, 75, 128, 136-40, 144
+- Construction for an Airport, 36, FIG. 13
+- The Dancer, 36
+- Developable Column, 139, 48 FIG.
+- Developable Surface, 139, 47 FIG.
+- Projection into Space, 139
+- Torso, FIG. 77
+- Phillips, Peter, Hybrid, 124, FIG. 40
+- Picabia, Francis, 161,211,282
+- Portrait of a YOUlig Girl in a State of Nudity,
+- Picasso, Pablo, 41, 75, 97, 114, 132,206,208
+- Design for a Construction in Iron Rods, 40
+- Piene, Otto, 47, 249, 253, 294-97, 311
+- Corona Borealis, 108 FIG.
+- Light Ballet, 294-96, 107 FIG.
+- Pitts, Walter, 316
+- Plasma display panel, 310
+- Plastics, 123-24
+- Pol, Uli, 252
+- Pollock, Jackson, 39
+- Polyc1itus, 153
+- Polychromed sculpture, 162-66
+- Pop sculpture, 146
+- Post-Constructivism, 75, 130
+- Pound, Ezra, 81, 82
+- Praxiteles, Hermes and the Infant Dionysus, ISS
+- Programmed art, 275-76, 300-1
+- Proportions, theory of, 152-53
+- Pylon art, 122-23
+- Ranier, Yvonne, 360-61
+- Rauschenberg, Robert, 359-60
+- Ray, Man, 228
+- Destructible Object, 224
+- Raysse, Martial, 305
+- Proposition to Escape: Heart Garden, FIG. 114
+- Read, Sir Herbert, 1,69,71-79,161,371-72
+- Readymades, 29-30
+- 400 Reflectivity, 160-62 6-10
+- Reinhardt, Ad, 176
+- Reinhardt, Max, 2~6
+- Reinke, Johannes, 66
+- Religious automata, 193-94
+- Rene, Denise, 354
+- Reuleaux, Franz, 218, 220-21, 223
+- RHIC (Radio-Hypnotic Intracerebral Control),
+- Richier, Germaine, 171
+- Rickey, George, 224, 233, 265-68 "Line" constructions, 268, FIG. 98 viii-ix
+- Riegl, Alois,
+- Rimington, A. W., 286
+- Rivera, Jose de, Brussels Construction, 161, FIG.
+- Rivers, Larry, 328
+- Robert, Paul Andre, 77
+- Robots, 201-17, 320-40, 349-59
+- Rodchenko. Alexander, 34, 75
+- Rodin, Auguste, 55-56, 68, 70-71, 73, 74, 83, 107-8, 162 The Burghers of Calais, 25, 28, FIGS. 4, 5
+- Rose, Barbara, 43
+- Rosenblueth, Arturo, 315, 316
+- Rosso, Medardo, 85 The Kiss on the Tomb, 23-25, FIG. 3
+- Roszak, Theodore, 80, 101-3, 164 Thorn Blossom, 102-3, 33 FIG.
+- Rot, Diter, 252, 261
+- Ruskin, John, 74-76
+- Russell, Bertrand, 128
+- Saint-Phalle, Niki de, Nanas, 327, 328
+- Samaras, Lucas, 177 Mirror Room, 162
+- Samoiloff, Adrian, 286
+- Savinio, Alberto (Andrea de Chirico; brother of Giorgio), 211
+- Schwerdtfeger, Kurt, Reflective Lightplay, 290
+- Schlegell, David von Needle, 157, 64 FIG. Radio Controlled Sculpture, 354, FIG. 128 Twisted Column, 40, 17 FIG.
+- Schlemmer, Oskar, 73, 212-14, 290 Abstract Figure, 213-14, FIG. 81 Metall-Tanz production, 161
+- Schmidt, Georg, 77
+- Schoffer, Nicolas, 250, 277-79, 340-43 Chronos series, 297-98 "Cybernetic City," 342 CYSP I, 341-42, FIG. 123 CYSP 11,343 Lux I, 297, FIG. 109 Microtemps series, 278-79, 297, FIG. 103
+- Schoon hoven, Jan, 252
+- Schrodinger, Erwin, 128
+- Schwitters, Kurt, 38
+- Scientific American, 131
+- Scientific models, 125-32
+- Seawright, James, 356-59
+- Searcher, 357-58, FIG. 132
+- Section dOr group, 208
+- Segal, George, 327, 328
+- Semper, Gottfried, viii
+- Seuphor, Michel, 234
+- Sham berg, Morton, God, FIG. 135
+- Shannon, Claude, 204, 316, 336
+- Shannon, Thomas, Squat, 356, FIG. 131
+- Sharp, Willoughby, 219
+- Shaw, George Bernard, 67, 70-71
+- Shelley, Mary, 202
+- Sherrington, Charles, 58
+- Shibui, 102
+- Shinoda, Morio, 44-45
+- Tension and Compression, 32, 45, FIG. 20
+- Sinnott, Edmund, 57, 89
+- Smith, David, 40, 101, 152,234
+- Cubi series, 120-23, FIGS. 37, 38
+- Smith, Tony, 175
+- Amaryllis, 72 FIG.
+- Snelson, Kenneth, 45
+- Atom, 129-30, 42 FIG.
+- Audry I, 44, 157, 65 FIG.
+- Sobrino, Francisco, 250, 253
+- Juxtaposition Superimposition C, 258, FIG. 94
+- So by, James Thrall, 211
+- Soto, Jesus-Raphael, 233, 242, 244, 247, 253, 257,
+- 258, 262
+- Vibrations, 261
+- Soustelle, Jacques, 119
+- Soya, William, 301
+- Spaceships, 322
+- Spazialismo group, 239
+- Spengler, Oswald, 8, 113, 133-34, 136, 147-48,
+- 163-64, 187, 238, 314, 331
+- Spiegelman, Sol, 64
+- "Squee," 336
+- Staber, Margit, 154
+- Stark ie, Enid, 65
+- Stein, Joel, 250, 253, 261
+- Trihedral: With Manipulatable Elements,
+- FIG. 96
+- Still, Clyfford, 176
+- Stockhausen, Karlheinz, 278
+- Structure, 154—59
+- Sullivan, Louis, 51, 52, 100
+- Surrealism, 211, 214, 233
+- Sylvester, David, 97, 98
+- Systems Art, 365-70
+- Tachism, 238-40, 241, 245, 254
+- Tadlock, Thomas, 306
+- Taeuber-Arp, Sophie, 214
+- Takis, 44, 45, 233, 270-72, 283
+- Telemagnetics, 270, 100 FIG.
+- Telephoto sculptures, 271-72
+- Tatlin, Vladimir, 34, 73, 75
+- Monument to the Third International, 155,
+- FIG. 60
+- Tensegrity principle, 44-45
+- Thompson, D'Arcy Wentworth, 77, 91, 100
+- Tinguely, Jean, 218, 224, 233, 242, 244-46, 247,
+- 249, 280, 319, 342, 345
+- Radio Drawing, 245-46, FIG. 89
+- Study No.2 for an End of the World, 244-45 .
+- Titian, 194
+- Tobey, Mark, 39
+- Tomasello, Luis, 252, 258
+- Topology, 142—46
+- "Tortoises," Grey Walter's, 204, 334—36
+- Toynbee, Arnold, 187
+- Trova, Ernest, 326-27
+- Falling Man series, 327, 119 FIG.
+- Truitt, Ann, 43, 123, 175
+- "Truth to material," 95, 96
+- Tucker, William, 175
+- Turing, A. M., 222
+- Uecker, GUnther, 249
+- Moving Light, 258, FIG. 91
+- Uhlman, Hans, 152
+- Unidentified flying objects (U.F.O.), 310-11
+- Vantongerloo, Georges, 115, 118, 128, 134—36. I53
+- Construction Based on an Equilateral
+- Hyperbola: XY=K, 136, FIGS. 45, 46
+- Construction in an Inscribed and
+- Circumscribed Square of a Circle, 134,
+- FIGS. 43, 44
+- Spherical Construction, 134
+- Vardanega, Gregorio, 252
+- Varisco, Grazia, 252, 261
+- Vasarely, Victor, 240-42, 250, 253. 257,258
+- Vasari, Giorgio, 194
+- Vaucanson, Jacques de, 60, 199-200
+- Veblen, Thorstein, 367-68
+- Vecchi, Gabriele de, 252
+- Virchow, Rudolf, 62
+- Waddington, C. H., 96-97
+- Walter, W. Grey, 204, 331-32, 334—36, 338, 345
+- Warhol, Andy, 47 Weaver, Warren, 316 Weinrib, David, 157 Westermann, H. C., 162 Westermann, Lucas, 177 Whitman, Robert, Whyte,"'Lancelot Law, 51, 72 Wiegand, Charmion von, 102 Wiener, Norbert, 312-13, 315-16 Wilenski, R. H., 75, 170, 172, 185 Wilfred, Thomas, 225, 265, 287-89, 158, 105 Lumia Suite, Opus FIG. Wohler, Friedrich, 61 Wolfe, Tom, Worringer, Wilhelm, 3, 69 Wright, Frank Lloyd, 53, 201 Yvaral (Jean-Pierre Vasarely), 250, 258, 282
+- 302 Zero, Group, 47, 247, 249, 252, 266, 276 Zorach. William,

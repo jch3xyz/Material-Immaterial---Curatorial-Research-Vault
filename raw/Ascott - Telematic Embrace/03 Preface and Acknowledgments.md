@@ -1,0 +1,17 @@
+---
+book: "Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness"
+author: "Roy Ascott"
+editor: "Edward A. Shanken"
+part: "Preface and Acknowledgments"
+type: source
+---
+
+# Preface and Acknowledgments
+
+Works of art produced by any distinctive creative personality will borrow from and build on prior themes. Similarly, in these essays, Roy Ascott employs a palette of theoretical images drawn from many sources, including Jackson Pollock and Marcel Duchamp, theories of cybernetics, quantum physics, and telematics, and the metaphysical ideas of Pierre Teilhard de Chardin and non-Western cosmologies, which he re-renders and re-contextualizes in original compositions. His theories progressively gain complexity and depth and are always presented in a compelling manner, which is at once poetic and convincing.
+
+Because Ascott’s essays are generally quite short, abridgment would in most cases seriously detract from their integrity. Except as noted, the texts selected for this book are therefore included in their entirety. Occasionally, minor editorial alterations have been made to enhance clarity. British spellings have generally been retained, and despite the author’s and editor’s preference for gender inclusive language, we also decided to retain the original gender ing of pronouns. Ascott’s message is one of inclusion and unification, and it is hoped that all readers will feel equally welcome in his telematic embrace.
+
+The introductory essay “From Cybernetics to Telematics: The Art, Pedagogy, and Theory of Roy Ascott” is intended as a basic framework to assist the reader in contextualizing and evaluating the artist’s writings, providing a general overview of Ascott’s work, briefly describing his intellectual background, and sketching out the problem of artists’ writings. It also offers a discussion of cybernetics and telematics and their relationship to Ascott’s work as an artist, teacher, and theorist. Roy Ascott is still actively making art, teaching, and writing theory, but I have addressed his work in the past tense in order to retain consistency and provide a proper historical tone. xii 1
+
+· · · · · Kristine Stiles sensed that Roy Ascott and I were a perfect match, arranged our meeting in 1994, and encouraged us to pursue this project together. Without her knowledge, dedication, patience, and editorial assistance, my efforts would have amounted to substantially less. My large and extended family has blessed me many times over by supporting my dreams with love and enthusiasm. The Duke University Department of Art and Art History, Graduate School, and Center for International Studies generously supported my dissertation research, a substantial portion of which appears in my essay. A Henry Luce fellowship from the American Council of Learned Societies made an invaluable contribution to the final stages of writing. Thanks are also due to all the artists and critics who offered personal insights into telecommunications art. These include Robert Adrian, Liza Bear, Hank Bull, Peter D’Agostino, Allan Kaprow, Carl Loeffler, Willoughby Sharp, Woody and Steina Vasulka, and Norman White. Eduardo Kac generously edited earlier drafts and provided excellent comments. Deborah Kirshman at the University of California Press embraced this project from the beginning and patiently supported the process that brought it to fruition. Finally, I would like to thank Roy Ascott for the honor of editing this collection of his writings and for the love he has shown by entrusting them to me.
