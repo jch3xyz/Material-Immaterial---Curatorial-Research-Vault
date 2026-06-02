@@ -13,15 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Harari - Homo Deus/04 The Human Spark.md",
+                "file": "concepts/Positivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 The Human Spark"
+              "title": "Positivity"
+            }
+          },
+          {
+            "id": "3f0c529de0cf7ef1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/help/updates#Installer+updates",
+                "title": "Update Obsidian - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Update Obsidian - Obsidian Help"
+            }
+          },
+          {
+            "id": "5f6c84d7a65e7082",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e7d28a87e318a57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Intimacy as Psychological Formula of Transparency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intimacy as Psychological Formula of Transparency"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Harari - Homo Deus/04 The Human Spark.md",
+                "file": "concepts/Intimacy as Psychological Formula of Transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04 The Human Spark"
+              "title": "Backlinks for Intimacy as Psychological Formula of Transparency"
             }
           },
           {
@@ -172,39 +211,37 @@
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "media-extended:Open media": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e7d28a87e318a57b",
   "lastOpenFiles": [
-    "raw/Harari - Homo Deus/00 [About].md",
-    "00-Home/00-Home.md",
-    "08-Drafts & Writing/Not Just Interactive - Toward a Typology of Participatory Systems.md",
-    "02-Sources/Books/The Invention of Art/The Invention of Art - A Cultural History.md",
-    "02-Sources/Books/The Invention of Art/Fine Art are things made for aesthetic looking - tokens of art itself..md",
-    "02-Sources/Bibliography.md",
-    "08-Drafts & Writing/Writings Index.md",
-    "01-Research Questions/Research Landscape.md",
-    "02-Sources/Books/The Society of Spectacle/The Society of the Spectacle.md",
-    "10-Public Programming/Public Programming Index.md",
-    "07-Exhibition Concepts/Exhibition Concepts Index.md",
-    "09-Research Based Artworks/Works In Progress/The Attention Economy.md",
-    "02-Sources/Books/The Society of Spectacle/The fetishism of the commodity attains its ultimate fulfillment in the spectacle, where the perceptible world is replaced by a selection of images projected above it, yet also succeeds in making itself regarded as the perceptible par excellence..md",
-    "09-Research Based Artworks/Artworks Index.md",
-    "09-Research Based Artworks/Works In Progress/United In Separation.md",
-    "02-Sources/Books/The Society of Spectacle/Spectators are linked solely by their one-way relationship to the very center that keeps them isolated from each other. The spectacle thus reunites the separated, but it reunites them only in their separateness..md",
-    "08-Drafts & Writing/A Manifesto For Cultural Transformation Through Experiential Design.md",
-    "06-Synthesis Maps/Synthesis Maps Index.md",
-    "02-Sources/Books/The Invention of Art/The fine art world recaptures acts of resistance and expands its own limits by assimilating new types of art and dissolving its own boundaries..md",
-    "01-Research Questions/Core Research Questions.md",
-    "02-Sources/Essays/AI Is Inherently Evil/AI is Inherently Evil.md",
-    "02-Sources/Essays/AI Is Inherently Evil/Notably, computers cannot quite simulate all material events, nor can they fully operate without prompting. However, their efficiency has no definite limit..md",
-    "02-Sources/Essays/AI Is Inherently Evil/Computers can store and transfer any information in valid symbolic logic. This allows them to represent any idea as information (immaterial), including representations of labor functions (universal) and of the operation of those functions (autonomous)..md",
-    "02-Sources/Essays/AI Is Inherently Evil/The three key attributes of technocapitalism are universality, autonomy, and immateriality; the extent to which any technology maximizes them is call efficiency..md",
-    "02-Sources/Essays/AI Is Inherently Evil/Capitalist technology tends to become universal, capable of performing all labor functions; autonomous, requiring no labor input to function; and immaterial, demanding no material expenses and no material output..md",
-    "02-Sources/Essays/AI Is Inherently Evil/Labor costs depend on the quantity and duration of labor. A company can reduce quantity of labor by using singular technologies to finish many tasks, or reduce the duration of labor by automating singular tasks that technology can perform..md",
+    "_system/analysis/Lippard - Six Years - 02 Escape Attempts.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 11 Postface.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 09 1970.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 04 Preface.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 08 1969.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 03 Author's Notes.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 10 1971.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 05 1966.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 07 1968.md.analysis.md",
+    "_system/analysis/Lippard - Six Years - 06 1967.md.analysis.md",
+    "concepts/The Extrapolated Body.md",
+    "tensions/Material vs Immaterial.md",
+    "references/N. Katherine Hayles and Byung-Chul Han.md",
+    "references/N. Katherine Hayles and Philip K. Dick.md",
+    "references/N. Katherine Hayles and Hans Moravec.md",
+    "references/N. Katherine Hayles and Humberto Maturana and Francisco Varela.md",
+    "references/N. Katherine Hayles and Donna Haraway.md",
+    "references/N. Katherine Hayles and Warren McCulloch.md",
+    "references/N. Katherine Hayles and Alan Turing.md",
+    "references/N. Katherine Hayles and Norbert Wiener.md",
+    "arguments/The strong claim of artificial life is constructed through narrative.md",
+    "references/N. Katherine Hayles and Claude Shannon.md",
+    "arguments/The disappearance of the body is the symptom of a new subjectivity.md",
+    "arguments/Conscious agency has never been in control.md",
+    "arguments/Disembodiment is impossible there is only different embodiment.md",
+    "tensions/Homeostasis vs Reflexivity.md",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",
     "99-Templates",

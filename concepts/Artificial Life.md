@@ -1,0 +1,152 @@
+---
+type: concept
+status: generated
+sources:
+  - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
+  - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
+related:
+  - "[[The Three Waves of Cybernetics]]"
+  - "[[Emergence]]"
+  - "[[The Computational Universe]]"
+  - "[[Autopoiesis]]"
+  - "[[Posthumanism]]"
+  - "[[The Body as Data]]"
+  - "[[Information (Hayles)]]"
+  - "[[Feedback Loops]]"
+opposes:
+  - "[[Embodiment]]"
+  - "[[Embodiment vs Information]]"
+  - "[[Material vs Immaterial]]"
+authors:
+  - "[[N. Katherine Hayles]]"
+  - "[[Christopher Langton]]"
+  - "[[Francisco Varela]]"
+confidence: high
+last_updated: 2026-06-01
+---
+
+# Artificial Life
+
+## Brief Definition
+
+Artificial Life (AL) is the third-wave cybernetic research program that builds life "from the bottom up" across wetware, hardware, and software, in its strongest form claiming that self-evolving computer codes do not merely simulate life but are themselves alive.
+
+## Longer Explanation
+
+For [[N. Katherine Hayles]], Artificial Life names the third of [[The Three Waves of Cybernetics]] — the wave that "stretching from 1980 to the present, highlights virtuality." Where the first wave took homeostasis as its central concept and the second revolved around [[Reflexivity]] and [[Autopoiesis]], the third makes [[Emergence]] its key term. Hayles figures the shift geometrically: against the closed circularity of [[Humberto Maturana]]'s autopoiesis, "the figure most apt to describe the third wave is a spiral." Self-organization is no longer enough; the third wave wants the recursive loops to "break out of the pattern of circular self-organization and leap outward into the new." [[Francisco Varela]] is the transition figure who, having extended the definition of the living to artificial systems, carried autopoiesis forward into AL while subtly reconceiving autonomy.
+
+Conventionally, Hayles notes, the field divides into three research fronts: *wetware* (artificial biological life built in test tubes), *hardware* (robots and other embodied life-forms), and *software* (programs instantiating emergent or evolutionary processes). All three "share the sense of building life from the 'bottom up'" — beginning with a few simple local rules and, through highly recursive structures and complex [[Feedback Loops]], allowing complexity to emerge spontaneously. The aim, as Hayles puts it in the prologue chapter, is "to evolve the capacity to evolve."
+
+What distinguishes AL from mere simulation is what Hayles calls the **strong claim**: that "the computer codes do not merely simulate life but are themselves alive." This claim depends on a particular metaphysics in which form is separable from, and privileged over, matter. [[Christopher Langton]], explaining the reasoning, holds that "the 'logical form' of an organism can be separated from its material basis of construction, and that 'aliveness' will be found to be a property of the former, not of the latter." Langton reframes biology's task as locating "life-as-we-know-it within the larger picture of life-as-it-could-be." Crucially, for AL's creatures the usual distinction between informational code and embodied expression collapses: the bodies of Thomas Ray's Tierra "creatures" "are not... phenotypic expressions of informational codes. Rather, the 'creatures' are their codes... the organism is the code, and the code is the organism." This **genotype/phenotype collapse** is what makes the strong claim sayable — it treats reality at its most fundamental level as informational pattern, the worldview Hayles develops separately as [[The Computational Universe]].
+
+For Hayles, AL is therefore not a neutral science but a site where "life," "nature," and the "human" are redefined, and where the long Western privileging of form over matter is reinscribed. She is careful to mark the **disembodied-versus-embodied split** running through the field, an echo of the Macy Conferences' two camps. On the disembodiment side stand Langton, Edward Fredkin (for whom reality is "a software program run by a cosmic computer"), and [[Hans Moravec]], who equates consciousness with human subjectivity and dreams of downloading it. On the embodiment side stand Varela (coauthor of *The Embodied Mind*) and Rodney Brooks, whose subsumption-architecture robots take "the world is its own best model" as their motto and treat consciousness as a "cheap trick" emerging from robust bodily interaction. Hayles's own judgment falls with the embodied camp: "bodies can never be made of information alone, no matter which side of the computer screen they are on."
+
+## Authors and Variants
+
+- **[[N. Katherine Hayles]]** — treats AL as the anchoring science of the third cybernetic wave and as a narrative field; reads its "strong claim" critically as a reinscription of the form/matter hierarchy that severs information from materiality.
+- **[[Christopher Langton]]** — the field's most visible advocate of the strong claim; separates "logical form" from "material basis" and defines AL's project as charting "life-as-it-could-be."
+- **[[Francisco Varela]]** — bridge from the second to the third wave; carries autopoiesis into AL but insists on embodiment, resisting the disembodied default.
+- **Edward Fredkin** — radical informationalist; reality is a program run on a cosmic computer, and AL programs are alive "in precisely the same sense as biological life."
+- **[[Hans Moravec]]** vs **Rodney Brooks** — the consciousness-as-essence (AI-aligned, disembodied) versus locomotion-and-interaction-as-essence (AL-aligned, embodied) poles of the field.
+
+## Related Concepts
+
+- [[The Three Waves of Cybernetics]] — AL *is* the third wave; the spiral that breaks out of second-wave circularity.
+- [[Emergence]] — the mechanism AL relies on; this note holds the *program*, Emergence holds the *how*.
+- [[The Computational Universe]] — the worldview AL's strong claim presupposes; this note holds the *bottom-up building of life*, that note the *cosmos-as-information* metaphysics.
+- [[Autopoiesis]] — the second-wave circularity AL spirals out of; Varela carries it forward.
+- [[The Body as Data]] / [[Information (Hayles)]] — the genotype=phenotype collapse renders the creature pure informational pattern.
+- [[Posthumanism]] — when AL's assumptions are applied to humans, "the human is transfigured into the posthuman."
+- [[Feedback Loops]] — the recursive looping through which complexity emerges in AL programs.
+
+## Opposing Concepts
+
+- [[Embodiment]] — AL's disembodied wing treats the material substrate as incidental to "aliveness"; Hayles opposes this, insisting embodiment cannot be left behind.
+- [[Embodiment vs Information]] — AL is a flashpoint of this larger tension; the strong claim sides decisively with information.
+- [[Material vs Immaterial]] — AL reinscribes the privileging of immaterial form over material instantiation.
+
+## Questions It Raises
+
+- If a creature *is* its code — genotype and phenotype collapsed — what work does materiality still do, and what is lost when [[The Body as Data]] becomes the model for the living? (ties to embodiment, the body as data)
+- Does AL's "strong claim" mark a genuine emergence of new life, or only the latest reinscription of the form-over-matter hierarchy running from Plato through Shannon's [[Information (Hayles)]]? (ties to information vs materiality)
+- The field splits internally (Langton/Fredkin/Moravec vs Varela/Brooks). Is embodiment a contingent research choice or a condition of the living? What does Brooks's "the world is its own best model" imply for [[Embodiment vs Information]]?
+- If AL applied to humans yields [[Posthumanism]], which posthuman does it produce — one that "regards their bodies as fashion accessories" or one "embedded in a material world of great complexity"? (ties to posthumanism)
+
+## Sources
+
+### Source 1
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> In contrast to the circular processes of Humberto Maturana’s autopoiesis, the figure most apt to describe the third wave is a spiral. ... The third wave wants to impart an upward tension to the recursive loops of self-organizing processes so that, like a spring compressed and suddenly released, the processes break out of the pattern of circular self-organization and leap outward into the new.
+
+Supports: Establishes AL as the third wave and the spiral-out-of-circularity figure that distinguishes it from autopoietic self-organization. Label: `Directly stated`
+
+### Source 2
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> Conventionally, Artificial Life is divided into three research fronts. Wetware is the attempt to create artificial biological life through such techniques as building components of unicellular organisms in test tubes. Hardware is the construction of robots and other embodied life-forms. Software is the creation of computer programs instantiating emergent or evolutionary processes. Although each of these areas has its distinctive emphases and research agendas, they all share the sense of building life from the “bottom up.”
+
+Supports: Grounds the wetware/hardware/software division and the bottom-up building of life across media. Label: `Directly stated`
+
+### Source 3
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> In fact, they are essential to the strong claim that the computer codes do not merely simulate life but are themselves alive.
+
+Supports: States the "strong claim" verbatim — AL codes are not simulations of life but life itself. Label: `Directly stated`
+
+### Source 4
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> Rather, the “creatures” are their codes. For them, genotype and phenotype amount to the same thing; the organism is the code, and the code is the organism.
+
+Supports: Documents the genotype=phenotype collapse that lets the creature be treated as pure informational pattern. Label: `Directly stated`
+
+### Source 5
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> “The principle [sic] assumption made in Artificial Life is that the ‘logical form’ of an organism can be separated from its material basis of construction, and that ‘aliveness’ will be found to be a property of the former, not of the latter.” ... Artificial Life can contribute to theoretical biology by locating life-as-we-know-it within the larger picture of life-as-it-could-be.”
+
+Supports: Langton's form/matter separation and "life-as-it-could-be" formulation underwriting the disembodied reading of the strong claim. Label: `Directly stated`
+
+### Source 6
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]
+Relevant passage:
+
+> Other voices insist that the body cannot be left behind, that the specificities of embodiment matter ... The narratives of Artificial Life reveal that ifwe acknowledge that the observer must be part of the picture, bodies can never be made of information alone, no matter which side of the computer screen they are on.
+
+Supports: Marks the embodied-vs-disembodied split and Hayles's own embodied verdict against AL's strong informational claim. Label: `Directly stated`
+
+### Source 7
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]
+Relevant passage:
+
+> In the rapidly emerging field of artificial life, computer programs are designed to allow “creatures” (that is, discrete packets of computer codes) to evolve spontaneously in directions the programmer may not have anticipated. The intent is to evolve the capacity to evolve. Some researchers have argued that such self-evolving programs are not merely models of life but are themselves alive. What assumptions make this claim plausible? If one sees the universe as composed essentially of information, it makes sense that these “creatures” are life forms because they have the form of life, that is, an informational code.
+
+Supports: Hayles's prologue framing of AL as third-wave, its "evolve the capacity to evolve" aim, and the link between the strong claim and the computational-universe assumption that reality is information. Label: `Directly stated`

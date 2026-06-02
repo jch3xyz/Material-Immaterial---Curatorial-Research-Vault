@@ -1,0 +1,149 @@
+---
+type: concept
+status: generated
+sources:
+  - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
+  - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
+  - "[[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]"
+  - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+related:
+  - "[[Feedback Loops]]"
+  - "[[Homeostasis]]"
+  - "[[Reflexivity]]"
+  - "[[Autopoiesis]]"
+  - "[[Emergence]]"
+  - "[[Information]]"
+  - "[[Posthumanism]]"
+  - "[[The Body as Data]]"
+opposes:
+  - "[[Embodiment]]"
+authors:
+  - "[[N. Katherine Hayles]]"
+  - "[[Norbert Wiener]]"
+confidence: high
+last_updated: 2026-06-01
+---
+
+# Cybernetics
+
+## Brief Definition
+
+The postwar synthesis—named from the Greek for "steersman"—that fuses information, control, and communication into a single framework applying equally to animals, humans, and machines, all reconceived as information-processing systems whose boundaries are constructed rather than given.
+
+## Longer Explanation
+
+For [[N. Katherine Hayles]], cybernetics is the umbrella discipline whose internal history structures all three of *[[How We Became Posthuman]]*'s narratives. Its founding gesture is etymological and programmatic at once: "Coined from the Greek word for 'steersman,' cybernetics signaled that three powerful actors—information, control, and communication—were now operating jointly to bring about an unprecedented synthesis of the organic and the mechanical." The discipline crystallized when an older engineering tradition met a new mathematics: "Cybernetics was born when nineteenth-century control theory joined with the nascent theory of information." Its institutional crucible was the Macy Conferences (1943–1954), where Wiener, von Neumann, Shannon, and McCulloch met to "formulate the central concepts that, in their high expectations, would coalesce into a theory of communication and control applying equally to animals, humans, and machines." The result, Hayles writes, "was nothing less than a new way of looking at human beings"—henceforth "information-processing entities who are essentially similar to intelligent machines."
+
+The most consequential claim cybernetics carries, in Hayles's reading, is ontological rather than technical: it makes the human boundary a construction. "Of all the implications that first-wave cybernetics conveyed, perhaps none was more disturbing and potentially revolutionary than the idea that the boundaries of the human subject are constructed rather than given." Gregory Bateson's koan—is a blind man's cane part of the man?—dramatizes the shift: once a system is defined by flows of information rather than by skin, "cane and man join in a single system." This is the conceptual hinge by which cybernetics, and the [[Feedback Loops|feedback loop]] in particular, becomes "associated with the deconstruction of the liberal humanist subject." Because information is conceived as pattern that can travel between carbon and silicon substrates, equating humans and computers "is especially easy, for the materiality in which the thinking mind is instantiated appears incidental to its essential nature." Cybernetics is thus, for Hayles, the discipline through which information "lost its body" and [[The Body as Data|the body became data]].
+
+Hayles narrates cybernetics not as one settled paradigm but as three seriated waves, each parented by the discipline yet driven by a different organizing concept. The first wave (1945–1960) "took [[Homeostasis|homeostasis]] as a central concept"; the second (1960–1980) "revolved around [[Reflexivity|reflexivity]]," extending cybernetic principles to the observer and spinning off [[Autopoiesis|autopoiesis]]; the third (1980–present) "highlights virtuality" and replaces self-organization with [[Emergence|emergence]]. The waves do not cleanly supersede one another—homeostasis lingers in the second wave as a "skeuomorph," reflexivity in the third—but each marks a constellation of concepts that cohere and then disassemble. Cybernetics is the name for the whole seriated field; the per-wave concepts are its children.
+
+Crucially, Hayles insists cybernetics did not have to mean disembodiment. Its founder "did not intend to dismantle the liberal humanist subject"; "for [[Norbert Wiener|Wiener]], cybernetics was a means to extend liberal humanism, not subvert it." Cybernetics "was born in a froth of noise when Norbert Wiener first thought of it as a way to maximize human potential in a world that is in essence chaotic and unpredictable." The disembodiment that followed was, in her account, "not inevitable"—a contingent outcome of contests within the field, which is why she can imagine recovering a cybernetics in which "embodiment replaces a body seen as a support system for the mind."
+
+## Authors and Variants
+
+- **[[N. Katherine Hayles]]** — treats cybernetics as the seriated discipline (three waves) whose history shows how information was abstracted from materiality; her critical project contests the [[Embodiment vs Information|materiality/information separation]] cybernetics helped install, while refusing to read disembodiment as cybernetics' necessary meaning.
+- **[[Norbert Wiener]]** — the "father of cybernetics," who fused control, communication, and information into "a universal theory of knowledge" yet sought to align it with liberal humanism, fashioning "human and machine alike in the image of an autonomous, self-directed individual." His "Behavior, Purpose, and Teleology" (with Bigelow and Rosenblueth) is, in Hayles's account, "the founding document for cybernetics."
+
+## Related Concepts
+
+- [[Feedback Loops]] — the central mechanism cybernetics theorizes "as a flow of information"; cybernetics is the discipline, the feedback loop its operative device.
+- [[Homeostasis]] — organizing concept of first-wave cybernetics.
+- [[Reflexivity]] — organizing concept of second-wave (second-order) cybernetics.
+- [[Autopoiesis]] — spun off from reflexive feedback loops; "turns the cybernetic paradigm inside out."
+- [[Emergence]] — organizing concept of third-wave cybernetics and artificial life.
+- [[Information]] — one of the "three powerful actors" cybernetics synthesizes; the entity it constructs as pattern divorced from materiality.
+- [[Posthumanism]] — the construction of the human that cybernetics' history produces; "a common theme is the union of the human with the intelligent machine."
+- [[The Body as Data]] — the conceptual outcome of cybernetics treating the human as "patterns that perpetuate themselves" rather than material flesh.
+- [[Systems Theory]] — adjacent and overlapping; autopoiesis (Maturana, Varela) and Luhmann's sociology grow out of second-wave cybernetics but follow a distinct lineage Hayles contrasts with narrative's embodiment.
+
+## Opposing Concepts
+
+- [[Embodiment]] — cybernetics, in its dominant strain, "systematically downplayed or erased" embodiment by privileging informational pattern over material instantiation; Hayles's intervention re-inserts the flesh cybernetics elided, making embodiment the term against which cybernetics' disembodying tendency is measured.
+- [[Embodiment vs Information]] — names the tension cybernetics installs and that Hayles works to "contest."
+
+## Questions It Raises
+
+- If cybernetics makes the boundaries of the human "constructed rather than given," what work—and whose body—has to be erased for "bodiless information" to seem natural? (ties to [[The Body as Data]], [[Material vs Immaterial]])
+- Can the cybernetic reconception of humans, animals, and machines as information-processing systems be held without the "leap from embodied reality to abstract information" Hayles contests? (ties to [[Embodiment vs Information]])
+- Is the disembodiment cybernetics produced an "inexorable logic" of the field, or a contingent outcome that an embodied cybernetics could undo? (ties to [[Embodiment]], [[Posthumanism]])
+- Does Wiener's intent to *extend* liberal humanism through cybernetics survive the discipline's own pressure toward dissolving the autonomous subject? (ties to [[Posthumanism]], [[Norbert Wiener]])
+
+## Sources
+
+### Source 1
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]
+Relevant passage:
+
+> Coined from the Greek word for “steersman,” cybernetics signaled that three powerful actors—information, control, and communication—were now operating jointly to bring about an unprecedented synthesis of the organic and the mechanical.
+
+Supports: The brief definition and the etymological/synthetic core of the concept—cybernetics as the joint operation of information, control, and communication fusing organic and mechanical. Label: `Directly stated`
+
+### Source 2
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]
+Relevant passage:
+
+> During the foundational era of cybernetics, Norbert Wiener, John von Neumann, Claude Shannon, Warren McCulloch, and dozens of other distinguished researchers met at annual conferences sponsored by the Josiah Macy Foundation to formulate the central concepts that, in their high expectations, would coalesce into a theory of communication and control applying equally to animals, humans, and machines.
+
+Supports: Cybernetics as the umbrella over the Macy Conferences and as a unified theory spanning animals, humans, and machines. Label: `Directly stated`
+
+### Source 3
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]
+Relevant passage:
+
+> The first, from 1945 to 1960, took homeostasis as a central concept; the second, going roughly from 1960 to 1980, revolved around reflexivity; and the third, stretching from 1980 to the present, highlights virtuality.
+
+Supports: The three-waves structure and cybernetics' role as parent of the per-wave concepts (homeostasis, reflexivity, emergence/virtuality). Label: `Directly stated`
+
+### Source 4
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]
+Relevant passage:
+
+> If humans are informationprocessing machines, then they must have biological equipment enabling them to process binary code.
+
+Supports: The cybernetic reconception of the human as an information-processing system. Label: `Directly stated`
+
+### Source 5
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]
+Relevant passage:
+
+> Of all the implications that first-wave cybernetics conveyed, perhaps none was more disturbing and potentially revolutionary than the idea that the boundaries of the human subject are constructed rather than given.
+
+Supports: The core claim that cybernetics makes the boundaries of the human subject constructed, not given. Label: `Directly stated`
+
+### Source 6
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]
+Relevant passage:
+
+> For Wiencr, cybernetics was a means to extend liberal humanism, not subvert it.
+
+Supports: Wiener's intent to extend rather than dismantle the liberal humanist subject—the contingency of cybernetics' disembodying outcome. Label: `Directly stated` (OCR renders "Wiener" as "Wiencr"; quoted verbatim from source.)
+
+### Source 7
+
+Book: *How We Became Posthuman*
+Author: N. Katherine Hayles
+Raw file: [[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]
+Relevant passage:
+
+> cybernetics was born in a froth of noise when Norbert Wiener first thought of it as a way to maximize human potential in a world that is in essence chaotic and unpredictable.
+
+Supports: The origin story framing cybernetics as Wiener's response to a chaotic, probabilistic world—the steersman steering through unpredictability. Label: `Directly stated`
