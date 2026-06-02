@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authors/Byung-Chul Han.md",
+                "file": "concepts/The Materiality of Informatics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Byung-Chul Han"
+              "title": "The Materiality of Informatics"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authors/Byung-Chul Han.md",
+                "file": "concepts/The Materiality of Informatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Byung-Chul Han"
+              "title": "Backlinks for The Materiality of Informatics"
             }
           },
           {
@@ -177,6 +177,8 @@
   },
   "active": "186e52786d09f8dc",
   "lastOpenFiles": [
+    "tensions/Material vs Immaterial.md",
+    "authors/Byung-Chul Han.md",
     "references/Yuval Noah Harari and Alan Turing.md",
     "references/Yuval Noah Harari and Charles Darwin.md",
     "references/Yuval Noah Harari and René Descartes.md",
@@ -202,8 +204,6 @@
     "references/Yuval Noah Harari and Byung-Chul Han.md",
     "arguments/Fulfilling humanism will destroy it by making humans irrelevant.md",
     "arguments/The self is an imaginary story like nations gods and money.md",
-    "arguments/Science strengthens myths rather than replacing them with facts.md",
-    "arguments/Technology not philosophy will break liberalism.md",
     "raw/Kandinsky - On the Spiritual in Art",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",
