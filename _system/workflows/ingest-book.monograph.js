@@ -92,7 +92,7 @@ You are the **analysis pass** (step 1 of 2) for *${BOOK_TITLE}* by ${AUTHOR}. An
 - Chapter: \`${VAULT}/raw/${BF}/${ch.file}\` (raw-relative \`raw/${BF}/${ch.file}\`, SHA256 \`${ch.sha}\`)
 - Controlled vocabulary: \`${VAULT}/_system/link_vocabulary.md\`. Template: \`${VAULT}/_system/templates/analysis.md\`.
 ## Write
-Analysis file to: \`${VAULT}/_system/analysis/${BF} - ${ch.file.replace(/\\.md$/, '')}.analysis.md\` (use the template; fill Source Metadata: book, author, raw-relative path, SHA256, Date analyzed ${TODAY}). Be expansive.
+Analysis file to: \`${VAULT}/_system/analysis/${BF} - ${ch.file.replace(/\.md$/, '')}.md.analysis.md\` (use the template; fill Source Metadata: book, author, raw-relative path, SHA256, Date analyzed ${TODAY}). Be expansive.
 ## Focus for this book
 ${FOCUS}
 ## Then return the structured object.
@@ -152,12 +152,12 @@ log(`Plan: CREATE ${plan.create_notes.length} (${Object.entries(byKind).map(([k,
 phase('Generation Pass')
 
 const allRaw = CHAPTERS.map(c => `raw/${BF}/${c.file}`)
-const tocLinks = CHAPTERS.map(c => `[[raw/${BF}/${c.file.replace(/\\.md$/,'')}]]`).join(' · ')
+const tocLinks = CHAPTERS.map(c => `[[raw/${BF}/${c.file.replace(/\.md$/,'')}]]`).join(' · ')
 
 // Auto-built deterministic tasks: book, author, one source-summary per chapter.
 const bookTask = { kind:'book', file_path:`${VAULT}/books/${BOOK_TITLE}.md` }
 const authorTask = { kind:'author', file_path:`${VAULT}/authors/${AUTHOR}.md` }
-const sourceTasks = CHAPTERS.map(c => ({ kind:'source_summary', chapter:c, file_path:`${VAULT}/sources/${BF} - ${c.file.replace(/\\.md$/,'')}.md` }))
+const sourceTasks = CHAPTERS.map(c => ({ kind:'source_summary', chapter:c, file_path:`${VAULT}/sources/${BF} - ${c.file.replace(/\.md$/,'')}.md` }))
 
 const KIND_GUIDE = {
   concept:`CONCEPT note (\`_system/templates/concept.md\`): Brief Definition, Longer Explanation anchored in ${AUTHOR}'s usage, Authors and Variants, Related/Opposing Concepts, Questions It Raises, Sources (2+ verbatim).`,
@@ -203,7 +203,7 @@ Return only the path.`
 
 const sourcePrompt = (t) => `Write ONE source summary. The file IS the deliverable.
 ## Write to: \`${t.file_path}\`
-Inputs: raw chapter \`${VAULT}/raw/${BF}/${t.chapter.file}\`; existing analysis \`${VAULT}/_system/analysis/${BF} - ${t.chapter.file.replace(/\\.md$/,'')}.md.analysis.md\`; template \`${VAULT}/_system/templates/source_summary.md\`; vocabulary \`${VAULT}/_system/link_vocabulary.md\`.
+Inputs: raw chapter \`${VAULT}/raw/${BF}/${t.chapter.file}\`; existing analysis \`${VAULT}/_system/analysis/${BF} - ${t.chapter.file.replace(/\.md$/,'')}.md.analysis.md\`; template \`${VAULT}/_system/templates/source_summary.md\`; vocabulary \`${VAULT}/_system/link_vocabulary.md\`.
 Frontmatter MUST include: type source_summary, title, book "${BOOK_TITLE}", author "${AUTHOR}", raw_file "raw/${BF}/${t.chapter.file}", sha256 "${t.chapter.sha}", sources, status generated, last_updated ${TODAY}.
 Body: Orientation (2-3 paragraphs); wiki-linked Key Concepts/Arguments/Definitions/Metaphors/Symbols/Tensions (bare canonical titles, link the REAL notes from this ingest); Outgoing Links; Candidate Essay Uses; 2+ Source Citations with verbatim block quotes + Supports + confidence labels.
 ${LINKRULE}

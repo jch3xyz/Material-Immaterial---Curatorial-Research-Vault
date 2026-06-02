@@ -4,23 +4,23 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 03 Preface.md.analysis.md",
     "generated_files": [
-      "books/The Transparency Society.md",
-      "authors/Byung-Chul Han.md",
-      "sources/Byung-Chul Han - The Transparency Society - 03 Preface.md",
-      "concepts/Transparency.md",
-      "concepts/Digital Panopticon.md",
-      "concepts/Exploitation of Freedom.md",
-      "concepts/Smoothness.md",
-      "arguments/Transparency is a neoliberal dispositive that dismantles negativity.md",
-      "arguments/Transparency replaces trust with control.md",
       "arguments/The digital panopticon runs on voluntary self-exposure.md",
       "arguments/Transparency abolishes the Other and produces compulsive conformity.md",
+      "arguments/Transparency is a neoliberal dispositive that dismantles negativity.md",
+      "arguments/Transparency replaces trust with control.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Transparency Society.md",
+      "concepts/Digital Panopticon.md",
+      "concepts/Exploitation of Freedom.md",
+      "concepts/Hypercommunication.md",
+      "concepts/Smoothness.md",
+      "concepts/Transparency.md",
       "metaphors/The Glassy Human.md",
-      "symbols/The Panopticon.md",
-      "tensions/Freedom vs Control.md",
-      "references/Byung-Chul Han and Michel Foucault.md",
       "references/Byung-Chul Han and Carl Schmitt.md",
-      "concepts/Hypercommunication.md"
+      "references/Byung-Chul Han and Michel Foucault.md",
+      "sources/Byung-Chul Han - The Transparency Society - 03 Preface.md",
+      "symbols/The Panopticon.md",
+      "tensions/Freedom vs Control.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity.md": {
@@ -28,34 +28,34 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 04 Ch1 - Positivity.md.analysis.md",
     "generated_files": [
-      "books/The Transparency Society.md",
-      "authors/Byung-Chul Han.md",
-      "sources/Byung-Chul Han - The Transparency Society - 04 Ch1 - Positivity.md",
-      "concepts/Transparency.md",
-      "concepts/Positivity.md",
-      "concepts/Negativity.md",
-      "concepts/Hell of the Same.md",
-      "concepts/Acceleration.md",
-      "concepts/Information.md",
-      "concepts/Pornography (Han).md",
-      "concepts/Smoothness.md",
-      "concepts/Arcana of Power.md",
-      "arguments/Transparency is a neoliberal dispositive that dismantles negativity.md",
-      "arguments/Transparency abolishes the Other and produces compulsive conformity.md",
-      "arguments/Hyperinformation brings no light into darkness.md",
       "arguments/Compulsive transparency stabilizes the existing system.md",
-      "definitions/Transparency (Han).md",
-      "metaphors/Hell of the Same.md",
-      "symbols/The Like Button.md",
-      "tensions/Transparency vs Opacity.md",
-      "tensions/Positivity vs Negativity.md",
-      "tensions/Visibility vs Understanding.md",
-      "references/Byung-Chul Han and Hegel.md",
-      "references/Byung-Chul Han and Carl Schmitt.md",
+      "arguments/Hyperinformation brings no light into darkness.md",
+      "arguments/Transparency abolishes the Other and produces compulsive conformity.md",
+      "arguments/Transparency is a neoliberal dispositive that dismantles negativity.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Transparency Society.md",
+      "concepts/Acceleration.md",
+      "concepts/Arcana of Power.md",
+      "concepts/Gleichschaltung.md",
+      "concepts/Hell of the Same.md",
       "concepts/Hypercommunication.md",
       "concepts/Hyperinformation.md",
+      "concepts/Information.md",
+      "concepts/Negativity.md",
       "concepts/Pathos of Distance.md",
-      "concepts/Gleichschaltung.md"
+      "concepts/Pornography (Han).md",
+      "concepts/Positivity.md",
+      "concepts/Smoothness.md",
+      "concepts/Transparency.md",
+      "definitions/Transparency (Han).md",
+      "metaphors/Hell of the Same.md",
+      "references/Byung-Chul Han and Carl Schmitt.md",
+      "references/Byung-Chul Han and Hegel.md",
+      "sources/Byung-Chul Han - The Transparency Society - 04 Ch1 - Positivity.md",
+      "symbols/The Like Button.md",
+      "tensions/Positivity vs Negativity.md",
+      "tensions/Transparency vs Opacity.md",
+      "tensions/Visibility vs Understanding.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition.md": {
@@ -63,21 +63,21 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 05 Ch2 - Exhibition.md.analysis.md",
     "generated_files": [
+      "arguments/Exhibition value is a third value form beyond Marx.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 05 Ch2 - Exhibition.md",
       "concepts/Acceleration.md",
       "concepts/Exhibition Value.md",
+      "concepts/Narrativity.md",
       "concepts/Pornography (Han).md",
       "concepts/Positivity.md",
-      "concepts/Narrativity.md",
-      "arguments/Exhibition value is a third value form beyond Marx.md",
       "definitions/Cult Value vs Exhibition Value (Han via Benjamin).md",
-      "symbols/The Like Button.md",
-      "tensions/Positivity vs Negativity.md",
-      "tensions/Narration vs Addition.md",
-      "references/Byung-Chul Han and Walter Benjamin.md",
       "references/Byung-Chul Han and Jean Baudrillard.md",
-      "references/Byung-Chul Han and Martin Heidegger.md"
+      "references/Byung-Chul Han and Martin Heidegger.md",
+      "references/Byung-Chul Han and Walter Benjamin.md",
+      "sources/Byung-Chul Han - The Transparency Society - 05 Ch2 - Exhibition.md",
+      "symbols/The Like Button.md",
+      "tensions/Narration vs Addition.md",
+      "tensions/Positivity vs Negativity.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence.md": {
@@ -85,20 +85,20 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 06 Ch3 - Evidence.md.analysis.md",
     "generated_files": [
-      "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 06 Ch3 - Evidence.md",
-      "concepts/Transparency.md",
-      "concepts/Negativity.md",
-      "concepts/Information.md",
-      "concepts/Pornography (Han).md",
       "arguments/There is no erotics of transparency.md",
+      "books/The Transparency Society.md",
+      "concepts/Information.md",
+      "concepts/Negativity.md",
+      "concepts/Pathos of Distance.md",
+      "concepts/Pornography (Han).md",
+      "concepts/Transparency.md",
       "definitions/Transparency (Han).md",
       "metaphors/The Veil.md",
-      "symbols/The Mask.md",
-      "tensions/Transparency vs Opacity.md",
-      "tensions/Desire vs Danger.md",
       "references/Byung-Chul Han and Michel Foucault.md",
-      "concepts/Pathos of Distance.md"
+      "sources/Byung-Chul Han - The Transparency Society - 06 Ch3 - Evidence.md",
+      "symbols/The Mask.md",
+      "tensions/Desire vs Danger.md",
+      "tensions/Transparency vs Opacity.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography.md": {
@@ -106,21 +106,21 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 07 Ch4 - Pornography.md.analysis.md",
     "generated_files": [
+      "arguments/There is no erotics of transparency.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 07 Ch4 - Pornography.md",
       "concepts/Exhibition Value.md",
       "concepts/Pornography (Han).md",
       "concepts/Positivity.md",
       "concepts/Smoothness.md",
-      "arguments/There is no erotics of transparency.md",
       "definitions/Cult Value vs Exhibition Value (Han via Benjamin).md",
       "metaphors/The Veil.md",
+      "references/Byung-Chul Han and Jean Baudrillard.md",
+      "references/Byung-Chul Han and Walter Benjamin.md",
+      "sources/Byung-Chul Han - The Transparency Society - 07 Ch4 - Pornography.md",
+      "tensions/Desire vs Danger.md",
       "tensions/Positivity vs Negativity.md",
       "tensions/Transparency vs Opacity.md",
-      "tensions/Desire vs Danger.md",
-      "tensions/Visibility vs Understanding.md",
-      "references/Byung-Chul Han and Walter Benjamin.md",
-      "references/Byung-Chul Han and Jean Baudrillard.md"
+      "tensions/Visibility vs Understanding.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration.md": {
@@ -128,22 +128,22 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 08 Ch5 - Acceleration.md.analysis.md",
     "generated_files": [
+      "arguments/The crisis is not acceleration but loss of narrativity.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 08 Ch5 - Acceleration.md",
       "concepts/Acceleration.md",
       "concepts/Information.md",
       "concepts/Narrativity.md",
       "concepts/Negativity.md",
       "concepts/Smoothness.md",
-      "arguments/The crisis is not acceleration but loss of narrativity.md",
       "definitions/Erfahrung vs Erlebnis (Han).md",
       "definitions/Information (Han).md",
       "metaphors/Fragrance of Time.md",
       "metaphors/Procession vs Processor.md",
-      "tensions/Narration vs Addition.md",
       "references/Byung-Chul Han and Hegel.md",
+      "references/Byung-Chul Han and Jean Baudrillard.md",
       "references/Byung-Chul Han and Walter Benjamin.md",
-      "references/Byung-Chul Han and Jean Baudrillard.md"
+      "sources/Byung-Chul Han - The Transparency Society - 08 Ch5 - Acceleration.md",
+      "tensions/Narration vs Addition.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/09 Ch6 - Intimacy.md": {
@@ -151,18 +151,18 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 09 Ch6 - Intimacy.md.analysis.md",
     "generated_files": [
+      "arguments/Transparency abolishes the Other and produces compulsive conformity.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 09 Ch6 - Intimacy.md",
       "concepts/Hell of the Same.md",
+      "concepts/Hypercommunication.md",
       "concepts/Intimacy as Psychological Formula of Transparency.md",
-      "concepts/Truth as Avowal.md",
       "concepts/Narrativity.md",
       "concepts/Negativity.md",
-      "arguments/Transparency abolishes the Other and produces compulsive conformity.md",
+      "concepts/Theatrum Mundi.md",
+      "concepts/Truth as Avowal.md",
       "definitions/Erfahrung vs Erlebnis (Han).md",
-      "symbols/The Mask.md",
-      "concepts/Hypercommunication.md",
-      "concepts/Theatrum Mundi.md"
+      "sources/Byung-Chul Han - The Transparency Society - 09 Ch6 - Intimacy.md",
+      "symbols/The Mask.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information.md": {
@@ -170,18 +170,18 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 10 Ch7 - Information.md.analysis.md",
     "generated_files": [
+      "arguments/Hyperinformation brings no light into darkness.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 10 Ch7 - Information.md",
-      "concepts/Transparency.md",
+      "concepts/Hyperinformation.md",
       "concepts/Information.md",
       "concepts/Positivity.md",
-      "arguments/Hyperinformation brings no light into darkness.md",
+      "concepts/Transparency.md",
       "definitions/Information (Han).md",
       "metaphors/Lightless Radiation.md",
-      "tensions/Positivity vs Negativity.md",
-      "tensions/Visibility vs Understanding.md",
       "references/Byung-Chul Han and Martin Heidegger.md",
-      "concepts/Hyperinformation.md"
+      "sources/Byung-Chul Han - The Transparency Society - 10 Ch7 - Information.md",
+      "tensions/Positivity vs Negativity.md",
+      "tensions/Visibility vs Understanding.md"
     ]
   },
   "raw/Byung-Chul Han - The Transparency Society/11 Ch8 - Unveiling.md": {
@@ -189,12 +189,12 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 11 Ch8 - Unveiling.md.analysis.md",
     "generated_files": [
+      "arguments/The morality of total transparency switches into tyranny.md",
       "books/The Transparency Society.md",
-      "sources/Byung-Chul Han - The Transparency Society - 11 Ch8 - Unveiling.md",
       "concepts/Intimacy as Psychological Formula of Transparency.md",
       "concepts/Truth as Avowal.md",
-      "arguments/The morality of total transparency switches into tyranny.md",
       "metaphors/The Veil.md",
+      "sources/Byung-Chul Han - The Transparency Society - 11 Ch8 - Unveiling.md",
       "symbols/The Mask.md",
       "symbols/The Transparent Customer.md",
       "tensions/Transparency vs Opacity.md"
@@ -205,27 +205,27 @@
     "last_ingested": "2026-06-01",
     "analysis_file": "_system/analysis/Byung-Chul Han - The Transparency Society - 12 Ch9 - Control.md.analysis.md",
     "generated_files": [
-      "books/The Transparency Society.md",
+      "arguments/The digital panopticon runs on voluntary self-exposure.md",
+      "arguments/Transparency replaces trust with control.md",
       "authors/Byung-Chul Han.md",
-      "sources/Byung-Chul Han - The Transparency Society - 12 Ch9 - Control.md",
-      "concepts/Transparency.md",
-      "concepts/Digital Panopticon.md",
+      "books/The Transparency Society.md",
       "concepts/Achievement Society.md",
       "concepts/Arcana of Power.md",
+      "concepts/Auto-Exploitation.md",
+      "concepts/Digital Panopticon.md",
       "concepts/Exploitation of Freedom.md",
-      "arguments/Transparency replaces trust with control.md",
-      "arguments/The digital panopticon runs on voluntary self-exposure.md",
-      "definitions/Transparency (Han).md",
+      "concepts/Society of Control.md",
+      "concepts/Transparency.md",
       "definitions/Aperspectival Panopticon (Han).md",
+      "definitions/Transparency (Han).md",
       "metaphors/Lightless Radiation.md",
+      "references/Byung-Chul Han and Carl Schmitt.md",
+      "references/Byung-Chul Han and Jean Baudrillard.md",
+      "references/Byung-Chul Han and Michel Foucault.md",
+      "sources/Byung-Chul Han - The Transparency Society - 12 Ch9 - Control.md",
       "symbols/The Panopticon.md",
       "symbols/The Transparent Customer.md",
-      "tensions/Freedom vs Control.md",
-      "references/Byung-Chul Han and Michel Foucault.md",
-      "references/Byung-Chul Han and Jean Baudrillard.md",
-      "references/Byung-Chul Han and Carl Schmitt.md",
-      "concepts/Auto-Exploitation.md",
-      "concepts/Society of Control.md"
+      "tensions/Freedom vs Control.md"
     ]
   },
   "raw/Hayles - How We Became Posthuman/02 Prologue.md": {
@@ -639,7 +639,7 @@
       "references/Meghan O'Gieblyn and David Chalmers.md",
       "references/Meghan O'Gieblyn and Max Weber.md",
       "references/Meghan O'Gieblyn and René Descartes.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch01 [Image].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch01 [Image].md",
       "symbols/The Aibo.md",
       "tensions/Free Will vs Determinism.md"
     ]
@@ -659,7 +659,7 @@
       "metaphors/Graven Images.md",
       "metaphors/Mind as Machine.md",
       "references/Meghan O'Gieblyn and René Descartes.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch02 [Image].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch02 [Image].md",
       "symbols/The Aibo.md"
     ]
   },
@@ -691,7 +691,7 @@
       "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
       "references/Meghan O'Gieblyn and Norbert Wiener.md",
       "references/Meghan O'Gieblyn and Ray Kurzweil.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md",
       "tensions/Disenchantment vs Re-enchantment.md"
     ]
   },
@@ -722,7 +722,7 @@
       "references/Meghan O'Gieblyn and Hans Moravec.md",
       "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
       "references/Meghan O'Gieblyn and Ray Kurzweil.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md",
       "tensions/Disenchantment vs Re-enchantment.md",
       "tensions/Metaphor vs Literalism.md"
     ]
@@ -738,7 +738,7 @@
       "concepts/Distributed Cognition.md",
       "concepts/Emergence.md",
       "concepts/Re-enchantment.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch05 [Network].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch05 [Network].md",
       "tensions/Disenchantment vs Re-enchantment.md",
       "tensions/Human Exceptionalism vs Ontological Equality.md"
     ]
@@ -758,7 +758,7 @@
       "definitions/The Theological Objection (O'Gieblyn via Turing).md",
       "metaphors/Computers Arose from the Mud and Code Fell from the Sky.md",
       "metaphors/The Golem.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch06 [Network].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch06 [Network].md",
       "tensions/Human Exceptionalism vs Ontological Equality.md"
     ]
   },
@@ -778,7 +778,7 @@
       "metaphors/Mind as Machine.md",
       "references/Meghan O'Gieblyn and Nick Bostrom.md",
       "references/Meghan O'Gieblyn and René Descartes.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md",
       "tensions/Metaphor vs Literalism.md",
       "tensions/Subject vs Object.md"
     ]
@@ -803,7 +803,7 @@
       "metaphors/The Crucifix Made of Machine Parts.md",
       "references/Meghan O'Gieblyn and Hans Moravec.md",
       "references/Meghan O'Gieblyn and Nick Bostrom.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md",
       "tensions/Metaphor vs Literalism.md",
       "tensions/Subject vs Object.md"
     ]
@@ -826,7 +826,7 @@
       "definitions/Phi (O'Gieblyn).md",
       "definitions/The Omega Point and the Noosphere (O'Gieblyn).md",
       "metaphors/Metonymy (Mind as Microcosm of Cosmic Consciousness).md",
-      "sources/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md",
       "tensions/Disenchantment vs Re-enchantment.md"
     ]
   },
@@ -844,7 +844,7 @@
       "metaphors/Mind as Machine.md",
       "references/Meghan O'Gieblyn and David Chalmers.md",
       "references/Meghan O'Gieblyn and René Descartes.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md",
       "tensions/Subject vs Object.md"
     ]
   },
@@ -864,7 +864,7 @@
       "definitions/Nominalism (O'Gieblyn).md",
       "metaphors/Mind as Machine.md",
       "references/Meghan O'Gieblyn and Norbert Wiener.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md",
       "symbols/Job and the Algorithm.md"
     ]
   },
@@ -884,7 +884,7 @@
       "concepts/Theodicy.md",
       "metaphors/Mind as Machine.md",
       "references/Meghan O'Gieblyn and Max Weber.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md",
       "symbols/Job and the Algorithm.md",
       "tensions/Free Will vs Determinism.md"
     ]
@@ -905,7 +905,7 @@
       "concepts/Transhumanism.md",
       "definitions/The Viral Metaphor (O'Gieblyn).md",
       "references/Meghan O'Gieblyn and David Chalmers.md",
-      "sources/OGieblyn - God Human Animal Machine - Ch13 [Virality].md.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch13 [Virality].md",
       "tensions/Human Exceptionalism vs Ontological Equality.md"
     ]
   },
@@ -936,7 +936,6 @@
       "references/Byung-Chul Han and Karl Marx.md",
       "references/Byung-Chul Han and Walter Benjamin.md",
       "sources/Han - Psychopolitics - 01 The Crisis of Freedom.md",
-      "sources/Han - Psychopolitics - 01 The Crisis of Freedom.md.md",
       "symbols/The Like Button.md",
       "tensions/Freedom vs Control.md",
       "tensions/Material vs Immaterial.md",
@@ -956,7 +955,6 @@
       "concepts/Smoothness.md",
       "definitions/Smart Power (Han).md",
       "sources/Han - Psychopolitics - 02 Smart Power.md",
-      "sources/Han - Psychopolitics - 02 Smart Power.md.md",
       "symbols/The Like Button.md",
       "tensions/Freedom vs Control.md",
       "tensions/Positivity vs Negativity.md"
@@ -977,7 +975,6 @@
       "definitions/Psychopolitics (Han).md",
       "references/Byung-Chul Han and Gilles Deleuze.md",
       "sources/Han - Psychopolitics - 03 The Mole and the Snake.md",
-      "sources/Han - Psychopolitics - 03 The Mole and the Snake.md.md",
       "symbols/The Mole and the Snake.md",
       "tensions/Biopolitics vs Psychopolitics.md",
       "tensions/Discipline vs Control.md",
@@ -997,7 +994,6 @@
       "concepts/Psychopolitics.md",
       "references/Byung-Chul Han and Michel Foucault.md",
       "sources/Han - Psychopolitics - 04 Biopolitics.md",
-      "sources/Han - Psychopolitics - 04 Biopolitics.md.md",
       "tensions/Biopolitics vs Psychopolitics.md",
       "tensions/Discipline vs Control.md"
     ]
@@ -1022,7 +1018,6 @@
       "references/Byung-Chul Han and Bernard Stiegler.md",
       "references/Byung-Chul Han and Michel Foucault.md",
       "sources/Han - Psychopolitics - 05 Foucault's Dilemma.md",
-      "sources/Han - Psychopolitics - 05 Foucault's Dilemma.md.md",
       "tensions/Biopolitics vs Psychopolitics.md",
       "tensions/Freedom vs Control.md",
       "tensions/Material vs Immaterial.md"
@@ -1044,7 +1039,6 @@
       "references/Byung-Chul Han and Friedrich Nietzsche.md",
       "references/Byung-Chul Han and Hegel.md",
       "sources/Han - Psychopolitics - 06 Healing as Killing.md",
-      "sources/Han - Psychopolitics - 06 Healing as Killing.md.md",
       "tensions/Positivity vs Negativity.md"
     ]
   },
@@ -1062,7 +1056,6 @@
       "concepts/Smart Power.md",
       "references/Byung-Chul Han and Naomi Klein.md",
       "sources/Han - Psychopolitics - 07 Shock.md",
-      "sources/Han - Psychopolitics - 07 Shock.md.md",
       "tensions/Discipline vs Control.md",
       "tensions/Positivity vs Negativity.md"
     ]
@@ -1084,7 +1077,6 @@
       "references/Byung-Chul Han and George Orwell.md",
       "references/Byung-Chul Han and Gilles Deleuze.md",
       "sources/Han - Psychopolitics - 08 Friendly Big Brother.md",
-      "sources/Han - Psychopolitics - 08 Friendly Big Brother.md.md",
       "symbols/Friendly Big Brother.md",
       "tensions/Positivity vs Negativity.md"
     ]
@@ -1105,7 +1097,6 @@
       "references/Byung-Chul Han and Eva Illouz.md",
       "references/Byung-Chul Han and Walter Benjamin.md",
       "sources/Han - Psychopolitics - 09 Emotional Capitalism.md",
-      "sources/Han - Psychopolitics - 09 Emotional Capitalism.md.md",
       "tensions/Material vs Immaterial.md"
     ]
   },
@@ -1123,7 +1114,6 @@
       "concepts/Hypercommunication.md",
       "references/Byung-Chul Han and Karl Marx.md",
       "sources/Han - Psychopolitics - 10 Gamification.md",
-      "sources/Han - Psychopolitics - 10 Gamification.md.md",
       "symbols/The Like Button.md"
     ]
   },
@@ -1155,7 +1145,6 @@
       "references/Byung-Chul Han and Michel Foucault.md",
       "references/Byung-Chul Han and Walter Benjamin.md",
       "sources/Han - Psychopolitics - 11 Big Data.md",
-      "sources/Han - Psychopolitics - 11 Big Data.md.md",
       "tensions/Biopolitics vs Psychopolitics.md",
       "tensions/Counting vs Recounting.md",
       "tensions/Narration vs Addition.md"
@@ -1174,8 +1163,7 @@
       "definitions/Psychopolitics (Han).md",
       "references/Byung-Chul Han and Friedrich Nietzsche.md",
       "references/Byung-Chul Han and Michel Foucault.md",
-      "sources/Han - Psychopolitics - 12 Beyond the Subject.md",
-      "sources/Han - Psychopolitics - 12 Beyond the Subject.md.md"
+      "sources/Han - Psychopolitics - 12 Beyond the Subject.md"
     ]
   },
   "raw/Han - Psychopolitics/13 Idiotism.md": {
@@ -1194,8 +1182,7 @@
       "concepts/Immunological Age.md",
       "concepts/Negativity.md",
       "references/Byung-Chul Han and Gilles Deleuze.md",
-      "sources/Han - Psychopolitics - 13 Idiotism.md",
-      "sources/Han - Psychopolitics - 13 Idiotism.md.md"
+      "sources/Han - Psychopolitics - 13 Idiotism.md"
     ]
   }
 }
