@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/The Materiality of Informatics.md",
+                "file": "overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Materiality of Informatics"
+              "title": "overview"
             }
           }
         ]
@@ -63,6 +63,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "bf477d2604066c8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/The Materiality of Informatics.md",
+                "file": "overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Materiality of Informatics"
+              "title": "Backlinks for overview"
             }
           },
           {
@@ -154,6 +164,18 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1e38377750f18d51",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "overview.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -172,11 +194,16 @@
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "186e52786d09f8dc",
   "lastOpenFiles": [
+    "concepts/The Materiality of Informatics.md",
+    "Untitled.canvas",
     "tensions/Material vs Immaterial.md",
     "authors/Byung-Chul Han.md",
     "references/Yuval Noah Harari and Alan Turing.md",
@@ -202,8 +229,6 @@
     "sources/Harari - Homo Deus - 03 The Anthropocene.md",
     "references/Yuval Noah Harari and N. Katherine Hayles.md",
     "references/Yuval Noah Harari and Byung-Chul Han.md",
-    "arguments/Fulfilling humanism will destroy it by making humans irrelevant.md",
-    "arguments/The self is an imaginary story like nations gods and money.md",
     "raw/Kandinsky - On the Spiritual in Art",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",
