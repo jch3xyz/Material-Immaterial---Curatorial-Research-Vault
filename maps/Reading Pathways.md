@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Reading Pathways
@@ -215,3 +215,49 @@ Follows the theological reading of opaque AI: the predictive, inscrutable algori
 - [[Job and the Algorithm]] — submission to the inscrutable algorithmic sovereign
 - [[Surveillance reproduces Protestant salvation anxiety]] — the Weberian, not Orwellian, power of surveillance
 - [[Free Will vs Determinism]] — spontaneous volition vs. the deterministic algorithm
+
+## Pathways through *Psychopolitics* (Byung-Chul Han)
+
+### Pathway: The diagnosis of neoliberal power
+
+Follows Han's central thesis that neoliberal power no longer disciplines the body but steers the psyche, so that freedom itself becomes the medium of coercion. Useful for thinking surveillance, the self as enterprise, and control under the sign of freedom.
+
+- [[Psychopolitics]] — neoliberal power that steers the psyche
+- [[Smart Power]] — permissive, seductive power that presents itself as freedom
+- [[Exploitation of Freedom]] — freedom itself producing coercion
+- [[Auto-Exploitation]] — the entrepreneur of himself as the panopticon of himself
+- [[Self-Optimization]] — perpetual self-optimization as a mode of domination
+- [[Healing as Killing]] — therapeutic self-optimization that destroys the soul
+- [[Freedom itself is producing coercion]] — the book's central thesis
+
+### Pathway: The periodization of power — from biopolitics to psychopolitics
+
+Traces Han's immanent critique of Foucault: how disciplinary biopolitics gives way to the modulating society of control, figured by Deleuze's mole and snake. Useful for thinking the genealogy of power, discipline vs control, and the limits of Foucault.
+
+- [[Biopolitics]] — disciplinary power over the body and population
+- [[Biopolitics vs Psychopolitics]] — power over the body vs power over the psyche
+- [[The Mole and the Snake]] — Deleuze's paired animals: enclosure vs modulation
+- [[Society of Control]] — continuous modulation rather than disciplinary enclosure
+- [[Foucault failed to make the turn to psychopolitics]] — the hinge of the critique
+
+### Pathway: Digital psychopolitics and the emancipatory turn
+
+Moves from the data-driven surveillance that pre-empts free will to Han's tentative figures of resistance: the event, the idiot, and the plane of immanence on which no domination can be built. Useful for thinking Big Data, the future, and what escapes prediction.
+
+- [[Digital Panopticon]] — the friendly, internal panopticon
+- [[Friendly Big Brother]] — the benevolent-faced watcher who is loved, not feared
+- [[Big Data]] — the aperspectival instrument that pre-empts free will
+- [[Dataism]] — data-positivism as a 'second Enlightenment' and its nihilism
+- [[Big Data is blind to the event and so blind to the future]] — the limit of predictive dataism
+- [[The Event]] — the incalculable rupture that wrests the subject from subjection
+- [[Idiotism]] — the idiot as figure of resistance against total communication
+- [[Immanence and A Life]] — Deleuze's plane on which no domination can be erected
+
+### Pathway: Immaterial labour across the vault (Han ↔ Hayles ↔ Lippard)
+
+A cross-book pathway placing Han's neoliberal immaterial production beside Hayles's disembodiment of information and Lippard's dematerialized art object, on the vault's central Material/Immaterial axis. Useful for reading the material/immaterial tension across philosophy, cybernetics, and art history.
+
+- [[Immaterial Labour]] — neoliberal immaterial production that releases the body from production
+- [[Material vs Immaterial]] — the vault's master axis, now spanning four author sections
+- [[The Body as Data]] — the body recoded as data; the digital habitus as a likeness of the soul
+- [[N. Katherine Hayles and Byung-Chul Han]] — two distinct senses of 'information' on the embodiment axis

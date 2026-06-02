@@ -3,6 +3,9 @@ type: concept
 status: generated
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]]"
+  - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
+  - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
 related:
   - "[[Digital Panopticon]]"
   - "[[Aperspectival Panopticon (Han)]]"
@@ -16,10 +19,14 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Gilles Deleuze]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Society of Control
+
+## General Orientation
+
+"Society of control" is used in this vault in two related but distinct senses. (1) **Deleuze's sense** — the phrase originates with [[Gilles Deleuze]]'s "Postscript on the Societies of Control" (1990), which diagnoses the passage from Foucault's enclosed disciplinary institutions ("milieus of confinement") to a regime of open, continuous modulation. (2) **Han's sense** — Han adopts the phrase, names Deleuze explicitly, and reroutes the diagnosis through his own neoliberal/psychopolitical apparatus: the open snake replaces the burrowing mole, the *subject* becomes a self-driving *project*, biopolitics (the body) gives way to psychopolitics (the soul), and indebtedness becomes the instrument of domination. The two senses share a structure — the move from enclosure to open modulation — but differ in idiom: Deleuze speaks of dividuals, modulation and the corporation; Han speaks of auto-exploitation, the achievement-subject, and debt. With *Psychopolitics* ch.3 in the vault, Deleuze is now **directly cited by Han**, so the term's provenance is no longer merely inferred. (Directly stated — *Psychopolitics* ch.3.)
 
 ## Brief Definition
 
@@ -29,14 +36,22 @@ The political formation in which power operates not through enclosure, isolation
 
 For Han, the society of control is the present successor to Foucault's disciplinary society, and it has "a distinct panoptic structure" of its own. Where Bentham's panopticon worked by isolating inmates in separated cells under a single despotic gaze, today's control operates through the opposite arrangement: "the inhabitants of today's panopticon network and communicate with each other intensively." It is not isolation but [[Hypercommunication]] that "guarantees transparency." The decisive feature is voluntary participation — "its inhabitants actively collaborate in its construction and maintenance by putting themselves on display and baring themselves." Control reaches its limit not under external compulsion but when self-exposure becomes a felt need: "The society of control achieves perfection when subjects bare themselves not through outer constraint but through self-generated need." (Directly stated — Ch9.)
 
-The term "society of control" originates with [[Gilles Deleuze]], whose 1990 essay "Postscript on the Societies of Control" names the shift from Foucault's enclosed disciplinary institutions to a regime of open, continuous modulation. *Strongly implied / Interpretive synthesis:* Han adopts the phrase as the title and organizing concept of this chapter but does not name Deleuze in the cited text; the attribution rests on the canonical provenance of the term rather than on an explicit citation here. Han routes the concept through his own apparatus — the [[Aperspectival Panopticon (Han)]], the achievement-subject, and [[Auto-Exploitation]] — rather than through Deleuze's vocabulary of dividuals, modulation, and the corporation. (Interpretive synthesis.)
+The term "society of control" originates with [[Gilles Deleuze]], whose 1990 essay "Postscript on the Societies of Control" names the shift from Foucault's enclosed disciplinary institutions to a regime of open, continuous modulation. *Directly stated:* in *Psychopolitics* ch.3 ("The Mole and the Snake") Han names Deleuze and cites the "Postscript" three times, writing that "In his 'Postscript on the Societies of Control', Deleuze diagnoses a general crisis affecting all milieus of confinement." The provenance the earlier *Transparency Society* chapter only implied is now explicit in Han's own text. Han routes the concept through his own apparatus — the [[Aperspectival Panopticon (Han)]], the achievement-subject, and [[Auto-Exploitation]] — rather than through Deleuze's vocabulary of dividuals, modulation, and the corporation. (Directly stated — *Psychopolitics* ch.3.)
 
 What binds the society of control to the rest of Han's argument is the collapse of the opposition between freedom and surveillance. Because "the achievement-subject ... operates independently of external domination" and "is the master and entrepreneur of oneself," its self-illumination is simultaneously its self-exploitation: "Utter auto illumination functions more efficiently than utter allo-illumination because it is attended by the sensation of freedom." Han pushes this further than a mere critique of surveillance. Total mutual control destroys the space of trust and free action, and "ultimately leads to [[Gleichschaltung]]" — a forced coordination dressed as openness. The chapter closes on the inversion that defines the formation: "Herein lies the dialectic of freedom. Freedom turns out to be a form of control." (Directly stated — Ch9.)
 
+## Psychopolitics (Han) — Deleuze named: the mole, the snake, debt
+
+In *Psychopolitics* (ch.3, "The Mole and the Snake") Han makes explicit the Deleuzian provenance the *Transparency Society* chapter only implied. He names the source directly: "In his 'Postscript on the Societies of Control', Deleuze diagnoses a general crisis affecting all milieus of confinement." Disciplinary society is a system of closed, rigid "settings and institutions of confinement" whose "closedness and rigidity" are "no longer suited to post-industrial, immaterial and networked forms of production." The two regimes are figured as animals. "The animal of disciplinary society is the mole" — a labourer that "moves through predetermined spaces" and "subordinates itself to spatial restrictions," a "subjugated subject." Against it: "The snake is the animal of neoliberal control society, to which disciplinary society has yielded." Unlike the mole, "the snake does not move in closed spaces. Rather, it makes space by means of its own movement"; "the snake is an entrepreneur." The shift is not a new world but an intensification of the same capitalism: "The passage from the mole to the snake — from subject to project — does not amount to setting out for an entirely new way of life; instead, it represents a mutation, indeed an intensification, of capitalism, which remains one and the same," because "the capitalist system is switching from the mole-model to the snake-model in order to generate more productivity." (Directly stated — *Psychopolitics* ch.3.)
+
+Han then reads Deleuze's body/soul distinction as the hinge between [[Byung-Chul Han and Michel Foucault]]'s biopolitics and his own psychopolitics. "According to Deleuze, the disciplinary regime organizes itself as a 'body'. It is a biopolitical regime. The neoliberal regime, in contrast, seems like a 'soul'. As such, psychopolitics is its form of government." Control no longer disciplines bodies in enclosures; it modulates souls through "Motivation, projects, competition, optimization and initiative." Decisively, Han locates the instrument of domination in indebtedness: "Above all, the snake embodies the guilt and debts (die Schuld, die Schulden) that the neoliberal regime employs as instruments of domination." Where Foucault's disciplinary control acted on the body, neoliberal control acts on the soul through self-driven competition and debt — the open, self-spacing snake replacing the burrowing, confined mole. This realizes, in Han's own citation, the open/closed, subject/project, body/soul and debt content the [[Gilles Deleuze]] attribution previously deferred. (Directly stated — *Psychopolitics* ch.3.)
+
+Two later chapters reinforce the formation. In ch.8 ("Friendly Big Brother") Han argues the [[Digital Panopticon]] surpasses Orwell's surveillance state by abolishing the gap between watching and being-watched: "1984 did not signal the end of the surveillance state so much as the inception of a new kind of control society." Its defining feature is voluntary, friendly participation rather than coercion — "Smartphones have been substituted for torture chambers. Big Brother now wears a friendly face" — culminating in the dissolution of the [[Freedom vs Control]] distinction: "Now, communication and control have become one, without remainder. Now, everyone is his or her own panopticon." In ch.11 ("Big Data") the control society reaches technical completion: digital surveillance "is aperspectival," it "can peer into the human soul itself," and "The expansion of Web 2.0, the internet of persons, to Web 3.0, the internet of things, is bringing digital control society to completion." Big Data here is psychopolitical rather than biopolitical — "digital psychopolitics manages to intervene in psychic processes in a prospective fashion. Quite possibly, it is even faster than free will" — and so "could overtake it. If so, this would herald the end of freedom." (Directly stated — *Psychopolitics* ch.8, ch.11.)
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Reframes the society of control as the apotheosis of transparency and achievement: a decentered, aperspectival panopticon sustained by voluntary self-display, hypercommunication, and auto-exploitation, in which "communication and commerce, freedom and control, collapse into one." Its imperative is economic rather than the moral/biopolitical one Bentham envisaged. (Directly stated.)
-- **[[Gilles Deleuze]]** — Originator of the phrase "societies of control" ("Postscript on the Societies of Control," 1990), describing the passage from Foucault's enclosed disciplinary milieus to continuous modulation. *Strongly implied / Interpretive synthesis* — Deleuze is not named in the cited chapter; the attribution is to the term's established provenance. Forward-stub: Deleuze has no book in the library yet. (Interpretive synthesis.)
+- **[[Byung-Chul Han]]** — Reframes the society of control as the apotheosis of transparency and achievement: a decentered, aperspectival panopticon sustained by voluntary self-display, hypercommunication, and auto-exploitation, in which "communication and commerce, freedom and control, collapse into one." Its imperative is economic rather than the moral/biopolitical one Bentham envisaged. In *Psychopolitics* he adds the Deleuzian armature — the mole/snake, subject/project, body/soul, and debt — and names Deleuze directly, plus the claims that "communication and control have become one, without remainder" (ch.8) and that Web 3.0 completes the digital control society (ch.11). (Directly stated.)
+- **[[Gilles Deleuze]]** — Originator of the phrase "societies of control" ("Postscript on the Societies of Control," 1990), describing the passage from Foucault's enclosed disciplinary milieus to continuous modulation. *Directly stated* — in *Psychopolitics* ch.3 Han names Deleuze and cites the "Postscript" three times, supplying the provenance the *Transparency Society* chapter left implicit. Forward-stub: Deleuze has no book in the library yet. (Directly stated — *Psychopolitics* ch.3.)
 
 ## Related Concepts
 
@@ -116,3 +131,80 @@ Relevant passage:
 > Total control destroys the freedom of action and ultimately leads to Gleichschaltung.
 
 Supports: Names the political endpoint of unlimited mutual control and connects the society of control to [[Gleichschaltung]] as its terminal form. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/03 The Mole and the Snake]]
+Relevant passage:
+
+> In his 'Postscript on the Societies of Control', Deleuze diagnoses a general crisis affecting all milieus of confinement. Their closedness and rigidity pose a problem: they are no longer suited to post-industrial, immaterial and networked forms of production.
+
+Supports: Provides the explicit, named citation of Deleuze's "Postscript on the Societies of Control," supplying the provenance the *Transparency Society* chapter only implied — the basis for reclassifying the Deleuze attribution from `Strongly implied` to `Directly stated`. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/03 The Mole and the Snake]]
+Relevant passage:
+
+> The snake is the animal of neoliberal control society, to which disciplinary society has yielded. In contrast to the mole, the snake does not move in closed spaces. Rather, it makes space by means of its own movement. The mole is a labourer. In contrast, the snake is an entrepreneur.
+
+Supports: Establishes the mole/snake and closed/open figures that name the passage from disciplinary society to neoliberal control society. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/03 The Mole and the Snake]]
+Relevant passage:
+
+> The passage from the mole to the snake - from subject to project - does not amount to setting out for an entirely new way of life; instead, it represents a mutation, indeed an intensification, of capitalism, which remains one and the same.
+
+Supports: States the subject/project distinction and frames control as an intensification rather than supersession of capitalism. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/03 The Mole and the Snake]]
+Relevant passage:
+
+> According to Deleuze, the disciplinary regime organizes itself as a 'body'. It is a biopolitical regime. The neoliberal regime, in contrast, seems like a 'soul'. As such, psychopolitics is its form of government ... Above all, the snake embodies the guilt and debts (die Schuld, die Schulden) that the neoliberal regime employs as instruments of domination.
+
+Supports: Supplies the body/soul (biopolitics/psychopolitics) distinction and the debt content as the instrument of neoliberal control. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/08 Friendly Big Brother]]
+Relevant passage:
+
+> 1984 did not signal the end of the surveillance state so much as the inception of a new kind of control society - one whose operations surpass the Orwellian state by leaps and bounds. Now, communication and control have become one, without remainder. Now, everyone is his or her own panopticon.
+
+Supports: Reinforces the control society as the formation succeeding the disciplinary/surveillance state and states the collapse of communication into control. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> The expansion of Web 2.0, the internet of persons, to Web 3.0, the internet of things, is bringing digital control society to completion.
+
+Supports: States that Web 3.0 completes the digital control society, reinforcing the formation's technical culmination. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> In contrast, digital psychopolitics manages to intervene in psychic processes in a prospective fashion. Quite possibly, it is even faster than free will. As such, it could overtake it. If so, this would herald the end of freedom.
+
+Supports: Establishes the control society's psychopolitical (soul-directed, prospective) mode of operation and its threat to free will. Label: `Directly stated`.

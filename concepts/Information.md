@@ -6,6 +6,8 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
@@ -25,6 +27,8 @@ related:
   - "[[Acceleration]]"
   - "[[Narration vs Addition|Addition vs Narration]]"
   - "[[Pornography (Han)]]"
+  - "[[Dataism]]"
+  - "[[Counting vs Recounting]]"
 opposes:
   - "[[Truth]]"
   - "[[Knowledge (Erkenntnis)]]"
@@ -37,14 +41,14 @@ authors:
   - "[[Lucy Lippard]]"
   - "[[Meghan O'Gieblyn]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Information
 
 ## General Orientation
 
-"Information" names several distinct concepts that this note holds together without collapsing. For **[[Byung-Chul Han]]**, information is *positivized, operationalized language* — additive, naked, post-hermeneutic discourse stripped of the negativity through which truth, knowledge, or insight would transform what exists. For **[[N. Katherine Hayles]]**, information is the *Shannon-Wiener information-theoretic construct* — a probability function, a disembodied pattern imagined to circulate unchanged between material substrates, which she treats as a contingent historical reification rather than a metaphysical given. Han's sense is a critique of language under transparency; Hayles's sense is a critique of the cybernetic "leap from embodied reality to abstract information." A third, art-historical sense belongs to **[[Lucy Lippard]]** and the conceptualists of *[[Six Years]]*: information here is an *aesthetic* — an "informational, documentary idiom" in which the work, no longer dependent on physical presence, exists as "primary information" carried by catalogues, texts, and documents rather than objects. A fourth, *theological* sense belongs to **[[Meghan O'Gieblyn]]** and *[[God Human Animal Machine]]*: the same Shannon-Wiener construct Hayles diagnoses, but read as a substitute for a metaphysical absolute — once Shannon strips information of meaning and the Macy Conferences decouple it from matter, information "became, in other words, the materialist's substitute for the soul" (Ch. 4) and swells into "the ultimate metaphor" and even a "third substance" said to underlie reality itself (Ch. 7). O'Gieblyn's "information" is closest to Hayles's (it is the same cybernetic genealogy, and she cites Hayles directly), but where Hayles contests the disembodiment on behalf of [[Embodiment|embodiment]], O'Gieblyn reads it as the latest form taken by an old religious longing. None of these is the others, but all converge in privileging weightless pattern over the object: see [[#Hayles on Information]], [[#Information in Conceptual Art (Lippard)]], [[#Information as the Substitute for the Soul (O'Gieblyn)]], the technical definition at [[Information (Hayles)]], and the cross-links to [[Dematerialization]] and [[The Document (Conceptual Art)]].
+"Information" names several distinct concepts that this note holds together without collapsing. For **[[Byung-Chul Han]]**, information is *positivized, operationalized language* — additive, naked, post-hermeneutic discourse stripped of the negativity through which truth, knowledge, or insight would transform what exists. For **[[N. Katherine Hayles]]**, information is the *Shannon-Wiener information-theoretic construct* — a probability function, a disembodied pattern imagined to circulate unchanged between material substrates, which she treats as a contingent historical reification rather than a metaphysical given. Han's sense is a critique of language under transparency; Hayles's sense is a critique of the cybernetic "leap from embodied reality to abstract information." A third, art-historical sense belongs to **[[Lucy Lippard]]** and the conceptualists of *[[Six Years]]*: information here is an *aesthetic* — an "informational, documentary idiom" in which the work, no longer dependent on physical presence, exists as "primary information" carried by catalogues, texts, and documents rather than objects. A fourth, *theological* sense belongs to **[[Meghan O'Gieblyn]]** and *[[God Human Animal Machine]]*: the same Shannon-Wiener construct Hayles diagnoses, but read as a substitute for a metaphysical absolute — once Shannon strips information of meaning and the Macy Conferences decouple it from matter, information "became, in other words, the materialist's substitute for the soul" (Ch. 4) and swells into "the ultimate metaphor" and even a "third substance" said to underlie reality itself (Ch. 7). O'Gieblyn's "information" is closest to Hayles's (it is the same cybernetic genealogy, and she cites Hayles directly), but where Hayles contests the disembodiment on behalf of [[Embodiment|embodiment]], O'Gieblyn reads it as the latest form taken by an old religious longing. None of these is the others, but all converge in privileging weightless pattern over the object: see [[#Hayles on Information]], [[#Information in Conceptual Art (Lippard)]], [[#Information as the Substitute for the Soul (O'Gieblyn)]], the technical definition at [[Information (Hayles)]], and the cross-links to [[Dematerialization]] and [[The Document (Conceptual Art)]]. Han returns to information a *second* time in *[[Psychopolitics]]*, no longer chiefly as positivized language but as the matter of [[Dataism|dataism]] — the creed that data form "a transparent and reliable lens" replacing causality with correlation and theory with data, and the substance of an [[Immaterial Labour|immaterial production]] whose products "are not material objects, but immaterial ones - for instance, information and programs"; see [[#Psychopolitics (Han) — data positivism and the end of theory]].
 
 ## Brief Definition
 
@@ -82,9 +86,17 @@ Once decoupled from both meaning and matter, information escalates from one mode
 
 What O'Gieblyn contests is the cybernetic creed that lets information travel intact across every domain — the assumption that, because information is substrate-independent pattern, its "structures and models remain identical across multiple disciplines." She stages this in the figure of the pandemic "growth hacker" Aaron Ginn, who, "[h]oping to stanch any criticism that he was not an epidemiologist . . . appealed to that foundational creed of cybernetics: that information is a universal metaphor whose structures and models remain identical across multiple disciplines. 'Data is data . . . ,' he said. 'You don't need a special degree to understand what the data says and doesn't say. Numbers are universal'" (Ch. 13). O'Gieblyn's rebuttal is flat and is the counter-thesis of this section: "Data is never merely data. And numbers are rarely as universal as they seem" (Ch. 13). Information re-acquires the context and embodiment that Shannon and the Macy decoupling abstracted away. The link to the other authors is an [[Embodiment vs Information|interpretive synthesis]]: O'Gieblyn shares Hayles's cybernetic genealogy and her suspicion of disembodied pattern, but reframes the reification as a religious displacement (information as soul-substitute), and her "Data is never merely data" converges with Han's distrust of [[Positivity|positivized]] information and Lippard's curatorial "primary information" in refusing to grant weightless pattern an existence apart from the bodies, contexts, and meanings that instantiate it. `Directly stated` for the quotations; `Interpretive synthesis` for the cross-author convergence.
 
+## Psychopolitics (Han) — data positivism and the end of theory
+
+Han returns to information in *[[Psychopolitics]]* under a second aspect. Where *The Transparency Society* treated it as positivized, operationalized *language*, *Psychopolitics* treats it as the substance of [[Dataism|dataism]] — "the rising philosophy of the day" — and locates it within the [[Immaterial Labour|immaterial mode of production]] that defines neoliberalism. Two moves are decisive. The first is economic: information is what the new economy *makes*. Diagnosing the limits of Foucault's biopolitics, Han writes that "immaterial and non-physical forms of production are what determine the course of capitalism. What gets produced are not material objects, but immaterial ones - for instance, information and programs" (Ch. 5). Information ceases to be merely a medium of transparency and becomes the very product of post-industrial capital — see [[Immaterial Labour]] and the [[Material vs Immaterial]] tension. `Directly stated`.
+
+The second move is epistemological, and it sharpens the *Transparency Society* critique into a polemic against theory itself. Dataism, in the formulation Han quotes from David Brooks, rests on the cultural assumption "that data is a transparent and reliable lens that allows us to filter out emotionalism and ideology" (Ch. 11). Han turns this self-image against itself: "transparency is the buzzword of the second Enlightenment. Data are supposed to be a pellucid medium." But "although it announces that it is taking leave of all ideology, dataism itself is an ideology" — indeed "data totalitarianism, or data fetishism" leading to "digital totalitarianism" (Ch. 11). The promise of data positivism is that, with enough of it, mediation can be dispensed with — Han cites Chris Anderson's "End of Theory": "With enough data, the numbers speak for themselves." Han's rejoinder runs through Hegel. Big Data yields only correlation, the most primitive level of Hegel's *Logic*: "Correlations are replacing causality. That’s-how-it-is stands where How so? once wavered. The data-driven quantification of reality is driving Spirit from the realm of knowledge" (Ch. 11). Correlation is "a relation of probability, not of necessity"; it registers *that* A occurs with B but comprehends nothing — it lacks the "Concept," and so "Big Data lacks comprehension - it lacks the Concept - and thus it lacks Spirit. The absolute knowledge intimated by Big Data coincides with absolute ignorance" (Ch. 11). The "end of theory" therefore "means taking leave of Spirit." `Directly stated`.
+
+This second Han sense is continuous with the first but not identical to it. Both indict information for lacking negativity, but here the missing term is specifically *Spirit* (Hegel's *Geist*), comprehension, the narrative syllogism that reaches a conclusion — and the antagonist is the *epistemology* of data positivism rather than the texture of language. The link to the [[Counting vs Recounting]] tension is exact and verbatim: data "are not narrative; they are additive," and "Counting is not recounting" — "no insight into the self can result from data and numbers alone" because "it is not counting, but recounting that leads to self-discovery or self-knowledge" (Ch. 11). Dataism's "Data is data" creed — that information travels intact across every domain — is the same cybernetic creed [[Meghan O'Gieblyn]] rebuts with "Data is never merely data" (see [[#Information as the Substitute for the Soul (O'Gieblyn)]]); Han rebuts it by denying that additive correlation can ever amount to knowledge. The result joins the note's central thread: information as weightless, additive accumulation that displaces the very faculties — truth, [[Knowledge (Erkenntnis)|Erkenntnis]], insight, Spirit — that would let it mean. See [[Dataism]] and [[Big Data]]. `Interpretive synthesis` for the continuity-and-difference framing; `Directly stated` for the quoted claims.
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Information is positivized, operationalized language, the linguistic correlate of the [[Transparency|society of transparency]]. It is opposed to truth (a negative force), to [[Knowledge (Erkenntnis)|Erkenntnis]] (transformative), and to [[Insight|insight]] (world-altering). It accumulates without producing sense.
+- **[[Byung-Chul Han]]** — Information is positivized, operationalized language, the linguistic correlate of the [[Transparency|society of transparency]]. It is opposed to truth (a negative force), to [[Knowledge (Erkenntnis)|Erkenntnis]] (transformative), and to [[Insight|insight]] (world-altering). It accumulates without producing sense. In *[[Psychopolitics]]* Han adds a *second* aspect: information as the substance of [[Dataism|dataism]] — data sold as "a transparent and reliable lens" that replaces "causality" with "correlation" and theory with data, "driving Spirit from the realm of knowledge" (Ch. 11) — and as the product of [[Immaterial Labour|immaterial production]] ("not material objects, but immaterial ones - for instance, information and programs," Ch. 5). Same negativity-critique, now aimed at the *epistemology* of data positivism; ties to [[Counting vs Recounting]] ("Counting is not recounting"). See [[#Psychopolitics (Han) — data positivism and the end of theory]]. `Directly stated`.
 - **[[N. Katherine Hayles]]** — A *distinct sense*: information is the Shannon-Wiener information-theoretic construct, "a probability function with no dimensions, no materiality, and no necessary connection with meaning . . . a pattern, not a presence" (Ch. 1), imagined to "circulate unchanged among different material substrates" (Ch. 1). Hayles treats this disembodiment as a contingent reification she contests on behalf of [[Embodiment|embodiment]]. See [[#Hayles on Information]] and [[Information (Hayles)]]. Do not collapse with Han's positivized-operationalized language; the two converge only as an [[Embodiment vs Information|interpretive synthesis]]. `Directly stated`.
 - **[[Lucy Lippard]]** — A *third, art-historical sense*: information as an "informational, documentary idiom" (Postface), the aesthetic of [[Conceptual Art|conceptual art]] in which a work that no longer depends on physical presence exists as "primary information" (Siegelaub, 1969) carried by catalogue, text, and document. Baldessari's wager that "information could be interesting in its own right and need not be visual" (1966) frees the idea from the object — the [[Dematerialization|dematerialization]] thesis. Not Han's positivized language and not Hayles's Shannon-Wiener construct, but converging with both on weightless pattern over object. See [[#Information in Conceptual Art (Lippard)]], [[Exhibition as Medium]], [[The Document (Conceptual Art)]]. `Directly stated`.
 - **[[Meghan O'Gieblyn]]** — A *fourth, theological sense*: the same Shannon-Wiener construct Hayles diagnoses, but read as the heir to the metaphysical soul. Shannon "remove[s] semantic meaning . . . such that information became purely mathematical—defined by patterns and probabilities" (Ch. 1); the Macy Conferences decouple it from matter, so that "[i]t became, in other words, the materialist's substitute for the soul" (Ch. 4). It then escalates into "the ultimate metaphor" (Ch. 7) and, in Wheeler, a "third substance—information—that can explain both" mind and matter (Ch. 7). She contests the cybernetic creed that "information is a universal metaphor whose structures and models remain identical across multiple disciplines" ("Data is data . . . ," Ch. 13) with the counter-thesis "Data is never merely data" (Ch. 13). Closest to Hayles's sense (shared genealogy, cited directly) but reframed as a religious displacement; converges with Han and Lippard on refusing weightless pattern an existence apart from its instantiation. See [[#Information as the Substitute for the Soul (O'Gieblyn)]], [[The Computational Universe]], [[The Materiality of Informatics]]. `Directly stated`.
@@ -102,6 +114,10 @@ What O'Gieblyn contests is the cybernetic creed that lets information travel int
 - [[Acceleration]] — Only the additive admits acceleration; information is the substance that can be sped up (Ch. 5).
 - [[Pornography (Han)]] — Information's nakedness is structurally pornographic: "unmediated contact between the image and the eye" (Ch. 1).
 - [[Framing (Ge-Stell)]] — Han quotes Heidegger: "Within Framing, speaking turns into information" (Ch. 7).
+- [[Dataism]] — In *Psychopolitics*, information is the substance of dataism, the creed that data form "a transparent and reliable lens" replacing causality with correlation and theory with data (Psychopolitics, Ch. 11).
+- [[Big Data]] — Big Data accumulates information additively and yields only correlation, "the most primitive level" of knowledge: it "lacks comprehension - it lacks the Concept - and thus it lacks Spirit" (Psychopolitics, Ch. 11).
+- [[Immaterial Labour]] — Neoliberal production makes information its product: "What gets produced are not material objects, but immaterial ones - for instance, information and programs" (Psychopolitics, Ch. 5).
+- [[Counting vs Recounting]] — Data "are not narrative; they are additive": "Counting is not recounting" (Psychopolitics, Ch. 11).
 
 ## Opposing Concepts
 
@@ -341,3 +357,47 @@ Relevant passage:
 > Hoping to stanch any criticism that he was not an epidemiologist, Ginn appealed to that foundational creed of cybernetics: that information is a universal metaphor whose structures and models remain identical across multiple disciplines. "Data is data…," he said. "You don't need a special degree to understand what the data says and doesn't say. Numbers are universal." . . . Data is never merely data. And numbers are rarely as universal as they seem.
 
 Supports: O'Gieblyn's contestation of the cybernetic creed that information travels intact across every domain — the "Data is data" creed and her flat counter-thesis "Data is never merely data." Grounds the third paragraph of [[#Information as the Substitute for the Soul (O'Gieblyn)]] and the cross-author convergence (with Han, Hayles, Lippard) on refusing weightless pattern an existence apart from its instantiation. Label: `Directly stated`.
+
+### Source 21
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/05 Foucault's Dilemma]]
+Relevant passage:
+
+> Now, immaterial and non-physical forms of production are what determine the course of capitalism. What gets produced are not material objects, but immaterial ones - for instance, information and programs.
+
+Supports: Han's *second* sense of information — information as the *product* of the neoliberal [[Immaterial Labour|immaterial mode of production]], not merely a medium of transparency. Grounds the economic move in [[#Psychopolitics (Han) — data positivism and the end of theory]] and the cross-link to [[Material vs Immaterial]]. Label: `Directly stated`.
+
+### Source 22
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> If you asked me to describe the rising philosophy of the day, I'd say it is data-ism. We now have the ability to gather huge amounts of data. This ability seems to carry with it certain cultural assumptions - that everything that can be measured should be measured; that data is a transparent and reliable lens that allows us to filter out emotionalism and ideology; that data will help us do remarkable things - like foretell the future . . .
+
+Supports: David Brooks's formulation, quoted by Han, of the creed of [[Dataism|dataism]] — data as "a transparent and reliable lens." Grounds the epistemological move in [[#Psychopolitics (Han) — data positivism and the end of theory]] and the data-positivism critique. Label: `Directly stated` (Han quotes Brooks verbatim).
+
+### Source 23
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Correlations are replacing causality. That’s-how-it-is stands where How so? once wavered. The data-driven quantification of reality is driving Spirit from the realm of knowledge.
+
+Supports: The core claim that dataism replaces causality with correlation and theory with data, "driving Spirit from the realm of knowledge." Grounds the Hegelian rejoinder (correlation as the most primitive level of knowledge; Big Data "lacks the Concept - and thus it lacks Spirit") in [[#Psychopolitics (Han) — data positivism and the end of theory]] and the [[Big Data]] cross-link. Label: `Directly stated`.
+
+### Source 24
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> The motto of Quantified Self is 'Self Knowledge through Numbers'. But no insight into the self can result from data and numbers alone, no matter how exhaustive they are. Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
+
+Supports: The verbatim anchor for the [[Counting vs Recounting]] tension — data are additive and "count" but cannot "recount"; only narration yields self-knowledge. Grounds the additive/narrative distinction in [[#Psychopolitics (Han) — data positivism and the end of theory]]. Label: `Directly stated`.

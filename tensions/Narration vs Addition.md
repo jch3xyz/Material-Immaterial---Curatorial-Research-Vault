@@ -9,6 +9,7 @@ authors:
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[Acceleration]]"
@@ -19,13 +20,21 @@ related_concepts:
   - "[[The Pilgrim and the Tourist]]"
   - "[[Thresholds and Transitions]]"
   - "[[Information]]"
+  - "[[Counting vs Recounting]]"
+  - "[[Dataism]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Narration vs Addition
 
 In Chapter 5 of *[[The Transparency Society]]*, [[Byung-Chul Han]] stages a structural opposition between two modes of temporal organization: **narration**, which selects, lends tension, and resists acceleration; and **addition**, which accumulates, is transparent, and demands acceleration. The opposition is not merely formal — it names what Han takes to be the defining temporal-aesthetic register of the [[Transparency|Society of Transparency]].
+
+## General Orientation
+
+This is a single Han opposition restated across two books, each foregrounding a different stake. In *[[The Transparency Society]]* (Ch. 5) the contrast is primarily **temporal-aesthetic**: narration has "its own temporality, its own rhythm and tact" and "elude[s] acceleration," whereas addition is "more transparent" and is the only mode that "admits acceleration." The pun anchoring it there is *erzählen* (to tell) vs *zählen* (to count): the procession tells; the processor "tells [erzählt] nothing. It simply counts [zählt]."
+
+In *[[Psychopolitics]]* (Ch. 11, "Big Data") the same opposition is restated in an **epistemic and ethical** register under the heading of [[Dataism]] and the slogan "counting is not recounting." Here the additive pole is *Big Data* itself — data, numbers, storage, the [[Quantified Self]] — and the narrative pole is meaning, self-knowledge, living memory, and (via [[Hegel]]) theory and Spirit. The two presentations share a structure but diverge in emphasis: the Transparency-Society version asks what additive time does to *experience* and *acceleration*; the Big-Data version asks what additive data does to *meaning*, *self*, and *knowledge*. The dedicated [[Counting vs Recounting]] note develops the Psychopolitics restatement in full; the section below records the cross-book continuity here so the two are not read as unrelated (`Interpretive synthesis`).
 
 ## The Poles
 
@@ -70,6 +79,14 @@ This opposition is the temporal hinge of Han's larger critique. The [[Transparen
 Han does **not** present this as a tension to be productively held in balance. He treats narration and addition as asymmetrically valued: narration carries negativity, tact, scenography, and meaning; addition is the *obscene* mode that "spills out over its goal." His own counter-prescription is explicit and unusual: the problem is not acceleration, so the answer is not deceleration. "Deceleration alone produces no tact, no rhythm, no fragrance. It does not prevent falling into emptiness" (Ch. 5, `Directly stated`).
 
 The tension is therefore **diagnostic rather than dialectical**. What is needed, on Han's account, is the restoration of *narrative gravity* — "a figurative attraction, a narrative gravity must first unite atoms into fragrant molecules." Whether such a restoration is possible within the additive infrastructures of digital communication and capital is left open. Han names the loss with precision; he does not specify the path back (`Interpretive synthesis`). The tension remains open as a critical opposition that names a one-way historical drift rather than a balanced polarity.
+
+## Psychopolitics (Han) — counting is not recounting
+
+In the "Big Data" chapter of *[[Psychopolitics]]*, Han restates the narration/addition opposition as the formula **"Counting is not recounting"** — the [[Dataism|data-totalitarian]] register of the same structure. The additive pole is now *Big Data* as such: "Data and numbers are not narrative; they are additive. Meaning, on the other hand, is based on narration. Data simply fills up the senseless void." Counting (enumeration, measurement, storage) and recounting (narration, account-giving) name the gap that no quantity of data can close. From this Han draws the chapter's sharpest claim — "Dataism is nihilism. It gives up on any and all meaning" — and the verdict on the [[Quantified Self]]: "no insight into the self can result from data and numbers alone, no matter how exhaustive they are. Numbers do not recount anything about the self ... A sense of self derives from giving an account." Exhaustiveness is no remedy, because the deficit is structural, not quantitative: counting cannot become recounting by accumulating (`Directly stated`).
+
+The same opposition governs memory. "Human memory is a narrative, an account; forgetting forms a necessary component. In contrast, digital memory is a matter of seamless addition and accumulation. Stored data admit counting, but they cannot be recounted." Where the [[Transparency|Transparency Society]] version aligned storage with the additive pole, the Big-Data version sharpens it: a timeline "recounts nothing. It simply enumerates and adds up events," and so "digital temporality belongs to the undead." This grounds the [[Memory vs Storage]] sub-tension in the Psychopolitics frame (`Directly stated`).
+
+Finally, via [[Hegel]], Han extends the opposition into the register of *Spirit* and the **syllogism** (*Schluss*, conclusion), giving the additive pole a logical signature absent from the Transparency-Society treatment: "constant addition yields no conclusion, no syllogism, no 'putting-together' ... As narration, syllogism represents the opposite of addition. Big Data is purely additive; it never comes to an end, to a conclusion. In contrast to the correlations and additions that Big Data generates, theoretical thinking represents a narrative form of knowledge." The additive syllogism never concludes; theory, like ritual and ceremony, is "syllogistic" and so narrative. Hence "[t]otalized data-knowledge amounts to absolute ignorance: the absolute zero of Spirit." The full development of this restatement — meaning, self, memory, theory — lives in the dedicated [[Counting vs Recounting]] note; it is captured here as a cross-book continuity, not a duplicate (`Directly stated`; cross-book framing `Interpretive synthesis`).
 
 ## Sources
 
@@ -149,3 +166,36 @@ Relevant passage:
 > Negativity, in the form of obstacle or transition, constitutes narrative tension. The compulsion for transparency dismantles all borders and thresholds. Space becomes transparent when it is smoothed, leveled, and emptied out. Transparent space is semantically impoverished. Meanings arise only at thresholds and in transitions, indeed, through obstacles.
 
 Supports: Connects the narrative pole to [[Negativity]] and to [[Thresholds and Transitions]] — explains *why* additive transparency produces semantic impoverishment. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Dataism is nihilism. It gives up on any and all meaning. Data and numbers are not narrative; they are additive. Meaning, on the other hand, is based on narration. Data simply fills up the senseless void.
+
+Supports: Cross-book restatement — the narration/addition opposition reappears in *Psychopolitics* as the additive/narrative contrast underlying [[Dataism]]: data count (additive), meaning recounts (narration). Anchors the Psychopolitics section. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
+
+Supports: Supplies the titular formula of the sibling tension [[Counting vs Recounting]] — counting (additive) vs recounting (narrative) — and grounds the claim that the [[Quantified Self]] yields no self-knowledge. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Psychopolitics*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> But constant addition yields no conclusion, no syllogism, no 'putting-together'. The absolute con-clusion ex-cludes any further addition. As narration, syllogism represents the opposite of addition. Big Data is purely additive; it never comes to an end, to a conclusion. In contrast to the correlations and additions that Big Data generates, theoretical thinking represents a narrative form of knowledge.
+
+Supports: Extends the addition/narration opposition into the Hegelian register of *Spirit* and the syllogism (*Schluss*): the additive syllogism never concludes, while narration (and theory) is conclusion. Connects to [[Counting vs Recounting]] and [[Byung-Chul Han and Hegel]]. Label: `Directly stated`.

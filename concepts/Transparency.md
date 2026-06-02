@@ -7,6 +7,8 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]]"
+  - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
+  - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
 related:
   - "[[Positivity]]"
   - "[[Society of Control]]"
@@ -27,7 +29,7 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Transparency
@@ -35,6 +37,15 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 For [[Byung-Chul Han]], transparency is a neoliberal dispositive and systemic compulsion that dismantles all negativity, secrecy, and otherness in the name of frictionless circulation — turning communication, politics, and the psyche into a smoothly operational, pornographically illuminated, self-surveilled system.
+
+## General Orientation
+
+This note develops a single author's concept across two of Han's books in the vault, and the term carries two complementary senses that should not be collapsed.
+
+- **Transparency as aesthetic-communicative dispositive** (*The Transparency Society*) — transparency as a *systemic compulsion* that operationalizes social processes by dismantling [[Negativity]], [[Secrecy]], and the [[The Other|Other]]: symmetry, smoothness, [[Lightless Radiation]], [[Pornography (Han)]], and the [[Hell of the Same]]. This is the cluster developed in the Longer Explanation below.
+- **Transparency as psychopolitical dispositive** (*Psychopolitics*) — the *same* dispositive read through neoliberal power and Big Data: transparency as a technique that forces interiority outward, "promot[es] total conformity," and lets a "friendly" [[Digital Panopticon]] *steer the future* rather than control the past. This is the sense developed in the Psychopolitics section.
+
+The two are continuous, not rival: *Psychopolitics* restates and extends the dispositive thesis, shifting the emphasis from the aesthetic logic of the Same to the governmental logic of pre-emptive steering. `Interpretive synthesis`.
 
 ## Longer Explanation
 
@@ -45,6 +56,14 @@ In Chapter 1 the dispositive becomes a [[Positivity|positivity]]-engine: "Transp
 Chapter 3 reframes transparency in libidinal and political terms: "Transparency represents a condition of symmetry. Accordingly, the society of transparency endeavors to eliminate all asymmetrical relations." This destroys [[Power]], [[Seduction]], and [[Eros]] in one stroke — since desire requires "the negativity of the secret, the veil, and concealment," symmetry produces only [[Pornography (Han)]] and [[Evidence]] in place of play. Chapter 7 then strips transparency of its Enlightenment alibi: "The medium of transparency is not light, but rather lightless radiation; instead of illuminating, it suffuses everything and makes it see-through." Where metaphysical [[Light]] hierarchizes and orients, [[Lightless Radiation]] homogenizes and penetrates — transparency has no transcendence, no source, no shadow, only diffuse exposure. `Directly stated`.
 
 Chapter 9 finally welds these registers to an economic-panoptic machine. Transparency is the operating logic of the [[Digital Panopticon]], an "aperspectival, penetrating illumination [Durchleuchtung]" in which "the inhabitants of the digital panopticon think that they are free" and "actively collaborate in its construction and maintenance by putting themselves on display and baring themselves." Crucially, "[t]he society of control achieves perfection when subjects bare themselves not through outer constraint but through self-generated need" — transparency is therefore the psychological *formula* by which [[Auto-Exploitation]] feels like freedom. This is the hub: every later chapter of Han's book extends, rather than redefines, this cluster. `Interpretive synthesis` across Preface, Ch.1, Ch.3, Ch.7, Ch.9.
+
+## Psychopolitics (Han) — transparency as neoliberal dispositive and steering of the future
+
+In *Psychopolitics*, Han restates the master formula of the earlier book almost verbatim, but now embeds it explicitly in a theory of neoliberal power. Transparency, he writes, "is demanded in the name of the freedom of information too. In reality, however, this amounts to nothing other than a neoliberal dispositive. It means turning everything inside out by force and transforming it into information." The conversion of interiority into circulable [[Information]] is the same mechanism diagnosed in *The Transparency Society*, but the stress falls on *force* and *exteriorization*: "[t]he dispositive of transparency effects utter exteriorization in order to accelerate the circulation of information," stripping persons of the interiority "which blocks and slows down communication." Crucially, this exteriorization "does not occur by violent means" — it "occurs as voluntary self-exposure," so the dispositive operates through freedom rather than against it. `Directly stated`.
+
+The political payload of the dispositive is conformity. "The dispositive of transparency has the further consequence of promoting total conformity. The economy of transparency seeks to suppress deviation." Total networking levels by itself — "it is as if everyone were watching over everyone else — even before intelligence agencies or secret services have stepped in" — so that "primary, intrinsic surveillance proves much more problematic than the secondary, extrinsic surveillance undertaken by secret services and spying agencies." This consolidates the vault argument that [[Transparency abolishes the Other and produces compulsive conformity]] and that [[Compulsive transparency stabilizes the existing system]]: transparency is system-stabilizing precisely because the [[Achievement Society|achievement-subject]] illuminates itself voluntarily, an instance of [[Auto-Exploitation]] / [[Exploitation of Freedom]]. `Directly stated`.
+
+Finally, *Psychopolitics* supplies the temporal-governmental twist that the earlier book only implied. In the "Friendly Big Brother" chapter Han contrasts the [[Digital Panopticon]] with Orwell's surveillance state: there is "no mysterious 'Ministry of Truth,'" because "[t]ransparency and information have taken the place of truth. The new conception of power does not involve controlling the past, but steering the future psychopolitically." Where Orwellian power revised the past through negation and force, neoliberal power runs on [[Positivity]] — it "prospects, permits and projects" — and uses Big Data to make the future "calculable and controllable," "transform[ing] the negativity of freely made decisions into the positivity of factual states." Transparency is thus the epistemic regime ("transparency and information" in the place of "truth") of a power that no longer needs to repress because it can *steer*; "Big Brother now wears a friendly face," and "[h]is friendliness is what makes surveillance so efficient." `Directly stated`.
 
 ## Authors and Variants
 
@@ -161,3 +180,47 @@ Relevant passage:
 > Transparency is an ideology. Like all ideologies, it has a positive core that has been mystified and made absolute. The danger of transparency lies in such ideologization. If totalized, it yields terror.
 
 Supports: Justifies treating Transparency as the *hub concept* of the book and frames the critical stance — Han is not against openness per se but against its ideologization. Sets up the "Questions It Raises" section. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/01 The Crisis of Freedom]]
+Relevant passage:
+
+> Transparency is demanded in the name of the freedom of information too. In reality, however, this amounts to nothing other than a neoliberal dispositive. It means turning everything inside out by force and transforming it into information.
+
+Supports: Restates the *neoliberal dispositive* thesis in *Psychopolitics*, with the emphasis on force and the inside-out conversion of interiority into [[Information]]. Anchors the opening of the Psychopolitics section. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/01 The Crisis of Freedom]]
+Relevant passage:
+
+> The dispositive of transparency has the further consequence of promoting total conformity. The economy of transparency seeks to suppress deviation. Total networking - total communication - already has a levelling effect per se. Its effect is conformity: it is as if everyone were watching over everyone else - even before intelligence agencies or secret services have stepped in to supervise and steer. Invisible moderators smooth out communication and calibrate it to what is generally understood and accepted. Such primary, intrinsic surveillance proves much more problematic than the secondary, extrinsic surveillance undertaken by secret services and spying agencies.
+
+Supports: Grounds the claim that transparency's "further consequence" is *total conformity* via intrinsic, peer-to-peer levelling — the link to [[Transparency abolishes the Other and produces compulsive conformity]] and [[Compulsive transparency stabilizes the existing system]]. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/08 Friendly Big Brother]]
+Relevant passage:
+
+> Nor is there a mysterious 'Ministry of Truth'. Transparency and information have taken the place of truth. The new conception of power does not involve controlling the past, but steering the future psychopolitically.
+
+Supports: Supplies the temporal-governmental twist — transparency and information *replacing truth*, and power *steering the future* rather than controlling the past. Anchors the third paragraph of the Psychopolitics section. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/08 Friendly Big Brother]]
+Relevant passage:
+
+> The neoliberal technology of power does not prohibit, protect or repress; instead, it prospects, permits and projects. Consumption is not held in check, but maximized. No production of scarcity occurs; instead, surplus is generated - indeed, a superabundance of positivity. [...] Smartphones have been substituted for torture chambers. Big Brother now wears a friendly face. His friendliness is what makes surveillance so efficient.
+
+Supports: Characterizes the [[Positivity]]-based ("prospects, permits and projects") neoliberal power that steers rather than represses, and the "friendly" efficiency of the [[Digital Panopticon]]. Note: the bracketed `[...]` marks an elision between two verbatim runs in the same chapter; each run is quoted character-for-character. Label: `Directly stated`.

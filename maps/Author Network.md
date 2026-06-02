@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Author Network
@@ -14,10 +14,14 @@ See [[_system/source_inventory|Source Inventory]] for the canonical list.
 
 ## Realized References
 
-- [[Byung-Chul Han and Michel Foucault]] — most pervasive interlocutor: disciplinary vs control society, panopticon revision, confession
-- [[Byung-Chul Han and Walter Benjamin]] — cult/exhibition value, aura, object-in-its-veil, Erfahrung/Erlebnis
+- [[Byung-Chul Han and Michel Foucault]] — most pervasive interlocutor: disciplinary vs control society, panopticon revision, confession; in Psychopolitics, Foucault's Dilemma and the art of living — the charge that Foucault failed to make the turn to psychopolitics
+- [[Byung-Chul Han and Walter Benjamin]] — cult/exhibition value, aura, object-in-its-veil, Erfahrung/Erlebnis; in Psychopolitics, Capitalism as Religion and the optical→digital unconscious
 - [[Byung-Chul Han and Jean Baudrillard]] — extensive lexical borrowing plus explicit disagreement on end of panopticon
-- [[Byung-Chul Han and Hegel]] — tarrying with the negative; becoming-different-from-oneself
+- [[Byung-Chul Han and Hegel]] — tarrying with the negative; becoming-different-from-oneself; in Psychopolitics, master/slave inverted and the Concept and Spirit
+- [[Byung-Chul Han and Gilles Deleuze]] — Deleuze's first named, cited appearance: societies of control (the mole and the snake) and Pure Immanence / 'a life' (Psychopolitics)
+- [[Byung-Chul Han and Naomi Klein]] — adoption-and-disagreement over The Shock Doctrine: shock is disciplinary negativity, not neoliberal psychopolitics (Psychopolitics)
+- [[Byung-Chul Han and Karl Marx]] — freedom as a ruse of Capital; no Aufhebung; with-Marx-beyond-Marx (Psychopolitics)
+- [[Byung-Chul Han and Friedrich Nietzsche]] — suffering, Gleichwerden, and the absolutely sudden event (Psychopolitics)
 - [[Byung-Chul Han and Martin Heidegger]] — Gestell/enframing, aletheia/unveiling, dwelling/tarrying; deep philosophical substrate (Han's dissertation was on Heidegger)
 - [[Byung-Chul Han and Carl Schmitt]] — arcana imperii; the constitutive secrecy of the political that transparency dismantles
 - [[Byung-Chul Han and Guy Debord]] *(forward-stub)* — "the society of pornography is a society of the spectacle"; conceptual convergence pending Debord ingest
@@ -52,4 +56,4 @@ See [[_system/source_inventory|Source Inventory]] for the canonical list.
 - **Turner ↔ Waldrop** — cybercultural genealogy
 - **Lippard ↔ Jack Burnham** *(forward-stub)* — 'systems aesthetics' in the art world; Burnham is a forward-stub from the Lippard ingest, a related-but-distinct lineage to [[Systems Theory]] / cybernetic systems theory
 
-These are conjectures, not source-backed claims. Confirm or refute during ingest. (Hayles ↔ Haraway and Hayles ↔ Han are now realized — see Realized References above; the five Lippard references are likewise realized. The O'Gieblyn ingest adds eight references and realizes the Kurzweil, Wiener, and Moravec forward-stubs; O'Gieblyn ↔ Hayles is the realized cross-book bridge, with Weber, Descartes, Chalmers, and Bostrom carried forward as forward-stubs.)
+These are conjectures, not source-backed claims. Confirm or refute during ingest. (Hayles ↔ Haraway and Hayles ↔ Han are now realized — see Realized References above; the five Lippard references are likewise realized. The O'Gieblyn ingest adds eight references and realizes the Kurzweil, Wiener, and Moravec forward-stubs; O'Gieblyn ↔ Hayles is the realized cross-book bridge, with Weber, Descartes, Chalmers, and Bostrom carried forward as forward-stubs. The Psychopolitics ingest adds four references — Deleuze, Klein, Marx, and Nietzsche — and extends Foucault, Hegel, and Benjamin; the Han ↔ Marcuse and Zuboff ↔ Han affinities above remain conjectures, as Marcuse and Zuboff are not yet ingested.)

@@ -8,20 +8,35 @@ sources:
     passage: "experience [Erfahrung] holds consequences that exude transformative power. In this respect, it differs from experiencing [Erlebnis], which leaves what exists as it stands."
   - source_file: "raw/Byung-Chul Han - The Transparency Society/09 Ch6 - Intimacy.md"
     passage: "Experience [Erfahrung] means facing the Other. Experiencing [Erlebnis], in contrast, means encountering oneself everywhere."
+  - source_file: "raw/Han - Psychopolitics/12 Beyond the Subject.md"
+    passage: "In contrast to experiencing (Erlebnis), experience (Erfahrung) is founded on discontinuity. Experience means transformation."
+  - source_file: "raw/Han - Psychopolitics/06 Healing as Killing.md"
+    passage: "Pain is constitutive for experience (Erfahrung)."
 related_concepts:
+  - "[[Byung-Chul Han]]"
   - "[[Negativity]]"
   - "[[The Other|The Other (Han)]]"
   - "[[The Transparency Society]]"
+  - "[[Psychopolitics]]"
   - "[[Narcissism]]"
   - "[[Narrativity]]"
   - "[[Acceleration]]"
   - "[[Intimacy as Psychological Formula of Transparency|Intimacy]]"
   - "[[Information]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Erfahrung vs Erlebnis — Byung-Chul Han
+
+## General Orientation
+
+This note tracks a single opposition — the German *Erfahrung* ("experience") versus *Erlebnis* ("experiencing") — across two books by Byung-Chul Han. Both books keep the same poles, but they foreground different stakes:
+
+- In ***The Transparency Society***, the distinction is *epistemic and relational*. *Erfahrung* is charged with [[Negativity|negativity]], faces [[The Other|the Other]], and transforms the experiencing subject; *Erlebnis* is self-referential, additive, [[Acceleration|accelerable]], and leaves the existing order untouched. (See the *Author's Definition* and *Context* sections below.)
+- In ***Psychopolitics***, the distinction is *political and subject-constituting*. *Erfahrung* "is founded on discontinuity," "means transformation," and "wrenches the subject from itself" — it tears the subject out of subjection. *Erlebnis*, recast as "the neoliberal psychopolitics of experiencing or emotion," does the opposite: it "ensnares the subject deeper and deeper" in subjugation.
+
+The through-line is that *Erfahrung* names a negativity-bearing event that frees, while *Erlebnis* names a positivity-bound stimulus that preserves the subject in place. The *Psychopolitics* treatment is recorded in the new section below; the older *Transparency Society* treatment is preserved unchanged in the sections that follow.
 
 ## Author's Definition
 
@@ -53,6 +68,14 @@ The German *Erfahrung*/*Erlebnis* distinction has a longer pedigree in twentieth
 
 Within the vault, related but distinct uses of "experience" appear in other authors (e.g. discussions of mediated experience in [[Guy Debord]] and [[Marshall McLuhan]], or the [[Eros and Civilization|Marcusean]] inflection of lived experience). Cross-references should be added when those notes exist; the present note records only Han's own definitional moves.
 
+## Psychopolitics (Han) — Erfahrung as discontinuity that frees the subject
+
+In *Psychopolitics: Neoliberalism and New Technologies of Power*, Han carries the same opposition into an explicitly political register. Where *The Transparency Society* opposed *Erfahrung* to *Erlebnis* along the axes of negativity/otherness and transformation/stasis, *Psychopolitics* makes the stake the very subjection of the subject. In "Beyond the Subject," following Nietzsche and Foucault on the *event* as a break that "wrests the subject from subjection," Han states the distinction directly: "In contrast to experiencing (Erlebnis), experience (Erfahrung) is founded on discontinuity. Experience means transformation." He grounds the claim in Foucault's reading of Nietzsche, Blanchot and Bataille, for whom experience "has the function of wrenching the subject from itself, of seeing to it that the subject is no longer itself, or that it is brought to its annihilation or its dissolution" [Directly stated].
+
+The political payoff is the reversal of subjection. Punning on the double sense of *subject* — "Being a subject means being subjected, being cast under, by a higher instance" — Han writes that *Erfahrung* "tears the subject out from subjection - out of its downcast state. It signifies the opposite of the neoliberal psychopolitics of experiencing or emotion, which only ensnares the subject deeper and deeper in the state of subjection and subjugation." Here *Erlebnis* is no longer merely the consequence-free, self-enclosed stimulus of the transparency analysis; it is named as the operative medium of [[Psychopolitics|neoliberal psychopolitics]] — the "experiencing or emotion" through which psychological steering binds the [[Achievement Society|achievement-subject]] ever more tightly to the prevailing system. *Erfahrung*, by contrast, is aligned with the "art of living" as a [[Exploitation of Freedom|practice of freedom]] and with de-psychologization, opening "a mode of existence that still has no name: an unwritten future" [Directly stated].
+
+"Healing as Killing" (ch. 6) reinforces the same constitutive role for *Erfahrung* from the side of [[Negativity|negativity]]. Against the neoliberal "dictates of [[Positivity|positivity]]" and the ideology of boundless self-optimization, Han insists that "negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung)." A life "wholly of positive emotions and the sensation of 'flow' . . . is not human at all"; the soul owes "its defining tautness and depth precisely to negativity." The two chapters thus converge: *Erfahrung* requires the negativity (discontinuity, otherness, pain) that neoliberal psychopolitics works to therapeutically eliminate, which is why genuine experience can free the subject while *Erlebnis*/emotion only deepens its subjugation [Strongly implied].
+
 ## Related Concepts
 
 - [[Negativity]] — what *Erfahrung* possesses and *Erlebnis* lacks
@@ -64,6 +87,10 @@ Within the vault, related but distinct uses of "experience" appear in other auth
 - [[Information]] — the additive, self-identical counterpart Han opposes to *Erfahrung*
 - [[Acceleration]] — what *Erlebnis* permits and *Erfahrung* resists
 - [[Knowledge (Erkenntnis)]] — paired with *Erfahrung* under the heading of negativity
+- [[Psychopolitics]] — the neoliberal technology of domination whose medium is *Erlebnis*/emotion (*Psychopolitics*)
+- [[Positivity]] — the dictate against which *Erfahrung* is constituted in "Healing as Killing"
+- [[Achievement Society|achievement-subject]] — the subject *Erlebnis*/emotion ensnares more deeply (*Psychopolitics*)
+- [[Exploitation of Freedom]] — the "art of living" / practice of freedom *Erfahrung* serves via de-psychologization
 
 ## Sources
 
@@ -99,3 +126,25 @@ Relevant passage:
 > Social media and personalized search engines set up, in the internet, a space of absolute closeness [Nahraum]; here the outside has been eliminated. One encounters only oneself and one's own life. No negativity stands available to make change possible.
 
 Supports: Grounds the synthesis that *Erlebnis* (self-encounter, no transformation) is the experiential mode produced by the digital [[Intimacy as Psychological Formula of Transparency|intimate]] order — connecting the two definitional passages through the shared category of [[Negativity|negativity]]. Label: Interpretive synthesis.
+
+### Source 4
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/12 Beyond the Subject]]
+Relevant passage:
+
+> In contrast to experiencing (Erlebnis), experience (Erfahrung) is founded on discontinuity. Experience means transformation. In an interview, Foucault remarked that for Nietzsche, Blanchot and Bataille, experience ‘has the function of wrenching the subject from itself, of seeing to it that the subject is no longer itself, or that it is brought to its annihilation or its dissolution’. Being a subject means being subjected, being cast under, by a higher instance. Experience tears the subject out from subjection - out of its downcast state. It signifies the opposite of the neoliberal psychopolitics of experiencing or emotion, which only ensnares the subject deeper and deeper in the state of subjection and subjugation.
+
+Supports: The core *Psychopolitics* definitional passage. Establishes *Erfahrung* as founded on discontinuity and transformation, transmits the Foucault-via-Nietzsche/Blanchot/Bataille account of experience "wrenching the subject from itself," and opposes *Erfahrung* to the [[Psychopolitics|neoliberal psychopolitics]] of *Erlebnis*/emotion that "ensnares the subject deeper and deeper." Label: Directly stated.
+
+### Source 5
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/06 Healing as Killing]]
+Relevant passage:
+
+> It is impossible to subordinate human personhood to the dictates of positivity entirely. Without negativity, life degrades into ‘something dead’. Indeed, negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung). Life that consists wholly of positive emotions and the sensation of ‘flow’ is not human at all. The human soul owes its defining tautness and depth precisely to negativity.
+
+Supports: Reinforces, from the side of [[Negativity|negativity]], that *Erfahrung* is constituted by what neoliberal [[Positivity|positivity]] would eliminate — "Pain is constitutive for experience (Erfahrung)." Anchors the convergence of the discontinuity argument (ch. 12) with the negativity argument (ch. 6). Label: Directly stated.

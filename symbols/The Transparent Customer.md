@@ -51,7 +51,7 @@ Symbolically, the transparent customer also recurs (unnamed but operative) where
 
 - [[Digital Panopticon]] — the apparatus whose new inmate the transparent customer is
 - [[Homo Sacer]] — Agamben's figure of bare life, redeployed by Han to name the customer's exposed-but-unprotected status
-- [[Bentham's Panopticon]] — the perspectival, morally motivated precursor Han contrasts with the digital one
+- [[The Panopticon|Bentham's Panopticon]] — the perspectival, morally motivated precursor Han contrasts with the digital one
 - [[Achievement Society|The Achievement-Subject]] — the auto-exploiting self whose consumer face is the transparent customer
 - [[Auto-Exploitation]] — the mechanism by which the customer "illuminates" himself
 - [[Pornographic Display]] / [[Exhibitionism and Voyeurism]] — the affective regime in which transparent customers volunteer their data

@@ -7,11 +7,23 @@ relationship: direct_citation
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
+  - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
+  - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Byung-Chul Han ↔ Hegel
+
+## General Orientation
+
+This note tracks Han's recurring appropriation of Hegel across more than one book. Two distinct senses are at work and should not be collapsed:
+
+1. **The Hegel of Spirit and negativity** — the source of Han's master-category, the [[Negativity]] of Spirit. In [[The Transparency Society]] this Hegel grounds the [[Positivity vs Negativity]] opposition: Spirit has power "only by looking the negative in the face and tarrying with it," and the [[Transparency|Society of Transparency]] is the historical liquidation of that dialectical patience. *Psychopolitics* extends the same Hegel into a critique of neoliberal positivity ("Without negativity, life degrades into 'something dead'").
+2. **The Hegel of the master–slave dialectic and the Logic** — in *Psychopolitics* Han turns to the *Phenomenology*'s lord/bondsman figure and to the *Science of Logic*/*Encyclopedia Logic*. Here Hegel is not only borrowed but *corrected* ("counter to what Hegel assumed, labouring does not make the slave free"), and the Logic's ladder from correlation to causation to the Concept becomes the architecture of Han's central Big-Data argument.
+
+The relationship is therefore neither purely affirmative nor purely critical: Han uses Hegel's ontology of Spirit as a critical measure of the present (sense 1) while inverting Hegel's own verdict on labour and emancipation (sense 2). The sections below treat the *Transparency Society* deployment and the *Psychopolitics* deployment separately.
 
 ## Relationship Type
 
@@ -31,9 +43,19 @@ From Chapter 5, on thinking and self-difference:
 
 > In contrast to calculation, thinking is not self-transparent. Thinking does not follow precalculated paths, but betakes itself into the open. According to Hegel, negativity inhabits thinking, which causes it to experience what transforms it. The negativity of becoming-different-from-oneself proves constitutive of thinking. Herein lies its difference from calculating, which always remains self-identical. Such likeness provides the condition of possibility for acceleration.
 
+## Psychopolitics (Han) — master/slave inverted; the Concept and Spirit
+
+In *Psychopolitics* Han makes three Hegelian moves. The first **inverts the master–slave dialectic**. Han grants Hegel's premise that the master is sovereign because he "performs no labour at all and only enjoys" and derives his standing from "rising above bare life and risking death itself," whereas the slave "worries only about bare life." But he reverses Hegel's conclusion: where the *Phenomenology* makes labour the slave's path to freedom, the neoliberal [[Achievement Society|achievement-subject]] who "willingly exploits itself without a master" is "an absolute slave." Verbatim: "But counter to what Hegel assumed, labouring does not make the slave free. The slave remains enslaved to labour. Now, the slave is forcing the master to work too. Today's dialectic of master and slave means the totalization of labour." Because everyone is now "master and slave in one," [[Auto-Exploitation|auto-exploitation]] replaces the allo-exploitation that once underwrote class antagonism (`Directly stated`).
+
+The second move re-states the *Transparency Society* reliance on [[Negativity]], now against the neoliberal imperative of self-optimization. In "Healing as Killing," Han cites Hegel's *Encyclopedia Logic* for the thesis that the human soul "is anything but a machine of positivity": "Without negativity, life degrades into 'something dead'." The "something dead" is Hegel's phrase, quoted in Han's note; negativity is "what keeps life alive," and a life of pure positive emotion and "flow" "is not human at all" (`Directly stated`).
+
+The third and central move runs Han's whole **Big Data argument through Hegel's Logic**. Big Data "opens up the prospect of absolute knowledge," but "correlations are replacing causality," and "the data-driven quantification of reality is driving Spirit from the realm of knowledge." Read as "the logic of knowledge," Hegel's *Logic* furnishes a ladder: correlation is "the most primitive level" — "A often occurs together with B," a "relation of probability, not of necessity"; causation adds necessity ("A causes B"); reciprocity (*Wechselwirkung*) is higher still ("A and B condition each other mutually") yet remains "quite unconceptually" grasped; and only the Concept comprehends the whole — "The Concept is C, which comprehends within itself {in sich begreift} A and B," so that A and B become "moments of a third, higher [whole]." Big Data climbs no higher than correlation, and from this Han draws his thesis, anchored verbatim: "Big Data lacks comprehension - it lacks the Concept - and thus it lacks Spirit. The absolute knowledge intimated by Big Data coincides with absolute ignorance." Hegel, "the philosopher of Spirit, would deem the omniscience (All-Wissen) that Big Data promises to be absolute ignorance (Un-Wissen)." Han extends the same logic through the syllogism (*Schluss*): "constant addition yields no conclusion, no syllogism," so purely additive data-knowledge is "the absolute zero of Spirit" and "an epoch without reason" (`Directly stated`).
+
+Taken together, the *Psychopolitics* deployment shifts the Han↔Hegel relationship from the largely affirmative borrowing of the *Transparency Society* (where Hegel's Spirit is a measure of the present) to a mixed posture: Hegel's Logic is wielded affirmatively as the standard that exposes Big Data's poverty, while Hegel's master–slave verdict is explicitly corrected. The connecting thread across both books is [[Negativity]]: the negative that Spirit must tarry with, that thinking requires to become "different-from-itself," and that the Concept supplies as the comprehending "third" missing from mere correlation (`Interpretive synthesis`).
+
 ## Confidence
 
-High. Han names Hegel explicitly in both chapters, places quoted Hegelian formulae in quotation marks, and builds his core opposition between [[Positivity]] and [[Negativity]] directly on Hegel's account of Spirit and thinking. There is no interpretive leap required to establish the relationship.
+High. Han names Hegel explicitly in both chapters, places quoted Hegelian formulae in quotation marks, and builds his core opposition between [[Positivity]] and [[Negativity]] directly on Hegel's account of Spirit and thinking. There is no interpretive leap required to establish the relationship. The *Psychopolitics* additions are likewise direct citations — Han quotes the *Encyclopedia Logic* and *Science of Logic* by note and corrects the *Phenomenology*'s master–slave verdict by name — with only the cross-book synthesis (the through-line of negativity uniting both deployments) labelled `Interpretive synthesis`.
 
 ## Sources
 
@@ -58,3 +80,36 @@ Relevant passage:
 > According to Hegel, negativity inhabits thinking, which causes it to experience what transforms it. The negativity of becoming-different-from-oneself proves constitutive of thinking. Herein lies its difference from calculating, which always remains self-identical. Such likeness provides the condition of possibility for acceleration.
 
 Supports: Establishes Han's second Hegelian appropriation — negativity as constitutive of thinking, understood as becoming-different-from-oneself — and links this directly to the diagnosis of [[Acceleration]]: only the self-identity of [[Calculation]] (without negativity) can be accelerated. This grounds Han's distinction between [[Thinking vs. Calculation|thinking and calculation]] and his broader claim that the [[Positivity|Society of Positivity]] is structurally hostile to genuine experience. Label: `Directly stated`.
+
+### Source 3
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/01 The Crisis of Freedom]]
+Relevant passage:
+
+> Today's neoliberal slave lacks the sovereignty - indeed, the freedom - of the master who, according to Hegel's dialectic, performs no labour at all and only enjoys. For Hegel, the sovereignty of the master derives from his rising above bare life and risking death itself in the process. Such excess - living and enjoying beyond measure - is alien to the slave, who worries only about bare life. But counter to what Hegel assumed, labouring does not make the slave free. The slave remains enslaved to labour. Now, the slave is forcing the master to work too. Today's dialectic of master and slave means the totalization of labour.
+
+Supports: Establishes Han's inversion of the Hegelian master–slave dialectic — the neoliberal [[Achievement Society|achievement-subject]] as "absolute slave" who, "master and slave in one," practises [[Auto-Exploitation|auto-exploitation]] in the "totalization of labour." This is a direct correction of Hegel's verdict that labour emancipates the bondsman. Label: `Directly stated`.
+
+### Source 4
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/06 Healing as Killing]]
+Relevant passage:
+
+> It is impossible to subordinate human personhood to the dictates of positivity entirely. Without negativity, life degrades into 'something dead'. Indeed, negativity is what keeps life alive.
+
+Supports: Carries the *Transparency Society* reliance on [[Negativity]] into the critique of neoliberal self-optimization. The phrase "something dead" is Hegel's, quoted from the *Encyclopedia Logic* (Han's note 1); Han uses it to argue that a life of pure [[Positivity]] is "not human at all." Label: `Directly stated`.
+
+### Source 5
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Hegel's Logic may also be read as the logic of knowledge. Here, correlation represents the most primitive level. A strong correlation between A and B means that if A changes, a change also occurs in B. But when a correlation holds - however strong it may be —one still does not know why this is the case. It just is that way. Correlation represents a relation of probability, not of necessity. It declares: A often occurs together with B. That is the difference between correlation and causation, which is distinguished by necessity: A causes B. [...] Only the 'Concept' brings forth knowledge. The Concept is C, which comprehends within itself {in sich begreift} A and B [...] Big Data lacks comprehension - it lacks the Concept - and thus it lacks Spirit. The absolute knowledge intimated by Big Data coincides with absolute ignorance.
+
+Supports: The central *Psychopolitics* argument, run through Hegel's *Logic*. The verbatim correlation/causation/Concept ladder shows why Big Data, halting at correlation, "lacks the Concept and so lacks Spirit," so that "absolute knowledge ... coincides with absolute ignorance." Grounds the claim that data-driven knowledge is "the absolute zero of Spirit," an "epoch without reason." Label: `Directly stated`.

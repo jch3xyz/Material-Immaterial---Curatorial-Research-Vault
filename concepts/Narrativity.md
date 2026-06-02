@@ -5,6 +5,7 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/09 Ch6 - Intimacy]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
 related:
   - "[[Negativity]]"
   - "[[Ritual]]"
@@ -20,7 +21,7 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Narrativity
@@ -36,6 +37,14 @@ Han uses *narrativity* as the structural feature that distinguishes processes wh
 The key formal feature of narrativity is *selection*. "Narration practices selection. The narrative path is narrow; it admits only certain events. Thereby it prevents the positive from proliferating and de-individualizing" (Source 2). Narrativity is thus the antagonist of [[Positivity]]'s pile-up: where storage is additive and accumulates indifferently, narrative memory rearranges and reinscribes, so that traces have history rather than mere co-presence. Han uses Baudelaire's image of the "junkshop" — "used and worn-out symbols piled up any-old-how" — to mark what memory becomes once it has lost narrative gravity (Source 2). Selection is also why narration resists [[Transparency]]: an event with narrative tension is shaped by [[Negativity]] (obstacle, threshold, transition), and "transparent space is semantically impoverished" because it has dismantled "all borders and thresholds."
 
 Narrativity is, finally, a temporal and ontological matter. In the chapter on [[Exhibition]], Han argues that contemporary photography "is determined by the present which lacks negativity and therefore destiny — it admits no narrative tension, nothing 'dramatic' in the sense of a novel [Roman]" (Source 1). The novel here names the form whose temporal substance has been hollowed out; without negativity there is no destiny, and without destiny no narration. In the chapter on [[Intimacy as Psychological Formula of Transparency|Intimacy]], denarrativization is paired with deritualization as the joint operation by which the [[Transparency|Society of Transparency]] strips life of "forms of symbolic appearance" and renders it "naked" (Source 3). The cure for the crisis Han diagnoses is therefore not deceleration — "deceleration alone produces no tact, no rhythm, no fragrance" — but the recovery of a "narrative gravity" that can "unite atoms into fragrant molecules" (Source 2).
+
+## Psychopolitics (Han) — narration vs additive data
+
+In the "Big Data" chapter of *[[Psychopolitics]]*, Han carries narrativity out of the temporal-aesthetic register of *[[The Transparency Society]]* and into an epistemic and ethical one: narrativity is now what distinguishes meaning, the self, and living memory from the sheer accumulation of data. The hinge is a pun. Against the [[Quantified Self]] motto "Self Knowledge through Numbers," Han objects that "no insight into the self can result from data and numbers alone, no matter how exhaustive they are. Numbers do not recount anything about the self. **Counting is not recounting.** A sense of self derives from giving an account" (Source 4). Where *The Transparency Society* opposed *narration* to *[[Addition]]* — "the processor … tells [erzählt] nothing. It simply counts [zählt]" — *Psychopolitics* sharpens the same opposition into *recounting* against *counting*, and binds it to the diagnosis of [[Dataism]]: "Data and numbers are not narrative; they are additive. Meaning, on the other hand, is based on narration." This is the conceptual seam between Narrativity and the tension [[Counting vs Recounting]] (`Directly stated`).
+
+The argument is most pointed where Han turns to memory. "Human memory is a narrative, an account; forgetting forms a necessary component. In contrast, digital memory is a matter of seamless addition and accumulation" (Source 5). Narrative memory is therefore selective in a way digital storage cannot be: it depends on forgetting, and it is "subject to constant rewriting and rearrangement" — Han enlists Freud's thesis that memory traces are "subjected from time to time to a rearrangement in accordance with fresh circumstances," so that "the past - as something that remains self-identical and is always to be retrieved in the same form - does not exist." Digital memory, by contrast, "consists of indifferent - as it were, undead - points of presence" and "lacks the extended horizon constituting the temporality of the living." The autobiographical form is narrative ("memorial writing"); "a timeline, on the other hand, recounts nothing. It simply enumerates and adds up events or information." This sets the living, forgetting, narrative memory of the self against the undead, total, additive memory of the Digital — Han's [[Psychopolitics]]-register elaboration of the [[Memory]] / [[Storage]] distinction already implicit in his account of narrativity (`Directly stated`).
+
+Finally, narrativity is what Han, reading [[Hegel]], opposes to the merely additive at the level of knowledge itself: "constant addition yields no conclusion, no syllogism," and "Syllogism is not addition, but narration." Because Big Data "is purely additive; it never comes to an end, to a conclusion," it "lacks comprehension … and thus it lacks Spirit," so that "theoretical thinking represents a narrative form of knowledge." Narration here is the form in which beginning and end "form a meaningful set of relations - a unity that makes sense," which is why "Rituals and ceremonies are syllogistic forms too … As narratives, they defy acceleration." The loss of narrativity is thus, once more, the condition of total acceleration — "when all syllogistic forms fall apart … total acceleration sets in" — confirming across both books that, for Han, the crisis is not speed but the dissolution of narrative form (`Directly stated`).
 
 ## Authors and Variants
 
@@ -54,6 +63,8 @@ Narrativity is, finally, a temporal and ontological matter. In the chapter on [[
 - [[Threshold]] — Sites where narrative tension is constituted; "the topology of passion."
 - [[The Novel]] — *Roman*, the form whose "narrative tension" current photography no longer admits.
 - [[Fragrance of Time]] — What "narrative gravity" produces and what transparency annihilates.
+- [[Dataism]] — In *Psychopolitics*, the ideology that absolutizes additive data; its nihilism follows precisely from the fact that "Meaning … is based on narration" while "data … are additive."
+- [[Counting vs Recounting]] — The *Psychopolitics* tension that isolates narrativity's epistemic-ethical claim: "Counting is not recounting"; numbers can be counted but a self, a meaning, and a memory can only be recounted.
 
 ## Opposing Concepts
 
@@ -114,3 +125,29 @@ Relevant passage:
 > The mounting deritualization and denarrativization of society also strip it of forms of symbolic appearance and render it naked.
 
 Supports: Names *denarrativization* explicitly and pairs it with deritualization as a single operation by which the [[Transparency|Society of Transparency]] dismantles "symbolic appearance [Schein]." Establishes narrativity's link to mask, [[Ritual]], and [[Scenic Distance]] as opposed to nakedness, intimacy, and exhibition. Label: `Directly stated`.
+
+### Source 4
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> But no insight into the self can result from data and numbers alone, no matter how exhaustive they are. Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
+
+Supports: Anchors the *Psychopolitics* extension of narrativity into the epistemic-ethical register — the self requires *recounting*, not *counting* — and supplies the punning hinge ("Counting is not recounting") that connects this note to [[Dataism]] and the tension [[Counting vs Recounting]]. Label: `Directly stated`.
+
+### Source 5
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Human memory is a narrative, an account; forgetting forms a necessary component. In contrast, digital memory is a matter of seamless addition and accumulation. Stored data admit counting, but they cannot be recounted. Storage and retrieval are fundamentally different from remembering, which is a narrative process. Likewise, autobiography constitutes a narrative: it is memorial writing. A timeline, on the other hand, recounts nothing. It simply enumerates and adds up events or information.
+
+And:
+
+> Digital memory consists of indifferent - as it were, undead - points of presence. It lacks the extended horizon constituting the temporality of the living.
+
+Supports: Grounds the claim that human memory is narrative and depends on forgetting and rearrangement, against the additive, "undead," total memory of the Digital — the [[Memory]] / [[Storage]] distinction in its *Psychopolitics* form, and the "timeline … recounts nothing" formulation. Label: `Directly stated`.

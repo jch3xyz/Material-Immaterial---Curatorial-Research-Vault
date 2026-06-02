@@ -6,6 +6,7 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]"
+  - "[[raw/Han - Psychopolitics/11 Big Data]]"
 related:
   - "[[The Transparency Society]]"
   - "[[Exhibition Value]]"
@@ -25,7 +26,7 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Pornography (Han)
@@ -41,6 +42,12 @@ Han's deployment of "pornographic" is analytic rather than moral: it designates 
 In the chapter on exhibition, this formal definition is generalized into a diagnosis of the social field. "The society of exhibition is a society of pornography. Everything has been turned outward, stripped, exposed, undressed, and put on show" ([[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]). Pornography is here the social form correlated with [[Exhibition Value]]: the commodity-mode in which "possessing 'no secret,'" the displayed thing "stands 'doomed . . . to immediate devouring.'" Hypervisibility, smoothness, and the elimination of the [[Aura]] are its symptoms; images "filled with exhibition value offer no complexity. They are unambiguous — that is, pornographic." The chapter on evidence then sharpens the contrast with [[Eros]] and [[Seduction]]: "Transparency or straightforwardness would be the end of eros — that is, pornography. Thus it is no accident that our contemporary society of transparency is at the same time a porno-society as well" ([[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]). Pornography appears as the libidinal-economic ruin produced when the [[Secrecy|Secret]], the [[The Veil|Veil]], and ambiguity are dismantled. (Label: Directly stated.)
 
 The dedicated chapter draws the consequences. Against [[Giorgio Agamben]]'s reading of nudity as profanatory, Han insists that "exposure per se is pornographic" and that "the positivity of exhibiting nudity without a veil is pornographic. It lacks erotic luster. The pornographic body is smooth. Nothing interrupts it." The defining formula is structural and post-hermeneutic: "Precisely where the secret vanishes in favor of total exhibition and bareness, pornography begins. It is characterized by penetrating, intrusive positivity" ([[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]). Borrowing [[Roland Barthes]], Han argues that pornographic images are "unary" — without [[Punctum]], without rift — and operate "by direct, tactile, and infectious means. They are post-hermeneutic." The chapter closes by binding this category to Debord: "The society of pornography is a society of the spectacle." Pornography in Han's sense is therefore a name for a whole regime of visibility — smooth, total-exposure, post-hermeneutic, infectious — into which images, bodies, communication, and politics are absorbed. (Label: Directly stated, with Interpretive synthesis across chapters.)
+
+## Psychopolitics (Han) — datasexuality and the pornographic traits of dataism
+
+In *Psychopolitics*, Han carries the structural-formal sense of "pornographic" forward from the visual-erotic field of *The Transparency Society* into his diagnosis of [[Information|dataism]] and Big Data. The same formal logic recurs: where the secret, the veil, and narrative detour vanish in favor of total measurement and exhibition, the pornographic begins. Now, however, the object of the diagnosis is not the image or the body but the datum. Han writes that "numbers and data are not just being absolutized — they are becoming sexualized and fetishized," and that this libidinal investment in the [[The Body as Data|Quantified Self]] gives the new faith its erotic charge: "On the whole, dataism is displaying libidinous — indeed, pornographic — traits. Dataists mate with their data" ([[raw/Han - Psychopolitics/11 Big Data]]). The "datasexual," borrowed via Morozov, is "relentlessly digital" and considers data "sexy"; "the digitus is starling to play the part of the phallus" — the digit (and the act of counting/clicking) usurps the place of desire. (Label: Directly stated; "starling" preserves the raw-source spelling.)
+
+This is the same pornography Han defined in *The Transparency Society* — a regime of total exposure stripped of [[Secrecy|Secret]], [[The Veil|Veil]], and narrative detour — relocated to the order of data. Just as the pornographic image is "additive," "unary," and "post-hermeneutic," so dataism is "purely additive," gives "up on any and all meaning," and substitutes counting for the recounting from which a sense of self derives: "Counting is not recounting." The pornographic trait of dataism is thus the libidinal face of the same elimination of [[Narrativity|narration]] in favor of [[Information|addition]] that drives Han's critique of Big Data; the datasexual's "mating" with data is, formally, the porno-society's "unmediated contact" displaced from eye and image onto the [[The Body as Data|self-measuring subject]] and its datastream. (Label: Interpretive synthesis, anchored to the verbatim quotations above and to the cross-text continuity of Han's definition.)
 
 ## Authors and Variants
 
@@ -179,3 +186,25 @@ Relevant passage:
 > Pornographic, deculturalized images offer nothing to read. They function like advertisements—by direct, tactile, and infectious means. They are posthermeneutic. They do not afford the distance in which studium becomes possible. Their mode of operation does not involve reading but infection and abreaction. Nor does a punctum dwell within them. They empty out into spectacle. The society of pornography is a society of the spectacle.
 
 Supports: Grounds the post-hermeneutic, infectious character of the pornographic and Han's explicit binding of pornography to [[Spectacle]]. Justifies the cross-link to Debord. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> Now, numbers and data are not just being absolutized - they are becoming sexualized and fetishized. This amounts to nothing other than libidinal energy flowing into today's 'Quantified Self. On the whole, dataism is displaying libidinous - indeed, pornographic - traits. Dataists mate with their data. In the meanwhile, there is even talk of 'datasexuals'.
+
+Supports: Extends Han's structural-formal concept of pornography from the visual-erotic order of *The Transparency Society* to the data order — the libidinal-fetishistic investment in the Quantified Self gives dataism "pornographic" traits. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/11 Big Data]]
+Relevant passage:
+
+> They are 'relentlessly digital' and consider data 'sexy'. The digitus is starling to play the part of the phallus.
+
+Supports: The "datasexual" (borrowed via Morozov) figure in which the digit/click usurps the place of desire — the clearest formulation of dataism's pornographic-phallic substitution. ("starling" reproduces the raw source's OCR spelling.) Label: `Directly stated`.

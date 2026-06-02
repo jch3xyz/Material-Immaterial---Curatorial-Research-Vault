@@ -1,7 +1,7 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Link Vocabulary
@@ -179,6 +179,46 @@ Added by *God, Human, Animal, Machine: Technology, Metaphor, and the Search for 
 **references/**: Meghan O'Gieblyn and {René Descartes, Max Weber, Ray Kurzweil, Hans Moravec, Norbert Wiener, David Chalmers, Nick Bostrom, N. Katherine Hayles}. (The O'Gieblyn↔Hayles note is the second vault-internal interpretive reference, on transhumanism/embodiment/the posthuman.)
 
 New **author/figure forward-stubs**: `René Descartes`, `Max Weber`, `David Chalmers`, `Nick Bostrom`, `Max Tegmark`, `Giulio Tononi`, `Frank Tipler`, `Teilhard de Chardin`, `Alan Turing` (existing), plus theological figures (`John Calvin`, `Martin Luther`). Realize if their work is ingested.
+
+---
+
+## Canonical Note Names — Han Psychopolitics ingest (2026-06-02)
+
+Added by *Psychopolitics: Neoliberalism and New Technologies of Power*. Book: `Psychopolitics`. Author: **`Byung-Chul Han` (his SECOND book in the vault)** — the author note was **extended, not duplicated** (Transparency Society content preserved). Source summaries: `Han - Psychopolitics - <chapter>` (13). This was the heaviest cross-book merge yet (27 existing notes gained a Psychopolitics author-section).
+
+**New concepts/** (20): Psychopolitics · Smart Power · Big Data · Dataism · Emotional Capitalism · Gamification · Idiotism · Beyond the Subject · The Event · Immanence and A Life · Capital as Religion · Can vs Should · The Project (Han) · Biopolitics *(realized — was a Foucault forward-stub; now Han-anchored, open to a future Foucault author-section)* · Self-Optimization · Healing as Killing · Allo-Exploitation · Immaterial Labour · Dictatorship of Capital · Immunological Age.
+
+**New definitions/** (4): Psychopolitics (Han) · Smart Power (Han) · Dataism (Han) · Feeling vs Emotion vs Affect (Han).
+
+**New symbols/** (2): The Mole and the Snake · Friendly Big Brother.
+
+**New tensions/** (4): Biopolitics vs Psychopolitics · Discipline vs Control · Subject vs Project · Counting vs Recounting.
+
+**New arguments/** (4): Freedom itself is producing coercion · Foucault failed to make the turn to psychopolitics · Big Data is blind to the event and so blind to the future · Naomi Klein's shock model misreads neoliberal power.
+
+**New references/** (8): `Byung-Chul Han and {Gilles Deleuze, Naomi Klein, Karl Marx, Friedrich Nietzsche, Antonio Negri, George Orwell, Eva Illouz, Bernard Stiegler}`. (Deleuze/Klein/Marx/Nietzsche from the planner; Negri/Orwell/Illouz/Stiegler added in finalize to close dangling cross-author links — "if linked, the page must exist".)
+
+**Cross-book UPDATES** (existing notes that gained a Psychopolitics author-section — do NOT duplicate): `Exploitation of Freedom` · `Auto-Exploitation` · `Achievement Society` · `Digital Panopticon` · `Aperspectival Panopticon (Han)` · `Society of Control` (Deleuze attribution upgraded to Directly-stated) · `Positivity` · `Negativity` · `Information` (now 5-author) · `Smoothness` · `Transparency` · `Hell of the Same` · `Acceleration` · `Hypercommunication` · `Narrativity` · `Pornography (Han)` · `Gleichschaltung` · `The Body as Data` · `The Like Button` (symbol) · `Erfahrung vs Erlebnis (Han)` (def) · `Freedom vs Control` · `Positivity vs Negativity` · `Material vs Immaterial` (now FOUR-author) · `Narration vs Addition` (tensions) · `Byung-Chul Han and Michel Foucault` · `Byung-Chul Han and Hegel` · `Byung-Chul Han and Walter Benjamin` (references) · `The digital panopticon runs on voluntary self-exposure` (argument — now a TWO-book Han argument, extended in finalize).
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Antonio Negri`, `George Orwell`, `Eva Illouz`, `Bernard Stiegler`, `André Gorz`, `Milton Friedman`, `Robert Kurz`, `David Brooks`, `Chris Anderson`, `Zygmunt Bauman`, `David Lyon`, `Evgeny Morozov`, `Botho Strauss`, `Clément Rosset`. `Gilles Deleuze`, `Karl Marx`, `Friedrich Nietzsche` now have reference notes but their author pages remain forward-stubs per policy. One-off figures (Ewen Cameron, Tony Robbins, Csikszentmihalyi, Acxiom) render as plain text, not links.
+
+> Realized this pass: `Biopolitics` (was a committed Foucault forward-stub, now Han-anchored). Still deferred per policy: `Disciplinary Society` (37 refs), `The Digital Unconscious`, `The Ban-opticon`, `Human Capital`, `Immaterial Production`, plus the Psychopolitics-internal argument/symbol stubs in the book/author notes (e.g. `The freedom of Can is more coercive than the disciplinary Should`, `The Smartphone`, `The Psychogram`) — strong candidates for a future orphan-generation pass.
+
+### Psychopolitics-internal variant fixes (applied 2026-06-02, finalize)
+
+Verified variant→canonical rewrites (alias-preserving) caught in the normalization backstop:
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Klein's shock doctrine misreads neoliberal power` | `Naomi Klein's shock model misreads neoliberal power` |
+| `Exhibition Value Exceeds the Marxian Frame` | `Exhibition value is a third value form beyond Marx` |
+| `Biopolitics (Han via Foucault)` | `Biopolitics` |
+| `The Immunological Age` | `Immunological Age` |
+| `Foucault's Disciplinary Society` | `Disciplinary Society` *(forward-stub)* |
+| `Bentham's Panopticon` | `The Panopticon` |
+| `Nietzsche` | `Friedrich Nietzsche` |
+| `Shock (Klein)` | *(no note — unlinked to plain text; covered by `Immunological Age` + the Klein argument)* |
+| `The digital panopticon inverts Orwell from negativity to positivity` | `The digital panopticon runs on voluntary self-exposure` *(retargeted; the two-book argument)* |
 
 ---
 

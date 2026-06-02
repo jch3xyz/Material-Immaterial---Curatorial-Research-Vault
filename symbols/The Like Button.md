@@ -7,6 +7,9 @@ authors:
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
+  - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
+  - "[[raw/Han - Psychopolitics/02 Smart Power]]"
+  - "[[raw/Han - Psychopolitics/10 Gamification]]"
 related:
   - "Society of Positivity"
   - "[[Transparency]]"
@@ -16,10 +19,14 @@ related:
   - "The Same"
   - "Dislike Button"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # The Like Button
+
+## General Orientation
+
+The "Like" button recurs across Han's books in two related but distinct registers. In *The Transparency Society* it is the **emblem of the [[Positivity|Society of Positivity]]** — the affirmative click that keeps [[Hypercommunication]] flowing, the structural reason the "Dislike" button is excluded, and the [[Anesthetic Judgment]] of a viewer who can no longer dwell with an image (see the sections below). In *Psychopolitics* the same button is recast as the **central artifact of smart power and neoliberalism** — its "signal and seal," the "digital Amen," and the metric (Likes / Friends / Followers) through which gamified communication is commercialized and destroyed. The two senses converge on a single thesis: the button is the visible, devotional interface through which subjects voluntarily submit to a power that no longer needs to coerce. (Interpretive synthesis across the two books. Label: `Interpretive synthesis`.)
 
 ## Literal Meaning in the Source
 
@@ -41,6 +48,14 @@ The symbol appears at the close of Han's first chapter on [[Positivity]], as the
 It returns in the chapter on Exhibition in a different register: not as the consensus mechanism of a depoliticized public, but as the aesthetic verdict of a viewer who can no longer dwell with an image. There, "Like" is paired with images that are "unambiguous — that is, pornographic" and lack "all brokenness, which would trigger physical or mental reflection." (Interpretive synthesis across the two chapters: the same button operates as both a political and an aesthetic anesthetic.)
 
 The symbol recurs whenever Han needs a single concrete artifact to point at the otherwise diffuse logic of [[Positivity]], [[Transparency]], and [[Exhibition Value]]. It is the visible tip of an invisible systemic compulsion.
+
+## Psychopolitics (Han) — the capitalism of Like; Likes/Friends/Followers
+
+In *Psychopolitics*, Han elevates the "Like" button from emblem of [[Positivity]] to the **operative interface of [[Smart Power]]**. Disciplinary power said "no"; smart, neoliberal power "beams forth in positivity," guides the will seductively, and "says 'yes' more often than 'no'." Han names the button as the concrete site where this works: "Smart power with a liberal, friendly appearance - power that stimulates and seduces - is more compelling than power that imposes, threatens and decrees. Its signal and seal is the Like button." The button is thus the artifact through which subjects "subjugate themselves to domination by consuming and communicating - and they click Like all the while." On this reading the whole regime can be named after the gesture: neoliberalism is "the capitalism of 'Like'," a system "fundamentally different from nineteenth-century capitalism, which operated by means of disciplinary constraints and prohibitions." (The raw OCR mangles the close-quote on the "capitalism of Like" line; the clean substring is quoted here. Label: `Directly stated`.)
+
+The button also carries a **theological charge**. Among the "devotional objects of the Digital," the smartphone "works like a rosary" — a "mobile confessional" delegating surveillance to "discrete individuals." Within this liturgy the click is an act of worship: "Like is the digital Amen. When we click Like, we are bowing down to the order of domination." The "Like" verdict is no longer merely an [[Anesthetic Judgment]] of taste but a gesture of submission — a digital "Amen" performed before "the church - the global synagogue (literally, 'assembly') of the Digital." (Label: `Directly stated`.)
+
+Finally, in the chapter on **Gamification**, Han extends the metric beyond the single button to the full scorekeeping of social media. "Emotional capitalism is gamifying the life- and working world," and "the gamification logic of 'Likes', 'Friends' and 'Followers' means that social communication is also being plugged into and subordinated to game mode." The cost is explicit: "The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication." The Like button, in this register, is the entry point to a quantified, gamified, and ultimately self-defeating apparatus of communication. (This confirms the symbol's scope already covers gamified-communication metrics, so no near-duplicate symbol is minted. Label: `Directly stated`.)
 
 ## Related Concepts, Metaphors, and Tensions
 
@@ -83,3 +98,36 @@ Relevant passage:
 > Today visual communication occurs through infection, abreaction, or reflex. It lacks all aesthetic reflection. Its aestheticization is ultimately anesthetic. The judgment of taste expressed in "Like," for example, requires no sustained contemplation. Images filled with exhibition value offer no complexity. They are unambiguous — that is, pornographic. They lack all brokenness, which would trigger physical or mental reflection.
 
 Supports: Grounds the reading of "Like" as an [[Anesthetic Judgment]] — a verdict that bypasses [[Aesthetic Contemplation]] and pairs with images saturated by [[Exhibition Value]]. Connects the button to the broader claim that [[Transparency]] flattens images into the pornographic. Label: `Directly stated`.
+
+### Source 3
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/02 Smart Power]]
+Relevant passage:
+
+> Smart power with a liberal, friendly appearance - power that stimulates and seduces - is more compelling than power that imposes, threatens and decrees. Its signal and seal is the Like button. Now, people subjugate themselves to domination by consuming and communicating - and they click Like all the while. Neoliberalism is the capitalism of 'Like'. It is fundamentally different from nineteenth-century capitalism, which operated by means of disciplinary constraints and prohibitions.
+
+Supports: Establishes the "Like" button as the "signal and seal" of [[Smart Power]], the seductive, positive, permissive power of the neoliberal regime, and names that regime "the capitalism of 'Like'." (The source line carries an OCR artifact on the closing quotation mark of "capitalism of 'Like'"; the clean substring is quoted.) Label: `Directly stated`.
+
+### Source 4
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/01 The Crisis of Freedom]]
+Relevant passage:
+
+> Smartphones represent digital devotion - indeed, they are the devotional objects of the Digital, period. As a subjectivation-apparatus, the smartphone works like a rosary - which, because of its ready availability, represents a handheld device too. Both the smartphone and the rosary serve the purpose of self-monitoring and control. Power operates more effectively when it delegates surveillance to discrete individuals. Like is the digital Amen. When we click Like, we are bowing down to the order of domination. The smartphone is not just an effective surveillance apparatus; it is also a mobile confessional. Facebook is the church - the global synagogue (literally, 'assembly') of the Digital.
+
+Supports: Grounds the theological register — "Like is the digital Amen" — and frames the click as an act of submission ("bowing down to the order of domination") within a digital liturgy (smartphone as rosary / confessional, Facebook as church). Connects the symbol to the [[Digital Panopticon]] and voluntary self-monitoring. Label: `Directly stated`.
+
+### Source 5
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/10 Gamification]]
+Relevant passage:
+
+> Today, the gamification logic of 'Likes', 'Friends' and 'Followers' means that social communication is also being plugged into and subordinated to game mode. The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication.
+
+Supports: Confirms that the symbol's scope covers the gamified-communication metric (Likes / Friends / Followers), and that this gamification commercializes and ultimately destroys human communication. Establishes the link to [[Gamification]] and [[Emotional Capitalism]]. Label: `Directly stated`.

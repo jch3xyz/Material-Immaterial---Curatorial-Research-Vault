@@ -6,6 +6,9 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/09 Ch6 - Intimacy]]"
+  - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
+  - "[[raw/Han - Psychopolitics/07 Shock]]"
+  - "[[raw/Han - Psychopolitics/13 Idiotism]]"
 related:
   - "[[Secrecy|The Secret]]"
   - "[[The Threshold]]"
@@ -25,10 +28,14 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Negativity
+
+## General Orientation
+
+"Negativity" is, in this vault, a [[Byung-Chul Han]] term of art, and it carries more than one sense across his books. In *The Transparency Society* it names the productive force of *distinction, concealment, and otherness* — the friction that resists frictionless circulation and conditions thinking, eros, and politics (developed in the sections below). In *Psychopolitics* the term takes on two further, sharper registers that are easy to confuse and must be kept apart: (1) a **vital-existential** register, where negativity is *constitutive of life, experience, and the soul* — pain "is constitutive for experience (Erfahrung)" — and its absence reduces life to "something dead" (ch.6); and (2) a **disciplinary** register, where negativity is the signature of *shock* — "paralyzing and annihilating the contents of the psyche" — which Han uses to mark the difference between old disciplinary power and the *positive* psychopolitics of neoliberalism (ch.7). A third, redemptive register appears in the figure of the idiot, where the field of immanence is itself "negativity, wresting the subject out of itself" (ch.13). The first and third are negativity *to be defended*; the second is negativity *as violence* — and Han is explicit that "the violence of positivity is just as destructive as the violence of negativity" (ch.6). (Label: `Directly stated` for the distinctions; `Interpretive synthesis` for the three-register framing.)
 
 ## Brief Definition
 
@@ -42,11 +49,19 @@ Negativity is constitutive of thought. In the chapter on [[Acceleration]], Han w
 
 Negativity is also the condition of eros and of meaning. "Precisely the negativity of the secret, the veil, and concealment incite desire and make pleasure more intense" (Ch.3); the seducer plays with masks and ambiguity, and transparency would be "the end of eros — that is, [[Pornography (Han)|pornography]]." In the same key, Han's reading of narrative space in Ch.5 locates meaning at thresholds: "Meanings arise only at thresholds and in transitions, indeed, through obstacles." When the [[Intimacy as Psychological Formula of Transparency|society of intimacy]] eliminates the outside and folds everything into the comfort zone of the same, "no negativity stands available to make change possible" (Ch.6). The political stake of negativity is thus visible across registers: without the negativity of distinction, opinion replaces ideology; without the negativity of the [[Arcanum|arcanum]], politics collapses into theatocracy; without the negativity of obstacle, the path of a pilgrimage degenerates into the tourist's empty passage. (Label: `Directly stated` to `Interpretive synthesis` for the cross-register reading.)
 
+## Psychopolitics (Han) — negativity as constitutive of life and resistance
+
+In *Psychopolitics*, Han carries negativity from the diagnostics of the smooth society into the domain of life, the soul, and resistance. Against the neoliberal "imperative of self-optimization" — the "healing" that "therapeutically eliminate[s] any and all functional weakness or mental obstacle" — Han insists that the human person cannot be subordinated "to the dictates of [[Positivity|positivity]] entirely. Without negativity, life degrades into 'something dead'. Indeed, negativity is what keeps life alive. Pain is constitutive for experience ([[Erfahrung vs Erlebnis (Han)|Erfahrung]])." A "life that consists wholly of positive emotions and the sensation of 'flow'" "is not human at all"; the soul "owes its defining tautness and depth precisely to negativity" (ch.6, citing Nietzsche on the "discipline of great suffering"). This is the vital-existential register: negativity is not a defect to be optimized away but the condition of experience, depth, and being human, which is why Han warns that "the violence of positivity is just as destructive as the violence of negativity" — and why the "machine of positivity" that neoliberal psychopolitics would make of the soul amounts to "killing." (Label: `Directly stated`.)
+
+The "Shock" chapter (ch.7) supplies the contrasting, *disciplinary* register, which Han is at pains to distinguish from the foregoing. Reading Naomi Klein's two "Doctor Shocks" — the psychiatrist Ewen Cameron and the economist Milton Friedman — Han identifies shock therapy as "a genuinely disciplinary technique," one that "owes its efficacy to paralyzing and annihilating the contents of the psyche. Its essential trait is negativity." Cameron's "de-branding" and "re-branding" of the psyche, and Friedman's "depatterning" of societies "back to a state of 'natural' health," both operate by negative threat: by wiping the slate clean. This is precisely *not* how neoliberal power works. "Neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering 'bitter medicine', it enlists Liking" — it "seduces the soul" rather than shocking it. Negativity here names the *old* coercion ([[Smart Power|smart power]] has superseded it), so that Klein's "theory of shock blinds her to the actual workings of neoliberal psychopolitics." (Label: `Directly stated`.)
+
+Finally, in "Idiotism" (ch.13) negativity returns as the structure of *resistance and release*. The idiot — "unallied, un-networked, and uninformed," the heretic who "preserves the magic of the outsider" against "the violence of consensus" — gains access to a "field of immanence" that "eludes subjectivation and psychologization altogether." This sphere of [[Immanence and A Life|immanence]] is, in Han's gloss on Deleuze, "the matrix of de-subjectivation and de-psychologization. It is negativity, wresting the subject out of itself and liberating it into the 'immensity of an empty time'." Here negativity is no longer the friction of distinction (as in *Transparency Society*) nor the violence of shock (ch.7), but the emptying-out by which the self is loosened from itself — a negativity that runs *with*, not against, the freedom of "A LIFE." (Label: `Directly stated` for the quotations; `Interpretive synthesis` for situating it among the registers.)
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Negativity is the master counter-concept of *The Transparency Society*. It is the form taken by [[The Other]], the [[Secrecy|secret]], [[Suffering]], [[Theory]], and Hegelian self-difference. Han treats it as productive, generative, and as the precondition for change, eros, and thought.
 - **[[Hegel]]** — Han's explicit source. Spirit gains its power by "looking the negative in the face and tarrying with it" (Ch.1); negativity is what allows the dialectic to convert itself into being.
-- **[[Nietzsche]]** — Cited by Han as a thinker for whom suffering and the mask are forms of negativity that produce depth: "the human soul owes its depth, grandeur, and strength precisely to the time it spends with the negative" (Ch.1). Label: `Directly stated` (within Han).
+- **[[Friedrich Nietzsche]]** — Cited by Han as a thinker for whom suffering and the mask are forms of negativity that produce depth: "the human soul owes its depth, grandeur, and strength precisely to the time it spends with the negative" (Ch.1). Label: `Directly stated` (within Han).
 - **[[Herbert Marcuse]]** (Speculative connection) — Han's productive negativity resonates with the negative dialectical impulse Marcuse inherits from the Frankfurt School; in [[Eros and Civilization]] the refusal of one-dimensional positivity has structural similarities, but Han does not cite him here.
 - **[[Guy Debord]]** (Speculative connection) — The [[The Society of the Spectacle|spectacle]] as a regime of pure positivity/visibility runs parallel to Han's transparency; both rely on the elimination of an outside.
 
@@ -144,3 +159,47 @@ Relevant passage:
 > Social media and personalized search engines set up, in the internet, a space of absolute closeness [Nahraum]; here the outside has been eliminated. One encounters only oneself and one's own life. No negativity stands available to make change possible.
 
 Supports: Names the political-historical stake of negativity. When the [[Intimacy as Psychological Formula of Transparency|intimate sphere]] absorbs the outside, the precondition for any change — encountering what one is not — is foreclosed. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/06 Healing as Killing]]
+Relevant passage:
+
+> It is impossible to subordinate human personhood to the dictates of positivity entirely. Without negativity, life degrades into ‘something dead’. Indeed, negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung). Life that consists wholly of positive emotions and the sensation of ‘flow’ is not human at all. The human soul owes its defining tautness and depth precisely to negativity
+
+Supports: The vital-existential register — negativity as constitutive of life, experience, and the soul; the optimization that purges it reduces life to "something dead" and the soul to a "machine of positivity." Label: `Directly stated`.
+
+### Source 8
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/06 Healing as Killing]]
+Relevant passage:
+
+> But the violence of positivity is just as destructive as the violence of negativity. Neoliberal psychopolitics, with the consciousness industry it promotes, is destroying the human soul, which is anything but a machine of positivity (Positivmaschine).
+
+Supports: Guards against reading Han as a simple partisan of negativity — negativity, too, can be violence. This is the hinge that separates the constitutive register (ch.6, defended) from the disciplinary register (ch.7, shock). Label: `Directly stated`.
+
+### Source 9
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/07 Shock]]
+Relevant passage:
+
+> Electroshock owes its efficacy to paralyzing and annihilating the contents of the psyche. Its essential trait is negativity. In contrast, neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering ‘bitter medicine’, it enlists Liking.
+
+Supports: The disciplinary register — negativity as the signature of shock (paralysis, annihilation, depatterning), which Han distinguishes from the positivity of neoliberal [[Smart Power|psychopolitics]]. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/13 Idiotism]]
+Relevant passage:
+
+> The sphere of immanence to which the idiot gains admittance is the matrix of de-subjectivation and de-psychologization. It is negativity, wresting the subject out of itself and liberating it into the 'immensity of an empty time’.
+
+Supports: The redemptive register — the field of [[Immanence and A Life|immanence]] opened by the idiot is itself negativity, the emptying-out that loosens the subject from itself; negativity here runs with the freedom of "A LIFE," not against it. Label: `Directly stated`.

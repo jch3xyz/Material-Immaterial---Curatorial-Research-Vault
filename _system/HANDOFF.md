@@ -1,7 +1,7 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Handoff — continuing the vault in a fresh chat
@@ -31,8 +31,12 @@ page is the operating manual.
 
 ## Ingest protocol (the whole loop)
 
-1. **Pick a book** not yet in the cache. (As of 2026-06-01: Han–Transparency, Hayles–Posthuman,
-   Lippard–Six Years, O'Gieblyn–God Human Animal Machine are DONE. 23 remain.)
+1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
+   Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics are DONE. 22 remain.)
+   **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
+   (they read the target and extend it if it exists), so a second book by an already-ingested author
+   (e.g. Han's *Burnout Society*, the Kurzweil/Harari pairs) extends the existing author note rather
+   than overwriting it. Pass a strong `updateHints` listing the existing notes to merge into.
 2. **Inspect**: `ls "raw/<Author - Book>/"` and `wc -l` to find substantive chapters. Skip
    About / Front Matter / Contents / Notes / Index / Acknowledgments / Bibliography.
 3. **Hash**: `cd "raw/<Author - Book>" && for f in <files>; do shasum -a 256 "$f"; done`.

@@ -9,6 +9,8 @@ sources:
     passage: "Not lonesomeness through isolation, but hypercommunication guarantees transparency."
   - source_file: "raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control.md"
     passage: "While occupants of the Benthamian panopticon are aware of the supervisor's constant presence, the inhabitants of the digital panopticon think that they are free."
+  - source_file: "raw/Han - Psychopolitics/08 Friendly Big Brother.md"
+    passage: "The digital panopticon thrives on its occupants' voluntary self-exposure. Self-exploitation and self-illumination follow the same logic. In either case, freedom is exploited."
 related_arguments:
   - "[[Transparency dismantles trust]]"
   - "[[Auto-exploitation is more efficient than allo-exploitation]]"
@@ -18,7 +20,7 @@ tensions:
   - "[[Disciplinary society vs achievement society]]"
   - "[[Privacy vs exhibition]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # The digital panopticon runs on voluntary self-exposure
@@ -71,6 +73,16 @@ The argument thus reframes surveillance theory after Foucault. The constitutive 
 - [[Freedom vs Control|Freedom vs control]] — the argument's central paradox: freedom turns out to be a form of control.
 - [[Disciplinary society vs achievement society]] — the periodization on which the supersession claim rests.
 - [[Privacy vs exhibition]] — the affective inversion by which the fear of losing privacy yields to the need to display oneself.
+
+## Byung-Chul Han, Psychopolitics — Friendly Big Brother (the Orwell inversion)
+
+In *Psychopolitics* chapter 8, [[Byung-Chul Han]] restates and sharpens the voluntary-self-exposure thesis by placing it in explicit contrast with [[George Orwell]]'s *1984*. Han's summary of Orwell foregrounds the apparatus of coercion — Newspeak, the telescreen, torture chambers, the "Ministry of Truth," permanent war — as expressions of a constitutive [[Negativity]]: prohibition, repression, enforced scarcity, brainwashing. This is Han's characterization of Orwell's surveillance state, not a direct quotation from Orwell. Against that negativity, Han sets [[Positivity]]: "The neoliberal technology of power does not prohibit, protect or repress; instead, it prospects, permits and projects. Consumption is not held in check, but maximized." The [[Digital Panopticon]] operates by multiplication, not elimination — of words, of connections, of disclosures — so that surveillance becomes indistinguishable from participation. Label: `Directly stated`.
+
+The pivot on which the chapter turns is the substitution of friendliness for menace. Han notes that in Bentham's model the supervisor was invisible but psychically omnipresent; inmates interiorized him. In the digital panopticon the watcher disappears in a different way: inhabitants "never really feel that they are being watched or threatened." It is precisely this absence of felt threat — this felt freedom — that is identified as "the problem." The chapter's most compressed formulation makes the continuity between *The Transparency Society* argument and this *Psychopolitics* restatement unmistakable:
+
+> The digital panopticon thrives on its occupants' voluntary self-exposure. Self-exploitation and self-illumination follow the same logic. In either case, freedom is exploited. The digital panopticon lacks a Big Brother wresting information from us against our will. Instead, we lay ourselves bare voluntarily.
+
+Label: `Directly stated`. This passage is the *Psychopolitics* restatement of [[Exploitation of Freedom]]: the claim already made in *The Transparency Society* that the society of control "exploits freedom" reaches here its most succinct form, now anchored in the contrast with Orwell. The [[Friendly Big Brother]] is friendly not as a softening of power but as its perfection — [[Smart Power]] operating through consent and desire rather than force. Han's coda on the 1984 Apple advertisement makes the irony explicit: the machine that promised liberation from the Orwellian surveillance state inaugurated a new, more thorough control society in which "communication and control have become one, without remainder" and "everyone is his or her own panopticon." Label: `Directly stated`.
 
 ## Sources
 
@@ -139,3 +151,14 @@ Relevant passage:
 > Today surveillance is not occurring as an attack on freedom, as is normally assumed. Instead, people are voluntarily surrendering to the panoptic gaze. They deliberately collaborate in the digital panopticon by denuding and exhibiting themselves. The prisoner in the digital panopticon is a perpetrator and a victim at the same time. Herein lies the dialectic of freedom. Freedom turns out to be a form of control.
 
 Supports: The concluding formulation of the argument — voluntariness is the precise feature that distinguishes the digital from the disciplinary panopticon, and the [[Freedom vs Control|Dialectic of Freedom]] is named explicitly. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: [[Byung-Chul Han]]
+Raw file: [[raw/Han - Psychopolitics/08 Friendly Big Brother]]
+Relevant passage:
+
+> The digital panopticon thrives on its occupants' voluntary self-exposure. Self-exploitation and self-illumination follow the same logic. In either case, freedom is exploited. The digital panopticon lacks a Big Brother wresting information from us against our will. Instead, we lay ourselves bare voluntarily.
+
+Supports: *Psychopolitics* ch. 8 restates the voluntary-self-exposure thesis in its sharpest form, explicitly contrasting the [[Digital Panopticon]]'s regime of [[Positivity]] (permits, projects, maximizes) with [[George Orwell]]'s *1984* apparatus of [[Negativity]] (prohibits, represses, tortures). The chapter makes the [[Exploitation of Freedom]] formulation succinct — "in either case, freedom is exploited" — and introduces the [[Friendly Big Brother]] figure as the name for surveillance that operates through consent rather than coercion. Label: `Directly stated`.

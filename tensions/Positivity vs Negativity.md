@@ -11,6 +11,10 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information]]"
+  - "[[raw/Han - Psychopolitics/02 Smart Power]]"
+  - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
+  - "[[raw/Han - Psychopolitics/07 Shock]]"
+  - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[The Same]]"
@@ -25,13 +29,25 @@ related_concepts:
   - "[[Information]]"
   - "[[Dialectic]]"
   - "[[Hermeneutics]]"
+  - "[[Smart Power]]"
+  - "[[Psychopolitics]]"
+  - "[[Digital Panopticon]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Positivity vs Negativity
 
 This is the **spine pair** of [[The Transparency Society]]. Every other opposition Han stages in the book — [[Cult Value vs Exhibition Value (Han via Benjamin)|Cult Value vs Exhibition Value]], [[Eros vs Pornography]], [[Secret vs Information]], [[Distance vs Proximity]], [[Truth vs Transparency]] — is a regional extension of this master opposition. Han's diagnostic claim is that contemporary society is undergoing a paradigm shift in which negativity is being systematically dismantled in favor of positivity, and that this shift is the underlying logic of [[Transparency]] itself.
+
+## General Orientation
+
+The same Han opposition — positivity vs negativity — operates in two distinct registers across his books, and the two should be kept separate.
+
+- **The information register** (*[[The Transparency Society]]*). Here positivity vs negativity names a transformation of *appearance, meaning, and the medium*: the dismantling of the secret, distance, the gap, the *punctum*, and dialectical depth in favor of the smooth, leveled, exhibited, fully visible. This is the register that the body of this note (above and below) develops. Its social form is [[Transparency]]; its medial form is [[Information]].
+- **The power register** (*[[Psychopolitics]]*). Here the very same opposition names two *technologies of domination*: disciplinary power, which is "commanded by negativity" — prohibition, threat, shock, the "no" that shatters the will — versus the neoliberal regime, which "beams forth in positivity" — permission, stimulus, Liking, seduction, the "yes" that meets the subject halfway (`Directly stated`, [[raw/Han - Psychopolitics/02 Smart Power]]). The section [[#Psychopolitics (Han) — positivity vs negativity as a theory of power]] develops this register and should not be read as a duplicate of the Transparency-Society material: it transposes positivity/negativity from *how things appear* to *how power works*.
+
+The connective tissue between the two registers is that both diagnose a single historical tipping from negativity to positivity; but the *Psychopolitics* treatment adds a claim the Transparency book does not foreground — that the positive technology is more efficient, more total, and "just as destructive" as the negative one it replaces.
 
 ## The Poles
 
@@ -51,9 +67,18 @@ Reading positivity vs negativity as the spine pair lets the reader translate Han
 
 Without this spine, Han's book looks like a list of complaints. With it, the book is a single argument: the social field has lost its capacity to bear the negative.
 
+## Psychopolitics (Han) — positivity vs negativity as a theory of power
+
+In *[[Psychopolitics]]* Han re-cuts the same opposition into a typology of power, distinguishing two technologies of domination by their relation to negativity. **Disciplinary power is the power of negativity.** It works by exclusion, prohibition, and the threat that says "no": "Only in its negative form does power manifest itself as a violence that says 'no' by shattering the will and annulling freedom. … Disciplinary power is still commanded by negativity. Its mode of articulation is inhibitive, not permissive" (`Directly stated`, [[raw/Han - Psychopolitics/02 Smart Power]]). Its limit case is the literal negativity of **shock**: the disciplinary, biopolitical technique whose efficacy "owes … to paralyzing and annihilating the contents of the psyche," whose "essential trait is negativity" ([[raw/Han - Psychopolitics/07 Shock]]). Against this stands the **neoliberal regime, which "beams forth in positivity."** It does not break the will but guides it; it works not against freedom but through it: "Today, power is assuming increasingly permissive forms. In its permissivity — indeed, in its friendliness — power is shedding its negativity and presenting itself as freedom" (`Directly stated`, [[raw/Han - Psychopolitics/02 Smart Power]]). This is [[Smart Power|smart power]], the "capitalism of 'Like'," whose "signal and seal is the [[The Like Button|Like button]]."
+
+The transposition is exact: every figure of negative power has a positive successor. Where shock therapy "administer[s] 'bitter medicine'," "neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering 'bitter medicine', it enlists Liking" (`Directly stated`, [[raw/Han - Psychopolitics/07 Shock]]). Han stages the same inversion historically against Orwell's surveillance state, the paradigm of negative power — telescreens, torture, the destruction of words, the production of scarcity. In the [[Digital Panopticon|digital panopticon]] this is reversed pole for pole: "The neoliberal technology of power does not prohibit, protect or repress; instead, it prospects, permits and projects. … The principle of negativity, which still defined Orwell's, state, has yielded to the principle of positivity. Needs are not repressed, but stimulated. Confession obtained by force has been replaced by voluntary disclosure" (`Directly stated`, [[raw/Han - Psychopolitics/08 Friendly Big Brother]]). Hence the [[Friendly Big Brother|friendly Big Brother]]: "Smartphones have been substituted for torture chambers. Big Brother now wears a friendly face. His friendliness is what makes surveillance so efficient." The crucial efficiency claim is that positive power is *stronger* than negative power — "Friendly power proves more powerful, as it were, than purely repressive power. It manages not to be seen at all" — because it is interiorized as freedom and so meets no resistance; this is why positivity is not a softening of domination but its perfection (`Directly stated`, [[raw/Han - Psychopolitics/02 Smart Power]]).
+
+What keeps this register from collapsing into mere preference for the negative is Han's symmetry thesis: the positive technology is not benign. Self-optimization that "enlists Liking" still destroys: "the violence of positivity is just as destructive as the violence of negativity. Neoliberal psychopolitics, with the consciousness industry it promotes, is destroying the human soul, which is anything but a machine of positivity" (`Directly stated`, [[raw/Han - Psychopolitics/06 Healing as Killing]]). And the diagnosis is not, finally, that negativity is bad and positivity good, but that a soul subjected "to the dictates of positivity entirely" is no longer a human soul at all: "Without negativity, life degrades into 'something dead'. Indeed, negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung)" (`Directly stated`, [[raw/Han - Psychopolitics/06 Healing as Killing]]). The power register thus arrives at the same valuation as the information register — negativity is the condition of depth, experience, and life — but it reaches it by way of a theory of *domination* rather than a theory of *appearance*. Disciplinary negativity at least left the subject able to feel the wall it pressed against; neoliberal positivity removes the wall and, with it, the subject's capacity to know it is unfree. (`Interpretive synthesis`, across [[raw/Han - Psychopolitics/02 Smart Power]], [[raw/Han - Psychopolitics/06 Healing as Killing]], and [[raw/Han - Psychopolitics/08 Friendly Big Brother]].)
+
 ## Authors and Books That Discuss It
 
 - [[Byung-Chul Han]] in [[The Transparency Society]] — frames the entire book as the diagnosis of a "society of negativity . . . yielding to a society that progressively dismantles negativity in favor of positivity" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
+- [[Byung-Chul Han]] in [[Psychopolitics]] — transposes the opposition into a typology of power: disciplinary "negativity" (prohibition, threat, shock) versus the neoliberal "positivity" of [[Smart Power|smart power]] (permission, stimulus, Liking, seduction), with the thesis that "the violence of positivity is just as destructive as the violence of negativity" ([[raw/Han - Psychopolitics/06 Healing as Killing]]).
 - [[Hegel|G. W. F. Hegel]] (cited by Han) — supplies the dialectical concept of negativity Han defends: Spirit has "power . . . only by looking the negative in the face and tarrying with it" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Friedrich Nietzsche]] (cited by Han) — supplies the claim that depth, "profundity, secret, mask, spirit, cunning, greatness" are granted "through suffering, through the discipline of great suffering" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Walter Benjamin]] (cited by Han) — supplies the cult-value/exhibition-value distinction and the claim that beauty requires the secret of the veil ([[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]], [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]).
@@ -88,6 +113,14 @@ Without this spine, Han's book looks like a list of complaints. With it, the boo
 - [[Hell of the Same]]
 - [[The Postpolitical]]
 - [[Acceleration]]
+- [[Smart Power]]
+- [[Psychopolitics]]
+- [[Digital Panopticon]]
+- [[Friendly Big Brother]]
+- [[Self-Optimization]]
+- [[Auto-Exploitation]]
+- [[Achievement Society]]
+- [[Society of Control]]
 
 ## Possible Synthesis or Unresolved Status
 
@@ -223,3 +256,47 @@ Relevant passage:
 > Compulsive transparency stabilizes the existing system most effectively. Transparency is inherently positive. It does not harbor negativity that might radically question the political-economic system as it stands.
 
 Supports: Grounds the second, more pessimistic reading under "Possible Synthesis": positivity is systemically self-reinforcing because it forecloses the negativity through which the system could be questioned. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/02 Smart Power]]
+Relevant passage:
+
+> Disciplinary power is still commanded by negativity. Its mode of articulation is inhibitive, not permissive. Because it is negative, it does not describe the neoliberal regime - which beams forth in positivity.
+
+Supports: Grounds the power register of the tension under "Psychopolitics (Han)": negative (disciplinary) power vs positive (neoliberal) power. Distinct from the Transparency-Society information register. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/07 Shock]]
+Relevant passage:
+
+> In contrast, neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering 'bitter medicine', it enlists Liking.
+
+Supports: The canonical contrast of the power register — threat/shock (negativity) vs stimulus/Liking (positivity) — and the claim that the disciplinary technique of shock is the limit case of negative power. Label: `Directly stated`.
+
+### Source 14
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/08 Friendly Big Brother]]
+Relevant passage:
+
+> The principle of negativity, which still defined Orwell's, state, has yielded to the principle of positivity. Needs are not repressed, but stimulated. Confession obtained by force has been replaced by voluntary disclosure.
+
+Supports: The historical staging of the inversion (Orwell's negative surveillance state vs the positive digital panopticon), anchoring the [[Friendly Big Brother]] and [[Digital Panopticon]] links. Quoted verbatim, including the stray comma ("Orwell's, state") present in the raw source as an OCR artifact. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Psychopolitics: Neoliberalism and New Technologies of Power*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - Psychopolitics/06 Healing as Killing]]
+Relevant passage:
+
+> But the violence of positivity is just as destructive as the violence of negativity. Neoliberal psychopolitics, with the consciousness industry it promotes, is destroying the human soul, which is anything but a machine of positivity (Positivmaschine).
+
+Supports: The symmetry thesis that keeps the power register from being a simple preference for the negative — positive power is "just as destructive" as negative power. Label: `Directly stated`.

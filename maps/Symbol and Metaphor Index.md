@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Symbol and Metaphor Index
@@ -11,6 +11,7 @@ All symbol and metaphor notes.
 ## Metaphors
 
 - [[Hell of the Same]] — equivalence as monocultural inferno
+- [[The Mole and the Snake]] — Deleuze's paired animals: the disciplinary mole of enclosure vs the neoliberal snake of modulation (Han, Psychopolitics)
 - [[The Glassy Human]] — the subject rendered see-through by transparency
 - [[Fragrance of Time]] — thick narrative temporality transparency annihilates
 - [[Procession vs Processor]] — Han's etymological wordplay on procedere
@@ -33,7 +34,8 @@ All symbol and metaphor notes.
 
 ## Symbols
 
-- [[The Like Button]] — emblem of consensus-positivity
+- [[The Like Button]] — emblem of consensus-positivity; the capitalism of Like, Like as the digital Amen (Psychopolitics)
+- [[Friendly Big Brother]] — the benevolent-faced watcher who is loved, not feared; the digital panopticon's affable sovereign (Han, Psychopolitics)
 - [[The Mask]] — persona, Schein, symbolic appearance transparency wars against
 - [[The Panopticon]] — architectural figure of surveillance, now distributed and voluntary
 - [[The Transparent Customer]] — homo sacer of the economic panopticon

@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Vault Home
@@ -47,7 +47,7 @@ Links above may resolve to existing notes or to stubs — they mark commitments,
 
 ## Status
 
-**Four books are now ingested.** The prototype ingest of `Byung-Chul Han - The Transparency Society` (10 chapters), the ingest of `N. Katherine Hayles - How We Became Posthuman` (12 chapters), the ingest of `Lucy Lippard - Six Years`, and the ingest of `Meghan O'Gieblyn - God Human Animal Machine` are all **complete**: analyzed, synthesized, and rendered into the interpretive layer (books, authors, source summaries, concepts, arguments, definitions, metaphors, symbols, tensions, references). With Lippard the art stubs [[New Media Art]] and [[Art as Experiential Technology]] are now partly realized via conceptual art and the dematerialized object; with O'Gieblyn the metaphor stub [[Mind as Machine]] is now **realized**. Other books remain raw-only — see [[_system/log|Processing Log]] for full history and next steps.
+**Five books are now ingested.** The prototype ingest of `Byung-Chul Han - The Transparency Society` (10 chapters), the ingest of `N. Katherine Hayles - How We Became Posthuman` (12 chapters), the ingest of `Lucy Lippard - Six Years`, the ingest of `Meghan O'Gieblyn - God Human Animal Machine`, and the ingest of `Byung-Chul Han - Psychopolitics` are all **complete**: analyzed, synthesized, and rendered into the interpretive layer (books, authors, source summaries, concepts, arguments, definitions, metaphors, symbols, tensions, references). With Lippard the art stubs [[New Media Art]] and [[Art as Experiential Technology]] are now partly realized via conceptual art and the dematerialized object; with O'Gieblyn the metaphor stub [[Mind as Machine]] is now **realized**; with Psychopolitics the concept stub [[Biopolitics]] is now **realized** as the periodizing foil to psychopolitics. Other books remain raw-only — see [[_system/log|Processing Log]] for full history and next steps.
 
 Highlight notes from the Han ingest:
 
@@ -72,3 +72,9 @@ Highlight notes from the O'Gieblyn ingest:
 - [[Technology as Metaphor]] — the book's central method: each era reads self and cosmos through its dominant machine; [[Mind as Machine]] is the realized stub
 - [[All the eternal questions have become engineering problems]] — the book's thesis: theology migrated into engineering and AI
 - [[Meghan O'Gieblyn and N. Katherine Hayles]] — the cross-book bridge: transhumanism and the posthuman read theologically
+
+Highlight notes from the Psychopolitics ingest:
+
+- [[Psychopolitics]] — the titular master concept: neoliberal power that steers the psyche
+- [[Freedom itself is producing coercion]] — the book's central, most curatorially load-bearing thesis
+- [[Biopolitics vs Psychopolitics]] — the periodizing tension, with [[Biopolitics]] now a realized stub

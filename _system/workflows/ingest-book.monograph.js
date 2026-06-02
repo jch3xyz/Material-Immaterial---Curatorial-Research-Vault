@@ -174,6 +174,7 @@ const interpPrompt = (n) => {
   const cand=(n.candidate_passages||[]).map(c=>`  - From \`${c.chapter_file}\`:\\n    > ${c.quote}`).join('\\n')
   return `You are the generation pass. Write ONE new wiki note. The file IS the deliverable.
 ## Write to: \`${n.file_path}\`
+## Idempotency guard: FIRST check whether this file already exists. It should be NEW. If it already exists (the planner mis-routed an existing note as a create), do NOT overwrite — instead PRESERVE all existing content and add a clearly-marked \`## ${AUTHOR} (${BOOK_TITLE})\` subsection plus a new \`## Sources\` entry, exactly as an update would. Otherwise create it fresh.
 ## Kind: ${n.kind} — ${KIND_GUIDE[n.kind]}
 ## Title: ${n.title}
 ## Scope: ${n.scope}
@@ -192,9 +193,11 @@ Use \`${VAULT}/_system/templates/book.md\`. Realize the forward-stub [[${BOOK_TI
 ${LINKRULE}
 Return only the path.`
 
-const authorPrompt = `Write the AUTHOR note. The file IS the deliverable.
-## Write to: \`${authorTask.file_path}\`
-Use \`${VAULT}/_system/templates/author.md\`. Central concerns, major concepts/arguments (link the real notes created this ingest), characteristic metaphors, related authors (forward-stubs), disagreements/tensions. Frontmatter: type author, name ${AUTHOR}, books [[${BOOK_TITLE}]], last_updated ${TODAY}.
+const authorPrompt = `Write or EXTEND the AUTHOR note for ${AUTHOR}. The file IS the deliverable.
+## Target: \`${authorTask.file_path}\`
+FIRST read the target path to see whether it already exists.
+- **If it ALREADY EXISTS** (a prior book by this author was ingested): PRESERVE ALL existing content — never overwrite or delete. Extend it: ensure [[${BOOK_TITLE}]] is in the \`books:\` frontmatter and rewrite its "Books in the Vault" line for this title from "not yet processed / forward link" to ingested (with this book's chapter links: ${tocLinks}); add a clearly-marked subsection (or merge bullets into the existing sections) for the concepts / arguments / metaphors / related authors / tensions THIS book introduces, linking the REAL notes created in this ingest; append (do not replace) new \`## Sources\` entries; set last_updated ${TODAY}.
+- **If it DOES NOT EXIST**: create it from \`${VAULT}/_system/templates/author.md\` — Central concerns, major concepts/arguments (link the real notes created this ingest), characteristic metaphors, related authors (forward-stubs), disagreements/tensions. Frontmatter: type author, name ${AUTHOR}, books [[${BOOK_TITLE}]], last_updated ${TODAY}.
 ${LINKRULE}
 Return only the path.`
 

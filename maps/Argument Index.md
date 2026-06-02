@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Argument Index
@@ -22,6 +22,13 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[The morality of total transparency switches into tyranny]] — Han's genealogy via Rousseau
 - [[Compulsive transparency stabilizes the existing system]] — only negativity can question; transparency confirms
 - [[Exhibition value is a third value form beyond Marx]] — attention-generated value escapes use and exchange
+
+### Byung-Chul Han — Psychopolitics
+
+- [[Freedom itself is producing coercion]] — the book's central thesis: neoliberal freedom and compulsion coincide
+- [[Foucault failed to make the turn to psychopolitics]] — the hinge of the immanent critique: Foucault stayed within biopolitics
+- [[Big Data is blind to the event and so blind to the future]] — the limit-argument against predictive dataism
+- [[Naomi Klein's shock model misreads neoliberal power]] — shock is disciplinary negativity, not neoliberal psychopolitics
 
 ### N. Katherine Hayles — How We Became Posthuman
 
@@ -100,6 +107,15 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Transparency replaces trust with control]] — knowing erases the gap trust requires
 - [[The digital panopticon runs on voluntary self-exposure]] — control through self-illumination
 - [[Transparency abolishes the Other and produces compulsive conformity]] — Gleichschaltung as outcome
+- [[Freedom itself is producing coercion]] — neoliberal freedom and compulsion coincide (Psychopolitics)
+
+### On neoliberal power and psychopolitics (Han)
+
+- [[Freedom itself is producing coercion]] — the central thesis: freedom itself is the new mode of control
+- [[Foucault failed to make the turn to psychopolitics]] — the immanent critique: Foucault stayed within biopolitics
+- [[Big Data is blind to the event and so blind to the future]] — the limit of predictive dataism
+- [[Naomi Klein's shock model misreads neoliberal power]] — shock is disciplinary negativity, not psychopolitics
+- [[The digital panopticon runs on voluntary self-exposure]] — the surveillance precondition of psychopolitics
 
 ### On systems and feedback
 
@@ -111,6 +127,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Emergence is vitalism updated and uncomfortably like magic]] — emergence as covert vitalism/reductive materialism (O'Gieblyn)
 - [[Prediction enacts the very fate it foresees]] — predictive systems as behavior-modifying feedback loops (O'Gieblyn)
 - [[The simulation hypothesis is a secularized argument from design]] — the cosmos as computer program (O'Gieblyn)
+- [[Big Data is blind to the event and so blind to the future]] — additive data cannot capture the incalculable event (Han)
 
 ### On religion, meaning, and disenchantment (O'Gieblyn)
 

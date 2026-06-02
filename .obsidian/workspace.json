@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "186e52786d09f8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Positivity.md",
+                "file": "authors/Byung-Chul Han.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Positivity"
-            }
-          },
-          {
-            "id": "3f0c529de0cf7ef1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://obsidian.md/help/updates#Installer+updates",
-                "title": "Update Obsidian - Obsidian Help",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Update Obsidian - Obsidian Help"
-            }
-          },
-          {
-            "id": "5f6c84d7a65e7082",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e7d28a87e318a57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_system/link_vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "link_vocabulary"
+              "title": "Byung-Chul Han"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_system/link_vocabulary.md",
+                "file": "authors/Byung-Chul Han.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for link_vocabulary"
+              "title": "Backlinks for Byung-Chul Han"
             }
           },
           {
@@ -214,34 +175,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7d28a87e318a57b",
+  "active": "186e52786d09f8dc",
   "lastOpenFiles": [
-    "_system/log.md",
-    "_system/ingest_pipeline.md",
-    "index.md",
-    "concepts/The Materiality of Informatics.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch13 [Virality].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch05 [Network].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch06 [Network].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch01 [Image].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch02 [Image].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md.md",
-    "sources/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md.md",
-    "references/Meghan O'Gieblyn and Hans Moravec.md",
-    "references/Meghan O'Gieblyn and David Chalmers.md",
-    "references/Meghan O'Gieblyn and René Descartes.md",
-    "tensions/Disenchantment vs Re-enchantment.md",
-    "tensions/Human Exceptionalism vs Ontological Equality.md",
-    "references/Meghan O'Gieblyn and Nick Bostrom.md",
-    "tensions/Free Will vs Determinism.md",
-    "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
-    "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+    "references/Byung-Chul Han and Eva Illouz.md",
+    "references/Byung-Chul Han and Bernard Stiegler.md",
+    "references/Byung-Chul Han and Antonio Negri.md",
+    "references/Byung-Chul Han and George Orwell.md",
+    "sources/Han - Psychopolitics - 13 Idiotism.md.md",
+    "sources/Han - Psychopolitics - 10 Gamification.md.md",
+    "sources/Han - Psychopolitics - 12 Beyond the Subject.md.md",
+    "sources/Han - Psychopolitics - 09 Emotional Capitalism.md.md",
+    "sources/Han - Psychopolitics - 11 Big Data.md.md",
+    "sources/Han - Psychopolitics - 06 Healing as Killing.md.md",
+    "sources/Han - Psychopolitics - 01 The Crisis of Freedom.md.md",
+    "sources/Han - Psychopolitics - 08 Friendly Big Brother.md.md",
+    "sources/Han - Psychopolitics - 03 The Mole and the Snake.md.md",
+    "sources/Han - Psychopolitics - 05 Foucault's Dilemma.md.md",
+    "sources/Han - Psychopolitics - 07 Shock.md.md",
+    "sources/Han - Psychopolitics - 02 Smart Power.md.md",
+    "sources/Han - Psychopolitics - 04 Biopolitics.md.md",
+    "arguments/Naomi Klein's shock model misreads neoliberal power.md",
+    "references/Byung-Chul Han and Karl Marx.md",
+    "arguments/Foucault failed to make the turn to psychopolitics.md",
+    "references/Byung-Chul Han and Friedrich Nietzsche.md",
+    "books/Psychopolitics.md",
+    "arguments/Big Data is blind to the event and so blind to the future.md",
+    "concepts/Dictatorship of Capital.md",
+    "references/Byung-Chul Han and Gilles Deleuze.md",
+    "concepts/Immaterial Labour.md",
+    "raw/Kandinsky - On the Spiritual in Art",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",
     "99-Templates",
@@ -251,7 +213,6 @@
     "10-Public Programming",
     "09-Research Based Artworks/Works In Progress",
     "09-Research Based Artworks/Completed Works",
-    "09-Research Based Artworks",
     "Thinking In Systems/attachments/NMN THEORY OF CHANGE (Poster (US)).png.png",
     "Thinking In Systems/attachments/3BC72856-CEC2-48B7-A92A-BB96819607F9.png",
     "Thinking In Systems/attachments/IMG_0173.jpeg",
