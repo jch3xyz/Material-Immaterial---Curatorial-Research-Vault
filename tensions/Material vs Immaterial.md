@@ -8,6 +8,7 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Byung-Chul Han]]"
   - "[[Lucy Lippard]]"
+  - "[[Yuval Noah Harari]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -20,6 +21,8 @@ sources:
   - "[[raw/Lippard - Six Years/07 1968]]"
   - "[[raw/Lippard - Six Years/09 1970]]"
   - "[[raw/Lippard - Six Years/11 Postface]]"
+  - "[[raw/Harari - Homo Deus/04 The Human Spark]]"
+  - "[[raw/Harari - Homo Deus/07 The Odd Couple]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -38,6 +41,8 @@ last_updated: 2026-06-02
 Three authors meet on this axis from different disciplines, and the word "immaterial" carries a distinct sense in each. For **[[N. Katherine Hayles]]** the immaterial pole is *information* — the Shannon-Wiener pattern imagined as substrate-independent, contested by [[The Materiality of Informatics]]. For **[[Byung-Chul Han]]** it is *transparency* — language and matter leveled into "smooth streams of capital, communication, and information." For **[[Lucy Lippard]]** it is *dematerialization* — the art-historical episode (1966–1972) in which "the idea is paramount and the material form is secondary," the art object itself becoming the disputed term. Read together, Lippard's dematerialization of the art object is to the gallery what Hayles's disembodiment is to information: a "becoming-immaterial" that, on inspection, never escapes its material and economic substrate.
 
 Han carries a *second* sense of "immaterial" into the vault from *[[Psychopolitics]]*, and it must be kept distinct from the three above. There the immaterial is not an ideology of disembodiment (Hayles) or a leveling regime of transparency (the earlier Han) but a *mode of production* — the autonomist-Marxist thesis (Marx, Negri, Gorz) that under neoliberalism "immaterial and non-physical forms of production are what determine the course of capitalism," so that information, programs, emotion, and "the integral person" supersede the material body as the force of production. This sense is developed in its own concept note, [[Immaterial Labour]], and treated in the section below; it is *cross-linked rather than merged* with Hayles's disembodiment and Lippard's dematerialization, because its claim is economic (what is produced, and by which faculty of the worker) rather than ontological or art-historical.
+
+**[[Yuval Noah Harari]]** brings a *fifth* sense, and it runs the axis in the opposite direction from the other four. Where Hayles, Lippard, and the two Hans all work to deny the immaterial pole its claimed autonomy — to show that information, the art object, and immaterial production never escape their material substrate — Harari traces the immaterial pole *gaining* power over the material. His "immaterial" is the [[Intersubjective Reality]]: the fictions (gods, nations, money, corporations) that "exist purely in their common imagination" yet, armed with computers and bioengineering, increasingly "reshape reality to match their pet fictions." His axis-defining forecast is that "the intersubjective reality will swallow up the objective reality and biology will merge with history" — the immaterial story rewriting the material genome rather than (as in the other authors) being unmasked by it. This sense is treated in its own section below and *cross-linked, not merged*: Harari's immaterial is neither Shannon-Wiener pattern nor dematerialized object nor mode of production, but the *fiction* — and his is the vault's one source on this axis to read the immaterial as ascendant rather than parasitic.
 
 The titular axis of this vault. It is the most general form of an opposition that recurs under more specific names throughout the collection — [[Embodiment vs Information]], [[Presence Absence vs Pattern Randomness]], body versus pattern, presence versus circulation. Where those tensions stage a particular contest, *material vs immaterial* names the underlying hierarchy itself: the cultural conviction, in [[N. Katherine Hayles]]'s words, "that information is in some sense more essential, more important, and more fundamental than materiality." Both authors ingested here work to deny that hierarchy its self-evidence — Hayles by re-embodying information in [[The Materiality of Informatics]], Han by diagnosing the "smooth streams of capital, communication, and information" as a regime that levels matter, language, and the body into frictionless circulation.
 
@@ -79,8 +84,17 @@ This is the autonomist-Marxist sense of the immaterial (Marx, Negri, Gorz), and 
 
 The faculty that immaterial production newly exploits is **emotion**, and "[[Emotional Capitalism]]" makes the dependence explicit: emotion "comes to possess value for capitalism only when a switch to immaterial production occurs," and "Emotions have become a means of production only in our own times." Han ties this directly to the obsolescence of the disciplined body: where "disciplinary society" treated emotions as "disturbances" to be weeded out of "an unfeeling machine," the "new, immaterial mode of production in which communicative interaction plays an ever-greater role" requires "not just cognitive competence, but also emotional competence," so that "the integral person is installed in the very process of production." This is why Han's immaterial pole must be cross-linked to, not collapsed into, Hayles's and Lippard's: his "immaterial" names neither a disembodied informational pattern nor a dematerialized art object but a *productive force* — information, programs, communication, emotion, the whole person — that supersedes the laboring body. The shared ground with Hayles and Lippard is the refusal to let the immaterial float free of its substrate: for Han the cost is borne by the optimized, auto-exploited body and psyche, the material remainder on which immaterial production silently runs. The economic claim is `Directly stated`; the cross-author parallel to Hayles's disembodiment and Lippard's dematerialization is `Interpretive synthesis` (see [[Immaterial Labour]] and Sources below).
 
+## Intersubjective Fiction Swallowing Objective Reality (Harari)
+
+[[Yuval Noah Harari]]'s *[[Homo Deus]]* turns this axis on its head. Every other source ingested here moves in one direction — exposing the immaterial as parasitic on the material it pretends to leave behind. Harari moves in the other: he tracks the immaterial *acquiring* the power to overwrite the material. His immaterial pole is the [[Intersubjective Reality]] — the order of shared fictions that "exist purely in their common imagination," "a web of laws, forces, entities and places" with no objective referent. In *The Human Spark* he sets these fictions against the objective realm that confines other animals: "whereas cats and other animals are confined to the objective realm and use their communication systems merely to describe reality, Sapiens use language to create completely new realities." And: "During the last 70,000 years the intersubjective realities that Sapiens invented became ever more powerful, so that today they dominate the world." The immaterial fiction is thus, for Harari, not weightless and impotent but the most consequential force on the planet — which is precisely the inversion that distinguishes his use of the axis from Hayles's, Lippard's, and Han's. `Directly stated`.
+
+The load-bearing forecast is Harari's, and it is the verbatim hinge of this section: as the line between history and biology blurs, "ideological fictions will rewrite DNA strands; political and economic interests will redesign the climate; and the geography of mountains and rivers will give way to cyberspace. As human fictions are translated into genetic and electronic codes, the intersubjective reality will swallow up the objective reality and biology will merge with history." This is the material/immaterial axis stated as a *direction of travel*: the immaterial (fiction, code, story) does not dissolve into matter but rewrites it, so that "fiction might thereby become the most potent force on earth, surpassing even wayward asteroids and natural selection." *The Odd Couple* gives the same claim its religious-historical form. Against the comforting view that modern science would replace "intersubjective myths in favour of objective scientific knowledge," Harari argues the reverse: "Instead of destroying the intersubjective reality, science will enable it to control the objective and subjective realities more completely than ever before. Thanks to computers and bioengineering, the difference between fiction and reality will blur, as people reshape reality to match their pet fictions." The sharp instance is the Sobek-versus-antibiotics contrast: the god Sobek "existed only in the collective imagination of his devotees" and the priests' "prayers themselves didn't raise or lower the Nile's water level by a millimetre," whereas "Antibiotics, unlike God, help even those who don't help themselves." The asymmetry — immaterial fiction once impotent over matter, now able through bioengineering to "really engineer super-crocodiles" — is exactly the swallowing of the objective by the intersubjective. `Directly stated`.
+
+The convergence with the other authors is structural and, in one figure, near-verbatim. *The Odd Couple* recovers the ancient dualist picture that *is* the material/immaterial hierarchy at its starkest — Hayles's [[Disembodied Information as the Soul]] in its original theological dress: the dualists held that "the good god created pure and everlasting souls that lived in a wonderful world of spirit" while the bad god "created another world, made of matter," in which "everything rots and disintegrates," so that "what humans are" is "a good spiritual soul trapped inside an evil material body." Harari recounts this not to affirm it but to historicize the very ranking of immaterial-soul over material-body that Hayles spends a book contesting and that Han reads as the dream of frictionless circulation. Yet Harari's own verdict diverges from theirs at the decisive point. Where Hayles re-embeds information in its medium and Han reintroduces the negative, Harari grants the immaterial fiction *real ascendancy over* the material rather than dependence on it — biology will merge with history because the story now writes the genome. He is therefore cross-linked to, not merged with, the four-author core: his "immaterial" shares the others' refusal to treat fiction as merely epiphenomenal, but inverts their conclusion, reading the intersubjective fiction as the term that *swallows* objective reality rather than the term that secretly leans on it. The structural-parallel claim (Harari's swallowing as the mirror-image of Hayles/Han's unmasking) is `Interpretive synthesis`; the link to [[Can It Suffer (The Reality Test)]] marks the stakes Harari himself draws from the swallowing — that the "real sentient beings" of [[Industrial Farming]] are sacrificed to "fictional entities such as gods and nations." `Speculative connection` for that cross-link to the welfare argument; the swallowing forecast itself is `Directly stated`. See also the dedicated [[Objective vs Subjective vs Intersubjective]] tension, where Harari's three-tier ontology is treated in full.
+
 ## Related Concepts
 
+- [[Intersubjective Reality]] — Harari's *[[Homo Deus]]* name for the immaterial pole: shared fictions (gods, nations, money) that exist "purely in their common imagination" yet, via computers and bioengineering, come to "swallow up the objective reality." The vault's one source reading the immaterial as ascendant over the material rather than parasitic on it.
 - [[Immaterial Labour]] — Han's *[[Psychopolitics]]* name for the new mode of production: immaterial, non-physical forms (information, programs, emotion, the integral person) supersede the body as the force of production. The autonomist-Marxist (Marx/Negri/Gorz) sense of the axis, distinct from Hayles's disembodiment and Lippard's dematerialization.
 - [[The Materiality of Informatics]] — Hayles's specific name for her intervention in this axis: the claim that the "immaterial" pole is produced by and crossed with the material pole.
 - [[Virtuality]] — the cultural condition that dramatizes the hierarchy and, in its dominant reading, tilts it toward the immaterial; "the cultural perception that material objects are interpenetrated by information patterns."
@@ -274,3 +288,47 @@ Relevant passage:
 > The boom in emotion today stems, not least of all, from a new, immaterial mode of production in which communicative interaction plays an ever-greater role. It calls not just for cognitive competence, but also for emotional competence. In this context, the integral person is installed in the very process of production.
 
 Supports: Identifies the faculty immaterial production newly exploits — emotion, communication, the "integral person" installed in production. Grounds the claim that the material body is superseded by immaterial faculties as the force of production. Label: `Directly stated`.
+
+### Source 17
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/04 The Human Spark]]
+Relevant passage:
+
+> As human fictions are translated into genetic and electronic codes, the intersubjective reality will swallow up the objective reality and biology will merge with history.
+
+Supports: The axis-defining inversion that is the hinge of Harari's section — the immaterial (intersubjective fiction, translated into code) does not dissolve into matter but *swallows* objective reality, rewriting the genome. The vault's one source reading the immaterial as ascendant over, rather than parasitic on, the material. Label: `Directly stated`.
+
+### Source 18
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/07 The Odd Couple]]
+Relevant passage:
+
+> Instead of destroying the intersubjective reality, science will enable it to control the objective and subjective realities more completely than ever before. Thanks to computers and bioengineering, the difference between fiction and reality will blur, as people reshape reality to match their pet fictions.
+
+Supports: Harari's claim that science strengthens rather than dissolves the immaterial fiction — computers and bioengineering let the intersubjective fiction "reshape reality." Grounds the direction-of-travel reading of the axis. Label: `Directly stated`.
+
+### Source 19
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/07 The Odd Couple]]
+Relevant passage:
+
+> Sobek existed only in the collective imagination of his devotees. Praying to Sobek helped cement the Egyptian social system, thereby enabling people to build dams and canals that prevented floods and droughts. Yet the prayers themselves didn’t raise or lower the Nile’s water level by a millimetre. In contrast, scientific theories are not just a way to bind people together. It is often said that God helps those who help themselves. This is a roundabout way of saying that God doesn’t exist, but if our belief in Him inspires us to do something ourselves – it helps. Antibiotics, unlike God, help even those who don’t help themselves.
+
+Supports: The Sobek-versus-antibiotics contrast — the immaterial fiction once impotent over matter (prayers move no water), now, through bioengineering, able to "really engineer super-crocodiles." The concrete instance of the intersubjective swallowing the objective. Label: `Directly stated`.
+
+### Source 20
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/07 The Odd Couple]]
+Relevant passage:
+
+> That’s what humans are – a good spiritual soul trapped inside an evil material body.
+
+Supports: Harari's recounting of the dualist hierarchy that *is* the material/immaterial axis at its starkest — immaterial-soul ranked over material-body, the original theological dress of Hayles's disembodied-information-as-soul. Harari historicizes the ranking rather than affirming it. Grounds the cross-author parallel to [[Disembodied Information as the Soul]]. Label: `Directly stated` (for the verbatim dualist doctrine as Harari reports it); the cross-author parallel is `Interpretive synthesis`.

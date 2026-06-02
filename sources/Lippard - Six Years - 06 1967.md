@@ -14,7 +14,7 @@ last_updated: 2026-06-01
 # Source Summary: 1967
 
 **Book:** [[Six Years]]
-**Author:** [[Lucy R. Lippard]]
+**Author:** [[Lucy Lippard]]
 **Raw file:** [[raw/Lippard - Six Years/06 1967]]
 
 ## Orientation
@@ -78,7 +78,7 @@ Curators / dealers / critics:
 - [[Germano Celant]] — organizes and prefaces *Arte Povera/im Spazio*, Galleria La Bertesca, Genoa, October 1967.
 - [[Konrad Fischer]] — opens his gallery in Düsseldorf, October 1967; gives first European shows to many conceptualists.
 - [[Seth Siegelaub]] — NOT named in the 1967 text; reserved for later years.
-- [[Lucy R. Lippard]] — author; "Sol LeWitt: Non-Visual Structures," *Artforum*, April 1967; co-author of "Visible Art and the Invisible World," *Art International*.
+- [[Lucy Lippard]] — author; "Sol LeWitt: Non-Visual Structures," *Artforum*, April 1967; co-author of "Visible Art and the Invisible World," *Art International*.
 
 Publications / boxes / venues:
 - *0–9* (eds. Vito Acconci and Bernadette Mayer); *Aspen* no. 5–6 (ed. Brian O'Doherty, boxed); *Robho* (Paris); Art-Language Press (Coventry); Lannis Gallery / Museum of Normal Art; Dwan Gallery; Galleria La Bertesca and Galleria Sperone (Genoa / Turin).
@@ -86,7 +86,7 @@ Publications / boxes / venues:
 ## Outgoing Links
 
 - [[Six Years]]
-- [[Lucy R. Lippard]]
+- [[Lucy Lippard]]
 - [[Material vs Immaterial]]
 - [[Information]]
 - [[Systems Theory]]

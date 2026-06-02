@@ -47,6 +47,9 @@ See [[_system/source_inventory|Source Inventory]] for the canonical list.
 - [[Meghan O'Gieblyn and Hans Moravec]] — transhumanist machine-supremacism and substrate-independence; the bridge to Hayles's founding antagonist (realizes the Moravec forward-stub)
 - [[Meghan O'Gieblyn and David Chalmers]] — the hard problem, the materialist→idealist trajectory, GPT-3's possible consciousness (Chalmers forward-stub)
 - [[Meghan O'Gieblyn and Nick Bostrom]] — the simulation hypothesis as a modern creation myth / argument from design (Bostrom forward-stub)
+- [[Yuval Noah Harari and Byung-Chul Han]] — the keystone-merge interlocutor: Dataism, information-flow, growth-as-religion, and desire-engineering read across both authors
+- [[Yuval Noah Harari and Meghan O'Gieblyn]] — the hard problem, the algorithm-as-providence, and transhumanism/Dataism-as-religion bridge
+- [[Yuval Noah Harari and N. Katherine Hayles]] — the dissolution of the liberal/indivisible subject and the species recast as a data-processing system
 
 ## Likely Affinities (to be verified)
 
@@ -56,4 +59,4 @@ See [[_system/source_inventory|Source Inventory]] for the canonical list.
 - **Turner ↔ Waldrop** — cybercultural genealogy
 - **Lippard ↔ Jack Burnham** *(forward-stub)* — 'systems aesthetics' in the art world; Burnham is a forward-stub from the Lippard ingest, a related-but-distinct lineage to [[Systems Theory]] / cybernetic systems theory
 
-These are conjectures, not source-backed claims. Confirm or refute during ingest. (Hayles ↔ Haraway and Hayles ↔ Han are now realized — see Realized References above; the five Lippard references are likewise realized. The O'Gieblyn ingest adds eight references and realizes the Kurzweil, Wiener, and Moravec forward-stubs; O'Gieblyn ↔ Hayles is the realized cross-book bridge, with Weber, Descartes, Chalmers, and Bostrom carried forward as forward-stubs. The Psychopolitics ingest adds four references — Deleuze, Klein, Marx, and Nietzsche — and extends Foucault, Hegel, and Benjamin; the Han ↔ Marcuse and Zuboff ↔ Han affinities above remain conjectures, as Marcuse and Zuboff are not yet ingested.)
+These are conjectures, not source-backed claims. Confirm or refute during ingest. (Hayles ↔ Haraway and Hayles ↔ Han are now realized — see Realized References above; the five Lippard references are likewise realized. The O'Gieblyn ingest adds eight references and realizes the Kurzweil, Wiener, and Moravec forward-stubs; O'Gieblyn ↔ Hayles is the realized cross-book bridge, with Weber, Descartes, Chalmers, and Bostrom carried forward as forward-stubs. The Psychopolitics ingest adds four references — Deleuze, Klein, Marx, and Nietzsche — and extends Foucault, Hegel, and Benjamin. The Homo Deus ingest adds [[Yuval Noah Harari]] as a new author and realizes three cross-book bridges — Harari ↔ Han (the keystone-merge interlocutor on Dataism and growth-as-religion), Harari ↔ O'Gieblyn (transhumanism/Dataism-as-religion), and Harari ↔ Hayles (the dissolution of the liberal subject); the Han ↔ Marcuse and Zuboff ↔ Han affinities above remain conjectures, as Marcuse and Zuboff are not yet ingested.)

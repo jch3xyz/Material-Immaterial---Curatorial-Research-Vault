@@ -30,7 +30,7 @@ On the literary side, the chapter reads a sequence of "information narratives" �
 - [[Flickering Signifier|Flickering Signifiers]] — signifiers as flexible chains of coded markers prone to "unexpected metamorphoses, attenuations, and dispersions"; Lacan's floating signifier carried "one step further" by information technologies.
 - [[Informatics]] — Hayles' term (after [[Donna Haraway]]) for "the technologies of information as well as the biological, social, linguistic, and cultural changes that initiate, accompany, and complicate their development."
 - [[Information]] — defined here as depending on both pattern and randomness, predictability and unpredictability; "information in the technical sense has nothing to do with meaning."
-- [[Pattern vs Randomness]] — the dialectic in which pattern and randomness are "complements or supplements," not opposites; the emergent ground of informatic signification.
+- [[Pattern and Randomness]] — the dialectic in which pattern and randomness are "complements or supplements," not opposites; the emergent ground of informatic signification.
 - [[Mutation]] — "the bifurcation point at which the interplay between pattern and randomness causes the system to evolve in a new direction"; the pattern/randomness catastrophe paralleling castration.
 - [[The Body as Data]] — bodies "constituted as information" that can be "sold" and "fundamentally reconstituted in response to market pressures."
 - [[Embodiment]] — the "resistant materiality" that books and humans "have something to lose" if read solely as informational patterns; "Embodiment can be destroyed, but it cannot be replicated."
@@ -111,7 +111,7 @@ Relevant passage:
 
 > It is a pattern rather than a presence, defined by the probability distribution of the coding elements composing the message. If information is pattern, then noninformation should be the absence of pattern, that is, randomness.
 
-Supports: The grounding of [[Pattern vs Randomness]] — information as pattern-not-presence, and the paradoxical binding of information to both pattern and randomness. Confidence: Directly stated.
+Supports: The grounding of [[Pattern and Randomness]] — information as pattern-not-presence, and the paradoxical binding of information to both pattern and randomness. Confidence: Directly stated.
 
 ### Citation 3
 

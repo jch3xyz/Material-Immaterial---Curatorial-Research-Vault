@@ -4,6 +4,8 @@ status: generated
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch11 [Algorithm]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
+  - "[[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]"
+  - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
 related:
   - "[[Feedback Loops]]"
   - "[[The Body as Data]]"
@@ -17,11 +19,16 @@ opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[Meghan O'Gieblyn]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Algorithmic Determinism
+
+## General Orientation
+
+Two authors in the vault converge on a single condition — that predictive systems, fed past behavior, come to *enact* the futures they forecast — but enter it from different ends. **[[Meghan O'Gieblyn]]** names the term proper (taking "algorithmic determinism" from Google researcher Vyacheslav Polonski) and treats it as a *social-political and metaphysical* predicament: prediction as a behavior-modifying feedback loop, the secularized return of the predestination problem, the political face of [[Disenchantment]]. **[[Yuval Noah Harari]]** supplies the *biological engine* underneath that predicament. His thesis that "[[Organisms Are Algorithms|organisms are algorithms]]" — that desires are nothing but patterns of firing neurons, with no free agent behind them — is what makes humans predictable and engineerable in the first place. Where O'Gieblyn worries that the loop *produces* the appearance of determinism, Harari argues the determinism is already there in the biochemistry, and prediction merely reads it off. The two senses are complementary: Harari's organisms-are-algorithms is the premise (the self has no free will to be overridden), and O'Gieblyn's algorithmic determinism is the consequence (external algorithms can therefore predetermine the "in-dividual"). The dedicated concept note [[Organisms Are Algorithms]] remains the primary home of Harari's thesis; the section below is a cross-link, situating that thesis as the determinism's biological ground.
 
 ## Brief Definition
 
@@ -41,7 +48,15 @@ Algorithmic determinism is therefore best read as the *social-political* express
 
 - **[[Meghan O'Gieblyn]]** — adopts Polonski's term and gives it her signature formulation ("To what extent does the act of prediction enact the very fate it foresees?"), reading it as the contemporary, secular reincarnation of the predestination problem (Calvin, Weber) and as the political face of disenchantment. For her the danger is not chiefly inaccuracy but the loop: prediction "actively modifies real behavior."
 - **Vyacheslav Polonski** — the Google researcher credited with coining "algorithmic determinism" to name the process by which people "become trapped within the mirror of their digital reflection." (Forward-reference; O'Gieblyn cites him rather than developing his account at length.)
-- *Adjacent framings O'Gieblyn marshals:* Shoshana Zuboff's "behavioral futures" and surveillance capitalism (prediction as a market in "raw material" extracted from behavior); Yuval Noah Harari's "Dataism" ("Listen to the algorithms! They know how you feel"), which O'Gieblyn reads as the explicit announcement of the end of liberal humanism. These are cross-author forward-references, not yet vault notes.
+- *Adjacent framings O'Gieblyn marshals:* Shoshana Zuboff's "behavioral futures" and surveillance capitalism (prediction as a market in "raw material" extracted from behavior); Yuval Noah Harari's "Dataism" ("Listen to the algorithms! They know how you feel"), which O'Gieblyn reads as the explicit announcement of the end of liberal humanism. These are cross-author forward-references; Harari's own treatment now appears below and in [[Organisms Are Algorithms]] and [[Dataism]].
+
+## Organisms Are Algorithms (Harari)
+
+[[Yuval Noah Harari]] supplies the biological premise from which algorithmic determinism follows. For Harari the determinism is not, as in O'Gieblyn, chiefly an artifact of the predictive loop; it is already present in the biochemistry of the organism, and prediction merely reads it off. His starting point is the abolition of the free agent: once "scientists opened up the Sapiens black box, they discovered there neither soul, nor free will, nor 'self' – but only genes, hormones and neurons that obey the same physical and chemical laws governing the rest of reality." A desire is therefore not chosen but undergone — "I feel a particular wish welling up within me because this is the feeling created by the biochemical processes in my brain. These processes might be deterministic or random, but not free." This is the load-bearing move: with "[[Organisms Are Algorithms|organisms are algorithms]]" generalized to *Homo sapiens*, "the free individual is just a fictional tale concocted by an assembly of biochemical algorithms" (`Directly stated`).
+
+The decisive consequence for determinism is engineerability. Because the desire is "nothing but a pattern of firing neurons," it does not matter "whether the neurons are firing because they are stimulated by other neurons, or because they are stimulated by transplanted electrodes." Harari draws the inference explicitly: "If organisms indeed lack free will, it implies we could manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation." His exhibits make this literal — the *robo-rat* steered by remote control yet experiencing no coercion ("the rat wants to move to the left, which is why she moves to the left"), and the Hadassah Hospital depression implant, in which electrodes "paralyse the brain area responsible for the depression" and a dead battery returns the patient to despair. Where O'Gieblyn's predictive systems *forecast and modify* behavior from the outside, Harari's biology shows the behavior was never free to begin with: the wish itself can be installed, edited, or switched off (`Directly stated`).
+
+This biological determinism is also what licenses the *external algorithm that knows me better than I know myself* — the precise hinge O'Gieblyn names via "Dataism." On Harari's account, since "the algorithms constituting a human are not free" but "shaped by genes and environmental pressures," it follows "that an external algorithm could theoretically know me much better than I can ever know myself," until "the algorithm will know best, the algorithm will always be right." Liberalism's collapse arrives "on the day the system knows me better than I know myself." Here Harari and O'Gieblyn meet on the same ground from opposite directions: he derives the predictability from the firing neuron, she from the profiled population — but both end at the dissolution of [[The Liberal Humanist Subject|the autonomous chooser]] and the relocation of authority to networked algorithms (`Strongly implied` for the synthesis; the component quotations are `Directly stated`).
 
 ## Related Concepts
 
@@ -142,3 +157,80 @@ Relevant passage:
 > As these technologies become increasingly integrated into the spheres of public life, many people now find themselves in a position much like Job’s, denied the right to know why they were refused a loan or fired from a job or given a likelihood of developing cancer.
 
 Supports: Locates predictive systems in the justice/welfare apparatus and frames their opacity through the Job/predestination lineage, grounding the note's reading of algorithmic determinism as the secularized social form of the predestination problem. Label: `Strongly implied`.
+
+### Source 8
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> Over the last century, as scientists opened up the Sapiens black box, they discovered there neither soul, nor free will, nor ‘self’ – but only genes, hormones and neurons that obey the same physical and chemical laws governing the rest of reality.
+
+Supports: The abolition of the free agent — the biological premise on which the Harari section rests. There is no self behind the desire, only law-governed biochemistry, so the organism is in principle as determined (and as readable) as any other physical system. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> I feel a particular wish welling up within me because this is the feeling created by the biochemical processes in my brain. These processes might be deterministic or random, but not free.
+
+Supports: Desires are undergone, not chosen — the precise mechanism that makes them predictable and engineerable. Grounds the section's claim that Harari locates the determinism in the biochemistry itself rather than (as O'Gieblyn) in the predictive loop. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> Doubting free will is not just a philosophical exercise. It has practical implications. If organisms indeed lack free will, it implies we could manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation.
+
+Supports: The engineerability inference — the bridge from "organisms are algorithms" to active control of desire (robo-rat, the depression implant). This is the determinism made operational. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> After all, the rat’s desires are nothing but a pattern of firing neurons. What does it matter whether the neurons are firing because they are stimulated by other neurons, or because they are stimulated by transplanted electrodes connected to Professor Talwar’s remote control?
+
+Supports: The robo-rat — Harari's concrete exhibit that a desire is a firing-neuron pattern with no free agent behind it, hence installable by electrode. The literal version of the determinism the note describes. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> They implant electrodes into the patient’s brain, and wire the electrodes to a minuscule computer implanted into the patient’s breast. On receiving a command from the computer, the electrodes use weak electric currents to paralyse the brain area responsible for the depression.
+
+Supports: The Hadassah Hospital depression implant — a feeling (depression) created and annihilated by stimulating the right spot, including the dead-battery relapse. Demonstrates that complex affect, not just movement, is engineerable once the organism is an algorithm. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> Organisms are algorithms, and humans are not individuals – they are ‘dividuals’, i.e. humans are an assemblage of many different algorithms lacking a single inner voice or a single self.
+
+Supports: The thesis stated as a numbered premise against liberal individualism — anchors the [[Organisms Are Algorithms]] cross-link and the section's claim that the biological premise dissolves the autonomous chooser. Label: `Directly stated`.
+
+### Source 14
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> It follows that an external algorithm could theoretically know me much better than I can ever know myself. An algorithm that monitors each of the systems that comprise my body and my brain could know exactly who I am, how I feel and what I want. Once developed, such an algorithm could replace the voter, the customer and the beholder. Then the algorithm will know best, the algorithm will always be right, and beauty will be in the calculations of the algorithm.
+
+Supports: The hinge from biological determinism to the predictive sovereign — the same "knows me better than I know myself" condition O'Gieblyn names via Dataism, here derived from the unfree biochemical algorithm. Grounds the convergence between the two authors. Label: `Directly stated`.

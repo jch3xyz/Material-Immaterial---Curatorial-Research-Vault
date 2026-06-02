@@ -222,6 +222,55 @@ Verified variant→canonical rewrites (alias-preserving) caught in the normaliza
 
 ---
 
+## Canonical Note Names — Harari Homo Deus ingest (2026-06-02)
+
+Added by *Homo Deus: A Brief History of Tomorrow*. Book: `Homo Deus`. Author: **`Yuval Noah Harari` (new)**. Source summaries: `Harari - Homo Deus - <file-ordinal> <title>` (11). First ingest under the **fixed source-filename regex** — sources are correctly single-`.md`. Deeply cross-connected with the Dataism / consciousness / posthuman cluster.
+
+**New concepts/** (29): The New Human Agenda · Homo Deus *(concept; coexists with the `books/Homo Deus` note, same pattern as `Psychopolitics`)* · Intersubjective Reality · Large-Scale Flexible Cooperation · Organisms Are Algorithms · The Anthropocene · Humanism (Harari) · Liberal Humanism (Harari) · Evolutionary Humanism · Knowledge = Experiences × Sensitivity · The Modern Covenant · The Growth Imperative · Capitalism as Religion (Harari) · Religion as Social Order · Society as Algorithm · Writing Reshapes Reality · Can It Suffer (The Reality Test) · The Decoupling of Intelligence from Consciousness · The Experiencing Self vs The Narrating Self · Free Will as Fiction (Harari) · The Useless Class · Algorithms That Know Us Better Than We Know Ourselves · Upgrading Inequality · Techno-Humanism · The Ocean of Consciousness · Freedom of Information · The Internet-of-All-Things · Industrial Farming · Techno-Religion.
+
+**New definitions/** (8): Algorithm (Harari) · Humanism (Harari) · Experience (Harari) · Religion (Harari) · The Reality Test (Harari) · The Narrating Self and the Experiencing Self (Harari) · Dataism (Harari) · A-mortality (Harari).
+
+**New tensions/** (8): Intelligence vs Consciousness · Meaning vs Power · Objective vs Subjective vs Intersubjective · Healing vs Upgrading · Religion vs Spirituality · Truth vs Cooperative Power · Distributed vs Centralised Processing · Homo-Centric vs Data-Centric.
+
+**New metaphors/** (5): The Web of Meaning · Consciousness as Mental Pollution · The Gun in Act I · Retiring the Horses · The Private CIA and State Department. **New symbols/** (3): The Hi-Tech Ark · The Gestation Crate · Aaron Swartz, Dataism's First Martyr.
+
+**New arguments/** (4): Fulfilling humanism will destroy it by making humans irrelevant · Technology not philosophy will break liberalism · Science strengthens myths rather than replacing them with facts · The self is an imaginary story like nations gods and money.
+
+**New references/** (10): `Yuval Noah Harari and {N. Katherine Hayles, Meghan O'Gieblyn, Byung-Chul Han}` (vault-internal interpretive bridges — Dataism / the posthuman / consciousness), plus `Yuval Noah Harari and {Karl Marx, Friedrich Nietzsche, Daniel Kahneman, Thomas Nagel, René Descartes, Charles Darwin, Alan Turing}` (added in finalize to close dangling links — "if linked, the page must exist").
+
+**Cross-book UPDATES** (existing notes that gained a Harari author-section — do NOT duplicate): `Dataism` *(the keystone merge — Han + Harari; Brooks coined the word, Harari built the worldview/religion)* · `Information` · `The Computational Universe` · `The Body as Data` · `Posthumanism` · `Transhumanism` · `The Liberal Humanist Subject` · `The Hard Problem of Consciousness` · `Algorithmic Determinism` · `The Algorithm as Providence` (concepts) · `Free Will vs Determinism` · `Material vs Immaterial` · `Human Exceptionalism vs Ontological Equality` (tensions).
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Daniel Kahneman`, `Thomas Nagel`, `Friedrich Hayek`. Reused existing stubs now reference-linked: `Karl Marx`, `Friedrich Nietzsche`, `René Descartes`, `Charles Darwin`, `Alan Turing`, `Ray Kurzweil` (his book is in `raw/`, not yet ingested). Per policy, forward-stub author figures get **no author-note file** until their work is ingested (a stray `authors/Thomas Nagel.md` created mid-run was removed to preserve this). One-off figures (Aaron Swartz handled as a symbol; Dennett, de Waal, Harlow, Watson, Gazzaniga, Sperry, Valla, Borges, Ceaușescu) render as plain text.
+
+> **Notes for future passes:** (1) `Homo Deus` exists as BOTH `books/Homo Deus.md` and `concepts/Homo Deus.md` (the upgraded human-god) — same accepted base-name pattern as `Psychopolitics`; Obsidian disambiguates by path. (2) Homo Deus's raw **file ordinals** (01, 03, 04, 06…) trail Harari's **internal chapter numbers** (Part dividers are skipped); source summaries follow the vault file-ordinal convention for SHA-cache consistency and record Harari's internal number in the body.
+
+### Vault-wide variant normalization (2026-06-02 finalize, Homo Deus pass)
+
+A thorough difflib sweep caught variant duplicates of real notes — several **pre-existing** from the Lippard/O'Gieblyn ingests that earlier passes missed. Verified, alias-aware rewrites (67 occurrences):
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Lucy R. Lippard` | `Lucy Lippard` (20×, pre-existing) |
+| `Pattern vs Randomness` | `Pattern and Randomness` (10×) |
+| `Dematerialization failed to escape the art market` | `Dematerialization failed to escape the market` (8×, pre-existing) |
+| `God, Human, Animal, Machine` | `God Human Animal Machine` (7×) |
+| `Byung-Chul Han - The Transparency Society` | `The Transparency Society` (5×) |
+| `Experiencing Self vs Narrating Self` | `The Experiencing Self vs The Narrating Self` (3×) |
+| `The eternal questions have become engineering problems` | `All the eternal questions have become engineering problems` |
+| `The Soul as Empty Carapace` | `The Soul as an Empty Carapace` |
+| `The disembodiment of information was contingent, not inevitable` | `The disembodiment of information was contingent not inevitable` |
+| `The digital panopticon exploits voluntary self-exposure` | `The digital panopticon runs on voluntary self-exposure` |
+| `Computational Universe` | `The Computational Universe` |
+| `Immaterial Labor` | `Immaterial Labour` |
+| `The Theatrum Mundi` | `Theatrum Mundi` |
+| `Intimacy is the psychological formula of transparency` | `Intimacy as Psychological Formula of Transparency` |
+| `Processor vs Procession` | `Procession vs Processor` |
+| `The Turing Test as Magic Trick` | `The Turing Test as a Magic Trick` |
+
+Left as **genuinely distinct** (not variants): `The Ban-opticon` (Bauman/Lyon ≠ `The Panopticon`); `Virality` (O'Gieblyn ch. ≠ `Virtuality`).
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.

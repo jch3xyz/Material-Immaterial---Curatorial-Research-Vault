@@ -18,7 +18,7 @@ related:
 opposes:
   - "[[Material vs Immaterial]]"
 authors:
-  - "[[Lucy R. Lippard]]"
+  - "[[Lucy Lippard]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -41,7 +41,7 @@ The concept is best read as the **art-historical instance** of the broader [[Mat
 
 ## Authors and Variants
 
-- **[[Lucy R. Lippard]]** — coins and qualifies the term; uses it as the loose organizing thread of *Six Years*, explicitly as a "deemphasis on material aspects" and explicitly conceding its inaccuracy. With critic John Chandler she authors the 1968 source essay.
+- **[[Lucy Lippard]]** — coins and qualifies the term; uses it as the loose organizing thread of *Six Years*, explicitly as a "deemphasis on material aspects" and explicitly conceding its inaccuracy. With critic John Chandler she authors the 1968 source essay.
 - **Internal dissent — [[Art & Language]]** — in a March 1968 letter-essay to Lippard and Chandler, the Coventry group rebuts the metaphor on physical grounds: the works "may not be an art-object as we know it in its traditional matter-state, but they are nevertheless matter in one of its forms, either solid-state, gas-state, liquid-state." Matter merely changes state; it is never dematerialized.
 - **Internal dissent — Mel Bochner** — flatly denies the premise: "There is no art which does not bear some burden of physicality. To deny it is to descend to irony."
 - **Buckminster Fuller (cited variant)** — Lippard glosses a kindred term, **"Ephemeralization,"** which Fuller uses for "the design science strategy of doing even more with even less per unit of energy, space, and time."

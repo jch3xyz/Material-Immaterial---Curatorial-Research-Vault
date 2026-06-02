@@ -16,7 +16,7 @@ related:
 opposes:
   - "[[The Materiality of Informatics]]"
 authors:
-  - "[[Lucy R. Lippard]]"
+  - "[[Lucy Lippard]]"
   - "[[Sol LeWitt]]"
   - "[[Joseph Kosuth]]"
 confidence: high
@@ -43,7 +43,7 @@ Lippard's verdict on the movement is deliberately dual, delivered in the Postfac
 
 ## Authors and Variants
 
-- **[[Lucy R. Lippard]]** — the historian-participant who names and bounds the movement. Her "for me" definition foregrounds idea over material and ties Conceptual art to dematerialization, decommodification, and an "alternative" distribution network; she insists the book documents "widely differing phenomena within a time span, not... a 'movement'," so her "Conceptual art" is a narrower aesthetic-intention category carved out of a chaotic field.
+- **[[Lucy Lippard]]** — the historian-participant who names and bounds the movement. Her "for me" definition foregrounds idea over material and ties Conceptual art to dematerialization, decommodification, and an "alternative" distribution network; she insists the book documents "widely differing phenomena within a time span, not... a 'movement'," so her "Conceptual art" is a narrower aesthetic-intention category carved out of a chaotic field.
 - **[[Sol LeWitt]]** — supplies the small-c / capital-C distinction and the foundational formula "The idea becomes a machine that makes the art," locating the work in conception rather than execution.
 - **[[Joseph Kosuth]]** — the strong, near-tautological pole: "the actual works of art are ideas," with the physical object reduced to a model. (Forward-stub.)
 - **[[Seth Siegelaub]]** — the dealer-as-distributor whose catalogue-as-medium and publication-as-exhibition strategies are the genre's circulatory system. (Forward-stub.)

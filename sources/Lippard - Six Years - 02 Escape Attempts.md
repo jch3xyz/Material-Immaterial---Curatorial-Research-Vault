@@ -14,7 +14,7 @@ last_updated: 2026-06-01
 # Source Summary: Escape Attempts
 
 **Book:** [[Six Years]]
-**Author:** [[Lucy R. Lippard]]
+**Author:** [[Lucy Lippard]]
 **Raw file:** [[raw/Lippard - Six Years/02 Escape Attempts]]
 
 ## Orientation
@@ -41,7 +41,7 @@ Woven through all four is Lippard's turn to politics: Conceptual art's entanglem
 
 ## Key Arguments
 
-- [[Dematerialization failed to escape the art market]] — the 1969 hope that non-object art could not be bought and sold is refuted by the 1973 outcome; "art and artists in a capitalist society remain luxuries."
+- [[Dematerialization failed to escape the market]] — the 1969 hope that non-object art could not be bought and sold is refuted by the 1973 outcome; "art and artists in a capitalist society remain luxuries."
 - [[In conceptual art the form not the content carried the politics]] — the art "seems supremely apolitical," but the politics lives in the de-commodification of the object: "The frame was there to be broken out of."
 - [[Conceptual art substitutes information and systems for physical presence]] — the dematerialized object leaves information and systems to do the work formerly done by composition, color, technique, and physical presence.
 - [[Conceptual mediums opened a crack for women artists]] — the cheap, ephemeral mediums "encouraged women to participate, to move through this crack in the art world's walls."
@@ -64,7 +64,7 @@ Woven through all four is Lippard's turn to politics: Conceptual art's entanglem
 ## Outgoing Links
 
 - [[Six Years]]
-- [[Lucy R. Lippard]]
+- [[Lucy Lippard]]
 - [[Material vs Immaterial]]
 - [[The Materiality of Informatics]]
 - [[Sol LeWitt]]
@@ -143,7 +143,7 @@ Relevant passage:
 
 > Anti-establishment fervor in the 1960s focused on the de-mythologization and de-commodification of art, on the need for an independent (or “alternative”) art that could not be bought and sold by the greedy sector that owned everything that was exploiting the world and promoting the Vietnam war.
 
-Supports: The politics of the object — the de-commodification wager that grounds [[Dematerialization failed to escape the art market]] and [[In conceptual art the form not the content carried the politics]]. Confidence: `Directly stated`.
+Supports: The politics of the object — the de-commodification wager that grounds [[Dematerialization failed to escape the market]] and [[In conceptual art the form not the content carried the politics]]. Confidence: `Directly stated`.
 
 ### Citation 7
 
@@ -199,7 +199,7 @@ Relevant passage:
 
 > the art world is probably going to be able to absorb conceptual art as another ‘movement’ and not pay too much attention to it. The art establishment depends so greatly on objects which can be bought and sold that | don't expect it to do much about an art that is opposed to the prevailing systems.
 
-Supports: Lippard's 1969 prediction of recuperation; the setup for [[Dematerialization failed to escape the art market]]. Confidence: `Directly stated`.
+Supports: Lippard's 1969 prediction of recuperation; the setup for [[Dematerialization failed to escape the market]]. Confidence: `Directly stated`.
 
 ### Citation 14
 
@@ -207,7 +207,7 @@ Relevant passage:
 
 > Three years later, the major conceptualists are selling work for substantial sums here and in Europe; they are represented by {and still more unexpected—showing in) the world's most prestigious galleries. Clearly, whatever minor revolutions in communication have been achieved by the process of dematerializing the object... , art and artists in a capitalist society remain luxuries.
 
-Supports: THE key citation for [[Dematerialization failed to escape the art market]] — the failure-to-escape-the-market verdict. (Verbatim, including OCR "{and still more unexpected—showing in)".) Confidence: `Directly stated`.
+Supports: THE key citation for [[Dematerialization failed to escape the market]] — the failure-to-escape-the-market verdict. (Verbatim, including OCR "{and still more unexpected—showing in)".) Confidence: `Directly stated`.
 
 ### Citation 15
 

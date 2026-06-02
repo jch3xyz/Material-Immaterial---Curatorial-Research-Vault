@@ -3,7 +3,7 @@ type: author
 status: generated
 name: "Meghan O'Gieblyn"
 books:
-  - "[[God, Human, Animal, Machine]]"
+  - "[[God Human Animal Machine]]"
 related_authors:
   - "[[N. Katherine Hayles]]"
   - "[[Ray Kurzweil]]"
@@ -20,7 +20,7 @@ last_updated: 2026-06-01
 
 ## Books in the Vault
 
-- [[God, Human, Animal, Machine]]
+- [[God Human Animal Machine]]
 
 Other works by O'Gieblyn are not currently in the vault; this note represents her as she appears through *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*. Her own books are the only O'Gieblyn material in `raw/`.
 

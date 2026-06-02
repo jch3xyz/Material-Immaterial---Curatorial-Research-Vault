@@ -6,6 +6,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
+  - "[[raw/Harari - Homo Deus/01 The New Human Agenda]]"
+  - "[[raw/Harari - Homo Deus/13 The Ocean of Consciousness]]"
 related:
   - "[[Posthumanism]]"
   - "[[Pattern and Randomness]]"
@@ -20,8 +22,9 @@ opposes:
 authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Transhumanism
@@ -29,6 +32,15 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 The organized futurist movement — coined by [[Julian Huxley]] in 1957 and routed through [[Pierre Teilhard de Chardin]]'s "Trans-Human" and Omega Point — that seeks to transcend human biological limits through technology (mind-uploading, the Singularity, immortality, divinization), which [[Meghan O'Gieblyn]] reads as a secularized Christian eschatology that, by its "darker irony," degrades rather than exalts the human.
+
+## General Orientation
+
+This note holds two author-treatments that share transhumanism's defining *goal* — transcending the biological limits of [[Homo Deus|Homo sapiens]] through technology — but trace different genealogies and pursue it with different affect. They name the same broad movement; they do not collapse into a single thesis.
+
+- **[[Meghan O'Gieblyn]]** reads transhumanism as a *secularized Christian eschatology* (resurrection, immortality, divinization, the Singularity-as-Apocalypse) whose "darker irony" is that the gospel of exaltation secretly lowers the human to a machine. The genealogy is theological-religious (Teilhard's Omega Point, Christian apocalypse) and the verdict is critical.
+- **[[Yuval Noah Harari]]** routes the same upgrade-program through a *different lineage* — secular **[[Evolutionary Humanism]]**, not Christian apocalypse — and frames it as humanity's "third big project": acquiring divine powers and upgrading "Homo sapiens into [[Homo Deus]]." Harari's own term for the values-conserving wing of this program is **[[Techno-Humanism]]**, which he keeps distinct from the more radical data religion ([[Dataism]]). The genealogy is Darwinian-humanist; the means (genetic engineering, nanotechnology, brain–computer interfaces) are pursued, in his words, "far more peacefully" than the eugenic "superhuman" dreams of the twentieth century.
+
+> Naming caution: Harari's **[[Techno-Humanism]]** is a *related but distinct* concept and must not be folded into "Transhumanism." Techno-humanism is, for Harari, one of two emerging [[Techno-Religion|techno-religions]] (the conservative, still-humanist one); transhumanism is the older, broader movement to transcend biological limits. They overlap in goal but differ in scope and genealogy. See [[Techno-Humanism]] and [[Homo Deus]] for the dedicated treatments.
 
 ## Longer Explanation
 
@@ -40,9 +52,18 @@ The "darker irony," for O'Gieblyn, is that this gospel of exaltation is secretly
 
 Crucially, O'Gieblyn's transhumanism is **not** the same concept as [[Posthumanism]]. The two are reciprocal doubles. Transhumanism is the *believing*, eschatological, religious version: it embraces disembodiment, immortality, and the Singularity as goods to be pursued. [[Posthumanism]] in [[N. Katherine Hayles]]'s critical sense is a *point of view* and a *diagnosis* — an analytic stance on how subjectivity came to privilege informational pattern over [[Embodiment]]. Where Hayles asks "what kind of posthumans we will be," Kurzweil prophesies. The relationship O'Gieblyn draws between them is genealogical: both inherit cybernetics' construction of [[Information]] as "an entity that can flow unchanged between different material substrates," so that "disembodied information becomes the ultimate Platonic Form." Transhumanism is what posthumanist disembodiment looks like once it is preached as salvation rather than diagnosed as ideology — its religious double.
 
+## Upgrading Homo Sapiens into Homo Deus (Harari)
+
+For [[Yuval Noah Harari]], the drive to transcend biological limits is not a fringe creed but the *next item on the human agenda*. Having "managed to rein in famine, plague and war," humanity's "next targets are likely to be immortality, happiness and divinity": "having raised humanity above the beastly level of survival struggles, we will now aim to upgrade humans into gods, and turn Homo sapiens into Homo deus." This is, he writes, the "third big project of humankind" — "to acquire for us divine powers of creation and destruction, and upgrade Homo sapiens into [[Homo Deus]]" — a project that "subsumes the first two" (immortality and happiness) because the godlike control needed to engineer death and misery out of the body is the same power that lets us "engineer our system in almost any manner we like." Harari reduces the whole new agenda to "really only one project (with many branches): attaining divinity." `Directly stated`
+
+Crucially, Harari specifies the *means*. "The upgrading of humans into gods may follow any of three paths: biological engineering, cyborg engineering and the engineering of non-organic beings" — rewriting our genetic code and rewiring brain circuits; merging the organic body with bionic limbs and bloodstream nano-robots; and ultimately dispensing with organic parts altogether for "completely non-organic beings." This shares transhumanism's goal of escaping the biological limits of [[Embodiment]] (cf. [[Mind Uploading]], [[The Body as Data]]), but Harari traces it to a *different genealogy* than [[Meghan O'Gieblyn]]'s secularized Christian eschatology. His program is "an updated variant on the old dreams of [[Evolutionary Humanism]], which already a century ago called for the creation of superhumans." `Directly stated`
+
+That evolutionary-humanist lineage carries a pointed disavowal of its eugenic past — and the basis for Harari's claim that the contemporary version pursues the goal *peacefully*: "whereas Hitler and his ilk planned to create superhumans by means of selective breeding and ethnic cleansing, twenty-first-century [[Techno-Humanism]] hopes to reach the goal far more peacefully, with the help of genetic engineering, nanotechnology and brain–computer interfaces." Harari's own term, **[[Techno-Humanism]]**, names the conservative wing of this project: one of two emerging [[Techno-Religion|techno-religions]] that "still sees humans as the apex of creation and clings to many traditional humanist values," concluding "that we should therefore use technology in order to create Homo deus — a much superior human model." It is distinct both from the older, broader movement catalogued in this note and from the more radical data religion ([[Dataism]]) that "venerates neither gods nor man — it worships data." Techno-humanism's internal "dilemma" is that, by sanctifying "the human will" as "the nail on which the entire universe hangs" while developing technologies to "control and redesign our will," it risks turning "the sacred human will" into "just another designer product" — and so "may end up downgrading humans." `Directly stated`
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — reads transhumanism as secularized Christian eschatology (resurrection, immortality, divinization, the Singularity-as-Apocalypse), and exposes its "darker irony": a machine-supremacist, fatalistic ideology that lowers rather than raises the human's ontological status. A former fundamentalist and former transhumanist, she treats her own fascination as "a kind of transference" of abandoned religious longing.
+- **[[Yuval Noah Harari]]** — frames the same upgrade-program as humanity's "third big project": acquiring "divine powers" to "upgrade Homo sapiens into [[Homo Deus]]" along "three paths" (biological, cyborg and non-organic engineering). Traces it not to Christian apocalypse but to secular [[Evolutionary Humanism]], and argues twenty-first-century [[Techno-Humanism]] pursues the superhuman goal "far more peacefully" than its eugenic predecessors — via genetic engineering, nanotechnology and brain–computer interfaces. (His [[Techno-Humanism]] is a related but distinct concept; do not collapse it into Transhumanism.)
 - **[[Ray Kurzweil]]** — the movement's "academic prophet"; "patternist" who holds consciousness to be "a pattern of information" transferable onto a computer; promises mind-uploading, immortality, and a 2045 Singularity at which intelligence "would merge with the universe and we would become divine."
 - **[[Pierre Teilhard de Chardin]]** — the buried Christian source: evolution converging through the "noosphere" toward an "Omega Point" and a "Trans-Human," recast by Huxley as secular transhumanism and by Kurzweil as the Singularity.
 - **[[Julian Huxley]]** — secular humanist who coined "Transhumanism" in 1957 by stripping Teilhard's vision of its overt religious narrative.
@@ -150,3 +171,36 @@ Relevant passage:
 > We are indeed the virus, the ghost in the machine, the bug slowing down a system that would function better, in practically every sense, without us.
 
 Supports: The endpoint of transhumanism's machine-supremacist logic — humanity rhetorically reduced to "biological bootloaders," error, and virus; the fullest expression of the "lower ontological status" the ideology confers. Label: `Strongly implied`.
+
+### Source 8
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/01 The New Human Agenda]]
+Relevant passage:
+
+> In the twenty-first century, the third big project of humankind will be to acquire for us divine powers of creation and destruction, and upgrade Homo sapiens into Homo deus.
+
+Supports: Anchors the Harari section's core thesis — transhumanism's goal of transcending biological limits is, for Harari, humanity's "third big project," the upgrade of Homo sapiens into [[Homo Deus]]. Grounds the shared goal (transcending the limits of [[Embodiment]]) while marking the distinct, agenda-driven framing. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/01 The New Human Agenda]]
+Relevant passage:
+
+> The upgrading of humans into gods may follow any of three paths: biological engineering, cyborg engineering and the engineering of non-organic beings.
+
+Supports: The three-paths program (biological, cyborg, non-organic engineering) by which Harari specifies the *means* of upgrade — distinguishing his treatment by its concrete technological pathways. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/13 The Ocean of Consciousness]]
+Relevant passage:
+
+> whereas Hitler and his ilk planned to create superhumans by means of selective breeding and ethnic cleansing, twenty-first-century techno-humanism hopes to reach the goal far more peacefully, with the help of genetic engineering, nanotechnology and brain–computer interfaces.
+
+Supports: The different genealogy and affect — Harari roots the program in secular [[Evolutionary Humanism]] (not Christian eschatology) and claims [[Techno-Humanism]] pursues the superhuman goal "far more peacefully" via genetic engineering, nanotechnology and brain–computer interfaces. Marks the distinction from O'Gieblyn's reading and the non-collapse of [[Techno-Humanism]] into Transhumanism. Label: `Directly stated`.

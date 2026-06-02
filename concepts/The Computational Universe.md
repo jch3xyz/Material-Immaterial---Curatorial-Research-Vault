@@ -6,6 +6,7 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]"
+  - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
 related:
   - "[[Posthumanism]]"
   - "[[The Body as Data]]"
@@ -21,8 +22,9 @@ authors:
   - "[[Hans Moravec]]"
   - "[[Marvin Minsky]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # The Computational Universe
@@ -33,8 +35,9 @@ last_updated: 2026-06-01
 
 - **[[N. Katherine Hayles]]** treats the computational universe *critically and genealogically*, as a contingent, socially constructed ideology emerging from [[Artificial Life]] and cybernetics — dangerous when it slides from "useful heuristic" to a metaphysics that "privileges information over everything else." For Hayles the worldview is the totalizing target her whole book is written against, and her counter is [[Embodiment]] and [[The Materiality of Informatics]].
 - **[[Meghan O'Gieblyn]]** restates the *same* worldview independently, from physics and theology rather than from cybernetics' history. She tracks it through Wheeler's "it from bit," Seth Lloyd's digital physics, the holographic universe, and the panpsychist inflection of integrated information theory — and reads it not as Hayles's "danger" but as a **re-enchantment**: the universe-as-information functions to restore meaning, agency, and a quasi-theological order to a disenchanted cosmos. Her distinctive diagnosis is that the computer metaphor "easily slides into literalism," and that information operates as a "third substance" evading the mind-body problem.
+- **[[Yuval Noah Harari]]** holds the *same* worldview but, unlike either critic, **preaches** it. Under the name **[[Dataism]]**, he scales the computer metaphor up from the organism through societies, the economy and politics, to "the entire human species as a single data-processing system, with individual humans serving as its chips," and finally to the cosmos — a "cosmic data-processing system" that "would be like God." Where Hayles demystifies the worldview as ideology and O'Gieblyn diagnoses it as re-enchantment, Harari announces it as "the coming religion" of the twenty-first century, naming as its telos the very Internet-of-All-Things that Hayles and O'Gieblyn write against.
 
-The two authors converge on the *content* of the worldview (information as the substance of reality, "we are the programs") and diverge on its *function*: ideology to be demystified (Hayles) versus re-enchantment to be diagnosed (O'Gieblyn). See [[Panpsychism]] for the inverse move O'Gieblyn pairs it with — mind, not information, as the cosmic substrate.
+The three authors converge on the *content* of the worldview (information as the substance of reality, "we are the programs") and diverge on its *stance*: ideology to be demystified (Hayles), re-enchantment to be diagnosed (O'Gieblyn), and religion to be embraced (Harari). See [[Panpsychism]] for the inverse move O'Gieblyn pairs it with — mind, not information, as the cosmic substrate — and [[Dataism]] for Harari's name for the doctrine.
 
 ## Brief Definition
 
@@ -62,6 +65,16 @@ O'Gieblyn's worry is therefore the mirror image of Hayles's. Hayles fears the co
 
 ---
 
+## The Universe and the Species as Data-Processing (Harari)
+
+Harari gives the worldview its most expansive and least apologetic statement. Where Hayles and O'Gieblyn arrive at the computational universe and then turn to critique, Harari arrives at it and *scales it up* into a single ascending series — organism, society, economy, polity, species, cosmos — each level reread as data-processing under the doctrine he names **[[Dataism]]**: "Dataism says that the universe consists of data flows, and the value of any phenomenon or entity is determined by its contribution to data processing." The life sciences supply the lower rung ("organisms are algorithms, and that giraffes, tomatoes and human beings are just different methods for processing data"), and Harari then climbs: "Not only individual organisms are seen today as data-processing systems, but also entire societies such as beehives, bacteria colonies, forests and human cities." Even the great twentieth-century ideologies dissolve into the schema — "free-market capitalism and state-controlled communism aren't competing ideologies, ethical creeds or political institutions. At bottom, they are competing data-processing systems. Capitalism uses distributed processing, whereas communism relies on centralised processing" — and the same lens reduces democracy and dictatorship to "competing mechanisms for gathering and analysing information." This is the [[Material vs Immaterial|form-over-matter]] metaphysics Hayles diagnoses, but worked outward across the political and economic world rather than inward toward the body. `Directly stated`.
+
+The species and the cosmos are the top of the ladder. "From a Dataist perspective, we may interpret the entire human species as a single data-processing system, with individual humans serving as its chips" — and the whole of history becomes "a process of improving the efficiency of this system," whose telos is the construction of "a new and even more efficient data-processing system, called the Internet-of-All-Things," after which "Homo sapiens will vanish." Pushed to its limit, this is precisely the cosmic computer that [[Edward Fredkin]] and [[Hans Moravec]] supply on Hayles's account, now given an explicitly theological face: "Humans are merely tools for creating the Internet-of-All-Things, which may eventually spread out from planet Earth to cover the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it." Harari thus confirms, from the inside, the very re-enchantment O'Gieblyn diagnoses from the outside — the informational cosmos sliding into "messianic language" and a god to be merged into — and the very ideology Hayles names, the worldview in which "information is king" and the embodied human is an "obsolete algorithm." `Directly stated`.
+
+The decisive difference is *stance*. Hayles insists the worldview "should not be accepted uncritically" and is "dangerous when it goes from being a useful heuristic to an ideology"; O'Gieblyn reads it as a "sleight of hand" and a literalized metaphor. Harari, by contrast, presents Dataism not as error but as the next religion — "the first movement since 1789 that created a really novel value: freedom of information" — and frames the demotion of humankind to "just a ripple within the cosmic data flow" as the probable shape of things to come. He registers the critique (in "A Ripple in the Data Flow" he concedes "it’s doubtful whether life can really be reduced to data flows" and that "we have no idea how or why data flows could produce consciousness"), but treats it as a possible defeat *of humans by the worldview* rather than a refutation of the worldview itself: "even if Dataism is wrong and organisms aren't just algorithms, it won't necessarily prevent Dataism from taking over the world." For Harari the computational universe is less a thesis to be tested than a [[Posthumanism|post-human destiny]] to be reckoned with — the same content Hayles demystifies and O'Gieblyn re-enchants, here preached. `Interpretive synthesis` across the chapter.
+
+---
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — names and critiques the computational universe. She treats it as a contingent ideology, dangerous when it slides from "useful heuristic" to a metaphysics that privileges information over everything else; her counter is the recovery of [[Embodiment]] and the materiality of the medium.
@@ -70,6 +83,7 @@ O'Gieblyn's worry is therefore the mirror image of Hayles's. Hayles fears the co
 - **[[Hans Moravec]]** — radicalizes the worldview into prophecy: "the age of carbon-based life is drawing to a close," and humans will be "replaced by intelligent machines as the dominant life-form," with consciousness downloadable into a machine.
 - **[[Marvin Minsky]]** — defines human beings as "complicated machines" — a "multiprocessor with a million times a million small parts" — and dreams of "banishing death by downloading consciousness into a computer"; for Hayles his consistent downplaying of embodiment is the computational universe's anthropology in its starkest form.
 - **[[Christopher Langton]]** (as quoted by Hayles) — supplies the operative "strong claim": that the logical form of an organism can be separated from its material basis and that aliveness is a property of the former.
+- **[[Yuval Noah Harari]]** — preaches the worldview as the coming religion of [[Dataism]], scaling data-processing from the organism up through the economy and politics ("capitalism uses distributed processing, whereas communism relies on centralised processing") to "the entire human species as a single data-processing system, with individual humans serving as its chips," and finally to a "cosmic data-processing system" that "would be like God." Where Hayles demystifies and O'Gieblyn diagnoses, Harari announces.
 
 ## Related Concepts
 
@@ -236,3 +250,69 @@ Relevant passage:
 > When asked in an interview with Wired whether the internet is conscious, Koch acknowledged—astoundingly—that according to IIT, "it feels like something to be the internet," though he could not affirm whether this inner experience was anywhere near the complexity of human consciousness.
 
 Supports: The panpsychist inflection of the informational cosmos via integrated information theory (IIT) — mind extended down to networks and matter, the re-enchantment that inverts the information-as-substrate view. Bridges the computational universe to [[Panpsychism]]. Label: `Directly stated`.
+
+### Source 14
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Dataism says that the universe consists of data flows, and the value of any phenomenon or entity is determined by its contribution to data processing.
+
+Supports: Harari's one-sentence statement of the worldview at cosmic scale — the universe *as* data flows, with value indexed to data-processing contribution. Grounds the opening of the Harari section and the General Orientation's third valence. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> You may not agree with the idea that organisms are algorithms, and that giraffes, tomatoes and human beings are just different methods for processing data. But you should know that this is current scientific dogma, and that it is changing our world beyond recognition.
+
+Supports: The lower rung of Harari's ladder — the organism reread as a data-processing algorithm, the same form/matter move Hayles names, asserted as "current scientific dogma." Label: `Directly stated`.
+
+### Source 16
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> According to this view, free-market capitalism and state-controlled communism aren’t competing ideologies, ethical creeds or political institutions. At bottom, they are competing data-processing systems. Capitalism uses distributed processing, whereas communism relies on centralised processing.
+
+Supports: Harari's distinctive extension of the worldview to economics and politics — capitalism vs communism reread as distributed vs centralised data-processing. The mid-rungs of the data-processing ladder. Label: `Directly stated`.
+
+### Source 17
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> From a Dataist perspective, we may interpret the entire human species as a single data-processing system, with individual humans serving as its chips.
+
+Supports: The species-level statement at the heart of the Harari section — humanity itself as one data-processing system, individuals as its chips. Echoes the "we are the programs" image but locates the human as a *component* of the machine. Label: `Directly stated`.
+
+### Source 18
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it.
+
+Supports: The cosmic/theological apex of Harari's worldview — the Internet-of-All-Things as a god-like cosmic data-processing system into which humans merge. Confirms, from a believer's stance, the re-enchantment O'Gieblyn diagnoses and the cosmic-computer image Hayles critiques. Label: `Directly stated`.
+
+### Source 19
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Of course, even if Dataism is wrong and organisms aren’t just algorithms, it won’t necessarily prevent Dataism from taking over the world. Many previous religions gained enormous popularity and power despite their factual mistakes.
+
+Supports: Harari's preaching *stance* — Dataism framed as a coming religion whose truth is secondary to its conquest, distinguishing his embrace from Hayles's demystification and O'Gieblyn's diagnosis. Grounds the third-stance claim in the General Orientation and the closing paragraph of the Harari section. Label: `Directly stated`.

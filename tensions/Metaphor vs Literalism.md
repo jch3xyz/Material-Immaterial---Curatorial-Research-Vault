@@ -24,7 +24,7 @@ last_updated: 2026-06-01
 
 # Metaphor vs Literalism
 
-The recurring danger of *[[God, Human, Animal, Machine]]* is not that we think in metaphors but that we forget we are doing so. For O'Gieblyn the central error — the move that recurs from the early Christians through the medieval alchemists to the luminaries of Silicon Valley — is the literalization of an acknowledged analogy: the slide from *the mind is like a computer* to *the mind is in fact a computer*, from *the universe is like an information processor* to *the universe is in fact an enormous computer*. Held figuratively, these comparisons are "crude attempts to elucidate concepts that are still beyond our understanding"; taken at face value they become a metaphysics — and, she argues, the same metaphysics produces both bodily resurrection and computational immortality. This is the master tension underneath [[Mind as Machine]] and [[The Computational Universe]]: each is a metaphor that "easily slides into literalism."
+The recurring danger of *[[God Human Animal Machine]]* is not that we think in metaphors but that we forget we are doing so. For O'Gieblyn the central error — the move that recurs from the early Christians through the medieval alchemists to the luminaries of Silicon Valley — is the literalization of an acknowledged analogy: the slide from *the mind is like a computer* to *the mind is in fact a computer*, from *the universe is like an information processor* to *the universe is in fact an enormous computer*. Held figuratively, these comparisons are "crude attempts to elucidate concepts that are still beyond our understanding"; taken at face value they become a metaphysics — and, she argues, the same metaphysics produces both bodily resurrection and computational immortality. This is the master tension underneath [[Mind as Machine]] and [[The Computational Universe]]: each is a metaphor that "easily slides into literalism."
 
 ## The Poles
 
@@ -40,7 +40,7 @@ What is at stake, then, is the difference between a tool and a truth-claim. Held
 
 ## Authors and Books That Discuss It
 
-- [[Meghan O'Gieblyn]] in *[[God, Human, Animal, Machine]]* — names the central error as taking metaphors "too literally" and coins "scientific fundamentalism" for the literalized computer cosmos. Holds the productive middle: metaphors are unavoidable and useful, but must be "recognize[d]... for what they are."
+- [[Meghan O'Gieblyn]] in *[[God Human Animal Machine]]* — names the central error as taking metaphors "too literally" and coins "scientific fundamentalism" for the literalized computer cosmos. Holds the productive middle: metaphors are unavoidable and useful, but must be "recognize[d]... for what they are."
 - [[Ray Kurzweil]] — in his email to O'Gieblyn (Ch4) he locates an "essential equivalence" between transhumanist and Christian metaphors and insists "the answers to existential questions are necessarily metaphoric." O'Gieblyn reads this both ways: as confirmation of the parallel and as a fatalism that risks dissolving the metaphor/truth distinction entirely.
 - [[Nick Bostrom]] — whose simulation hypothesis (Ch8) is, for O'Gieblyn, the exemplary literalization: the "loose analogies" he draws to religious concepts become, in his fans' hands, a full "simulation theology."
 - Seth Lloyd — the MIT quantum-information theorist who, in Ch7, supplies the book's crispest instance of the slide: he "insists that the universe is not like a computer but is in fact a computer." (Cited; not a vault note.)

@@ -49,7 +49,7 @@ The consequence is a regime in which [[Dwelling]] (Heidegger's *bei sich verweil
 
 ## Counterarguments and Limitations
 
-- A Marxist rejoinder: exhibition value may be reducible to exchange value once one accepts that attention itself is a form of labor (cf. [[Immaterial Labor]], Lazzarato; the "attention economy" literature). Han does not engage this objection; he asserts that exhibition value "does not reflect any labor," which presupposes a narrow, productivist definition of labor.
+- A Marxist rejoinder: exhibition value may be reducible to exchange value once one accepts that attention itself is a form of labor (cf. [[Immaterial Labour]], Lazzarato; the "attention economy" literature). Han does not engage this objection; he asserts that exhibition value "does not reflect any labor," which presupposes a narrow, productivist definition of labor.
 - A Benjaminian rejoinder: Benjamin himself already treated exhibition value as continuous with the commodity form rather than orthogonal to it. Han's elevation of exhibition value to a *third* category may overstate its independence from exchange.
 - The claim that exhibition value "exists thanks only to the attention it produces" risks circularity if attention is itself measured by exhibition; Han does not offer an independent metric.
 - The argument is articulated at a high level of generality and is not supported by empirical economic analysis; it functions as a phenomenological-diagnostic claim, not a quantitative one. Treat as `Directly stated` for the theoretical thesis, but `Interpretive synthesis` where it is taken as an economic theory proper.

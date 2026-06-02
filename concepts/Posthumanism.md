@@ -9,6 +9,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
+  - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
+  - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -18,13 +20,15 @@ related:
   - "[[Feedback Loops]]"
   - "[[Embodiment vs Information]]"
   - "[[Material vs Immaterial]]"
+  - "[[Dataism]]"
 opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Posthumanism
@@ -35,12 +39,13 @@ For [[N. Katherine Hayles]], the posthuman is not a literal cyborg but **a point
 
 ## General Orientation
 
-The word *posthuman* carries two distinct senses in this vault, and the note keeps them separate.
+The word *posthuman* carries three distinct senses in this vault, and the note keeps them separate.
 
 - **Posthumanism as critical point of view (Hayles).** A descriptive and diagnostic stance: the posthuman names *how subjectivity is constructed* once [[Information]] is privileged over [[Embodiment]]. It is analytical, ambivalent, and contestable — Hayles is mapping a condition ("we have always been posthuman") in order to argue for a *benign, embodied* version of it.
 - **Transhumanism as eschatological program (O'Gieblyn).** A *prescriptive* movement (Kurzweil, Bostrom, Moravec) that takes the same pattern-over-matter premise and turns it into a salvation narrative: mind-uploading, the Singularity, immortality, divinization. O'Gieblyn's thesis is that this is posthumanism's "religious double" — a Christian resurrection eschatology in technical dress.
+- **The posthuman as the obsolescence of *Homo sapiens* (Harari).** The data-centric *endgame*: not the human upgraded or saved but the human *retired*. Once [[Dataism]] reconceives organisms as algorithms and history as data processing, *Homo sapiens* becomes "an obsolete algorithm" that dissolves into the cosmic data flow, sidelined by data exactly as humanism once sidelined God. This must be held apart from Harari's *other* posthuman — the upgraded "superhuman" of *Homo Deus* (treated under [[Transhumanism]]). The section below treats only the **obsolescence pole**.
 
-The two are genealogically linked but must not be merged: Hayles supplies the *critical concept* and O'Gieblyn supplies its *eschatological enactment*. What Hayles calls the "lethal graft" — the posthuman grafted onto liberal humanist autonomy and mastery — is precisely what O'Gieblyn's transhumanism *performs*. For the program as such, see the distinct concept [[Transhumanism]]; the section below treats only O'Gieblyn's argument that it is secular eschatology.
+The three are genealogically linked but must not be merged. Hayles supplies the *critical concept* and O'Gieblyn supplies its *eschatological enactment*: what Hayles calls the "lethal graft" — the posthuman grafted onto liberal humanist autonomy and mastery — is precisely what O'Gieblyn's transhumanism *performs*. Harari then marks the terminus the first two circle around: where transhumanism *promises* an immortal upgraded self, Harari's Dataism dispenses with the self altogether — the same pattern-over-matter premise carried to the point where the human is not transcended but functionally surplus. For the program (and the upgraded "superhuman") as such, see the distinct concept [[Transhumanism]]; the sections below treat O'Gieblyn's argument that the program is secular eschatology, and Harari's that it ends in human obsolescence.
 
 ## Longer Explanation
 
@@ -64,11 +69,22 @@ O'Gieblyn's sharpest move is to invert transhumanism's own rhetoric. Far from a 
 
 ---
 
+## Retiring Homo Sapiens (Harari)
+
+If Hayles diagnoses the posthuman and O'Gieblyn's transhumanism *prescribes* it as salvation, Yuval Noah Harari supplies its **obsolescence pole** — the data-centric endgame in which the human is neither contested nor saved but simply *retired*. The motor is [[Dataism]], which "says that the universe consists of data flows, and the value of any phenomenon or entity is determined by its contribution to data processing." On this premise — that "organisms are algorithms" and "life is data processing" — the human loses the functional importance on which its self-image rested. Harari frames the whole posthuman turn as a single religious displacement that exactly recapitulates the humanist one it succeeds: "**In the eighteenth century, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the twenty-first century, Dataism may sideline humans by shifting from a homo-centric to a data-centric view.**" Where humanism dethroned God, Dataism dethrones *Homo sapiens* — and by the very "yardsticks that we ourselves have enshrined" (`Directly stated`).
+
+Crucially, this is the *opposite* face of Harari's better-known figure, the upgraded "superhuman" of *Homo Deus*. In "The Great Decoupling" Harari sketches the elite that "remain both indispensable and undecipherable" — "a small and privileged elite of upgraded humans" with "unheard-of abilities," the transhumanist deification treated in this vault as [[Transhumanism]]. The obsolescence pole is the destiny of *everyone else*, and, ultimately, of the species as such. The mechanism is the "decoupling" of intelligence from consciousness: "intelligence is mandatory but consciousness is optional," so "non-conscious but highly intelligent algorithms" come to outperform humans at task after task, and "unenhanced humans will be completely useless." Dataism then "adopts a strictly functional approach to humanity," and its verdict is delivered through the book's governing analogy — the same logic by which humans once discarded the animals they had superseded: "**When the car replaced the horse-drawn carriage, we didn’t upgrade the horses – we retired them. Perhaps it is time to do the same with Homo sapiens.**" The human is recast as "an obsolete algorithm," superior to a chicken only in the complexity of its information flows, and so superable in principle by any system that "absorbs even more data … and processes it even more efficiently" (`Directly stated`).
+
+The terminus is not a war between humans and machines but a quiet dissolution. As authority "shifts from humans to algorithms," even the humanist projects of health and happiness "may become irrelevant," and "we might be reduced from engineers to chips, then to data, and eventually we might dissolve within the data torrent like a clump of earth within a gushing river." The cosmic data-processing system — the "Internet-of-All-Things" — "would be like God. It will be everywhere and will control everything, and humans are destined to merge into it"; once its construction is complete, "Homo sapiens will vanish." Harari closes the species' story with the same demotion humans inflicted on the animals: "**Dataism thereby threatens to do to Homo sapiens what Homo sapiens has done to all other animals**," and "looking back, humanity will turn out to be just a ripple within the cosmic data flow" (`Directly stated`). This is the pattern-over-matter premise of Hayles's posthuman carried past O'Gieblyn's promised immortality to its terminal consequence: where transhumanism keeps the liberal self and makes it eternal, Harari's Dataism keeps the *data* and discards the self — even consciousness becoming, in the end, dispensable. Harari himself flags this as conditional, not prophetic ("organisms aren't algorithms after all" remains a live possibility, and "all the scenarios outlined in this book should be understood as possibilities rather than prophecies"), so the obsolescence pole is best read as the *if-Dataism-is-right* limit case rather than a forecast (`Directly stated`).
+
+---
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — the posthuman as a point of view with four assumptions, distinct from the figure of [[The Cyborg]]; the end of [[The Liberal Humanist Subject]], not of humanity; lethal only when grafted onto liberal humanism; redeemable as a *benign, embodied* posthuman located in the dialectic of pattern/randomness and grounded in [[Embodiment]].
 - **Hans Moravec (Hayles's antagonist)** — the "apocalyptic" or anti-human posthuman: a "postbiological" future in which consciousness is downloaded into a computer and intelligent machines displace humanity. For Hayles this is precisely the posthuman *grafted onto liberal humanism* (autonomy and mastery extended into immortality), the version she sets out to contest.
 - **[[Meghan O'Gieblyn]]** — treats the *transhumanist* posthuman (Kurzweil, Bostrom, Moravec) not as a neutral point of view but as an **eschatological program**: posthumanism's "religious double," a Christian resurrection narrative in technical dress (uploading = resurrection, the Singularity = parousia, plus immortality and divinization). The program is precisely Hayles's "lethal graft" enacted — the pattern-over-matter posthuman fused to liberal-humanist autonomy and extended into immortality. Treated in its own right as [[Transhumanism]].
+- **[[Yuval Noah Harari]]** — the **obsolescence pole** of the posthuman. Driven by [[Dataism]], the same "deo-centric → homo-centric" displacement that humanism worked on God is now turned by data on the human ("homo-centric → data-centric"). As intelligence decouples from consciousness, *Homo sapiens* becomes "an obsolete algorithm," "retired" like the horse and dissolved into the "cosmic data flow"; the species "will vanish." Distinct from Harari's *Homo Deus* / upgraded "superhuman," which is the deification pole and is treated under [[Transhumanism]]. Stated as a conditional limit case, not a prophecy.
 
 ## Related Concepts
 
@@ -248,3 +264,69 @@ Relevant passage:
 > Bostrom, a prominent transhumanist, believes that humanity is in the process of becoming posthuman as we merge our bodies with technology. We are becoming superintelligence ourselves.
 
 Supports: Bostrom's transhumanism as a *program* of becoming posthuman (merging with technology toward superintelligence) — the prescriptive sense the note keeps distinct from Hayles's descriptive point of view. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> In the eighteenth century, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the twenty-first century, Dataism may sideline humans by shifting from a homo-centric to a data-centric view.
+
+Supports: The core of Harari's obsolescence pole — the posthuman turn as a religious displacement that recapitulates humanism's own (Dataism is to the human what humanism was to God), the deo→homo→data sequence. Label: `Directly stated`.
+
+### Source 16
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> When the car replaced the horse-drawn carriage, we didn’t upgrade the horses – we retired them. Perhaps it is time to do the same with Homo sapiens.
+
+Supports: The governing analogy of the obsolescence pole — *Homo sapiens* is not upgraded (the *Homo Deus* / transhumanist pole) but *retired*, like the horse; grounds the distinction from the "upgraded superhuman." Label: `Directly stated`.
+
+### Source 17
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Dataists explain to those who still worship flesh-and-blood mortals that they are overly attached to outdated technology. Homo sapiens is an obsolete algorithm.
+
+Supports: The reduction of the human to "an obsolete algorithm," superable by any system that processes more data more efficiently — the functional demotion at the heart of the obsolescence pole. Label: `Directly stated`.
+
+### Source 18
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Yet once the Internet-of-All-Things is up and running, we might be reduced from engineers to chips, then to data, and eventually we might dissolve within the data torrent like a clump of earth within a gushing river.
+
+Supports: The dissolution of the human into the data flow once authority shifts from humans to algorithms — the human as surplus, not transcended; the "merge into the cosmic data flow" terminus. Label: `Directly stated`.
+
+### Source 19
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Dataism thereby threatens to do to Homo sapiens what Homo sapiens has done to all other animals. … Looking back, humanity will turn out to be just a ripple within the cosmic data flow.
+
+Supports: The species-level verdict — humans demoted by their own yardstick exactly as they demoted the animals; "just a ripple within the cosmic data flow," the obsolescence pole's endpoint. Label: `Directly stated`.
+
+### Source 20
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> The third threat to liberalism is that some people will remain both indispensable and undecipherable, but they will constitute a small and privileged elite of upgraded humans. These superhumans will enjoy unheard-of abilities and unprecedented creativity, which will allow them to go on making many of the most important decisions in the world.
+
+Supports: Anchors the distinction the section turns on — Harari's *other* posthuman, the "upgraded"/"superhuman" *Homo Deus* pole (treated as [[Transhumanism]]), against which the obsolescence pole (the fate of everyone else, and of the species) is defined. Label: `Directly stated`.

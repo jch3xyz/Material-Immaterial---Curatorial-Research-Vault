@@ -14,7 +14,7 @@ last_updated: 2026-06-01
 # Source Summary: Postface
 
 **Book:** [[Six Years]]
-**Author:** [[Lucy R. Lippard]]
+**Author:** [[Lucy Lippard]]
 **Raw file:** [[raw/Lippard - Six Years/11 Postface]]
 
 ## Orientation
@@ -57,7 +57,7 @@ The third move is the **political and interdisciplinary failure**. Conceptual ar
 
 ## Key Figures / Exhibitions
 
-- [[Lucy R. Lippard]] — author, critic, and curator; the "I" diagnosing the movement's outcome.
+- [[Lucy Lippard]] — author, critic, and curator; the "I" diagnosing the movement's outcome.
 - [[Hans Haacke]] — named exception whose work does engage external (social/systemic) disciplines; the systems-aesthetics link.
 - [[Daniel Buren]] — named exception to the interdisciplinary failure.
 - [[Adrian Piper]] — named exception to the interdisciplinary failure.
@@ -71,7 +71,7 @@ The third move is the **political and interdisciplinary failure**. Conceptual ar
 ## Outgoing Links
 
 - [[Six Years]]
-- [[Lucy R. Lippard]]
+- [[Lucy Lippard]]
 - [[Material vs Immaterial]]
 - [[Information]]
 - [[Systems Theory]]

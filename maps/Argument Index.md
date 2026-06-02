@@ -70,6 +70,13 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Digital technology is an ideology of vacancy misread as the absence of philosophy]] — the viral/meme metaphor reassigns agency from subjects to ideas
 - [[Without a religious framework human worth collapses into economic logic]] — the imago dei as the only unqualified defense of priceless life (the pandemic test case)
 
+### Yuval Noah Harari — Homo Deus
+
+- [[Fulfilling humanism will destroy it by making humans irrelevant]] — the 'gun in Act I': humanism's own success undermines its foundations
+- [[Technology not philosophy will break liberalism]] — the thesis of The Time Bomb in the Laboratory: biotech and AI, not argument, will dissolve liberal individualism
+- [[Science strengthens myths rather than replacing them with facts]] — Harari against the secularization narrative: religion and science collaborate
+- [[The self is an imaginary story like nations gods and money]] — the self bound to the order of intersubjective fictions
+
 ## By Theme
 
 ### On transparency and visibility
@@ -101,6 +108,9 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Transhumanism is secularized Christian eschatology]] — posthumanism's religious double; resurrection theology in technical dress (O'Gieblyn)
 - [[Intelligence does not require a unified knowing subject]] — Brooks's distributed, bottom-up intelligence (O'Gieblyn)
 - [[The anthropomorphism charge misreads the flow of the metaphor]] — the human reduced to the machine, not the reverse (O'Gieblyn)
+- [[The self is an imaginary story like nations gods and money]] — the indivisible liberal self dissolved into an intersubjective fiction (Harari)
+- [[Fulfilling humanism will destroy it by making humans irrelevant]] — humanism's success undermines the human subject it enthrones (Harari)
+- [[Technology not philosophy will break liberalism]] — biotech and AI, not argument, dissolve liberal individualism (Harari)
 
 ### On desire and control
 
@@ -142,6 +152,8 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Surveillance reproduces Protestant salvation anxiety]] — the Weberian power of surveillance: self-censorship
 - [[Digital technology is an ideology of vacancy misread as the absence of philosophy]] — the viral/meme reassignment of agency
 - [[Without a religious framework human worth collapses into economic logic]] — the imago dei as the only unqualified defense of priceless life
+- [[Science strengthens myths rather than replacing them with facts]] — Harari against the secularization narrative: science and religion collaborate
+- [[Technology not philosophy will break liberalism]] — the techno-religions (Techno-Humanism, Dataism) succeed humanism (Harari)
 
 ### On art, politics, and the market
 

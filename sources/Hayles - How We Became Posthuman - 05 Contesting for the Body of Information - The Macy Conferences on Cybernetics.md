@@ -40,7 +40,7 @@ The McCulloch material supplies the chapter's most-cited move, the **Platonic ba
 
 ## Key Arguments
 
-- [[The disembodiment of information was contingent, not inevitable]] — reification won through situated negotiation, not because the alternatives were impossible; "neither was it inevitable." *(Directly stated)*
+- [[The disembodiment of information was contingent not inevitable]] — reification won through situated negotiation, not because the alternatives were impossible; "neither was it inevitable." *(Directly stated)*
 - [[Information as what-it-is versus what-it-does]] — Shannon and Wiener define information by what it is (a context-free thing); MacKay defines it by what it does (an embodied, representational action). *(Directly stated)*
 - [[The Platonic backhand makes embodiment derivative of logical form]] — the rhetorical move that converts a model's abstraction from effect into cause, making "embodied reality into a blurred and messy instantiation of the clean abstractions of logical forms." *(Directly stated)*
 - [[If what can be exactly specified can be done by a machine, the human residue is ambiguity]] — Pitts/von Neumann's thesis assimilates the uniquely human to "the ineffability of language" and aligns instrumental univocality with the machine. *(Strongly implied)*
@@ -110,7 +110,7 @@ Relevant passage:
 
 > Conceptualizing information as a disembodied entity was not an arbitrary decision, but neither was it inevitable.
 
-Supports: The chapter's governing thesis and the foundation of [[The disembodiment of information was contingent, not inevitable]] — the contingency that grounds [[Embodiment vs Information]] and [[Material vs Immaterial]].
+Supports: The chapter's governing thesis and the foundation of [[The disembodiment of information was contingent not inevitable]] — the contingency that grounds [[Embodiment vs Information]] and [[Material vs Immaterial]].
 Confidence: Directly stated
 
 ### Source 2

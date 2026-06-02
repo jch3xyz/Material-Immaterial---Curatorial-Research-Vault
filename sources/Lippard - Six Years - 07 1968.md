@@ -14,12 +14,12 @@ last_updated: 2026-06-01
 # Source Summary: Six Years — 1968
 
 **Book:** [[Six Years]]
-**Author:** [[Lucy R. Lippard]]
+**Author:** [[Lucy Lippard]]
 **Raw file:** [[raw/Lippard - Six Years/07 1968]]
 
 ## Orientation
 
-This is the pivotal year-chronicle of [[Lucy R. Lippard]]'s *Six Years*, and the year that gives the book its title. The section is a documentary anthology — books, exhibition records, dealer notices, symposium transcripts, and (above all) artist statements quoted verbatim — through which Lippard lets 1968 assemble the vocabulary of conceptual art almost in a single stroke. Her own argumentative voice is sparse; the chronicle is built to let the period speak. 1968 is anchored by the February publication of her essay with John Chandler, "The Dematerialization of Art" (*Art International*), which both names the book and states its thesis: that an "ultra-conceptual art that emphasizes the thinking process almost exclusively" is "provoking a profound dematerialization of art." This is the art-historical instance of the vault's titular axis, [[Material vs Immaterial]] — the object demoted to end-product, the studio "becoming a study."
+This is the pivotal year-chronicle of [[Lucy Lippard]]'s *Six Years*, and the year that gives the book its title. The section is a documentary anthology — books, exhibition records, dealer notices, symposium transcripts, and (above all) artist statements quoted verbatim — through which Lippard lets 1968 assemble the vocabulary of conceptual art almost in a single stroke. Her own argumentative voice is sparse; the chronicle is built to let the period speak. 1968 is anchored by the February publication of her essay with John Chandler, "The Dematerialization of Art" (*Art International*), which both names the book and states its thesis: that an "ultra-conceptual art that emphasizes the thinking process almost exclusively" is "provoking a profound dematerialization of art." This is the art-historical instance of the vault's titular axis, [[Material vs Immaterial]] — the object demoted to end-product, the studio "becoming a study."
 
 What makes the 1968 file unusual as a source is that the book documents the critique of its own thesis. Six weeks after the essay, the Art-Language group (Coventry — Terry Atkinson, Michael Baldwin, with Ian Burn and Mel Ramsden in the orbit) sent Lippard and Chandler a letter contesting the very metaphor of "dematerialization" on matter-state grounds: the works in question "may not be an art-object as we know it in its traditional matter-state, but they are nevertheless matter in one of its forms, either solid-state, gas-state, liquid-state." A map is "just as much a solid-state object … as is any Rubens." Lippard prints the rebuttal in full alongside the thesis, so this section is the primary place where [[Material vs Immaterial]] is staged as a live dispute rather than a settled hierarchy — the immaterial pole asserted and immediately denied its autonomy on physical grounds.
 
@@ -27,7 +27,7 @@ Around this dispute, 1968 instantiates several strands the later years will elab
 
 ## Key Figures
 
-- [[Lucy R. Lippard]] (with John Chandler) — author of "The Dematerialization of Art" (*Art International*, February 1968), the book's source essay and namesake.
+- [[Lucy Lippard]] (with John Chandler) — author of "The Dematerialization of Art" (*Art International*, February 1968), the book's source essay and namesake.
 - [[Hans Haacke]] — Howard Wise Gallery (January 13–February 3); first water/condensation boxes, weather and biological-growth pieces, *Wind in Water*, *Live Random Airborne System* (Coney Island, November 30). The year's emblem of systems aesthetics.
 - [[Sol LeWitt]] — *46 3-Part Variations on 3 Different Kinds of Cubes* (Dwan Gallery, February), later published as a book; serial/systemic conceptual art.
 - [[Seth Siegelaub]] — organizer of the Bradford and Windham shows, Weiner's *Statements*, *The Xerox Book*, and the November Huebler catalogue; pioneer of the catalogue/exhibition-as-medium.

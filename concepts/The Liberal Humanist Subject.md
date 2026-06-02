@@ -7,6 +7,8 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
+  - "[[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]"
+  - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
 related:
   - "[[Embodiment]]"
   - "[[Material vs Immaterial]]"
@@ -17,20 +19,22 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # The Liberal Humanist Subject
 
 ## General Orientation
 
-The liberal humanist subject — the Enlightenment model of the human as an autonomous, rational, self-possessing, free-willed individual — appears in this vault through two authors who treat it from opposite ends of its life cycle.
+The liberal humanist subject — the Enlightenment model of the human as an autonomous, rational, self-possessing, free-willed individual — appears in this vault through three authors who treat it from different angles of its life cycle.
 
 - **[[N. Katherine Hayles]]** establishes the *genealogy and the continuity*: the liberal subject, grounded in Macpherson's possessive individualism, is the named "reference point for the human" against which the posthuman is measured. Her wager is that the posthuman does not cleanly break from this subject but inherits its constitutive erasure of [[Embodiment]] — the self lodged in the rational mind, possessing a body but "not represented as being a body."
 - **[[Meghan O'Gieblyn]]** documents the *contemporary erasure in practice*: under surveillance capitalism and what Harari calls "Dataism," the autonomous, feeling, self-knowing individual that liberal humanism presupposes is invalidated as a source of truth and dissolved into [[Pattern and Randomness|pattern and probabilities]]. Where Hayles theorizes how computation could displace possessive individualism "as the ground of being," O'Gieblyn shows the displacement already operationalized — the person rendered "not an individual but a member of a data set."
+- **[[Yuval Noah Harari]]** mounts the *frontal life-sciences attack* that O'Gieblyn only cites at second hand. In *[[Homo Deus]]* the free, indivisible individual is named a "myth": humans are not individuals but "'dividuals'," an assemblage of "biochemical algorithms" with "no single inner voice or a single self," and the self itself is "an imaginary story, just like nations, gods and money." Each of the three liberal assumptions of individualism — an indivisible inner essence, a free authentic self, privileged self-knowledge — is, he argues, refuted by the life sciences. His distinctive prognosis is that the subject "will not be crushed by Big Brother; it will disintegrate from within."
 
-The two senses converge on a single claim: the bounded, interior, self-owning subject of liberal humanism is undone the moment the human is recoded as information ([[The Body as Data]]). Hayles names the conceptual mechanism; O'Gieblyn names the economic and algorithmic one.
+The three senses converge on a single claim: the bounded, interior, self-owning subject of liberal humanism is undone the moment the human is recoded as information ([[The Body as Data]]). Hayles names the conceptual mechanism; O'Gieblyn names the economic and algorithmic one; Harari names the biological one — and supplies the slogan, the "dividual," that O'Gieblyn's surveillance-capitalist data set operationalizes.
 
 ## Brief Definition
 
@@ -54,11 +58,19 @@ Hayles is explicit that she does not write to rescue this subject. She does "not
 
 ## Dataism and the Person as Data Set (O'Gieblyn)
 
-In *[[God, Human, Animal, Machine]]*, Meghan O'Gieblyn watches the liberal humanist subject [[N. Katherine Hayles|Hayles]] theorizes get dismantled not by argument but by infrastructure. Her hinge is Yuval Noah Harari's diagnosis that liberal humanism "depends on the assumption that an individual knows what is best for herself and can make rational decisions about her best interests" — exactly the autonomous, self-possessing self of possessive individualism. Once corporations "know the customer better than she knows herself," that assumption collapses, and with it the ground of the subject. O'Gieblyn reports Harari's claim that "'Dataism,' which he believes is already succeeding humanism as a ruling ideology, invalidates the assumption that individual feelings, convictions, and beliefs constitute a legitimate source of truth," compressed into the slogan: "Whereas humanism commanded: 'Listen to your feelings!' " he writes, "Dataism now commands: 'Listen to the algorithms! They know how you feel.' " The seat of authority migrates from the subject's interiority to the algorithm — the liberal subject deposed, not by recovering [[Embodiment|the body]] (Hayles's route) but by being out-known by a predictive system.
+In *[[God Human Animal Machine]]*, Meghan O'Gieblyn watches the liberal humanist subject [[N. Katherine Hayles|Hayles]] theorizes get dismantled not by argument but by infrastructure. Her hinge is Yuval Noah Harari's diagnosis that liberal humanism "depends on the assumption that an individual knows what is best for herself and can make rational decisions about her best interests" — exactly the autonomous, self-possessing self of possessive individualism. Once corporations "know the customer better than she knows herself," that assumption collapses, and with it the ground of the subject. O'Gieblyn reports Harari's claim that "'Dataism,' which he believes is already succeeding humanism as a ruling ideology, invalidates the assumption that individual feelings, convictions, and beliefs constitute a legitimate source of truth," compressed into the slogan: "Whereas humanism commanded: 'Listen to your feelings!' " he writes, "Dataism now commands: 'Listen to the algorithms! They know how you feel.' " The seat of authority migrates from the subject's interiority to the algorithm — the liberal subject deposed, not by recovering [[Embodiment|the body]] (Hayles's route) but by being out-known by a predictive system.
 
 O'Gieblyn locates the philosophical core of this erasure in the same place Hayles does — the early cybernetic recoding of the person as [[Pattern and Randomness|pattern]] rather than presence. She names "the philosophy of selfhood that has characterized information technologies since the early days of cybernetics — the notion that a person can be described purely in terms of pattern and probabilities, without any concern for interiority." This is [[The Body as Data]] arrived at its surveillance-capitalist destination: in Shoshana Zuboff's "behavioral futures," the self is not read for its soul but stripped for "raw material" to be turned "into behavioral data." Zuboff's surveillance capitalism, O'Gieblyn stresses, "has no interest in the soul" — "It does not care what you believe. It does not care how you feel" — which is precisely the inverse of liberal humanism's command to consult one's own feelings and convictions. The interior, self-knowing subject is not refuted; it is simply rendered irrelevant to prediction.
 
 The most concrete image of this dissolution is O'Gieblyn's friend, the recovering addict whose attempt to repay what she stole is refused because the theft was already "shrinkage," budgeted in advance. Reflecting on her own agency, the friend realizes that "once you looked at the whole picture, she said, she was not an individual but a member of a data set whose actions could be anticipated with such precision that the corporation had already budgeted the money it knew she would steal." Here the liberal humanist subject — free-willed, singular, the proprietor of its own choices — is supplanted by the statistical subject, a node whose behavior is anticipated, priced, and modified through "algorithmic determinism." O'Gieblyn extends this with Hannah Arendt's warning that from the "Archimedean point" human activities "appear to ourselves as no more than 'overt behavior,' which we can study with the same methods we use to study the behavior of rats" — a vantage that "cannot account for human agency," reducing the autonomous individual to "mere cogs" in a deterministic process. The surveillance-capitalist person-as-data-set is the contemporary, operational face of the erasure of the autonomous subject that Hayles tracked through [[Cybernetics]] and [[Feedback Loops]].
+
+## The Free Individual as Fiction (Harari)
+
+In *[[Homo Deus]]*, Yuval Noah Harari delivers the most direct assault on the liberal humanist subject in the vault — not Hayles's genealogical critique nor O'Gieblyn's report of surveillance practice, but a frontal argument from the life sciences that the subject's two load-bearing beliefs, free will and the indivisible individual, are simply false as descriptions of the world. Liberalism, he holds, "is based on what it believes to be factual statements," and "these factual statements just don't stand up to rigorous scientific scrutiny." On free will: when scientists "opened up the Sapiens black box, they discovered there neither soul, nor free will, nor 'self' — but only genes, hormones and neurons." Every brain process is "either deterministic or random or a combination of both — but they are never free"; humans can act on their desires but cannot "choose their desires in the first place," so "the life sciences undermine liberalism, arguing that the free individual is just a fictional tale concocted by an assembly of biochemical algorithms." (Directly stated)
+
+On the *individual*, Harari attacks the etymological core — to be an individual is to be "in-dividual," undivided — and finds instead a "cacophony of conflicting voices, none of which is 'my true self.'" His verdict is blunt: "Humans aren't individuals. They are 'dividuals.'" Drawing on Gazzaniga's split-brain studies and Kahneman's experiments, he splits the supposed unity into an "experiencing self" and a "narrating self," concluding that "the self too is an imaginary story, just like nations, gods and money." The neuropsychological register here is what distinguishes Harari's "dividual" from the same word in [[Society of Control|Deleuze]]: where Deleuze's *dividual* names the subject decomposed into modulable data-samples by control mechanisms, Harari's names a self that was never unified to begin with — an "assemblage of many different algorithms lacking a single inner voice or a single self," undermined from inside the skull rather than from the institutions outside it. (Directly stated; Deleuze contrast = Interpretive synthesis)
+
+In "The Great Decoupling," Harari formalizes the attack as the collapse of the "three important assumptions" on which "the liberal belief in individualism is founded": that "I have a single essence which cannot be divided"; that "my authentic self is completely free"; and that therefore "I can know things about myself nobody else can discover." Against each, the life sciences answer that humans are "'dividuals'," that "the algorithms constituting a human are not free," and that "an external algorithm could theoretically know me much better than I can ever know myself" — at which point "the algorithm will know best, the algorithm will always be right." This is where Harari's argument feeds directly into O'Gieblyn's "person as data set" above: once an external algorithm out-knows the self, "authority will shift from individual humans to networked algorithms." His closing image gives the concept its sharpest formulation and marks his break from the Orwellian model: "The individual will not be crushed by Big Brother; it will disintegrate from within"; broken into "biochemical subsystems" and monitored by "powerful algorithms," "the individual will transpire to be nothing but a religious fantasy. Reality will be a mesh of biochemical and electronic algorithms, without clear borders, and without individual hubs." (Directly stated)
 
 ## Related Concepts
 
@@ -67,6 +79,7 @@ The most concrete image of this dissolution is O'Gieblyn's friend, the recoverin
 - [[The Body as Data]] — Gibson's "data made flesh"; the posthuman recoding through which the liberal devaluation of the body is "continued rather than disrupted."
 - [[Feedback Loops]] — the cybernetic flow that puts "the boundaries of the autonomous subject up for grabs."
 - [[Cybernetics]] — the discourse whose "inexorable logic" undermines the liberal subjectivity [[Norbert Wiener]] meant to preserve.
+- [[Society of Control]] — shares the term "dividual." Deleuze decomposes the subject into modulable data-samples from without; Harari finds it never cohered within. Same word, opposite vector — institutional vs. neuropsychological.
 
 ## Opposing Concepts
 
@@ -236,4 +249,64 @@ Relevant passage:
 > When it comes to the data used to make these predictions—the information silently siphoned off us by companies trading in what the scholar Shoshana Zuboff calls “behavioral futures”—we are often placated with the reminder that the mirror is two-sided.
 
 Supports: Names Zuboff's "behavioral futures" — the surveillance-capitalist market in predicted behavior that treats the self as raw material rather than interiority, the economic mechanism by which the autonomous subject is erased.
+Confidence: Directly stated
+
+### Source 14
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> However, over the last few decades the life sciences have reached the conclusion that this liberal story is pure mythology. The single authentic self is as real as the eternal Christian soul, Santa Claus and the Easter Bunny. If you look really deep within yourself, the seeming unity that we take for granted dissolves into a cacophony of conflicting voices, none of which is ‘my true self’. Humans aren’t individuals. They are ‘dividuals’.
+
+Supports: Harari's core renaming of the liberal subject — the "single authentic self" is mythology; the human is not an in-dividual but a "dividual," dissolving the indivisible-essence assumption directly.
+Confidence: Directly stated
+
+### Source 15
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> We see, then, that the self too is an imaginary story, just like nations, gods and money.
+
+Supports: The self is placed among intersubjective fictions — the strongest statement that liberal interiority is a constructed narrative (the "narrating self") rather than a real inner essence.
+Confidence: Directly stated
+
+### Source 16
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> The life sciences undermine liberalism, arguing that the free individual is just a fictional tale concocted by an assembly of biochemical algorithms.
+
+Supports: Names the thesis of the Harari section in one sentence — the "free individual" is a fiction produced by biochemical algorithms, joining the attack on free will to the attack on individuality.
+Confidence: Directly stated
+
+### Source 17
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> Organisms are algorithms, and humans are not individuals – they are ‘dividuals’, i.e. humans are an assemblage of many different algorithms lacking a single inner voice or a single self.
+
+Supports: The life-sciences refutation of the first liberal assumption of individualism (the indivisible inner essence); supplies the neuropsychological sense of "dividual" distinct from Deleuze's institutional one.
+Confidence: Directly stated
+
+### Source 18
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> The individual will not be crushed by Big Brother; it will disintegrate from within. Today corporations and governments pay homage to my individuality, and promise to provide medicine, education and entertainment customised to my unique needs and wishes. But in order to so, corporations and governments first need to break me up into biochemical subsystems, monitor these subsystems with ubiquitous sensors and decipher their working with powerful algorithms. In the process, the individual will transpire to be nothing but a religious fantasy. Reality will be a mesh of biochemical and electronic algorithms, without clear borders, and without individual hubs.
+
+Supports: Harari's distinctive prognosis — the liberal individual is undone not by Orwellian external coercion but by internal disaggregation into monitored biochemical subsystems; the "religious fantasy" verdict and "no individual hubs" image close the concept.
 Confidence: Directly stated

@@ -5,7 +5,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/12 The Semiotics of Virtuality - Mapping the Posthuman]]"
 related:
-  - "[[Pattern vs Randomness]]"
+  - "[[Pattern and Randomness]]"
   - "[[Informatics]]"
   - "[[Virtuality]]"
   - "[[The Body as Data]]"
@@ -29,7 +29,7 @@ Hayles's coinage for the signifier as it behaves in informatic media: not a stab
 
 ## Longer Explanation
 
-The flickering signifier is Hayles's informatic successor to the Lacanian floating signifier. Where Saussure defined signifiers by their relational differences and Lacan imagined signifieds as "an ungraspable flow floating beneath a network of signifiers," Hayles argues that information technologies carry these instabilities "one step further," producing signifiers "characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions." The decisive difference is grounded in the material substrate of the screen: where ink is a durable inscription, the screen image is "a constantly refreshed image," so "signifiers flicker rather than float." This is not a metaphor borrowed loosely from electronics — it is, for Hayles, what happens to language when its medium foregrounds [[Pattern vs Randomness]] over [[Presence vs Absence]] (Directly stated).
+The flickering signifier is Hayles's informatic successor to the Lacanian floating signifier. Where Saussure defined signifiers by their relational differences and Lacan imagined signifieds as "an ungraspable flow floating beneath a network of signifiers," Hayles argues that information technologies carry these instabilities "one step further," producing signifiers "characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions." The decisive difference is grounded in the material substrate of the screen: where ink is a durable inscription, the screen image is "a constantly refreshed image," so "signifiers flicker rather than float." This is not a metaphor borrowed loosely from electronics — it is, for Hayles, what happens to language when its medium foregrounds [[Pattern and Randomness]] over [[Presence vs Absence]] (Directly stated).
 
 What makes the signifier *flicker* is its layered structure. In [[Informatics]], Hayles writes, "the signifier can no longer be understood as a single marker... Rather it exists as a flexible chain of markers bound together by the arbitrary relations specified by the relevant codes." Between the lit pixels a writer sees and the electronic polarities the machine reads intervene machine code, compiler language, and processing program. Crucially, "a signifier on one level becomes a signified on the next-higher level," and because the relation at each level is arbitrary, "it can be changed with a single global command." The coding chains act as "linguistic transducers" that "impart astonishing power to even very small changes" — "the longer the chain of codes, the more radical the transformations that can be effected." This amplification is possible "because the constant reproduced through multiple coding layers is a pattern rather than a presence" (Directly stated).
 
@@ -44,7 +44,7 @@ Hayles is careful that the flickering signifier not be read as the disappearance
 
 ## Related Concepts
 
-- [[Pattern vs Randomness]] — the dialectic the flickering signifier instantiates; the signifier flickers because pattern, not presence, is the conserved quantity across coding layers.
+- [[Pattern and Randomness]] — the dialectic the flickering signifier instantiates; the signifier flickers because pattern, not presence, is the conserved quantity across coding layers.
 - [[Informatics]] — the regime in which signifiers become flexible coding chains rather than single marks.
 - [[Virtuality]] — the cultural perception of information and materiality as separable, of which flickering signification is the semiotic symptom.
 - [[The Body as Data]] — the flickering signifier extends to the decoder's own physicality, "data made flesh."
@@ -61,7 +61,7 @@ Hayles is careful that the flickering signifier not be read as the disappearance
 ## Questions It Raises
 
 - If physicality is "another flickering signifier in a chain of signification," does the flickering signifier model dissolve [[Embodiment]] into [[The Body as Data]], or does its dependence on a material interface preserve the body as the irreducible ground of signification?
-- The flickering signifier foregrounds [[Pattern vs Randomness]]; what is lost — for both bodies and books — when the "resistant materiality" of durable inscription is treated as merely the carrier of a replicable pattern? (Hayles: "Embodiment can be destroyed, but it cannot be replicated.")
+- The flickering signifier foregrounds [[Pattern and Randomness]]; what is lost — for both bodies and books — when the "resistant materiality" of durable inscription is treated as merely the carrier of a replicable pattern? (Hayles: "Embodiment can be destroyed, but it cannot be replicated.")
 - Is flickering signification a genuinely new semiotics of the posthuman, or the surfacing of a [[Material vs Immaterial]] ideology — the "illusion of erasure" — that an inquiry into [[Informatics]] should resist rather than adopt?
 - If consciousness is achieved "through recursive feedback loops cycling between different levels of coding," does the flickering signifier make human and machine subjectivity continuous, and on whose terms?
 

@@ -13,13 +13,13 @@ last_updated: 2026-06-01
 
 # Source Summary: Chapter 7 — The Society of Information
 
-**Book:** [[Byung-Chul Han - The Transparency Society]]
+**Book:** [[The Transparency Society]]
 **Author:** [[Byung-Chul Han]]
 **Raw file:** [[raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information]]
 
 ## Orientation
 
-Chapter 7 of [[Byung-Chul Han - The Transparency Society|*The Transparency Society*]] re-reads Plato's allegory of the cave not as a parable of cognition but as a contrast between two **modes of existence** — the narrative and the cognitive. Han insists that "Plato's cave is a theater": the prisoners watch scenic illusions, puppet-like figures and props, not the shadows of real things. This framing lets him position the Platonic [[Sunlight as Transcendence|sun]] as a metaphysical light of truth that hierarchizes and orients, against which the present-day [[Transparency|Society of Transparency]] appears as light's photonegative.
+Chapter 7 of [[The Transparency Society|*The Transparency Society*]] re-reads Plato's allegory of the cave not as a parable of cognition but as a contrast between two **modes of existence** — the narrative and the cognitive. Han insists that "Plato's cave is a theater": the prisoners watch scenic illusions, puppet-like figures and props, not the shadows of real things. This framing lets him position the Platonic [[Sunlight as Transcendence|sun]] as a metaphysical light of truth that hierarchizes and orients, against which the present-day [[Transparency|Society of Transparency]] appears as light's photonegative.
 
 In place of luminous, hierarchizing light, [[Transparency]] is described as **"lightless radiation"** — a homogenizing, penetrating, intrusive medium that suffuses everything and makes it see-through without illuminating it. The chapter then identifies the [[Transparency|Society of Transparency]] with the [[Information|Society of Information]]: information is the phenomenon stripped of all negativity, "positivized, operationalized language." Han borrows and then breaks with Heidegger's [[Ge-Stell|Framing (Ge-Stell)]] — language under Framing turns into information — but argues that today's dominant gesture is not commanding/positioning but [[Exhibition (Aus-Stellen)|exhibiting]] and [[Putting-on-Display (Zur-Schau-Stellen)|putting-on-display]], driven not by [[Polemos]] (power) but by [[Porno (Attention)|porno]] (attention).
 
@@ -72,7 +72,7 @@ The chapter closes with a paradox of fullness and emptiness: only emptiness is e
 ## Outgoing Links
 
 - [[Byung-Chul Han]]
-- [[Byung-Chul Han - The Transparency Society]]
+- [[The Transparency Society]]
 - [[Martin Heidegger]]
 - [[Plato]]
 - [[The Question Concerning Technology]]

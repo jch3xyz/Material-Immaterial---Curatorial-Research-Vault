@@ -26,7 +26,7 @@ last_updated: 2026-06-01
 
 ## Author's Definition
 
-The term [[Lucy R. Lippard|Lippard]] coined (with [[John Chandler]], in their 1968 *Art International* article "The Dematerialization of Art") and operationalized as the through-line of *[[Six Years]]*. Her own working definition, given in the Preface, deliberately does **not** claim literal immateriality:
+The term [[Lucy Lippard|Lippard]] coined (with [[John Chandler]], in their 1968 *Art International* article "The Dematerialization of Art") and operationalized as the through-line of *[[Six Years]]*. Her own working definition, given in the Preface, deliberately does **not** claim literal immateriality:
 
 > But for lack of a better term | have continued to refer to a process of dematerialization, or a deemphasis on material aspects (uniqueness, permanence, decorative [attractiveness]).
 

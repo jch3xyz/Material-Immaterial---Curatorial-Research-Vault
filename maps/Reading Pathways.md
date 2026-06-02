@@ -261,3 +261,53 @@ A cross-book pathway placing Han's neoliberal immaterial production beside Hayle
 - [[Material vs Immaterial]] — the vault's master axis, now spanning four author sections
 - [[The Body as Data]] — the body recoded as data; the digital habitus as a likeness of the soul
 - [[N. Katherine Hayles and Byung-Chul Han]] — two distinct senses of 'information' on the embodiment axis
+
+## Pathways through *Homo Deus* (Yuval Noah Harari)
+
+### Pathway: The rise of Dataism
+
+Follows the book's culminating arc, from the new human agenda to the keystone thesis that organisms are algorithms, through the decoupling of intelligence from consciousness, to the data-religion that would retire humanity. Useful for thinking the posthuman, automation, and the worship of information flow.
+
+- [[The New Human Agenda]] — immortality, happiness, and divinity as humanity's next projects
+- [[Organisms Are Algorithms]] — the keystone biological thesis; cross-links Patternism and The Body as Data
+- [[The Decoupling of Intelligence from Consciousness]] — intelligence mandatory, consciousness optional
+- [[The Useless Class]] — the superfluous people produced by automation
+- [[Dataism]] — data-positivism as the new universal religion
+- [[The Internet-of-All-Things]] — Dataism's eschaton
+- [[Homo-Centric vs Data-Centric]] — humanism vs Dataism
+- [[Yuval Noah Harari and Byung-Chul Han]] — the keystone-merge interlocutor on Dataism and growth-as-religion
+
+### Pathway: Fictions that bind the world
+
+Traces Harari's three-level ontology and his account of large-scale cooperation: how money, gods, and nations — fictions that pass the reality test only as shared imagination — organise society algorithmically and ultimately recast the self as a story. Useful for thinking the immaterial, intersubjectivity, and the self as construct.
+
+- [[Intersubjective Reality]] — the third level of reality (money, gods, nations)
+- [[Large-Scale Flexible Cooperation]] — the real 'human spark'
+- [[Society as Algorithm]] — writing organises society algorithmically (bureaucracy)
+- [[Writing Reshapes Reality]] — text forcing reality to conform
+- [[Can It Suffer (The Reality Test)]] — the criterion for the real vs the fictional
+- [[The self is an imaginary story like nations gods and money]] — the self bound to the order of fictions
+- [[The Experiencing Self vs The Narrating Self]] — Harari via Kahneman
+
+### Pathway: Humanism and its self-undermining
+
+Charts the book's central historical argument: humanism as the dominant modern religion, the modern covenant that trades meaning for power, and the 'gun in Act I' by which fulfilling humanism destroys it. Useful for thinking modernity, value, and the techno-religions that succeed it.
+
+- [[Humanism (Harari)]] — humanism as the worship of humankind
+- [[The Modern Covenant]] — modernity as trading meaning for power
+- [[Liberal Humanism (Harari)]] — the orthodox humanist sect that won 1914–1989
+- [[Free Will as Fiction (Harari)]] — free will an empty word like 'soul'
+- [[Fulfilling humanism will destroy it by making humans irrelevant]] — the 'gun in Act I'
+- [[Technology not philosophy will break liberalism]] — biotech and AI dissolve liberal individualism
+- [[Techno-Humanism]] — the conservative techno-religion that succeeds humanism
+- [[Homo-Centric vs Data-Centric]] — the closing opposition
+
+### Pathway: Material/Immaterial across the vault (Harari)
+
+A cross-book pathway placing Harari's intersubjective fictions and freedom of information beside the body recoded as data, on the vault's central Material/Immaterial axis. Useful for reading the immaterial as the order of fictions more powerful than material things.
+
+- [[Material vs Immaterial]] — the vault's master axis
+- [[Intersubjective Reality]] — money, gods, nations: immaterial fictions more powerful than material things
+- [[The Body as Data]] — the body recoded as informational pattern
+- [[Freedom of Information]] — Dataism's supreme value, prizing flow over substrate
+- [[Yuval Noah Harari and N. Katherine Hayles]] — the species recast as a data-processing system

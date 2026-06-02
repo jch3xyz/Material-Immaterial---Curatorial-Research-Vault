@@ -65,7 +65,7 @@ The definition therefore does double duty. Negatively, it specifies what informa
 - [[Framing (Ge-Stell)|Framing (Heidegger)]] — Heidegger's Ge-Stell, which Han invokes to name information's positioning of language.
 - [[Hypercommunication]] — the accelerated circulation that information makes possible.
 - [[Information vs Truth]] — the broader opposition this definition grounds.
-- [[Processor vs Procession]] — the formal contrast (additive, narrative-less vs. narrative, directional) that information makes thinkable.
+- [[Procession vs Processor]] — the formal contrast (additive, narrative-less vs. narrative, directional) that information makes thinkable.
 
 ## Sources
 

@@ -5,6 +5,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch11 [Algorithm]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
+  - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
+  - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
 related:
   - "[[Disenchantment]]"
   - "[[Re-enchantment]]"
@@ -21,11 +23,21 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Norbert Wiener]]"
   - "[[Max Weber]]"
+  - "[[Yuval Noah Harari]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # The Algorithm as Providence
+
+## General Orientation
+
+This note holds two convergent author-treatments of one structure: the predictive algorithm reoccupying the seat of a fate-decreeing, inscrutable God.
+
+- **[[Meghan O'Gieblyn]] (theological genealogy)** — the *providence* sense proper. The black-box predictive system is the *nominalist God of Calvin and Luther* resurrected in code: a transcendent verdict, beyond appeal, whose criteria the judged are forbidden to know. Her engine is Protestant *predestination* and the salvation-anxiety it breeds; the question is whether prediction *enacts* the fate it foresees.
+- **[[Yuval Noah Harari]] (data-religion form)** — the *Dataist* variant. The all-knowing algorithm escalates from oracle to agent to **sovereign**, and the **black-box master algorithm** becomes literally "like God"—a plan the human brain "cannot embrace," demanding the same blind trust Christianity once demanded of God's plan. Where O'Gieblyn supplies the theological lineage of the opacity, Harari supplies the data-religion that now worships it as the new source of authority and meaning.
+
+The two are the same providence structure read from opposite ends: O'Gieblyn traces it *back* to Calvinist predestination; Harari projects it *forward* as Dataism. O'Gieblyn herself cites Harari's "Listen to the algorithms!" as the supersession of the human knower (see the Posthumanism cross-link below).
 
 ## Brief Definition
 
@@ -41,11 +53,18 @@ The answer the chapters develop is that prediction routinely *becomes* control t
 
 Crucially, this deity has no interest in the soul — only in [[Pattern and Randomness|pattern and probability]]. The philosophy of selfhood underwriting it descends, she writes, "from the early days of [[Cybernetics|cybernetics]]—the notion that a person can be described purely in terms of pattern and probabilities, without any concern for interiority." Shoshana Zuboff's "behavioral futures" treat the person as raw material for prediction, not as an interior life: "It does not care what you believe. It does not care how you feel." This is the surveillance correlate of [[The Body as Data]] and [[Information]] — the subject rendered as metadata, "the shell of human experience." In Chapter 13 the same nominalist God reappears as the pandemic market and the dream of total tracking: the stock market "resided like the nominalist God in some transcendent realm, following its own whims, its own logic, with little concern for us," and the quest for epidemiological "granularity" aims at "something like Laplace's demon" or "Calvin's God, a being who knows the fate of each and every person while denying the people themselves any knowledge of or access to this information." The concept thus names how a [[Disenchantment|disenchanted]] civilization, having banished providence, has rebuilt it in code — and, following Hannah Arendt, keeps "meeting nothing but himself in a different disguise," since these "alien" systems are saturated with the very human biases their objectivity was meant to escape.
 
+## The Black-Box Master Algorithm as God (Harari)
+
+Where O'Gieblyn excavates the *theology* behind algorithmic opacity, [[Yuval Noah Harari]] gives the same providence-structure its forward-facing, *data-religion* form in *Homo Deus*. For Harari the predictive algorithm is not merely *described* as a god — it occupies God's epistemic position by design. The decisive move is an explicit analogy to the inscrutable divine plan: "Just as according to Christianity we humans cannot understand God and His plan, so Dataism says the human brain cannot embrace the new master algorithms." `Directly stated.` The opacity is structural and irreversible: the Google search algorithm is built by "huge teams" where "nobody really understands the algorithm as a whole," and with machine learning "the seed algorithm may initially be developed by humans, but as it grows, it follows its own path, going where no human has gone before — and where no human can follow." This is O'Gieblyn's nominalist God in cybernetic dress — a transcendent intelligence whose reasons are forbidden to its subjects — but arrived at from biology rather than from Calvin: the deity is the [[The Black Box|black box]] precisely because organisms are algorithms and the master algorithm out-processes the human brain that spawned it. `Strongly implied` (the convergence with O'Gieblyn's providence is interpretive synthesis; the un-embraceable master algorithm is directly stated).
+
+Harari supplies the *mechanism* by which this oracle becomes a sovereign — the political escalation O'Gieblyn's predestination frame implies but does not stage. In "From Oracle to Sovereign," Waze, Google, Facebook and Microsoft's Cortana ascend a three-rung ladder: an *oracle* we consult, an *agent* we authorize, and finally a *sovereign* that "may start manipulating us, shaping our desires and making our decisions for us." `Directly stated.` The tipping point is collective belief: "When everybody uses the same oracle, and everybody believes the oracle, the oracle turns into a sovereign." `Directly stated.` This is the providence structure completing itself — the decree-machine acquires the power to *enact* the fate it forecasts (Waze must "think for us," secretly diverting half the drivers), which is exactly O'Gieblyn's question, "To what extent does the act of prediction enact the very fate it foresees?", answered in the affirmative. The Dataist commandment "Listen to the algorithms! They know how you feel" is thus the liturgy of this new providence: authority and meaning shift from the human knower to the all-knowing network, dissolving the [[The Liberal Humanist Subject|autonomous individual]] from within (see [[Algorithms That Know Us Better Than We Know Ourselves]]). O'Gieblyn reads this same Harari passage as the supersession of the human as a source of truth; the two authors meet on the claim that once the algorithm "knows the customer better than she knows herself," liberal humanism is over. `Strongly implied.`
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — originates the transposition and supplies the autobiographical engine: her crisis of faith over Calvinist predestination becomes the lens through which she reads predictive analytics. The algorithm is not the Devil of Job but Job's God; surveillance is Weberian salvation-anxiety; nominalism is the "system of human thought" you "cannot defeat... through rational argument, any more than you can beat a superintelligent algorithm in a game of Go."
 - **[[Norbert Wiener]]** — in *God & Golem, Inc.* (1964) first cast machine learning as theologically charged, arguing via the Job wager that "God is something less than absolutely omnipotent" and "may very well lose the game" to his learning creature. O'Gieblyn credits the insight but argues he "miscast the roles": the modern algorithm occupies God's seat, not Satan's.
 - **[[Max Weber]]** — supplies the salvation-anxiety mechanism: Protestant uncertainty about election as the psychic motor that O'Gieblyn maps onto the self-disciplining subject of surveillance. Forward-stub author; deepens when Weber enters `raw/`.
+- **[[Yuval Noah Harari]]** — gives the providence-structure its *Dataist* form (*Homo Deus*, "The Great Decoupling" and "The Data Religion"): the all-knowing algorithm as oracle→agent→**sovereign**, and the **black-box master algorithm** "like God" whose plan "the human brain cannot embrace." Where O'Gieblyn supplies the Calvinist-nominalist lineage of the opacity, Harari supplies the data-religion that now trusts and worships it. See [[The Black Box]], [[Algorithms That Know Us Better Than We Know Ourselves]].
 - *Forward-reference:* Hans Blumenberg (*The Legitimacy of the Modern Age*) provides the nominalism-to-modernity genealogy; Shoshana Zuboff ("behavioral futures," surveillance capitalism) and Hannah Arendt (the Archimedean point) anchor the surveillance and self-encounter strands. Dedicated sections open should these sources be ingested.
 
 ## Related Concepts
@@ -58,6 +77,8 @@ Crucially, this deity has no interest in the soul — only in [[Pattern and Rand
 - [[Mind as Machine]] — the "black box" defense ("The human brain is also a black box") that makes it "just as reasonable to trust the opaque logic of an algorithm as it is to trust our own minds."
 - [[Posthumanism]] — Harari's "Dataism" ("Listen to the algorithms! They know how you feel") as the supersession of the human knower by the predictive system.
 - [[Cybernetics]] — the historical source of the selfhood-as-pattern philosophy the surveillance apparatus inherits.
+- [[The Black Box]] — the form of the deity in Harari's data-religion: the master algorithm "nobody really understands... as a whole," whose opacity is what makes it godlike. O'Gieblyn's nominalist God and Harari's un-embraceable master algorithm name the same black-boxed providence.
+- [[Algorithms That Know Us Better Than We Know Ourselves]] — Harari's mechanism by which the oracle becomes a sovereign: once the system knows you better than you know yourself, authority migrates from the human knower to the algorithm — the providence-decree completing itself as the self-fulfilling fate it foresaw.
 
 ## Opposing Concepts
 
@@ -150,3 +171,25 @@ Relevant passage:
 > But you cannot defeat the nominalist God through rational argument, any more than you can beat a superintelligent algorithm in a game of Go. There was nothing to do but submit and surrender.
 
 Supports: Makes explicit the structural identity O'Gieblyn draws between the nominalist God and the superintelligent algorithm — both un-arguable, both demanding submission. Label: `Directly stated`
+
+### Source 8
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/14 The Data Religion]]
+Relevant passage:
+
+> Just as according to Christianity we humans cannot understand God and His plan, so Dataism says the human brain cannot embrace the new master algorithms.
+
+Supports: Anchors the Harari author-section — the black-box master algorithm explicitly cast as a God whose plan the human brain cannot grasp, the data-religion form of O'Gieblyn's nominalist-God providence structure. Label: `Directly stated`
+
+### Source 9
+
+Book: *Homo Deus: A Brief History of Tomorrow*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> When everybody uses the same oracle, and everybody believes the oracle, the oracle turns into a sovereign.
+
+Supports: Grounds the oracle→agent→sovereign escalation — the mechanism by which the all-knowing predictive algorithm acquires the power to enact the fate it forecasts, completing the providence structure as sovereignty. Label: `Directly stated`

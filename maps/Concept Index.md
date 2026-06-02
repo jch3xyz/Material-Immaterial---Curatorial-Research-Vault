@@ -13,7 +13,9 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Acceleration]] — speed stripped of sense; only additive processes admit it; immunosuppression is the price of acceleration
 - [[Achievement Society]] — neoliberal regime of auto-exploitation through self-mastery and entrepreneurship of the self; the achievement-subject as absolute slave
 - [[Algorithmic Determinism]] — prediction as behavior-modifying feedback loop trapping people in their digital reflection; prediction enacts the fate it foresees
+- [[Algorithms That Know Us Better Than We Know Ourselves]] — Harari: the dissolution of liberal individualism as external algorithms gain authority over the self
 - [[Allo-Exploitation]] — exploitation by an other; the antonym of [[Auto-Exploitation]] superseded under neoliberalism (Han)
+- [[The Anthropocene]] — Harari: humanity as the dominant geological force
 - [[Arcana of Power]] — Schmittian secrecy that politics requires and transparency dismantles
 - [[Artificial Life]] — the third wave figured as a spiral; the 'strong claim' that codes are alive, not merely simulating life
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization; the entrepreneur of himself as the panopticon of himself (Han)
@@ -21,11 +23,14 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Beyond the Subject]] — Han's de-psychologized, de-voided existence past the subject-form; the emancipatory horizon of psychopolitics
 - [[Big Data]] — the aperspectival instrument of digital psychopolitics that pre-empts free will (Han)
 - [[Biopolitics]] — the governmental technology of disciplinary power over the body and population; foil to psychopolitics (Han, realized from forward-stub)
+- [[Can It Suffer (The Reality Test)]] — Harari's criterion separating the real (suffering subjects) from the fictional (money, gods, nations)
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
 - [[Capital as Religion]] — Capital as a transcendence ruling through debt and guilt; the cult without dogma (Han via Benjamin)
+- [[Capitalism as Religion (Harari)]] — Harari: capitalism issuing ethical verdicts under cover of fact; beside Capital as Religion (Han)
 - [[Conceptual Art]] — 'idea art' (Lippard, LeWitt, Kosuth): the idea supersedes the visual/material result; 'ideas can be art'
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
+- [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
 - [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
 - [[Dictatorship of Capital]] — Capital ruling a classless, auto-exploiting universality; domination without a ruling class (Han)
 - [[Digital Panopticon]] — aperspectival surveillance built on voluntary self-exposure and hypercommunication; the friendly, internal panopticon
@@ -36,16 +41,24 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
 - [[Emergence]] — properties appearing spontaneously from simple rules and recursive feedback; replaces teleology in the benign posthuman
 - [[Emotional Capitalism]] — capitalism that exploits the performativity of emotion (Han; term from Illouz)
+- [[Evolutionary Humanism]] — Harari: the natural-selection sect of humanism (Nazism its extreme)
+- [[The Experiencing Self vs The Narrating Self]] — Harari via Kahneman: the moment-to-moment self vs the story-telling self that authors memory and meaning
 - [[Exhibition as Medium]] — Siegelaub's reinvention of the exhibition/catalogue/magazine as the artwork's primary site (primary vs secondary information)
 - [[Exhibition Value]] — value generated solely by attention, irreducible to use or exchange value (Han via Benjamin)
 - [[Exploitation of Freedom]] — control via voluntary self-illumination rather than external coercion; the book's central title-thesis — freedom itself is producing coercion (Han, Psychopolitics)
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
 - [[Flickering Signifier]] — Hayles's figure for signification under conditions of code and mutation, the informatic successor to the floating signifier
+- [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
+- [[Freedom of Information]] — Dataism's supreme value, the first genuinely new value since 1789 (Harari)
 - [[Gamification]] — play enlisted to heighten productivity, so the player self-subjugates in the act of playing (Han)
 - [[Gleichschaltung]] — forced synchronization; the leveling, conformity-producing violence latent in compulsory transparency; Big-Data sameness
+- [[The Growth Imperative]] — Harari: growth as essential, supreme, and ethics-overriding under the modern covenant
 - [[Healing as Killing]] — therapeutic self-optimization that destroys the soul; the positivity of self-improvement as a mode of domination (Han)
+- [[Healing vs Upgrading]] — Harari: egalitarian medicine that heals the sick vs elitist medicine that upgrades the healthy
 - [[Hell of the Same]] — Han's figure for the monocultural inferno produced by equivalence; the Inferno of the Same and Big-Data sameness
 - [[Homeostasis]] — the first-wave constellation of steady-state self-regulation, allying information-as-thing with stability
+- [[Homo Deus]] — Harari: the upgraded human-as-god via the three paths of bioengineering, cyborg engineering, and inorganic life (distinct from the book note)
+- [[Humanism (Harari)]] — Harari: humanism as the worship of humankind; the dominant modern religion
 - [[Hypercommunication]] — communication accelerated by eliminating the friction of the Other; total/coercive communication and its self-destruction
 - [[Hyperinformation]] — information past the point of clarity; positivized excess that yields opacity, not truth
 - [[Hyphen vs Splice]] — two modes of joining opposites: identity-preserving metonymic tension vs transfiguring cybernetic circuit (Wolfe's Limbo)
@@ -53,16 +66,26 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Idiotism]] — the idiot as figure of resistance against total communication and surveillance (Han via Deleuze)
 - [[Imago Dei]] — the image-of-God doctrine; the original anthropological metaphor, reversed (we made God in our image) and extended (engineers as gods)
 - [[Immanence and A Life]] — Deleuze's plane on which no domination can be erected; the ground of Han's emancipatory turn
+- [[Industrial Farming]] — Harari: the moral test of humanist ethics; the largest crime in history
 - [[Immaterial Labour]] — neoliberal immaterial/non-physical production that releases the body from production (Han)
 - [[Immunological Age]] — shock as immunological negativity; acceleration requires immunosuppression (Han)
 - [[Information]] — positivized, operationalized language without the negativity of insight; data positivism and the end of theory
 - [[Informatics]] — the whole network of information technologies plus the changes that accompany them (after Haraway)
 - [[Inscription vs Incorporation]] — abstract transportable sign-systems vs embodied habitual practice; 'as the body is to embodiment, so inscription is to incorporation'
 - [[Integrated Information Theory]] — Tononi and Koch's theory that consciousness is integrated information, quantified by phi; atoms, bacteria, even the internet may be conscious
+- [[The Internet-of-All-Things]] — Harari: Dataism's eschaton, the cosmic data-processing system humanity is destined to feed and merge into
+- [[Intersubjective Reality]] — Harari: the third level of reality (money, gods, nations) existing in shared imagination and enabling large-scale cooperation
 - [[Intimacy as Psychological Formula of Transparency]] — the affective mode of transparency: laying the soul bare
+- [[Knowledge = Experiences × Sensitivity]] — Harari: humanism's epistemology, locating authority in lived, cultivated experience
+- [[Large-Scale Flexible Cooperation]] — Harari: the real 'human spark' that gives Homo sapiens mastery over the planet
+- [[Liberal Humanism (Harari)]] — Harari: the orthodox humanist sect that defeated its rivals 1914–1989
 - [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
+- [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation; narration vs additive data
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; constitutive of life and resistance
+- [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
+- [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
+- [[Organisms Are Algorithms]] — Harari's keystone biological thesis; cross-links Patternism, Algorithmic Determinism, and The Body as Data
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
@@ -73,13 +96,17 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
+- [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
 - [[Smart Power]] — permissive, seductive, psyche-targeting neoliberal power that presents itself as freedom (Han)
+- [[Society as Algorithm]] — Harari: writing organises society algorithmically, the deep root of bureaucracy
 - [[Smoothness]] — the surface property of transparency: frictionless, leveled, uninterrupted; smart power is smooth and permissive
 - [[Society of Control]] — power as continuous modulation and voluntary self-exposure rather than enclosure (Han via Deleuze); the mole/snake, debt
 - [[Systems Theory]] — autopoiesis as the theory of the living, extended to social systems (the state as the paradigmatic cyborg)
+- [[Techno-Humanism]] — Harari: the conservative techno-religion that upgrades humans while keeping them the source of meaning; distinct from Transhumanism
+- [[Techno-Religion]] — Harari: salvation through technology and economics (the umbrella over Techno-Humanism and Dataism)
 - [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
 - [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
 - [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
@@ -99,12 +126,15 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Schizoid Android]] — Hayles's master figure in Dick: a signifier that enacts the split between human and not-human subject positions
 - [[The Simulation Hypothesis]] — Bostrom's universe-as-computer-program, read as a secularized argument from design
 - [[The Three Waves of Cybernetics]] — homeostasis, reflexivity, virtuality/self-organization; seriated transitions, not Kuhnian ruptures
+- [[The Useless Class]] — Harari: the superfluous people produced by automation, economically and militarily redundant
 - [[Theatrum Mundi]] — the world-as-theater of masks and roles that the tyranny of intimacy dismantles (Han via Sennett)
 - [[Theodicy]] — the problem of evil transposed onto AI: evil as bugs in the code; the citizen as Job before the inscrutable algorithm
 - [[Transhumanism]] — the eschatological program (Kurzweil/Bostrom/Moravec) read as secularized Christian resurrection; posthumanism's religious double
 - [[Transparency]] — Han's master diagnostic: neoliberal dispositive that converts negativity into smooth, accelerable positivity; transparency steers the future as a neoliberal dispositive
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
+- [[Upgrading Inequality]] — Harari: medicine upgrading the healthy rather than healing the sick, producing biological castes
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
+- [[Writing Reshapes Reality]] — Harari: text forcing reality to conform to its bureaucratic categories
 
 ## Thematic Clusters
 
@@ -122,6 +152,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Immaterial Labour]] — neoliberal immaterial production that releases the body from production (Han)
 - [[Big Data]] — the aperspectival instrument that renders the body as exploitable data (Han)
 - [[Dataism]] — the data-positivist ideology that displaces matter and theory with the datum (Han)
+- [[Intersubjective Reality]] — money, gods, nations: the immaterial fictions more powerful than material things (Harari)
+- [[Freedom of Information]] — Dataism's supreme value, prizing flow over material substrate (Harari)
 
 ### Embodiment / Posthuman
 
@@ -252,3 +284,40 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Simulation Hypothesis]] — the universe-as-computer-program read as a secularized argument from design
 - [[The Measurement Problem]] — the quantum observer effect; the perceiving subject cannot be eliminated
 - [[Eliminativism]] — the denial that consciousness exists; itself crypto-Cartesian
+
+### Dataism / Humanism / The New Human Agenda (Harari)
+
+- [[The New Human Agenda]] — immortality, happiness, and divinity as humanity's next projects
+- [[Homo Deus]] — the upgraded human-as-god via the three paths (distinct from the book note)
+- [[The Anthropocene]] — humanity as the dominant geological force
+- [[Humanism (Harari)]] — humanism as the worship of humankind; the dominant modern religion
+- [[Liberal Humanism (Harari)]] — the orthodox humanist sect that won 1914–1989
+- [[Evolutionary Humanism]] — the natural-selection sect (Nazism its extreme)
+- [[Knowledge = Experiences × Sensitivity]] — humanism's epistemology
+- [[The Modern Covenant]] — modernity as trading meaning for power
+- [[The Growth Imperative]] — growth as essential, supreme, ethics-overriding
+- [[Capitalism as Religion (Harari)]] — ethical verdicts under cover of fact; beside Capital as Religion (Han)
+- [[Religion as Social Order]] — the functional redefinition of religion
+- [[Organisms Are Algorithms]] — the keystone biological thesis; cross-links Patternism and The Body as Data
+- [[The Decoupling of Intelligence from Consciousness]] — intelligence mandatory, consciousness optional
+- [[The Experiencing Self vs The Narrating Self]] — Harari via Kahneman
+- [[Free Will as Fiction (Harari)]] — free will an empty word like 'soul'
+- [[The Useless Class]] — the superfluous people produced by automation
+- [[Algorithms That Know Us Better Than We Know Ourselves]] — the dissolution of liberal individualism
+- [[Upgrading Inequality]] — medicine upgrading the healthy; biological castes
+- [[Healing vs Upgrading]] — egalitarian healing vs elitist upgrading
+- [[Techno-Humanism]] — the conservative techno-religion; distinct from Transhumanism
+- [[Techno-Religion]] — salvation through technology and economics (umbrella)
+- [[The Ocean of Consciousness]] — the mostly-unmapped mental spectrum; the WEIRD critique
+- [[Freedom of Information]] — Dataism's supreme value, the first new value since 1789
+- [[The Internet-of-All-Things]] — Dataism's eschaton
+- [[Industrial Farming]] — the moral test of humanist ethics
+
+### Intersubjective Reality / Fictions / Cooperation (Harari)
+
+- [[Intersubjective Reality]] — the third level of reality (money, gods, nations) enabling large-scale cooperation
+- [[Large-Scale Flexible Cooperation]] — the real 'human spark'
+- [[Society as Algorithm]] — writing organises society algorithmically (bureaucracy)
+- [[Writing Reshapes Reality]] — text forcing reality to conform
+- [[Can It Suffer (The Reality Test)]] — the criterion for the real vs the fictional
+- [[Capitalism as Religion (Harari)]] — money as the most successful intersubjective fiction

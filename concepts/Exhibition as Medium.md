@@ -16,7 +16,7 @@ related:
 opposes:
   - "[[Exhibition Value]]"
 authors:
-  - "[[Lucy R. Lippard]]"
+  - "[[Lucy Lippard]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -39,7 +39,7 @@ Lippard extends the principle to her own curatorial practice and to the book in 
 
 ## Authors and Variants
 
-- **[[Lucy R. Lippard]]** — treats the exhibition/catalogue/magazine as the artwork's primary carrier and aligns it with her politics of de-commodification; her index-card catalogues and the typographic apparatus of *Six Years* make the chronicle itself a medium, not a record.
+- **[[Lucy Lippard]]** — treats the exhibition/catalogue/magazine as the artwork's primary carrier and aligns it with her politics of de-commodification; her index-card catalogues and the typographic apparatus of *Six Years* make the chronicle itself a medium, not a record.
 - **[[Seth Siegelaub]]** — the operative theorist of the model: the catalogue-only *One Month*, the January 1969 inversion of catalogue and physical show, the magazine-exhibition, and the primary/secondary information distinction that holds the whole apparatus together. (Forward-stub; realize when his work enters the vault.)
 
 ## Related Concepts

@@ -77,7 +77,7 @@ The book is built in five-plus-two named parts; each part comprises two chapters
 
 ## Major Arguments
 
-- [[The eternal questions have become engineering problems]] — theology's old questions (mind-body, free will, immortality) survive, like dead metaphors, inside debates about digital technology, recast in technological idiom
+- [[All the eternal questions have become engineering problems]] — theology's old questions (mind-body, free will, immortality) survive, like dead metaphors, inside debates about digital technology, recast in technological idiom
 - [[Metaphors are two-way streets so we made God in our image]] — because source and target domains are interchangeable, the anthropomorphism that produced "God" reverses the imago dei; the same reversibility lets mind-as-machine flip into machine-as-mind
 - [[Transhumanism is an outgrowth of Christian eschatology]] — the resonances between transhumanist prophecy and Christian resurrection are "historical and genetic," not coincidental; the Omega Point is a precursor to the Singularity, and information is "the materialist's substitute for the soul"
 - [[The computer metaphor died into literalism and now constrains thought]] — once ubiquitous, the metaphor stops being recognized as one; researchers literally cannot describe human behavior without it, "just as no form of discourse... could proceed in certain eras and cultures without reference to a spirit or deity"
@@ -95,7 +95,7 @@ The book is built in five-plus-two named parts; each part comprises two chapters
 ## Key Metaphors
 
 - [[Mind as Machine]] — the chapter's titular figure: the brain as "the hardware that 'runs' the software of the mind," vision and attention and memory as algorithms; O'Gieblyn visualizes her own inner essence as "something like a circuit board... a mad decision tree" (realizes the committed metaphor stub)
-- [[The Soul as Empty Carapace]] — the soul as a husk that "remains intact years after its animating organism has died," figuring religious language surviving the loss of belief
+- [[The Soul as an Empty Carapace]] — the soul as a husk that "remains intact years after its animating organism has died," figuring religious language surviving the loss of belief
 - [[Information as Substitute for the Soul]] — the immaterial, substrate-independent pattern that "became, in other words, the materialist's substitute for the soul"; mind-uploading as disembodied resurrection
 - [[The Noosphere and the Omega Point]] — Teilhard de Chardin's networked "'etherised' universal consciousness" culminating in an intelligence explosion that merges humanity with the divine — "an obvious precursor to Kurzweil's Singularity"
 - [[Humans as Bootloaders]] — Musk's image of humanity as the "biological bootloaders" for AI: a "tiny, insignificant program whose sole purpose is to initiate larger, more complex programs"
@@ -155,7 +155,7 @@ Relevant passage:
 
 > All the eternal questions have become engineering problems.
 
-Supports: The book's thesis sentence — theology's old questions (mind-body, free will, immortality) have migrated into engineering and AI. Grounds the orientation, [[The eternal questions have become engineering problems]], and the framing of O'Gieblyn as the theological double of the Hayles cluster.
+Supports: The book's thesis sentence — theology's old questions (mind-body, free will, immortality) have migrated into engineering and AI. Grounds the orientation, [[All the eternal questions have become engineering problems]], and the framing of O'Gieblyn as the theological double of the Hayles cluster.
 Confidence: Directly stated
 
 ### Source 2 — Ch. 1, Image (technology as metaphor; the governing method)
@@ -179,7 +179,7 @@ Relevant passage:
 
 > It has become a dead metaphor, one of those words that survive in language long after a culture has lost faith in the concept, like an empty carapace that remains intact years after its animating organism has died.
 
-Supports: Grounds [[The Dead Metaphor]], [[The Soul]], and [[The Soul as Empty Carapace]] — the figure that structures the whole book, in which religious language outlives belief.
+Supports: Grounds [[The Dead Metaphor]], [[The Soul]], and [[The Soul as an Empty Carapace]] — the figure that structures the whole book, in which religious language outlives belief.
 Confidence: Directly stated
 
 ### Source 4 — Ch. 1, Image (disenchantment, after Weber)

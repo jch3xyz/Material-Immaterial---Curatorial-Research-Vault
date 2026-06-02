@@ -33,7 +33,7 @@ The chapter's payoff is conceptual. Reading *Galatea 2.2*, Hayles delivers one o
 - [[Inscription vs Incorporation]] — the paired practices whose convergence (at machine-code level) and divergence (at high representational levels) organize all four readings.
 - [[The Postconscious Subject]] — the posthuman subject for whom "consciousness guarantees the existence of the self" no longer holds.
 - [[The Seriated Posthuman]] — the "post" marks partial, layered change; some liberal-humanist attributes survive, others mutate.
-- [[Pattern vs Randomness]] — the secondary axis tied to information; randomness "tears holes in pattern."
+- [[Pattern and Randomness]] — the secondary axis tied to information; randomness "tears holes in pattern."
 - [[Presence vs Absence]] — the primary axis connecting materiality and signification.
 - [[Information]] — here the bottom-horizontal term, "a code carried by physical markers but also extractable from them."
 - [[Embodiment]] — reframed by the Helen reading: difference in embodiment, not its absence, is what estranges the nonhuman intelligence.

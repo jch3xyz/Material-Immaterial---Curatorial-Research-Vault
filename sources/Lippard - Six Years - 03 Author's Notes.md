@@ -14,7 +14,7 @@ last_updated: 2026-06-01
 # Source Summary: Author's Notes (1973 / 1996)
 
 **Book:** [[Six Years]]
-**Author:** [[Lucy R. Lippard]]
+**Author:** [[Lucy Lippard]]
 **Raw file:** [[raw/Lippard - Six Years/03 Author's Notes]]
 
 ## Orientation
@@ -61,7 +61,7 @@ She closes by registering the genre's continuing fertility. Her later, political
 ## Outgoing Links
 
 - [[Six Years]]
-- [[Lucy R. Lippard]]
+- [[Lucy Lippard]]
 - [[Lippard - Six Years - 02 Escape Attempts]] — the long retrospective essay that theorizes what this note states in miniature
 - [[The Materiality of Informatics]] — Hayles's counterpoint: the "immaterial" never fully leaves matter (interpretive resonance, `link_only`)
 - [[Virtuality]] — the ephemeral/immaterial artwork as an art-world figure of the virtual (light cross-link)

@@ -47,7 +47,7 @@ Links above may resolve to existing notes or to stubs — they mark commitments,
 
 ## Status
 
-**Five books are now ingested.** The prototype ingest of `Byung-Chul Han - The Transparency Society` (10 chapters), the ingest of `N. Katherine Hayles - How We Became Posthuman` (12 chapters), the ingest of `Lucy Lippard - Six Years`, the ingest of `Meghan O'Gieblyn - God Human Animal Machine`, and the ingest of `Byung-Chul Han - Psychopolitics` are all **complete**: analyzed, synthesized, and rendered into the interpretive layer (books, authors, source summaries, concepts, arguments, definitions, metaphors, symbols, tensions, references). With Lippard the art stubs [[New Media Art]] and [[Art as Experiential Technology]] are now partly realized via conceptual art and the dematerialized object; with O'Gieblyn the metaphor stub [[Mind as Machine]] is now **realized**; with Psychopolitics the concept stub [[Biopolitics]] is now **realized** as the periodizing foil to psychopolitics. Other books remain raw-only — see [[_system/log|Processing Log]] for full history and next steps.
+**Six books are now ingested.** The prototype ingest of `Byung-Chul Han - The Transparency Society` (10 chapters), the ingest of `N. Katherine Hayles - How We Became Posthuman` (12 chapters), the ingest of `Lucy Lippard - Six Years`, the ingest of `Meghan O'Gieblyn - God Human Animal Machine`, the ingest of `Byung-Chul Han - Psychopolitics`, and the ingest of `Yuval Noah Harari - Homo Deus` are all **complete**: analyzed, synthesized, and rendered into the interpretive layer (books, authors, source summaries, concepts, arguments, definitions, metaphors, symbols, tensions, references). With Lippard the art stubs [[New Media Art]] and [[Art as Experiential Technology]] are now partly realized via conceptual art and the dematerialized object; with O'Gieblyn the metaphor stub [[Mind as Machine]] is now **realized**; with Psychopolitics the concept stub [[Biopolitics]] is now **realized** as the periodizing foil to psychopolitics; with Harari the [[The Body as Data]] thread is extended via [[Organisms Are Algorithms]], and [[Dataism]] gains its companion bridge to Han. Other books remain raw-only — see [[_system/log|Processing Log]] for full history and next steps.
 
 Highlight notes from the Han ingest:
 
@@ -78,3 +78,9 @@ Highlight notes from the Psychopolitics ingest:
 - [[Psychopolitics]] — the titular master concept: neoliberal power that steers the psyche
 - [[Freedom itself is producing coercion]] — the book's central, most curatorially load-bearing thesis
 - [[Biopolitics vs Psychopolitics]] — the periodizing tension, with [[Biopolitics]] now a realized stub
+
+Highlight notes from the Homo Deus ingest:
+
+- [[Organisms Are Algorithms]] — the keystone biological thesis; cross-links Patternism, Algorithmic Determinism, and The Body as Data
+- [[The self is an imaginary story like nations gods and money]] — the indivisible liberal self dissolved into an intersubjective fiction
+- [[Yuval Noah Harari and Byung-Chul Han]] — the keystone-merge cross-book bridge on Dataism and growth-as-religion

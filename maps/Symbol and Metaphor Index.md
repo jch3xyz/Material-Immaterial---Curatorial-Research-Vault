@@ -31,6 +31,11 @@ All symbol and metaphor notes.
 - [[Computers Arose from the Mud and Code Fell from the Sky]] — Dyson's dual-creation-myth figure for the dualism behind emergence (O'Gieblyn)
 - [[Metonymy (Mind as Microcosm of Cosmic Consciousness)]] — the mind as microcosm of the world's macroscopic consciousness (panpsychism) (O'Gieblyn)
 - [[The Crucifix Made of Machine Parts]] — faith mechanized; the literal image of theology migrating into engineering (O'Gieblyn)
+- [[The Web of Meaning]] — intersubjective fictions trapping us like flies in a web of our own spinning (Harari)
+- [[Consciousness as Mental Pollution]] — consciousness as a useless by-product of brain activity, like the noise of a jet engine (Harari)
+- [[The Gun in Act I]] — Chekhov's law framing the book's self-undermining: humanism's logic loaded in the first act fires in the last (Harari)
+- [[Retiring the Horses]] — human obsolescence under Dataism, as cars retired horses from the economy (Harari)
+- [[The Private CIA and State Department]] — the confabulating narrating self that spins a coherent story from incoherent experience (Harari)
 
 ## Symbols
 
@@ -44,3 +49,6 @@ All symbol and metaphor notes.
 - The empty room / the xerox sheet / the index-card catalogue — emblems of the dematerialized work and the document (folded into [[Dematerialization]] and [[The Document (Conceptual Art)]]) (Lippard)
 - [[The Aibo]] — the robot dog O'Gieblyn cannot switch off; the book's opening laboratory for machine interiority and the problem of other minds
 - [[Job and the Algorithm]] — the Book of Job as the figure of submission to the inscrutable algorithmic sovereign (O'Gieblyn)
+- [[The Hi-Tech Ark]] — climate inaction as a class gamble: the elite trusting technology to save them while the masses drown (Harari)
+- [[The Gestation Crate]] — industrial farming as the test of humanist ethics; the sow's suffering as the measure of the modern covenant (Harari)
+- [[Aaron Swartz, Dataism's First Martyr]] — the open-access activist as the symbol of the freedom-of-information creed (Harari)

@@ -13,7 +13,7 @@ last_updated: 2026-06-01
 
 # Source Summary: The Society of Pornography
 
-**Book:** [[Byung-Chul Han - The Transparency Society]]
+**Book:** [[The Transparency Society]]
 **Author:** [[Byung-Chul Han]]
 **Raw file:** [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]
 
@@ -76,7 +76,7 @@ The chapter closes with a reading of Barthes's *Camera Lucida* that turns the St
 ## Outgoing Links
 
 - [[Byung-Chul Han]]
-- [[Byung-Chul Han - The Transparency Society]]
+- [[The Transparency Society]]
 - [[Walter Benjamin]]
 - [[Giorgio Agamben]]
 - [[Roland Barthes]]

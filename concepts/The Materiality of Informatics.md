@@ -10,7 +10,7 @@ related:
   - "[[Material vs Immaterial]]"
   - "[[Informatics]]"
   - "[[Embodiment]]"
-  - "[[Pattern vs Randomness]]"
+  - "[[Pattern and Randomness]]"
   - "[[Inscription vs Incorporation]]"
   - "[[Information (Hayles)]]"
   - "[[Virtuality]]"
@@ -31,7 +31,7 @@ Hayles's constructive counter-thesis — and the title of chapter 8 — that the
 
 ## Longer Explanation
 
-Where [[The Body as Data]] names the fantasy Hayles contests, *the materiality of informatics* names the method she puts in its place. The phrase is deliberately oxymoronic: "informatics" is precisely the network of relations that an ideology of dematerialization presents as weightless and placeless, yet Hayles insists it has a *materiality*. Her sharpest formulation comes at the end of chapter 2, where she warns against mistaking the cultural dominance of [[Pattern vs Randomness|pattern and randomness]] for the disappearance of matter: "The pattern/randomness dialectic does not erase the material world; information in fact derives its efficacy from the material infrastructures it appears to obscure. This illusion of erasure should be the subject of inquiry, not a presupposition that inquiry takes for granted." This single sentence carries the whole program. The shift toward pattern is real and consequential, but it does not abolish presence; on the contrary, information becomes *effective* only by running through the very infrastructures — interfaces, media, bodies — whose disappearance it stages. The analyst's task is therefore not to celebrate or mourn disembodiment but to ask how the appearance of erasure is manufactured.
+Where [[The Body as Data]] names the fantasy Hayles contests, *the materiality of informatics* names the method she puts in its place. The phrase is deliberately oxymoronic: "informatics" is precisely the network of relations that an ideology of dematerialization presents as weightless and placeless, yet Hayles insists it has a *materiality*. Her sharpest formulation comes at the end of chapter 2, where she warns against mistaking the cultural dominance of [[Pattern and Randomness|pattern and randomness]] for the disappearance of matter: "The pattern/randomness dialectic does not erase the material world; information in fact derives its efficacy from the material infrastructures it appears to obscure. This illusion of erasure should be the subject of inquiry, not a presupposition that inquiry takes for granted." This single sentence carries the whole program. The shift toward pattern is real and consequential, but it does not abolish presence; on the contrary, information becomes *effective* only by running through the very infrastructures — interfaces, media, bodies — whose disappearance it stages. The analyst's task is therefore not to celebrate or mourn disembodiment but to ask how the appearance of erasure is manufactured.
 
 The deep reason information can never float free is stated in chapter 1 and threaded through the book: "for information to exist, it must always be instantiated in a medium." To conceive of information "as a thing separate from the medium instantiating it" is, for Hayles, a "prior imaginary act" that splits a single phenomenon into a spurious information/matter duality. The materiality of informatics is the refusal of that split. It applies equally to texts and to bodies: the book, like the human body, incorporates its encodings in a durable material substrate, so that "books and humans have something to lose if they are regarded solely as informational patterns, namely the resistant materiality" that marks both durable inscription and lived embodiment. To recover that materiality is to recover what "had to be elided, suppressed, and forgotten to make information lose its body."
 
@@ -47,7 +47,7 @@ Methodologically, the materiality of informatics is operationalized through two 
 
 - [[Material vs Immaterial]] — the cross-author axis this thesis intervenes in; the materiality of informatics is Hayles's specific claim that the "immaterial" pole is produced by and crossed with the material pole
 - [[Informatics]] — the network of relations whose *materiality* this concept asserts; informatics names the field, this names the methodological claim about it
-- [[Pattern vs Randomness]] — the dialectic whose ascendancy is real but does *not* "erase the material world"; information derives efficacy from the infrastructures it appears to obscure
+- [[Pattern and Randomness]] — the dialectic whose ascendancy is real but does *not* "erase the material world"; information derives efficacy from the infrastructures it appears to obscure
 - [[Embodiment]] — the recovered term; materiality of informatics is enacted methodologically through the body/embodiment polarity
 - [[Inscription vs Incorporation]] — the second polarity through which the thesis is made operational for reading texts
 - [[Information (Hayles)]] — the pattern that "must always be instantiated in a medium"; the materiality of informatics denies it can be separated from its substrate

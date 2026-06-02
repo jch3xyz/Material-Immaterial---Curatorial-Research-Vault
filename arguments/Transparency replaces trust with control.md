@@ -11,7 +11,7 @@ sources:
     passage: "Instead of affirming that 'transparency creates trust,' one should instead say, 'transparency dismantles trust.'"
 related_arguments:
   - "[[Transparency eliminates Otherness]]"
-  - "[[The digital panopticon exploits voluntary self-exposure]]"
+  - "[[The digital panopticon runs on voluntary self-exposure]]"
   - "[[Auto-exploitation is more efficient than allo-exploitation]]"
 tensions:
   - "[[Transparency versus trust]]"
@@ -62,7 +62,7 @@ This argument is structural, not merely cautionary. Han is not saying transparen
 ## Related Arguments
 
 - [[Transparency eliminates Otherness]] — the Preface argues transparent communication is "smoothing and leveling," producing "synchronization and uniformity"; the same logic that dissolves the Other dissolves the not-knowing that trust requires.
-- [[The digital panopticon exploits voluntary self-exposure]] — the substituting "control" is not classical surveillance but voluntary self-illumination, where inhabitants "actively collaborate in its construction."
+- [[The digital panopticon runs on voluntary self-exposure]] — the substituting "control" is not classical surveillance but voluntary self-illumination, where inhabitants "actively collaborate in its construction."
 - [[Auto-exploitation is more efficient than allo-exploitation]] — Chapter 9 makes the structural homology: just as the achievement-subject self-exploits under the sensation of freedom, the inhabitant of the control society self-illuminates under the sensation of freedom.
 - [[Transparency is a neoliberal dispositive]] — the Preface frames transparency as economically motivated; Chapter 9 confirms that "today's compulsive transparency no longer has an explicitly moral or biopolitical imperative; above all, it follows an economic imperative."
 

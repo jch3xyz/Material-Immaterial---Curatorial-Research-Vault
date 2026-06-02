@@ -50,7 +50,7 @@ The chapter's payoff is the claim that the test does its decisive work *before* 
 
 ## Important Metaphors / Symbols
 
-- [[The Turing Test as Magic Trick]] — the test relies on accepting early assumptions that determine later interpretation; the real intervention precedes the guess.
+- [[The Turing Test as a Magic Trick]] — the test relies on accepting early assumptions that determine later interpretation; the real intervention precedes the guess.
 - [[Flickering Signifier|Flickering Signifiers]] — the symbols scrolling down the screen at which one gazes while "already" becoming posthuman (developed fully in the following chapters).
 - [[The Cybernetic Circuit]] — the splice joining enacted and represented bodies through flexible machine interfaces.
 

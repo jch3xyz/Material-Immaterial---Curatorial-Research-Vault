@@ -6,9 +6,12 @@ poles:
   - "Deterministic algorithm"
 authors:
   - "[[Meghan O'Gieblyn]]"
+  - "[[Yuval Noah Harari]]"
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch01 [Image]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
+  - "[[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]"
+  - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
 related_concepts:
   - "[[Algorithmic Determinism]]"
   - "[[The Algorithm as Providence]]"
@@ -20,10 +23,19 @@ related_concepts:
   - "[[Pattern and Randomness]]"
   - "[[Posthumanism]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Free Will vs Determinism
+
+## General Orientation
+
+This is the canonical free-will problem, but the vault's authors enter it in different registers, and the tension is sharper if they are kept distinct.
+
+- **O'Gieblyn** approaches the deterministic pole through *prediction*. Her "automaton/predestination problem" is less a flat denial of freedom than a worry about whether agency can be told apart from "the inexorable logic of the clickstream" once forecasting systems grow accurate enough to "enact the very fate" they foresee. She holds the tension open as a question and refuses both libertarian free will and surrender to the machine.
+- **Harari** pushes the deterministic pole to its *eliminativist* terminus. For him there is no tension to hold open: "determinism and randomness have divided the entire cake between them, leaving not even a crumb for 'freedom'," so the word "freedom," like "soul," is simply "an empty term." His distinctive lever is not prediction but desire — we can act on but cannot *choose* our desires — and the political payoff is that engineerable desire makes "the supposedly free will of customers" a purchasable product. See [[Free Will as Fiction (Harari)]].
+
+Where O'Gieblyn fears the *appearance* of determinism is partly manufactured by the apparatus that reads behavior, Harari argues determinism (or randomness) is the literal, exhaustive truth of the case, with no remainder for freedom at all.
 
 ## The Poles
 
@@ -38,7 +50,16 @@ The tension folds in two facets the planner names. **Foresight vs freedom:** the
 
 ## Authors and Books That Discuss It
 
-- [[Meghan O'Gieblyn]] in [[God, Human, Animal, Machine]] — stages the tension across two registers. In "Image" (Ch1) she excavates the buried sense of "automaton" to show that mechanism and freedom were not always opposites, framing the whole disenchanted picture in which "I have come to see myself more or less as a machine." In "Algorithm" (Ch12) she recasts free will as the algorithm/predestination problem, threading her own loss of faith over Calvinist predestination through Laplace's omniscient intellect, Weber's Protestant anxiety, and the predictive systems that make "prudent guesswork into a kind of oracular power."
+- [[Meghan O'Gieblyn]] in [[God Human Animal Machine]] — stages the tension across two registers. In "Image" (Ch1) she excavates the buried sense of "automaton" to show that mechanism and freedom were not always opposites, framing the whole disenchanted picture in which "I have come to see myself more or less as a machine." In "Algorithm" (Ch12) she recasts free will as the algorithm/predestination problem, threading her own loss of faith over Calvinist predestination through Laplace's omniscient intellect, Weber's Protestant anxiety, and the predictive systems that make "prudent guesswork into a kind of oracular power."
+- [[Yuval Noah Harari]] in [[Homo Deus]] — does not hold the tension open but tries to abolish one pole outright. In "The Time Bomb in the Laboratory" (Ch11) he argues that the deterministic and the random exhaust the field of brain processes, leaving "freedom" an "empty term"; in "The Great Decoupling" (Ch12) he draws the practical consequence, that "the algorithms constituting a human are not free" and so can be known, predicted, and ultimately steered by external algorithms better than the person knows themselves. See the section below and [[Free Will as Fiction (Harari)]].
+
+## Free Will as an Empty Word (Harari)
+
+Where O'Gieblyn keeps the tension as a live question, [[Yuval Noah Harari]] pushes the deterministic pole to its eliminativist extreme: there is no contest between freedom and determinism, because freedom never had a place on the board. Opening up the "Sapiens black box," scientists found "neither soul, nor free will, nor 'self' – but only genes, hormones and neurons that obey the same physical and chemical laws governing the rest of reality." Every brain event is "either deterministic or random or a combination of both – but they are never free." From this Harari draws the line that gives the tension its starkest form: "To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for 'freedom'." The word "freedom," like "soul," is "an empty term that carries no discernible meaning," and "free will exists only in the imaginary stories we humans have invented." (`Directly stated`)
+
+His decisive lever is not the physics of neurons but a distinction about desire — and it is what lets him deny the usual escape from the deterministic pole. Harari concedes that if "free will" means merely "the ability to act according to your desires," then humans have it, "and so do chimpanzees, dogs and parrots." But "the million-dollar question is not whether parrots and humans can act out their inner desires – the question is whether they can choose their desires in the first place." His answer is that we cannot: "I don't choose my desires. I only feel them, and act accordingly," and the belief otherwise "results from faulty logic," the slide from feeling a desire to authoring it. The spontaneous-volition pole of this tension thus collapses inward — what feels like self-authored choice is a wish that "well[s] up within me because this is the feeling created by the biochemical processes in my brain." (`Directly stated`)
+
+The political sting, which is what makes Harari's contribution more than a metaphysical footnote, is that an unauthored desire is an engineerable one. "If organisms indeed lack free will, it implies we could manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation." Once such manipulation "become[s] routine, the supposedly free will of customers will become just another product we can buy" — the attention helmet that leaves you "downright aching to play the piano" is his paradigm case. In "The Great Decoupling" this hardens into a forecast: because "the algorithms constituting a human are not free," an "external algorithm could theoretically know me much better than I can ever know myself," and, as Harari puts it, "Liberalism will collapse on the day the system knows me better than I know myself." Determinism here is not a cosmic abstraction but a market and a technology; freedom does not lose an argument so much as become, in Harari's phrase, a thing "we can buy." (`Directly stated`) For the standalone treatment of this position, including the evolutionary "last nail in freedom's coffin" and the dissolution of the unitary self, see [[Free Will as Fiction (Harari)]].
 
 ## Related Concepts
 
@@ -145,3 +166,47 @@ Relevant passage:
 > The doctrine eradicated not only free will but any coherent sense of self. To concede that one’s mind is controlled by God is to become a machine.
 
 Supports: Connects the predestination form of determinism to the [[Mind as Machine]] endpoint, showing the algorithm/predestination problem as one continuous lineage in which determinism dissolves both free will and selfhood. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for ‘freedom’. The sacred word ‘freedom’ turns out to be, just like ‘soul’, an empty term that carries no discernible meaning. Free will exists only in the imaginary stories we humans have invented.
+
+Supports: Harari's eliminativist collapse of the tension — the deterministic and random poles exhaust the field, so "freedom" is an empty word like "soul." Grounds the General Orientation contrast and the opening of the Harari section. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> But the million-dollar question is not whether parrots and humans can act out their inner desires – the question is whether they can choose their desires in the first place.
+
+Supports: The desire distinction that is Harari's decisive lever — we can act on but cannot choose our desires — which lets him deny the "I act on my wishes, therefore I am free" escape from the deterministic pole. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]
+Relevant passage:
+
+> However, if and when such manipulations become routine, the supposedly free will of customers will become just another product we can buy.
+
+Supports: The political corollary — because desire is unauthored biochemistry, it is engineerable, turning "free will" into a purchasable product. Grounds the claim that for Harari determinism is a market and technology, not only a metaphysics. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Homo Deus*
+Author: Yuval Noah Harari
+Raw file: [[raw/Harari - Homo Deus/12 The Great Decoupling]]
+Relevant passage:
+
+> The algorithms constituting a human are not free. They are shaped by genes and environmental pressures, and take decisions either deterministically or randomly – but not freely.
+
+Supports: Carries Harari's eliminativist claim into "The Great Decoupling," where the unfreedom of the human algorithm licenses the forecast that an external algorithm can know and steer the person better than they know themselves. Grounds the Harari entry under "Authors and Books That Discuss It" and the close of the Harari section. Label: `Directly stated`.

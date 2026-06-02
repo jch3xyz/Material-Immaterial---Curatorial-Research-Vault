@@ -58,14 +58,14 @@ The architecture that makes this conformity feel like freedom is what Han, in th
 - **The democratic counterargument.** Defenders of transparency (e.g. the Pirate Party, open-government movements) hold that transparency is a precondition of accountability and freedom of information. Han concedes the "positive core" but argues it has been "mystified and made absolute" (Preface); his target is totalized transparency, not every demand for openness. Readers may judge that Han's polemic underweights cases where transparency genuinely empowers dissent.
 - **Empirical reach of "compulsive conformity."** Han offers structural and rhetorical argument rather than empirical demonstration. Whether networked communication actually produces measurable conformity (vs. fragmentation, polarization, or subcultural proliferation) is contested in adjacent literatures; Han does not engage these.
 - **The Gleichschaltung analogy.** Borrowing a Nazi term to describe voluntary participatory media is rhetorically heavy and may obscure more than it reveals. Han uses it via Handke as a provocation; whether the structural analogy holds beyond the level of metaphor is a fair question.
-- **Otherness as itself an ideal.** Han's defense of Otherness, distance, and shame can be read as nostalgic for [[The Theatrum Mundi]] of the eighteenth century. Critics could argue he idealizes opacity and underestimates the costs (secrecy protects power, distance can mean indifference).
+- **Otherness as itself an ideal.** Han's defense of Otherness, distance, and shame can be read as nostalgic for [[Theatrum Mundi]] of the eighteenth century. Critics could argue he idealizes opacity and underestimates the costs (secrecy protects power, distance can mean indifference).
 
 ## Related Arguments
 
 - [[Transparency is a neoliberal dispositive that converts inwardness into information]] — names the political-economic engine driving the leveling described here.
 - [[The society of positivity dismantles negativity and accelerates the Same]] — the broader frame; this argument is its communicational specification.
 - [[The digital panopticon exploits freedom through voluntary self-exposure]] — explains the *mechanism* by which conformity becomes voluntary rather than coerced.
-- [[Intimacy is the psychological formula of transparency]] — the Ch6 corollary: the same leveling on the register of the soul.
+- [[Intimacy as Psychological Formula of Transparency]] — the Ch6 corollary: the same leveling on the register of the soul.
 - [[Theory as negativity resists the regime of positive information]] — counterpoint: what is lost when alterity is eliminated.
 
 ## Tensions

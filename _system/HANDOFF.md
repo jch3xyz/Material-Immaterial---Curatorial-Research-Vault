@@ -32,7 +32,8 @@ page is the operating manual.
 ## Ingest protocol (the whole loop)
 
 1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
-   Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics are DONE. 22 remain.)
+   Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus are
+   DONE. 21 remain.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, the Kurzweil/Harari pairs) extends the existing author note rather
