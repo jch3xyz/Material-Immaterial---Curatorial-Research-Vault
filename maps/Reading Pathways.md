@@ -118,3 +118,100 @@ A cross-book pathway placing Hayles's recovery of embodiment beside Han's diagno
 - [[Material vs Immaterial]] — the vault's master axis
 - [[N. Katherine Hayles and Byung-Chul Han]] — two distinct senses of 'information' on the embodiment axis
 - [[Information]] — where the two diagnoses meet and diverge
+
+## Pathways through *Six Years* (Lucy Lippard)
+
+### Pathway: The dematerialization of the art object
+
+Follows the book's titular arc, from the idea-as-art to the document that survives it to the exhibition reinvented as medium. Useful for thinking immateriality, the art object, and the medium of distribution.
+
+- [[Dematerialization]] — the titular concept: idea paramount, material form ephemeral, cheap, or absent
+- [[Conceptual Art]] — 'idea art'; the idea supersedes the visual/material result
+- [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate as the work's material residue
+- [[Exhibition as Medium]] — Siegelaub's exhibition/catalogue/magazine as the artwork's primary site
+- [[Dematerialization failed to escape the market]] — the closing self-critique: non-object art recuperated
+
+### Pathway: Conceptual art and the system
+
+Traces the art-world 'systems aesthetic' beside the vault's cybernetic lineage, and the information aesthetic of the document and the catalogue. Useful for thinking systems, information, and the related-but-distinct genealogies.
+
+- [[Systems Theory]] — the art-world 'systems aesthetics' (Haacke, LeWitt, Burnham) beside cybernetic systems theory
+- [[Information]] — conceptual art's 'information aesthetic'; Siegelaub's 'primary information'
+- [[Lucy Lippard and Hans Haacke]] — systems aesthetics + art and politics (the Guggenheim affair)
+- [[Lucy Lippard and Sol LeWitt]] — 'the idea becomes a machine that makes the art'; the idea/execution split
+- [[Exhibition as Medium]] — primary vs secondary information; the catalogue as the work
+
+### Pathway: Art, idea, and the failure to escape the market
+
+Charts the book's signature political self-critique: where the politics actually lived, what distribution achieved, and why the escape attempt was recuperated. Useful for thinking art and politics, commodification, and access.
+
+- [[In conceptual art the form not the content carried the politics]] — politics in de-commodifying form, not subject matter
+- [[Lucy Lippard and Hans Haacke]] — art and politics; the Guggenheim affair
+- [[Conceptual art achieved distribution but not accessibility]] — 'communication but not community'
+- [[Dematerialization failed to escape the market]] — art and artist remain luxuries under capitalism
+
+### Pathway: Material/Immaterial across art history and cybernetics
+
+A cross-book pathway bridging Lippard's dematerialization of the art object to Hayles's disembodiment of information on the vault's central axis. Useful for reading the Material/Immaterial tension across three authors.
+
+- [[Material vs Immaterial]] — the vault's master axis, now spanning Han, Hayles, and Lippard
+- [[Dematerialization]] — the art-historical instance of the immaterial
+- [[Lucy Lippard and N. Katherine Hayles]] — dematerialization of the art object ↔ disembodiment of information
+- [[The Materiality of Informatics]] — the counter-thesis that the immaterial is materially produced
+
+## Pathways through *God Human Animal Machine* (Meghan O'Gieblyn)
+
+### Pathway: Transhumanism as secular religion
+
+Follows the book's genealogical argument that the eschatological program of mind-uploading and the Singularity is secularized Christian resurrection theology. Useful for thinking the posthuman, immortality, and the religious afterlife of disenchantment.
+
+- [[Technology as Metaphor]] — each era understands self and cosmos through its dominant machine
+- [[Transhumanism]] — the eschatological program read as posthumanism's religious double
+- [[Transhumanism is secularized Christian eschatology]] — resurrection theology in technical dress (Bacon→Fedorov→Teilhard→Huxley→Kurzweil)
+- [[Mind Uploading]] — transferring a mind to a digital medium; the continuity-of-identity problem
+- [[The mind-uploading problem is the resurrection problem in technical dress]] — Origen's eidos = Kurzweil's pattern
+- [[Patternism]] — the self as a substrate-independent pattern of information
+- [[The Pattern in the Stream]] — Kurzweil's whirlpool/stream figure of the persisting self
+- [[Meghan O'Gieblyn and Ray Kurzweil]] — the chief transhumanist antagonist
+- [[Meghan O'Gieblyn and N. Katherine Hayles]] — the religious double of the posthuman; the cross-book bridge
+
+### Pathway: The computational metaphor of mind
+
+Traces O'Gieblyn's central method through the mind-as-machine metaphor: how the computer metaphor covertly re-inscribes Cartesian dualism, runs aground on the hard problem, and slides from analogy into literalism. Useful for thinking the mind-body problem, consciousness, and metaphor's two-way street.
+
+- [[Mind as Machine]] — the mind/brain as the era's dominant machine; brain as hardware running the software of mind
+- [[Metaphors are two-way streets so we made God in our image]] — the reversibility of source and target
+- [[The Mind-Body Problem]] — immaterial mind and material body; Descartes's res extensa/res cogitans
+- [[The computer metaphor reintroduces the disembodied soul it was built to abolish]] — mind-as-software as crypto-Cartesianism
+- [[The computer metaphor has not solved the mind-body problem only transferred it to a new substrate]] — Papert: the old problems recur 'in equivalent form'
+- [[The Hard Problem of Consciousness]] — why physical processes are accompanied by subjective experience
+- [[Eliminativism]] — the denial that consciousness exists; itself crypto-Cartesian
+- [[Metaphor vs Literalism]] — 'the universe is like a computer' vs. 'is in fact a computer'
+
+### Pathway: Disenchantment and the search for meaning
+
+Charts the book's master frame: Weber's disenchanted, mechanistic cosmos and the recurring drive to re-enchant it through panpsychism, idealism, and the simulation hypothesis. Useful for thinking meaning, the consciousness debates, and re-enchantment cosmologies.
+
+- [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos
+- [[The true trauma of disenchantment is the loss of intrinsic meaning]] — against the re-enchantment objection
+- [[Re-enchantment]] — the counter-movement that restores through science what science obliterated
+- [[Science succeeded by bracketing consciousness then denied it exists]] — the Cartesian split behind the hard problem and the measurement problem
+- [[Panpsychism]] — consciousness as the fundamental nature of all matter
+- [[Panpsychism dissolves the hard problem by making consciousness fundamental]] — the Russell/Eddington re-enchantment move
+- [[Idealism]] — consciousness, not matter, as fundamental; the return of God
+- [[The Simulation Hypothesis]] — the universe-as-program read as a secularized argument from design
+- [[Disenchantment vs Re-enchantment]] — the book's master axis
+
+### Pathway: The algorithm as God
+
+Follows the theological reading of opaque AI: the predictive, inscrutable algorithm as the modern reincarnation of the Calvinist God, with prediction enacting predestination and surveillance reproducing salvation anxiety. Useful for thinking determinism, theodicy, and providence.
+
+- [[The Black Box]] — opaque models delivering knowledge at the price of comprehension
+- [[The Algorithm as Providence]] — the predictive algorithm as the inscrutable nominalist God
+- [[The algorithmic God is the modern God of Calvin and Luther]] — the opaque AI deity as voluntarist
+- [[Algorithmic Determinism]] — prediction as a behavior-modifying feedback loop
+- [[Prediction enacts the very fate it foresees]] — predestination by algorithm
+- [[Theodicy]] — the problem of evil transposed onto AI: the citizen as Job
+- [[Job and the Algorithm]] — submission to the inscrutable algorithmic sovereign
+- [[Surveillance reproduces Protestant salvation anxiety]] — the Weberian, not Orwellian, power of surveillance
+- [[Free Will vs Determinism]] — spontaneous volition vs. the deterministic algorithm

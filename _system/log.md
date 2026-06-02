@@ -265,3 +265,38 @@ First book ingested under the hardened pipeline (controlled vocabulary + Link Na
   - Hayles↔Han `Information` is held in one note with author-sections; revisit if a third author's "information" requires restructuring into subnotes.
 - **Errors:** none.
 - **Next suggested tasks:** Haraway (*A Cyborg Manifesto*) to realize the cyborg cluster, or Debord to realize the spectacle cluster; then cross-book synthesis essays (Phase 6) are now viable — `Embodiment vs Information`, `Material vs Immaterial`, and transparency↔posthuman both have enough grounded notes to support source-verifiable essays.
+
+## 2026-06-01 — Ingest Lippard, *Six Years* (book 3)
+
+First non-monograph: an annotated chronicle of conceptual art. Workflow adapted with an **essay-vs-chronicle split** — the 4 essay sections (Escape Attempts, Author's Notes, Preface, Postface) drove concepts/arguments; the 6 year-files (1966–1971, up to 1242 lines each) produced one source-summary each plus forward-stubbed entities, deliberately NOT a note per artist (compression-control). 10 analyses → 25 create + 3 update.
+
+- **Created (25):** book `Six Years`, author `Lucy Lippard`, 10 source summaries; concepts `Dematerialization`, `Conceptual Art`, `The Document (Conceptual Art)`, `Exhibition as Medium`; 3 arguments (incl. `Dematerialization failed to escape the market` — Lippard's self-critique); definition `Dematerialization (Lippard)`; 5 references (`Lucy Lippard and {Sol LeWitt, Seth Siegelaub, Hans Haacke, Joseph Kosuth, N. Katherine Hayles}`).
+- **The standout connection:** `references/Lucy Lippard and N. Katherine Hayles.md` — the interpretive parallel between the *dematerialization of the art object* and the *disembodiment of information*. One of the vault's more original cross-book links.
+- **Cross-book merges (3 updates):**
+  - `tensions/Material vs Immaterial.md` — added a Lippard/dematerialization section; now a **THREE-author tension** (Han + Hayles + Lippard). The vault's titular axis is load-bearing across every ingested book.
+  - `concepts/Information.md` — now **three author-sections** (Han's positivized language + Hayles's disembodied pattern + Lippard's conceptual-art "information" aesthetic).
+  - `concepts/Systems Theory.md` — gained the Haacke/LeWitt systems-art angle (Hayles + Maturana + Varela + Lippard).
+- **Pipeline validation (book 3):** held again. Invented prefix-links: **0**. Artist-name fragmentation (LeWitt/Kosuth/Haacke/Siegelaub/…): **0** (full canonical names). Only Lippard-internal variant: `[[The Document]]`→`[[The Document (Conceptual Art)]]` (fixed). 0 bracket mismatches vault-wide.
+- **Deliberately NOT created:** `New Media Art` (37 refs) and `Art as Experiential Technology` (28 refs) — committed research-foci stubs heavily linked by the Lippard notes, but conceptual art is only their *precursor*, not a direct source. Left as forward-stubs to be realized by the dedicated art/new-media books (Ascott, Vierkant, Price, Burnham). This is the principled inverse of the `Material vs Immaterial` call (which WAS dual-sourced by ingested books).
+- **Vault totals:** 176 notes (3 books, 3 authors, 56 concepts, 20 arguments, 9 definitions, 10 metaphors, 6 symbols, 11 tensions, 20 references, 32 sources). 32 analysis files. 32 cache entries. Forward-stubs 726 distinct / 2508 occ (artists + cross-author concepts, all deferred per policy).
+- **Errors:** none.
+- **Next suggested tasks:** the art/new-media cluster (Burnham, Ascott, Vierkant, Price) would now realize `New Media Art`, `Art as Experiential Technology`, systems aesthetics, and the post-internet material/immaterial debates — a coherent next arc. Alternatively Haraway/Debord, or pivot to Phase 6 synthesis essays (`Material vs Immaterial` across three books is essay-ready).
+
+## 2026-06-01 — Ingest O'Gieblyn, *God Human Animal Machine* (book 4)
+
+The most cross-connected ingest so far: a memoir-essay on technology, theology, and the search for meaning that lives in the same territory as Hayles. 13 analyses → 78 create + 9 update + 13 source-summary backfill.
+
+- **Created (78 + 13 source summaries):**
+  - book `God Human Animal Machine`, author `Meghan O'Gieblyn`.
+  - ~20 new concepts: Transhumanism · Disenchantment · Re-enchantment · Mind Uploading · Patternism · Panpsychism · The Hard Problem of Consciousness · The Mind-Body Problem · Eliminativism · Idealism · Integrated Information Theory · The Simulation Hypothesis · The Measurement Problem · Imago Dei · Theodicy · Technology as Metaphor · The Algorithm as Providence · Algorithmic Determinism · The Black Box · Disembodied Information as the Soul.
+  - 21 arguments, 12 definitions, 8 metaphors (incl. the realized committed stub **`Mind as Machine`** — the brief's own example; plus `The Golem`, `Graven Images`, `The Pattern in the Stream`), 2 symbols (`Job and the Algorithm`, `The Aibo`), 5 tensions (`Disenchantment vs Re-enchantment`, `Free Will vs Determinism`, `Human Exceptionalism vs Ontological Equality`, `Metaphor vs Literalism`, `Subject vs Object`), 8 references.
+  - **Second vault-internal interpretive reference**: `Meghan O'Gieblyn and N. Katherine Hayles` (transhumanism/embodiment/the posthuman) — joins `Lucy Lippard and N. Katherine Hayles`, giving the vault a real interpretive backbone around the posthuman.
+- **Cross-book merges (9 updates — the richest yet):**
+  - `The Computational Universe` → now **5 authors** (Hayles + O'Gieblyn + the physics interlocutors).
+  - `Information` → **4 authors** (Han + Hayles + Lippard + O'Gieblyn).
+  - `Emergence` → 4 authors. Plus O'Gieblyn sections in `The Body as Data`, `Posthumanism`, `Embodiment`, `The Liberal Humanist Subject`, `Pattern and Randomness`, `Distributed Cognition`.
+- **Planner gap caught + fixed:** the main ingest planner produced 78 durable notes but **skipped the 13 per-chapter source summaries** (the provenance layer all prior books have). Backfilled via a focused follow-up workflow (13/13), drawing on the existing analysis files. Cache rebuilt with the source summaries in `generated_files`. → A pipeline note: the planner schema should treat source summaries as mandatory, not discretionary, when note volume is high.
+- **Pipeline validation (book 4):** held. Invented prefix-links: **0**. Author-name fragmentation (Descartes/Weber/Kurzweil/Moravec/Chalmers/Bostrom): **0** (full canonical names). Concept variants: **0**. Bracket mismatches: **0** vault-wide.
+- **Vault totals:** 267 notes (4 books, 4 authors, 76 concepts, 41 arguments, 21 definitions, 18 metaphors, 8 symbols, 16 tensions, 28 references, 45 sources). 45 analysis files. 45 cache entries. Forward-stubs 811 distinct / 3015 occ (theology + philosophy-of-mind + AI figures, all deferred per policy).
+- **Errors:** none.
+- **Next suggested tasks:** the posthuman cluster (Han + Hayles + Lippard + O'Gieblyn) is now dense enough that **Phase 6 synthesis essays** are strongly viable — e.g. "Disembodiment from Shannon to the digital afterlife" (Hayles + O'Gieblyn), or "The dematerialized object and the disembodied soul" (Lippard + Hayles + O'Gieblyn). Or continue ingesting: Haraway (cyborg), the Kurzweil/Harari transhumanist primary sources (O'Gieblyn critiques them — would realize those references), or the art cluster.

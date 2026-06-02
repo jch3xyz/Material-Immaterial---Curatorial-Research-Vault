@@ -6,6 +6,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
 related:
   - "[[Embodiment]]"
   - "[[Material vs Immaterial]]"
@@ -15,11 +16,21 @@ opposes:
   - "[[Posthumanism]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # The Liberal Humanist Subject
+
+## General Orientation
+
+The liberal humanist subject — the Enlightenment model of the human as an autonomous, rational, self-possessing, free-willed individual — appears in this vault through two authors who treat it from opposite ends of its life cycle.
+
+- **[[N. Katherine Hayles]]** establishes the *genealogy and the continuity*: the liberal subject, grounded in Macpherson's possessive individualism, is the named "reference point for the human" against which the posthuman is measured. Her wager is that the posthuman does not cleanly break from this subject but inherits its constitutive erasure of [[Embodiment]] — the self lodged in the rational mind, possessing a body but "not represented as being a body."
+- **[[Meghan O'Gieblyn]]** documents the *contemporary erasure in practice*: under surveillance capitalism and what Harari calls "Dataism," the autonomous, feeling, self-knowing individual that liberal humanism presupposes is invalidated as a source of truth and dissolved into [[Pattern and Randomness|pattern and probabilities]]. Where Hayles theorizes how computation could displace possessive individualism "as the ground of being," O'Gieblyn shows the displacement already operationalized — the person rendered "not an individual but a member of a data set."
+
+The two senses converge on a single claim: the bounded, interior, self-owning subject of liberal humanism is undone the moment the human is recoded as information ([[The Body as Data]]). Hayles names the conceptual mechanism; O'Gieblyn names the economic and algorithmic one.
 
 ## Brief Definition
 
@@ -40,6 +51,14 @@ Hayles is explicit that she does not write to rescue this subject. She does "not
 - **[[N. Katherine Hayles]]** — uses the liberal humanist subject as the explicit "reference point for the human," anchored in Macpherson's possessive individualism. Her distinctive contribution is the continuity thesis: that the subject "possessed a body but was not represented as being a body," so the posthuman inherits, rather than escapes, its erasure of embodiment.
 - **C. B. Macpherson** — the source of *possessive individualism*, the doctrine that the individual is "the proprietor of his own person or capacities, owing nothing to society for them." Macpherson also supplies the paradox Hayles redeploys: the "natural" self that supposedly predates market relations is in fact "a retrospective creation of a market society."
 - **[[Alan Turing]]** — in the prologue, the Turing test stages the subject's deepest assumption: "the erasure of embodiment is performed so that 'intelligence' becomes a property of the formal manipulation of symbols rather than enaction in the human lifeworld." Hodges reads Turing's setup as "the embodiment of a perfect J. S. Mill liberal."
+
+## Dataism and the Person as Data Set (O'Gieblyn)
+
+In *[[God, Human, Animal, Machine]]*, Meghan O'Gieblyn watches the liberal humanist subject [[N. Katherine Hayles|Hayles]] theorizes get dismantled not by argument but by infrastructure. Her hinge is Yuval Noah Harari's diagnosis that liberal humanism "depends on the assumption that an individual knows what is best for herself and can make rational decisions about her best interests" — exactly the autonomous, self-possessing self of possessive individualism. Once corporations "know the customer better than she knows herself," that assumption collapses, and with it the ground of the subject. O'Gieblyn reports Harari's claim that "'Dataism,' which he believes is already succeeding humanism as a ruling ideology, invalidates the assumption that individual feelings, convictions, and beliefs constitute a legitimate source of truth," compressed into the slogan: "Whereas humanism commanded: 'Listen to your feelings!' " he writes, "Dataism now commands: 'Listen to the algorithms! They know how you feel.' " The seat of authority migrates from the subject's interiority to the algorithm — the liberal subject deposed, not by recovering [[Embodiment|the body]] (Hayles's route) but by being out-known by a predictive system.
+
+O'Gieblyn locates the philosophical core of this erasure in the same place Hayles does — the early cybernetic recoding of the person as [[Pattern and Randomness|pattern]] rather than presence. She names "the philosophy of selfhood that has characterized information technologies since the early days of cybernetics — the notion that a person can be described purely in terms of pattern and probabilities, without any concern for interiority." This is [[The Body as Data]] arrived at its surveillance-capitalist destination: in Shoshana Zuboff's "behavioral futures," the self is not read for its soul but stripped for "raw material" to be turned "into behavioral data." Zuboff's surveillance capitalism, O'Gieblyn stresses, "has no interest in the soul" — "It does not care what you believe. It does not care how you feel" — which is precisely the inverse of liberal humanism's command to consult one's own feelings and convictions. The interior, self-knowing subject is not refuted; it is simply rendered irrelevant to prediction.
+
+The most concrete image of this dissolution is O'Gieblyn's friend, the recovering addict whose attempt to repay what she stole is refused because the theft was already "shrinkage," budgeted in advance. Reflecting on her own agency, the friend realizes that "once you looked at the whole picture, she said, she was not an individual but a member of a data set whose actions could be anticipated with such precision that the corporation had already budgeted the money it knew she would steal." Here the liberal humanist subject — free-willed, singular, the proprietor of its own choices — is supplanted by the statistical subject, a node whose behavior is anticipated, priced, and modified through "algorithmic determinism." O'Gieblyn extends this with Hannah Arendt's warning that from the "Archimedean point" human activities "appear to ourselves as no more than 'overt behavior,' which we can study with the same methods we use to study the behavior of rats" — a vantage that "cannot account for human agency," reducing the autonomous individual to "mere cogs" in a deterministic process. The surveillance-capitalist person-as-data-set is the contemporary, operational face of the erasure of the autonomous subject that Hayles tracked through [[Cybernetics]] and [[Feedback Loops]].
 
 ## Related Concepts
 
@@ -157,4 +176,64 @@ Relevant passage:
 > What is lethal is not the posthuman as such but the grafting of the posthuman onto a liberal humanist view of the self.
 
 Supports: Crystallizes the danger Hayles assigns to the liberal subject as a persisting frame — its autonomy and mastery, grafted onto the posthuman, are what make disembodiment lethal.
+Confidence: Directly stated
+
+### Source 9
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]
+Relevant passage:
+
+> Harari argues that this would officially mark the end of liberal humanism, which depends on the assumption that an individual knows what is best for herself and can make rational decisions about her best interests. “Dataism,” which he believes is already succeeding humanism as a ruling ideology, invalidates the assumption that individual feelings, convictions, and beliefs constitute a legitimate source of truth.
+
+Supports: O'Gieblyn (via Harari) names the precise content of the liberal humanist subject — the individual who "knows what is best for herself" and chooses rationally in her own interest — and identifies Dataism as the ideology already superseding it, invalidating the subject's feeling and conviction as a source of truth.
+Confidence: Directly stated
+
+### Source 10
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]
+Relevant passage:
+
+> “Whereas humanism commanded: ‘Listen to your feelings!’ ” he writes, “Dataism now commands: ‘Listen to the algorithms! They know how you feel.’ ”
+
+Supports: The slogan form of the supersession — authority migrates from the liberal subject's interior feeling to the algorithm, deposing the self-knowing individual as the seat of truth.
+Confidence: Directly stated
+
+### Source 11
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]
+Relevant passage:
+
+> This is not of course out of a respect for privacy but rather an outgrowth of the philosophy of selfhood that has characterized information technologies since the early days of cybernetics—the notion that a person can be described purely in terms of pattern and probabilities, without any concern for interiority.
+
+Supports: Locates the erasure of the interior subject in the cybernetic recoding of the person as pattern and probability — the same disembodied, informational selfhood Hayles traces, now realized in surveillance-capitalist metadata.
+Confidence: Directly stated
+
+### Source 12
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]
+Relevant passage:
+
+> But once you looked at the whole picture, she said, she was not an individual but a member of a data set whose actions could be anticipated with such precision that the corporation had already budgeted the money it knew she would steal.
+
+Supports: The concrete image of the autonomous subject's dissolution — the free-willed, singular individual replaced by a statistical node within a data set whose behavior is anticipated and priced in advance.
+Confidence: Directly stated
+
+### Source 13
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]
+Relevant passage:
+
+> When it comes to the data used to make these predictions—the information silently siphoned off us by companies trading in what the scholar Shoshana Zuboff calls “behavioral futures”—we are often placated with the reminder that the mirror is two-sided.
+
+Supports: Names Zuboff's "behavioral futures" — the surveillance-capitalist market in predicted behavior that treats the self as raw material rather than interiority, the economic mechanism by which the autonomous subject is erased.
 Confidence: Directly stated

@@ -6,6 +6,9 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -19,6 +22,7 @@ opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -28,6 +32,15 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 For [[N. Katherine Hayles]], the posthuman is not a literal cyborg but **a point of view** — a construction of subjectivity that privileges informational pattern over material instantiation and that can be "seamlessly articulated with intelligent machines"; it marks the end of a particular (liberal humanist) conception of the human, not the end of humanity.
+
+## General Orientation
+
+The word *posthuman* carries two distinct senses in this vault, and the note keeps them separate.
+
+- **Posthumanism as critical point of view (Hayles).** A descriptive and diagnostic stance: the posthuman names *how subjectivity is constructed* once [[Information]] is privileged over [[Embodiment]]. It is analytical, ambivalent, and contestable — Hayles is mapping a condition ("we have always been posthuman") in order to argue for a *benign, embodied* version of it.
+- **Transhumanism as eschatological program (O'Gieblyn).** A *prescriptive* movement (Kurzweil, Bostrom, Moravec) that takes the same pattern-over-matter premise and turns it into a salvation narrative: mind-uploading, the Singularity, immortality, divinization. O'Gieblyn's thesis is that this is posthumanism's "religious double" — a Christian resurrection eschatology in technical dress.
+
+The two are genealogically linked but must not be merged: Hayles supplies the *critical concept* and O'Gieblyn supplies its *eschatological enactment*. What Hayles calls the "lethal graft" — the posthuman grafted onto liberal humanist autonomy and mastery — is precisely what O'Gieblyn's transhumanism *performs*. For the program as such, see the distinct concept [[Transhumanism]]; the section below treats only O'Gieblyn's argument that it is secular eschatology.
 
 ## Longer Explanation
 
@@ -39,10 +52,23 @@ Hayles's key political claim follows from this diagnosis: the posthuman is not l
 
 Against this lethal graft, Hayles posits a second, benign posthuman: one "grounded in embodied actuality rather than disembodied information," where "emergence replaces teleology ... distributed cognition replaces autonomous will; embodiment replaces a body seen as a support system for the mind." This version is not antihuman and not apocalyptic. It is also already our condition — "we have always been posthuman" — so the question is no longer whether but *what kind*: "Increasingly the question is not whether we will become posthuman, for posthumanity is already here. Rather, the question is what kind of posthumans we will be." Because the posthuman is performative ("People become posthuman because they think they are posthuman") and its meaning is still being decided, Hayles treats the present as the moment to contest it: "The best possible time to contest for what the posthuman means is now."
 
+---
+
+## Transhumanism as Secular Eschatology (O'Gieblyn)
+
+Where Hayles offers the posthuman as a *critical point of view*, Meghan O'Gieblyn examines its missionary cousin — **transhumanism** (the program of [[Ray Kurzweil]], Nick Bostrom, and [[Hans Moravec]]) — and argues that it is not the rational, Enlightenment-descended humanism it claims to be but **a Christian resurrection narrative in technical dress**. A former fundamentalist who lost the faith, she recognized in [[Ray Kurzweil]]'s *The Age of Spiritual Machines* the exact eschatological architecture she had been raised on: history as a teleological "cumulative process of revelation" wending toward a point of final redemption (the Singularity, dated to 2045) at which the dead would rise, bodies would be made "incorruptible, immune to disease and decay," and "all the matter of the universe will become saturated with intelligence." The grammar maps one-to-one — mind-uploading is *resurrection*, the Singularity is the *parousia*, immortality and divinization (Stewart Brand's "We are gods and might as well get good at it") complete the program — and the lineage is genealogical, not merely analogical: the word *transhuman* first entered English in Cary's 1814 rendering of Dante's *transumanar*, resurfaced in the Jesuit Teilhard de Chardin's "Omega Point" (an "obvious precursor to Kurzweil's Singularity"), and only then was secularized by Julian Huxley. O'Gieblyn's thesis is stated plainly: "**Most transhumanists are outspoken atheists, eager to maintain the notion that their philosophy is rooted in modern rationalism and not in fact what it is: an outgrowth of Christian eschatology.**" Its appeal is the appeal of a disenchanted age that still hungers for transcendence: "**What makes transhumanism so compelling is that it promises to restore through science the transcendent—and essentially religious—hopes that science itself obliterated.**"
+
+This is the precise point of contact with Hayles. The whole program rests on the cybernetic premise that O'Gieblyn, citing Hayles directly, names the inheritance of the Macy Conferences — that [[Information]] became "decontextualized" until it seemed "an entity that can flow unchanged between different material substrates," "the materialist's substitute for the soul." Kurzweil's "patternism" (consciousness as "a pattern of information," explicitly echoing [[Norbert Wiener]]'s "we are not stuff that abides, but patterns that perpetuate themselves") is exactly the privileging of [[Pattern and Randomness]] over [[Embodiment]] that defines the posthuman as a point of view — but now grafted onto the liberal-humanist dream of an autonomous self made *immortal* by escaping the body (see [[The Body as Data]], [[The Materiality of Informatics]], [[Mind as Machine]]). It is Hayles's "lethal graft" *enacted*: the posthuman fused to liberal mastery, "disembodied information" become, in Hayles's phrase that O'Gieblyn quotes, "the ultimate Platonic Form." This is why the two senses must not be collapsed — Hayles diagnoses; transhumanism *prescribes*. For the program treated in its own right, see [[Transhumanism]].
+
+O'Gieblyn's sharpest move is to invert transhumanism's own rhetoric. Far from a "portal into a higher realm of existence," its underlying ideology *demotes* the human: "**While it claims to offer humanity a portal into a higher realm of existence, its fundamental ideology is actually nudging us down to a lower ontological status.**" Its "rather depressing gospel" is that we will inevitably be superseded by machines and can survive only by becoming machines — "objects that we for centuries regarded as lower than plants and animals" — and even the uploaded self may be a zombie "with no subjective experience," so that transhumanism ends up "merely another attempt to argue that humans are nothing more than computation." She extends the genealogy into [[The Computational Universe]]: Bostrom's simulation hypothesis is "ultimately an argument from design," a "naturalistic theology" in which the programmers are "omnipotent" and "omniscient" gods who could "resurrect" us — the disenchanted clockwork cosmos circling back, via [[René Descartes]]'s clockmaker and the lineage of theological mechanism, to the very creationism it claimed to have left behind. The recurring irony O'Gieblyn presses (via [[Max Weber]] on disenchantment) is that "even the most mystical end up simply reiterating the fundamental problem of our disenchanted age: the inability to account for the mind."
+
+---
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — the posthuman as a point of view with four assumptions, distinct from the figure of [[The Cyborg]]; the end of [[The Liberal Humanist Subject]], not of humanity; lethal only when grafted onto liberal humanism; redeemable as a *benign, embodied* posthuman located in the dialectic of pattern/randomness and grounded in [[Embodiment]].
 - **Hans Moravec (Hayles's antagonist)** — the "apocalyptic" or anti-human posthuman: a "postbiological" future in which consciousness is downloaded into a computer and intelligent machines displace humanity. For Hayles this is precisely the posthuman *grafted onto liberal humanism* (autonomy and mastery extended into immortality), the version she sets out to contest.
+- **[[Meghan O'Gieblyn]]** — treats the *transhumanist* posthuman (Kurzweil, Bostrom, Moravec) not as a neutral point of view but as an **eschatological program**: posthumanism's "religious double," a Christian resurrection narrative in technical dress (uploading = resurrection, the Singularity = parousia, plus immortality and divinization). The program is precisely Hayles's "lethal graft" enacted — the pattern-over-matter posthuman fused to liberal-humanist autonomy and extended into immortality. Treated in its own right as [[Transhumanism]].
 
 ## Related Concepts
 
@@ -156,3 +182,69 @@ Relevant passage:
 > Bruno Latour has argued that we have never been modern; the seriated history of cybernetics—emerging from networks at once materially real, socially regulated, and discursively constructed—suggests, for similar reasons, that we have always been posthuman.
 
 Supports: The "we have always been posthuman" thesis — the posthuman as a long, seriated, materially embedded history rather than a sudden rupture; underwrites the benign, embodied posthuman. Label: `Directly stated`.
+
+### Source 9
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]
+Relevant passage:
+
+> Most transhumanists are outspoken atheists, eager to maintain the notion that their philosophy is rooted in modern rationalism and not in fact what it is: an outgrowth of Christian eschatology.
+
+Supports: O'Gieblyn's central thesis for this section — transhumanism is not the secular rationalism it claims to be but a secularized Christian eschatology; posthumanism's "religious double." Label: `Directly stated`.
+
+### Source 10
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> What makes transhumanism so compelling is that it promises to restore through science the transcendent—and essentially religious—hopes that science itself obliterated.
+
+Supports: The appeal of transhumanism as the recovery, in technical form, of the transcendent/religious hopes that scientific disenchantment had foreclosed — eschatology by other means. Label: `Directly stated`.
+
+### Source 11
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]
+Relevant passage:
+
+> While it claims to offer humanity a portal into a higher realm of existence, its fundamental ideology is actually nudging us down to a lower ontological status.
+
+Supports: O'Gieblyn's inversion of transhumanism's rhetoric — its promised "higher realm" actually demotes the human to machine/computation, the "darker irony" beneath the spiritualized program. Label: `Directly stated`.
+
+### Source 12
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> Within transhumanist thought, transcendence depends on the notion that information can be liberated from the material constraints of the physical world: it is an ideology, as the critic N. Katherine Hayles points out, in which "disembodied information becomes the ultimate Platonic Form."
+
+Supports: The genealogical link to Hayles — transhumanist transcendence rests on the pattern-over-matter premise (information freed from materiality), the same cybernetic move Hayles diagnoses; this is the "lethal graft" enacted. Label: `Directly stated`.
+
+### Source 13
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> Now that evolution has produced intelligent, tool-wielding humans, we are designing new information technologies more sophisticated than any object the world has yet seen. These technologies are becoming more complex and powerful each year, and very soon they will transcend us in intelligence. The only way for us to survive as humans is to begin merging our bodies with these technologies, transforming ourselves into a new species—what Kurzweil calls "posthumans," or spiritual machines. Neural implants, mind-uploading, and nanotechnology will soon be available, he promises. With the help of these technologies, we will be able to transfer or "resurrect" our minds onto supercomputers, allowing us to become immortal.
+
+Supports: The eschatological grammar made explicit — Kurzweil's "posthumans"/"spiritual machines," with mind-uploading as "resurrect[ion]" and the promise of immortality; the technical-dress version of the Christian resurrection narrative. Label: `Directly stated`.
+
+### Source 14
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]
+Relevant passage:
+
+> Bostrom, a prominent transhumanist, believes that humanity is in the process of becoming posthuman as we merge our bodies with technology. We are becoming superintelligence ourselves.
+
+Supports: Bostrom's transhumanism as a *program* of becoming posthuman (merging with technology toward superintelligence) — the prescriptive sense the note keeps distinct from Hayles's descriptive point of view. Label: `Directly stated`.

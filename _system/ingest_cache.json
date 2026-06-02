@@ -470,5 +470,443 @@
       "tensions/Liberal Humanist Subject vs Posthuman.md",
       "tensions/Presence Absence vs Pattern Randomness.md"
     ]
+  },
+  "raw/Lippard - Six Years/02 Escape Attempts.md": {
+    "sha256": "be94da6b9bd161f15ce542da8eb98061faa42529f0278118b64edf55b8dc4767",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 02 Escape Attempts.md.analysis.md",
+    "generated_files": [
+      "arguments/Conceptual art achieved distribution but not accessibility.md",
+      "arguments/Dematerialization failed to escape the market.md",
+      "arguments/In conceptual art the form not the content carried the politics.md",
+      "authors/Lucy Lippard.md",
+      "books/Six Years.md",
+      "concepts/Conceptual Art.md",
+      "concepts/Dematerialization.md",
+      "concepts/Exhibition as Medium.md",
+      "concepts/The Document (Conceptual Art).md",
+      "definitions/Dematerialization (Lippard).md",
+      "references/Lucy Lippard and N. Katherine Hayles.md",
+      "references/Lucy Lippard and Seth Siegelaub.md",
+      "references/Lucy Lippard and Sol LeWitt.md",
+      "sources/Lippard - Six Years - 02 Escape Attempts.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Lippard - Six Years/03 Author's Notes.md": {
+    "sha256": "e4ceaf220f749cefbce72756eabcf7c13ac3dc4a438e0f0b44b9a188f2c5a85e",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 03 Author's Notes.md.analysis.md",
+    "generated_files": [
+      "arguments/Dematerialization failed to escape the market.md",
+      "books/Six Years.md",
+      "concepts/Exhibition as Medium.md",
+      "sources/Lippard - Six Years - 03 Author's Notes.md"
+    ]
+  },
+  "raw/Lippard - Six Years/04 Preface.md": {
+    "sha256": "8cd0d53599209fee04af26108cddf8c588fb452216a857c8b62097cb190dd810",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 04 Preface.md.analysis.md",
+    "generated_files": [
+      "arguments/Conceptual art achieved distribution but not accessibility.md",
+      "arguments/Dematerialization failed to escape the market.md",
+      "authors/Lucy Lippard.md",
+      "books/Six Years.md",
+      "concepts/Conceptual Art.md",
+      "concepts/Dematerialization.md",
+      "definitions/Dematerialization (Lippard).md",
+      "sources/Lippard - Six Years - 04 Preface.md"
+    ]
+  },
+  "raw/Lippard - Six Years/05 1966.md": {
+    "sha256": "e8a576a3c3cb05413f3f14a6684b4e5ef5a00c5dede817122fa820ee49d7a2f4",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 05 1966.md.analysis.md",
+    "generated_files": [
+      "books/Six Years.md",
+      "concepts/Information.md",
+      "sources/Lippard - Six Years - 05 1966.md"
+    ]
+  },
+  "raw/Lippard - Six Years/06 1967.md": {
+    "sha256": "4d2c01540626961a6bc24a7f3d464a718c41c4ac14f24dd46527d5187e608a88",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 06 1967.md.analysis.md",
+    "generated_files": [
+      "books/Six Years.md",
+      "concepts/Conceptual Art.md",
+      "references/Lucy Lippard and Joseph Kosuth.md",
+      "references/Lucy Lippard and Sol LeWitt.md",
+      "sources/Lippard - Six Years - 06 1967.md"
+    ]
+  },
+  "raw/Lippard - Six Years/07 1968.md": {
+    "sha256": "60f397063810a5f570a5c5785adee2177941087e8564f5c6cb78510d3b0fbbe3",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 07 1968.md.analysis.md",
+    "generated_files": [
+      "books/Six Years.md",
+      "concepts/Dematerialization.md",
+      "concepts/Systems Theory.md",
+      "references/Lucy Lippard and Hans Haacke.md",
+      "references/Lucy Lippard and N. Katherine Hayles.md",
+      "sources/Lippard - Six Years - 07 1968.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Lippard - Six Years/08 1969.md": {
+    "sha256": "674071947d1d1a265422f7342210cc73cdb7f3e76f823a3f3ccae0ca63e261d6",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 08 1969.md.analysis.md",
+    "generated_files": [
+      "authors/Lucy Lippard.md",
+      "books/Six Years.md",
+      "concepts/Exhibition as Medium.md",
+      "concepts/Information.md",
+      "concepts/Systems Theory.md",
+      "concepts/The Document (Conceptual Art).md",
+      "references/Lucy Lippard and Joseph Kosuth.md",
+      "references/Lucy Lippard and Seth Siegelaub.md",
+      "references/Lucy Lippard and Sol LeWitt.md",
+      "sources/Lippard - Six Years - 08 1969.md"
+    ]
+  },
+  "raw/Lippard - Six Years/09 1970.md": {
+    "sha256": "af69ddcddc93b9efa8cc4903f6978a63b89372938c968a4c3b5b57535b618aa3",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 09 1970.md.analysis.md",
+    "generated_files": [
+      "books/Six Years.md",
+      "concepts/Dematerialization.md",
+      "concepts/Exhibition as Medium.md",
+      "concepts/The Document (Conceptual Art).md",
+      "references/Lucy Lippard and Joseph Kosuth.md",
+      "references/Lucy Lippard and N. Katherine Hayles.md",
+      "sources/Lippard - Six Years - 09 1970.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Lippard - Six Years/10 1971.md": {
+    "sha256": "238eedd6e47b136d32d20f0009deef76be2903bd370443a720581e7932fa1c44",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 10 1971.md.analysis.md",
+    "generated_files": [
+      "books/Six Years.md",
+      "concepts/Systems Theory.md",
+      "references/Lucy Lippard and Hans Haacke.md",
+      "sources/Lippard - Six Years - 10 1971.md"
+    ]
+  },
+  "raw/Lippard - Six Years/11 Postface.md": {
+    "sha256": "a0572c391594480605c75e10468c4d1562feb0c82041b6193934e589aaec974e",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/Lippard - Six Years - 11 Postface.md.analysis.md",
+    "generated_files": [
+      "arguments/Dematerialization failed to escape the market.md",
+      "arguments/In conceptual art the form not the content carried the politics.md",
+      "authors/Lucy Lippard.md",
+      "books/Six Years.md",
+      "concepts/Conceptual Art.md",
+      "concepts/Dematerialization.md",
+      "concepts/Information.md",
+      "concepts/The Document (Conceptual Art).md",
+      "references/Lucy Lippard and Hans Haacke.md",
+      "references/Lucy Lippard and N. Katherine Hayles.md",
+      "sources/Lippard - Six Years - 11 Postface.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch01 [Image].md": {
+    "sha256": "45e9f30f032f6906133da1130eafefd26036c59e001ca7e9fa322cc397cec3b4",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch01 [Image].md.analysis.md",
+    "generated_files": [
+      "arguments/All the eternal questions have become engineering problems.md",
+      "arguments/Metaphors are two-way streets so we made God in our image.md",
+      "authors/Meghan O'Gieblyn.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Disenchantment.md",
+      "concepts/Imago Dei.md",
+      "concepts/Information.md",
+      "concepts/Technology as Metaphor.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "concepts/The Mind-Body Problem.md",
+      "definitions/Disenchantment (O'Gieblyn).md",
+      "definitions/The Dead Metaphor (O'Gieblyn).md",
+      "metaphors/Mind as Machine.md",
+      "metaphors/The Soul as an Empty Carapace.md",
+      "references/Meghan O'Gieblyn and David Chalmers.md",
+      "references/Meghan O'Gieblyn and Max Weber.md",
+      "references/Meghan O'Gieblyn and René Descartes.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch01 [Image].md.md",
+      "symbols/The Aibo.md",
+      "tensions/Free Will vs Determinism.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch02 [Image].md": {
+    "sha256": "674fc08398c49b3cb4a14def3c0fcb1f4cd57ea514cbbaa45a09ab1535372079",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch02 [Image].md.analysis.md",
+    "generated_files": [
+      "arguments/Science succeeded by bracketing consciousness then denied it exists.md",
+      "arguments/The computer metaphor has not solved the mind-body problem only transferred it to a new substrate.md",
+      "arguments/The computer metaphor reintroduces the disembodied soul it was built to abolish.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Eliminativism.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "concepts/The Mind-Body Problem.md",
+      "metaphors/Graven Images.md",
+      "metaphors/Mind as Machine.md",
+      "references/Meghan O'Gieblyn and René Descartes.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch02 [Image].md.md",
+      "symbols/The Aibo.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern].md": {
+    "sha256": "f90ea420bee7a31320919eccd1967b2c2a72bd2fac469343c8a7c80d28f250fa",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md.analysis.md",
+    "generated_files": [
+      "arguments/The mind-uploading problem is the resurrection problem in technical dress.md",
+      "arguments/The true trauma of disenchantment is the loss of intrinsic meaning.md",
+      "arguments/Transhumanism is secularized Christian eschatology.md",
+      "authors/Meghan O'Gieblyn.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Disembodied Information as the Soul.md",
+      "concepts/Disenchantment.md",
+      "concepts/Embodiment.md",
+      "concepts/Mind Uploading.md",
+      "concepts/Pattern and Randomness.md",
+      "concepts/Patternism.md",
+      "concepts/Posthumanism.md",
+      "concepts/Re-enchantment.md",
+      "concepts/Transhumanism.md",
+      "definitions/Disenchantment (O'Gieblyn).md",
+      "definitions/Functionalism and Multiple Realizability (O'Gieblyn).md",
+      "definitions/Patternism (O'Gieblyn).md",
+      "definitions/The Singularity (O'Gieblyn).md",
+      "metaphors/The Pattern in the Stream.md",
+      "references/Meghan O'Gieblyn and Max Weber.md",
+      "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
+      "references/Meghan O'Gieblyn and Norbert Wiener.md",
+      "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md.md",
+      "tensions/Disenchantment vs Re-enchantment.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern].md": {
+    "sha256": "80bef863722c89d4a8f5c1c98087c8dfb5f4d75e405cbd532ae291c94b5b5e63",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md.analysis.md",
+    "generated_files": [
+      "arguments/The computer metaphor reintroduces the disembodied soul it was built to abolish.md",
+      "arguments/Transhumanism is secularized Christian eschatology.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Disembodied Information as the Soul.md",
+      "concepts/Disenchantment.md",
+      "concepts/Embodiment.md",
+      "concepts/Imago Dei.md",
+      "concepts/Information.md",
+      "concepts/Mind Uploading.md",
+      "concepts/Posthumanism.md",
+      "concepts/Re-enchantment.md",
+      "concepts/Technology as Metaphor.md",
+      "concepts/The Body as Data.md",
+      "concepts/Transhumanism.md",
+      "definitions/Functionalism and Multiple Realizability (O'Gieblyn).md",
+      "definitions/The Omega Point and the Noosphere (O'Gieblyn).md",
+      "definitions/The Singularity (O'Gieblyn).md",
+      "metaphors/Mind as Machine.md",
+      "metaphors/The Pattern in the Stream.md",
+      "references/Meghan O'Gieblyn and Hans Moravec.md",
+      "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
+      "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md.md",
+      "tensions/Disenchantment vs Re-enchantment.md",
+      "tensions/Metaphor vs Literalism.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch05 [Network].md": {
+    "sha256": "e3f43f326fd14e009491e810a400d27b288e19ed11ddb8caec95a8d4c04ec9cd",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch05 [Network].md.analysis.md",
+    "generated_files": [
+      "arguments/Emergence is vitalism updated and uncomfortably like magic.md",
+      "arguments/Intelligence does not require a unified knowing subject.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Distributed Cognition.md",
+      "concepts/Emergence.md",
+      "concepts/Re-enchantment.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch05 [Network].md.md",
+      "tensions/Disenchantment vs Re-enchantment.md",
+      "tensions/Human Exceptionalism vs Ontological Equality.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch06 [Network].md": {
+    "sha256": "0ed5cb43e9c5af68efbbf5f62a24654aa9610d731b213781d0e0138464de7506",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch06 [Network].md.analysis.md",
+    "generated_files": [
+      "arguments/Emergence is vitalism updated and uncomfortably like magic.md",
+      "arguments/The anthropomorphism charge misreads the flow of the metaphor.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Distributed Cognition.md",
+      "concepts/Embodiment.md",
+      "concepts/Emergence.md",
+      "concepts/Imago Dei.md",
+      "definitions/The Theological Objection (O'Gieblyn via Turing).md",
+      "metaphors/Computers Arose from the Mud and Code Fell from the Sky.md",
+      "metaphors/The Golem.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch06 [Network].md.md",
+      "tensions/Human Exceptionalism vs Ontological Equality.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox].md": {
+    "sha256": "260b4293e5600d9f1fe2380c8329503ea1e16d160e168a452e8bef8262b9d244",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md.analysis.md",
+    "generated_files": [
+      "arguments/Information is a third substance that evades rather than solves the mind-body problem.md",
+      "arguments/Science succeeded by bracketing consciousness then denied it exists.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Information.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Measurement Problem.md",
+      "concepts/The Mind-Body Problem.md",
+      "concepts/The Simulation Hypothesis.md",
+      "metaphors/Mind as Machine.md",
+      "references/Meghan O'Gieblyn and Nick Bostrom.md",
+      "references/Meghan O'Gieblyn and René Descartes.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md.md",
+      "tensions/Metaphor vs Literalism.md",
+      "tensions/Subject vs Object.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox].md": {
+    "sha256": "89d07bf968b9ae697b4b395c3494e35cf0861e716c8205cfb8f81b14a33e04a8",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md.analysis.md",
+    "generated_files": [
+      "arguments/The simulation hypothesis is a secularized argument from design.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Disenchantment.md",
+      "concepts/Mind Uploading.md",
+      "concepts/Pattern and Randomness.md",
+      "concepts/Posthumanism.md",
+      "concepts/Technology as Metaphor.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Simulation Hypothesis.md",
+      "concepts/Theodicy.md",
+      "concepts/Transhumanism.md",
+      "definitions/Theological Mechanism (O'Gieblyn via Riskin).md",
+      "metaphors/The Crucifix Made of Machine Parts.md",
+      "references/Meghan O'Gieblyn and Hans Moravec.md",
+      "references/Meghan O'Gieblyn and Nick Bostrom.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md.md",
+      "tensions/Metaphor vs Literalism.md",
+      "tensions/Subject vs Object.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy].md": {
+    "sha256": "0f836f34267e66518eeb6f12f74ee4b3bb2959efcfd0a67065853191683aa10b",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md.analysis.md",
+    "generated_files": [
+      "arguments/Panpsychism dissolves the hard problem by making consciousness fundamental.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Disenchantment.md",
+      "concepts/Integrated Information Theory.md",
+      "concepts/Panpsychism.md",
+      "concepts/Re-enchantment.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "concepts/The Mind-Body Problem.md",
+      "definitions/Phi (O'Gieblyn).md",
+      "definitions/The Omega Point and the Noosphere (O'Gieblyn).md",
+      "metaphors/Metonymy (Mind as Microcosm of Cosmic Consciousness).md",
+      "sources/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md.md",
+      "tensions/Disenchantment vs Re-enchantment.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch10 [Metonymy].md": {
+    "sha256": "e1fa73eda3d0f970026e9ae8c138fbdf986f6a7aef8b1f475cf606057457dd52",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md.analysis.md",
+    "generated_files": [
+      "arguments/Idealism is the return of God in philosophy of mind.md",
+      "arguments/Technology is a mirror that returns us to ourselves in a different disguise.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Idealism.md",
+      "concepts/Panpsychism.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "metaphors/Mind as Machine.md",
+      "references/Meghan O'Gieblyn and David Chalmers.md",
+      "references/Meghan O'Gieblyn and René Descartes.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md.md",
+      "tensions/Subject vs Object.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch11 [Algorithm].md": {
+    "sha256": "7c883bc279b8c7a22091730cbe2b5768097683e7d21cfad98ef94570572de476",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md.analysis.md",
+    "generated_files": [
+      "arguments/The algorithmic God is the modern God of Calvin and Luther.md",
+      "authors/Meghan O'Gieblyn.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Algorithmic Determinism.md",
+      "concepts/The Algorithm as Providence.md",
+      "concepts/The Black Box.md",
+      "concepts/Theodicy.md",
+      "definitions/Correlation Is Enough (O'Gieblyn via Anderson).md",
+      "definitions/Nominalism (O'Gieblyn).md",
+      "metaphors/Mind as Machine.md",
+      "references/Meghan O'Gieblyn and Norbert Wiener.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md.md",
+      "symbols/Job and the Algorithm.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm].md": {
+    "sha256": "5de94701aad4aae006d653a61225021f4ca7e28a9ddb99847f5f4d759e261572",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md.analysis.md",
+    "generated_files": [
+      "arguments/Prediction enacts the very fate it foresees.md",
+      "arguments/Surveillance reproduces Protestant salvation anxiety.md",
+      "arguments/Technology is a mirror that returns us to ourselves in a different disguise.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Algorithmic Determinism.md",
+      "concepts/The Algorithm as Providence.md",
+      "concepts/The Black Box.md",
+      "concepts/The Liberal Humanist Subject.md",
+      "concepts/Theodicy.md",
+      "metaphors/Mind as Machine.md",
+      "references/Meghan O'Gieblyn and Max Weber.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md.md",
+      "symbols/Job and the Algorithm.md",
+      "tensions/Free Will vs Determinism.md"
+    ]
+  },
+  "raw/OGieblyn - God Human Animal Machine/Ch13 [Virality].md": {
+    "sha256": "14f79ef1a8feddb4316b857b8917e3b8f9b3f9c19be5799cd8aa974fcdf4bf68",
+    "last_ingested": "2026-06-01",
+    "analysis_file": "_system/analysis/OGieblyn - God Human Animal Machine - Ch13 [Virality].md.analysis.md",
+    "generated_files": [
+      "arguments/Digital technology is an ideology of vacancy misread as the absence of philosophy.md",
+      "arguments/Without a religious framework human worth collapses into economic logic.md",
+      "books/God Human Animal Machine.md",
+      "concepts/Imago Dei.md",
+      "concepts/Information.md",
+      "concepts/Technology as Metaphor.md",
+      "concepts/The Algorithm as Providence.md",
+      "concepts/Theodicy.md",
+      "concepts/Transhumanism.md",
+      "definitions/The Viral Metaphor (O'Gieblyn).md",
+      "references/Meghan O'Gieblyn and David Chalmers.md",
+      "sources/OGieblyn - God Human Animal Machine - Ch13 [Virality].md.md",
+      "tensions/Human Exceptionalism vs Ontological Equality.md"
+    ]
   }
 }

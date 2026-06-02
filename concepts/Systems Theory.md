@@ -3,6 +3,9 @@ type: concept
 status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/08 The Second Wave of Cybernetics - From Reflexivity to Self-Organization]]"
+  - "[[raw/Lippard - Six Years/07 1968]]"
+  - "[[raw/Lippard - Six Years/08 1969]]"
+  - "[[raw/Lippard - Six Years/10 1971]]"
 related:
   - "[[Cybernetics]]"
   - "[[Autopoiesis]]"
@@ -15,11 +18,16 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
+  - "[[Lucy Lippard]]"
 confidence: medium
 last_updated: 2026-06-01
 ---
 
 # Systems Theory
+
+## General Orientation
+
+This note holds two related-but-distinct senses of "systems," kept linked rather than merged. (1) The **cybernetic/autopoietic** sense — Hayles's reconstruction of second-wave [[Cybernetics]], Maturana and Varela's [[Autopoiesis]], and the extension of organizational closure onto social systems — is the theory-of-living-systems lineage developed below in the Brief Definition and Longer Explanation. (2) The **art-world "systems aesthetics"** sense — Hans Haacke's "real" interdependent systems, [[Sol LeWitt]]'s serial permutations, and Jack Burnham's 1968 manifesto — is the conceptual-art lineage *Six Years* records, treated in its own section ("Systems Aesthetics in Conceptual Art (Lippard)"). The two share a vocabulary (system, process, feedback, real-time) and a moment, but arise from different fields and do not reduce to one another; a dedicated *Systems Aesthetics* note may later carry the second sense on its own.
 
 ## Brief Definition
 
@@ -41,6 +49,14 @@ What makes systems theory more than a biology is its portability. Because autopo
 - **[[Francisco Varela]]** — co-author who later restricts the theory, refusing to extend autopoietic closure to "social systems" and moving toward enaction and [[Embodiment]] ("The concrete is not a step towards anything: it is how we arrive and where we stay").
 - **[[N. Katherine Hayles]]** — reads systems theory as the "analytically driven" counter-pole to embodied narrative, valuing its recovery of embodied process while diagnosing the "relentless repetitive circularity" that leaves it unable to account for transformation.
 - **Niklas Luhmann** (forward reference) — extends autopoietic systems theory to society at large, the lineage in which "the machine of interest is much more likely to be the state"; his sociology of self-referential social systems is the social-systems variant Varela resisted.
+
+## Systems Aesthetics in Conceptual Art (Lippard)
+
+There is a *second*, art-historical lineage of "systems" that Lucy Lippard's *Six Years* documents as it unfolds across 1968–1971 — related to the cybernetic/autopoietic theory above by shared vocabulary and period, but distinct in origin and stakes. Its key figure is [[Hans Haacke]], whose 1968 Howard Wise Gallery statement reconceives the work of art as a milieu rather than an object: "A 'sculpture' that physically reacts to its environment is no longer to be regarded as an object. . . . It thus merges with the environment in a relationship that is better understood as a 'system' of interdependent processes. These processes evolve without the viewer's empathy. He becomes a witness. A system is not imagined, it is real." Where Hayles's systems theory turns on a *constructed* domain of interactions — "what lies outside that domain does not exist for that system" — Haacke insists on the reverse polarity: the system is precisely what is *not* imagined but found, real, operating whether or not it is witnessed. By 1969 he formalizes this as a working method: "The working premise is to think in terms of systems; the production of systems, the interference with and the exposure of existing systems." The art object dematerializes into an operational structure — Haacke specifies that "[s]ystems can be physical, biological or social" — and the question shifts from what a work *looks like* to what processes it sets running and exposes. This is why the Lippard sense sits within a note named *Systems Theory* without collapsing into it: both treat the work-or-organism as a process-defined structure rather than a substance, but Haacke's systems are realist and interventionist where Maturana's are observer-relative and self-enclosing.
+
+The lineage has two other anchors in *Six Years*. The first is [[Sol LeWitt]]'s serial work, whose permutational logic supplies the "systems" idiom on the side of generative procedure rather than environmental process: his 1968 Dwan show *46 3-Part Variations on 3 Different Kinds of Cubes* runs a finite vocabulary of elements through its combinations, and his "Sentences on Conceptual Art" make the program explicit — "The artist's will is secondary to the process he initiates from idea to completion," and "The process is mechanical and should not be tampered with. It should run its course." Here the system is the rule-set; the artist designs the permutation and then executes it "blindly," a serial, self-running procedure adjacent to (though not identical with) the [[Feedback Loops]] and process-talk of cybernetics. The second anchor is the critic Jack Burnham (a forward-stub figure, no book yet in `raw/`), whose essay "Systems Aesthetics" (*Artforum*, September, 1968) Lippard logs in the 1968 bibliography and which names the tendency outright — the moment the art world's turn to systems acquires a theoretical banner. (Not everyone in the book accepts the frame: Robert Smithson tells P. A. Norvell that "System is a convenient word, like object. It is another abstract entity that doesn't exist," a useful reminder that "systems aesthetics" was a contested rather than consensual program.)
+
+By 1971 the political torque of the art-world sense is fully visible, and it is here that the two lineages most clearly *rhyme* without merging. In Jeanne Siegel's interview Haacke turns the systems frame on the institution of art itself: "Real-time systems are double agents. They might run under the heading 'art,' but this culturization does not prevent them from operating as normal." The phrase "real-time systems" borrows directly from computing and cybernetics, but Haacke's point is institutional-critical — a work that is a real social or informational system does not stop being one just because a gallery brackets it as "art"; it keeps "operating as normal," so it can carry real information and "affect the general social fabric." This is structurally close to Hayles's observation that in the social-systems extension "the machine of interest is much more likely to be the state," yet it arrives from the opposite direction: not a biologist's theory ported onto society, but an artist's wager that the artwork-as-system is continuous with the social systems it is embedded in. The Lippard lineage thus belongs beside the cybernetic one as a sibling, not a subset — a conceptual-art "systems aesthetics" that shares the period's language of process, feedback, and real-time operation while keeping its own realist, interventionist, institution-critical commitments. *(See General Orientation: a dedicated Systems Aesthetics note may later carry this sense independently.)*
 
 ## Related Concepts
 
@@ -146,4 +162,64 @@ Relevant passage:
 > Insisting that autopoiesis should not be confused with organizational closure in general, he points out that “the definition of autopoiesis has some precision because it is based on the idea of production of components, and this notion of production cannot be stretched indefinitely without losing all of its power.”
 
 Supports: Documents Varela's restriction of systems theory and his refusal to extend autopoietic closure to social systems — the internal fault line between the biological instance (autopoiesis) and the social-systems extension (the Luhmann lineage).
+Confidence: Directly stated
+
+### Source 8
+
+Book: *Six Years: The Dematerialization of the Art Object from 1966 to 1972*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/07 1968]]
+Relevant passage:
+
+> It thus merges with the environment in a relationship that is better understood as a ‘system’ of interdependent processes. These processes evolve without the viewer's empathy. He becomes a witness. A system is not imagined, it is real.
+
+Supports: Anchors the art-world "systems aesthetics" sense — Hans Haacke's 1968 statement reconceiving the artwork as a real, found system of interdependent processes rather than an object. Establishes the realist polarity ("a system is not imagined, it is real") that distinguishes the Lippard lineage from Hayles's observer-constructed domain.
+Confidence: Directly stated
+
+### Source 9
+
+Book: *Six Years: The Dematerialization of the Art Object from 1966 to 1972*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/08 1969]]
+Relevant passage:
+
+> The working premise is to think in terms of systems; the production of systems, the interference with and the exposure of existing systems.
+
+Supports: Documents Haacke's 1969 formalization of systems thinking as a working method (production, interference, exposure of systems) — the conceptual-art lineage's program, in which the work dematerializes into an operational structure rather than a substance.
+Confidence: Directly stated
+
+### Source 10
+
+Book: *Six Years: The Dematerialization of the Art Object from 1966 to 1972*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/10 1971]]
+Relevant passage:
+
+> Real-time systems are double agents. They might run under the heading “art,” but this culturization does not prevent them from operating as normal.
+
+Supports: Anchors the institution-critical, "real-time" torque the art-world systems sense acquires by 1971 — Haacke's claim that an artwork that is a real social/informational system keeps operating as a system even when bracketed as "art." Grounds the "rhyme without merger" with Hayles's social-systems extension ("the machine of interest is much more likely to be the state").
+Confidence: Directly stated
+
+### Source 11
+
+Book: *Six Years: The Dematerialization of the Art Object from 1966 to 1972*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/08 1969]]
+Relevant passage:
+
+> The artist's will is secondary to the process he initiates from idea to completion. . . . The process is mechanical and should not be tampered with. It should run its course.
+
+Supports: Anchors the serial/permutational strand of the art-world systems lineage — Sol LeWitt's "Sentences on Conceptual Art," in which the artist designs a rule-set and then executes it as a self-running process. Supplies the generative-procedure (rather than environmental-process) side of "systems aesthetics."
+Confidence: Directly stated
+
+### Source 12
+
+Book: *Six Years: The Dematerialization of the Art Object from 1966 to 1972*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/07 1968]]
+Relevant passage:
+
+> Burnham, Jack. “Systems Aesthetics.” Artforum, September, 1968.
+
+Supports: Records the bibliographic anchor naming the tendency outright — Jack Burnham's 1968 essay, the moment the art world's turn to systems acquires a theoretical banner. Establishes Burnham as a forward-stub critic in the lineage and grounds the possible future dedicated *Systems Aesthetics* note.
 Confidence: Directly stated

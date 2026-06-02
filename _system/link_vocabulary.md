@@ -144,6 +144,44 @@ New **author forward-stubs** (figures without books in `raw/`): `Norbert Wiener`
 
 ---
 
+## Canonical Note Names — Lippard ingest (2026-06-01)
+
+Added by *Six Years: The Dematerialization of the Art Object*. Book: `Six Years`. Author: `Lucy Lippard`. Source summaries: `Lippard - Six Years - <section>` (10: Escape Attempts, Author's Notes, Preface, 1966–1971, Postface).
+
+- **concepts/**: Conceptual Art · Dematerialization · Exhibition as Medium · The Document (Conceptual Art). (`Information` and `Systems Theory` gained Lippard author-sections — shared notes, not new.)
+- **arguments/**: Conceptual art achieved distribution but not accessibility · Dematerialization failed to escape the market · In conceptual art the form not the content carried the politics.
+- **definitions/**: Dematerialization (Lippard).
+- **tensions/**: `Material vs Immaterial` gained a Lippard section — now a THREE-author tension (Han + Hayles + Lippard).
+- **references/**: Lucy Lippard and {Hans Haacke, Joseph Kosuth, N. Katherine Hayles, Seth Siegelaub, Sol LeWitt}. (The Lippard↔Hayles note is the interpretive dematerialization ↔ disembodiment parallel.)
+
+New **artist/curator forward-stubs** (figures without a book in `raw/`): `Sol LeWitt`, `Joseph Kosuth`, `Lawrence Weiner`, `Robert Barry`, `Douglas Huebler`, `Hans Haacke`, `Seth Siegelaub`, `On Kawara`, `Mel Bochner`, `Dan Graham`, `Art & Language`, etc. Jack Burnham (*Beyond Modern Sculpture*, in `raw/`, not yet ingested) is a forward-stub.
+
+### Lippard-internal variant fix (applied 2026-06-01)
+
+| Variant | Canonical note |
+|---|---|
+| `The Document` | `The Document (Conceptual Art)` |
+
+> Not realized by Lippard (kept as forward-stubs — better served by dedicated art/new-media books): `New Media Art` (37 refs) and `Art as Experiential Technology` (28 refs) are committed research-foci stubs; conceptual art is only their *precursor*. Realize when Ascott / Vierkant / Price / Burnham are ingested.
+
+---
+
+## Canonical Note Names — O'Gieblyn ingest (2026-06-01)
+
+Added by *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*. Book: `God Human Animal Machine`. Author: `Meghan O'Gieblyn`. Source summaries: `OGieblyn - God Human Animal Machine - <chapter>` (13).
+
+**New concepts/** (~20): Algorithmic Determinism · Disembodied Information as the Soul · Disenchantment · Eliminativism · Idealism · Imago Dei · Integrated Information Theory · Mind Uploading · Panpsychism · Patternism · Re-enchantment · Technology as Metaphor · The Algorithm as Providence · The Black Box · The Hard Problem of Consciousness · The Measurement Problem · The Mind-Body Problem · The Simulation Hypothesis · Theodicy · Transhumanism.
+
+**Cross-book UPDATES** (existing notes that gained an O'Gieblyn author-section — do NOT duplicate these): `The Computational Universe` (now 5 authors) · `Information` (4) · `Emergence` (4) · `The Body as Data` · `Posthumanism` · `Embodiment` · `The Liberal Humanist Subject` · `Pattern and Randomness` · `Distributed Cognition`.
+
+**New arguments/** (21), **definitions/** (12, several `(O'Gieblyn)` or `(O'Gieblyn via X)`), **metaphors/** (8 — incl. the realized committed stub `Mind as Machine`, plus `The Golem`, `Graven Images`, `The Pattern in the Stream`), **symbols/** (`Job and the Algorithm`, `The Aibo`), **tensions/** (`Disenchantment vs Re-enchantment`, `Free Will vs Determinism`, `Human Exceptionalism vs Ontological Equality`, `Metaphor vs Literalism`, `Subject vs Object`).
+
+**references/**: Meghan O'Gieblyn and {René Descartes, Max Weber, Ray Kurzweil, Hans Moravec, Norbert Wiener, David Chalmers, Nick Bostrom, N. Katherine Hayles}. (The O'Gieblyn↔Hayles note is the second vault-internal interpretive reference, on transhumanism/embodiment/the posthuman.)
+
+New **author/figure forward-stubs**: `René Descartes`, `Max Weber`, `David Chalmers`, `Nick Bostrom`, `Max Tegmark`, `Giulio Tononi`, `Frank Tipler`, `Teilhard de Chardin`, `Alan Turing` (existing), plus theological figures (`John Calvin`, `Martin Luther`). Realize if their work is ingested.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.

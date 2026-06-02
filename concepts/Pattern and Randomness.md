@@ -5,6 +5,8 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/12 The Semiotics of Virtuality - Mapping the Posthuman]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
 related:
   - "[[Information (Hayles)]]"
   - "[[Flickering Signifier|Flickering Signifiers]]"
@@ -12,10 +14,13 @@ related:
   - "[[Material vs Immaterial]]"
   - "[[Embodiment vs Information]]"
   - "[[Feedback Loops]]"
+  - "[[Patternism]]"
+  - "[[Mind as Machine]]"
 opposes:
   - "[[Presence Absence vs Pattern Randomness]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -25,6 +30,13 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 The master dialectic of *How We Became Posthuman*: the proposition that information is "a pattern rather than a presence," paired with the paradoxical recognition that information must be identified with both pattern *and* its apparent opposite, randomness — a coupling Hayles tracks as an epistemic shift displacing the Western dialectic of presence and absence.
+
+## General Orientation
+
+"Pattern" is shared vocabulary across this note's authors, but the senses diverge and should not be collapsed:
+
+- **[[N. Katherine Hayles]] — pattern/randomness as a dialectic.** Pattern is *one pole* of a paradoxical coupling in which information is identified with both pattern and its apparent opposite, randomness. The valence is critical: Hayles uses the dialectic to expose, and guard against, the fantasy that informational pattern can be cleanly extracted from material embodiment. This is the developed sense of the present note.
+- **[[Meghan O'Gieblyn]] — two inflections that borrow Hayles's word but bend it.** (1) *[[Patternism]]* — [[Ray Kurzweil]]'s self-applied label for the self as a persisting computational pattern; here pattern is celebratory and immortalist, the *opposite valence* to Hayles's critical dialectic (it is given its own dedicated concept note, [[Patternism]], and is only cross-linked, not merged, here). (2) *Apophenia* — the mind as a pattern-detecting, meaning-making organ that imagines "signal where there is mostly noise," the cognitive/psychological counterpart of the information-theoretic pattern. The O'Gieblyn material below develops these two inflections and links them back to the Hayles axis without dissolving the difference.
 
 ## Longer Explanation
 
@@ -43,6 +55,12 @@ In the book's mapping chapter, Hayles formalizes pattern/randomness as one of tw
 - **Self-organization and complexity theorists** (Chris Langton, Stuart Kauffman, Francisco Varela, Henri Atlan, as cited by Hayles) — the Conclusion's chorus who "agree in seeing randomness not simply as the lack of pattern but as the creative ground from which pattern can emerge."
 - **Gregory Bateson** (epigraph and cited by Hayles) — communication as "the creation of redundancy or patterning"; randomness as "what exists outside the confines of the box in which a system is located."
 
+## Patternism and Apophenia (O'Gieblyn)
+
+[[Meghan O'Gieblyn]] inherits Hayles's word *pattern* but routes it through two distinct inflections that pull in opposite directions from the critical dialectic above. The first is celebratory and immortalist. Tracing [[Ray Kurzweil]]'s functionalist account of the self, O'Gieblyn notes that [[Ray Kurzweil|Kurzweil]] "calls himself a 'patternist,'" believing "consciousness is a pattern of information, a biological configuration of energy and matter that persists over time" — not the cells and neurons but "the computational patterns that make up our sensory systems, our attention system, and our memories, which together form the distinctive algorithm that we think of as our identity." The figure is the same fluid-pattern image [[Norbert Wiener]] used ("we are not stuff that abides, but patterns that perpetuate themselves"), but the valence is inverted: where Wiener, "like Heraclitus, was emphasizing the transience of identity," O'Gieblyn observes that "for Kurzweil, patternism was precisely what made possible the most decisive form of permanence: immortality." This is the *opposite* of Hayles's guarded, anti-disembodiment use of pattern/randomness — pattern recruited not to expose the dematerialization fantasy but to fulfill it ("a pattern, after all, is essentially computational, which means it can, at least in theory, be transferred onto a computer"). Because this inflection has its own developed concept note, it is cross-linked here rather than merged: see [[Patternism]] (and its kinship with [[Mind as Machine]] and [[The Computational Universe]]). O'Gieblyn herself flags, citing Hayles directly, that this is "an ideology … in which 'disembodied information becomes the ultimate Platonic Form,'" the same critique Hayles levels at the privileging of pattern over [[Embodiment|embodiment]] and [[The Materiality of Informatics|material instantiation]].
+
+The second inflection is cognitive rather than metaphysical: *apophenia*, the mind as a meaning-making organ that overproduces pattern. Reflecting on the run of coincidences and "doubling" she experienced, O'Gieblyn writes that "our brains have evolved to detect patterns and attribute significance to events that are entirely random, imagining signal where there is mostly noise." This is the psychological counterpart of the information-theoretic vocabulary — *signal* and *noise* relocated from the channel to the perceiving mind — and it supplies a human-scale mirror of Hayles's dialectic: pattern is only legible against a ground of nonpattern, but the mind is biased to read pattern even where the ground is in fact random. O'Gieblyn pushes the point toward pathology, citing John Nash's slide from "the conviction that the world was rational" into a state where "everything had meaning, everything had a reason, nothing was random or coincidental." The two O'Gieblyn inflections are linked to but distinct from the Hayles axis: patternism wagers that the self *is* a pattern stable enough to survive transfer; apophenia warns that the patterns we perceive may be artifacts of a perceiver built to find them — "imagining signal where there is mostly noise."
+
 ## Related Concepts
 
 - [[Information (Hayles)]] — the concept of information-as-pattern is the substrate of this dialectic; pattern/randomness is the axis on which Hayles's information theory turns.
@@ -51,6 +69,7 @@ In the book's mapping chapter, Hayles formalizes pattern/randomness as one of tw
 - [[Embodiment vs Information]] — pattern/randomness is the conceptual terrain on which the privileging of informational pattern over material instantiation is contested.
 - [[Posthumanism]] — by the Conclusion, the pattern/randomness dialectic underwrites a posthuman of emergence, contingency, and open futures rather than originary presence.
 - [[Feedback Loops]] — noise infused into a system can drive it to "reorganize at a higher level of complexity," the recursive dynamic through which the dialectic operates.
+- [[Patternism]] — [[Ray Kurzweil]]'s immortalist inflection of "pattern," developed in its own note: the self as a persisting, transferable computational pattern. Cross-linked, not merged — its valence is the inverse of Hayles's critical pattern/randomness dialectic.
 
 ## Opposing Concepts
 
@@ -142,3 +161,36 @@ Relevant passage:
 > Although pattern has traditionally been the privileged term (for example, among the electrical engineers developing information theory), randomness has increasingly been seen to play a fruitful role in the evolution of complex systems.
 
 Supports: Records the historical revaluation within the dialectic — pattern as the traditionally privileged term, randomness increasingly recognized as fruitful — that culminates in randomness "invested with plenitude." Label: `Directly stated`.
+
+### Source 8
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> He believes consciousness is a pattern of information, a biological configuration of energy and matter that persists over time. It does not reside in the hardware of our brains—the cells and atoms and neurons, which are always changing—but in the computational patterns that make up our sensory systems, our attention system, and our memories, which together form the distinctive algorithm that we think of as our identity.
+
+Supports: Establishes the first O'Gieblyn inflection — Kurzweil's "patternism," the self as a persisting computational pattern (the distinctive algorithm of identity) rather than its physical substrate. Cross-links this note to the dedicated [[Patternism]] concept. Label: `Directly stated`.
+
+### Source 9
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> Like Heraclitus, Wiener was emphasizing the transience of identity, the fact that nature is made of fluid patterns that are always changing. But for Kurzweil, patternism was precisely what made possible the most decisive form of permanence: immortality.
+
+Supports: Documents the inverted valence — the same fluid-pattern metaphor used by Wiener (and Heraclitus) to mark the transience of identity is turned by Kurzweil into a warrant for immortality. This is the opposite valence to Hayles's critical pattern/randomness dialectic. Label: `Directly stated`.
+
+### Source 10
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]
+Relevant passage:
+
+> Our brains have evolved to detect patterns and attribute significance to events that are entirely random, imagining signal where there is mostly noise.
+
+Supports: Establishes the second O'Gieblyn inflection — apophenia, the mind as a pattern-detecting, meaning-making organ that reads signal into noise. The cognitive/psychological counterpart of the information-theoretic pattern, relocating "signal" and "noise" from the channel to the perceiver. Label: `Directly stated`.

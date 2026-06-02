@@ -6,6 +6,9 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment vs Information]]"
@@ -17,11 +20,21 @@ opposes:
   - "[[The Extrapolated Body]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # Embodiment
+
+## General Orientation
+
+This is a multi-author note. Two distinct but converging senses of *embodiment* are at work.
+
+- **[[N. Katherine Hayles]]** uses embodiment as an analytic and ethical term: the instantiated, local, specific, performative particular, sharply distinguished from "the body" as a normalized Platonic abstraction. It is the ground of thought and the irreplaceable material form that the disembodiment of information erases — the affirmative center of *How We Became Posthuman*.
+- **[[Meghan O'Gieblyn]]** approaches embodiment from the opposite direction, through the *fantasy of its abolition*. She supplies the theological genealogy of the disembodiment Hayles diagnoses: a lived Cartesian dualism in which the true self is the mind, the transhumanist dream of "total physical transcendence" as "pure information, pure spirit," and the empirical failure of embodied AI (Cog, Kismet) read as confirmation of Hayles's thesis that disembodiment is impossible.
+
+The two are complementary: Hayles names and defends the term; O'Gieblyn traces the historical and religious pressures that make its denial perennially seductive, and reports the experiments that show the denial does not work.
 
 ## Brief Definition
 
@@ -37,11 +50,20 @@ To analyze embodiment Hayles builds a framework of two interacting polarities: t
 
 This grounding carries the book's ethical weight. Because embodiment is a specific material form rather than a transferable pattern, it has the property information's champions deny it: irreversibility. "Information, like humanity, cannot exist apart from the embodiment that brings it into being as a material entity in the world; and embodiment is always instantiated, local, and specific. Embodiment can be destroyed, but it cannot be replicated." Once "the specific form constituting it is gone, no amount of massaging data will bring it back" — a claim Hayles makes "as true of the planet as it is of an individual life-form." Embodiment is finite and singular; this is precisely what the [[Material vs Immaterial]] hierarchy, which makes information "more essential, more important, and more fundamental than materiality," obscures.
 
+## Cartesian Dualism and the Disembodiment Fantasy (O'Gieblyn)
+
+Where [[N. Katherine Hayles]] defines embodiment as the affirmed pole, [[Meghan O'Gieblyn]] supplies the lived experience and theological genealogy of its denial. In *God, Human, Animal, Machine*, O'Gieblyn narrates falling into Cartesian dualism not as a philosophical position but as a felt division of the self. Working as a cocktail waitress after losing her faith, her body "had become strange" to her, and "for the first time in my life I succumbed to dualistic thinking": "But I no longer saw myself as synonymous with my body. Nobody could reach my true self—my mind—which resided elsewhere." This is the disembodiment Hayles diagnoses, narrated from the inside — the conviction that the "real" self is the mind, locating personhood off the body even as the body is touched, used, and ignored. It is the experiential ground of [[The Mind-Body Problem]] and of the idea of [[Disembodied Information as the Soul]], and it links the [[Mind as Machine|mind-as-machine]] metaphor to a religious longing that materialism never extinguished.
+
+O'Gieblyn shows how this lived dualism is systematized in transhumanism, where the body is recoded as portable [[Information|information]] — the [[Pattern and Randomness|pattern]] that persists while the matter changes. The endpoint of that recoding is the abolition of embodiment as such: "But the ultimate dream of mind-uploading is total physical transcendence—the mind as pure information, pure spirit." She reads this through Hayles directly, citing the Macy-era decision that made information "an entity that can flow unchanged between different material substrates" and the ideology, "as the critic N. Katherine Hayles points out, in which 'disembodied information becomes the ultimate Platonic Form.'" The dream of uploading is thus, in her account, the disembodiment fantasy in its purest form — the [[The Body as Data|body as data]], shed entirely, recoded as immortal spirit. (See [[The Materiality of Informatics]] for the broader hierarchy this fantasy inverts, and [[The Liberal Humanist Subject]] for the autonomous mind it presupposes.)
+
+Crucially, O'Gieblyn reports the *failure* of this fantasy as confirmation of Hayles's thesis that disembodiment is impossible — that "there is only different embodiment." Rodney Brooks and Cynthia Breazeal's MIT robots were built on the opposite premise — that intelligence must be embodied, grown from sensorimotor interaction with the world — and even they did not cohere. "Despite a handful of emergent behaviors, Cog never evolved the more sophisticated capacities his creator had anticipated"; Brooks "confessed at one point that the robot lacked 'coherence,' a conclusion that is unsurprising, given that it was designed from the outset without a unified central control." And "Despite Breazeal's best efforts, Kismet never learned to speak." The mind could neither be lifted out of a body (uploading) nor reliably grown into a built one ([[Emergence|emergent]] embodied AI), which is precisely why O'Gieblyn treats the [[Posthumanism|posthuman]] promise of substrate-independent consciousness as a theological inheritance rather than an engineering roadmap. Embodiment, on her telling as on Hayles's, is not an obstacle to be transcended but the irreducible condition that the disembodiment fantasy keeps failing to escape.
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — embodiment as the instantiated, local, specific, performative particular, distinguished from "the body" as a normalized Platonic abstraction; the ground of thought and the irreplaceable material form that the disembodiment of information erases. The affirmative term in her critique of [[Posthumanism]].
 - **Elizabeth Grosz** — Hayles aligns her account with Grosz's *Volatile Bodies* and the maxim "there is no body as such; there are only bodies," and adapts (while criticizing the limits of) Grosz's Möbius-strip model of body and embodiment.
 - **Maurice Merleau-Ponty and Paul Connerton** — the source of Hayles's distinction between inscribing and incorporating practices, and of the idea that habit is "a knowledge and a remembering in the hands and in the body."
+- **[[Meghan O'Gieblyn]]** — embodiment approached through the fantasy of its abolition: lived Cartesian dualism (the true self as the mind, which "resided elsewhere"), transhumanist uploading as "total physical transcendence—the mind as pure information, pure spirit," and the failure of embodied AI (Cog never cohered, Kismet never spoke) as confirmation of Hayles's thesis that disembodiment is impossible. Realizes the theological genealogy behind [[The Mind-Body Problem]] and [[Disembodied Information as the Soul]].
 
 ## Related Concepts
 
@@ -50,6 +72,9 @@ This grounding carries the book's ethical weight. Because embodiment is a specif
 - [[Posthumanism]] — embodiment is the ground Hayles reasserts against the posthuman privileging of "informational pattern over material instantiation."
 - [[Feedback Loops]] — embodiment mediates between technology and discourse within feedback loops "between materiality and discourse."
 - [[Cybernetics]] — the tradition that, having decided "information had lost its body," "systematically downplayed or erased" embodiment.
+- [[The Mind-Body Problem]] — the question O'Gieblyn's lived dualism reopens: if the "true self" is the mind that "resided elsewhere," what is its relation to the body it disowns?
+- [[Disembodied Information as the Soul]] — the recoding of the mind as portable pattern; embodiment is what this recoding denies, and what its failures (uploading's "zombie," embodied AI's incoherence) keep reasserting.
+- [[Mind as Machine]] — the metaphor that licenses treating the mind as substrate-independent; embodiment is the condition that metaphor abstracts away.
 
 ## Opposing Concepts
 
@@ -121,3 +146,47 @@ Relevant passage:
 > As I have repeatedly argued, human being is first of all embodied being, and the complexities of this embodiment mean that human awareness unfolds in ways very different from those of intelligence embodied in cybernetic machines.
 
 Supports: States embodiment as the ground of being and of awareness, and as the basis for resisting the seamless articulation of humans with intelligent machines central to [[Posthumanism]]. Confidence: `Directly stated`
+
+### Source 6
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> But I no longer saw myself as synonymous with my body. Nobody could reach my true self—my mind—which resided elsewhere.
+
+Supports: O'Gieblyn's lived Cartesian dualism — the disembodiment Hayles diagnoses, narrated from the inside as the conviction that the true self is the mind, located off the body. Grounds the link to [[The Mind-Body Problem]] and [[Disembodied Information as the Soul]]. Confidence: `Directly stated`
+
+### Source 7
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]
+Relevant passage:
+
+> But the ultimate dream of mind-uploading is total physical transcendence—the mind as pure information, pure spirit.
+
+Supports: The disembodiment fantasy in its purest form — embodiment abolished, the body recoded as immortal pattern. O'Gieblyn reads this through Hayles's "disembodied information becomes the ultimate Platonic Form." Confidence: `Directly stated`
+
+### Source 8
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]
+Relevant passage:
+
+> In the end Brooks’s hopes for his machines turned out to be overly optimistic. Despite a handful of emergent behaviors, Cog never evolved the more sophisticated capacities his creator had anticipated. The robot remained unable to choose between activities —turning to look at a face or grabbing an object—and often acted in ways that appeared befuddled or confused. Brooks confessed at one point that the robot lacked “coherence,” a conclusion that is unsurprising, given that it was designed from the outset without a unified central control.
+
+Supports: The failure of embodied AI (Cog never cohered) read as confirmation of Hayles's thesis that disembodiment is impossible — the mind cannot reliably be grown into a built body any more than it can be lifted out of one. Confidence: `Directly stated`
+
+### Source 9
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]
+Relevant passage:
+
+> Despite Breazeal’s best efforts, Kismet never learned to speak.
+
+Supports: The other half of the embodied-AI failure (Kismet never spoke), reinforcing that even AI built on the premise that intelligence must be embodied did not cohere — confirmation, not refutation, of Hayles's claim that disembodiment is impossible. Confidence: `Directly stated`

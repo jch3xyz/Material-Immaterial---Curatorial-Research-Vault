@@ -10,6 +10,13 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
+  - "[[raw/Lippard - Six Years/05 1966]]"
+  - "[[raw/Lippard - Six Years/08 1969]]"
+  - "[[raw/Lippard - Six Years/11 Postface]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch01 [Image]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -27,6 +34,8 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[N. Katherine Hayles]]"
+  - "[[Lucy Lippard]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -35,7 +44,7 @@ last_updated: 2026-06-01
 
 ## General Orientation
 
-"Information" names two distinct concepts that this note holds together without collapsing. For **[[Byung-Chul Han]]**, information is *positivized, operationalized language* — additive, naked, post-hermeneutic discourse stripped of the negativity through which truth, knowledge, or insight would transform what exists. For **[[N. Katherine Hayles]]**, information is the *Shannon-Wiener information-theoretic construct* — a probability function, a disembodied pattern imagined to circulate unchanged between material substrates, which she treats as a contingent historical reification rather than a metaphysical given. Han's sense is a critique of language under transparency; Hayles's sense is a critique of the cybernetic "leap from embodied reality to abstract information." They converge in suspecting a discourse that mistakes weightless pattern for being, but they are not the same concept: see [[#Hayles on Information]] below and the technical definition at [[Information (Hayles)]].
+"Information" names several distinct concepts that this note holds together without collapsing. For **[[Byung-Chul Han]]**, information is *positivized, operationalized language* — additive, naked, post-hermeneutic discourse stripped of the negativity through which truth, knowledge, or insight would transform what exists. For **[[N. Katherine Hayles]]**, information is the *Shannon-Wiener information-theoretic construct* — a probability function, a disembodied pattern imagined to circulate unchanged between material substrates, which she treats as a contingent historical reification rather than a metaphysical given. Han's sense is a critique of language under transparency; Hayles's sense is a critique of the cybernetic "leap from embodied reality to abstract information." A third, art-historical sense belongs to **[[Lucy Lippard]]** and the conceptualists of *[[Six Years]]*: information here is an *aesthetic* — an "informational, documentary idiom" in which the work, no longer dependent on physical presence, exists as "primary information" carried by catalogues, texts, and documents rather than objects. A fourth, *theological* sense belongs to **[[Meghan O'Gieblyn]]** and *[[God Human Animal Machine]]*: the same Shannon-Wiener construct Hayles diagnoses, but read as a substitute for a metaphysical absolute — once Shannon strips information of meaning and the Macy Conferences decouple it from matter, information "became, in other words, the materialist's substitute for the soul" (Ch. 4) and swells into "the ultimate metaphor" and even a "third substance" said to underlie reality itself (Ch. 7). O'Gieblyn's "information" is closest to Hayles's (it is the same cybernetic genealogy, and she cites Hayles directly), but where Hayles contests the disembodiment on behalf of [[Embodiment|embodiment]], O'Gieblyn reads it as the latest form taken by an old religious longing. None of these is the others, but all converge in privileging weightless pattern over the object: see [[#Hayles on Information]], [[#Information in Conceptual Art (Lippard)]], [[#Information as the Substitute for the Soul (O'Gieblyn)]], the technical definition at [[Information (Hayles)]], and the cross-links to [[Dematerialization]] and [[The Document (Conceptual Art)]].
 
 ## Brief Definition
 
@@ -57,10 +66,28 @@ This is the sense the Han note's [[#Questions It Raises|"Questions It Raises"]] 
 
 What Hayles contests is therefore "this materiality/information separation" itself — "not the cellular automata model, information theory, or a host of related theories in themselves" (Ch. 1). Against the [[Posthumanism|posthuman]] fantasy that "because we are essentially information, we can do away with the body" (Ch. 1), she insists on re-embedding the pattern in its substrate: "for information to exist, it must always be instantiated in a medium" (Ch. 1), and "Information, like humanity, cannot exist apart from the embodiment that brings it into being as a material entity in the world" (Ch. 2). Her epigrammatic verdict turns the cultural belief against itself: "Just because information has lost its body does not mean that humans and the world have lost theirs" (Ch. 9). The link to Han's account is an [[Embodiment vs Information|interpretive synthesis]]: both writers distrust a discourse that treats weightless pattern as more real than the body or the world it claims to describe, but Hayles theorizes the *reification of information as disembodied pattern* whereas Han theorizes the *positivization of language as information* — distinct critiques converging on a shared suspicion. `Interpretive synthesis`. The technical definition of the Shannon-Wiener construct lives at [[Information (Hayles)]].
 
+## Information in Conceptual Art (Lippard)
+
+For [[Lucy Lippard]] and the artists chronicled in *[[Six Years]]*, "information" names a *third, art-historical sense* of the term: an aesthetic in its own right. The premise is announced as early as 1966, when John Baldessari "stops making works by his own hand and signature" because, as he puts it, "I was beginning to suspect that information could be interesting in its own right and need not be visual as in Cubist, etc. art" (1966). Where Cubism still bound information to the visual surface of the canvas, conceptual art unbinds it: information becomes a self-sufficient content that need not be looked at to count as art. This is the wager underlying the [[Dematerialization|dematerialization of the art object]] — that the idea, not its material instantiation, is "primary." `Directly stated`.
+
+The move from object to information is formalized in the exhibition practice the book documents. Seth Siegelaub's catalogue-exhibitions invert the usual priority of work and document: "when art does not any longer depend upon its physical presence, when it has become an abstraction, it is not distorted and altered by its representation in books and catalogues. It becomes primary information, while the reproduction of conventional art in books or catalogues is necessarily secondary information" (1969). The consequence is that "the catalogue can become the exhibition" — the [[Exhibition as Medium|exhibition itself becomes a medium of information]], and [[The Document (Conceptual Art)|the document]] ceases to be a secondary trace of an absent work and becomes the work's primary mode of existence. The 1970 *Information* show at the Museum of Modern Art names this idiom outright. Lippard's Postface generalizes it as the lasting aesthetic contribution of "idea art": "An informational, documentary idiom has provided a vehicle for art ideas that were encumbered and obscured by formal considerations" (Postface). `Directly stated`.
+
+This conceptual-art sense is distinct from the other two authors in this note, yet it converges with them on a single suspicion: that weightless pattern can stand in for, or even supersede, the material object. Lippard's "information" is *not* Han's [[Positivity|positivized]], post-hermeneutic language — for the conceptualists information is liberatory, a way to free art ideas from formal encumbrance rather than a flattening of negativity. Nor is it Hayles's Shannon-Wiener probability function, a technical construct contested on behalf of [[Embodiment|embodiment]]; Lippard's term is curatorial and aesthetic, not information-theoretic. But all three describe a culture in which information is imagined to "circulate unchanged" apart from its substrate — Hayles's reified pattern, Han's operationalized language, and Lippard's "primary information" that survives reproduction without loss. The conceptual-art case is the art-historical instance of the same weightlessness, and it is precisely the one the vault's [[Material vs Immaterial]] tension and the [[The Materiality of Informatics|materiality-of-informatics]] critique are meant to interrogate. `Interpretive synthesis`.
+
+## Information as the Substitute for the Soul (O'Gieblyn)
+
+For [[Meghan O'Gieblyn]] in *[[God Human Animal Machine]]*, "information" names the same cybernetic construct Hayles diagnoses, but its significance is theological: it is the concept into which a disenchanted culture has displaced the metaphysical absolute it can no longer name. O'Gieblyn reconstructs the genealogy in two moves. First, semantics is removed: "Claude Shannon, the father of information theory, redefined information so as to exclude the need for a conscious subject. . . . Shannon's genius was to remove semantic meaning, which was not amenable to quantification, such that information became purely mathematical—defined by patterns and probabilities. Information was created when one message was selected from a possible set of messages" (Ch. 1). She quotes Shannon's own 1948 verdict that although "messages have meaning," these "semantic aspects of communication were 'irrelevant to the engineering problem'" (Ch. 1). Second, matter is removed: drawing explicitly on Hayles, O'Gieblyn argues that "it was during the Macy Conferences on Cybernetics . . . that information came to take precedence over materiality," so that "Claude Shannon's information theory stripped information of meaning; during the Macy Conferences, it became decoupled from matter." The result was an information "practically immaterial . . . weightless as sunshine, moving in a rarefied realm of pure probability" — and her gloss is the line that gives this section its name: "It became, in other words, the materialist's substitute for the soul" (Ch. 4). This is the [[Mind as Machine|computer-metaphor]] read theologically: the [[Posthumanism|transhumanist]] dream of mind-uploading depends, in Jaron Lanier's phrase she quotes, on the willingness "to believe information is real and alive" (Ch. 4). `Directly stated`.
+
+Once decoupled from both meaning and matter, information escalates from one model among others into a metaphysics. O'Gieblyn traces how "it was this desire for unity and universality that led to information becoming the ultimate metaphor, an umbrella wide enough to extend across forests and cities, insect colonies and highway systems, computers and human minds" (Ch. 7). The escalation reaches its limit in [[David Chalmers|the physicist]] John Wheeler, who in 1989 "declared that 'all things physical are information-theoretic in origin'" — for whom information theory and physics "were not merely analogous but ontologically identical" (Ch. 7). O'Gieblyn reads Wheeler's move as "a somewhat evasive solution to the mind-body problem, a sleight of hand that discards the original dichotomy by positing a third substance—information—that can explain both" (Ch. 7). Information thus comes to occupy the structural place that the [[The Liberal Humanist Subject|soul]] once held: an immaterial, substrate-independent essence imagined to underlie mind, world, and the bridge between them. This is the [[The Computational Universe|computational-universe]] thesis followed to its theological root, and it connects information directly to the vault's [[Material vs Immaterial]] tension and the [[The Materiality of Informatics|materiality-of-informatics]] critique. `Directly stated` for the quotations; `Interpretive synthesis` for the framing of information as the structural heir of the soul-concept across O'Gieblyn's argument.
+
+What O'Gieblyn contests is the cybernetic creed that lets information travel intact across every domain — the assumption that, because information is substrate-independent pattern, its "structures and models remain identical across multiple disciplines." She stages this in the figure of the pandemic "growth hacker" Aaron Ginn, who, "[h]oping to stanch any criticism that he was not an epidemiologist . . . appealed to that foundational creed of cybernetics: that information is a universal metaphor whose structures and models remain identical across multiple disciplines. 'Data is data . . . ,' he said. 'You don't need a special degree to understand what the data says and doesn't say. Numbers are universal'" (Ch. 13). O'Gieblyn's rebuttal is flat and is the counter-thesis of this section: "Data is never merely data. And numbers are rarely as universal as they seem" (Ch. 13). Information re-acquires the context and embodiment that Shannon and the Macy decoupling abstracted away. The link to the other authors is an [[Embodiment vs Information|interpretive synthesis]]: O'Gieblyn shares Hayles's cybernetic genealogy and her suspicion of disembodied pattern, but reframes the reification as a religious displacement (information as soul-substitute), and her "Data is never merely data" converges with Han's distrust of [[Positivity|positivized]] information and Lippard's curatorial "primary information" in refusing to grant weightless pattern an existence apart from the bodies, contexts, and meanings that instantiate it. `Directly stated` for the quotations; `Interpretive synthesis` for the cross-author convergence.
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Information is positivized, operationalized language, the linguistic correlate of the [[Transparency|society of transparency]]. It is opposed to truth (a negative force), to [[Knowledge (Erkenntnis)|Erkenntnis]] (transformative), and to [[Insight|insight]] (world-altering). It accumulates without producing sense.
 - **[[N. Katherine Hayles]]** — A *distinct sense*: information is the Shannon-Wiener information-theoretic construct, "a probability function with no dimensions, no materiality, and no necessary connection with meaning . . . a pattern, not a presence" (Ch. 1), imagined to "circulate unchanged among different material substrates" (Ch. 1). Hayles treats this disembodiment as a contingent reification she contests on behalf of [[Embodiment|embodiment]]. See [[#Hayles on Information]] and [[Information (Hayles)]]. Do not collapse with Han's positivized-operationalized language; the two converge only as an [[Embodiment vs Information|interpretive synthesis]]. `Directly stated`.
+- **[[Lucy Lippard]]** — A *third, art-historical sense*: information as an "informational, documentary idiom" (Postface), the aesthetic of [[Conceptual Art|conceptual art]] in which a work that no longer depends on physical presence exists as "primary information" (Siegelaub, 1969) carried by catalogue, text, and document. Baldessari's wager that "information could be interesting in its own right and need not be visual" (1966) frees the idea from the object — the [[Dematerialization|dematerialization]] thesis. Not Han's positivized language and not Hayles's Shannon-Wiener construct, but converging with both on weightless pattern over object. See [[#Information in Conceptual Art (Lippard)]], [[Exhibition as Medium]], [[The Document (Conceptual Art)]]. `Directly stated`.
+- **[[Meghan O'Gieblyn]]** — A *fourth, theological sense*: the same Shannon-Wiener construct Hayles diagnoses, but read as the heir to the metaphysical soul. Shannon "remove[s] semantic meaning . . . such that information became purely mathematical—defined by patterns and probabilities" (Ch. 1); the Macy Conferences decouple it from matter, so that "[i]t became, in other words, the materialist's substitute for the soul" (Ch. 4). It then escalates into "the ultimate metaphor" (Ch. 7) and, in Wheeler, a "third substance—information—that can explain both" mind and matter (Ch. 7). She contests the cybernetic creed that "information is a universal metaphor whose structures and models remain identical across multiple disciplines" ("Data is data . . . ," Ch. 13) with the counter-thesis "Data is never merely data" (Ch. 13). Closest to Hayles's sense (shared genealogy, cited directly) but reframed as a religious displacement; converges with Han and Lippard on refusing weightless pattern an existence apart from its instantiation. See [[#Information as the Substitute for the Soul (O'Gieblyn)]], [[The Computational Universe]], [[The Materiality of Informatics]]. `Directly stated`.
 - **[[Marshall McLuhan]]** — Speculative connection. McLuhan's diagnosis of the electric age as one of total information and instantaneous extension may resonate with Han's "hyperinformation," though McLuhan does not theorize the negativity/positivity axis. `Speculative connection`.
 - **[[Guy Debord]]** — Speculative connection. Debord's [[Spectacle|spectacle]] as autonomous image-economy and Han's information-circulation share a critique of a self-referential surface that displaces lived truth, though Debord theorizes image rather than language. `Speculative connection`.
 - **[[Donella Meadows]]** — Speculative connection. Meadows treats information flows as system levers; Han treats their proliferation as the dismantling of negativity. The frameworks may be compared but do not coincide. `Speculative connection`.
@@ -226,3 +253,91 @@ Relevant passage:
 > The computational universe becomes dangerous when it goes from beinga useful heuristic to an ideology that privileges information over everything else. As we have seen, information is a socially constructed concept; in addition toits currently accepted definition, it could have been, and was, given different definitions. Just because information has lost its body does not mean that humans and the world have lost theirs.
 
 Supports: Hayles's epigrammatic verdict and her explicit claim that information is socially constructed. Grounds the embodiment-against-reification argument and the closing of the [[#Hayles on Information]] section. (OCR runs several words together.) Label: `Directly stated`.
+
+### Source 13
+
+Book: *Six Years*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/05 1966]]
+Relevant passage:
+
+> I was beginning to suspect that information could be interesting in its own right and need not be visual as in Cubist, etc. art,
+
+Supports: John Baldessari's formulation (San Diego, March 1966) is the founding statement of the conceptual-art sense of information — information as a self-sufficient aesthetic content that need not be visual. Grounds the [[#Information in Conceptual Art (Lippard)]] section and the third author-entry in [[#Authors and Variants]]; ties to [[Dematerialization]]. Label: `Directly stated`.
+
+### Source 14
+
+Book: *Six Years*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/08 1969]]
+Relevant passage:
+
+> when art does not any longer depend upon its physical presence, when it has become an abstraction, it is not distorted and altered by its representation in books and catalogues. It becomes primary information, while the reproduction of conventional art in books or catalogues is necessarily secondary information.
+
+Supports: Seth Siegelaub's "primary information" (in conversation with Ursula Meyer, 1969) formalizes the inversion of work and document — the work exists *as* information, so "the catalogue can become the exhibition." Grounds the [[Exhibition as Medium]] and [[The Document (Conceptual Art)]] cross-links and the convergence argument (weightless pattern that "circulate[s] unchanged" without loss). Label: `Directly stated`.
+
+### Source 15
+
+Book: *Six Years*
+Author: Lucy Lippard
+Raw file: [[raw/Lippard - Six Years/11 Postface]]
+Relevant passage:
+
+> An informational, documentary idiom has provided a vehicle for art ideas that were encumbered and obscured by formal considerations.
+
+Supports: Lippard's Postface names the lasting aesthetic contribution of "idea art" as an "informational, documentary idiom" — the art-historical sense of information distinguished from Han's positivized language and Hayles's Shannon-Wiener construct. Grounds the General Orientation distinction and the closing synthesis of the [[#Information in Conceptual Art (Lippard)]] section. Label: `Directly stated`.
+
+### Source 16
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch01 [Image]]]
+Relevant passage:
+
+> Shannon's genius was to remove semantic meaning, which was not amenable to quantification, such that information became purely mathematical—defined by patterns and probabilities. Information was created when one message was selected from a possible set of messages. Oftentimes, Shannon wrote in 1948, "messages have meaning," but these semantic aspects of communication were "irrelevant to the engineering problem."
+
+Supports: Grounds the first move of O'Gieblyn's genealogy — Shannon's removal of semantics from information. Anchors the opening of [[#Information as the Substitute for the Soul (O'Gieblyn)]] and the O'Gieblyn entry in [[#Authors and Variants]]. Establishes the shared Shannon-Wiener genealogy with [[#Hayles on Information]]. Label: `Directly stated`.
+
+### Source 17
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]
+Relevant passage:
+
+> Claude Shannon's information theory stripped information of meaning; during the Macy Conferences, it became decoupled from matter. This attempt to simplify and generalize resulted in an understanding of information that was practically immaterial, "a mathematical quantity weightless as sunshine, moving in a rarefied realm of pure probability, not tied down to bodies or material instantiations," notes Hayles. It became, in other words, the materialist's substitute for the soul.
+
+Supports: The hinge of O'Gieblyn's argument — the Macy decoupling of information from matter, glossed as "the materialist's substitute for the soul." Grounds the section title and the theological reframing that distinguishes O'Gieblyn's sense from Hayles's (whom she cites here). Connects to [[Material vs Immaterial]] and [[The Liberal Humanist Subject]]. Label: `Directly stated`.
+
+### Source 18
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> It was this desire for unity and universality that led to information becoming the ultimate metaphor, an umbrella wide enough to extend across forests and cities, insect colonies and highway systems, computers and human minds, all the organic and manmade systems that are now regarded as "networks."
+
+Supports: Grounds the escalation of information from a model to a universal metaphor. Anchors the second paragraph of [[#Information as the Substitute for the Soul (O'Gieblyn)]] and the "ultimate metaphor" claim in the General Orientation. Label: `Directly stated`.
+
+### Source 19
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> While this theory explains, or attempts to explain, how the mind is able to interact with matter, it is a somewhat evasive solution to the mind-body problem, a sleight of hand that discards the original dichotomy by positing a third substance—information—that can explain both.
+
+Supports: Wheeler's "third substance" — information as the metaphysical absolute that occupies the structural place of the soul, explaining both mind and matter. (Wheeler's 1989 "all things physical are information-theoretic in origin" appears in the same chapter.) Grounds the [[The Computational Universe]] / soul-substitute argument. Label: `Directly stated`.
+
+### Source 20
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]
+Relevant passage:
+
+> Hoping to stanch any criticism that he was not an epidemiologist, Ginn appealed to that foundational creed of cybernetics: that information is a universal metaphor whose structures and models remain identical across multiple disciplines. "Data is data…," he said. "You don't need a special degree to understand what the data says and doesn't say. Numbers are universal." . . . Data is never merely data. And numbers are rarely as universal as they seem.
+
+Supports: O'Gieblyn's contestation of the cybernetic creed that information travels intact across every domain — the "Data is data" creed and her flat counter-thesis "Data is never merely data." Grounds the third paragraph of [[#Information as the Substitute for the Soul (O'Gieblyn)]] and the cross-author convergence (with Han, Hayles, Lippard) on refusing weightless pattern an existence apart from its instantiation. Label: `Directly stated`.

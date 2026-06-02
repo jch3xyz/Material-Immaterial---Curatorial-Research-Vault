@@ -3,6 +3,9 @@ type: concept
 status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]"
 related:
   - "[[Posthumanism]]"
   - "[[The Body as Data]]"
@@ -17,11 +20,21 @@ authors:
   - "[[Edward Fredkin]]"
   - "[[Hans Moravec]]"
   - "[[Marvin Minsky]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # The Computational Universe
+
+## General Orientation
+
+"The computational universe" names the worldview in which the cosmos itself is fundamentally an information-processing system — but the vault holds two distinct authorial senses of it, written from opposite valences.
+
+- **[[N. Katherine Hayles]]** treats the computational universe *critically and genealogically*, as a contingent, socially constructed ideology emerging from [[Artificial Life]] and cybernetics — dangerous when it slides from "useful heuristic" to a metaphysics that "privileges information over everything else." For Hayles the worldview is the totalizing target her whole book is written against, and her counter is [[Embodiment]] and [[The Materiality of Informatics]].
+- **[[Meghan O'Gieblyn]]** restates the *same* worldview independently, from physics and theology rather than from cybernetics' history. She tracks it through Wheeler's "it from bit," Seth Lloyd's digital physics, the holographic universe, and the panpsychist inflection of integrated information theory — and reads it not as Hayles's "danger" but as a **re-enchantment**: the universe-as-information functions to restore meaning, agency, and a quasi-theological order to a disenchanted cosmos. Her distinctive diagnosis is that the computer metaphor "easily slides into literalism," and that information operates as a "third substance" evading the mind-body problem.
+
+The two authors converge on the *content* of the worldview (information as the substance of reality, "we are the programs") and diverge on its *function*: ideology to be demystified (Hayles) versus re-enchantment to be diagnosed (O'Gieblyn). See [[Panpsychism]] for the inverse move O'Gieblyn pairs it with — mind, not information, as the cosmic substrate.
 
 ## Brief Definition
 
@@ -36,6 +49,18 @@ The worldview is built from the bottom up. At its base lie cellular automata —
 The hierarchy is explicit and ranked: "the most prized functionality is the ability to process information, for in the computational universe, information is king." Once this value is granted, an evolutionary logic follows that Hayles finds chilling. If "the name of the game is processing information," then intelligent machines — unhampered by "the time restrictions imposed by biological evolution and physical maturation" — will inevitably "replace us as our evolutionary heirs," and "the days of the human race are numbered." This is where Hayles intervenes. The problem, she argues, "lies in the framework constructed so as to make these options the only two available" — fight the machines or become them. Her central judgment is that the computational universe "should not be accepted uncritically." `Directly stated`.
 
 Decisively, Hayles treats the computational universe as ideology, not fact — a *contingent, socially constructed* worldview that could have been otherwise. "The computational universe becomes dangerous when it goes from being a useful heuristic to an ideology that privileges information over everything else." The qualifier "useful heuristic" matters: she does not reject computation as a tool but the metaphysical inflation of the tool into a totalizing account of being. Her counter-move is to recall the historical contingency of its founding term: "information is a socially constructed concept; in addition to its currently accepted definition, it could have been, and was, given different definitions" — a reference to the Macy Conferences, where a disembodied [[Information (Hayles)|definition of information]] won out over an embodied, contextual one. From this follows the book's signature reversal: "Just because information has lost its body does not mean that humans and the world have lost theirs." Against the computational universe Hayles locates "the resistance of materiality" — the "fracture lines" and "Murmurs from the Body" ([[Marvin Minsky]]'s downplayed embodiment, Antonio Damasio's insistence that "Human mind without human body is not human mind") that "demystify the program(s) and make it possible to envision other futures . . . in which human beings feel at home in the universe because they are embodied creatures living in an embodied world." The computational universe is, in short, the totalizing metaphysics that Hayles's entire project is written against. `Interpretive synthesis` across the chapter.
+
+---
+
+## It From Bit and the Re-enchanted Cosmos (O'Gieblyn)
+
+Where Hayles arrives at the computational universe through the *history of cybernetics*, O'Gieblyn arrives at it through *physics and theology* — and reaches an independent restatement of the same thesis. She traces the move from the human mind to the cosmos as a single metaphorical migration: "It turns out that the computer metaphor, which has proven so durable in describing the human mind, can also serve as an analogy for the cosmos—though as in consciousness studies, the metaphor easily slides into literalism." `Directly stated`. The pivotal figure is the physicist John Wheeler, who fused information theory with quantum mechanics: "For Wheeler these two fields were not merely analogous but ontologically identical. In 1989 he declared that 'all things physical are information-theoretic in origin'" — the doctrine of "it from bit." Wheeler's heirs press the metaphor all the way into literalism. O'Gieblyn cites the MIT physicist Seth Lloyd, who "insists that the universe is not like a computer but is in fact a computer," together with the holographic claim that "all the information in the universe arises from a two-dimensional field, much like the way holograms work." This is the same equation Hayles names — the cosmos as information processor — but reconstructed from "informational realism," "cosmic computationalism," and "digital physics" rather than from von Neumann's cellular automata. It is also the substrate of Nick Bostrom's simulation hypothesis, which O'Gieblyn glosses in its most literal form: "The universe was software written by programmers in the binary language of code." `Directly stated`.
+
+O'Gieblyn's distinctive contribution is to read this worldview as a covert *metaphysical* and *theological* maneuver rather than a neutral physics. Wheeler, she argues, was "exploiting a rarely acknowledged problem that lies at the heart of physics: it’s uncertain what matter actually is." His solution — that "matter itself does not exist," that it is an illusion arising from "a cosmic form of information processing" — is "a somewhat evasive solution to the mind-body problem, a sleight of hand that discards the original dichotomy by positing a third substance—information—that can explain both." Information thus does for the disenchanted cosmos what spirit once did: it patches "the hole in the material worldview—intrinsic essence." This is why O'Gieblyn frames the computational universe not as Hayles's *danger* but as a **re-enchantment**. In the chapters that follow she shows the informational cosmos sliding toward design arguments and "simulation theology" (programmers who are "omnipotent" and "omniscient"), and toward a panpsychist inflection in which the integrated-information theory of consciousness extends mind down to atoms and even the network itself — the neuroscientist Christof Koch conceding "astoundingly" that, by IIT, "it feels like something to be the internet." `Directly stated`. The computational universe and [[Panpsychism]] are, for O'Gieblyn, twin re-enchantments that invert each other: the first makes *information* the cosmic substrate that absorbs mind; the second makes *mind* the substrate that was there "from the beginning." Both, she suggests, satisfy the same longing to make "the universe like us," to feel once again that "we belong in it." `Interpretive synthesis` across Ch. 7–9.
+
+O'Gieblyn's worry is therefore the mirror image of Hayles's. Hayles fears the computational universe as an *ideology* that erases [[Embodiment]] and "privileges information over everything else"; O'Gieblyn fears it as a literalized *metaphor* — a "scientific fundamentalism" that, in forgetting that "the mind is like a computer or that the entire universe is analogous to an information processor" are metaphors, "can lead, ironically, back to the premises of religion." Both converge on the same diagnostic gesture: information is a slippery, "polymorphic" concept that gets inflated past its evidentiary warrant, and the inflation is what does the metaphysical work. `Directly stated`.
+
+---
 
 ## Authors and Variants
 
@@ -145,3 +170,69 @@ Relevant passage:
 > Let us revisit some of the sites in the computational universe, this time to locate those places where the resistance of materiality does useful work within the theories. From this perspective, fracture lines appear that demystify the program(s) and make it possible to envision other futures, futures in which human beings feel at home in the universe because they are embodied creatures living in an embodied world.
 
 Supports: Hayles's embodied alternative to the computational universe — the "resistance of materiality" and "fracture lines" that open "other futures" grounded in embodiment, the opposing pole of the concept. Label: `Directly stated`.
+
+### Source 8
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> It turns out that the computer metaphor, which has proven so durable in describing the human mind, can also serve as an analogy for the cosmos—though as in consciousness studies, the metaphor easily slides into literalism.
+
+Supports: O'Gieblyn's signature move — the cosmos-as-computer is a *metaphor* migrating from mind to universe, one that "easily slides into literalism." Grounds the opening of the O'Gieblyn section and the General Orientation distinction from Hayles. Label: `Directly stated`.
+
+### Source 9
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> For Wheeler these two fields were not merely analogous but ontologically identical. In 1989 he declared that "all things physical are information-theoretic in origin."
+
+Supports: Anchors Wheeler's "it from bit" as the founding physics-side statement of the informational cosmos — information and physics as "ontologically identical." Label: `Directly stated`.
+
+### Source 10
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> Seth Lloyd, an MIT professor who specializes in quantum information, insists that the universe is not like a computer but is in fact a computer.
+
+Supports: The literalization of the metaphor in "digital physics" / "cosmic computationalism" — Lloyd's claim that the universe *is* (not is *like*) a computer. Documents the "slides into literalism" thesis. Label: `Directly stated`.
+
+### Source 11
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]
+Relevant passage:
+
+> While this theory explains, or attempts to explain, how the mind is able to interact with matter, it is a somewhat evasive solution to the mind-body problem, a sleight of hand that discards the original dichotomy by positing a third substance—information—that can explain both.
+
+Supports: O'Gieblyn's distinctive reading of the computational universe as a metaphysical maneuver — information as a "third substance" evading the mind-body problem. Core of the re-enchantment claim and the cross-link to [[Panpsychism]]. Label: `Directly stated`.
+
+### Source 12
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]
+Relevant passage:
+
+> The universe was software written by programmers in the binary language of code.
+
+Supports: The simulation-hypothesis form of the informational cosmos — the universe as literally executed code, "written by programmers." Connects the computational universe to design arguments and "simulation theology." Label: `Directly stated`.
+
+### Source 13
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]
+Relevant passage:
+
+> When asked in an interview with Wired whether the internet is conscious, Koch acknowledged—astoundingly—that according to IIT, "it feels like something to be the internet," though he could not affirm whether this inner experience was anywhere near the complexity of human consciousness.
+
+Supports: The panpsychist inflection of the informational cosmos via integrated information theory (IIT) — mind extended down to networks and matter, the re-enchantment that inverts the information-as-substrate view. Bridges the computational universe to [[Panpsychism]]. Label: `Directly stated`.

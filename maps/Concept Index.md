@@ -12,15 +12,22 @@ All concept notes in `concepts/`. Updated after each generation pass.
 
 - [[Acceleration]] — speed stripped of sense; only additive processes admit it
 - [[Achievement Society]] — neoliberal regime of auto-exploitation through self-mastery and entrepreneurship of the self
+- [[Algorithmic Determinism]] — prediction as behavior-modifying feedback loop trapping people in their digital reflection; prediction enacts the fate it foresees
 - [[Arcana of Power]] — Schmittian secrecy that politics requires and transparency dismantles
 - [[Artificial Life]] — the third wave figured as a spiral; the 'strong claim' that codes are alive, not merely simulating life
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization
 - [[Autopoiesis]] — Maturana & Varela's self-making circular organization; resists the disembodiment of information
+- [[Conceptual Art]] — 'idea art' (Lippard, LeWitt, Kosuth): the idea supersedes the visual/material result; 'ideas can be art'
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
+- [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
 - [[Digital Panopticon]] — aperspectival surveillance built on voluntary self-exposure and hypercommunication
+- [[Disembodied Information as the Soul]] — information decoupled from matter at the Macy Conferences as 'the materialist's substitute for the soul' (the theological reading of Hayles)
+- [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos; O'Gieblyn's master frame (Weber forward-stub)
 - [[Distributed Cognition]] — cognition residing across human and nonhuman actors (Hutchins; the Chinese Room); replaces autonomous will
+- [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
 - [[Emergence]] — properties appearing spontaneously from simple rules and recursive feedback; replaces teleology in the benign posthuman
+- [[Exhibition as Medium]] — Siegelaub's reinvention of the exhibition/catalogue/magazine as the artwork's primary site (primary vs secondary information)
 - [[Exhibition Value]] — value generated solely by attention, irreducible to use or exchange value (Han via Benjamin)
 - [[Exploitation of Freedom]] — control via voluntary self-illumination rather than external coercion
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
@@ -31,33 +38,50 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Hypercommunication]] — communication accelerated by eliminating the friction of the Other; connectivity without encounter
 - [[Hyperinformation]] — information past the point of clarity; positivized excess that yields opacity, not truth
 - [[Hyphen vs Splice]] — two modes of joining opposites: identity-preserving metonymic tension vs transfiguring cybernetic circuit (Wolfe's Limbo)
+- [[Idealism]] — consciousness, not matter, as the fundamental substance (Kastrup, Berkeley); the terminus of Chalmers's trajectory; the return of God
+- [[Imago Dei]] — the image-of-God doctrine; the original anthropological metaphor, reversed (we made God in our image) and extended (engineers as gods)
 - [[Information]] — positivized, operationalized language without the negativity of insight
 - [[Informatics]] — the whole network of information technologies plus the changes that accompany them (after Haraway)
 - [[Inscription vs Incorporation]] — abstract transportable sign-systems vs embodied habitual practice; 'as the body is to embodiment, so inscription is to incorporation'
+- [[Integrated Information Theory]] — Tononi and Koch's theory that consciousness is integrated information, quantified by phi; atoms, bacteria, even the internet may be conscious
 - [[Intimacy as Psychological Formula of Transparency]] — the affective mode of transparency: laying the soul bare
+- [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; condition of thinking and eros
+- [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
+- [[Patternism]] — Kurzweil's doctrine of the self as a persisting, substrate-independent pattern of information; immortalist inverse of Hayles's pattern/randomness
 - [[Pornography (Han)]] — structural form of total exposure: smooth, post-hermeneutic, infectious
 - [[Positivity]] — the regime of additive, smooth same-only experience that follows from dismantled negativity
 - [[Posthumanism]] — the posthuman as a point of view, not the end of humanity but of the liberal conception of the human; benign when grounded in embodiment
+- [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
 - [[Smoothness]] — the surface property of transparency: frictionless, leveled, uninterrupted
 - [[Society of Control]] — power as continuous modulation and voluntary self-exposure rather than enclosure (Han via Deleuze)
 - [[Systems Theory]] — autopoiesis as the theory of the living, extended to social systems (the state as the paradigmatic cyborg)
+- [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
+- [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
+- [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
 - [[The Body as Data]] — the body recoded as informational pattern ('data made flesh'; downloadable consciousness), the fantasy Hayles contests
 - [[The Computational Universe]] — the worldview in which humans, machines, and cosmos alike process information; a contingent ideology Hayles critiques
 - [[The Cyborg]] — both technological object and discursive formation (Haraway + Hayles); the figure joining enacted and represented bodies
+- [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate/catalogue as the material residue of the immaterial work; art-historical analogue of 'information must be instantiated in a medium'
+- [[The Hard Problem of Consciousness]] — Chalmers's problem of why physical processes are accompanied by subjective experience; 'quantities could not generate qualities'
 - [[The Liberal Humanist Subject]] — the autonomous, self-possessing Enlightenment subject the posthuman supersedes (Macpherson's possessive individualism)
 - [[The Materiality of Informatics]] — Hayles's counter-thesis that the immaterial realm of information is materially produced; the illusion of erasure as object of inquiry
+- [[The Measurement Problem]] — the quantum observer effect; the paradigm case where the perceiving subject cannot be eliminated
+- [[The Mind-Body Problem]] — the dilemma of immaterial mind and material body (Descartes's res extensa/res cogitans); the computer metaphor covertly re-inscribes it
 - [[The Observer]] — the figure whose inclusion in the system is, for von Foerster, the central issue of cybernetics
 - [[The Platonic Backhand and Forehand]] — the paired rhetorical moves that reify abstraction as the Real and make embodiment derivative
 - [[The Schizoid Android]] — Hayles's master figure in Dick: a signifier that enacts the split between human and not-human subject positions
+- [[The Simulation Hypothesis]] — Bostrom's universe-as-computer-program, read as a secularized argument from design
 - [[The Three Waves of Cybernetics]] — homeostasis, reflexivity, virtuality/self-organization; seriated transitions, not Kuhnian ruptures
 - [[Theatrum Mundi]] — the world-as-theater of masks and roles that the tyranny of intimacy dismantles (Han via Sennett)
+- [[Theodicy]] — the problem of evil transposed onto AI: evil as bugs in the code; the citizen as Job before the inscrutable algorithm
+- [[Transhumanism]] — the eschatological program (Kurzweil/Bostrom/Moravec) read as secularized Christian resurrection; posthumanism's religious double
 - [[Transparency]] — Han's master diagnostic: neoliberal dispositive that converts negativity into smooth, accelerable positivity
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
@@ -66,6 +90,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 
 ### Material / Immaterial
 
+- [[Dematerialization]] — Lippard's titular concept: idea paramount, material form ephemeral/cheap/absent
+- [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate as the material residue of the immaterial work
 - [[Exhibition Value]] — attention as a value form beyond use and exchange
 - [[Information]] — language stripped to operational positivity
 - [[Smoothness]] — the surface property of frictionless, leveled circulation
@@ -86,6 +112,12 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Cyborg]] — the figure joining enacted and represented bodies (Haraway + Hayles)
 - [[Inscription vs Incorporation]] — abstract transportable signs vs embodied habitual practice
 - [[The Platonic Backhand and Forehand]] — the moves that make embodiment derivative of abstraction
+- [[Transhumanism]] — the eschatological program read as secularized resurrection; posthumanism's religious double (O'Gieblyn)
+- [[Mind Uploading]] — transferring a mind to a digital medium; the patristic resurrection problem in technical dress (O'Gieblyn)
+- [[Patternism]] — the self as a substrate-independent pattern of information; immortalist inverse of pattern/randomness (O'Gieblyn)
+- [[The Mind-Body Problem]] — immaterial mind and material body; the computer metaphor covertly re-inscribes it (O'Gieblyn)
+- [[The Hard Problem of Consciousness]] — why physical processes are accompanied by subjective experience (O'Gieblyn)
+- [[Disembodied Information as the Soul]] — disembodied information as 'the materialist's substitute for the soul' (O'Gieblyn reading Hayles)
 
 ### Systems / Cybernetics / Feedback
 
@@ -127,9 +159,33 @@ All concept notes in `concepts/`. Updated after each generation pass.
 
 ### Media / Art / Perception
 
+- [[Conceptual Art]] — 'idea art': the idea supersedes the visual/material result
+- [[Dematerialization]] — the art object as idea, its material form ephemeral or absent
+- [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate as the work's material residue
+- [[Exhibition as Medium]] — the exhibition/catalogue/magazine reinvented as the artwork's primary site
 - [[Narrativity]] — directional, scenic temporality lost to additive accumulation
 - [[Smoothness]] — the perceptual signature of post-hermeneutic media
 - [[Information]] — the operational displacement of insight
 - [[Flickering Signifier]] — signification under code and mutation, successor to the floating signifier
 - [[Pattern and Randomness]] — information as pattern paradoxically equated with randomness
 - [[The Schizoid Android]] — the signifier that enacts the human/not-human split (Dick)
+- [[Technology as Metaphor]] — each era reads self and cosmos through its dominant machine (O'Gieblyn)
+- [[The Black Box]] — opaque deep-learning models delivering knowledge at the price of comprehension (O'Gieblyn)
+- [[The Computational Universe]] — the cosmos read as a computer; the it-from-bit literalization (Hayles + O'Gieblyn)
+
+### Meaning / Disenchantment / Religion (O'Gieblyn)
+
+- [[Technology as Metaphor]] — each era understands self and cosmos through its dominant machine; danger when literalized
+- [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos; O'Gieblyn's master frame
+- [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated
+- [[Transhumanism]] — the eschatological program read as secularized Christian resurrection
+- [[Imago Dei]] — the image-of-God doctrine, reversed (we made God in our image) and extended (engineers as gods)
+- [[Theodicy]] — the problem of evil transposed onto AI: evil as bugs in the code; the citizen as Job
+- [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the Calvinist/nominalist God
+- [[Algorithmic Determinism]] — prediction as a behavior-modifying feedback loop; predestination by algorithm
+- [[Idealism]] — consciousness, not matter, as fundamental substance; the terminus of Chalmers's trajectory; the return of God
+- [[Panpsychism]] — consciousness as the fundamental nature of all matter; the leading route to re-enchanting materialism
+- [[Integrated Information Theory]] — consciousness as integrated information quantified by phi
+- [[The Simulation Hypothesis]] — the universe-as-computer-program read as a secularized argument from design
+- [[The Measurement Problem]] — the quantum observer effect; the perceiving subject cannot be eliminated
+- [[Eliminativism]] — the denial that consciousness exists; itself crypto-Cartesian

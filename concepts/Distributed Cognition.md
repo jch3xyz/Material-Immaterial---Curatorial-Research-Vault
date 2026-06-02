@@ -4,6 +4,8 @@ status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/02 Prologue]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
 related:
   - "[[Posthumanism]]"
   - "[[Cybernetics]]"
@@ -15,11 +17,16 @@ opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # Distributed Cognition
+
+## General Orientation
+
+This note carries two author-sections. For **[[N. Katherine Hayles]]**, distributed cognition is a *normative* posthumanist thesis: cognition resides across embodied humans and the material media and environments they build, so that "distributed cognition replaces autonomous will" and the [[The Liberal Humanist Subject|liberal humanist subject]] dissolves — re-embodied, not dematerialized. For **[[Meghan O'Gieblyn]]**, the same architecture appears as a *historical migration in the model of mind* — from a central processor to a decentralized network with no governing brain — traced across the "wood-wide web," swarm self-organization, and Rodney Brooks's subsumption-architecture robots, and shadowed by a deflationary suspicion: that the most "intelligent" machine behavior may be hidden human intelligence, and that to make ourselves "one with the natural world" by this route is to reduce mind to "the exchange of information." Where Hayles offers the distributed cognitive system as an emancipatory reframing, O'Gieblyn reads it as both wonder and warning — closely allied with [[Emergence]] and [[Embodiment]] and with the deflation of [[Mind as Machine]].
 
 ## Brief Definition
 
@@ -35,11 +42,20 @@ In the Conclusion's catalogue of substitutions that define the benign — rather
 
 Importantly for the user's foci, Hayles's distributed cognition does not dematerialize thought; it re-embodies it. Cognition is distributed across *material* media and enacted bodies, not lifted free of them. This is why she pairs the concept with embodiment in the same substitution list and uses it as "a potent antidote" to the fantasy of leaving the body behind for "the bodiless exultation of cyberspace." Where the dream of uploading consciousness treats mind as portable [[The Body as Data|information]], distributed cognition insists that "human functionality expands because the parameters of the cognitive system it inhabits expand" — through "electronic prosthesis," not against the body but as an extension of "embodied awareness in highly specific, local, and material ways."
 
+## Mind from CPU to Network (O'Gieblyn)
+
+For [[Meghan O'Gieblyn]], the "Network" chapters of *God, Human, Animal, Machine* narrate a migration in the governing model of mind — from the central processor to the distributed network — and she finds the same shape recurring across nature, machines, and the brain itself. In forests, trees are joined through "intricate underground networks of roots and fungi" that ecologists nickname "the 'wood-wide web,'" and "it is precisely this distribution of intelligence—the fact that there is no central, governing brain—that makes forests so efficient and resilient." A beehive exhibits the same logic: "there is no leader, no centralized hub, and yet somehow the bees are able to work together such that the system as a whole is capable of 'self-organization.'" O'Gieblyn names the common principle — [[Emergence]] — "the idea that new structural properties and patterns can appear spontaneously in complex adaptive systems that are not present in its individual parts," extending the list to "the internet, traffic jams, and the stock market" as "forms of distributed intelligence." This is distributed cognition migrated out of the individual skull: cognition as a property of the network, not of any node.
+
+The decisive move is that this distributed architecture is turned back onto the human brain and the [[The Liberal Humanist Subject|self]]. O'Gieblyn notes that "although most people tend to think of the brain as the body's central processing unit, the organ itself has no central control," so that "our belief in a unified interior self—the illusion, as Richard Dawkins once put it, that we are 'a unit, not a colony'—has no basis in the actual architecture of the brain." In robotics this becomes Rodney Brooks's [[Embodiment|embodied intelligence]]: his revelation "was that it was precisely this central processing—the computers' 'brains,' so to speak—that was holding them back," so he replaced it with "'subsumption architecture,' a form of distributed intelligence much like the kind found in beehives and forests" — modules that "communicated minimally with the others" and "learned on the fly by directly interacting with their environment." Brooks "took these successes to mean that intelligence did not require a unified, knowing subject": "Thought and consciousness will not need to be programmed in," he wrote. "They will emerge."
+
+But O'Gieblyn closes the network with a deflationary coda that pulls against the enchantment. The promise that consciousness will "simply emerge as a side effect of complexity" she reads as "an updated version of vitalism" and "uncomfortably like magic," a way of trying to get "something from nothing." Brooks himself "referred to consciousness as a 'cheap trick,' an illusion that exists only in the eye of the beholder" — "Intelligence is in the eye of the observer" — which deflates the very [[Mind as Machine|computational metaphor]] the network was meant to vindicate. And the literal punchline of the campus delivery robots is that the bots "were observed at all times by a human engineer" who could "override its systems and control it manually," so that "it was impossible to know whether the bots were acting autonomously or being maneuvered remotely": "The most eerily intelligent behavior I had observed in them may have been precisely what it appeared to be: evidence of human intelligence." Distributed cognition, in O'Gieblyn's telling, is real enough as a description of swarms and climates, but as a theory of machine *mind* it risks dignifying hidden human labor and a "rudimentary caricature" of ourselves — "the exchange of information—that it can be applied to virtually anything."
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — distributed cognition is the term that names how the posthuman subject is "distributed rather than located solely in consciousness." She deploys it normatively, as the substitute for "autonomous will" that makes a non-apocalyptic posthumanism thinkable, and she insists it is material and embodied, not a flight into pure information.
 - **Edwin Hutchins** — Hayles's primary source for the concept; his ethnography of naval navigation supplies both the ship example and the gloss that thinking is "a gradual propagation of organized functional properties across a set of malleable media," with cognition and decision-making alike distributed across human and nonhuman actors.
 - **Gregory Bateson** — supplies the framing that the emergent human subject "becomes a metaphor for" the distributed cognitive system as a whole, in which "'thinking' is done by both human and nonhuman actors."
+- **[[Meghan O'Gieblyn]]** — treats distributed cognition historically, as the migration of the model of mind from the central processor to the distributed network, where "there is no central, governing brain." She runs it through the wood-wide web, swarm self-organization, and Brooks's "subsumption architecture," uses it to dissolve the unified self ("a unit, not a colony"), and deflates it with the suspicion that the most "eerily intelligent" machine behavior may be "evidence of human intelligence."
 
 ## Related Concepts
 
@@ -49,6 +65,8 @@ Importantly for the user's foci, Hayles's distributed cognition does not demater
 - [[Embodiment]] — distributed cognition for Hayles is embodied and material, an extension rather than an abandonment of the body.
 - [[The Cyborg]] — the spliced human-machine assemblage is the figure whose cognition is distributed.
 - [[Systems Theory]] — cognition resides in "the system as a whole," whose capacities exceed those of its parts.
+- [[Emergence]] — for O'Gieblyn the engine of distributed intelligence: "new structural properties and patterns" that "appear spontaneously in complex adaptive systems" with no central control, in forests, swarms, and Brooks's robots alike.
+- [[Mind as Machine]] — distributed cognition is the network-stage successor to the central-processor metaphor; O'Gieblyn's deflation (consciousness as a "cheap trick," "in the eye of the observer") simultaneously extends and undercuts the machine model of mind.
 - [[The Extrapolated Body]] — the extension of cognition across prosthetic, material media.
 - The Observer — distinct from distributed cognition: the single observer included in a reflexive system is one participant in, not the locus of, the distributed cognitive whole.
 
@@ -121,3 +139,58 @@ Relevant passage:
 > In Hutchins's neat interpretation, Searle's argument is valuable precisely because it makes clear that it is not Searle but the entire room that knows Chinese.*! In this distributed cognitive system, the Chinese room knows more than do any of its components, including Searle.
 
 Supports: The Chinese-room re-reading — the whole assemblage, not the individual within it, is the cognitive subject; the system knows more than its parts. Label: `Directly stated`. (OCR artifact "*!" preserved verbatim from source.)
+
+### Source 6
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> It is precisely this distribution of intelligence—the fact that there is no central, governing brain—that makes forests so efficient and resilient.
+
+Supports: O'Gieblyn's core formulation of distributed cognition as intelligence with no central processor — the "wood-wide web" of forest communication as the model of a network mind. Label: `Directly stated`.
+
+### Source 7
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> our belief in a unified interior self—the illusion, as Richard Dawkins once put it, that we are "a unit, not a colony"—has no basis in the actual architecture of the brain.
+
+Supports: The distributed model turned back onto the brain — the unified self as illusion, "a unit, not a colony," with no basis in the brain's actual architecture. Grounds the dissolution of the liberal humanist subject in the network model of mind. Label: `Directly stated`.
+
+### Source 8
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> He used an entirely new system of computing he called "subsumption architecture," a form of distributed intelligence much like the kind found in beehives and forests. In place of central processing, his machines were equipped with several different modules that each had its own sensors, cameras, and actuators and communicated minimally with the others.
+
+Supports: Rodney Brooks's subsumption architecture as the robotics realization of distributed cognition — intelligence built bottom-up from minimally communicating modules rather than a central processor; the migration from CPU to network in machine form. Label: `Directly stated`.
+
+### Source 9
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> Brooks took these successes to mean that intelligence did not require a unified, knowing subject. He was convinced that these simple robot competencies would build on one another until they evolved something that looked very much like human intelligence. "Thought and consciousness will not need to be programmed in," he wrote. "They will emerge."
+
+Supports: Distributed cognition as the claim that intelligence requires no unified knowing subject — Brooks's wager that consciousness will emerge bottom-up from simple competencies, tying distributed cognition to [[Emergence]]. Label: `Directly stated`.
+
+### Source 10
+
+Book: *God Human Animal Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> Later I learned that the robots were observed at all times by a human engineer who sat in a room somewhere in the bowels of campus, watching them all on computer screens. If one of the bots found itself in a particularly hairy predicament, the human controller could override its systems and control it manually. In other words, it was impossible to know whether the bots were acting autonomously or being maneuvered remotely. The most eerily intelligent behavior I had observed in them may have been precisely what it appeared to be: evidence of human intelligence.
+
+Supports: The deflationary coda — the most "intelligent" machine behavior in a distributed system may be hidden human intelligence, not autonomous machine cognition. Undercuts the enchantment of emergent machine mind. Label: `Directly stated`.

@@ -4,6 +4,8 @@ status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
+  - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
 related:
   - "[[Artificial Life]]"
   - "[[Feedback Loops]]"
@@ -21,11 +23,16 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Francisco Varela]]"
   - "[[Christopher Langton]]"
+  - "[[Meghan O'Gieblyn]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # Emergence
+
+## General Orientation
+
+This note now carries two author-treatments of the same term, and they pull in opposite directions. For **[[N. Katherine Hayles]]**, emergence is the keyword of the third wave of [[Cybernetics|cybernetics]] and the benign [[Posthumanism|posthuman's]] generative substitute for teleology and predictability — a bottom-up method that lets complexity "procreate" upward rather than be "murdered" by analytic dissection. For **[[Meghan O'Gieblyn]]**, the same idea is approached with suspicion: emergence is "uncomfortably like magic," structurally identical to the discredited doctrine of **vitalism** (an attempt to get "something from nothing," "a ghost in the machine"), and in its strongest form a *covert reductive materialism* that dissolves the very consciousness it claims to explain. The two readings share a vocabulary — self-organization, bottom-up rules, Rodney Brooks's [[Embodiment|embodied]] robots, unanticipated behavior — but disagree on whether emergence escapes reductionism (Hayles's hope) or smuggles it back in under a mystical surface (O'Gieblyn's charge). Link by intent: the default conceptual sense is the bottom-up appearance of unanticipated higher-order pattern; each author-section below qualifies it.
 
 ## Brief Definition
 
@@ -71,6 +78,14 @@ For the book's larger argument, this is double-edged. Emergence is what makes th
 - When second-order emergence privileges "the ability to process information" above all else, does emergence become a covert vehicle for treating the body as substrate-independent data (see [[The Body as Data]])? Can there be an emergence that requires the resistance of materiality rather than abstracting it away?
 - If emergence replaces teleology, does the [[Posthumanism|posthuman]] lose the capacity to distinguish "robot teleology and human goals" — and is that erasure a liberation from intentionality or a loss of the embodied perspective from which goals are had?
 - Brooks locates emergence in embodied gait while Moravec locates it in downloadable mind: is emergence intrinsically tied to [[Embodiment]], or can it be staged in pure informational pattern? The answer decides whether emergence underwrites or undermines the disembodied posthuman.
+
+## Emergence as Vitalism and Covert Reductive Materialism (O'Gieblyn)
+
+In *God, Human, Animal, Machine*, Meghan O'Gieblyn first approaches emergence the way Hayles does — as the shared mechanism behind beehives, the "wood-wide web," Brooks's insect robots, and AI alike: "new structural properties and patterns can appear spontaneously in complex adaptive systems that are not present in its individual parts," such that "novel behaviors or abilities could appear seemingly on their own, without being designed, and might develop in ways that surprised even the designer." She was drawn to it, she says, "because it seemed like a compelling alternative to reductive materialism." But the appeal does not survive scrutiny. The decisive move in her treatment is to read emergence as the structural heir of a discredited doctrine: "Some critics have argued that emergentism is just an updated version of vitalism—the ancient notion that the world is animated by a life force or energy that permeates all things." She traces the lineage explicitly through Descartes, the vitalists' *élan vital*, Galvani zapping frog legs, and Frankenstein, whose hero "is steeped in the vitalist philosophies of his time." Emergentism inherits vitalism's central vulnerability: "it is an attempt to get 'something from nothing.' It hypothesizes some additional, invisible power that exists within the mechanism, like a ghost in the machine." O'Gieblyn endorses Mark A. Bedau's charge that emergence "in its strongest iterations, 'is uncomfortably like magic,' as it assumes that a nonmaterial property (consciousness) is capable of somehow acting causally on a material substance (the brain)."
+
+The sharper and more original reversal comes in the next chapter. Having granted that emergence "superficially" satisfies the old animist desire to teach a stone to talk, O'Gieblyn argues that beneath the mystical surface it collapses into its supposed opposite: "Scratch beneath the mystical surface and it becomes clear that emergentism is often not so different from the most reductive forms of materialism, particularly when it comes to the question of human consciousness." The illustration is Marvin Minsky's *Society of Mind*, where the self is "a sort of tangled-up bureaucracy" of competing agents — GRASPING, BALANCING, THIRST, MOVING — none of which is a knowing subject, so that "once you get to the lowest level of intelligence, you inevitably find... agents that 'cannot think at all.'" This is not a theory of consciousness but its dissolution. O'Gieblyn quotes the historian Jessica Riskin's verdict that "emergent theories of mind end up dismissing the very thing they are supposed to explain": "Arriving…at the level of these dumb, foundational agents, one will have lost all sense of intelligence as a feature of mind." Even Brooks, "with his numinous ambitions of bringing robots to life, referred to consciousness as a 'cheap trick,'" an illusion in the eye of the beholder — confirming that the disembodied [[The Liberal Humanist Subject|conscious subject]] is not produced by emergence but quietly written out of it (cf. [[The Body as Data]], [[Pattern and Randomness]]).
+
+What remains, for O'Gieblyn, is genuinely uncanny rather than dismissible. She is careful that "these mystical overtones should not discredit emergence as such—it is a useful enough way to describe complex systems like beehives and climates," and the unsettling residue is epistemic, not supernatural: "The most mystical aspect of emergence, after all, is the implication that we can make things that we don't completely understand." Where AI once seemed impossible because "we don't yet know how the human brain works," emergence inverts the demand: "if we put the pieces together the right way—through either ingenuity or sheer accident—consciousness will simply emerge as a side effect of complexity. At some point nature will step in and finish the job." This is the same wager Hayles names "procreate by emergence," but O'Gieblyn weights it differently — as a loss of authorial control ("at what point do you, the creator, lose control?") and as a "risky ontological bargain" in which redefining intelligence and consciousness broadly enough to "phytomorphise the human" reduces our humanity "to such a rudimentary caricature—the exchange of information—that it can be applied to virtually anything" (see [[The Computational Universe]], [[Mind as Machine]], [[Information]]).
 
 ## Sources
 
@@ -150,3 +165,80 @@ Relevant passage:
 > In the posthuman, there are no essential differences or absolute demarcations between bodily existence and computer simulation, cybernetic mechanism and biological organism, robot teleology and human goals.
 
 Supports: The substitution of emergence for teleology in the benign-posthuman view — emergence lets goals appear without a goal-setter, collapsing the line between robot teleology and human goals. Label: `Strongly implied`.
+
+### Source 8
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> Some critics have argued that emergentism is just an updated version of vitalism—the ancient notion that the world is animated by a life force or energy that permeates all things.
+
+Supports: O'Gieblyn's core charge that emergence is structurally identical to discredited vitalism (Descartes, *élan vital*, Galvani, Frankenstein). Label: `Directly stated`.
+
+### Source 9
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> The AI philosopher Mark A. Bedau has argued that emergence, in its strongest iterations, "is uncomfortably like magic," as it assumes that a nonmaterial property (consciousness) is capable of somehow acting causally on a material substance (the brain).
+
+Supports: Emergence as "uncomfortably like magic" (Bedau) — a nonmaterial property acting causally on material substance. Label: `Directly stated`.
+
+### Source 10
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> Although emergentism is focused specifically on consciousness, as opposed to life itself, the theory is vulnerable to the same criticism that has long haunted vitalism: it is an attempt to get "something from nothing." It hypothesizes some additional, invisible power that exists within the mechanism, like a ghost in the machine.
+
+Supports: The "something from nothing" / "ghost in the machine" framing — emergentism inherits vitalism's central vulnerability. Label: `Directly stated`.
+
+### Source 11
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]
+Relevant passage:
+
+> The most mystical aspect of emergence, after all, is the implication that we can make things that we don't completely understand.
+
+Supports: The most mystical aspect of emergence — that we can make things we don't completely understand; the hope that consciousness "will simply emerge as a side effect of complexity." Label: `Directly stated`.
+
+### Source 12
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]
+Relevant passage:
+
+> Scratch beneath the mystical surface and it becomes clear that emergentism is often not so different from the most reductive forms of materialism, particularly when it comes to the question of human consciousness.
+
+Supports: The central reversal — in its strongest form emergence is a covert reductive materialism, not an alternative to it. Label: `Directly stated`.
+
+### Source 13
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]
+Relevant passage:
+
+> Just as the intelligence of a beehive or a traffic jam resides in the patterns of these inert, intersecting parts, so human consciousness is merely the abstract relationships that emerge out of these systems: once you get to the lowest level of intelligence, you inevitably find, as Minsky put it, agents that "cannot think at all."
+
+Supports: Minsky's dumb agents — emergentism dissolves the self into parts that "cannot think at all," dismissing the consciousness it claims to explain (Riskin). Label: `Directly stated`.
+
+### Source 14
+
+Book: *God, Human, Animal, Machine*
+Author: Meghan O'Gieblyn
+Raw file: [[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]
+Relevant passage:
+
+> As the science historian Jessica Riskin has argued, emergent theories of mind end up dismissing the very thing they are supposed to explain. "Arriving…at the level of these dumb, foundational agents, one will have lost all sense of intelligence as a feature of mind."
+
+Supports: Riskin's verdict — the strong form of emergentism dissolves the consciousness it sets out to explain. Label: `Directly stated`.

@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Intimacy as Psychological Formula of Transparency.md",
+                "file": "_system/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intimacy as Psychological Formula of Transparency"
+              "title": "log"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/Intimacy as Psychological Formula of Transparency.md",
+                "file": "_system/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intimacy as Psychological Formula of Transparency"
+              "title": "Backlinks for log"
             }
           },
           {
@@ -216,32 +216,32 @@
   },
   "active": "e7d28a87e318a57b",
   "lastOpenFiles": [
-    "_system/analysis/Lippard - Six Years - 02 Escape Attempts.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 11 Postface.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 09 1970.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 04 Preface.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 08 1969.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 03 Author's Notes.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 10 1971.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 05 1966.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 07 1968.md.analysis.md",
-    "_system/analysis/Lippard - Six Years - 06 1967.md.analysis.md",
-    "concepts/The Extrapolated Body.md",
-    "tensions/Material vs Immaterial.md",
-    "references/N. Katherine Hayles and Byung-Chul Han.md",
-    "references/N. Katherine Hayles and Philip K. Dick.md",
-    "references/N. Katherine Hayles and Hans Moravec.md",
-    "references/N. Katherine Hayles and Humberto Maturana and Francisco Varela.md",
-    "references/N. Katherine Hayles and Donna Haraway.md",
-    "references/N. Katherine Hayles and Warren McCulloch.md",
-    "references/N. Katherine Hayles and Alan Turing.md",
-    "references/N. Katherine Hayles and Norbert Wiener.md",
-    "arguments/The strong claim of artificial life is constructed through narrative.md",
-    "references/N. Katherine Hayles and Claude Shannon.md",
-    "arguments/The disappearance of the body is the symptom of a new subjectivity.md",
-    "arguments/Conscious agency has never been in control.md",
-    "arguments/Disembodiment is impossible there is only different embodiment.md",
-    "tensions/Homeostasis vs Reflexivity.md",
+    "_system/ingest_pipeline.md",
+    "index.md",
+    "concepts/The Materiality of Informatics.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch13 [Virality].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch05 [Network].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch06 [Network].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch11 [Algorithm].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch07 [Paradox].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch12 [Algorithm].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch04 [Pattern].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch09 [Metonymy].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch01 [Image].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch02 [Image].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch03 [Pattern].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch10 [Metonymy].md.md",
+    "sources/OGieblyn - God Human Animal Machine - Ch08 [Paradox].md.md",
+    "references/Meghan O'Gieblyn and Hans Moravec.md",
+    "references/Meghan O'Gieblyn and David Chalmers.md",
+    "references/Meghan O'Gieblyn and René Descartes.md",
+    "tensions/Disenchantment vs Re-enchantment.md",
+    "tensions/Human Exceptionalism vs Ontological Equality.md",
+    "references/Meghan O'Gieblyn and Nick Bostrom.md",
+    "tensions/Free Will vs Determinism.md",
+    "references/Meghan O'Gieblyn and N. Katherine Hayles.md",
+    "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+    "references/Meghan O'Gieblyn and Norbert Wiener.md",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",
     "99-Templates",
