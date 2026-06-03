@@ -1673,5 +1673,140 @@
       "metaphors/The Event Horizon of the Singularity.md",
       "sources/Kurzweil - The Singularity Is Near - 14 Epilogue.md"
     ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language].md": {
+    "sha256": "7a8cc58f0816ac45610a7ac82681a3ebdf336967bb8db5bf0b819ce3b912af2e",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 01 [An Ironic Dream of a Common Language].md.analysis.md",
+    "generated_files": [
+      "arguments/Take pleasure in the confusion of boundaries and responsibility for their construction.md",
+      "arguments/The cyborg has no origin story in the Western sense.md",
+      "arguments/The cyborg is our ontology and it gives us our politics.md",
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Affinity Not Identity.md",
+      "concepts/Cybernetics.md",
+      "concepts/The Breached Boundaries.md",
+      "concepts/The Cyborg.md",
+      "concepts/The Informatics of Domination.md",
+      "concepts/The Refusal of Innocence.md",
+      "definitions/Cyborg (Haraway).md",
+      "metaphors/Machines Made of Sunshine.md",
+      "references/Donna Haraway and Karl Marx.md",
+      "references/Donna Haraway and Michel Foucault.md",
+      "references/N. Katherine Hayles and Donna Haraway.md",
+      "sources/Haraway - A Cyborg Manifesto - 01 [An Ironic Dream of a Common Language].md",
+      "symbols/Blasphemy.md",
+      "symbols/C3I.md",
+      "tensions/Domination vs Possibility.md",
+      "tensions/Human Exceptionalism vs Ontological Equality.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/02 [Fractured Identities].md": {
+    "sha256": "df905a20d76e0f8f54f29394c0b85780bf08bdbe90be18fa0c2c9befda5c09b1",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 02 [Fractured Identities].md.analysis.md",
+    "generated_files": [
+      "arguments/There is no natural basis for the unity of women.md",
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Affinity Not Identity.md",
+      "concepts/Fractured Identities.md",
+      "concepts/Oppositional Consciousness.md",
+      "concepts/Posthumanism.md",
+      "concepts/The Refusal of Innocence.md",
+      "concepts/Women of Color as a Cyborg Identity.md",
+      "references/Donna Haraway and Karl Marx.md",
+      "sources/Haraway - A Cyborg Manifesto - 02 [Fractured Identities].md"
+    ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination].md": {
+    "sha256": "4572ee5933d2da9a9b94c57b3ebcc1fb94d02fc44aa47367929c462ccd18a704",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 03 [The Informatics of Domination].md.analysis.md",
+    "generated_files": [
+      "arguments/The world is being translated into a problem of coding.md",
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Cybernetics.md",
+      "concepts/Informatics.md",
+      "concepts/Information.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Breached Boundaries.md",
+      "concepts/The Cyborg.md",
+      "concepts/The Informatics of Domination.md",
+      "concepts/The World as a Problem of Coding.md",
+      "concepts/Women in the Integrated Circuit.md",
+      "definitions/The Informatics of Domination (Haraway).md",
+      "references/Donna Haraway and Karl Marx.md",
+      "references/Donna Haraway and Michel Foucault.md",
+      "references/N. Katherine Hayles and Donna Haraway.md",
+      "sources/Haraway - A Cyborg Manifesto - 03 [The Informatics of Domination].md",
+      "symbols/C3I.md",
+      "tensions/Cyborg vs Goddess.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/04 [The Homework Economy Outside the Home].md": {
+    "sha256": "c8a6e6714df17e841f48a5cf65b3d48cd37092bbfa7dd82698e7e84c86b179a0",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 04 [The Homework Economy Outside the Home].md.analysis.md",
+    "generated_files": [
+      "arguments/The homework economy is made possible by not caused by the new technologies.md",
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Immaterial Labour.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Homework Economy.md",
+      "definitions/The Homework Economy (Haraway after Gordon).md",
+      "sources/Haraway - A Cyborg Manifesto - 04 [The Homework Economy Outside the Home].md"
+    ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/05 [Women in the Integrated Circuit].md": {
+    "sha256": "bd75a4d4acc30f83e2c0ab3090e071d60523078793574d304fb6451f570602fc",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 05 [Women in the Integrated Circuit].md.analysis.md",
+    "generated_files": [
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Affinity Not Identity.md",
+      "concepts/The Homework Economy.md",
+      "concepts/The Informatics of Domination.md",
+      "concepts/Women in the Integrated Circuit.md",
+      "references/Donna Haraway and Karl Marx.md",
+      "sources/Haraway - A Cyborg Manifesto - 05 [Women in the Integrated Circuit].md",
+      "tensions/Domination vs Possibility.md"
+    ]
+  },
+  "raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity].md": {
+    "sha256": "d8781d2827731b34e748ad74ec4d19ab2478f4893e58fd7db707456b3ca41165",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Haraway - A Cyborg Manifesto - 06 [Cyborgs - A Myth of Political Identity].md.analysis.md",
+    "generated_files": [
+      "arguments/The machine is us an aspect of our embodiment.md",
+      "authors/Donna Haraway.md",
+      "books/A Cyborg Manifesto.md",
+      "concepts/Affinity Not Identity.md",
+      "concepts/Cyborg Writing.md",
+      "concepts/Embodiment.md",
+      "concepts/Posthumanism.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Breached Boundaries.md",
+      "concepts/The Cyborg.md",
+      "concepts/The Refusal of Innocence.md",
+      "concepts/Women of Color as a Cyborg Identity.md",
+      "definitions/Cyborg (Haraway).md",
+      "metaphors/The Salamander (Regeneration).md",
+      "references/N. Katherine Hayles and Donna Haraway.md",
+      "sources/Haraway - A Cyborg Manifesto - 06 [Cyborgs - A Myth of Political Identity].md",
+      "symbols/C3I.md",
+      "symbols/I Would Rather Be a Cyborg Than a Goddess.md",
+      "tensions/Cyborg vs Goddess.md",
+      "tensions/Domination vs Possibility.md",
+      "tensions/Human Exceptionalism vs Ontological Equality.md",
+      "tensions/Material vs Immaterial.md",
+      "tensions/Regeneration vs Rebirth.md"
+    ]
   }
 }

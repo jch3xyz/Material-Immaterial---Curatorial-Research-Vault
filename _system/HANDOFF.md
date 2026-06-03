@@ -33,7 +33,7 @@ page is the operating manual.
 
 1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
-   Kurzweil–The Singularity Is Near are DONE. 20 remain.)
+   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 19 remain.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, Kurzweil's *Age of Spiritual Machines*, Harari's *Nexus*) extends the
@@ -52,6 +52,14 @@ page is the operating manual.
    and check every file exists on disk; regenerate any missing note with a focused single-note agent
    (ample budget → reliably persists). Then **`git commit` immediately** — untracked notes have twice
    vanished during interruptions (likely an Obsidian Git plugin clean/reset); committing makes them safe.
+   **NEVER `git add -A` / `git add .` after an ingest (learned on Haraway):** the same clean/reset process
+   has also **deleted *tracked* `raw/` folders mid-run** (on the Haraway pass: Acemoglu, Harari–Nexus, Shiner,
+   Turner — all future ingest sources, no vault notes lost). A blanket add would commit those deletions and
+   destroy the sources. Instead: (a) inspect `git status` first; (b) if any `raw/` files show as deleted, restore
+   them with `git checkout HEAD -- "raw/<folder>"`; (c) stage ONLY the note folders explicitly
+   (`git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`).
+   Also: the durable monograph workflow's top-level `args` does NOT bind through `scriptPath` — run it via a thin
+   wrapper script that calls `workflow({scriptPath: ".../ingest-book.monograph.js"}, ARGS)` with the args inlined.
 2. **Inspect**: `ls "raw/<Author - Book>/"` and `wc -l` to find substantive chapters. Skip
    About / Front Matter / Contents / Notes / Index / Acknowledgments / Bibliography.
 3. **Hash**: `cd "raw/<Author - Book>" && for f in <files>; do shasum -a 256 "$f"; done`.

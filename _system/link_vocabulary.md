@@ -297,6 +297,60 @@ Verified alias-aware rewrites (25 occurrences): `Singularity`→`The Singularity
 
 ---
 
+## Canonical Note Names — Haraway A Cyborg Manifesto ingest (2026-06-02)
+
+Added by *A Cyborg Manifesto* (1985). Book: `A Cyborg Manifesto`. Author: **`Donna Haraway` (new — realizes the forward-stub declared in the Hayles ingest; canonical name is `Donna Haraway`, NOT `Donna J. Haraway`)**. Source summaries: `Haraway - A Cyborg Manifesto - <NN [Section]>` (6: An Ironic Dream of a Common Language, Fractured Identities, The Informatics of Domination, The Homework Economy Outside the Home, Women in the Integrated Circuit, Cyborgs - A Myth of Political Identity). This is the primary-source ingest of the cyborg, so it was a heavy cross-book merge into notes the vault had grounded only secondhand in Hayles.
+
+**New concepts/** (11): The Informatics of Domination *(Haraway's coinage — the historic shift from organic hierarchical dominations to coded command-control-communication networks; the source Hayles took the word `Informatics` from; kept DISTINCT from `Informatics`)* · The Breached Boundaries *(the three boundary breakdowns: human/animal, organism/machine, physical/nonphysical)* · The Refusal of Innocence · Affinity Not Identity · Fractured Identities · Oppositional Consciousness *(Chela Sandoval, via Haraway)* · Women of Color as a Cyborg Identity · Cyborg Writing · Women in the Integrated Circuit · The Homework Economy · The World as a Problem of Coding.
+
+**New definitions/** (3): Cyborg (Haraway) · The Informatics of Domination (Haraway) · The Homework Economy (Haraway after Gordon). *(Note: `Cyborg (Haraway)` is a definition note distinct from the concept `The Cyborg`; `The Informatics of Domination (Haraway)` is the definition beside the concept `The Informatics of Domination`, same pattern as `Information`/`Information (Han)`.)*
+
+**New tensions/** (3): Domination vs Possibility *(the "double vision" — folds the identity-vs-affinity and totality-vs-partiality oppositions)* · Cyborg vs Goddess · Regeneration vs Rebirth.
+
+**New metaphors/** (2): Machines Made of Sunshine · The Salamander (Regeneration). **New symbols/** (3): I Would Rather Be a Cyborg Than a Goddess · Blasphemy · C3I.
+
+**New arguments/** (7): The cyborg is our ontology and it gives us our politics · Take pleasure in the confusion of boundaries and responsibility for their construction · The cyborg has no origin story in the Western sense · There is no natural basis for the unity of women · The world is being translated into a problem of coding · The homework economy is made possible by not caused by the new technologies · The machine is us an aspect of our embodiment.
+
+**New references/** (2): `Donna Haraway and Michel Foucault` *(her 1985 demotion of biopolitics — "the cyborg simulates politics" — converging with Han's later "Foucault failed to make the turn to psychopolitics"; Foucault remains a forward-stub author)* · `Donna Haraway and Karl Marx` *(socialist-feminism with internal critique; Marx remains a forward-stub author)*.
+
+**Cross-book UPDATES** (existing notes that gained a Donna Haraway author-section — do NOT duplicate): `The Cyborg` *(THE keystone — the note now carries Haraway's OWN primary-text section beside Hayles's secondhand account)* · `Informatics` *(the originating "informatics of domination" sense Hayles borrowed; the note's deferral language to "await Haraway's ingest" is now resolved)* · `Posthumanism` · `Embodiment` · `Cybernetics` · `The Body as Data` · `Information` · `Immaterial Labour` *(the feminized homework economy as a precursor to Han's immaterial labour)* (concepts) · `Material vs Immaterial` *(now a SIX-author tension — the cyborg as "a condensed image of both imagination and material reality")* · `Human Exceptionalism vs Ontological Equality` (tensions) · the reference `N. Katherine Hayles and Donna Haraway` *(upgraded from one-sided/deferred to a two-sided account from the primary text)*.
+
+New **author forward-stubs / one-off figures** (cited substantively, no book in `raw/`): `Michel Foucault` and `Karl Marx` now have Haraway reference notes but their author pages remain forward-stubs per policy. Rendered as **plain text** (one-off figures, no author-note files): Chela Sandoval, Katie King, Catharine MacKinnon, Julia Kristeva, Richard Gordon, Fredric Jameson, Rachel Grossman, Zoë Sofoulis/Sofia, Bruno Latour, Audre Lorde, Cherríe Moraga, Octavia Butler, Joanna Russ, and the other SF writers. `Herbert Marcuse` (One-Dimensional Man) and `Carolyn Merchant` (The Death of Nature) named as the organicist tradition Haraway argues against — left as forward-stubs, no reference note this pass.
+
+### Distinctions enforced (NOT merged)
+
+- `The Informatics of Domination` (Haraway — the coded-control regime) is kept **distinct** from `Informatics` (Hayles — the broader relational field of information technologies + social/cultural change). The two are cross-linked; this is the keystone merge of the ingest.
+- `Cyborg (Haraway)` (definition) ≠ `The Cyborg` (concept). `The Informatics of Domination (Haraway)` (definition) ≠ `The Informatics of Domination` (concept).
+- The Haraway–Han biopolitics convergence is captured **inside** `Donna Haraway and Michel Foucault` (cross-linked to `Biopolitics vs Psychopolitics`); NO `Byung-Chul Han and Donna Haraway` note was minted (they never cite each other, stakes differ).
+
+### Haraway-pass variant/dangling fixes (applied 2026-06-02, finalize)
+
+Verified alias-aware rewrites, all in the book and author notes' "Major Arguments/Definitions/Symbols/Tensions" lists and Supports lines (the generation agents paraphrased argument titles instead of using the canonical filenames):
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `The cyborg is our ontology and our politics` | `The cyborg is our ontology and it gives us our politics` |
+| `Take pleasure in the confusion of boundaries and responsibility in their construction` | `Take pleasure in the confusion of boundaries and responsibility for their construction` |
+| `The Three Breached Boundaries` | `The Breached Boundaries` |
+| `The Homework Economy (Haraway)` | `The Homework Economy (Haraway after Gordon)` |
+| `There is nothing natural that binds women into a unity` | `There is no natural basis for the unity of women` |
+| `Political unity must be built through affinity not natural identity` | `Affinity Not Identity` / `There is no natural basis for the unity of women` |
+| `Totalizing feminisms leave no structural room for race`, `MacKinnon's radical feminism constructs woman as a nonbeing` | `Fractured Identities` |
+| `The world has shifted from organic domination to the informatics of domination` | `The Informatics of Domination` / `The world is being translated into a problem of coding` |
+| `Communications sciences and biology translate the world into a problem of coding` | `The world is being translated into a problem of coding` |
+| `The cyborg is not subject to biopolitics it simulates politics`, `Foucault's biopolitics is a flaccid premonition of cyborg politics` | `Donna Haraway and Michel Foucault` |
+| `Cyborg politics refuses innocence and organic wholeness` | `The Refusal of Innocence` |
+| `The cyborg has no origin story and refuses the myth of original unity` | `The cyborg has no origin story in the Western sense` |
+| `The machine is us not an other to dominate` | `The machine is us an aspect of our embodiment` |
+| `Identity vs Affinity` | `Affinity Not Identity` |
+| `Totality vs Partiality` | `The Refusal of Innocence` |
+| `We require regeneration not rebirth` | *(unlinked — captured by the `Regeneration vs Rebirth` tension + `The Salamander (Regeneration)` metaphor)* |
+| `The Goddess (Opposed)`, `Refused Origin Myths`, `Women in the Integrated Circuit (Haraway)` | *(folded — into `Cyborg vs Goddess` / `The Refusal of Innocence` / the `Women in the Integrated Circuit` concept)* |
+
+`[[#Cross-book note]]` in `Donna Haraway and Michel Foucault` is a valid same-file heading anchor (not a dangling note).
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.

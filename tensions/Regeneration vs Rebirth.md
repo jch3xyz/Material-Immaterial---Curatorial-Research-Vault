@@ -41,7 +41,6 @@ What is at stake is whether feminist and emancipatory politics must be grounded 
 - [[Cyborg Writing]]
 - [[Cyborg vs Goddess]]
 - [[I Would Rather Be a Cyborg Than a Goddess]]
-- [[We require regeneration not rebirth]]
 - [[The Informatics of Domination]]
 - [[Embodiment]]
 

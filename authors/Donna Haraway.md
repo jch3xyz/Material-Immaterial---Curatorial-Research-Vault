@@ -33,7 +33,7 @@ Haraway writes to build "an ironic political myth faithful to feminism, socialis
 
 - [[The Cyborg]] — "a cybernetic organism, a hybrid of machine and organism"; the ironic, postgender, blasphemous political myth and ontology of the late twentieth century. Haraway is the originating source the vault's existing note (Hayles-anchored) points back to.
 - [[The Informatics of Domination]] — her coinage for the historic shift from "the comfortable old hierarchical dominations" to "the scary new networks" of coded command-control-communication; the term [[Informatics]] descends from this.
-- [[The Three Breached Boundaries]] — human/animal, organism/machine, physical/nonphysical: the three "boundary breakdowns" that make cyborg analysis possible.
+- [[The Breached Boundaries]] — human/animal, organism/machine, physical/nonphysical: the three "boundary breakdowns" that make cyborg analysis possible.
 - [[The World as a Problem of Coding]] — the common move of communications sciences and modern biologies that dissolves "all resistance to instrumental control."
 - [[Fractured Identities]] — gender, race, and class as "contradictory, partial, and strategic," incapable of grounding an "essential unity"; "woman disintegrates into women."
 - [[Affinity Not Identity]] — political coalition "related not by blood but by choice," built on "conscious coalition, of affinity, of political kinship" rather than natural identification.
@@ -45,12 +45,12 @@ Haraway writes to build "an ironic political myth faithful to feminism, socialis
 
 ## Major Arguments
 
-- [[The cyborg is our ontology and our politics]] — because "we are all chimeras, theorized and fabricated hybrids of machine and organism," the cyborg is not optional metaphor but our actual condition, and a politics follows from it.
-- [[The world has shifted from organic domination to the informatics of domination]] — a periodizing claim: "a movement from an organic, industrial society to a polymorphous, information system," comparable in scope to the rise of industrial capitalism.
-- [[The cyborg is not subject to biopolitics it simulates politics]] — the pointed displacement of Foucault; cyborg politics operate on "boundary conditions and interfaces, on rates of flow across boundaries—and not on the integrity of natural objects."
-- [[Political unity must be built through affinity not natural identity]] — since "there is nothing about being 'female' that naturally binds women," effective unity is "an achievement, not a natural fact."
-- [[Totalizing feminisms leave no structural room for race]] — both Marxist/socialist-feminism (grounded in labor) and MacKinnon's radical feminism (grounded in sexual appropriation) demand the status of a totality and append "race, by addition."
-- [[Cyborg politics refuses innocence and organic wholeness]] — "we do not want any more natural matrix of unity and that no construction is whole."
+- [[The cyborg is our ontology and it gives us our politics|The cyborg is our ontology and our politics]] — because "we are all chimeras, theorized and fabricated hybrids of machine and organism," the cyborg is not optional metaphor but our actual condition, and a politics follows from it.
+- [[The Informatics of Domination|The world has shifted from organic domination to the informatics of domination]] — a periodizing claim: "a movement from an organic, industrial society to a polymorphous, information system," comparable in scope to the rise of industrial capitalism.
+- [[Donna Haraway and Michel Foucault|The cyborg is not subject to biopolitics; it simulates politics]] — the pointed displacement of Foucault; cyborg politics operate on "boundary conditions and interfaces, on rates of flow across boundaries—and not on the integrity of natural objects."
+- [[There is no natural basis for the unity of women|Political unity must be built through affinity not natural identity]] — since "there is nothing about being 'female' that naturally binds women," effective unity is "an achievement, not a natural fact" (see [[Affinity Not Identity]]).
+- [[Fractured Identities|Totalizing feminisms leave no structural room for race]] — both Marxist/socialist-feminism (grounded in labor) and MacKinnon's radical feminism (grounded in sexual appropriation) demand the status of a totality and append "race, by addition."
+- [[The Refusal of Innocence|Cyborg politics refuses innocence and organic wholeness]] — "we do not want any more natural matrix of unity and that no construction is whole."
 - [[The homework economy is made possible by not caused by the new technologies]] — her careful refusal of technological determinism.
 
 ## Characteristic Metaphors
@@ -76,8 +76,8 @@ Haraway writes to build "an ironic political myth faithful to feminism, socialis
 
 - [[Material vs Immaterial]] — the originating feminist-cyborg articulation of the vault-wide tension: the cyborg as "a condensed image of both imagination and material reality," set against machines that are "nothing but signals" and people who are "both material and opaque"; bodies "textualized... as code problems on the grid of C3I."
 - [[Cyborg vs Goddess]] — the manifesto's defining opposition: technological/ironic/partial cyborg vs organic/holistic/reproductive goddess. "Both are bound in the spiral dance," but Haraway chooses the cyborg.
-- [[Identity vs Affinity]] — essentialist natural identity vs constructed coalitional affinity.
-- [[Totality vs Partiality]] — the persistent value of the partial, contradictory, "permanently unclosed" against the totalizing whole: "We do not need a totality in order to work well."
+- [[Affinity Not Identity|Identity vs Affinity]] — essentialist natural identity vs constructed coalitional affinity.
+- [[The Refusal of Innocence|Totality vs Partiality]] — the persistent value of the partial, contradictory, "permanently unclosed" against the totalizing whole: "We do not need a totality in order to work well."
 - [[Regeneration vs Rebirth]] — reconstitution after injury (monstrous, partial, potent) vs the reproductive matrix's demand for return to wholeness.
 
 Haraway's cyborg is the originating source for the vault's [[The Cyborg]], grounds the [[Posthumanism|posthumanist]] dissolution of "all the signs of Man," and supplies an early, explicitly feminist-critical statement of [[The Body as Data|the body as data]] ("a high-tech view of the body as a biotic component or cybernetic communications system") and of the [[The Liberal Humanist Subject|liberal humanist subject]]'s undoing ("In the 'Western' sense, the end of man is at stake").
@@ -93,7 +93,7 @@ Relevant passage:
 
 > A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction.
 
-Supports: The canonical definition of the cyborg — the primary source for the vault's [[The Cyborg]] note and for [[The cyborg is our ontology and our politics]].
+Supports: The canonical definition of the cyborg — the primary source for the vault's [[The Cyborg]] note and for [[The cyborg is our ontology and it gives us our politics]].
 Confidence: Directly stated
 
 ### Source 2
@@ -141,7 +141,7 @@ Relevant passage:
 
 > Michel Foucault’s biopolitics is a flaccid premonition of cyborg politics, a very open field.
 
-Supports: Her disagreement with [[Michel Foucault]]; the spine of [[The cyborg is not subject to biopolitics it simulates politics]].
+Supports: Her disagreement with [[Michel Foucault]]; the spine of the reference [[Donna Haraway and Michel Foucault]] (the cyborg "simulates politics").
 Confidence: Directly stated
 
 ### Source 6
@@ -153,7 +153,7 @@ Relevant passage:
 
 > But there has also been a growing recognition of another response through coalition—affinity, not identity.
 
-Supports: The concept [[Affinity Not Identity]] and the argument [[Political unity must be built through affinity not natural identity]].
+Supports: The concept [[Affinity Not Identity]] and the argument [[There is no natural basis for the unity of women]].
 Confidence: Directly stated
 
 ### Source 7
@@ -189,7 +189,7 @@ Relevant passage:
 
 > Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange.
 
-Supports: The concept [[The World as a Problem of Coding]] and the argument [[The world has shifted from organic domination to the informatics of domination]].
+Supports: The concept [[The World as a Problem of Coding]] and the argument [[The world is being translated into a problem of coding]].
 Confidence: Directly stated
 
 ### Source 10
@@ -201,7 +201,7 @@ Relevant passage:
 
 > The cyborg is not subject to Foucault’s biopolitics; the cyborg simulates politics, a much more potent field of operations.
 
-Supports: The argument [[The cyborg is not subject to biopolitics it simulates politics]] and the disagreement with [[Michel Foucault]].
+Supports: The reference [[Donna Haraway and Michel Foucault]] (the cyborg's supersession of biopolitics) and the disagreement with [[Michel Foucault]].
 Confidence: Directly stated
 
 ### Source 11

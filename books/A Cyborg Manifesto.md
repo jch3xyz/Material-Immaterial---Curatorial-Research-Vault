@@ -44,7 +44,7 @@ For this vault, the manifesto is the keystone source that several notes had grou
 - [[The Cyborg]] — the cybernetic organism as ironic, blasphemous, postgender political myth (Haraway is the originating source; the existing note gains a primary Haraway author-section)
 - [[The Informatics of Domination]] — the historic shift from organic hierarchical dualisms to coded command-control-communication networks (Haraway's coinage; the source of Hayles's "informatics")
 - [[The World as a Problem of Coding]] — the common move by which communications sciences and modern biologies dissolve all heterogeneity into instrumental, translatable code
-- [[The Three Breached Boundaries]] — human/animal, organism/machine, physical/nonphysical: the boundary breakdowns that make cyborg analysis possible
+- [[The Breached Boundaries]] — human/animal, organism/machine, physical/nonphysical: the boundary breakdowns that make cyborg analysis possible
 - [[The Homework Economy]] — the worldwide restructuring of work as "literally female and feminized" (term from Richard Gordon, enlarged by Haraway)
 - [[Women in the Integrated Circuit]] — women's dispersed, networked, surveilled positions in computerized multinational capitalism; "no 'place'... only geometries of difference and contradiction"
 - [[Fractured Identities]] — gender, race, and class as contradictory, partial, historically constituted, incapable of grounding essential unity
@@ -56,33 +56,19 @@ For this vault, the manifesto is the keystone source that several notes had grou
 
 ## Major Arguments
 
-- [[The cyborg is our ontology and our politics]]
-- [[Take pleasure in the confusion of boundaries and responsibility in their construction]]
-- [[A cyborg world must be seen from both domination and possibility at once]]
-- [[Foucault's biopolitics is a flaccid premonition of cyborg politics]]
-- [[The cyborg has no origin story and refuses the myth of original unity]]
-- [[There is nothing natural that binds women into a unity]]
-- [[Political unity must be built through affinity not natural identity]]
-- [[Totalizing feminisms leave no structural room for race]]
-- [[MacKinnon's radical feminism constructs woman as a nonbeing]]
-- [[The world has shifted from organic domination to the informatics of domination]]
-- [[Communications sciences and biology translate the world into a problem of coding]]
-- [[The homework economy is made possible by not caused by the new technologies]]
-- [[The new communications technologies eradicate public life and militarize imagination]]
-- [[Socialist-feminist politics must intervene in the production of science and technology]]
-- [[Cyborg writing is seizing the tools that marked you as other]]
-- [[Cyborg politics reject perfect communication and embrace noise and pollution]]
-- [[Feminist politics must refuse the ground of innocence and victimization]]
-- [[The machine is us not an other to dominate]]
-- [[We require regeneration not rebirth]]
-- [[Feminist politics needs no totality partiality is its strength]]
+- [[The cyborg is our ontology and it gives us our politics]] — "we are all chimeras, theorized and fabricated hybrids of machine and organism"; the cyborg is not optional metaphor but our condition, and a politics follows from it.
+- [[Take pleasure in the confusion of boundaries and responsibility for their construction]] — the manifesto's double imperative: pleasure in the confusion of boundaries, responsibility in their construction.
+- [[The cyborg has no origin story in the Western sense]] — it skips the myth of original unity, "would not recognize the Garden of Eden," and is "completely without innocence" (grounds the refused-origin-myths and Frankenstein/Eden material).
+- [[There is no natural basis for the unity of women]] — gender, race, and class are fractured and contradictory; unity is "an achievement, not a natural fact" (carries the affinity-not-identity claim and the MacKinnon / totalizing-feminism critique).
+- [[The world is being translated into a problem of coding]] — communications sciences and biologies recode all heterogeneity into instrumental, exchangeable information; the move that constitutes the informatics of domination.
+- [[The homework economy is made possible by not caused by the new technologies]] — her careful refusal of technological determinism.
+- [[The machine is us an aspect of our embodiment]] — "the machine is us, our processes, an aspect of our embodiment"; we are responsible for boundaries, and we are they.
 
 ## Important Definitions
 
 - [[Cyborg (Haraway)]] — "A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction" (ch.01)
 - [[The Informatics of Domination (Haraway)]] — the shift from "the comfortable old hierarchical dominations" of white capitalist patriarchy to coded, networked command-control-communication (ch.03)
-- [[The Homework Economy (Haraway)]] — work restructured to "the characteristics formerly ascribed to female jobs," integrating factory, home, and market "on a new scale" (term from Gordon; ch.04)
-- [[Women in the Integrated Circuit (Haraway)]] — women's dispersed contradictory positions across seven mutually-implied social loci, defined by the absence of a unitary "place" (ch.05)
+- [[The Homework Economy (Haraway after Gordon)]] — work restructured to "the characteristics formerly ascribed to female jobs," integrating factory, home, and market "on a new scale" (term from Gordon; ch.04)
 
 ## Key Metaphors
 
@@ -91,18 +77,14 @@ For this vault, the manifesto is the keystone source that several notes had grou
 
 ## Key Symbols
 
-- [[I Would Rather Be a Cyborg Than a Goddess]] — the manifesto's signature closing slogan: the ironic, blasphemous, partial cyborg chosen over the organicist Mother
-- [[The Goddess (Opposed)]] — the figure of organicist, holistic, feminist-pagan politics the cyborg slogan rejects
+- [[I Would Rather Be a Cyborg Than a Goddess]] — the manifesto's signature closing slogan: the ironic, blasphemous, partial cyborg chosen over the organicist Mother / Goddess of holistic, feminist-pagan politics
 - [[Blasphemy]] — the stance of the manifesto, "faithful as blasphemy is faithful"; "Blasphemy is not apostasy"
-- [[Refused Origin Myths]] — Frankenstein's monster and the Garden of Eden as the founding wholeness myths the cyborg refuses
-- [[C3I]] — command-control-communication-intelligence; the militarized emblem of the coded-control regime
+- [[C3I]] — command-control-communication-intelligence; the militarized emblem of the coded-control regime (the refused origin myths — Frankenstein's monster and the Garden of Eden — are treated under [[The Refusal of Innocence]])
 
 ## Major Tensions
 
 - [[Material vs Immaterial]] — the cyborg as "a condensed image of both imagination and material reality"; bodies dissolving into networked, telematic, surveilled flows (Haraway joins this multi-author tension)
-- [[Domination vs Possibility]] — the signature "double vision": a cyborg world as both "the final imposition of a grid of control" and the ground of unfeared kinship
-- [[Identity vs Affinity]] — essential/natural identity vs constructed coalitional affinity
-- [[Totality vs Partiality]] — the totalizing whole vs the partial, contradictory, "permanently unclosed"
+- [[Domination vs Possibility]] — the signature "double vision": a cyborg world as both "the final imposition of a grid of control" and the ground of unfeared kinship (carries the identity-vs-affinity and totality-vs-partiality oppositions, captured in [[Affinity Not Identity]] and [[The Refusal of Innocence]])
 - [[Cyborg vs Goddess]] — technological/ironic/partial/blasphemous vs organic/holistic/reproductive/pagan
 - [[Regeneration vs Rebirth]] — reconstitution after injury (monstrous, partial) vs the reproductive matrix's demand for flawless rebirth
 
@@ -116,7 +98,7 @@ For this vault, the manifesto is the keystone source that several notes had grou
 
 ## Suggested Reading Pathways
 
-- **The cyborg as figure (the keystone):** [[The Cyborg]] → [[Cyborg (Haraway)]] → [[The Three Breached Boundaries]] → [[I Would Rather Be a Cyborg Than a Goddess]] → [[Cyborg vs Goddess]]. Start here to see Haraway's own myth and how it grounds the vault's previously Hayles-anchored cyborg.
+- **The cyborg as figure (the keystone):** [[The Cyborg]] → [[Cyborg (Haraway)]] → [[The Breached Boundaries]] → [[I Would Rather Be a Cyborg Than a Goddess]] → [[Cyborg vs Goddess]]. Start here to see Haraway's own myth and how it grounds the vault's previously Hayles-anchored cyborg.
 - **The material/immaterial and surveillance thread:** [[Machines Made of Sunshine]] → [[The Informatics of Domination]] → [[The World as a Problem of Coding]] → [[C3I]] → [[Women in the Integrated Circuit]] → [[Material vs Immaterial]]. The 1985 anticipation of [[Byung-Chul Han]]'s [[Digital Panopticon]] and [[Yuval Noah Harari]]'s [[Dataism]].
 - **The politics of identity and writing:** [[Fractured Identities]] → [[Affinity Not Identity]] → [[Women of Color as a Cyborg Identity]] → [[The Refusal of Innocence]] → [[Cyborg Writing]] → [[Regeneration vs Rebirth]]. The anti-essentialist, anti-wholeness political argument, end to end.
 
