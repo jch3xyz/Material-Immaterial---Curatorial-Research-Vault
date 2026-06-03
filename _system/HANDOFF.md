@@ -33,13 +33,15 @@ page is the operating manual.
 
 1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
-   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 15 remain. NOTE: the corpus
-   is now **23 books** — on 2026-06-02 the user intentionally removed 4 books (Acemoglu & Johnson–Power and
-   Progress, Harari–Nexus, Shiner–The Invention of Art, Turner–From Counterculture to Cyberculture) from
-   `raw/` and the plan; do not treat those as pending ingests.)
+   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 8 remain. NOTE: the corpus
+   is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user intentionally removed 11
+   books from the plan (see `source_inventory.md` → Removed from corpus: Acemoglu, Harari–Nexus, Shiner,
+   Turner, Kurzweil–*Age of Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop);
+   do not treat any of those as pending ingests. The 8 remaining: Ascott, Benjamin, Burnham, Debord, Meadows,
+   Han–*Burnout Society*, McLuhan, Zuboff.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
-   (e.g. Han's *Burnout Society*, Kurzweil's *Age of Spiritual Machines*) extends the
+   (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
    existing author note rather than overwriting it. Pass a strong `updateHints` listing the existing
    notes to merge into. When splitting a book into halves (below), pass Half 2 the exact list of notes
    Half 1 created so its planner extends them instead of duplicating.
@@ -47,8 +49,8 @@ page is the operating manual.
    chapters (≳ 800 lines), **split the ingest into halves of ≤ ~6 chapters each** and run them
    SEQUENTIALLY (not parallel — they share the book/author note). A single oversized pass makes the
    synthesis planner overflow and return an EMPTY plan (`CREATE 0`), and the index agent then pollutes
-   the maps with links to phantom notes. The other big books (McLuhan 38 ch, Zuboff,
-   Soni&Goodman 37 ch, Ascott 39 ch, the Kurzweil/Waldrop bios) should be split up front.
+   the maps with links to phantom notes. The other big books still in the corpus (McLuhan 38 ch, Zuboff,
+   Ascott 39 ch) should be split up front.
    **VERIFY-ON-DISK + COMMIT EACH PHASE (learned the hard way):** the workflow's reported `created: N`
    is OPTIMISTIC — content-heavy agents (sources, references, arguments, author-note extensions)
    sometimes return a path WITHOUT the Write landing. After each run, parse its `create_plan`/`update_plan`

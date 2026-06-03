@@ -8,7 +8,7 @@ last_updated: 2026-06-02
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 23 books** (was 27). On 2026-06-02 the user intentionally removed 4 books from `raw/` and the corpus — see **Removed from corpus** below. Separately, several listed books are part of the plan but their `raw/` files are not in the repo yet (currently 16 book folders are present on disk); the table is the intended corpus, not a literal disk snapshot.
+> **Corpus size: 16 books** (was 27). On 2026-06-02 the user intentionally removed 11 books — see **Removed from corpus** below. The inventory now matches the disk exactly: all 16 books are present in `raw/`. Of the 16, **8 are ingested** and 8 remain.
 
 ## Books in `raw/`
 
@@ -25,29 +25,34 @@ The book corpus for the vault. Each book lives in its own folder under `raw/` an
 | 9   | `Harari - Homo Deus`                           | 17    | Yuval Noah Harari   | chapters                       |
 | 10  | `Haraway - A Cyborg Manifesto`                 | 9     | Donna Haraway       | essay sections                 |
 | 11  | `Hayles - How We Became Posthuman`             | 15    | N. Katherine Hayles | chapters                       |
-| 12  | `Kurzweil - The Age of Spiritual Machines`     | 25    | Ray Kurzweil        | chapters                       |
-| 13  | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | chapters                       |
-| 14  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | sections                       |
-| 15  | `Marcuse - Eros and Civilization`              | 18    | Herbert Marcuse     | chapters                       |
-| 16  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | many short chapters            |
-| 17  | `Norman - The Design of Everyday Things`       | 15    | Don Norman          | chapters                       |
-| 18  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | chapters                       |
-| 19  | `Price - Dispersion`                           | 2     | Seth Price          | short essay                    |
-| 20  | `Soni & Goodman - A Mind at Play`              | 37    | Soni & Goodman      | chapters (Shannon biography)   |
-| 21  | `Vierkant - The Image Object Post-Internet`    | 4     | Artie Vierkant      | short manifesto                |
-| 22  | `Waldrop - The Dream Machine`                  | 16    | M. Mitchell Waldrop | chapters (Licklider biography) |
-| 23  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | chapters                       |
+| 12  | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | chapters                       |
+| 13  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | sections                       |
+| 14  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | many short chapters            |
+| 15  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | chapters                       |
+| 16  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | chapters                       |
 
-Total: 23 books, 407 raw markdown files (planned). Of these, 8 are ingested (see `log.md`) and 16 book folders are currently present on disk.
+Total: 16 books, 292 raw markdown files (matches disk). 8 ingested (see `log.md`); 8 remain.
 
 ## Removed from corpus
 
-Intentionally deleted by the user on 2026-06-02 (removed from `raw/` and committed; were previously tracked in git, recoverable from history if ever needed):
+All 11 intentionally removed by the user on 2026-06-02. Four had `raw/` files tracked in git (deleted via `git rm` and committed — recoverable from history); seven were plan entries whose `raw/` files were never in the repo.
+
+Tracked-and-deleted (4):
 
 - `Acemoglu & Johnson - Power and Progress` (Daron Acemoglu & Simon Johnson)
 - `Harari - Nexus` (Yuval Noah Harari)
 - `Shiner - The Invention of Art` (Larry Shiner)
 - `Turner - From Counterculture to Cyberculture` (Fred Turner)
+
+Plan-only, also dropped (7):
+
+- `Kurzweil - The Age of Spiritual Machines` (Ray Kurzweil)
+- `Marcuse - Eros and Civilization` (Herbert Marcuse)
+- `Norman - The Design of Everyday Things` (Don Norman)
+- `Price - Dispersion` (Seth Price)
+- `Soni & Goodman - A Mind at Play` (Jimmy Soni & Rob Goodman)
+- `Vierkant - The Image Object Post-Internet` (Artie Vierkant)
+- `Waldrop - The Dream Machine` (M. Mitchell Waldrop)
 
 ## Standard Non-Substantive Files (skipped by default)
 
@@ -70,16 +75,10 @@ These files typically appear in each book folder and are skipped by analysis unl
 - **Yuval Noah Harari** — Homo Deus
 - **Donna Haraway** — A Cyborg Manifesto
 - **N. Katherine Hayles** — How We Became Posthuman
-- **Ray Kurzweil** — The Age of Spiritual Machines, The Singularity Is Near
+- **Ray Kurzweil** — The Singularity Is Near
 - **Lucy Lippard** — Six Years
-- **Herbert Marcuse** — Eros and Civilization
 - **Marshall McLuhan** — Understanding Media
-- **Don Norman** — The Design of Everyday Things
 - **Meghan O'Gieblyn** — God Human Animal Machine
-- **Seth Price** — Dispersion
-- **Jimmy Soni & Rob Goodman** — A Mind at Play
-- **Artie Vierkant** — The Image Object Post-Internet
-- **M. Mitchell Waldrop** — The Dream Machine
 - **Shoshana Zuboff** — The Age of Surveillance Capitalism
 
 ## Prototype Book (Phase 3)
