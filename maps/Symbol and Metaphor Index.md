@@ -36,6 +36,10 @@ All symbol and metaphor notes.
 - [[The Gun in Act I]] — Chekhov's law framing the book's self-undermining: humanism's logic loaded in the first act fires in the last (Harari)
 - [[Retiring the Horses]] — human obsolescence under Dataism, as cars retired horses from the economy (Harari)
 - [[The Private CIA and State Department]] — the confabulating narrating self that spins a coherent story from incoherent experience (Harari)
+- [[Technology as Magic]] — Clarke's third law + incantations-as-algorithms; the anti-disenchantment figure ('technology does not lose its transcendent power when its secrets are revealed') (Kurzweil)
+- [[Version 1.0 Biological Bodies]] — the body as obsolescent hardware; the counter-figure to Hayles's 'data made flesh' (Kurzweil)
+- [[How Smart Is a Rock]] — a kilogram of matter already computes ~10^42 cps; intelligence as the purposeful organization of computation matter already does (Kurzweil)
+- [[The Lily Pads on the Lake]] — the parable of exponential onset: the last seven doublings cover the whole lake (Kurzweil)
 
 ## Symbols
 
@@ -52,3 +56,4 @@ All symbol and metaphor notes.
 - [[The Hi-Tech Ark]] — climate inaction as a class gamble: the elite trusting technology to save them while the masses drown (Harari)
 - [[The Gestation Crate]] — industrial farming as the test of humanist ethics; the sow's suffering as the measure of the modern covenant (Harari)
 - [[Aaron Swartz, Dataism's First Martyr]] — the open-access activist as the symbol of the freedom-of-information creed (Harari)
+- [[The Ultimate Laptop]] — Lloyd's physical maximum for a 1 kg computer (~5 x 10^50 ops/sec); the symbol of computation's vast physical runway (Kurzweil)

@@ -9,6 +9,7 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Lucy Lippard]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Ray Kurzweil]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -23,6 +24,9 @@ sources:
   - "[[raw/Lippard - Six Years/11 Postface]]"
   - "[[raw/Harari - Homo Deus/04 The Human Spark]]"
   - "[[raw/Harari - Homo Deus/07 The Odd Couple]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -43,6 +47,8 @@ Three authors meet on this axis from different disciplines, and the word "immate
 Han carries a *second* sense of "immaterial" into the vault from *[[Psychopolitics]]*, and it must be kept distinct from the three above. There the immaterial is not an ideology of disembodiment (Hayles) or a leveling regime of transparency (the earlier Han) but a *mode of production* — the autonomist-Marxist thesis (Marx, Negri, Gorz) that under neoliberalism "immaterial and non-physical forms of production are what determine the course of capitalism," so that information, programs, emotion, and "the integral person" supersede the material body as the force of production. This sense is developed in its own concept note, [[Immaterial Labour]], and treated in the section below; it is *cross-linked rather than merged* with Hayles's disembodiment and Lippard's dematerialization, because its claim is economic (what is produced, and by which faculty of the worker) rather than ontological or art-historical.
 
 **[[Yuval Noah Harari]]** brings a *fifth* sense, and it runs the axis in the opposite direction from the other four. Where Hayles, Lippard, and the two Hans all work to deny the immaterial pole its claimed autonomy — to show that information, the art object, and immaterial production never escape their material substrate — Harari traces the immaterial pole *gaining* power over the material. His "immaterial" is the [[Intersubjective Reality]]: the fictions (gods, nations, money, corporations) that "exist purely in their common imagination" yet, armed with computers and bioengineering, increasingly "reshape reality to match their pet fictions." His axis-defining forecast is that "the intersubjective reality will swallow up the objective reality and biology will merge with history" — the immaterial story rewriting the material genome rather than (as in the other authors) being unmasked by it. This sense is treated in its own section below and *cross-linked, not merged*: Harari's immaterial is neither Shannon-Wiener pattern nor dematerialized object nor mode of production, but the *fiction* — and his is the vault's one source on this axis to read the immaterial as ascendant rather than parasitic.
+
+**[[Ray Kurzweil]]** supplies a *sixth* sense and, with it, the axis's purest *affirmative* immaterialist pole — the one position in the vault that simply *endorses* the hierarchy the others contest. Where Hayles/Lippard/Han deny the immaterial its autonomy and Harari reads the immaterial fiction as *swallowing* the material, Kurzweil ranks the immaterial above the material as a flat metaphysical thesis: "information rather than matter and energy may be regarded as the more fundamental reality." His "immaterial" is the *pattern* — the [[Patternism|patternist]] "views patterns of information as the fundamental reality," and the matter that instantiates them (the atoms of the brain, the body, the rock) is transient and, in itself, "for the most part effectively random." What counts is not the substrate but the [[Order as Information That Fits a Purpose|order]] the pattern carries. This is the inverse of Hayles's [[The Materiality of Informatics|materiality of informatics]]: where she re-embeds information in its medium, Kurzweil declares the medium replaceable and the pattern primary — "we will be able to port our mental processes to a more suitable computational substrate." Yet his own [[The Computational Universe|computational]] argument carries a strong counter-current that anchors the pattern firmly to physics, treated in the section below; this sense is therefore *cross-linked, not merged* with the four-author core, supplying the affirmative pole against which their denials are framed.
 
 The titular axis of this vault. It is the most general form of an opposition that recurs under more specific names throughout the collection — [[Embodiment vs Information]], [[Presence Absence vs Pattern Randomness]], body versus pattern, presence versus circulation. Where those tensions stage a particular contest, *material vs immaterial* names the underlying hierarchy itself: the cultural conviction, in [[N. Katherine Hayles]]'s words, "that information is in some sense more essential, more important, and more fundamental than materiality." Both authors ingested here work to deny that hierarchy its self-evidence — Hayles by re-embodying information in [[The Materiality of Informatics]], Han by diagnosing the "smooth streams of capital, communication, and information" as a regime that levels matter, language, and the body into frictionless circulation.
 
@@ -92,8 +98,18 @@ The load-bearing forecast is Harari's, and it is the verbatim hinge of this sect
 
 The convergence with the other authors is structural and, in one figure, near-verbatim. *The Odd Couple* recovers the ancient dualist picture that *is* the material/immaterial hierarchy at its starkest — Hayles's [[Disembodied Information as the Soul]] in its original theological dress: the dualists held that "the good god created pure and everlasting souls that lived in a wonderful world of spirit" while the bad god "created another world, made of matter," in which "everything rots and disintegrates," so that "what humans are" is "a good spiritual soul trapped inside an evil material body." Harari recounts this not to affirm it but to historicize the very ranking of immaterial-soul over material-body that Hayles spends a book contesting and that Han reads as the dream of frictionless circulation. Yet Harari's own verdict diverges from theirs at the decisive point. Where Hayles re-embeds information in its medium and Han reintroduces the negative, Harari grants the immaterial fiction *real ascendancy over* the material rather than dependence on it — biology will merge with history because the story now writes the genome. He is therefore cross-linked to, not merged with, the four-author core: his "immaterial" shares the others' refusal to treat fiction as merely epiphenomenal, but inverts their conclusion, reading the intersubjective fiction as the term that *swallows* objective reality rather than the term that secretly leans on it. The structural-parallel claim (Harari's swallowing as the mirror-image of Hayles/Han's unmasking) is `Interpretive synthesis`; the link to [[Can It Suffer (The Reality Test)]] marks the stakes Harari himself draws from the swallowing — that the "real sentient beings" of [[Industrial Farming]] are sacrificed to "fictional entities such as gods and nations." `Speculative connection` for that cross-link to the welfare argument; the swallowing forecast itself is `Directly stated`. See also the dedicated [[Objective vs Subjective vs Intersubjective]] tension, where Harari's three-tier ontology is treated in full.
 
+## Information as the More Fundamental Reality (Kurzweil)
+
+[[Ray Kurzweil]]'s *[[The Singularity Is Near]]* gives this axis its one unambiguously *affirmative* immaterialist voice. Every other source ingested here works to deny the immaterial pole its claimed priority; Kurzweil asserts that priority as a metaphysical thesis. Commenting in "A Theory of Technology Evolution" on Ed Fredkin's demonstration that "we can arbitrarily reduce the energy required to perform any particular example of information processing," Kurzweil draws the ranking out plainly: "That implies that information rather than matter and energy may be regarded as the more fundamental reality." This is the precise inversion of Hayles's [[The Materiality of Informatics|materiality of informatics]]. Where Hayles insists "for information to exist, it must always be instantiated in a medium" and that the information/matter split is "a prior imaginary act," Kurzweil treats the medium as contingent and the pattern as primary — the immaterial ranked *above* the material rather than re-grounded in it. The self-description he gives in the Prologue makes the commitment personal and ontological: "I describe myself as a 'patternist,' someone who views patterns of information as the fundamental reality. For example, the particles composing my brain and body change within weeks, but there is a continuity to the patterns that these particles make." Matter is the transient carrier; the pattern is what one *is*. (See the dedicated [[Patternism]] concept, where this identity thesis is treated in full.) `Directly stated`.
+
+The figure that carries the demotion of matter is the rock, and it doubles as Kurzweil's clearest statement of the axis. In "[[How Smart Is a Rock]]" he grants that an ordinary kilogram of stone is computationally vast — "the approximately 1025 (ten trillion trillion) atoms in a kilogram of matter are actually extremely active," representing "at least 1027 bits of memory" and "about 1042 (a million trillion trillion trillion) calculations per second." Yet the rock "is not performing any useful work aside from perhaps acting as a paperweight or a decoration," because "the structure of the atoms in the rock is for the most part effectively random." What the rock *lacks* is not matter or even raw information — it has those in superabundance — but [[Order as Information That Fits a Purpose|order]]: "Order is information that fits a purpose." This is the affirmative immaterialist move at its sharpest: the material substrate (the rock) is demoted to a transient, unorganized carrier, and the immaterial pattern — "if, on the other hand, we organize the particles in a more purposeful manner" — is what raises a heap of atoms to a "computer" or a mind. The same logic underwrites Kurzweil's program for the body: "Ultimately, we will be able to port our mental processes to a more suitable computational substrate. Then our minds won't have to stay so small." The body, like the rock, is a substrate the pattern can in principle leave behind — the exact fantasy [[The Body as Data]] presupposes and Hayles's [[Embodiment]] counter-program resists. `Directly stated`.
+
+But Kurzweil's own argument carries a counter-current that pulls the immaterial pattern back into the material substrate, and it is the reason his position is *cross-linked, not merged* with the affirmative pole rather than left to float free of it. The [[The Computational Universe|computation]] he ranks above matter is, on his own showing, fully a *function* of matter and energy. In "[[The Ultimate Laptop]]" the bound on how much a kilogram can compute is set by physics, not pattern: "there is a direct proportional relationship between the energy of an object and its potential to perform computation. The potential energy in a kilogram of matter is very large, as we know from Einstein's equation E = mc2," and "the potential of matter to compute is also governed by a very small number, Planck's constant: 6.6 × 10-34 joule-seconds ... This is the smallest scale at which we can apply energy for computation." The pattern's ceiling is the substrate's mass-energy divided by Planck's constant — the immaterial is licensed by the material it claims to transcend. Read against the four-author core, this is the concession that brings Kurzweil back within earshot of Hayles: the patternist who declares matter "less fundamental" than information must, two chapters on, derive the very capacity of information-processing from E=mc² and Planck's constant. The metaphysical ranking is `Directly stated`; the observation that his Ch. 3 physics undercuts the Ch. 2 ranking — that the immaterial pattern is bounded by, and so a function of, its material substrate — is `Interpretive synthesis` (see Sources below). His remains the vault's affirmative immaterialist pole, but it is an affirmation that, on its own terms, never quite clears the substrate it ranks beneath the pattern.
+
 ## Related Concepts
 
+- [[Patternism]] — Kurzweil's *[[The Singularity Is Near]]* name for the affirmative immaterialist thesis: "patterns of information" are "the fundamental reality," and the matter instantiating them (brain, body, rock) is a transient, replaceable carrier. The vault's one source that *endorses* the material/immaterial hierarchy the others contest.
+- [[Order as Information That Fits a Purpose]] — Kurzweil's criterion for what raises a substrate above the rock: not matter, not raw information, but order — "information that fits a purpose." The hinge of his rock figure and of the demotion of matter to an unorganized carrier.
 - [[Intersubjective Reality]] — Harari's *[[Homo Deus]]* name for the immaterial pole: shared fictions (gods, nations, money) that exist "purely in their common imagination" yet, via computers and bioengineering, come to "swallow up the objective reality." The vault's one source reading the immaterial as ascendant over the material rather than parasitic on it.
 - [[Immaterial Labour]] — Han's *[[Psychopolitics]]* name for the new mode of production: immaterial, non-physical forms (information, programs, emotion, the integral person) supersede the body as the force of production. The autonomist-Marxist (Marx/Negri/Gorz) sense of the axis, distinct from Hayles's disembodiment and Lippard's dematerialization.
 - [[The Materiality of Informatics]] — Hayles's specific name for her intervention in this axis: the claim that the "immaterial" pole is produced by and crossed with the material pole.
@@ -332,3 +348,58 @@ Relevant passage:
 > That’s what humans are – a good spiritual soul trapped inside an evil material body.
 
 Supports: Harari's recounting of the dualist hierarchy that *is* the material/immaterial axis at its starkest — immaterial-soul ranked over material-body, the original theological dress of Hayles's disembodied-information-as-soul. Harari historicizes the ranking rather than affirming it. Grounds the cross-author parallel to [[Disembodied Information as the Soul]]. Label: `Directly stated` (for the verbatim dualist doctrine as Harari reports it); the cross-author parallel is `Interpretive synthesis`.
+
+### Source 21
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> Fredkin went on to show that although energy is needed for information storage and retrieval, we can arbitrarily reduce the energy required to perform any particular example of information processing. and that this operation has no lower limit. That implies that information rather than matter and energy may be regarded as the more fundamental reality.
+
+Supports: The vault's purest *affirmative* statement of the material/immaterial hierarchy — information ranked above matter and energy as "the more fundamental reality." The exact inversion of Hayles's materiality-of-informatics and the keystone of Kurzweil's section. Label: `Directly stated`.
+
+### Source 22
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]
+Relevant passage:
+
+> In chapter 7, I describe myself as a “patternist,” someone who views patterns of information as the fundamental reality. For example, the particles composing my brain and body change within weeks, but there is a continuity to the patterns that these particles make.
+
+Supports: Kurzweil's patternist self-description — the immaterial pattern, not the transient material particles, is "the fundamental reality" and the locus of personal continuity. Grounds the identity thesis and the [[Patternism]] cross-link. Label: `Directly stated`.
+
+### Source 23
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Of course, despite all this activity at the atomic level, the rock is not performing any useful work aside from perhaps acting as a paperweight or a decoration. The reason for this is that the structure of the atoms in the rock is for the most part effectively random. If, on the other hand, we organize the particles in a more purposeful manner, we could have a cool, zero-energy-consuming computer with a memory of about a thousand trillion trillion bits and a processing capacity of 1042 operations per second, which is about ten trillion times more powerful than all human brains on Earth, even if we use the most conservative (highest) estimate of 1019 cps.
+
+Supports: The "[[How Smart Is a Rock]]" figure — the material substrate (the rock) is computationally vast but unorganized and "for the most part effectively random"; what counts is the *order* of the pattern, not the matter. Demotes matter to a transient carrier and grounds the affirmative immaterialist reading. Label: `Directly stated`.
+
+### Source 24
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Ultimately, we will be able to port our mental processes to a more suitable computational substrate. Then our minds won’t have to stay so small.
+
+Supports: The substrate-replaceability thesis applied to the mind/body — the pattern can in principle be ported off its biological carrier, the exact fantasy [[The Body as Data]] presupposes and Hayles's [[Embodiment]] resists. Label: `Directly stated`.
+
+### Source 25
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> So there is a direct proportional relationship between the energy of an object and its potential to perform computation. The potential energy in a kilogram of matter is very large, as we know from Einstein’s equation E = mc2, The speed of light squared is a very large number: approximately 10 17 meter2/second2. The potential of matter to compute is also governed by a very small number, Planck’s constant: 6.6 × 10-34 joule-seconds (a joule is a measure of energy). This is the smallest scale at which we can apply energy for computation.
+
+Supports: The Ch. 3 counter-current that anchors the immaterial pattern to physics — computational capacity (the "[[The Ultimate Laptop]]" limit) is bounded by E=mc² and Planck's constant, so the pattern Kurzweil ranks above matter is on his own showing a *function* of its material substrate. Label: `Directly stated` (for the physics); the observation that this undercuts the Ch. 2 ranking is `Interpretive synthesis`.

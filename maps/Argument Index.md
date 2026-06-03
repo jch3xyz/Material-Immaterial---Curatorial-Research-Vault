@@ -77,6 +77,11 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Science strengthens myths rather than replacing them with facts]] — Harari against the secularization narrative: religion and science collaborate
 - [[The self is an imaginary story like nations gods and money]] — the self bound to the order of intersubjective fictions
 
+### Ray Kurzweil — The Singularity Is Near
+
+- [[We are not our bodies but a pattern of information that persists through material turnover]] — Kurzweil's patternism in his own first-person voice; the load-bearing find, the affirmative inverse of Hayles's embodiment
+- [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil's answer to the continuity-of-identity objection ('no old Ray and new Ray')
+
 ## By Theme
 
 ### On transparency and visibility
@@ -98,6 +103,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[The computer metaphor reintroduces the disembodied soul it was built to abolish]] — mind-as-software is structurally Cartesian dualism (O'Gieblyn)
 - [[Information is a third substance that evades rather than solves the mind-body problem]] — the abstraction invented to avoid essence used to fill materialism's gap (O'Gieblyn)
 - [[The mind-uploading problem is the resurrection problem in technical dress]] — disembodied pattern read theologically (O'Gieblyn)
+- [[We are not our bodies but a pattern of information that persists through material turnover]] — patternism in the proponent's own voice; the affirmative pole Hayles and O'Gieblyn write against (Kurzweil)
 
 ### On the posthuman and the subject
 
@@ -111,6 +117,8 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[The self is an imaginary story like nations gods and money]] — the indivisible liberal self dissolved into an intersubjective fiction (Harari)
 - [[Fulfilling humanism will destroy it by making humans irrelevant]] — humanism's success undermines the human subject it enthrones (Harari)
 - [[Technology not philosophy will break liberalism]] — biotech and AI, not argument, dissolve liberal individualism (Harari)
+- [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil dissolves the continuity-of-identity objection by making the merger imperceptible (Kurzweil)
+- [[We are not our bodies but a pattern of information that persists through material turnover]] — the self as substrate-independent pattern; the proponent's celebratory pole (Kurzweil)
 
 ### On desire and control
 

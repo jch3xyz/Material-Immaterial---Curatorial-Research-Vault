@@ -81,12 +81,16 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Liberal Humanism (Harari)]] — Harari: the orthodox humanist sect that defeated its rivals 1914–1989
 - [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
 - [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
+- [[Nanobots]] — blood-cell-sized robots that scan the brain from inside its capillaries; the route to upload-grade detail (Kurzweil)
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation; narration vs additive data
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; constitutive of life and resistance
+- [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
 - [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
 - [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
+- [[Order as Information That Fits a Purpose]] — Kurzweil's metaphysical hinge: order (not mere complexity) is what evolution increases; the ground of LOAR and patternism
 - [[Organisms Are Algorithms]] — Harari's keystone biological thesis; cross-links Patternism, Algorithmic Determinism, and The Body as Data
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
+- [[Paradigm Shift and the S-Curve]] — the shape of accelerating change: each paradigm an S-curve, the overall exponential a cascade of S-curves (Kurzweil)
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
 - [[Patternism]] — Kurzweil's doctrine of the self as a persisting, substrate-independent pattern of information; immortalist inverse of Hayles's pattern/randomness
@@ -97,6 +101,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
 - [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
+- [[Reverse-Engineering the Human Brain]] — scanning, modeling, and re-instantiating the brain's 'software of intelligence' on faster substrates; the software complement to the hardware-capacity argument (Kurzweil)
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
@@ -108,6 +113,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Techno-Humanism]] — Harari: the conservative techno-religion that upgrades humans while keeping them the source of meaning; distinct from Transhumanism
 - [[Techno-Religion]] — Harari: salvation through technology and economics (the umbrella over Techno-Humanism and Dataism)
 - [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
+- [[Transcending Biology]] — Kurzweil's 'version 1.0' bodies premise and the immortality claim ('mortality will be in our own hands'); the strongest celebratory body-as-replaceable-hardware statement in the vault
 - [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
 - [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
 - [[The Body as Data]] — the body recoded as informational pattern ('data made flesh'; downloadable consciousness), the fantasy Hayles contests; the digital habitus as a likeness of the soul (Han)
@@ -116,6 +122,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate/catalogue as the material residue of the immaterial work; art-historical analogue of 'information must be instantiated in a medium'
 - [[The Event]] — the incalculable rupture that wrests the subject from subjection; Big Data's blind spot (Han)
 - [[The Hard Problem of Consciousness]] — Chalmers's problem of why physical processes are accompanied by subjective experience; 'quantities could not generate qualities'
+- [[The Law of Accelerating Returns]] — Kurzweil's master mechanism: evolution and technology grow double-exponentially; the engine of the Singularity, set as a deliberate CONTRAST to Han's [[Acceleration]] (do not merge)
 - [[The Liberal Humanist Subject]] — the autonomous, self-possessing Enlightenment subject the posthuman supersedes (Macpherson's possessive individualism)
 - [[The Materiality of Informatics]] — Hayles's counter-thesis that the immaterial realm of information is materially produced; the illusion of erasure as object of inquiry
 - [[The Measurement Problem]] — the quantum observer effect; the paradigm case where the perceiving subject cannot be eliminated
@@ -125,6 +132,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Project (Han)]] — the self as a free self-refashioning project that re-subjugates itself; freedom's collapse into compulsion
 - [[The Schizoid Android]] — Hayles's master figure in Dick: a signifier that enacts the split between human and not-human subject positions
 - [[The Simulation Hypothesis]] — Bostrom's universe-as-computer-program, read as a secularized argument from design
+- [[The Singularity]] — Kurzweil's title concept in his own voice: the future period when the merger of biological and nonbiological intelligence irreversibly transforms human life (dated 2045); the primary-source proponent's note, distinct from definitions/The Singularity (O'Gieblyn) and books/The Singularity Is Near
+- [[The Six Epochs]] — cosmic evolution as six paradigms of patterns of information, from Physics/Chemistry to 'the Universe Wakes Up'; the affirmative cosmology paralleling Harari's Dataism
 - [[The Three Waves of Cybernetics]] — homeostasis, reflexivity, virtuality/self-organization; seriated transitions, not Kuhnian ruptures
 - [[The Useless Class]] — Harari: the superfluous people produced by automation, economically and militarily redundant
 - [[Theatrum Mundi]] — the world-as-theater of masks and roles that the tyranny of intimacy dismantles (Han via Sennett)
@@ -154,6 +163,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Dataism]] — the data-positivist ideology that displaces matter and theory with the datum (Han)
 - [[Intersubjective Reality]] — money, gods, nations: the immaterial fictions more powerful than material things (Harari)
 - [[Freedom of Information]] — Dataism's supreme value, prizing flow over material substrate (Harari)
+- [[Transcending Biology]] — the 'version 1.0' body as obsolescent hardware; the strongest celebratory body-as-data statement in the vault (Kurzweil)
+- [[Order as Information That Fits a Purpose]] — order, not matter, as what evolution increases; the metaphysical ground of patternism (Kurzweil)
 
 ### Embodiment / Posthuman
 
@@ -173,6 +184,11 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Mind-Body Problem]] — immaterial mind and material body; the computer metaphor covertly re-inscribes it (O'Gieblyn)
 - [[The Hard Problem of Consciousness]] — why physical processes are accompanied by subjective experience (O'Gieblyn)
 - [[Disembodied Information as the Soul]] — disembodied information as 'the materialist's substitute for the soul' (O'Gieblyn reading Hayles)
+- [[Transcending Biology]] — the body as obsolescent 'version 1.0' hardware; the affirmative pole of the disembodiment debate (Kurzweil)
+- [[Reverse-Engineering the Human Brain]] — re-instantiating the brain's 'software of intelligence' on faster substrates (Kurzweil)
+- [[Mind Uploading]] — transferring a mind to a digital medium; Kurzweil's gradual-merger answer to the continuity problem
+- [[Nanobots]] — capillary-borne scanners providing the upload-grade detail (Kurzweil)
+- [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
 
 ### Systems / Cybernetics / Feedback
 
@@ -200,6 +216,20 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Computational Universe]] — the worldview in which everything processes information
 - [[Seriation]] — overlapping replication and innovation against paradigm shift
 - [[Skeuomorph]] — a vestigial functional feature that smooths conceptual transitions
+
+### The Affirmative Cosmology of Information (Kurzweil)
+
+- [[The Singularity]] — the merger of biological and nonbiological intelligence that irreversibly transforms human life (dated 2045); the proponent's note in his own voice
+- [[The Law of Accelerating Returns]] — evolution and technology grow double-exponentially; the engine of the Singularity, a deliberate CONTRAST to Han's [[Acceleration]]
+- [[The Six Epochs]] — cosmic evolution as six paradigms of patterns of information, ending with 'the Universe Wakes Up'; the affirmative parallel to Harari's Dataism
+- [[Order as Information That Fits a Purpose]] — order, not mere complexity, as what evolution increases; the metaphysical hinge under LOAR and patternism
+- [[Paradigm Shift and the S-Curve]] — each paradigm an S-curve, the overall exponential a cascade of S-curves
+- [[Transcending Biology]] — the 'version 1.0' bodies premise and the immortality claim
+- [[Reverse-Engineering the Human Brain]] — re-instantiating the brain's software of intelligence on faster substrates
+- [[Nanobots]] — capillary-borne brain scanners; the route to upload-grade detail
+- [[Neuromorphic Modeling]] — functionally-equivalent region simulation rather than neuron-by-neuron copy
+- [[The Computational Universe]] — the proponent's worldview the vault's critics write against
+- [[Patternism]] — the self as a persisting, substrate-independent pattern of information
 
 ### Visibility / Transparency / Surveillance
 

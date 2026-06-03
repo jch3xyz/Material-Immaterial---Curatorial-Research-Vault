@@ -8,6 +8,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
   - "[[raw/Harari - Homo Deus/01 The New Human Agenda]]"
   - "[[raw/Harari - Homo Deus/13 The Ocean of Consciousness]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
 related:
   - "[[Posthumanism]]"
   - "[[Pattern and Randomness]]"
@@ -35,8 +37,9 @@ The organized futurist movement — coined by [[Julian Huxley]] in 1957 and rout
 
 ## General Orientation
 
-This note holds two author-treatments that share transhumanism's defining *goal* — transcending the biological limits of [[Homo Deus|Homo sapiens]] through technology — but trace different genealogies and pursue it with different affect. They name the same broad movement; they do not collapse into a single thesis.
+This note holds three author-treatments that share transhumanism's defining *goal* — transcending the biological limits of [[Homo Deus|Homo sapiens]] through technology — but occupy different positions toward it. They name the same broad movement; they do not collapse into a single thesis. Two are critical-diagnostic (O'Gieblyn, Harari); one is the *believing, first-person* pole the others observe from outside ([[Ray Kurzweil]]).
 
+- **[[Ray Kurzweil]]** is the program's primary-source advocate — the "academic prophet" the other two name secondhand, here speaking in his own voice. He states the **Singularitarian** creed positively: the [[The Singularity|Singularity]] "will allow us to transcend these limitations of our biological bodies and brains," put "our mortality" "in our own hands," and let us "live as long as we want." It is the believing self-statement that O'Gieblyn diagnoses from outside as secularized eschatology and Harari genealogizes as evolutionary humanism.
 - **[[Meghan O'Gieblyn]]** reads transhumanism as a *secularized Christian eschatology* (resurrection, immortality, divinization, the Singularity-as-Apocalypse) whose "darker irony" is that the gospel of exaltation secretly lowers the human to a machine. The genealogy is theological-religious (Teilhard's Omega Point, Christian apocalypse) and the verdict is critical.
 - **[[Yuval Noah Harari]]** routes the same upgrade-program through a *different lineage* — secular **[[Evolutionary Humanism]]**, not Christian apocalypse — and frames it as humanity's "third big project": acquiring divine powers and upgrading "Homo sapiens into [[Homo Deus]]." Harari's own term for the values-conserving wing of this program is **[[Techno-Humanism]]**, which he keeps distinct from the more radical data religion ([[Dataism]]). The genealogy is Darwinian-humanist; the means (genetic engineering, nanotechnology, brain–computer interfaces) are pursued, in his words, "far more peacefully" than the eugenic "superhuman" dreams of the twentieth century.
 
@@ -60,11 +63,17 @@ Crucially, Harari specifies the *means*. "The upgrading of humans into gods may 
 
 That evolutionary-humanist lineage carries a pointed disavowal of its eugenic past — and the basis for Harari's claim that the contemporary version pursues the goal *peacefully*: "whereas Hitler and his ilk planned to create superhumans by means of selective breeding and ethnic cleansing, twenty-first-century [[Techno-Humanism]] hopes to reach the goal far more peacefully, with the help of genetic engineering, nanotechnology and brain–computer interfaces." Harari's own term, **[[Techno-Humanism]]**, names the conservative wing of this project: one of two emerging [[Techno-Religion|techno-religions]] that "still sees humans as the apex of creation and clings to many traditional humanist values," concluding "that we should therefore use technology in order to create Homo deus — a much superior human model." It is distinct both from the older, broader movement catalogued in this note and from the more radical data religion ([[Dataism]]) that "venerates neither gods nor man — it worships data." Techno-humanism's internal "dilemma" is that, by sanctifying "the human will" as "the nail on which the entire universe hangs" while developing technologies to "control and redesign our will," it risks turning "the sacred human will" into "just another designer product" — and so "may end up downgrading humans." `Directly stated`
 
+## The Singularitarian Program (Kurzweil, primary source)
+
+Across the O'Gieblyn and Harari sections above, [[Ray Kurzweil]] appears only secondhand — as the movement's "academic prophet" whose creed they paraphrase, diagnose, or genealogize. This section gives his *own* first-person statement of the program, drawn from *The Singularity Is Near*. Where O'Gieblyn reads the doctrine as secularized eschatology and Harari as evolutionary humanism, Kurzweil simply *advocates* it. He defines a Singularitarian as "someone who understands the Singularity and who has reflected on its implications for his or her own life," and states the program's promise directly: "The Singularity will allow us to transcend these limitations of our biological bodies and brains. We will gain power over our fates. Our mortality will be in our own hands. We will be able to live as long as we want (a subtly different statement from saying we will live forever)." This is the believing pole O'Gieblyn observes from outside — the gospel of mastery over death and the body whose "darker irony," she argues, is that it lowers rather than raises the human (see [[Transcending Biology]], [[The Singularity]]). `Directly stated`
+
+Crucially, Kurzweil insists the outcome remains *human*. The Singularity, he writes, "will represent the culmination of the merger of our biological thinking and existence with our technology, resulting in a world that is still human but that transcends our biological roots. There will be no distinction, post-Singularity, between human and machine or between physical and virtual reality." Dating that transformation to 2045, he reaffirms continuity through the rupture: "Despite the clear predominance of nonbiological intelligence by the mid-2040s, ours will still be a human civilization. We will transcend biology, but not our humanity." This is the precise self-understanding O'Gieblyn turns against itself — for her, the promise to "transcend our biological roots" while "still human" is exactly the move by which the human is quietly redefined as a transferable pattern and so reduced to a machine (cf. [[Patternism]], [[Mind Uploading]]). For Harari, the same merger-program belongs not to Christian apocalypse but to the secular lineage of [[Evolutionary Humanism]], pursued "far more peacefully" than its eugenic predecessors. Kurzweil grounds the whole forecast in his **[[The Law of Accelerating Returns|law of accelerating returns]]** — "the inherent acceleration of the rate of evolution, with technological evolution as a continuation of biological evolution" — staged across his [[The Six Epochs|six epochs]] of evolving information. `Directly stated`
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — reads transhumanism as secularized Christian eschatology (resurrection, immortality, divinization, the Singularity-as-Apocalypse), and exposes its "darker irony": a machine-supremacist, fatalistic ideology that lowers rather than raises the human's ontological status. A former fundamentalist and former transhumanist, she treats her own fascination as "a kind of transference" of abandoned religious longing.
 - **[[Yuval Noah Harari]]** — frames the same upgrade-program as humanity's "third big project": acquiring "divine powers" to "upgrade Homo sapiens into [[Homo Deus]]" along "three paths" (biological, cyborg and non-organic engineering). Traces it not to Christian apocalypse but to secular [[Evolutionary Humanism]], and argues twenty-first-century [[Techno-Humanism]] pursues the superhuman goal "far more peacefully" than its eugenic predecessors — via genetic engineering, nanotechnology and brain–computer interfaces. (His [[Techno-Humanism]] is a related but distinct concept; do not collapse it into Transhumanism.)
-- **[[Ray Kurzweil]]** — the movement's "academic prophet"; "patternist" who holds consciousness to be "a pattern of information" transferable onto a computer; promises mind-uploading, immortality, and a 2045 Singularity at which intelligence "would merge with the universe and we would become divine."
+- **[[Ray Kurzweil]]** — the movement's "academic prophet," and (uniquely in this note) its *primary-source advocate* speaking in his own voice. A "patternist" who holds consciousness to be "a pattern of information" transferable onto a computer; promises mind-uploading, immortality, and a 2045 Singularity at which intelligence "would merge with the universe and we would become divine." In *The Singularity Is Near* he states the Singularitarian program directly — the Singularity "will allow us to transcend these limitations of our biological bodies and brains," put "our mortality" "in our own hands," and let us "live as long as we want," yielding "a world that is still human but that transcends our biological roots." He insists "we will transcend biology, but not our humanity." This is the believing, first-person pole that O'Gieblyn diagnoses from outside as secularized eschatology and Harari genealogizes as [[Evolutionary Humanism]].
 - **[[Pierre Teilhard de Chardin]]** — the buried Christian source: evolution converging through the "noosphere" toward an "Omega Point" and a "Trans-Human," recast by Huxley as secular transhumanism and by Kurzweil as the Singularity.
 - **[[Julian Huxley]]** — secular humanist who coined "Transhumanism" in 1957 by stripping Teilhard's vision of its overt religious narrative.
 - **[[Nick Bostrom]]** — transhumanist philosopher (Future of Humanity Institute) who dates the term to Huxley and frames transhumanism as "sober, disinterested" rationalism; author of the simulation hypothesis, which O'Gieblyn reads as a covert "argument from design."
@@ -204,3 +213,36 @@ Relevant passage:
 > whereas Hitler and his ilk planned to create superhumans by means of selective breeding and ethnic cleansing, twenty-first-century techno-humanism hopes to reach the goal far more peacefully, with the help of genetic engineering, nanotechnology and brain–computer interfaces.
 
 Supports: The different genealogy and affect — Harari roots the program in secular [[Evolutionary Humanism]] (not Christian eschatology) and claims [[Techno-Humanism]] pursues the superhuman goal "far more peacefully" via genetic engineering, nanotechnology and brain–computer interfaces. Marks the distinction from O'Gieblyn's reading and the non-collapse of [[Techno-Humanism]] into Transhumanism. Label: `Directly stated`.
+
+### Source 11
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]
+Relevant passage:
+
+> The Singularity will allow us to transcend these limitations of our biological bodies and brains. We will gain power over our fates. Our mortality will be in our own hands. We will be able to live as long as we want (a subtly different statement from saying we will live forever).
+
+Supports: The primary-source self-statement of the Singularitarian program — Kurzweil in his own voice, naming transcendence of the biological body and brain, mastery over fate, mortality "in our own hands," and living "as long as we want." This is the believing, first-person pole that O'Gieblyn diagnoses from outside as secularized eschatology and Harari genealogizes as [[Evolutionary Humanism]]. Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]
+Relevant passage:
+
+> The Singularity will represent the culmination of the merger of our biological thinking and existence with our technology, resulting in a world that is still human but that transcends our biological roots. There will be no distinction, post-Singularity, between human and machine or between physical and virtual reality.
+
+Supports: The merger that is "still human" yet "transcends our biological roots" — the exact self-understanding O'Gieblyn turns against itself (the human quietly redefined as transferable pattern; cf. [[Patternism]], [[Mind Uploading]]) and that Harari reframes as the peaceful, evolutionary-humanist upgrade rather than Christian apocalypse. Anchors [[Transcending Biology]] and [[The Singularity]]. Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Despite the clear predominance of nonbiological intelligence by the mid-2040s, ours will still be a human civilization. We will transcend biology, but not our humanity.
+
+Supports: Kurzweil's 2045-dated insistence on continuity through the rupture — "transcend biology, but not our humanity." Pairs with Source 12 as the claim O'Gieblyn reads as the movement's "darker irony" (transcendence that lowers rather than raises the human). Label: `Directly stated`.

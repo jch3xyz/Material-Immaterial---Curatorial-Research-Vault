@@ -5,6 +5,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
 related:
   - "[[The Body as Data]]"
   - "[[Posthumanism]]"
@@ -12,12 +14,17 @@ related:
   - "[[The Computational Universe]]"
   - "[[Mind as Machine]]"
   - "[[Information]]"
+  - "[[Patternism]]"
+  - "[[Reverse-Engineering the Human Brain]]"
+  - "[[Nanobots]]"
+  - "[[The Singularity]]"
 opposes:
   - "[[Embodiment]]"
 authors:
   - "[[Meghan O'Gieblyn]]"
+  - "[[Ray Kurzweil]]"
 confidence: medium
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Mind Uploading
@@ -25,6 +32,10 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 The transhumanist proposition that a mind can be transferred onto a digital medium—scanned, copied, or gradually replaced neuron by neuron—so that the person's identity, and ideally their subjective consciousness, survives the death or abandonment of the biological body.
+
+## General Orientation
+
+The note now holds two opposed authorial voices that must not be flattened into one. **[[Ray Kurzweil]]** is the *primary-source advocate*: in *The Singularity Is Near* he defines uploading operationally as "scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate," distinguishes a *functional emulation* of human intelligence (which "is sufficient to re-create human powers of pattern recognition, intellect, and emotional intelligence") from the harder *personal upload* of "a particular person's personality," and offers gradual neuron-by-neuron transfer as his answer to the continuity problem. **[[Meghan O'Gieblyn]]** is the *critical reader*: she cites Kurzweil only secondhand, frames uploading as transhumanism's literalized [[Mind as Machine]] metaphor and a structural repetition of the early Church's resurrection problem, and amplifies the dissenting pole—Susan Schneider's "zombie with no subjective experience" objection—as the book's "great paradox." The opposing pole also draws on Gerald Edelman's caveat (within Kurzweil's own chapter) that "a description is not the capability." Read together: Kurzweil supplies the engineering claim and the optimistic continuity argument; O'Gieblyn and the Schneider/Edelman objections supply the critique that even a perfect copy may carry no one across.
 
 ## Longer Explanation
 
@@ -36,10 +47,18 @@ O'Gieblyn's central interpretive move is structural and historical. The question
 
 The decisive objection she records is Susan Schneider's. Granting that consciousness is at root computational, Schneider holds that patternism takes the metaphor too far: ordinary physical objects don't exist "here and elsewhere," and consciousness cannot "leave the brain and travel to some remote location." Mind-uploading "may indeed produce a digital copy of a person that acts and appears from the outside identical to the original. But the new person will be a zombie with no subjective experience." O'Gieblyn folds this into the book's larger "great paradox": that even the most mystical reenchantment narratives end up "reiterating the fundamental problem of our disenchanted age: the inability to account for the mind." The upload promises spirit but, by reducing the self to bits, quietly concedes "that the soul is already so illusory that it will not be missed."
 
+## Uploading in Kurzweil's Own Voice (primary source)
+
+In his own text Kurzweil gives uploading a deliberately engineering definition: "Uploading a human brain means scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate. This process would capture a person's entire personality, memory, skills, and history." He sharply separates this from the lesser task of building a generic human-level mind. As he puts it in chapter 3, "Functional simulation of the brain is sufficient to re-create human powers of pattern recognition, intellect, and emotional intelligence. On the other hand, if we want to 'upload' a particular person's personality (that is, capture all of his or her knowledge, skills, and personality, a concept I will explore in greater detail at the end of chapter 4), then we may need to simulate neural processes at the level of individual neurons and portions of neurons." Functional emulation re-creates *a* mind; personal upload re-creates *this* mind, and so demands far finer scanning—the work of [[Reverse-Engineering the Human Brain]] pushed down to the level [[Nanobots]] are meant to reach. `Directly stated`.
+
+Where O'Gieblyn leaves the **continuity of personal identity** unresolved, Kurzweil offers a positive answer: not the abrupt "sudden scan-and-transfer scenario" but a *gradual transfer*. "In my view the most important element in uploading will be our gradual transfer of our intelligence, personality, and skills to the nonbiological portion of our intelligence," he writes; as nanobots augment the brain through the 2020s–2040s, "we will have effectively uploaded ourselves, albeit gradually, never quite noticing the transfer. There will be no 'old Ray' and 'new Ray,' just an increasingly capable Ray." This is his dissolution of the ship-of-Theseus worry: if no instant marks the cut, he holds, no question of a discarded original arises. `Directly stated` (Kurzweil's claim; that gradualism *dissolves* rather than *defers* the problem is his framing, which O'Gieblyn and Schneider contest—`Interpretive synthesis` on the adjudication).
+
+Kurzweil meets the metaphysical objections head-on without conceding them. To readers who take Roger Penrose's quantum theory of consciousness to mean "that uploading is impossible because a person's 'quantum state' will have changed many times during the scanning period," he replies: "But I would point out that my quantum state has changed many times in the time it took me to write this sentence, and I still consider myself to be the same person (and no one seems to be objecting)." He also imports, inside his own chapter, the strongest opposing caveat—Gerald Edelman's point "that there is a difference between a capability and a description of that capability," that "a photograph of a person is different from the person herself." Kurzweil grants the caveat but argues uploading "goes beyond the extremely high-resolution scan," since the captured details must be "instantiated into a working computational medium" where "the neural details … interact with one another (and with the outside world) in the same ways that they do in the original"—a running program, not a static disk image. He nonetheless leaves the deepest question open: "Perhaps the most important question will be whether or not an uploaded human brain is really you … one could still reasonably ask whether the upload is the same person or a new person. After all, the original person may still exist." This is precisely the seam where Schneider's "zombie with no subjective experience" and O'Gieblyn's "nothing … going on inside" reopen against him. `Directly stated` (the quotations); `Strongly implied` (that Kurzweil's own deferred question is the entry point for the Schneider/O'Gieblyn critique).
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — treats mind-uploading as a repetition, structurally, of the early Church's centuries-long problem of bodily continuity across death; reads it as transhumanism's literalized [[Mind as Machine]] metaphor and as a symptom of [[Posthumanism]]'s erasure of the body.
-- **[[Ray Kurzweil]]** — the "patternist" who frames consciousness as a transferable pattern of information ("I am rather like the pattern that water makes in a stream"); holds that an uploaded person with the same organization of information will have the same subjective experience, so "the scanned person's mind will exist in two places at once."
+- **[[Ray Kurzweil]]** — the "patternist" who frames consciousness as a transferable pattern of information ("I am rather like the pattern that water makes in a stream"); holds that an uploaded person with the same organization of information will have the same subjective experience, so "the scanned person's mind will exist in two places at once." *In his own voice* (*The Singularity Is Near*, primary source): defines uploading as "scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate"; distinguishes [[Reverse-Engineering the Human Brain|functional emulation]] of human intelligence from the finer *personal upload* of a particular personality; answers the continuity problem with *gradual transfer* via [[Nanobots]] ("no 'old Ray' and 'new Ray,' just an increasingly capable Ray"); rebuts Penrose ("my quantum state has changed many times … and I still consider myself to be the same person") while granting Edelman's caveat that a description is not the capability.
 - **[[Hans Moravec]]** / **[[Norbert Wiener]]** — Wiener's cybernetic image that "we are not stuff that abides, but patterns that perpetuate themselves" supplies the patternist lineage; Moravec is the canonical transhumanist proponent of robotic mind-transfer in the surrounding [[The Three Waves of Cybernetics|cybernetics]] tradition.
 - **Susan Schneider** — the dissenting philosopher: even a behaviorally identical upload "will be a zombie with no subjective experience"; the most uploading can achieve is "functional similarity to the original."
 
@@ -51,6 +70,10 @@ The decisive objection she records is Susan Schneider's. Granting that conscious
 - [[Posthumanism]] — O'Gieblyn reads uploading as transhumanism's path to the "posthuman," the species that survives by merging with or migrating into machines.
 - [[Information]] — the uploaded mind is information "liberated from the material constraints of the physical world."
 - [[Mind as Machine]] — the governing metaphor that uploading takes literally.
+- [[Reverse-Engineering the Human Brain]] — Kurzweil's prerequisite project; he stresses that "Scanning the brain for the purpose of reverse engineering its principles of operation is an easier action than scanning it for the purpose of 'uploading' a particular personality."
+- [[Nanobots]] — the in-brain scanning technology Kurzweil projects for the late 2020s, the means by which the "gradual transfer" upload is to be carried out.
+- [[Patternism]] — Kurzweil's underlying metaphysics: identity is the transferable pattern, which is what licenses the upload in the first place.
+- [[The Singularity]] — uploading is one face of the "gradual but inexorable progression to vastly superior nonbiological thinking" Kurzweil places at the Singularity's core.
 
 ## Opposing Concepts
 
@@ -142,3 +165,58 @@ Relevant passage:
 > Bostrom, a prominent transhumanist, believes that humanity is in the process of becoming posthuman as we merge our bodies with technology. We are becoming superintelligence ourselves.
 
 Supports: Situates mind-uploading within the wider transhumanist program of becoming [[Posthumanism|posthuman]] by merging body and machine—the destination the upload serves. Label: `Strongly implied` (Bostrom is discussed re: simulation; the link to uploading/posthuman merger is O'Gieblyn's framing of his transhumanism).
+
+### Source 8
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]
+Relevant passage:
+
+> Uploading a human brain means scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate. This process would capture a person's entire personality, memory, skills, and history.
+
+Supports: Kurzweil's own operational definition of uploading—the primary-source anchor the note previously cited only secondhand. Label: `Directly stated`.
+
+### Source 9
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Functional simulation of the brain is sufficient to re-create human powers of pattern recognition, intellect, and emotional intelligence. On the other hand, if we want to "upload" a particular person's personality (that is, capture all of his or her knowledge, skills, and personality, a concept I will explore in greater detail at the end of chapter 4), then we may need to simulate neural processes at the level of individual neurons and portions of neurons, such as the soma (cell body), axon (output connection), dendrites (trees of incoming connections), and synapses (regions connecting axons and dendrites).
+
+Supports: The functional-emulation vs personal-upload distinction—why uploading a *particular* self demands far finer scanning than re-creating a generic human-level mind. Label: `Directly stated`.
+
+### Source 10
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]
+Relevant passage:
+
+> In my view the most important element in uploading will be our gradual transfer of our intelligence, personality, and skills to the nonbiological portion of our intelligence.... So we will have effectively uploaded ourselves, albeit gradually, never quite noticing the transfer. There will be no "old Ray" and "new Ray," just an increasingly capable Ray.
+
+Supports: The gradual-transfer thesis—Kurzweil's answer to the continuity-of-identity problem; gradual nanobot augmentation rather than abrupt scan-and-transfer. Label: `Directly stated` (the claim; that gradualism dissolves rather than defers the continuity problem is interpretive).
+
+### Source 11
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]
+Relevant passage:
+
+> Some observers have interpreted Roger Penrose's theory of the link between quantum computing and consciousness (see chapter 9) to mean that uploading is impossible because a person's "quantum state" will have changed many times during the scanning period. But I would point out that my quantum state has changed many times in the time it took me to write this sentence, and I still consider myself to be the same person (and no one seems to be objecting).
+
+Supports: Kurzweil's rebuttal of the Penrose quantum-state objection to uploading. Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]
+Relevant passage:
+
+> Nobel Prize winner Gerald Edelman points out that there is a difference between a capability and a description of that capability. A photograph of a person is different from the person herself, even if the "photograph" is very high resolution and three-dimensional.... Perhaps the most important question will be whether or not an uploaded human brain is really you.... After all, the original person may still exist.
+
+Supports: The opposing pole inside Kurzweil's own chapter—Edelman's "a description is not the capability" caveat and Kurzweil's deferred "is the upload really you?" question, the seam where the Schneider zombie objection re-enters. Label: `Directly stated`.

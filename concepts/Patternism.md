@@ -3,6 +3,10 @@ type: concept
 status: generated
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
 related:
   - "[[Pattern and Randomness]]"
   - "[[Posthumanism]]"
@@ -17,7 +21,7 @@ authors:
   - "[[Ray Kurzweil]]"
   - "[[Meghan O'Gieblyn]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Patternism
@@ -25,6 +29,23 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 Patternism is Ray Kurzweil's self-applied label for the functionalist doctrine that the self is not its physical substrate but a persisting pattern of information — "the distinctive algorithm that we think of as our identity" — which, being computational, is substrate-independent and therefore in principle transferable, or uploadable, to another medium.
+
+## General Orientation
+
+This note holds two distinct registers, which must not be collapsed.
+
+- **Patternism in Kurzweil's own voice (primary source).** [[Ray Kurzweil]] coins and owns the term. In *The Singularity Is Near* he declares it a first-person identity ("I describe myself as a 'patternist'") and a metaphysics ("someone who views patterns of information as the fundamental reality"). On this view the self is the persisting pattern, the changing matter is incidental, and consciousness is therefore portable to a "more suitable computational substrate" by gradual transfer. This is the celebratory, realized-primary-source pole, set out in the section below.
+- **Patternism as O'Gieblyn reads it (critical commentary).** [[Meghan O'Gieblyn]] is neither coiner nor advocate. In *God, Human, Animal, Machine* she narrates patternism's pull while genealogically relocating it in Christian eschatology — [[Origen]]'s *eidos*, "a pattern that organizes the flux of matter" — and stages the opposing pole through Susan Schneider's zombie objection and [[N. Katherine Hayles|Hayles]]'s critique of "disembodied information [as] the ultimate Platonic Form." Her account, formerly the whole of this note, is preserved in full below as the critical and historicizing frame.
+
+Both registers share the same word "pattern" but point in opposite directions on the question of whether the pattern can float free of its substrate. Keep this concept note distinct from `definitions/Patternism (O'Gieblyn)` (the dedicated definition file) and from [[Pattern and Randomness]] (Hayles's critical dialectic, which this note does not subsume).
+
+## Patternism in Kurzweil's Own Voice (primary source)
+
+Patternism is, in Kurzweil's own framing, both a self-description and an ontology. He introduces it in the first person and grounds it in the body's material flux: "In chapter 7, I describe myself as a 'patternist,' someone who views patterns of information as the fundamental reality. For example, the particles composing my brain and body change within weeks, but there is a continuity to the patterns that these particles make" (`Directly stated`). The argument O'Gieblyn paraphrases secondhand is here in the source's own words: identity is the persisting pattern, not the perpetually replaced matter that momentarily instantiates it. This is the metaphysical premise on which the rest of *The Singularity Is Near* — mind-uploading, [[The Body as Data|the body read as data]], the merger of biological and nonbiological intelligence — depends.
+
+From this premise Kurzweil derives **substrate-independence** as an engineering conclusion rather than a metaphor. Because, on his account, "most of the complexity of a human neuron is devoted to maintaining its life-support functions, not its information-processing capabilities," the information-processing pattern can be detached from its biological hardware: "Ultimately, we will be able to port our mental processes to a more suitable computational substrate. Then our minds won't have to stay so small" (`Directly stated`). The body is recast as inefficient life-support overhead; the self is the portable pattern. Where [[Embodiment]] and [[The Materiality of Informatics]] insist information is never substrate-independent, Kurzweil treats the biological substrate as a contingent and improvable platform — the celebratory inverse of the critique O'Gieblyn imports from Hayles.
+
+The continuity-of-identity problem — the worry that an uploaded self is only a copy — Kurzweil answers with a **gradual-transfer thesis** that dissolves the seam between original and copy: "So we will have effectively uploaded ourselves, albeit gradually, never quite noticing the transfer. There will be no 'old Ray' and 'new Ray,' just an increasingly capable Ray" (`Directly stated`). Rather than a sudden scan-and-replace, the nonbiological portion of intelligence accretes (neural implants, then nanobots augmenting sensory processing, memory, skill, pattern recognition) until it predominates, so that uploading is experienced as continuous self-extension rather than death-and-copy. His empirical warrant for the pattern's primacy is the compressibility of biological design: "There are only eight hundred million bytes of information in the entire human genome, and only about thirty to one hundred million bytes after data compression is applied. This is about one hundred million times less information than is represented by all of the interneuronal connections and neurotransmitter concentration patterns in a fully formed human brain" (`Directly stated`). The genome-as-compressed-design figure is offered as evidence that what matters is the comparatively tiny generative *pattern*, not the vast material structure it unfolds into — the same transience-to-permanence inversion O'Gieblyn diagnoses, asserted here from the inside as a reason for optimism. (`Interpretive synthesis` for the connective claim that these four passages together constitute a single substrate-independence argument; each quoted clause is `Directly stated`.)
 
 ## Longer Explanation
 
@@ -109,3 +130,47 @@ Relevant passage:
 > Within transhumanist thought, transcendence depends on the notion that information can be liberated from the material constraints of the physical world: it is an ideology, as the critic N. Katherine Hayles points out, in which "disembodied information becomes the ultimate Platonic Form."
 
 Supports: Marks the opposing valence — O'Gieblyn cites Hayles to recast patternism's substrate-independence as a critical, contingent *ideology*, distinguishing it from the celebratory account and anchoring the contrast with [[Pattern and Randomness]], [[Embodiment]], and [[The Materiality of Informatics]]. Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]
+Relevant passage:
+
+> In chapter 7, I describe myself as a "patternist," someone who views patterns of information as the fundamental reality. For example, the particles composing my brain and body change within weeks, but there is a continuity to the patterns that these particles make.
+
+Supports: The primary-source self-definition. Establishes "patternist" as Kurzweil's first-person identity and patternism as the ontology that patterns of information are "the fundamental reality," with the material-flux argument (changing particles, continuous pattern) stated in the source's own words rather than O'Gieblyn's paraphrase. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Most of the complexity of a human neuron is devoted to maintaining its life-support functions, not its information-processing capabilities. Ultimately, we will be able to port our mental processes to a more suitable computational substrate. Then our minds won't have to stay so small.
+
+Supports: The substrate-independence claim in Kurzweil's own voice — the biological neuron is mostly life-support overhead, so the information-processing pattern can be "ported" to "a more suitable computational substrate." Grounds the section's contrast with [[Embodiment]] and [[The Materiality of Informatics]]. Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]
+Relevant passage:
+
+> So we will have effectively uploaded ourselves, albeit gradually, never quite noticing the transfer. There will be no "old Ray" and "new Ray," just an increasingly capable Ray.
+
+Supports: The gradual-transfer thesis Kurzweil offers as his answer to the continuity-of-identity problem — uploading as continuous self-extension, not scan-and-copy, so there is no rupture between original and successor. The counter-pole to Susan Schneider's zombie objection already cited in this note. Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> There are only eight hundred million bytes of information in the entire human genome, and only about thirty to one hundred million bytes after data compression is applied. This is about one hundred million times less information than is represented by all of the interneuronal connections and neurotransmitter concentration patterns in a fully formed human brain.
+
+Supports: The genome-as-compressed-design evidence — the generative pattern is vastly smaller than the material structure it unfolds, which Kurzweil reads as support for the primacy of the pattern over the matter. Empirical warrant for patternism's transience-to-permanence inference. Label: `Directly stated`.

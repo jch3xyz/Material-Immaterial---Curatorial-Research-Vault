@@ -11,6 +11,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
   - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -21,12 +23,16 @@ related:
   - "[[Embodiment vs Information]]"
   - "[[Material vs Immaterial]]"
   - "[[Dataism]]"
+  - "[[Transcending Biology]]"
+  - "[[The Singularity]]"
+  - "[[Biology vs Technology]]"
 opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Ray Kurzweil]]"
 confidence: high
 last_updated: 2026-06-02
 ---
@@ -44,8 +50,9 @@ The word *posthuman* carries three distinct senses in this vault, and the note k
 - **Posthumanism as critical point of view (Hayles).** A descriptive and diagnostic stance: the posthuman names *how subjectivity is constructed* once [[Information]] is privileged over [[Embodiment]]. It is analytical, ambivalent, and contestable — Hayles is mapping a condition ("we have always been posthuman") in order to argue for a *benign, embodied* version of it.
 - **Transhumanism as eschatological program (O'Gieblyn).** A *prescriptive* movement (Kurzweil, Bostrom, Moravec) that takes the same pattern-over-matter premise and turns it into a salvation narrative: mind-uploading, the Singularity, immortality, divinization. O'Gieblyn's thesis is that this is posthumanism's "religious double" — a Christian resurrection eschatology in technical dress.
 - **The posthuman as the obsolescence of *Homo sapiens* (Harari).** The data-centric *endgame*: not the human upgraded or saved but the human *retired*. Once [[Dataism]] reconceives organisms as algorithms and history as data processing, *Homo sapiens* becomes "an obsolete algorithm" that dissolves into the cosmic data flow, sidelined by data exactly as humanism once sidelined God. This must be held apart from Harari's *other* posthuman — the upgraded "superhuman" of *Homo Deus* (treated under [[Transhumanism]]). The section below treats only the **obsolescence pole**.
+- **The posthuman as the next step in evolution (Kurzweil).** The *believing pole*: the affirmative, proponent's statement of everything the other three approach critically, eschatologically, or as obsolescence. Where Hayles diagnoses and O'Gieblyn unmasks, Kurzweil *prophesies and welcomes* — nonbiological intelligence will predominate, yet "future machines will be human, even if they are not biological," the "next step in evolution." This is Hayles's "lethal graft" stated as good news (the posthuman fused to a liberal self and made immortal, see [[Transcending Biology]], [[The Singularity]]) and the optimistic counter to Harari's "retire *Homo sapiens*" — not the human discarded but the human's substrate transcended while "we will transcend biology, but not our humanity."
 
-The three are genealogically linked but must not be merged. Hayles supplies the *critical concept* and O'Gieblyn supplies its *eschatological enactment*: what Hayles calls the "lethal graft" — the posthuman grafted onto liberal humanist autonomy and mastery — is precisely what O'Gieblyn's transhumanism *performs*. Harari then marks the terminus the first two circle around: where transhumanism *promises* an immortal upgraded self, Harari's Dataism dispenses with the self altogether — the same pattern-over-matter premise carried to the point where the human is not transcended but functionally surplus. For the program (and the upgraded "superhuman") as such, see the distinct concept [[Transhumanism]]; the sections below treat O'Gieblyn's argument that the program is secular eschatology, and Harari's that it ends in human obsolescence.
+The four are genealogically linked but must not be merged. Hayles supplies the *critical concept* and O'Gieblyn supplies its *eschatological enactment*: what Hayles calls the "lethal graft" — the posthuman grafted onto liberal humanist autonomy and mastery — is precisely what O'Gieblyn's transhumanism *performs*. Harari then marks the terminus the first two circle around: where transhumanism *promises* an immortal upgraded self, Harari's Dataism dispenses with the self altogether — the same pattern-over-matter premise carried to the point where the human is not transcended but functionally surplus. Kurzweil completes the spread as its *believing pole* — the one author here who is himself the target O'Gieblyn anatomizes and the proponent whose optimism Harari's obsolescence pole inverts: he affirms the predominance of nonbiological intelligence and insists it is still *human*, the [[Material vs Immaterial|immaterial]] pole stated not as warning but as welcome. For the program (and the upgraded "superhuman") as such, see the distinct concept [[Transhumanism]]; the sections below treat O'Gieblyn's argument that the program is secular eschatology, Harari's that it ends in human obsolescence, and Kurzweil's that it is humanity's next evolutionary step.
 
 ## Longer Explanation
 
@@ -79,12 +86,23 @@ The terminus is not a war between humans and machines but a quiet dissolution. A
 
 ---
 
+## Future Machines Will Be Human (Kurzweil)
+
+If Hayles diagnoses the posthuman, O'Gieblyn unmasks it as eschatology, and Harari carries it to the obsolescence of the species, Ray Kurzweil supplies its **believing pole** — the proponent's posthuman, stated as prophecy and welcomed as progress. Kurzweil affirms, without ambivalence, the very thing the other three approach critically: that nonbiological intelligence will come to predominate, and that this is not the end of the human but its continuation by other means. The pivotal sentence, from "The Six Epochs," is the affirmative restatement of everything Hayles calls the "lethal graft": "**future machines will be human, even if they are not biological. This will be the next step in evolution, the next high-level paradigm shift, the next level of indirection.**" The posthuman here is not a point of view to be contested or a salvation narrative to be unmasked but the literal next stage of an evolutionary process that began with physics and chemistry and runs through DNA, brains, and technology. Kurzweil insists the rupture preserves rather than abolishes us: "this does not imply the end of biological intelligence, even if it is thrown from its perch of evolutionary superiority. Even the nonbiological forms will be derived from biological design. Our civilization will remain human" (`Directly stated`).
+
+This is precisely the figure Hayles warns against — the posthuman *grafted onto liberal humanist autonomy and mastery*, the autonomous self carried over into nonbiological substrate and made effectively immortal — but stated affirmatively, as good news. Where Hayles's Moravec "downloads" the liberal subject into a computer to "expand its perogatives into the realm of the posthuman," Kurzweil makes the same move the explicit, celebrated telos: biology is defective "version 1.0" hardware whose "limitations" the Singularity will "transcend," putting "our mortality ... in our own hands" (treated as [[Transcending Biology]]). The pattern-over-matter premise that defines Hayles's posthuman as a point of view, and that O'Gieblyn names "disembodied information become the ultimate Platonic Form," is here neither diagnosed nor anatomized but endorsed: the self is its pattern, the substrate is replaceable, and the replacement is an ascent (see [[Patternism]], [[The Body as Data]], [[Mind Uploading]]). Kurzweil is thus the one author in this note who is himself the *object* of the other three — O'Gieblyn's chief specimen of transhumanist eschatology, the proponent whose [[The Singularity]] she reads as the *parousia* — and reading his affirmation directly, in his own words, is what lets the note hold the believing pole apart from its critics rather than only ventriloquizing it.
+
+Crucially, Kurzweil denies that any boundary survives at all. In "A Theory of Technology Evolution" he states the merger as the dissolution of the human/machine distinction itself, but — against Harari's "retire *Homo sapiens*" — in the direction of *machines becoming human*, not humans being discarded: "**By the time of the Singularity, there won't be a distinction between humans and technology. This is not because humans will have become what we think of as machines today, but rather machines will have progressed to be like humans and beyond.**" The asymmetry is the whole of his optimism, and the exact inversion of Harari's obsolescence pole: where Harari's Dataism keeps the *data* and discards the self, Kurzweil keeps the *human* and discards only the biology — "Technology will be the metaphorical opposable thumb that enables our next step in evolution." What in Harari is the horse retired for the car is in Kurzweil the species fulfilling "the quality" that was always essentially human: "ours is the species that inherently seeks to extend its physical and mental reach beyond current limitations." Whether this preserves the human or only renames its erasure is the question the four-author note exists to keep open: Kurzweil's "future machines will be human" is, read through Hayles, the liberal-humanist posthuman declaring its own victory; read through O'Gieblyn, a resurrection theology; read through Harari, optimism about the same vanishing the obsolescence pole calls extinction (`Interpretive synthesis`).
+
+---
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — the posthuman as a point of view with four assumptions, distinct from the figure of [[The Cyborg]]; the end of [[The Liberal Humanist Subject]], not of humanity; lethal only when grafted onto liberal humanism; redeemable as a *benign, embodied* posthuman located in the dialectic of pattern/randomness and grounded in [[Embodiment]].
 - **Hans Moravec (Hayles's antagonist)** — the "apocalyptic" or anti-human posthuman: a "postbiological" future in which consciousness is downloaded into a computer and intelligent machines displace humanity. For Hayles this is precisely the posthuman *grafted onto liberal humanism* (autonomy and mastery extended into immortality), the version she sets out to contest.
 - **[[Meghan O'Gieblyn]]** — treats the *transhumanist* posthuman (Kurzweil, Bostrom, Moravec) not as a neutral point of view but as an **eschatological program**: posthumanism's "religious double," a Christian resurrection narrative in technical dress (uploading = resurrection, the Singularity = parousia, plus immortality and divinization). The program is precisely Hayles's "lethal graft" enacted — the pattern-over-matter posthuman fused to liberal-humanist autonomy and extended into immortality. Treated in its own right as [[Transhumanism]].
 - **[[Yuval Noah Harari]]** — the **obsolescence pole** of the posthuman. Driven by [[Dataism]], the same "deo-centric → homo-centric" displacement that humanism worked on God is now turned by data on the human ("homo-centric → data-centric"). As intelligence decouples from consciousness, *Homo sapiens* becomes "an obsolete algorithm," "retired" like the horse and dissolved into the "cosmic data flow"; the species "will vanish." Distinct from Harari's *Homo Deus* / upgraded "superhuman," which is the deification pole and is treated under [[Transhumanism]]. Stated as a conditional limit case, not a prophecy.
+- **[[Ray Kurzweil]]** — the **believing pole** of the posthuman: the proponent's affirmative statement of what the other three treat critically. Nonbiological intelligence "will ultimately predominate," yet "future machines will be human, even if they are not biological" — the "next step in evolution." The human/machine distinction dissolves *upward* ("machines will have progressed to be like humans and beyond"), the inverse of Harari's downward "retire *Homo sapiens*." This is precisely Hayles's "lethal graft" — the posthuman fused to a liberal-humanist self and made immortal (see [[Transcending Biology]]) — but welcomed, not warned against; and the proponent's text that O'Gieblyn anatomizes as resurrection theology (the [[The Singularity]] as *parousia*). The slogan "we will transcend biology, but not our humanity" relocates the human from flesh into a quality, so the loss of the substrate can be presented as evolutionary fulfilment.
 
 ## Related Concepts
 
@@ -97,6 +115,9 @@ The terminus is not a war between humans and machines but a quiet dissolution. A
 - [[The Extrapolated Body]] — the body as "the original prosthesis," extended or replaced (third assumption)
 - [[Embodiment vs Information]] — the disagreement at the heart of which kind of posthuman we become
 - [[Material vs Immaterial]] — the constructed hierarchy (information over materiality) the posthuman inherits
+- [[Transcending Biology]] — Kurzweil's affirmative pole: biology as defective "version 1.0" hardware to be reengineered; the believing version of the posthuman's pattern-over-matter premise
+- [[The Singularity]] — the event in which, for Kurzweil, "future machines will be human" and the human/machine distinction dissolves; O'Gieblyn's *parousia*
+- [[Biology vs Technology]] — the tension Kurzweil resolves by merger: "machines will have progressed to be like humans and beyond"
 
 ## Opposing Concepts
 
@@ -330,3 +351,25 @@ Relevant passage:
 > The third threat to liberalism is that some people will remain both indispensable and undecipherable, but they will constitute a small and privileged elite of upgraded humans. These superhumans will enjoy unheard-of abilities and unprecedented creativity, which will allow them to go on making many of the most important decisions in the world.
 
 Supports: Anchors the distinction the section turns on — Harari's *other* posthuman, the "upgraded"/"superhuman" *Homo Deus* pole (treated as [[Transhumanism]]), against which the obsolescence pole (the fate of everyone else, and of the species) is defined. Label: `Directly stated`.
+
+### Source 21
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]
+Relevant passage:
+
+> future machines will be human, even if they are not biological. This will be the next step in evolution, the next high-level paradigm shift, the next level of indirection.
+
+Supports: The believing pole's pivotal claim — nonbiological intelligence predominates yet remains *human*; the posthuman as the next evolutionary step rather than a danger (Hayles), eschatology (O'Gieblyn), or obsolescence (Harari). The affirmative statement of Hayles's "lethal graft." Label: `Directly stated`.
+
+### Source 22
+
+Book: *The Singularity Is Near*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> By the time of the Singularity, there won't be a distinction between humans and technology. This is not because humans will have become what we think of as machines today, but rather machines will have progressed to be like humans and beyond.
+
+Supports: The dissolution of the human/machine distinction *upward* — machines becoming human, the exact inversion of Harari's "retire *Homo sapiens*." Grounds the asymmetry that is the whole of Kurzweil's optimism. Label: `Directly stated`.

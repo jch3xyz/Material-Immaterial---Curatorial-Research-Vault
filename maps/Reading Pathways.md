@@ -311,3 +311,40 @@ A cross-book pathway placing Harari's intersubjective fictions and freedom of in
 - [[The Body as Data]] — the body recoded as informational pattern
 - [[Freedom of Information]] — Dataism's supreme value, prizing flow over substrate
 - [[Yuval Noah Harari and N. Katherine Hayles]] — the species recast as a data-processing system
+
+## Pathways through *The Singularity Is Near* (Ray Kurzweil)
+
+### Pathway: The affirmative cosmology of information
+
+Follows Kurzweil's vision in his own voice, from the computational universe through the Six Epochs and the Law of Accelerating Returns to the claim that intelligence is the purposeful organization of computation matter already performs. Useful for reading the proponent's position the vault's critics (Hayles, O'Gieblyn, Han) write against.
+
+- [[The Computational Universe]] — the worldview in which humans, machines, and cosmos alike process information
+- [[The Six Epochs]] — cosmic evolution as six paradigms of patterns of information, ending with 'the Universe Wakes Up'
+- [[The Law of Accelerating Returns]] — evolution and technology grow double-exponentially; the engine of the Singularity
+- [[How Smart Is a Rock]] — a kilogram of matter already computes ~10^42 cps; intelligence as the organization of computation
+- [[The Singularity]] — the merger of biological and nonbiological intelligence that irreversibly transforms human life
+- [[Ray Kurzweil and Yuval Noah Harari]] — the two affirmative cosmologists of information
+
+### Pathway: Disembodiment, from inside and out
+
+Charts Kurzweil's celebratory pole — the self as a substrate-independent pattern, the body as 'version 1.0' hardware, uploading as a gradual unnoticed merger — read directly against Hayles's recovery of embodiment. Useful for the vault's central Material/Immaterial axis at its sharpest point of disagreement.
+
+- [[Patternism]] — the self as a persisting, substrate-independent pattern of information
+- [[We are not our bodies but a pattern of information that persists through material turnover]] — patternism in the proponent's own voice
+- [[Transcending Biology]] — the 'version 1.0' bodies premise and the immortality claim
+- [[Reverse-Engineering the Human Brain]] — re-instantiating the brain's software of intelligence on faster substrates
+- [[Mind Uploading]] — transferring a mind to a digital medium
+- [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil's answer to the continuity-of-identity objection
+- [[Embodiment vs Information]] — the master tension
+- [[Ray Kurzweil and N. Katherine Hayles]] — the keystone disagreement on disembodiment
+
+### Pathway: Acceleration, two valences
+
+A cross-book pathway juxtaposing Kurzweil's celebration of exponential progress with Han's critique of speed stripped of sense — one of the vault's most productive contrasts for the material/immaterial theme. Useful for thinking what 'acceleration' affirms and what it costs.
+
+- [[The Law of Accelerating Returns]] — Kurzweil's celebration of double-exponential progress
+- [[Exponential vs Linear]] — the epistemic axis the whole Singularity forecast hangs on
+- [[Paradigm Shift and the S-Curve]] — the exponential as a cascade of S-curves
+- [[The Lily Pads on the Lake]] — the parable of exponential onset
+- [[Acceleration]] — Han's critique of speed stripped of sense, narrative, and the Other
+- [[Narration vs Addition]] — the deceleration counter-figure to additive accumulation

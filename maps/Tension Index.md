@@ -50,3 +50,5 @@ Links above may resolve to existing notes or stubs.
 - [[Truth vs Cooperative Power]] — accurate world views vs the fictions that enable large-scale cooperation; truth is not what gives sapiens mastery (Harari)
 - [[Distributed vs Centralised Processing]] — the Cold War reread as a contest of data architectures (capitalism vs communism) (Harari)
 - [[Homo-Centric vs Data-Centric]] — humanism's worship of human experience vs Dataism's worship of information flow (Harari)
+- [[Exponential vs Linear]] — the historically-grounded exponential reality of accelerating returns vs the intuitive-linear perception that blinds forecasters to it; the epistemic axis the whole Singularity forecast hangs on (Kurzweil)
+- [[Biology vs Technology]] — slow, frail, fixed-capacity 'version 1.0' biological intelligence vs fast, designable, double-exponential nonbiological intelligence that predominates yet stays 'human' (Kurzweil)

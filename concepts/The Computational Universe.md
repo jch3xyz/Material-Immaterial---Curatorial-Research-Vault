@@ -7,6 +7,9 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]"
   - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
 related:
   - "[[Posthumanism]]"
   - "[[The Body as Data]]"
@@ -23,6 +26,7 @@ authors:
   - "[[Marvin Minsky]]"
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Ray Kurzweil]]"
 confidence: high
 last_updated: 2026-06-02
 ---
@@ -31,13 +35,14 @@ last_updated: 2026-06-02
 
 ## General Orientation
 
-"The computational universe" names the worldview in which the cosmos itself is fundamentally an information-processing system — but the vault holds two distinct authorial senses of it, written from opposite valences.
+"The computational universe" names the worldview in which the cosmos itself is fundamentally an information-processing system — but the vault holds several distinct authorial senses of it, written from opposite valences.
 
 - **[[N. Katherine Hayles]]** treats the computational universe *critically and genealogically*, as a contingent, socially constructed ideology emerging from [[Artificial Life]] and cybernetics — dangerous when it slides from "useful heuristic" to a metaphysics that "privileges information over everything else." For Hayles the worldview is the totalizing target her whole book is written against, and her counter is [[Embodiment]] and [[The Materiality of Informatics]].
 - **[[Meghan O'Gieblyn]]** restates the *same* worldview independently, from physics and theology rather than from cybernetics' history. She tracks it through Wheeler's "it from bit," Seth Lloyd's digital physics, the holographic universe, and the panpsychist inflection of integrated information theory — and reads it not as Hayles's "danger" but as a **re-enchantment**: the universe-as-information functions to restore meaning, agency, and a quasi-theological order to a disenchanted cosmos. Her distinctive diagnosis is that the computer metaphor "easily slides into literalism," and that information operates as a "third substance" evading the mind-body problem.
 - **[[Yuval Noah Harari]]** holds the *same* worldview but, unlike either critic, **preaches** it. Under the name **[[Dataism]]**, he scales the computer metaphor up from the organism through societies, the economy and politics, to "the entire human species as a single data-processing system, with individual humans serving as its chips," and finally to the cosmos — a "cosmic data-processing system" that "would be like God." Where Hayles demystifies the worldview as ideology and O'Gieblyn diagnoses it as re-enchantment, Harari announces it as "the coming religion" of the twenty-first century, naming as its telos the very Internet-of-All-Things that Hayles and O'Gieblyn write against.
+- **[[Ray Kurzweil]]** holds the *same* worldview but takes a fourth stance: he is the proponent-as-working-technologist, who does not merely describe or preach the informational cosmos but proposes to **build** it. He endorses [[Edward Fredkin]]'s claim that "the universe is ultimately composed of software" and that "information rather than matter and energy may be regarded as the more fundamental reality," but corrects Stephen Wolfram (cellular automata supply only the "hardware"; an evolutionary algorithm supplies the missing "software"). Where the others ask what the cosmos *is*, Kurzweil asks what it can be *converted into*: every kilogram of ordinary matter already computes (his "How Smart Is a Rock?"), and the Singularity's Epoch Six is the project of reorganizing that "dumb" matter into intelligence until "the entire universe will become saturated with our intelligence." His stance is therefore neither demystification nor diagnosis nor preaching but **engineering** — the worldview as a feasibility study and a destiny to be executed.
 
-The three authors converge on the *content* of the worldview (information as the substance of reality, "we are the programs") and diverge on its *stance*: ideology to be demystified (Hayles), re-enchantment to be diagnosed (O'Gieblyn), and religion to be embraced (Harari). See [[Panpsychism]] for the inverse move O'Gieblyn pairs it with — mind, not information, as the cosmic substrate — and [[Dataism]] for Harari's name for the doctrine.
+The authors converge on the *content* of the worldview (information as the substance of reality, "we are the programs") and diverge on its *stance*: ideology to be demystified (Hayles), re-enchantment to be diagnosed (O'Gieblyn), religion to be embraced (Harari), and a cosmic-engineering project to be carried out (Kurzweil). Kurzweil's "build/convert" stance is distinct in kind from the two literalist positions already named inside this note: where [[Edward Fredkin]] holds that reality *is* a program and Seth Lloyd that the universe *is* a computer, Kurzweil's distinctive move is to treat the still-"dumb" matter of the cosmos as raw material to be *organized into* computation — the engineer's project rather than the metaphysician's thesis. See [[Panpsychism]] for the inverse move O'Gieblyn pairs it with — mind, not information, as the cosmic substrate — and [[Dataism]] for Harari's name for the doctrine.
 
 ## Brief Definition
 
@@ -75,6 +80,16 @@ The decisive difference is *stance*. Hayles insists the worldview "should not be
 
 ---
 
+## The Engineer of the Computational Universe (Kurzweil)
+
+Kurzweil enters the same lineage Hayles charts — von Neumann's cellular automata, Wolfram, Fredkin — but as a believer who restates and *corrects* it rather than critiques it. He names [[Edward Fredkin]] as the worldview's clearest expositor: "An enthusiastic proponent of an information-based theory of physics was Edward Fredkin, who in the early 1980s proposed a 'new theory of physics' founded on the idea that the universe is ultimately composed of software." `Directly stated`. He endorses the metaphysical payoff Fredkin draws from this — that since the energy required for a computation "has no lower limit," "information rather than matter and energy may be regarded as the more fundamental reality" — the same form-over-matter inversion that [[Material vs Immaterial|Hayles diagnoses]], here adopted rather than diagnosed. But Kurzweil refuses the pure cellular-automata version of the doctrine. Against Stephen Wolfram's claim that "the universe itself is a giant cellular-automaton computer" whose simple rules are "the true source of complexity in the world," Kurzweil objects that class 4 automata reach "a distinct limit" of complexity and "do not evolve into, say, insects or humans or Chopin preludes." His correction is precise and is the engineer's contribution: cellular automata and an evolutionary algorithm are equivalent "only on what I consider the 'hardware' level"; what they lack is "what I would call 'software'," and "it is the complexity of the software that runs on a universal computer that is precisely the issue." On Kurzweil's account the cosmos is computational, but its order is not given in the rules — it is *built* by evolution, which is why his version of the worldview points toward a project rather than a static thesis. `Directly stated`.
+
+That project is to convert the cosmos into intelligence — a move that distinguishes Kurzweil from both [[Edward Fredkin]] ("reality *is* a software program") and Seth Lloyd ("the universe *is* a computer"), both already named inside this note. Kurzweil's premise is that the raw computational capacity is already everywhere, lying inert. In [[How Smart Is a Rock|"How Smart Is a Rock?"]] he argues that "the approximately 1025 (ten trillion trillion) atoms in a kilogram of matter are actually extremely active... All of this activity represents computation, even if not very meaningfully organized," yielding "about 1042 (a million trillion trillion trillion) calculations per second" in an ordinary rock — except that "the structure of the atoms in the rock is for the most part effectively random," doing "no useful work." The whole burden of the worldview then falls on the verb *organize*: "if, on the other hand, we organize the particles in a more purposeful manner, we could have a cool, zero-energy-consuming computer." This is why his Fredkin/Lloyd lineage culminates not in a description of reality but in [[The Ultimate Laptop|the "ultimate laptop"]] — a kilogram of matter reorganized to "the maximum computational capacity, according to the known laws of physics." The computational universe, for Kurzweil, is less a fact about what matter *is* than a measure of what it could be *made* to compute. `Directly stated`.
+
+The terminus is Epoch Six, where the engineer's project becomes a cosmology. "In the aftermath of the Singularity, intelligence, derived from its biological origins in human brains and its technological origins in human ingenuity, will begin to saturate the matter and energy in its midst," "reorganizing matter and energy to provide an optimal level of computation" and spreading "from its origin on Earth" until "the 'dumb' matter and mechanisms of the universe will be transformed into exquisitely sublime forms of intelligence." Where Harari's "cosmic data-processing system" "would be like God" and humans "are destined to merge into it," Kurzweil's "the entire universe will become saturated with our intelligence. This is the destiny of the universe" frames the same cosmic apex as a feat of *engineering* — "we will determine our own fate rather than have it determined by the current 'dumb,' simple, machinelike forces that rule celestial mechanics." Thus Kurzweil confirms, from the standpoint of the working technologist, both the re-enchantment O'Gieblyn diagnoses (the universe "wakes up") and the ideology Hayles names (information installed as the substance and value of the cosmos), while occupying a stance neither of the others does: not demystifier, not diagnostician, not preacher, but the engineer who proposes to *do* it. `Interpretive synthesis` across Ch. 1–3.
+
+---
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — names and critiques the computational universe. She treats it as a contingent ideology, dangerous when it slides from "useful heuristic" to a metaphysics that privileges information over everything else; her counter is the recovery of [[Embodiment]] and the materiality of the medium.
@@ -84,6 +99,7 @@ The decisive difference is *stance*. Hayles insists the worldview "should not be
 - **[[Marvin Minsky]]** — defines human beings as "complicated machines" — a "multiprocessor with a million times a million small parts" — and dreams of "banishing death by downloading consciousness into a computer"; for Hayles his consistent downplaying of embodiment is the computational universe's anthropology in its starkest form.
 - **[[Christopher Langton]]** (as quoted by Hayles) — supplies the operative "strong claim": that the logical form of an organism can be separated from its material basis and that aliveness is a property of the former.
 - **[[Yuval Noah Harari]]** — preaches the worldview as the coming religion of [[Dataism]], scaling data-processing from the organism up through the economy and politics ("capitalism uses distributed processing, whereas communism relies on centralised processing") to "the entire human species as a single data-processing system, with individual humans serving as its chips," and finally to a "cosmic data-processing system" that "would be like God." Where Hayles demystifies and O'Gieblyn diagnoses, Harari announces.
+- **[[Ray Kurzweil]]** — the proponent-as-working-technologist who endorses [[Edward Fredkin]]'s "the universe is ultimately composed of software" and "information rather than matter and energy may be regarded as the more fundamental reality," but corrects Stephen Wolfram (cellular automata are only the "hardware"; evolution supplies the "software"). His [[How Smart Is a Rock|"How Smart Is a Rock?"]] (every kilogram already computes ~1042 cps) and Epoch Six ("the universe wakes up") turn the worldview into the engineer's project of *converting* the "dumb" matter of the cosmos into organized intelligence — distinct from Fredkin (reality *is* a program) and Lloyd (the universe *is* a computer). Where Hayles demystifies, O'Gieblyn diagnoses, and Harari announces, Kurzweil proposes to build.
 
 ## Related Concepts
 
@@ -316,3 +332,80 @@ Relevant passage:
 > Of course, even if Dataism is wrong and organisms aren’t just algorithms, it won’t necessarily prevent Dataism from taking over the world. Many previous religions gained enormous popularity and power despite their factual mistakes.
 
 Supports: Harari's preaching *stance* — Dataism framed as a coming religion whose truth is secondary to its conquest, distinguishing his embrace from Hayles's demystification and O'Gieblyn's diagnosis. Grounds the third-stance claim in the General Orientation and the closing paragraph of the Harari section. Label: `Directly stated`.
+
+### Source 20
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> An enthusiastic proponent of an information-based theory of physics was Edward Fredkin, who in the early 1980s proposed a "new theory of physics" founded on the idea that the universe is ultimately composed of software.
+
+Supports: Kurzweil's endorsement of [[Edward Fredkin]] as the clearest proponent of the informational cosmos — the "universe is ultimately composed of software" formulation. Anchors the opening of the Kurzweil section and the General Orientation's fourth stance. Label: `Directly stated`.
+
+### Source 21
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> That implies that information rather than matter and energy may be regarded as the more fundamental reality.
+
+Supports: The form-over-matter inversion Kurzweil adopts from Fredkin — information as "the more fundamental reality." The same move [[Material vs Immaterial|Hayles diagnoses]], here endorsed rather than critiqued. Label: `Directly stated`.
+
+### Source 22
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]
+Relevant passage:
+
+> Wolfram say that the class 4 automata and an evolutionary algorithm are "computationally equivalent." But that is true only on what I consider the "hardware" level. On the software level, the other of the patterns produced are clearly different an of a different order of complexity and usefulness.
+
+Supports: Kurzweil's correction of Wolfram — cellular automata are only the "hardware," and an evolutionary algorithm supplies the missing "software." Grounds the claim that Kurzweil's worldview points toward a *built* order rather than a static thesis. Label: `Directly stated`. (Transcription verbatim from the raw chapter, including its OCR artifacts.)
+
+### Source 23
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> Although it may appear that nothing much is going on inside a rock, the approximately 1025 (ten trillion trillion) atoms in a kilogram of matter are actually extremely active... All of this activity represents computation, even if not very meaningfully organized.
+
+Supports: The premise of [[How Smart Is a Rock|"How Smart Is a Rock?"]] — ordinary matter already computes (~1042 cps), but "not very meaningfully organized." The burden of Kurzweil's project falls on *organizing* this latent computation. Bridges to [[The Ultimate Laptop]]. Label: `Directly stated`.
+
+### Source 24
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]
+Relevant passage:
+
+> If, on the other hand, we organize the particles in a more purposeful manner, we could have a cool, zero-energy-consuming computer with a memory of about a thousand trillion trillion bits and a processing capacity of 1042 operations per second, which is about ten trillion times more powerful than all human brains on Earth, even if we use the most conservative (highest) estimate of 1019 cps.
+
+Supports: The engineer's move — converting inert, "effectively random" atomic computation into useful computation by *organizing* it. The hinge from Fredkin's "reality is software" to Kurzweil's "convert the matter of the cosmos." Underwrites [[The Ultimate Laptop]] and the build/convert stance. Label: `Directly stated`.
+
+### Source 25
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]
+Relevant passage:
+
+> In the aftermath of the Singularity, intelligence, derived from its biological origins in human brains and its technological origins in human ingenuity, will begin to saturate the matter and energy in its midst.
+
+Supports: Epoch Six — "The Universe Wakes Up." The cosmic apex of Kurzweil's project: intelligence saturating and reorganizing the matter and energy of the cosmos. Confirms, from the technologist's side, the re-enchantment O'Gieblyn diagnoses and the cosmic-computer image Hayles critiques. Label: `Directly stated`.
+
+### Source 26
+
+Book: *The Singularity Is Near: When Humans Transcend Biology*
+Author: Ray Kurzweil
+Raw file: [[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]
+Relevant passage:
+
+> Ultimately, the entire universe will become saturated with our intelligence. This is the destiny of the universe. (See chapter 6.) We will determine our own fate rather than have it determined by the current "dumb," simple, machinelike forces that rule celestial mechanics.
+
+Supports: Kurzweil's framing of the cosmic terminus as an *engineering* destiny — "we will determine our own fate" by converting "dumb" matter into intelligence. The fourth stance (build/convert) set against Harari's "merge into" a god-like system. Grounds the closing of the Kurzweil section. Label: `Directly stated`.
