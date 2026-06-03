@@ -6,6 +6,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/14 Epilogue]]"
 related:
   - "[[The Singularity Is Near]]"
   - "[[Transhumanism]]"
@@ -13,6 +15,9 @@ related:
   - "[[Patternism]]"
   - "[[Mind Uploading]]"
   - "[[The Computational Universe]]"
+  - "[[The Event Horizon of the Singularity]]"
+  - "[[Singularitarian]]"
+  - "[[The Universe Wakes Up]]"
 opposes: []
 authors:
   - "[[Ray Kurzweil]]"

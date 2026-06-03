@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "overview"
             }
+          },
+          {
+            "id": "f834aa7d83dfadd5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overview"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,8 +210,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "186e52786d09f8dc",
+  "active": "f834aa7d83dfadd5",
   "lastOpenFiles": [
+    "maps/Home.md",
+    "overview.md",
     "concepts/The Materiality of Informatics.md",
     "Untitled.canvas",
     "tensions/Material vs Immaterial.md",
@@ -228,7 +240,6 @@
     "sources/Harari - Homo Deus - 06 The Storytellers.md",
     "sources/Harari - Homo Deus - 03 The Anthropocene.md",
     "references/Yuval Noah Harari and N. Katherine Hayles.md",
-    "references/Yuval Noah Harari and Byung-Chul Han.md",
     "raw/Kandinsky - On the Spiritual in Art",
     "02-Sources/Essays/AI Is Inherently Evil",
     "02-Sources/Books/The Extinction of Experience",

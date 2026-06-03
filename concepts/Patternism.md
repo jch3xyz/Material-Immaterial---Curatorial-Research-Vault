@@ -7,6 +7,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
   - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/13 Ch9 - Response to Critics]]"
 related:
   - "[[Pattern and Randomness]]"
   - "[[Posthumanism]]"

@@ -13,6 +13,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
   - "[[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/09 Ch5 - GNR - Three Overlapping Revolutions]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/10 Ch6 - The Impact]]"
 related:
   - "[[Posthumanism]]"
   - "[[Information (Hayles)]]"

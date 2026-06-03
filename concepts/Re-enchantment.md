@@ -6,6 +6,7 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian]]"
 related:
   - "[[Transhumanism]]"
   - "[[Panpsychism]]"

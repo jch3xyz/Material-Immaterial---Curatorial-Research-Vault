@@ -8,6 +8,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/13 Ch9 - Response to Critics]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/10 Ch6 - The Impact]]"
 related:
   - "[[Artificial Life]]"
   - "[[Feedback Loops]]"

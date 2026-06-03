@@ -9,6 +9,8 @@ sources:
   - "[[raw/Harari - Homo Deus/13 The Ocean of Consciousness]]"
   - "[[raw/Harari - Homo Deus/04 The Human Spark]]"
   - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian]]"
+  - "[[raw/Kurzweil - The Singularity Is Near/13 Ch9 - Response to Critics]]"
 related:
   - "[[Mind as Machine]]"
   - "[[Posthumanism]]"
@@ -24,6 +26,7 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[David Chalmers]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Ray Kurzweil]]"
 confidence: high
 last_updated: 2026-06-02
 ---
