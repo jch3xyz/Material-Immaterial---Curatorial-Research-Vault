@@ -40,6 +40,8 @@ All symbol and metaphor notes.
 - [[Version 1.0 Biological Bodies]] — the body as obsolescent hardware; the counter-figure to Hayles's 'data made flesh' (Kurzweil)
 - [[How Smart Is a Rock]] — a kilogram of matter already computes ~10^42 cps; intelligence as the purposeful organization of computation matter already does (Kurzweil)
 - [[The Lily Pads on the Lake]] — the parable of exponential onset: the last seven doublings cover the whole lake (Kurzweil)
+- [[Machines Made of Sunshine]] — the immaterial microelectronic machine as 'nothing but signals'; 'Cyborgs are ether, quintessence' (Haraway)
+- [[The Salamander (Regeneration)]] — the monstrous, potent regrown limb as the figure of cyborg reconstitution after injury (Haraway)
 
 ## Symbols
 
@@ -57,3 +59,6 @@ All symbol and metaphor notes.
 - [[The Gestation Crate]] — industrial farming as the test of humanist ethics; the sow's suffering as the measure of the modern covenant (Harari)
 - [[Aaron Swartz, Dataism's First Martyr]] — the open-access activist as the symbol of the freedom-of-information creed (Harari)
 - [[The Ultimate Laptop]] — Lloyd's physical maximum for a 1 kg computer (~5 x 10^50 ops/sec); the symbol of computation's vast physical runway (Kurzweil)
+- [[I Would Rather Be a Cyborg Than a Goddess]] — the manifesto's signature closing slogan (Haraway)
+- [[Blasphemy]] — Haraway's faithful-but-not-reverent method, paired with irony (Haraway)
+- [[C3I]] — command-control-communication-intelligence as the condensed emblem of the coded-control regime (Haraway)

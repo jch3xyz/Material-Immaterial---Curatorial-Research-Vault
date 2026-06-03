@@ -6,6 +6,8 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
   - "[[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Homeostasis]]"
@@ -20,6 +22,7 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Norbert Wiener]]"
+  - "[[Donna Haraway]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -29,6 +32,10 @@ last_updated: 2026-06-01
 ## Brief Definition
 
 The postwar synthesis—named from the Greek for "steersman"—that fuses information, control, and communication into a single framework applying equally to animals, humans, and machines, all reconceived as information-processing systems whose boundaries are constructed rather than given.
+
+## General Orientation
+
+Cybernetics is a shared note carrying distinct but compatible author treatments. For [[N. Katherine Hayles]] and [[Norbert Wiener]] (below), it is read primarily *epistemologically and ontologically*: the discipline that reconstructs the human as an information-processing system and makes the boundary of the subject "constructed rather than given." For [[Donna Haraway]], the same boundary-dissolving move is read *politically*: cybernetics' fusion of control, communication, and information becomes the ground of the late-twentieth-century subject ("coded by C3I") and the engine of what she names the [[The Informatics of Domination|informatics of domination]]. Where Hayles contests the abstraction of pattern from flesh, Haraway asks whose domination the cybernetic recoding of organisms into biotic components serves—and what oppositional politics the cyborg, as a cybernetic organism, might enable. The sections below treat each sense in turn.
 
 ## Longer Explanation
 
@@ -40,10 +47,17 @@ Hayles narrates cybernetics not as one settled paradigm but as three seriated wa
 
 Crucially, Hayles insists cybernetics did not have to mean disembodiment. Its founder "did not intend to dismantle the liberal humanist subject"; "for [[Norbert Wiener|Wiener]], cybernetics was a means to extend liberal humanism, not subvert it." Cybernetics "was born in a froth of noise when Norbert Wiener first thought of it as a way to maximize human potential in a world that is in essence chaotic and unpredictable." The disembodiment that followed was, in her account, "not inevitable"—a contingent outcome of contests within the field, which is why she can imagine recovering a cybernetics in which "embodiment replaces a body seen as a support system for the mind."
 
+## The Cyborg as Cybernetic Organism (Haraway)
+
+For [[Donna Haraway]], cybernetics is not principally a theory to be reconstructed but the political ground of the present. Her keystone figure is itself a cybernetic artifact: "A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction." The cyborg *is* a cybernetic organism by definition, so cybernetics names the very condition Haraway diagnoses—"by the late twentieth century, our time, a mythic time, we are all chimeras, theorized and fabricated hybrids of machine and organism—in short, cyborgs." Where Hayles reads the dissolution of the human/machine boundary epistemologically, Haraway takes the same fusion of control, communication, and information as the political substance of the late-twentieth-century subject, condensing the discipline's fundamentals into a military metaphor she repeatedly invokes—"command-control-communication-intelligence, the military’s symbol for its operations theory." Modern war, she writes, is "a cyborg orgy, coded by C3I." `Directly stated`
+
+Haraway's distinctive contribution is to politicize cybernetics' boundary-dissolving move as a system of power—the [[The Informatics of Domination|informatics of domination]]. She tracks the cybernetic recasting of living things into information: "In a sense, organisms have ceased to exist as objects of knowledge, giving way to biotic components, i.e., special kinds of information-processing devices." This recoding is not neutral. For Haraway, "communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange." The operative quantity is the one cybernetics theorizes: "the key operation is determining the rates, directions, and probabilities of flow of a quantity called information. The world is subdivided by boundaries differentially permeable to information." Thus where Hayles measures cybernetics against [[Embodiment|embodiment]], Haraway measures it against domination—asking not only that the cybernetic subject's boundaries are constructed but in whose interest, and toward what oppositional recoupling the figure of [[The Cyborg|the cyborg]] might be turned. `Strongly implied` (Haraway's quoted passages are directly stated; the framing of her contribution *as* the politicization of the move Hayles treats epistemologically is interpretive synthesis across the two authors).
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — treats cybernetics as the seriated discipline (three waves) whose history shows how information was abstracted from materiality; her critical project contests the [[Embodiment vs Information|materiality/information separation]] cybernetics helped install, while refusing to read disembodiment as cybernetics' necessary meaning.
 - **[[Norbert Wiener]]** — the "father of cybernetics," who fused control, communication, and information into "a universal theory of knowledge" yet sought to align it with liberal humanism, fashioning "human and machine alike in the image of an autonomous, self-directed individual." His "Behavior, Purpose, and Teleology" (with Bigelow and Rosenblueth) is, in Hayles's account, "the founding document for cybernetics."
+- **[[Donna Haraway]]** — reads cybernetics politically rather than epistemologically: the cyborg "is a cybernetic organism," and cybernetics' fusion of control, communication, and information ("coded by C3I") is the ground of the late-twentieth-century subject. Her contribution is to recast the cybernetic recoding of "organisms… [as] biotic components, i.e., special kinds of information-processing devices" as a system of power—the [[The Informatics of Domination|informatics of domination]]—and to ask what oppositional politics [[The Cyborg|the cyborg]] might enable from inside it.
 
 ## Related Concepts
 
@@ -147,3 +161,47 @@ Relevant passage:
 > cybernetics was born in a froth of noise when Norbert Wiener first thought of it as a way to maximize human potential in a world that is in essence chaotic and unpredictable.
 
 Supports: The origin story framing cybernetics as Wiener's response to a chaotic, probabilistic world—the steersman steering through unpredictability. Label: `Directly stated`
+
+### Source 8
+
+Book: *A Cyborg Manifesto*
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction.
+
+Supports: The definitional core of the Haraway section—the cyborg is, by definition, a cybernetic organism, which makes cybernetics the ground of her central figure. Label: `Directly stated`
+
+### Source 9
+
+Book: *A Cyborg Manifesto*
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> And modern war is a cyborg orgy, coded by C3I, command-control-communication-intelligence, an $84 bil lion item in 1984’s U.S. defense budget.
+
+Supports: Haraway's reading of cybernetics' control/communication/information synthesis ("coded by C3I") as the political ground of the late-twentieth-century subject. Label: `Directly stated` (OCR splits "billion" as "bil lion"; quoted verbatim from source.)
+
+### Source 10
+
+Book: *A Cyborg Manifesto*
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]
+Relevant passage:
+
+> In a sense, organisms have ceased to exist as objects of knowledge, giving way to biotic components, i.e., special kinds of information-processing devices.
+
+Supports: The cybernetic recasting of organisms as information-processing devices that Haraway politicizes as the informatics of domination. Label: `Directly stated`
+
+### Source 11
+
+Book: *A Cyborg Manifesto*
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]
+Relevant passage:
+
+> Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange.
+
+Supports: Cybernetics' boundary-dissolving translation of the world into code as the move Haraway reads as a system of instrumental control. Label: `Directly stated`

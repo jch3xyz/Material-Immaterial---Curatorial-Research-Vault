@@ -82,6 +82,16 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[We are not our bodies but a pattern of information that persists through material turnover]] — Kurzweil's patternism in his own first-person voice; the load-bearing find, the affirmative inverse of Hayles's embodiment
 - [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil's answer to the continuity-of-identity objection ('no old Ray and new Ray')
 
+### Donna Haraway — A Cyborg Manifesto
+
+- [[The cyborg is our ontology and it gives us our politics]] — the manifesto's keystone claim: the cyborg as the condition we already inhabit, and the source of a non-innocent politics
+- [[Take pleasure in the confusion of boundaries and responsibility for their construction]] — the ethical-methodological imperative; the double move of pleasure and accountability
+- [[The cyborg has no origin story in the Western sense]] — the refusal of the Garden, organic wholeness, and the myth of original unity
+- [[There is no natural basis for the unity of women]] — the dismantling of essential identity; coalition by affinity, not by nature
+- [[The world is being translated into a problem of coding]] — the common move of communications sciences and modern biologies; the cross-book bridge to Hayles and Harari
+- [[The homework economy is made possible by not caused by the new technologies]] — the material/economic substrate; technology as enabling condition, not cause
+- [[The machine is us an aspect of our embodiment]] — the affirmed organism/machine boundary breakdown; the machine as part of, not opposed to, the body
+
 ## By Theme
 
 ### On transparency and visibility
@@ -104,6 +114,8 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Information is a third substance that evades rather than solves the mind-body problem]] — the abstraction invented to avoid essence used to fill materialism's gap (O'Gieblyn)
 - [[The mind-uploading problem is the resurrection problem in technical dress]] — disembodied pattern read theologically (O'Gieblyn)
 - [[We are not our bodies but a pattern of information that persists through material turnover]] — patternism in the proponent's own voice; the affirmative pole Hayles and O'Gieblyn write against (Kurzweil)
+- [[The machine is us an aspect of our embodiment]] — the machine affirmed as part of the body rather than its outside; the organism/machine boundary breached (Haraway)
+- [[The world is being translated into a problem of coding]] — the body and world recoded as information; the bridge from Haraway to Hayles's pattern thesis
 
 ### On the posthuman and the subject
 
@@ -119,6 +131,9 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Technology not philosophy will break liberalism]] — biotech and AI, not argument, dissolve liberal individualism (Harari)
 - [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil dissolves the continuity-of-identity objection by making the merger imperceptible (Kurzweil)
 - [[We are not our bodies but a pattern of information that persists through material turnover]] — the self as substrate-independent pattern; the proponent's celebratory pole (Kurzweil)
+- [[The cyborg is our ontology and it gives us our politics]] — the post-liberal subject as machine-organism hybrid, the affirmative counterpart to the erased subject (Haraway)
+- [[There is no natural basis for the unity of women]] — the dissolution of essential identity into fractured, coalitional affinity (Haraway)
+- [[The cyborg has no origin story in the Western sense]] — the refusal of original unity and the myth of wholeness (Haraway)
 
 ### On desire and control
 
@@ -146,6 +161,19 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Prediction enacts the very fate it foresees]] — predictive systems as behavior-modifying feedback loops (O'Gieblyn)
 - [[The simulation hypothesis is a secularized argument from design]] — the cosmos as computer program (O'Gieblyn)
 - [[Big Data is blind to the event and so blind to the future]] — additive data cannot capture the incalculable event (Han)
+- [[The world is being translated into a problem of coding]] — communications sciences and biologies reduce the world to a coding problem (Haraway)
+
+### On boundaries, identity, and affinity (Haraway)
+
+- [[The cyborg is our ontology and it gives us our politics]] — the keystone claim: the cyborg as lived condition and source of politics
+- [[Take pleasure in the confusion of boundaries and responsibility for their construction]] — the ethical imperative of pleasure and accountability
+- [[The cyborg has no origin story in the Western sense]] — the refusal of the Garden, wholeness, and original unity
+- [[There is no natural basis for the unity of women]] — coalition by affinity, not by nature
+- [[The machine is us an aspect of our embodiment]] — the organism/machine boundary affirmatively breached
+
+### On art, labour, and the economy
+
+- [[The homework economy is made possible by not caused by the new technologies]] — the feminization of work as the material substrate; technology as enabling condition, not cause (Haraway)
 
 ### On religion, meaning, and disenchantment (O'Gieblyn)
 

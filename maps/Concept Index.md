@@ -12,6 +12,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 
 - [[Acceleration]] — speed stripped of sense; only additive processes admit it; immunosuppression is the price of acceleration
 - [[Achievement Society]] — neoliberal regime of auto-exploitation through self-mastery and entrepreneurship of the self; the achievement-subject as absolute slave
+- [[Affinity Not Identity]] — Haraway: political coalition by chosen affinity rather than essential/natural identity ('related not by blood but by choice')
 - [[Algorithmic Determinism]] — prediction as behavior-modifying feedback loop trapping people in their digital reflection; prediction enacts the fate it foresees
 - [[Algorithms That Know Us Better Than We Know Ourselves]] — Harari: the dissolution of liberal individualism as external algorithms gain authority over the self
 - [[Allo-Exploitation]] — exploitation by an other; the antonym of [[Auto-Exploitation]] superseded under neoliberalism (Han)
@@ -22,6 +23,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Autopoiesis]] — Maturana & Varela's self-making circular organization; resists the disembodiment of information
 - [[Beyond the Subject]] — Han's de-psychologized, de-voided existence past the subject-form; the emancipatory horizon of psychopolitics
 - [[Big Data]] — the aperspectival instrument of digital psychopolitics that pre-empts free will (Han)
+- [[The Breached Boundaries]] — Haraway's three boundary breakdowns (human/animal, organism/machine, physical/nonphysical), introduced in section 01 and declared dissolved in section 06
 - [[Biopolitics]] — the governmental technology of disciplinary power over the body and population; foil to psychopolitics (Han, realized from forward-stub)
 - [[Can It Suffer (The Reality Test)]] — Harari's criterion separating the real (suffering subjects) from the fictional (money, gods, nations)
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
@@ -29,6 +31,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Capitalism as Religion (Harari)]] — Harari: capitalism issuing ethical verdicts under cover of fact; beside Capital as Religion (Han)
 - [[Conceptual Art]] — 'idea art' (Lippard, LeWitt, Kosuth): the idea supersedes the visual/material result; 'ideas can be art'
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
+- [[Cyborg Writing]] — Haraway: survival by seizing the tools of signification that marked the othered as other; noise and pollution against perfect communication
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
 - [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
 - [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
@@ -48,6 +51,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Exploitation of Freedom]] — control via voluntary self-illumination rather than external coercion; the book's central title-thesis — freedom itself is producing coercion (Han, Psychopolitics)
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
 - [[Flickering Signifier]] — Hayles's figure for signification under conditions of code and mutation, the informatic successor to the floating signifier
+- [[Fractured Identities]] — Haraway: identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
 - [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
 - [[Freedom of Information]] — Dataism's supreme value, the first genuinely new value since 1789 (Harari)
 - [[Gamification]] — play enlisted to heighten productivity, so the player self-subjugates in the act of playing (Han)
@@ -57,6 +61,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Healing vs Upgrading]] — Harari: egalitarian medicine that heals the sick vs elitist medicine that upgrades the healthy
 - [[Hell of the Same]] — Han's figure for the monocultural inferno produced by equivalence; the Inferno of the Same and Big-Data sameness
 - [[Homeostasis]] — the first-wave constellation of steady-state self-regulation, allying information-as-thing with stability
+- [[The Homework Economy]] — Haraway (after Richard Gordon): the worldwide feminization of work; precursor to Han's immaterial labour
 - [[Homo Deus]] — Harari: the upgraded human-as-god via the three paths of bioengineering, cyborg engineering, and inorganic life (distinct from the book note)
 - [[Humanism (Harari)]] — Harari: humanism as the worship of humankind; the dominant modern religion
 - [[Hypercommunication]] — communication accelerated by eliminating the friction of the Other; total/coercive communication and its self-destruction
@@ -70,7 +75,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Immaterial Labour]] — neoliberal immaterial/non-physical production that releases the body from production (Han)
 - [[Immunological Age]] — shock as immunological negativity; acceleration requires immunosuppression (Han)
 - [[Information]] — positivized, operationalized language without the negativity of insight; data positivism and the end of theory
-- [[Informatics]] — the whole network of information technologies plus the changes that accompany them (after Haraway)
+- [[Informatics]] — the whole network of information technologies plus the changes that accompany them (Hayles's term, taken from Haraway; kept distinct from [[The Informatics of Domination]])
+- [[The Informatics of Domination]] — Haraway's coinage for the shift from organic hierarchical dominations to coded command-control-communication networks; the source of Hayles's 'informatics'
 - [[Inscription vs Incorporation]] — abstract transportable sign-systems vs embodied habitual practice; 'as the body is to embodiment, so inscription is to incorporation'
 - [[Integrated Information Theory]] — Tononi and Koch's theory that consciousness is integrated information, quantified by phi; atoms, bacteria, even the internet may be conscious
 - [[The Internet-of-All-Things]] — Harari: Dataism's eschaton, the cosmic data-processing system humanity is destined to feed and merge into
@@ -87,6 +93,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
 - [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
 - [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
+- [[Oppositional Consciousness]] — Sandoval's model (via Haraway): identity born of reading webs of power from refused category-membership
 - [[Order as Information That Fits a Purpose]] — Kurzweil's metaphysical hinge: order (not mere complexity) is what evolution increases; the ground of LOAR and patternism
 - [[Organisms Are Algorithms]] — Harari's keystone biological thesis; cross-links Patternism, Algorithmic Determinism, and The Body as Data
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
@@ -100,6 +107,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
+- [[The Refusal of Innocence]] — Haraway: the cyborg's rejection of origin myths, organic wholeness, the Garden, and victimhood-as-insight
 - [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
 - [[Reverse-Engineering the Human Brain]] — scanning, modeling, and re-instantiating the brain's 'software of intelligence' on faster substrates; the software complement to the hardware-capacity argument (Kurzweil)
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
@@ -118,7 +126,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
 - [[The Body as Data]] — the body recoded as informational pattern ('data made flesh'; downloadable consciousness), the fantasy Hayles contests; the digital habitus as a likeness of the soul (Han)
 - [[The Computational Universe]] — the worldview in which humans, machines, and cosmos alike process information; a contingent ideology Hayles critiques
-- [[The Cyborg]] — both technological object and discursive formation (Haraway + Hayles); the figure joining enacted and represented bodies
+- [[The Cyborg]] — both technological object and discursive formation; Haraway's hybrid of machine and organism ('our ontology' that 'gives us our politics') joined to Hayles's figure of enacted and represented bodies (now realized from Haraway's primary text)
 - [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate/catalogue as the material residue of the immaterial work; art-historical analogue of 'information must be instantiated in a medium'
 - [[The Event]] — the incalculable rupture that wrests the subject from subjection; Big Data's blind spot (Han)
 - [[The Hard Problem of Consciousness]] — Chalmers's problem of why physical processes are accompanied by subjective experience; 'quantities could not generate qualities'
@@ -143,6 +151,9 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
 - [[Upgrading Inequality]] — Harari: medicine upgrading the healthy rather than healing the sick, producing biological castes
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
+- [[Women in the Integrated Circuit]] — Haraway: women's dispersed, contradictory positions across seven loci in the microelectronic world-system
+- [[Women of Color as a Cyborg Identity]] — Haraway: the exemplary coalitional affinity-identity, named a cyborg identity in section 06
+- [[The World as a Problem of Coding]] — Haraway: the common move of communications sciences and modern biologies; cross-book bridge to Hayles's pattern thesis and Harari's organisms-are-algorithms
 - [[Writing Reshapes Reality]] — Harari: text forcing reality to conform to its bureaucratic categories
 
 ## Thematic Clusters
@@ -158,7 +169,10 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Virtuality]] — material objects perceived as interpenetrated by information patterns
 - [[The Body as Data]] — the body recoded as downloadable informational pattern; the digital habitus as a likeness of the soul (Han)
 - [[Informatics]] — the network of information technologies and the changes they bring
+- [[The Informatics of Domination]] — the shift from organic hierarchical dominations to coded command-control-communication networks (Haraway)
+- [[The World as a Problem of Coding]] — communications sciences and biologies translating the world into code (Haraway)
 - [[Immaterial Labour]] — neoliberal immaterial production that releases the body from production (Han)
+- [[The Homework Economy]] — the worldwide feminization of work; precursor to Han's immaterial labour (Haraway)
 - [[Big Data]] — the aperspectival instrument that renders the body as exploitable data (Han)
 - [[Dataism]] — the data-positivist ideology that displaces matter and theory with the datum (Han)
 - [[Intersubjective Reality]] — money, gods, nations: the immaterial fictions more powerful than material things (Harari)
@@ -175,7 +189,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Liberal Humanist Subject]] — the autonomous self-possessing subject the posthuman supersedes
 - [[The Body as Data]] — the fantasy of consciousness downloaded from its substrate
 - [[Distributed Cognition]] — cognition spread across human and nonhuman actors
-- [[The Cyborg]] — the figure joining enacted and represented bodies (Haraway + Hayles)
+- [[The Cyborg]] — Haraway's hybrid of machine and organism joined to Hayles's figure of enacted and represented bodies
+- [[The Breached Boundaries]] — the three breakdowns (human/animal, organism/machine, physical/nonphysical) that make the cyborg possible (Haraway)
 - [[Inscription vs Incorporation]] — abstract transportable signs vs embodied habitual practice
 - [[The Platonic Backhand and Forehand]] — the moves that make embodiment derivative of abstraction
 - [[Transhumanism]] — the eschatological program read as secularized resurrection; posthumanism's religious double (O'Gieblyn)
@@ -216,6 +231,21 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Computational Universe]] — the worldview in which everything processes information
 - [[Seriation]] — overlapping replication and innovation against paradigm shift
 - [[Skeuomorph]] — a vestigial functional feature that smooths conceptual transitions
+
+### Cyborg Feminism (Haraway)
+
+- [[The Cyborg]] — the hybrid of machine and organism; 'our ontology' that 'gives us our politics'
+- [[The Breached Boundaries]] — the three boundary breakdowns (human/animal, organism/machine, physical/nonphysical) that ground the cyborg
+- [[The Refusal of Innocence]] — the rejection of origin myths, organic wholeness, the Garden, and victimhood-as-insight
+- [[Fractured Identities]] — identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
+- [[Affinity Not Identity]] — political coalition by chosen affinity rather than essential/natural identity
+- [[Oppositional Consciousness]] — identity born of reading webs of power from refused category-membership (Sandoval via Haraway)
+- [[Women of Color as a Cyborg Identity]] — the exemplary coalitional affinity-identity named a cyborg identity
+- [[Cyborg Writing]] — seizing the tools of signification; noise and pollution against perfect communication
+- [[The Informatics of Domination]] — the coded command-control-communication grid the cyborg is enmeshed in
+- [[Women in the Integrated Circuit]] — women's dispersed positions across the microelectronic world-system
+- [[The Homework Economy]] — the worldwide feminization of work; the material substrate of cyborg politics
+- [[The World as a Problem of Coding]] — the common move of communications sciences and modern biologies
 
 ### The Affirmative Cosmology of Information (Kurzweil)
 

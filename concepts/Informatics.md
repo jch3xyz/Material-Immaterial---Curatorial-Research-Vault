@@ -3,6 +3,7 @@ type: concept
 status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
 related:
   - "[[Posthumanism]]"
   - "[[Feedback Loops]]"
@@ -11,6 +12,7 @@ related:
   - "[[The Body as Data]]"
   - "[[The Materiality of Informatics]]"
   - "[[Material vs Immaterial]]"
+  - "[[The Informatics of Domination]]"
   - "[[Donna Haraway]]"
 opposes:
   - "[[Embodiment vs Information]]"
@@ -22,6 +24,12 @@ last_updated: 2026-06-01
 ---
 
 # Informatics
+
+## General Orientation
+
+"Informatics" carries two distinct senses in this vault, and they must be kept apart. The originating sense is [[Donna Haraway]]'s: in *A Cyborg Manifesto* (1985) she names "the scary new networks I have called the informatics of domination" — a specific historical *regime of power*, a column of post-WWII transitions (organism → biotic component, reproduction → replication, mind → artificial intelligence) in which the world is reconstrued as "a problem of coding." The broader, descendant sense is [[N. Katherine Hayles]]'s: she takes the bare word "[f]ollowing Donna Haraway" and generalizes it into a *relational field* — the network of feedback among bodies, texts, and technologies. Hayles's is the field; Haraway's is the regime that first put the word in circulation.
+
+This note holds the **Hayles relational-field sense** as its through-line. Haraway's **regime sense** gets its own dedicated treatment in [[The Informatics of Domination]] — the two are kept reciprocally distinct on the model of [[Information]] vs. [[Information (Han)]] in the vault; the section below records the borrowing and the primary text, but does not collapse the regime account into this note.
 
 ## Brief Definition
 
@@ -40,7 +48,15 @@ It matters that informatics is a *network* and not an essence, because this fram
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — informatics is the network of relations among bodies, texts, and technologies, organized by feedback and feedforward loops; it is the field within which the shift from presence/absence to pattern/randomness reshapes both the material substrate (the body) and the codes of representation (the message). Distinct from the technical concept of information.
-- **[[Donna Haraway]]** — Hayles takes the term "[f]ollowing Donna Haraway." In Haraway's "informatics of domination," the word names a regime of relations in which the world is reconstrued as a problem of coding and command-control-communication — a framing Hayles adapts to her account of embodiment and textuality. (Haraway cited by Hayles; the fuller account awaits Haraway's own ingest.)
+- **[[Donna Haraway]]** — the originating sense. Haraway coined "the informatics of domination" in *A Cyborg Manifesto* to name a post-WWII *regime of power* in which the world is reconstrued as "a problem of coding" and command-control-communication. Hayles takes the bare word "[f]ollowing Donna Haraway" and broadens it into a relational field. See the section below, and the dedicated note [[The Informatics of Domination]] for the full regime account. (`Directly stated` for the coinage and borrowing; the field/regime distinction is `Interpretive synthesis`.)
+
+## ## Donna Haraway (the originating sense: informatics of domination)
+
+The word "informatics" enters this vault's vocabulary through Donna Haraway, who coins **the informatics of domination** in *A Cyborg Manifesto* (the chapter of that name). It is not, in Haraway, a neutral relational field but a specific historical *regime of power*. She charts a column of transitions "from the comfortable old hierarchical dominations to the scary new networks I have called the informatics of domination" — representation → simulation, organism → biotic component, reproduction → replication, mind → artificial intelligence, "white capitalist patriarchy → informatics of domination." The left column is the "organic, industrial society"; the right is the "polymorphous, information system." Crucially, the dichotomies are "[s]imultaneously material and ideological," so the regime is not a story of pure immateriality — a point that aligns it with [[The Materiality of Informatics]] rather than against it.
+
+What unifies the regime is a single epistemic operation. "Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange." Under this move the organism "ceased to exist as objects of knowledge, giving way to biotic components, i.e., special kinds of information-processing devices," and the governing logic becomes that of [[Information (Hayles)|information]] as "that kind of quantifiable element... that allows universal translation, and so unhindered instrumental power." Haraway condenses the whole technology into the military's metaphor "C3I, command-control-communication-intelligence." This is the source from which [[N. Katherine Hayles]] borrows: where Haraway names a regime of domination, Hayles generalizes the bare word into a field of feedback among bodies, texts, and technologies (`Directly stated` that Hayles follows Haraway; `Interpretive synthesis` that the field-sense softens the regime-sense).
+
+The two senses are deliberately **not collapsed**. Haraway's regime-sense — the polemical, power-laden account with its full chart of transitions, its [[The Cyborg|cyborg]] subject "not subject to Foucault's biopolitics," and its "women in the integrated circuit" — lives in the dedicated note [[The Informatics of Domination]]. This note keeps Hayles's broader relational-field sense as its through-line. The split mirrors [[Information]] / [[Information (Han)]] in the vault: one canonical word, two source-anchored senses, linked reciprocally rather than merged (`Interpretive synthesis`).
 
 ## Related Concepts
 
@@ -121,3 +137,25 @@ Relevant passage:
 > In fact, it is precisely because material interfaces have changed that pattern and randomness can be perceived as dominant over presence and absence. The pattern/randomness dialectic does not erase the material world; information in fact derives its efficacy from the material infrastructures it appears to obscure.
 
 Supports: Grounds the seam between informatics and its counter-thesis [[The Materiality of Informatics]] — that the network is materially produced and that the dematerialization it foregrounds is an illusion to be investigated, not presupposed. Supports the [[Material vs Immaterial]] cross-link. Label: `Directly stated`.
+
+### Source 6
+
+Book: *A Cyborg Manifesto* (in *Manifestly Haraway*, University of Minnesota Press, 2016)
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]
+Relevant passage:
+
+> Simultaneously material and ideological, the dichotomies may be expressed in the following chart of transitions from the comfortable old hierarchical dominations to the scary new networks I have called the informatics of domination
+
+Supports: The coinage. Establishes that "informatics" enters this vault's vocabulary as Haraway's name for a *regime of power* — a chart of transitions "from the comfortable old hierarchical dominations to the scary new networks" — and that it is "[s]imultaneously material and ideological," not a story of pure immateriality. Anchors the [[Donna Haraway]] author-section and the reciprocal link to [[The Informatics of Domination]]. Label: `Directly stated`.
+
+### Source 7
+
+Book: *A Cyborg Manifesto* (in *Manifestly Haraway*, University of Minnesota Press, 2016)
+Author: Donna J. Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]
+Relevant passage:
+
+> Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange.
+
+Supports: The unifying operation of Haraway's regime — "the translation of the world into a problem of coding" — which is the conceptual seed [[N. Katherine Hayles]] generalizes. Grounds the claim that the regime-sense (Haraway) and the relational-field sense (Hayles) share a coding logic while remaining distinct, and that this note holds the field-sense while [[The Informatics of Domination]] holds the regime. Label: `Directly stated`.

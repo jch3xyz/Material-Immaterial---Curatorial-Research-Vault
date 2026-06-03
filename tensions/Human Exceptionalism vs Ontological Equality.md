@@ -7,12 +7,15 @@ poles:
 authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Donna Haraway]]"
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
   - "[[raw/Harari - Homo Deus/03 The Anthropocene]]"
   - "[[raw/Harari - Homo Deus/04 The Human Spark]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]"
 related_concepts:
   - "[[Imago Dei]]"
   - "[[Disenchantment]]"
@@ -31,13 +34,15 @@ last_updated: 2026-06-02
 
 ## General Orientation
 
-This is a **two-author tension**, and the two authors enter it from opposite ends, which is why the note keeps both senses distinct rather than fusing them.
+This is a **three-author tension**, and the authors enter it from different ends, which is why the note keeps the senses distinct rather than fusing them.
 
 - **[[Meghan O'Gieblyn]]** ([[God Human Animal Machine|God, Human, Animal, Machine]]) works the tension as a *meaning* problem. Her question is what the leveling pole *costs*: she shows that "ontological equality" is a "risky ontological bargain" — to grant intelligence and life to plants, swarms, and machines you must lower the human to "the exchange of information," re-enchanting the world by *disenchanting ourselves*, until the dethroned human slides from one-among-equals to the *defect* (virus, bug, "human error"). Her sections below carry this reading.
 
 - **[[Yuval Noah Harari]]** ([[Homo Deus]]) works the tension as an *ethics* problem, and sharpens the poles into a single test question: do humans possess any "magical spark, in addition to higher intelligence and greater power," that distinguishes them from "pigs, chickens, chimpanzees and computer programs alike"? He stages a symmetry — if a superintelligent AI may not exploit humans despite its superior intelligence and power, then mere intelligence and power cannot license *our* exploitation of pigs either. Industrial farming becomes the live test case of humanist ethics, and the "spark" question previews [[Homo Deus]]'s later [[The Decoupling of Intelligence from Consciousness|decoupling of intelligence from consciousness]]. His section is *The Magical Spark Question* below.
 
-Where O'Gieblyn audits the price of abolishing the human, Harari presses whether there was ever a principled ground for elevating it. The two are complementary stress tests on the same axis.
+- **[[Donna Haraway]]** ([[A Cyborg Manifesto]]) occupies a *third* stance, and the contrast is what makes her section worth keeping separate. Where O'Gieblyn reads the loss of human exceptionalism as a *meaning* problem and Harari as a *biological* fact, Haraway reads the breach of the human/animal boundary as *emancipatory politics* — something to "affirm" and take "pleasure" in. For her the dissolution of the special distinction is not a cost to be audited or a verdict to be conceded but a "potent fusion" and a "dangerous possibilit[y]" to be welcomed; she names the breach the first of three "boundary breakdowns" that make a "cyborg" politics possible, and looks forward to people "not afraid of their joint kinship with animals and machines." Her section is *The Breached Human/Animal Boundary* below, and it cross-links to [[The Breached Boundaries]].
+
+Where O'Gieblyn audits the price of abolishing the human, Harari presses whether there was ever a principled ground for elevating it, and Haraway celebrates the leveling as liberation. The three are complementary stress tests on the same axis — loss-as-crisis, loss-as-fact, loss-as-emancipation.
 
 ## The Poles
 
@@ -70,9 +75,18 @@ In *The Human Spark* he hunts the candidate sparks and finds each one fails the 
 
 Where O'Gieblyn shows that abolishing the human exacts a hidden price, Harari shows that the human's claim to special value may never have been collateralized in the first place — and that industrial farming is the place the bill comes due. The two readings meet in the [[Yuval Noah Harari and Meghan O'Gieblyn|shared diagnosis]] that the computational reframing of life ("organisms are algorithms") is what makes the leveling pole irresistible and the exceptionalist pole indefensible.
 
+## The Breached Human/Animal Boundary (Haraway)
+
+[[Donna Haraway]] enters this tension from neither O'Gieblyn's theological register nor Harari's biological one, but as a third stance: she treats the collapse of human exceptionalism as *emancipatory politics*, a breach to be affirmed rather than mourned or merely registered. In [[A Cyborg Manifesto]] she names the breach the first of three "crucial boundary breakdowns" — the same three catalogued in [[The Breached Boundaries]] — and states it flatly: "the boundary between human and animal is thoroughly breached. The last beachheads of uniqueness have been polluted if not turned into amusement parks: language, tool use, social behavior, mental events—nothing really convincingly settles the separation of human and animal." Every candidate marker of the human's "special distinction" — precisely the credentials Harari's "magical spark" demands and O'Gieblyn's *imago dei* names — has, on her account, already fallen. `Directly stated`.
+
+What distinguishes Haraway's reading is the *affect* she attaches to the breach. Where O'Gieblyn audits a "risky ontological bargain" and Harari concedes the absence of a soul, Haraway welcomes the leveling as a source of "pleasure" and political possibility: "many people no longer feel the need for such a separation; indeed, many branches of feminist culture affirm the pleasure of connection of human and other living creatures. Movements for animal rights are not irrational denials of human uniqueness; they are a clear-sighted recognition of connection across the discredited breach of nature and culture." The dethroning of the human is not a defect to be subtracted (O'Gieblyn's "virus," "glitch," "human error") but a "potent fusion" to be inhabited. She closes the manifesto in this affirmative register, choosing kinship with the very nonhuman others exceptionalism walled out: "I would rather be a cyborg than a goddess." `Directly stated`.
+
+Her positive program reframes the whole axis. The leveling pole, for Haraway, is the precondition of a "cyborg" politics — a "blasphemy" against the "Western" traditions of "racist, male-dominant capitalism" that built the human/animal hierarchy in the first place. She offers two readings of the resulting world and insists on holding both: "From one perspective, a cyborg world is about the final imposition of a grid of control on the planet… From another perspective, a cyborg world might be about lived social and bodily realities in which people are not afraid of their joint kinship with animals and machines, not afraid of permanently partial identities and contradictory standpoints." That second perspective — fearless "joint kinship with animals and machines" — is her answer to the question O'Gieblyn leaves open (can the human be one node among others without becoming the defect?) and to the warrant Harari cannot find: Haraway does not look for a warrant for exceptionalism, because she takes its loss to be a liberation. `Strongly implied`.
+
 ## Authors and Books That Discuss It
 
 - [[Meghan O'Gieblyn]] in [[God Human Animal Machine|God, Human, Animal, Machine]] — the primary and structuring source. O'Gieblyn stages the tension first at the "Writing the Nonhuman" panel (Ch. 5, Network), where [[Distributed Cognition|distributed-intelligence]] enthusiasm for forests, swarms, and [[Emergence|emergent]] AI collapses "the false distinctions between humans and other intelligent systems"; she diagnoses the "risky ontological bargain" of the equality move in Ch. 6 (Network); and she follows the slide from equality to *defect* in Ch. 13 (Virality), where the human becomes virus, bug, and "human error." Her distinctive move is to expose ontological equality as a *bargain* rather than a gift — re-enchanting the world by renouncing intelligence and selfhood in ourselves.
+- [[Donna Haraway]] in [[A Cyborg Manifesto]] — the third stance, and the only one that *welcomes* the breach. Haraway makes the dissolution of the human/animal boundary the first of her three "boundary breakdowns" (Ch. 1, *An Ironic Dream of a Common Language*) and treats it as emancipatory rather than as crisis (O'Gieblyn) or bare fact (Harari): "many branches of feminist culture affirm the pleasure of connection of human and other living creatures." Her cyborg figure inhabits "joint kinship with animals and machines" without fear (Ch. 6, *Cyborgs: A Myth of Political Identity*), and her closing preference — "I would rather be a cyborg than a goddess" — is the affirmative answer to the leveling pole. Cross-linked to [[The Breached Boundaries]].
 - [[René Descartes]] *(via O'Gieblyn)* — the figure to whom the subject/object, *res cogitans*/*res extensa* split is "typically blamed," the philosophical origin of the human-exceptionalist dualism the equality discourse wants to overturn. Label: `Strongly implied`.
 - [[Giorgio Agamben]] *(via O'Gieblyn, Ch. 13, Virality)* — supplies the contrary register: his critique that the pandemic shutdown proved "our society no longer believes in anything but bare life" is itself a defense of the human against reduction to "brute biological survival," cutting against the leveling pole even as the chapter's other voices embrace it. Label: `Strongly implied`.
 
@@ -223,3 +237,36 @@ Relevant passage:
 > To the best of our knowledge, only Sapiens can cooperate in very flexible ways with countless numbers of strangers. This concrete capability – rather than an eternal soul or some unique kind of consciousness – explains our mastery of planet Earth.
 
 Supports: Harari's positive answer — what distinguishes Homo sapiens is flexible large-scale cooperation, a *capacity*, explicitly "rather than an eternal soul or some unique kind of consciousness." Exceptionalism survives only as power/cooperation, not as intrinsic moral status, which previews [[The Decoupling of Intelligence from Consciousness|the decoupling]] of intelligence from consciousness. Label: `Directly stated`.
+
+### Source 12
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> By the late twentieth century in U.S. scientific culture, the boundary between human and animal is thoroughly breached. The last beachheads of uniqueness have been polluted if not turned into amusement parks: language, tool use, social behavior, mental events—nothing really convincingly settles the separation of human and animal.
+
+Supports: Haraway's flat statement of the leveling pole — every candidate marker of human "uniqueness" (the very credentials Harari's "magical spark" demands and O'Gieblyn's *imago dei* names) has fallen, so "nothing really convincingly settles the separation of human and animal." Anchors *The Breached Human/Animal Boundary* as the first of her three boundary breakdowns. Label: `Directly stated`.
+
+### Source 13
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> And many people no longer feel the need for such a separation; indeed, many branches of feminist culture affirm the pleasure of connection of human and other living creatures. Movements for animal rights are not irrational denials of human uniqueness; they are a clear-sighted recognition of connection across the discredited breach of nature and culture.
+
+Supports: The verbatim source for Haraway's distinctive *affect* — the breach is welcomed as "pleasure" and "clear-sighted recognition," not audited as cost (O'Gieblyn) or conceded as fact (Harari). Establishes Haraway's third stance as emancipatory politics. Label: `Directly stated`.
+
+### Source 14
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> From another perspective, a cyborg world might be about lived social and bodily realities in which people are not afraid of their joint kinship with animals and machines, not afraid of permanently partial identities and contradictory standpoints.
+
+Supports: Haraway's positive vision of life after the breach — fearless "joint kinship with animals and machines," her answer to the question O'Gieblyn leaves open (one node among others without becoming the defect) and the warrant Harari cannot locate. The affirmative reading of ontological equality. Label: `Directly stated`.

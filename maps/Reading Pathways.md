@@ -348,3 +348,45 @@ A cross-book pathway juxtaposing Kurzweil's celebration of exponential progress 
 - [[The Lily Pads on the Lake]] — the parable of exponential onset
 - [[Acceleration]] — Han's critique of speed stripped of sense, narrative, and the Other
 - [[Narration vs Addition]] — the deceleration counter-figure to additive accumulation
+
+## Pathways through *A Cyborg Manifesto* (Donna Haraway)
+
+### Pathway: The cyborg and the breached boundaries
+
+Follows the manifesto's opening move, from the ironic political myth of the cyborg through the three boundary breakdowns to the refusal of innocent origins. Useful for thinking the figure of the cyborg, the human/animal/machine boundary, and the lineage that runs into Hayles's posthuman.
+
+- [[The Cyborg]] — Haraway's hybrid of machine and organism; 'our ontology' that 'gives us our politics'
+- [[The cyborg is our ontology and it gives us our politics]] — the manifesto's keystone claim
+- [[The Breached Boundaries]] — the three breakdowns (human/animal, organism/machine, physical/nonphysical)
+- [[The machine is us an aspect of our embodiment]] — the organism/machine boundary affirmatively breached
+- [[The Refusal of Innocence]] — the rejection of origin myths, organic wholeness, and the Garden
+- [[The cyborg has no origin story in the Western sense]] — the refusal of original unity
+- [[Take pleasure in the confusion of boundaries and responsibility for their construction]] — the ethical imperative
+- [[Posthumanism]] — the lineage the cyborg feeds into; the end of the liberal human
+
+### Pathway: Cyborg feminism and fractured identity
+
+Traces Haraway's anti-essentialist politics, from the dissolution of 'woman' through affinity and oppositional consciousness to women of color as a cyborg identity and the survival-strategy of cyborg writing. Useful for thinking identity, coalition, and writing as resistance.
+
+- [[Fractured Identities]] — identities as contradictory, partial, strategic; 'woman disintegrates into women'
+- [[There is no natural basis for the unity of women]] — coalition by affinity, not by nature
+- [[Affinity Not Identity]] — political coalition by chosen affinity rather than essential identity
+- [[Oppositional Consciousness]] — identity born of reading webs of power from refused category-membership
+- [[Women of Color as a Cyborg Identity]] — the exemplary coalitional affinity-identity
+- [[Cyborg Writing]] — seizing the tools of signification; noise and pollution against perfect communication
+
+### Pathway: The informatics of domination across the vault
+
+A cross-book pathway following Haraway's coded command-control grid and its material substrate into Hayles's pattern thesis, Harari's organisms-as-algorithms, and Han's immaterial labour. Useful for the vault's Material/Immaterial axis and the world recoded as information.
+
+- [[The Informatics of Domination]] — the shift from organic hierarchical dominations to coded control networks
+- [[The World as a Problem of Coding]] — the common move of communications sciences and modern biologies
+- [[The world is being translated into a problem of coding]] — the argument in Haraway's own voice
+- [[Informatics]] — Hayles's term taken from Haraway; the network of information technologies
+- [[Pattern and Randomness]] — the master dialectic the coding move feeds into (Hayles)
+- [[Organisms Are Algorithms]] — Harari's keystone biological version of the coding thesis
+- [[The Homework Economy]] — the feminization of work; the material substrate of the informatics of domination
+- [[Women in the Integrated Circuit]] — women's dispersed positions across the microelectronic world-system
+- [[Immaterial Labour]] — Han's neoliberal immaterial production; the downstream of the homework economy
+- [[Material vs Immaterial]] — the vault's master axis, now spanning six author sections
+- [[N. Katherine Hayles and Donna Haraway]] — the cross-book bridge on informatics and the cyborg

@@ -5,6 +5,7 @@ sources:
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/09 Emotional Capitalism]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/04 [The Homework Economy Outside the Home]]]"
 related:
   - "[[Psychopolitics]]"
   - "[[Auto-Exploitation]]"
@@ -16,6 +17,7 @@ opposes:
   - "[[Material vs Immaterial]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Donna Haraway]]"
 confidence: high
 last_updated: 2026-06-02
 ---
@@ -25,6 +27,10 @@ last_updated: 2026-06-02
 ## Brief Definition
 
 For [[Byung-Chul Han]], **immaterial labour** names the mode of production proper to neoliberalism — a mutated capitalism in which what is produced is no longer material objects but immaterial ones (information, programs, communication, the whole person), so that the body is released from production and the psyche becomes the central productive force.
+
+## General Orientation
+
+This note carries two related but distinct treatments. **[[Byung-Chul Han]]** uses *immaterial labour* as a labour-and-value category drawn from the autonomist-Marxist tradition (Marx, Negri, Gorz): under neoliberalism what is produced is information, programs, communication, and affect rather than material objects, the body is "released from production," the psyche becomes the central productive force, and — at the limit — the "integral person" is installed in production (see the body of this note). **[[Donna Haraway]]**, two decades earlier in *A Cyborg Manifesto* (1985), describes the same mutation from a feminist standpoint: the [[The Homework Economy|homework economy]] in which work is "redefined as both literally female and feminized, whether performed by men or women" inside the microelectronic integrated circuit. The vault treats Haraway as a **feminist precursor** to Han's neoliberal immaterial labour, with the connection marked interpretive (Han does not cite Haraway). The full homework-economy treatment lives in the dedicated [[The Homework Economy]] note; this note flags only the precursor link. Both senses are kept distinct from Lippard's [[Dematerialization]] (the disappearance of the art *object*) and from the Hayles/O'Gieblyn disembodiment of information ([[Embodiment]], [[The Body as Data]]); the three lineages meet only at the [[Material vs Immaterial]] tension. `Interpretive synthesis`.
 
 ## Longer Explanation
 
@@ -40,9 +46,18 @@ The far edge of immaterial labour is the absorption of the **whole person** into
 
 The scope of this note keeps Han's sense deliberately distinct from the vault's other uses of "immaterial." Han's **immaterial production** is a *Marx/Negri/Gorz* category: it concerns the *content of what is produced* under post-industrial capitalism (information, programs, communication, affect) and is fundamentally a thesis about labour, value, and exploitation. This differs from the dematerialization discussed under [[Dematerialization]] (Lippard, the disappearance of the art *object*) and from the disembodiment of information discussed under [[Embodiment]] and [[The Body as Data]] (Hayles, O'Gieblyn, the conceit that information could circulate without a material substrate). The three converge only at the [[Material vs Immaterial]] tension, where they should be cross-linked but not conflated. `Interpretive synthesis` — the distinction is the vault's, drawn to keep the autonomist-Marxist and the dematerialization/disembodiment lineages from collapsing into one another.
 
+## Precursor: The Feminized Homework Economy (Haraway)
+
+Two decades before Han, [[Donna Haraway]] describes the mutation Han calls immaterial production from a socialist-feminist standpoint, in the section "The Homework Economy 'Outside the Home'" of *A Cyborg Manifesto* (1985). Borrowing the term from economist **Richard Gordon**, she names the new condition the [[The Homework Economy|homework economy]]: not merely literal home-based piecework, but "a restructuring of work that broadly has the characteristics formerly ascribed to female jobs, jobs literally done only by women." Her decisive formulation is the de-coupling of feminization from biological sex: "Work is being redefined as both literally female and feminized, whether performed by men or women." `Directly stated`. To be feminized, she specifies, "means to be made extremely vulnerable; able to be disassembled, reassembled, exploited as a reserve labor force; seen less as workers than as servers; subjected to time arrangements on and off the paid job that make a mockery of a limited workday." This is the **feminization of labour** that Han's account of immaterial production presupposes but never historicizes as a gendered formation. `Interpretive synthesis`.
+
+Three of Haraway's claims prefigure the structure Han theorizes. First, the **dissolution of the public/private divide**: in the "informatics of domination" the old dichotomy "family/market/factory" gives way to "women in the integrated circuit," "public/private" to "cyborg citizenship," and "factory, home, and market are integrated on a new scale" — the "new communications technologies are fundamental to the eradication of 'public life' for everyone." This anticipates Han's claim that immaterial production installs the worker's whole life inside the productive process. Second, the **conscription of the whole dispersed worker**: Haraway's "homework economy as a world capitalist organizational structure" depends on "the power of the new communications technologies to integrate and control labor despite extensive dispersion and decentralization," and the worker's "intimate realities" — sexuality, childcare, loneliness, economic vulnerability — are folded into "a world system of production/reproduction and communication called the informatics of domination." This dispersed-yet-integrated worker prefigures Han's "integral person... installed in the very process of production." Third, the surveillance dimension Han later names the [[Digital Panopticon]]: the bimodal social structure Haraway warns of is "controlled by high-tech repressive apparatuses ranging from entertainment to surveillance and disappearance." `Strongly implied` (the conceptual rhyme is Haraway's text; the mapping onto Han is the vault's).
+
+The link is **interpretive**: Han does not cite Haraway, and the two operate in different idioms — Han's labour-theoretic autonomist-Marxism versus Haraway's cyborg socialist-feminism. But Haraway's homework economy stands as the earlier, gender-explicit diagnosis of the feminization of labour, the collapse of the public/private divide, and the absorption of the whole person into microelectronic production that Han later theorizes (degendered) as immaterial production exploiting the integral person. The full treatment of the homework economy — Gordon's coinage, the feminization of poverty, the integrated circuit — lives in the dedicated [[The Homework Economy]] note; this section flags only the precursor relation. `Speculative connection` (no textual link between the authors; the lineage is asserted by the vault).
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Immaterial production is the economic premise of *Psychopolitics*: neoliberalism as "a mutated form of capitalism" that produces "not material objects, but immaterial ones," releases the body from production, discovers "the psyche as a productive force," and — at the limit — "installs" "the integral person... in the very process of production." Because everyone "already owns the means of production him- or herself," it abolishes the class system and converts external exploitation into [[Auto-Exploitation]]. `Directly stated`.
+- **[[Donna Haraway]]** — `Interpretive synthesis`. In *A Cyborg Manifesto* (1985) Haraway names the same mutation a generation earlier from a socialist-feminist standpoint: the [[The Homework Economy|homework economy]], in which "work is being redefined as both literally female and feminized, whether performed by men or women" inside the microelectronic integrated circuit. The feminization of labour, the eradication of the public/private divide, and the conscription of the whole dispersed worker she diagnoses are the gender-explicit precursor to Han's (degendered) immaterial production exploiting the integral person. Han does not cite her; the link is the vault's. Term coined by **Richard Gordon**; full treatment in [[The Homework Economy]].
 - **Karl Marx** — `Strongly implied`. Han argues *through* and *against* Marx: he accepts the framework of forces vs. relations of production but holds that "industrial capitalism has now mutated into neoliberalism and financial capitalism, which are implementing a post-industrial, immaterial mode of production - instead of turning into communism." Marx appears here as a forward-stub (no Marx volume in `raw/`); his role is the dialectic Han claims the immaterial mode has outrun.
 - **Antonio Negri** — `Strongly implied`. Negri's "Multitude" is the autonomist-Marxist theorist of immaterial production Han names and rejects: the immaterial-labour thesis is borrowed, the revolutionary "Multitude" against "Empire" is dismissed as "yet another illusion." Forward-stub.
 - **André Gorz** — `Directly stated` (cited). Han's source for the corporate installation of the whole person is Gorz's *The Immaterial: Knowledge, Value and Capital* (the Daimler-Chrysler quotation in "Emotional Capitalism" is drawn from Gorz). Forward-stub.
@@ -102,3 +117,14 @@ Relevant passage:
 > The boom in emotion today stems, not least of all, from a new, immaterial mode of production in which communicative interaction plays an ever-greater role. It calls not just for cognitive competence, but also for emotional competence. In this context, the integral person is installed in the very process of production.
 
 Supports: Houses "The Integral Person." Ties the immaterial mode of production to the conscription of the whole person — emotional and communicative competence, sociality and conduct — into the production process, the limit-figure of immaterial labour. The chapter elsewhere states that emotion "comes to possess value for capitalism only when a switch to immaterial production occurs" and cites Gorz's *The Immaterial*. Label: `Directly stated`.
+
+### Source 4
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/04 [The Homework Economy Outside the Home]]]
+Relevant passage:
+
+> Richard Gordon has called this new situation the "homework economy." Although he includes the phenomenon of literal homework emerging in connection with electronics assembly, Gordon intends homework economy to name a restructuring of work that broadly has the characteristics formerly ascribed to female jobs, jobs literally done only by women. Work is being redefined as both literally female and feminized, whether performed by men or women. To be feminized means to be made extremely vulnerable; able to be disassembled, reassembled, exploited as a reserve labor force; seen less as workers than as servers; subjected to time arrangements on and off the paid job that make a mockery of a limited workday.
+
+Supports: Houses "Precursor: The Feminized Homework Economy (Haraway)." Grounds the feminist-precursor reading: Haraway (crediting Richard Gordon for the term) describes work "redefined as both literally female and feminized, whether performed by men or women" — the feminization of labour and the conscription of the whole vulnerable worker that Han later theorizes (degendered) as immaterial production exploiting the integral person. The full homework-economy treatment lives in [[The Homework Economy]]; the Han↔Haraway link is interpretive (Han does not cite Haraway). Label: `Directly stated` (the Haraway quotation); the precursor mapping onto Han is `Interpretive synthesis`.

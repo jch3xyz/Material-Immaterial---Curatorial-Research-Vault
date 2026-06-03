@@ -9,6 +9,7 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment vs Information]]"
@@ -21,6 +22,7 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Donna Haraway]]"
 confidence: high
 last_updated: 2026-06-01
 ---
@@ -29,12 +31,13 @@ last_updated: 2026-06-01
 
 ## General Orientation
 
-This is a multi-author note. Two distinct but converging senses of *embodiment* are at work.
+This is a multi-author note. Three distinct senses of *embodiment* are at work — two that converge on a defense of the term, and a third that extends it.
 
 - **[[N. Katherine Hayles]]** uses embodiment as an analytic and ethical term: the instantiated, local, specific, performative particular, sharply distinguished from "the body" as a normalized Platonic abstraction. It is the ground of thought and the irreplaceable material form that the disembodiment of information erases — the affirmative center of *How We Became Posthuman*.
 - **[[Meghan O'Gieblyn]]** approaches embodiment from the opposite direction, through the *fantasy of its abolition*. She supplies the theological genealogy of the disembodiment Hayles diagnoses: a lived Cartesian dualism in which the true self is the mind, the transhumanist dream of "total physical transcendence" as "pure information, pure spirit," and the empirical failure of embodied AI (Cog, Kismet) read as confirmation of Hayles's thesis that disembodiment is impossible.
+- **[[Donna Haraway]]** takes a third stance, distinct from both. Where Hayles defends embodiment *against* disembodiment and O'Gieblyn traces the *fantasy of its abolition*, Haraway *extends* embodiment to include the machine, and does so affirmatively, without anxiety. The machine is not the threat to embodiment but a part of it: "The machine is us, our processes, an aspect of our embodiment." This neither defends a boundary nor mourns its dissolution; it dissolves the human/machine opposition on purpose, as a [[The Cyborg|cyborg]] politics. Held distinct, it is the pole the other two presuppose an opposition to.
 
-The two are complementary: Hayles names and defends the term; O'Gieblyn traces the historical and religious pressures that make its denial perennially seductive, and reports the experiments that show the denial does not work.
+Hayles and O'Gieblyn are complementary: Hayles names and defends the term; O'Gieblyn traces the historical and religious pressures that make its denial perennially seductive, and reports the experiments that show the denial does not work. Haraway stands apart from both by refusing the human/machine opposition that organizes their accounts — for her the question is not how to keep embodiment from being abolished but how to take responsibility for an embodiment that already includes the machine.
 
 ## Brief Definition
 
@@ -58,12 +61,15 @@ O'Gieblyn shows how this lived dualism is systematized in transhumanism, where t
 
 Crucially, O'Gieblyn reports the *failure* of this fantasy as confirmation of Hayles's thesis that disembodiment is impossible — that "there is only different embodiment." Rodney Brooks and Cynthia Breazeal's MIT robots were built on the opposite premise — that intelligence must be embodied, grown from sensorimotor interaction with the world — and even they did not cohere. "Despite a handful of emergent behaviors, Cog never evolved the more sophisticated capacities his creator had anticipated"; Brooks "confessed at one point that the robot lacked 'coherence,' a conclusion that is unsurprising, given that it was designed from the outset without a unified central control." And "Despite Breazeal's best efforts, Kismet never learned to speak." The mind could neither be lifted out of a body (uploading) nor reliably grown into a built one ([[Emergence|emergent]] embodied AI), which is precisely why O'Gieblyn treats the [[Posthumanism|posthuman]] promise of substrate-independent consciousness as a theological inheritance rather than an engineering roadmap. Embodiment, on her telling as on Hayles's, is not an obstacle to be transcended but the irreducible condition that the disembodiment fantasy keeps failing to escape.
 
-## Authors and Variants
+## The Machine as an Aspect of Embodiment (Haraway)
 
-- **[[N. Katherine Hayles]]** — embodiment as the instantiated, local, specific, performative particular, distinguished from "the body" as a normalized Platonic abstraction; the ground of thought and the irreplaceable material form that the disembodiment of information erases. The affirmative term in her critique of [[Posthumanism]].
+Where [[N. Katherine Hayles]] defends embodiment against disembodiment and [[Meghan O'Gieblyn]] traces the fantasy of its abolition, [[Donna Haraway]] inverts the human/machine relation affirmatively: the machine is not what threatens embodiment but a part of it. In *A Cyborg Manifesto*, listing the "consequences to taking seriously the imagery of cyborgs as other than our enemies," she writes: "The machine is not an it to be animated, worshipped, and dominated. The machine is us, our processes, an aspect of our embodiment." This is the keystone for the argument [[The machine is us an aspect of our embodiment]]. The reversal is double. First, the machine is not an *it* — not an external object positioned for animation (vitalist projection), worship (technophilia), or domination (mastery); each of those stances keeps the machine outside the self as a thing to be related to. Haraway collapses that exteriority: the machine is not related to us, it *is* us, "our processes," a part of how we are bodied. Second, the relation is symmetrical and non-threatening — "We can be responsible for machines; they do not dominate or threaten us. We are responsible for boundaries; we are they." The cyborg body that grounds this claim "is not innocent; it was not born in a garden; it does not seek unitary identity"; it "takes irony for granted." Confidence: `Directly stated`.
+
+The affective register is the sharpest contrast with the other two authors. Haraway names a pleasure where Hayles names a loss and O'Gieblyn names a longing: "Intense pleasure in skill, machine skill, ceases to be a sin, but an aspect of embodiment." The theological vocabulary is deliberate — "ceases to be a *sin*" — and inverts O'Gieblyn's genealogy: where O'Gieblyn shows the disembodiment fantasy carrying a religious longing for "total physical transcendence," Haraway redeems machine skill *as* embodiment rather than as flight from it. She historicizes the prohibition: "Up till now (once upon a time), female embodiment seemed to be given, organic, necessary," such that "only by being out of place could we take intense pleasure in machines, and then with excuses that this was organic activity after all." The cyborg lifts that excuse. Crucially, Haraway extends embodiment *without* the anxiety that structures both Hayles (who must defend the irreplaceable body against erasure) and O'Gieblyn (who must diagnose a fantasy that keeps failing): for Haraway there is "no fundamental, ontological separation in our formal knowledge of machine and organism," so including the machine in embodiment is not a wound to be defended against but a condition to be inhabited responsibly — "machines can be prosthetic devices, intimate components, friendly selves." This is why the note must hold her stance distinct: it is not a defense of embodiment and not a critique of its abolition, but an affirmative widening of embodiment to take the machine in. Confidence: `Directly stated` (the claim and quotations); `Interpretive synthesis` (the three-author contrast).
 - **Elizabeth Grosz** — Hayles aligns her account with Grosz's *Volatile Bodies* and the maxim "there is no body as such; there are only bodies," and adapts (while criticizing the limits of) Grosz's Möbius-strip model of body and embodiment.
 - **Maurice Merleau-Ponty and Paul Connerton** — the source of Hayles's distinction between inscribing and incorporating practices, and of the idea that habit is "a knowledge and a remembering in the hands and in the body."
 - **[[Meghan O'Gieblyn]]** — embodiment approached through the fantasy of its abolition: lived Cartesian dualism (the true self as the mind, which "resided elsewhere"), transhumanist uploading as "total physical transcendence—the mind as pure information, pure spirit," and the failure of embodied AI (Cog never cohered, Kismet never spoke) as confirmation of Hayles's thesis that disembodiment is impossible. Realizes the theological genealogy behind [[The Mind-Body Problem]] and [[Disembodied Information as the Soul]].
+- **[[Donna Haraway]]** — embodiment extended *affirmatively* to include the machine: "The machine is us, our processes, an aspect of our embodiment," and "Intense pleasure in skill, machine skill, ceases to be a sin, but an aspect of embodiment." A third stance to Hayles's defense and O'Gieblyn's critique — the machine is not a threat to be defended against or a fantasy to be unmasked but a part of how we are bodied. Anchors the argument [[The machine is us an aspect of our embodiment]] and is grounded in [[The Cyborg]].
 
 ## Related Concepts
 
@@ -190,3 +196,25 @@ Relevant passage:
 > Despite Breazeal’s best efforts, Kismet never learned to speak.
 
 Supports: The other half of the embodied-AI failure (Kismet never spoke), reinforcing that even AI built on the premise that intelligence must be embodied did not cohere — confirmation, not refutation, of Hayles's claim that disembodiment is impossible. Confidence: `Directly stated`
+
+### Source 10
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]
+Relevant passage:
+
+> The machine is not an it to be animated, worshipped, and dominated. The machine is us, our processes, an aspect of our embodiment.
+
+Supports: Haraway's affirmative inversion of the human/machine relation — the machine is not an external object to relate to but a part of embodiment itself. The keystone for [[The machine is us an aspect of our embodiment]] and the third stance distinguishing this note from Hayles's defense and O'Gieblyn's critique. Confidence: `Directly stated`
+
+### Source 11
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]
+Relevant passage:
+
+> Intense pleasure in skill, machine skill, ceases to be a sin, but an aspect of embodiment.
+
+Supports: The affective contrast with the other authors — Haraway names a pleasure (and lifts a theological prohibition, "ceases to be a sin") where Hayles names a loss and O'Gieblyn a longing; machine skill is redeemed *as* embodiment rather than as flight from it. Confidence: `Directly stated`

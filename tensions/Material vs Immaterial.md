@@ -10,6 +10,7 @@ authors:
   - "[[Lucy Lippard]]"
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
+  - "[[Donna Haraway]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -27,6 +28,9 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
   - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
+  - "[[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -49,6 +53,8 @@ Han carries a *second* sense of "immaterial" into the vault from *[[Psychopoliti
 **[[Yuval Noah Harari]]** brings a *fifth* sense, and it runs the axis in the opposite direction from the other four. Where Hayles, Lippard, and the two Hans all work to deny the immaterial pole its claimed autonomy — to show that information, the art object, and immaterial production never escape their material substrate — Harari traces the immaterial pole *gaining* power over the material. His "immaterial" is the [[Intersubjective Reality]]: the fictions (gods, nations, money, corporations) that "exist purely in their common imagination" yet, armed with computers and bioengineering, increasingly "reshape reality to match their pet fictions." His axis-defining forecast is that "the intersubjective reality will swallow up the objective reality and biology will merge with history" — the immaterial story rewriting the material genome rather than (as in the other authors) being unmasked by it. This sense is treated in its own section below and *cross-linked, not merged*: Harari's immaterial is neither Shannon-Wiener pattern nor dematerialized object nor mode of production, but the *fiction* — and his is the vault's one source on this axis to read the immaterial as ascendant rather than parasitic.
 
 **[[Ray Kurzweil]]** supplies a *sixth* sense and, with it, the axis's purest *affirmative* immaterialist pole — the one position in the vault that simply *endorses* the hierarchy the others contest. Where Hayles/Lippard/Han deny the immaterial its autonomy and Harari reads the immaterial fiction as *swallowing* the material, Kurzweil ranks the immaterial above the material as a flat metaphysical thesis: "information rather than matter and energy may be regarded as the more fundamental reality." His "immaterial" is the *pattern* — the [[Patternism|patternist]] "views patterns of information as the fundamental reality," and the matter that instantiates them (the atoms of the brain, the body, the rock) is transient and, in itself, "for the most part effectively random." What counts is not the substrate but the [[Order as Information That Fits a Purpose|order]] the pattern carries. This is the inverse of Hayles's [[The Materiality of Informatics|materiality of informatics]]: where she re-embeds information in its medium, Kurzweil declares the medium replaceable and the pattern primary — "we will be able to port our mental processes to a more suitable computational substrate." Yet his own [[The Computational Universe|computational]] argument carries a strong counter-current that anchors the pattern firmly to physics, treated in the section below; this sense is therefore *cross-linked, not merged* with the four-author core, supplying the affirmative pole against which their denials are framed.
+
+**[[Donna Haraway]]** brings a *seventh* sense, and chronologically it is the *earliest* — *A Cyborg Manifesto* (1985) predates Hayles, who borrows the very word "informatics" from it ("the informatics of domination"). Haraway's distinctive move is that she refuses the gesture every other source on this axis makes: she does not rank the poles, and she does not unmask one as parasitic on the other. The cyborg is held, instead, as "a condensed image of both imagination and material reality, the two joined centers structuring any possibility of historical transformation." Yet within that held tension she supplies the vault's *sharpest single image of the immaterial pole*: the machines that "are nothing but signals, electromagnetic waves, a section of a spectrum," against people "both material and opaque" — "Cyborgs are ether, quintessence." Her sense of "immaterial" is thus neither Shannon-Wiener pattern (Hayles), nor dematerialized object (Lippard), nor mode of production (Han), nor ascendant fiction (Harari), nor fundamental pattern (Kurzweil): it is the *microelectronic* — "Microelectronics is the technical basis of simulacra—that is, of copies without originals" — the leaky boundary between physical and nonphysical that the cyborg myth deliberately inhabits rather than resolves. She is treated in her own section below and *cross-linked, not merged* with the five senses above, both as Hayles's acknowledged precursor and as the one source that holds the two poles as "joined centers" rather than ranking them.
 
 The titular axis of this vault. It is the most general form of an opposition that recurs under more specific names throughout the collection — [[Embodiment vs Information]], [[Presence Absence vs Pattern Randomness]], body versus pattern, presence versus circulation. Where those tensions stage a particular contest, *material vs immaterial* names the underlying hierarchy itself: the cultural conviction, in [[N. Katherine Hayles]]'s words, "that information is in some sense more essential, more important, and more fundamental than materiality." Both authors ingested here work to deny that hierarchy its self-evidence — Hayles by re-embodying information in [[The Materiality of Informatics]], Han by diagnosing the "smooth streams of capital, communication, and information" as a regime that levels matter, language, and the body into frictionless circulation.
 
@@ -106,10 +112,20 @@ The figure that carries the demotion of matter is the rock, and it doubles as Ku
 
 But Kurzweil's own argument carries a counter-current that pulls the immaterial pattern back into the material substrate, and it is the reason his position is *cross-linked, not merged* with the affirmative pole rather than left to float free of it. The [[The Computational Universe|computation]] he ranks above matter is, on his own showing, fully a *function* of matter and energy. In "[[The Ultimate Laptop]]" the bound on how much a kilogram can compute is set by physics, not pattern: "there is a direct proportional relationship between the energy of an object and its potential to perform computation. The potential energy in a kilogram of matter is very large, as we know from Einstein's equation E = mc2," and "the potential of matter to compute is also governed by a very small number, Planck's constant: 6.6 × 10-34 joule-seconds ... This is the smallest scale at which we can apply energy for computation." The pattern's ceiling is the substrate's mass-energy divided by Planck's constant — the immaterial is licensed by the material it claims to transcend. Read against the four-author core, this is the concession that brings Kurzweil back within earshot of Hayles: the patternist who declares matter "less fundamental" than information must, two chapters on, derive the very capacity of information-processing from E=mc² and Planck's constant. The metaphysical ranking is `Directly stated`; the observation that his Ch. 3 physics undercuts the Ch. 2 ranking — that the immaterial pattern is bounded by, and so a function of, its material substrate — is `Interpretive synthesis` (see Sources below). His remains the vault's affirmative immaterialist pole, but it is an affirmation that, on its own terms, never quite clears the substrate it ranks beneath the pattern.
 
+## ## The Cyborg as Condensed Image of Imagination and Material Reality (Haraway)
+
+[[Donna Haraway]]'s *A Cyborg Manifesto* (1985) is the earliest source on this axis and, against every other, the one that refuses to rank its poles. Where Hayles re-embodies information, Lippard recovers the burden of physicality, Han reads the immaterial as a violence done to matter, Harari reads the immaterial fiction as swallowing the objective, and Kurzweil ranks the pattern above the substrate, Haraway holds the two terms together as equal and necessary. The [[The Cyborg|cyborg]] is, in her keystone formulation, "a condensed image of both imagination and material reality, the two joined centers structuring any possibility of historical transformation." This is irony in her technical sense — "about the tension of holding incompatible things together because both or all are necessary and true" — and it is what makes her the one author on this axis to keep imagination and material reality as *joined centers* rather than collapsing one into the other or unmasking one as parasitic. `Directly stated`.
+
+Within that held tension, however, Haraway supplies the vault's sharpest single image of the immaterial pole. Tracking miniaturization in the integrated circuit, she writes: "Our best machines are made of sunshine; they are all light and clean because they are nothing but signals, electromagnetic waves, a section of a spectrum, and these machines are eminently portable, mobile—a matter of immense human pain in Detroit and Singapore. People are nowhere near so fluid, being both material and opaque. Cyborgs are ether, quintessence." The opposition is exact: machines as pure signal — "ether, quintessence" — set against people as "both material and opaque," with the immaterial weightlessness of the chip paid for in "immense human pain" at the material sites of its manufacture. This is the immaterial pole stated more vividly than anywhere else in the collection, yet Haraway does not therefore declare matter the deeper truth (Hayles's move) or the immaterial the more fundamental (Kurzweil's); the "human pain in Detroit and Singapore" keeps the material pole pressing on the immaterial without dissolving it. Her sense of "immaterial" is specifically the *microelectronic*: "Microelectronics is the technical basis of simulacra—that is, of copies without originals." `Directly stated`.
+
+"[[The Informatics of Domination]]" extends the axis by declaring the old dividing line obsolete rather than choosing a side of it. Charting the passage "from an organic, industrial society to a polymorphous, information system," Haraway concludes that "the boundary-maintaining images of base and superstructure, public and private, or material and ideal never seemed more feeble." The material/ideal dichotomy is not resolved in favor of either pole but rendered unmaintainable — "simultaneously material and ideological," as she says of the whole chart of transitions. The biological extension follows in "Cyborgs: A Myth of Political Identity," where the organism itself crosses into the informatic: "Biological organisms have become biotic systems, communications devices like others. There is no fundamental, ontological separation in our formal knowledge of machine and organism, of technical and organic." Read against Hayles, this is the source-text of the position *How We Became Posthuman* later elaborates — Hayles takes the word "informatics" from Haraway and turns her held tension into an explicit re-embodiment — but Haraway herself stops at the held tension, refusing the ranking. The relation is therefore one of *precursor*, cross-linked and not merged: Haraway's "joined centers" are the unranked ground from which Hayles's [[The Materiality of Informatics|materiality of informatics]] and the four-author program of denial later depart. The precursor relation to Hayles is `Interpretive synthesis`; the held-tension reading and each quoted image are `Directly stated`. *(Closing figure, from the same chapter: "I would rather be a cyborg than a goddess" — the refusal of an organicist return to the material pole that would, symmetrically, rank matter over imagination.)*
+
 ## Related Concepts
 
 - [[Patternism]] — Kurzweil's *[[The Singularity Is Near]]* name for the affirmative immaterialist thesis: "patterns of information" are "the fundamental reality," and the matter instantiating them (brain, body, rock) is a transient, replaceable carrier. The vault's one source that *endorses* the material/immaterial hierarchy the others contest.
 - [[Order as Information That Fits a Purpose]] — Kurzweil's criterion for what raises a substrate above the rock: not matter, not raw information, but order — "information that fits a purpose." The hinge of his rock figure and of the demotion of matter to an unorganized carrier.
+- [[The Cyborg]] — Haraway's *A Cyborg Manifesto* figure that holds the axis unresolved: "a condensed image of both imagination and material reality, the two joined centers." The vault's one source that refuses to rank the poles, and the precursor from whom Hayles borrows "informatics."
+- [[The Informatics of Domination]] — Haraway's name for the passage to the "polymorphous, information system" in which "the boundary-maintaining images of base and superstructure, public and private, or material and ideal never seemed more feeble." The dichotomy rendered unmaintainable rather than decided.
 - [[Intersubjective Reality]] — Harari's *[[Homo Deus]]* name for the immaterial pole: shared fictions (gods, nations, money) that exist "purely in their common imagination" yet, via computers and bioengineering, come to "swallow up the objective reality." The vault's one source reading the immaterial as ascendant over the material rather than parasitic on it.
 - [[Immaterial Labour]] — Han's *[[Psychopolitics]]* name for the new mode of production: immaterial, non-physical forms (information, programs, emotion, the integral person) supersede the body as the force of production. The autonomist-Marxist (Marx/Negri/Gorz) sense of the axis, distinct from Hayles's disembodiment and Lippard's dematerialization.
 - [[The Materiality of Informatics]] — Hayles's specific name for her intervention in this axis: the claim that the "immaterial" pole is produced by and crossed with the material pole.
@@ -403,3 +419,47 @@ Relevant passage:
 > So there is a direct proportional relationship between the energy of an object and its potential to perform computation. The potential energy in a kilogram of matter is very large, as we know from Einstein’s equation E = mc2, The speed of light squared is a very large number: approximately 10 17 meter2/second2. The potential of matter to compute is also governed by a very small number, Planck’s constant: 6.6 × 10-34 joule-seconds (a joule is a measure of energy). This is the smallest scale at which we can apply energy for computation.
 
 Supports: The Ch. 3 counter-current that anchors the immaterial pattern to physics — computational capacity (the "[[The Ultimate Laptop]]" limit) is bounded by E=mc² and Planck's constant, so the pattern Kurzweil ranks above matter is on his own showing a *function* of its material substrate. Label: `Directly stated` (for the physics); the observation that this undercuts the Ch. 2 ranking is `Interpretive synthesis`.
+
+### Source 26
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> The cyborg is a condensed image of both imagination and material reality, the two joined centers structuring any possibility of historical transformation.
+
+Supports: The keystone of Haraway's section — the cyborg holds imagination (immaterial) and material reality as "joined centers," neither ranked nor unmasked. The vault's one source that refuses the gesture every other source on this axis makes (denying or affirming the immaterial pole's priority). Label: `Directly stated`.
+
+### Source 27
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]
+Relevant passage:
+
+> Our best machines are made of sunshine; they are all light and clean because they are nothing but signals, electromagnetic waves, a section of a spectrum, and these machines are eminently portable, mobile—a matter of immense human pain in Detroit and Singapore. People are nowhere near so fluid, being both material and opaque. Cyborgs are ether, quintessence.
+
+Supports: The vault's sharpest single image of the immaterial pole — machines as "nothing but signals," "ether, quintessence," against people "both material and opaque." The "human pain in Detroit and Singapore" keeps the material pole pressing on the immaterial without dissolving it. Label: `Directly stated`.
+
+### Source 28
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]
+Relevant passage:
+
+> The boundary-maintaining images of base and superstructure, public and private, or material and ideal never seemed more feeble.
+
+Supports: The material/ideal dichotomy rendered unmaintainable rather than decided — Haraway's distinctive move of holding the axis open. Also the source of the term "informatics" that Hayles later borrows (the chapter "The Informatics of Domination"). Label: `Directly stated`.
+
+### Source 29
+
+Book: *A Cyborg Manifesto*
+Author: Donna Haraway
+Raw file: [[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]
+Relevant passage:
+
+> Biological organisms have become biotic systems, communications devices like others.
+
+Supports: The biological extension of the axis — the organism itself crossing into the informatic, "no fundamental, ontological separation … of machine and organism." The precursor of Hayles's posthuman re-coding of the body, but held as crossing rather than ranking. Label: `Directly stated` (for the crossing); the precursor relation to Hayles is `Interpretive synthesis`.
