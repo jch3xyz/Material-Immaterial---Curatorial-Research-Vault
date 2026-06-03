@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ff9a1110a7e658a5",
         "type": "tabs",
         "children": [
           {
-            "id": "080a5992e501ef97",
+            "id": "8bd07e25aca246de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metaphors/Technology as Magic.md",
+                "file": "references/Ray Kurzweil and N. Katherine Hayles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology as Magic"
+              "title": "Ray Kurzweil and N. Katherine Hayles"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metaphors/Technology as Magic.md",
+                "file": "references/Ray Kurzweil and N. Katherine Hayles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technology as Magic"
+              "title": "Backlinks for Ray Kurzweil and N. Katherine Hayles"
             }
           },
           {
@@ -200,35 +200,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "080a5992e501ef97",
+  "active": "8bd07e25aca246de",
   "lastOpenFiles": [
-    "arguments/Transhumanism is secularized Christian eschatology.md",
-    "maps/Home.md",
-    "raw/Turner - From Counterculture to Cyberculture/11 [Bibliography].md",
-    "raw/Turner - From Counterculture to Cyberculture/10 [Notes].md",
-    "raw/Turner - From Counterculture to Cyberculture/09 [Conclusion] The Triumph of the Network Mode.md",
-    "raw/Turner - From Counterculture to Cyberculture/08 [Ch7] Wired.md",
-    "raw/Turner - From Counterculture to Cyberculture/07 [Ch6] Networking the New Economy.md",
-    "raw/Turner - From Counterculture to Cyberculture/06 [Ch5] Virtuality and Community on the WELL.md",
-    "raw/Turner - From Counterculture to Cyberculture/05 [Ch4] Taking the Whole Earth Digital.md",
-    "raw/Turner - From Counterculture to Cyberculture/04 [Ch3] The Whole Earth Catalog as Information Technology.md",
-    "raw/Turner - From Counterculture to Cyberculture/02 [Ch1] The Shifting Politics of the Computational Metaphor.md",
-    "raw/Turner - From Counterculture to Cyberculture/03 [Ch2] Stewart Brand Meets the Cybernetic Counterculture.md",
-    "raw/Turner - From Counterculture to Cyberculture/01 [Introduction].md",
-    "raw/Turner - From Counterculture to Cyberculture/00 [Acknowledgments].md",
-    "raw/Turner - From Counterculture to Cyberculture/00 [About].md",
+    "sources/McLuhan - Understanding Media - 37 Chapter 33 - Automation - Learning a Living.md",
+    "sources/McLuhan - Understanding Media - 35 Chapter 31 - Television - The Timid Giant.md",
+    "arguments/The consumer becomes producer in the automation circuit.md",
+    "sources/McLuhan - Understanding Media - 34 Chapter 30 - Radio - The Tribal Drum.md",
+    "sources/McLuhan - Understanding Media - 36 Chapter 32 - Weapons - War of the Icons.md",
+    "arguments/Automation is the electric invasion of the mechanical world.md",
+    "sources/McLuhan - Understanding Media - 33 Chapter 29 - Movies - The Reel World.md",
+    "sources/McLuhan - Understanding Media - 31 Chapter 27 - The Telephone - Sounding Brass or Tinkling Symbol.md",
+    "sources/McLuhan - Understanding Media - 32 Chapter 28 - Phonograph - The Toy That Shrank the National Chest.md",
+    "sources/McLuhan - Understanding Media - 29 Chapter 25 - Telegraph - The Social Hormone.md",
+    "sources/McLuhan - Understanding Media - 30 Chapter 26 - The Typewriter - Into the Age of the Iron Whim.md",
+    "sources/McLuhan - Understanding Media - 24 Chapter 20 - The Photograph - The Brothel-without-Walls.md",
+    "sources/McLuhan - Understanding Media - 28 Chapter 24 - Games - The Extensions of Man.md",
+    "sources/McLuhan - Understanding Media - 27 Chapter 23 - Ads - Keeping Upset with the Joneses.md",
+    "sources/McLuhan - Understanding Media - 25 Chapter 21 - Press - Government by News Leak.md",
+    "sources/McLuhan - Understanding Media - 26 Chapter 22 - Motorcar - The Mechanical Bride.md",
+    "sources/McLuhan - Understanding Media - 22 Chapter 18 - The Printed Word - Architect of Nationalism.md",
+    "sources/McLuhan - Understanding Media - 21 Chapter 17 - Comics - Mad Vestibule to TV.md",
+    "sources/McLuhan - Understanding Media - 23 Chapter 19 - Wheel, Bicycle, and Airplane.md",
+    "sources/McLuhan - Understanding Media - 18 Chapter 14 - Money - The Poor Man's Credit Card.md",
+    "sources/McLuhan - Understanding Media - 19 Chapter 15 - Clocks - The Scent of Time.md",
+    "sources/McLuhan - Understanding Media - 20 Chapter 16 - The Print - How to Dig It.md",
+    "sources/McLuhan - Understanding Media - 17 Chapter 13 - Housing - New Look and New Outlook.md",
+    "sources/McLuhan - Understanding Media - 16 Chapter 12 - Clothing - Our Extended Skin.md",
+    "sources/McLuhan - Understanding Media - 14 Chapter 10 - Roads and Paper Routes.md",
+    "sources/McLuhan - Understanding Media - 15 Chapter 11 - Number - Profile of the Crowd.md",
+    "metaphors/Consciousness Without Walls.md.tmp.42862.50da67da4bd4",
+    "_system/workflows/_run_mcluhan.js",
     "raw/Turner - From Counterculture to Cyberculture",
-    "raw/Shiner - The Invention of Art/22 Chapter 15 - Beyond Art and Craft.md",
-    "raw/Shiner - The Invention of Art/25 References.md",
-    "raw/Shiner - The Invention of Art/24 Notes.md",
-    "raw/Shiner - The Invention of Art/23 Conclusion.md",
-    "raw/Shiner - The Invention of Art/21 Chapter 14 - Modernism, Anti-Art, and the Bauhaus.md",
-    "raw/Shiner - The Invention of Art/20 Chapter 13 - Assimilation and Resistance.md",
-    "raw/Shiner - The Invention of Art/19 Part V Overview - Beyond Fine Art and Craft.md",
-    "raw/Shiner - The Invention of Art/18 Chapter 12 - Silences - Triumph of the Aesthetic.md",
-    "raw/Shiner - The Invention of Art/17 Chapter 11 - The Artist - A Sacred Calling.md",
-    "raw/Shiner - The Invention of Art/16 Chapter 10 - Art as Redemptive Revelation.md",
-    "raw/Shiner - The Invention of Art/15 Part IV Overview - The Apotheosis of Art.md",
     "raw/Shiner - The Invention of Art",
     "raw/Harari - Nexus",
     "raw/Acemoglu & Johnson - Power and Progress",
@@ -237,8 +239,6 @@
     "tensions/Free Will vs Determinism.md.tmp.35303.02c30efb1542",
     "raw/Kandinsky - On the Spiritual in Art",
     "02-Sources/Essays/AI Is Inherently Evil",
-    "02-Sources/Books/The Extinction of Experience",
-    "99-Templates",
     "Thinking In Systems/attachments/NMN THEORY OF CHANGE (Poster (US)).png.png",
     "Thinking In Systems/attachments/3BC72856-CEC2-48B7-A92A-BB96819607F9.png",
     "Thinking In Systems/attachments/IMG_0173.jpeg",

@@ -2,11 +2,11 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "maps/Home",
-      "kind": "File",
+      "value": "",
+      "kind": "Graph view",
       "openOnStartup": true,
-      "openMode": "Keep open notes",
-      "manualOpenMode": "Keep open notes",
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Replace last note",
       "view": "Default view",
       "revertView": true,
       "openWhenEmpty": true,
