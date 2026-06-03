@@ -11,7 +11,7 @@ related:
   - "[[Sense Ratios]]"
   - "[[Media Hot and Cold]]"
   - "[[Hot and Cool Media (McLuhan)]]"
-  - "[[Hot vs Cool]]"
+  - "[[Hot vs Cool Media]]"
   - "[[Media as Extensions of Man]]"
 confidence: high
 last_updated: 2026-06-03
@@ -49,7 +49,7 @@ The mapping is therefore: hot medium → one sense over-filled → low participa
 - [[Sense Ratios]] — the perceptual substrate; hypnosis and hallucination are the two endpoints of how a medium re-proportions the senses.
 - [[Media Hot and Cold]] — the typology this figure caps; hot/cool is here translated into states of consciousness.
 - [[Hot and Cool Media (McLuhan)]] — the definition note giving the explicit "high definition" / "low in participation" criterion behind the two temperatures.
-- [[Hot vs Cool]] — the tension that frames the pair as a structured opposition (exclusion/entrancement vs inclusion/completion).
+- [[Hot vs Cool Media]] — the tension that frames the pair as a structured opposition (exclusion/entrancement vs inclusion/completion).
 - [[Media as Extensions of Man]] — extension as self-amputation and numbing; the bridge from Chapter 2's "hypnosis" to Chapter 4's narcosis.
 
 ## Sources

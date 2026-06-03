@@ -351,6 +351,52 @@ Verified alias-aware rewrites, all in the book and author notes' "Major Argument
 
 ---
 
+## Canonical Note Names — McLuhan Understanding Media ingest (2026-06-03)
+
+Added by *Understanding Media: The Extensions of Man* (1964). Book: `Understanding Media`. Author: **`Marshall McLuhan` (new)**. Source summaries: `McLuhan - Understanding Media - <NN [Chapter]>` (34 — Introduction + Ch1-33). The vault's largest book; ingested via a **custom big-book workflow** (34 parallel analyses → 7 sequential chunked planners sharing a running canonical-names list → single generation + index). 136 interpretive notes created; 21 cross-book updates. See `log.md`.
+
+**New concepts/** (42): The Medium Is the Message · Media as Extensions of Man · Media Hot and Cold · The Global Village · The Content of Any Medium Is Another Medium · Reversal of the Overheated Medium · Hybrid Energy · Autoamputation · Narcosis · Sense Ratios · Acoustic vs Visual Space · Explosion vs Implosion · Detribalization and Retribalization · Typographic Man · The Phonetic Alphabet · The Electric Age as Extension of the Central Nervous System · The Technological Extension of Consciousness · Leasing the Central Nervous System · Man as Servomechanism of His Extensions · The Mosaic · The Break Boundary · Media as Translators · Challenge and Collapse · Media Change as Collective Surgery · Specialism as Counter-Irritant · Depth as Insight Not Point of View · A Pluralism of Centers · Center-Margin Structure · Statement Without Syntax · The Artist as Integral Awareness · The Authority of Knowledge · The Restoration of the Role · Money as a Medium · Number as the Extension of Touch · Print as the Architect of Nationalism · Automation as Learning a Living · Games as Extensions of the Social Man · Transportation as Communication · Advertising as the Extension of Automation Toward a Collective Consciousness · The Social Hormone · Government by News Leak · The War of the Icons · **The Content Obsession** *(added in finalize — the fixation on content that blinds us to the medium; "the numb stance of the technological idiot"; opposes `The Medium Is the Message`)*.
+
+**New definitions/** (13): The Medium Is the Message (McLuhan) · Extensions of Man (McLuhan) · Hot and Cool Media (McLuhan) · Autoamputation (McLuhan) · Narcosis (McLuhan) · Hybrid Energy (McLuhan) · Number (McLuhan) · Money (McLuhan) · Nationalism (McLuhan) · Automation (McLuhan) · Collective Surgery (McLuhan) · The Phonetic Alphabet (McLuhan) · The Break Boundary (Boulding via McLuhan).
+
+**New tensions/** (8): Hot vs Cool Media · Mechanical vs Electric · Fragmentation vs Wholeness · Numbness vs Awareness · Detachment vs Participation · Center vs Margin · Job vs Role · Liberty vs Capture.
+
+**New metaphors/** (28): incl. Narcissus as Narcosis · The Brothel-without-Walls · The Tribal Drum · Man as the Sex Organs of the Machine World · The Brain Outside the Skull · An Eye for an Ear · The Global Village (metaphor — coexists with the concept, base name `The Global Village`) · The Gift of Gutenberg · The Midas Touch · The Carapace (Car as Shell) · The Age of the Iron Whim · The Burglar's Meat · The Seamless Web · Babel vs Pentecost · The Dragon's Teeth (Cadmus) · The Schmoo · Consciousness Without Walls · etc. **New symbols/** (5): The Electric Light · The Credit Card · Canned Dreams · The Forest of Arden · The Idol (113th Psalm).
+
+**New arguments/** (32): incl. The medium not its content is the message · Every extension of man is an autoamputation that numbs perception · Electric light is the clearest proof that the medium is the message because light is information without content · The neutral-instrument view of technology is the numb stance of the technological idiot · We have leased our central nervous systems to private corporations · Electric speed reverses explosion into implosion · Only the phonetic alphabet not writing in general created the detribalized civilized individual · Hitler's rise was a media effect of radio's form not its content · Art is the only known immunity to technological trauma so the artist is indispensable to survival · etc.
+
+**New references/** (8): `Marshall McLuhan and {N. Katherine Hayles, Byung-Chul Han, Donna Haraway, Ray Kurzweil, Yuval Noah Harari}` (vault-internal interpretive bridges — McLuhan is foundational to all of them: media/embodiment, electric speed/acceleration, extensions→cyborg, the global nervous system→network/Dataism) + `Marshall McLuhan and {Karl Marx, Lewis Mumford, Elias Canetti}` (Marx/Mumford/Canetti are forward-stub authors).
+
+**Cross-book UPDATES** (existing notes that gained a Marshall McLuhan author-section — do NOT duplicate): `Information` · `Embodiment` · `The Body as Data` · `The Cyborg` · `Posthumanism` · `Acceleration` · `Distributed Cognition` · `Cybernetics` · `Homeostasis` · `Inscription vs Incorporation` · `Feedback Loops` · `Mind Uploading` · `Immaterial Labour` · `Digital Panopticon` · `Decentralization` · `Exhibition Value` (concepts) · `Material vs Immaterial` *(now a SEVEN-author tension)* · `Fragrance of Time` (metaphor) · the references `Marshall McLuhan and {Kurzweil, Harari, Hayles}` (extended across chunks).
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Lewis Mumford`, `Elias Canetti`, `Henri Bergson`, `Kenneth Boulding`, `Harold Innis` (McLuhan's mentor). `Karl Marx` reused. Per policy, no author-note files for these until their work is ingested.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- `Media as Extensions of Man` (concept) ≠ `Extensions of Man (McLuhan)` (definition).
+- `Media Hot and Cold` (concept) beside `Hot and Cool Media (McLuhan)` (definition) and `Hot vs Cool Media` (tension). Note the concept uses "Cold" while the def/tension use McLuhan's "Cool" — kept as-is; all three cross-reference each other. Canonical concept link target: `Media Hot and Cold`.
+- `The Global Village` exists as BOTH a concept and a metaphor (same base name, different folders — Obsidian disambiguates by path; same pattern as `Hell of the Same`). Link to `[[The Global Village]]`; do NOT write `[[The Global Village (metaphor)]]`.
+- `The Medium Is the Message` exists as concept AND `The Medium Is the Message (McLuhan)` definition.
+
+### McLuhan-pass variant/dangling fixes (applied 2026-06-03, finalize)
+
+Verified alias-preserving rewrites caught in the normalization backstop (chunked-planner naming divergence):
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Hot and Cool Media` (bare, 8×) | `Media Hot and Cold` (the concept; the def is `Hot and Cool Media (McLuhan)`) |
+| `Hot vs Cool` (6×) | `Hot vs Cool Media` |
+| `The Extensions of Man` (3×) | `Media as Extensions of Man` |
+| `The Medium is the Message` (lowercase "is", 3×) | `The Medium Is the Message` |
+| `The Global Village (metaphor)` | `The Global Village` |
+| `The Printed Word - Architect of Nationalism` | `Print as the Architect of Nationalism` |
+| `The Content Obsession` (6×, dangling) | *(realized — concept note created in finalize)* |
+| filename `...radios form...` + `[[...radio's form...]]` split | unified on `Hitler's rise was a media effect of radio's form not its content` (file renamed via `git mv`, all 8 links standardized to the apostrophe form) |
+
+Left correct (false positive): `[[Media as Extensions of Man\|central nervous system]]` inside a markdown table — the `\|` is a table-escaped alias pipe, valid Obsidian syntax, NOT a dangling `Media as Extensions of Man\` link.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.

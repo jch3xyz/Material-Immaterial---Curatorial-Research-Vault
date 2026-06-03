@@ -44,7 +44,7 @@ A second durable vein is the contraction to "village size" and its *anti-homogen
 
 ## Key Arguments
 
-- [[Hitler's rise was a media effect of radios form not its content]] — reject Lazarsfeld's content-effects model, locate Hitler's rise in radio's retribalizing *form*, and in Germany's lack of the visual "immunity" of England and America.
+- [[Hitler's rise was a media effect of radio's form not its content]] — reject Lazarsfeld's content-effects model, locate Hitler's rise in radio's retribalizing *form*, and in Germany's lack of the visual "immunity" of England and America.
 - [[The medium not its content is the message]] — "the effects of radio are quite independent of its programming"; content-directed controls and censorship are futile, and the only effective control is "thermostatic" quantitative rationing.
 - [[Electric speed reverses explosion into implosion]] — radio's "electronic implosion" reverses "the entire direction and meaning of literate Western civilization," collapsing individualism into collectivism.
 - [[Electric implosion must be met by decentralism not expansion]] — radio as the "decentralizing, pluralistic force" that contracts the world without homogenizing it; the anti-flattening qualification of the Global Village.
@@ -77,7 +77,7 @@ The chapter is rich in further images captured here in prose rather than as sepa
 - [[Marshall McLuhan]]
 - [[The Tribal Drum]]
 - [[Detribalization and Retribalization]]
-- [[Hitler's rise was a media effect of radios form not its content]]
+- [[Hitler's rise was a media effect of radio's form not its content]]
 - [[Marshall McLuhan and Byung-Chul Han]]
 - [[McLuhan - Understanding Media - 05 Chapter 2 - Media Cold and Hot]]
 - [[McLuhan - Understanding Media - 06 Chapter 3 - Reversal of the Overheated Medium]]
@@ -85,7 +85,7 @@ The chapter is rich in further images captured here in prose rather than as sepa
 
 ## Candidate Essay Uses
 
-- Form over content as a media-political thesis: [[Hitler's rise was a media effect of radios form not its content]] read against present-day debates about disinformation and platform "content moderation" — McLuhan's claim that "the effects of radio are quite independent of its programming" reframes the moderation debate as one that addresses the content while leaving the medium's structural effects untouched ([[The Medium Is the Message]]). Quote and attribute the Hitler claim strictly; do not present it as settled history.
+- Form over content as a media-political thesis: [[Hitler's rise was a media effect of radio's form not its content]] read against present-day debates about disinformation and platform "content moderation" — McLuhan's claim that "the effects of radio are quite independent of its programming" reframes the moderation debate as one that addresses the content while leaving the medium's structural effects untouched ([[The Medium Is the Message]]). Quote and attribute the Hitler claim strictly; do not present it as settled history.
 - The Global Village as pluralizing, not flattening: use [[Electric implosion must be met by decentralism not expansion]] and the Welsh/Gaelic/Hebrew/Indian-radio examples to complicate the popular "global homogenization" reading of [[The Global Village]] — radio "contracts the world to village size" while *amplifying* difference.
 - The privacy/tribal-bond paradox: the teenager's "mystic screen of sound" and the transistor that provides "a private world for themselves amidst crowds," set against the "tight tribal bond" of the same medium — an early figure for how networked media both individualize and collectivize, readable beside Han's [[Hypercommunication]] and [[Hell of the Same]] (interpretive resonance; the authors do not cite each other — see [[Marshall McLuhan and Byung-Chul Han]]).
 - The acoustic/visual genealogy of tolerance: [[Acoustic vs Visual Space]] and [[Sense Ratios]] as a (contestable) media-theoretic account of why "ideas of tolerance came to the West only after two or three centuries of literacy and visual Gutenberg culture" — useful as a foil, not an endorsement.
@@ -114,7 +114,7 @@ Relevant passage:
 
 > That Hitler came into political existence at all is directly owing to radio and public-address systems. This is not to say that these media relayed his thoughts effectively to the German people. His thoughts were of very little consequence.
 
-Supports: [[Hitler's rise was a media effect of radios form not its content]] — the rise located in radio's retribalizing form, not its content; an instance of [[The Medium Is the Message]] and [[Detribalization and Retribalization]]. Confidence: Directly stated (a loaded, overdetermined 1964 causal claim — attributed to McLuhan, not endorsed).
+Supports: [[Hitler's rise was a media effect of radio's form not its content]] — the rise located in radio's retribalizing form, not its content; an instance of [[The Medium Is the Message]] and [[Detribalization and Retribalization]]. Confidence: Directly stated (a loaded, overdetermined 1964 causal claim — attributed to McLuhan, not endorsed).
 
 ### Citation 4
 
@@ -122,7 +122,7 @@ Relevant passage:
 
 > Highly literate societies, that have long subordinated family life to individualist stress in business and politics, have managed to absorb and to neutralize the radio implosion without revolution. Not so, those communities that have had only brief or superficial experience of literacy. For them, radio is utterly explosive.
 
-Supports: The differential-cultural-immunity thesis underpinning [[Hitler's rise was a media effect of radios form not its content]]; ties [[Explosion vs Implosion]] and [[Typographic Man]] to a culture's prior visual "investment." Confidence: Directly stated.
+Supports: The differential-cultural-immunity thesis underpinning [[Hitler's rise was a media effect of radio's form not its content]]; ties [[Explosion vs Implosion]] and [[Typographic Man]] to a culture's prior visual "investment." Confidence: Directly stated.
 
 ### Citation 5
 

@@ -13,7 +13,7 @@ sources:
 related:
   - "[[Hot and Cool Media (McLuhan)]]"
 opposes:
-  - "[[Hot vs Cool]]"
+  - "[[Hot vs Cool Media]]"
 authors:
   - "[[Marshall McLuhan]]"
 confidence: high
@@ -46,7 +46,7 @@ Crucially, the temperatures are *relative* and *reversible* rather than fixed pr
 
 ## Opposing Concepts
 
-- [[Hot vs Cool]] — the tension that frames hot and cool not as a neutral typology but as a structured opposition (exclusion vs inclusion, low vs high participation) that McLuhan reverses across cultures and eras.
+- [[Hot vs Cool Media]] — the tension that frames hot and cool not as a neutral typology but as a structured opposition (exclusion vs inclusion, low vs high participation) that McLuhan reverses across cultures and eras.
 
 ## Questions It Raises
 

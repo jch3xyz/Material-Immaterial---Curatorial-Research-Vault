@@ -122,7 +122,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Ads are the richest daily reflection a society ever made of itself]] — ad teams out-research sociologists; the acceptable ad dramatizes communal experience
 - [[Games are extensions of the social man and are mass media]] — games extend social man, model a culture, and are therefore mass media
 - [[Games are counter-irritants to the stress of specialist labor and stave off automatism]] — a society without games sinks into the zombie trance of automation
-- [[Hitler's rise was a media effect of radios form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
+- [[Hitler's rise was a media effect of radio's form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
 - [[Automation ends jobs and subjects but fuses work and learning]] — the structural argument anchoring automation as learning a living
 - [[Automation liberates men into the role of artist]] — McLuhan's most utopian claim; cross-linked to its critics Han, Harari, and Lippard
 

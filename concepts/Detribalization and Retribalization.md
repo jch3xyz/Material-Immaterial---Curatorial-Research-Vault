@@ -12,10 +12,10 @@ sources:
   - "[[raw/McLuhan - Understanding Media/34 Chapter 30 - Radio - The Tribal Drum]]"
 related:
   - "[[The Global Village]]"
-  - "[[Hot and Cool Media]]"
+  - "[[Media Hot and Cold]]"
   - "[[The Medium Is the Message]]"
 opposes:
-  - "[[Hot and Cool Media]]"
+  - "[[Media Hot and Cold]]"
 authors:
   - "[[Marshall McLuhan]]"
 confidence: high
@@ -45,12 +45,12 @@ The concept is minted separately from `The Global Village` because Chapter 2 sta
 ## Related Concepts
 
 - [[The Global Village]] — the *result* of retribalization: electric implosion contracts the world "to village size," reassembling fragmented functions into "an organic whole." This concept is the mechanism behind that one.
-- [[Hot and Cool Media]] — the underlying media taxonomy: hot, specialist, high-definition media detribalize; cool, nonspecialist, low-definition, participational media (and electric media generally) retribalize.
+- [[Media Hot and Cold]] — the underlying media taxonomy: hot, specialist, high-definition media detribalize; cool, nonspecialist, low-definition, participational media (and electric media generally) retribalize.
 - [[The Medium Is the Message]] — detribalization/retribalization is an *effect of the medium's form*, independent of program content: "the effects of radio are quite independent of its programming" (`Radio`).
 
 ## Opposing Concepts
 
-- [[Hot and Cool Media]] — listed both as related and as the axis of opposition *within* the concept: the two poles (detribalize / retribalize) line up with the two poles of the hot/cool distinction. The opposition is internal to the process rather than to a separate rival concept.
+- [[Media Hot and Cold]] — listed both as related and as the axis of opposition *within* the concept: the two poles (detribalize / retribalize) line up with the two poles of the hot/cool distinction. The opposition is internal to the process rather than to a separate rival concept.
 
 ## Questions It Raises
 

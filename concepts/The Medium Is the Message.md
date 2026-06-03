@@ -15,8 +15,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/35 Chapter 31 - Television - The Timid Giant]]"
 related:
   - "[[The Medium Is the Message (McLuhan)]]"
-  - "[[The Extensions of Man]]"
-  - "[[Hot and Cool Media]]"
+  - "[[Media as Extensions of Man]]"
+  - "[[Media Hot and Cold]]"
   - "[[Information]]"
 opposes:
   - "[[The Content Obsession]]"
@@ -42,13 +42,13 @@ Against this McLuhan sets the neutral-instrument view — that media are good or
 
 ## Authors and Variants
 
-- **[[Marshall McLuhan]]** — coined the formula in *Understanding Media* (1964) as the book's title concept. The medium's "message" is the change of scale, pace, or pattern it introduces; content is a distraction that conceals form. The thesis is paired with his media taxonomy of [[Hot and Cool Media]] and his governing premise that all media are [[The Extensions of Man]] (extensions of the body and, with electricity, of the central nervous system). The companion definition note is [[The Medium Is the Message (McLuhan)]].
+- **[[Marshall McLuhan]]** — coined the formula in *Understanding Media* (1964) as the book's title concept. The medium's "message" is the change of scale, pace, or pattern it introduces; content is a distraction that conceals form. The thesis is paired with his media taxonomy of [[Media Hot and Cold]] and his governing premise that all media are [[Media as Extensions of Man]] (extensions of the body and, with electricity, of the central nervous system). The companion definition note is [[The Medium Is the Message (McLuhan)]].
 
 ## Related Concepts
 
 - [[The Medium Is the Message (McLuhan)]] — the definition note for McLuhan's verbatim formulation; this concept note carries the broader thesis and its development across the case studies (the Information/Information (Han) pattern).
-- [[The Extensions of Man]] — the premise the thesis rests on: every medium is an extension of ourselves, so its "message" is what that extension does to the scale and ratio of our senses.
-- [[Hot and Cool Media]] — McLuhan's classification of media by definition and participation; "it is the medium that is the message because it is the medium that shapes... the scale and form of human association," and hot/cool names *how* each shapes it.
+- [[Media as Extensions of Man]] — the premise the thesis rests on: every medium is an extension of ourselves, so its "message" is what that extension does to the scale and ratio of our senses.
+- [[Media Hot and Cold]] — McLuhan's classification of media by definition and participation; "it is the medium that is the message because it is the medium that shapes... the scale and form of human association," and hot/cool names *how* each shapes it.
 - [[Information]] — McLuhan calls the electric light "pure information," a medium whose lack of content makes the form-versus-content point unmistakable; cross-links to the Han/Hayles/Harari information cluster.
 
 ## Opposing Concepts
@@ -128,7 +128,7 @@ Relevant passage:
 
 > More and more we turn from the content of messages to study total effect.
 
-Supports: The methodological turn from content to total effect that the thesis demands; links to [[Hot and Cool Media]]. Label: `Directly stated`.
+Supports: The methodological turn from content to total effect that the thesis demands; links to [[Media Hot and Cold]]. Label: `Directly stated`.
 
 ### Source 7
 

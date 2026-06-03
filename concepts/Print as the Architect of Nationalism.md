@@ -7,7 +7,7 @@ related:
   - "[[Typographic Man]]"
   - "[[Detribalization and Retribalization]]"
   - "[[The Global Village]]"
-  - "[[The Medium is the Message]]"
+  - "[[The Medium Is the Message]]"
 opposes:
   - "[[The Global Village]]"
 authors:
@@ -34,13 +34,13 @@ Finally, the thesis is explicitly historical and therefore reversible — print 
 
 ## Authors and Variants
 
-- **[[Marshall McLuhan]]** (*[[Understanding Media]]*, Ch. 18) — Nationalism is the titular, headline effect of the printed word: print homogenizes vernaculars and individuals, then aggregates them into the nation as "continuity and competition in homogeneous space," a "visual image of group destiny" dependent on print-borne information speed and now obsolescing under electric media. Print is treated not as a carrier of national content but as the formal cause of national form — a direct application of the principle that [[The Medium is the Message]].
+- **[[Marshall McLuhan]]** (*[[Understanding Media]]*, Ch. 18) — Nationalism is the titular, headline effect of the printed word: print homogenizes vernaculars and individuals, then aggregates them into the nation as "continuity and competition in homogeneous space," a "visual image of group destiny" dependent on print-borne information speed and now obsolescing under electric media. Print is treated not as a carrier of national content but as the formal cause of national form — a direct application of the principle that [[The Medium Is the Message]].
 
 ## Related Concepts
 
 - [[Typographic Man]] — the homogeneous, detached, individuated subject print produces; the human "unit" out of which the nation is aggregated. The sub-facets "extension by homogenization" and "the power to act without reacting" are developed across both notes.
 - [[Detribalization and Retribalization]] — print's detribalizing explosion of the blood tribe is the precondition for nationalism; the same process reverses under electricity.
-- [[The Medium is the Message]] — nationalism is the social "message" of print as a medium, irrespective of any text's content.
+- [[The Medium Is the Message]] — nationalism is the social "message" of print as a medium, irrespective of any text's content.
 
 ## Opposing Concepts
 

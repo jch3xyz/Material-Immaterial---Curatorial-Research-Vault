@@ -43,7 +43,7 @@ This is the canonical name the vault reuses across all the print-culture chapter
 
 - The Phonetic Alphabet — McLuhan's earlier "processer of men," the visual technology that print intensifies and universalizes (Cadmus myth, Ch. 7). *(forward-stub if minted this pass; otherwise the alphabet thread runs through Ch. 7, 9, 16.)*
 - Print as Fragmentation and Lineality — the formal mechanism (uniform, repeatable, movable parts in lineal sequence) by which print makes Typographic Man; the assembly line is its industrial echo.
-- Nationalism and Individualism — the political-psychological products of print culture; see *[[The Printed Word - Architect of Nationalism]]* chapter material.
+- Nationalism and Individualism — the political-psychological products of print culture; see *[[Print as the Architect of Nationalism]]* chapter material.
 
 ## Opposing Concepts
 

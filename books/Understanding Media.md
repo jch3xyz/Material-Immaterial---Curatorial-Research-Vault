@@ -192,7 +192,7 @@ For this vault the book is a keystone upstream source. Its claim that "we have e
 
 ## Key Metaphors
 
-- [[The Global Village (metaphor)]]
+- [[The Global Village]]
 - [[The Burglar's Meat]]
 - [[Hypnosis vs Hallucination]]
 - [[Railway vs the Electric Grid]]

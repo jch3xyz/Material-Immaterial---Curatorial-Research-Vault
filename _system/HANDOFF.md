@@ -31,14 +31,14 @@ page is the operating manual.
 
 ## Ingest protocol (the whole loop)
 
-1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
+1. **Pick a book** not yet in the cache. (As of 2026-06-03: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
-   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 8 remain. NOTE: the corpus
-   is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user intentionally removed 11
-   books from the plan (see `source_inventory.md` → Removed from corpus: Acemoglu, Harari–Nexus, Shiner,
-   Turner, Kurzweil–*Age of Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop);
-   do not treat any of those as pending ingests. The 8 remaining: Ascott, Benjamin, Burnham, Debord, Meadows,
-   Han–*Burnout Society*, McLuhan, Zuboff.)
+   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media are DONE.
+   7 remain. NOTE: the corpus is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   intentionally removed 11 books from the plan (see `source_inventory.md` → Removed from corpus: Acemoglu,
+   Harari–Nexus, Shiner, Turner, Kurzweil–*Age of Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman,
+   Vierkant, Waldrop); do not treat any of those as pending ingests. The 7 remaining: Ascott, Benjamin, Burnham,
+   Debord, Meadows, Han–*Burnout Society*, Zuboff.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
@@ -46,11 +46,22 @@ page is the operating manual.
    notes to merge into. When splitting a book into halves (below), pass Half 2 the exact list of notes
    Half 1 created so its planner extends them instead of duplicating.
    **BIG-BOOK RULE (learned on Kurzweil):** for books with > ~8 substantive chapters or very long
-   chapters (≳ 800 lines), **split the ingest into halves of ≤ ~6 chapters each** and run them
-   SEQUENTIALLY (not parallel — they share the book/author note). A single oversized pass makes the
-   synthesis planner overflow and return an EMPTY plan (`CREATE 0`), and the index agent then pollutes
-   the maps with links to phantom notes. The other big books still in the corpus (McLuhan 38 ch, Zuboff,
-   Ascott 39 ch) should be split up front.
+   chapters (≳ 800 lines), **split the synthesis planning** — a single oversized pass makes the planner
+   overflow and return an EMPTY plan (`CREATE 0`), and the index agent then pollutes the maps with phantom
+   links. Two proven shapes: (a) run the monograph workflow in **sequential halves** of ≤ ~6 chapters
+   (Kurzweil); or (b) for a VERY chapter-dense book (McLuhan, 34 ch), a **custom big-book workflow**
+   (`_system/workflows/_run_mcluhan.js` is the template): 34 parallel analyses → **N sequential chunked
+   planners** (≤6 ch each) each handed the *running list of already-planned canonical names* so concepts
+   dedup across chunks by file_path → a SINGLE generation + index pass (avoids the book-note/index thrash
+   of re-running the whole workflow per chunk). The remaining big books (Zuboff 25 ch, Ascott 39 ch) should
+   use one of these up front.
+   **RESILIENT-AGENT WRAPPER (learned on McLuhan — IMPORTANT for any schema'd fan-out):** despite the
+   Workflow docs saying `parallel()` coerces a throwing thunk to `null`, a schema agent that "completed
+   without calling StructuredOutput (after 2 nudges)" **throws and aborts the whole run**. Wrap every
+   `agent({schema})` call in a retry helper (`async safeAgent(prompt,opts,tries){ for…try{return await
+   agent(prompt,opts)}catch{} return null }`) — 4 tries for analysis/planners, 2 for generation. Keep
+   prompt/opts byte-identical so `resumeFromRunId` still cache-hits prior successes. On McLuhan the first
+   run aborted on 3/34 analysis agents; the wrapper + resume (cached 31, re-ran 3) recovered cleanly.
    **VERIFY-ON-DISK + COMMIT EACH PHASE (learned the hard way):** the workflow's reported `created: N`
    is OPTIMISTIC — content-heavy agents (sources, references, arguments, author-note extensions)
    sometimes return a path WITHOUT the Write landing. After each run, parse its `create_plan`/`update_plan`
