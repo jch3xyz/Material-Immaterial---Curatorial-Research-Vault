@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Concept Index
@@ -15,32 +15,46 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Affinity Not Identity]] — Haraway: political coalition by chosen affinity rather than essential/natural identity ('related not by blood but by choice')
 - [[Algorithmic Determinism]] — prediction as behavior-modifying feedback loop trapping people in their digital reflection; prediction enacts the fate it foresees
 - [[Algorithms That Know Us Better Than We Know Ourselves]] — Harari: the dissolution of liberal individualism as external algorithms gain authority over the self
+- [[Acoustic vs Visual Space]] — McLuhan: perspective and the fixed gaze as learned typographic habits, not innate perception; the Movies chapter is its keystone case-study
+- [[A Pluralism of Centers]] — McLuhan: restraint of electric power requires not a separation of powers but dialogue among centers and equals, because an electric structure has no margins
 - [[Allo-Exploitation]] — exploitation by an other; the antonym of [[Auto-Exploitation]] superseded under neoliberalism (Han)
 - [[The Anthropocene]] — Harari: humanity as the dominant geological force
 - [[Arcana of Power]] — Schmittian secrecy that politics requires and transparency dismantles
 - [[Artificial Life]] — the third wave figured as a spiral; the 'strong claim' that codes are alive, not merely simulating life
+- [[The Artist as Integral Awareness]] — McLuhan: the artist as early-warning antenna and source of cultural immunity; the suspended judgment that absorbs technological shock
+- [[The Authority of Knowledge]] — McLuhan: electric speed dissolves delegated lineal/visual/hierarchical authority and substitutes an inclusive, nonlineal authority of knowledge
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization; the entrepreneur of himself as the panopticon of himself (Han)
 - [[Autopoiesis]] — Maturana & Varela's self-making circular organization; resists the disembodiment of information
+- [[Autoamputation]] — McLuhan's keystone: every technology is a defensive self-amputation of an over-stressed organ by the central nervous system
+- [[Automation as Learning a Living]] — McLuhan: 'automation is information'; work, consumption, and learning fuse into one process; man as a nomadic gatherer of knowledge
+- [[Advertising as the Extension of Automation Toward a Collective Consciousness]] — McLuhan: advertising as a crude attempt to extend automation toward a programmed collective consciousness
 - [[Beyond the Subject]] — Han's de-psychologized, de-voided existence past the subject-form; the emancipatory horizon of psychopolitics
 - [[Big Data]] — the aperspectival instrument of digital psychopolitics that pre-empts free will (Han)
 - [[The Breached Boundaries]] — Haraway's three boundary breakdowns (human/animal, organism/machine, physical/nonphysical), introduced in section 01 and declared dissolved in section 06
+- [[The Break Boundary]] — McLuhan (via Boulding): the point of no return at which a system changes into another
 - [[Biopolitics]] — the governmental technology of disciplinary power over the body and population; foil to psychopolitics (Han, realized from forward-stub)
 - [[Can It Suffer (The Reality Test)]] — Harari's criterion separating the real (suffering subjects) from the fictional (money, gods, nations)
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
 - [[Capital as Religion]] — Capital as a transcendence ruling through debt and guilt; the cult without dogma (Han via Benjamin)
 - [[Capitalism as Religion (Harari)]] — Harari: capitalism issuing ethical verdicts under cover of fact; beside Capital as Religion (Han)
+- [[Center-Margin Structure]] — McLuhan: the spatial-political geometry that media speed-up creates and electric speed dissolves ('centers everywhere; margins cease to exist')
+- [[Challenge and Collapse]] — McLuhan recasting Toynbee: coexisting societies generate a rain of psychic energy; the countervailing thrust toward decentralism
 - [[Conceptual Art]] — 'idea art' (Lippard, LeWitt, Kosuth): the idea supersedes the visual/material result; 'ideas can be art'
+- [[The Content of Any Medium Is Another Medium]] — McLuhan: media nest recursively and content masks the medium
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
 - [[Cyborg Writing]] — Haraway: survival by seizing the tools of signification that marked the othered as other; noise and pollution against perfect communication
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
 - [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
 - [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
+- [[Depth as Insight Not Point of View]] — McLuhan: depth experience dissolves highbrow/lowbrow because consciousness is an inclusive process not dependent on content
+- [[Detribalization and Retribalization]] — McLuhan: hot/mechanical media detribalize; electric media retribalize
 - [[Dictatorship of Capital]] — Capital ruling a classless, auto-exploiting universality; domination without a ruling class (Han)
 - [[Digital Panopticon]] — aperspectival surveillance built on voluntary self-exposure and hypercommunication; the friendly, internal panopticon
 - [[Disembodied Information as the Soul]] — information decoupled from matter at the Macy Conferences as 'the materialist's substitute for the soul' (the theological reading of Hayles)
 - [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos; O'Gieblyn's master frame (Weber forward-stub)
 - [[Distributed Cognition]] — cognition residing across human and nonhuman actors (Hutchins; the Chinese Room); replaces autonomous will
 - [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
+- [[The Electric Age as Extension of the Central Nervous System]] — McLuhan: electric technology as a live model of the central nervous system set outside us
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
 - [[Emergence]] — properties appearing spontaneously from simple rules and recursive feedback; replaces teleology in the benign posthuman
 - [[Emotional Capitalism]] — capitalism that exploits the performativity of emotion (Han; term from Illouz)
@@ -49,12 +63,16 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Exhibition as Medium]] — Siegelaub's reinvention of the exhibition/catalogue/magazine as the artwork's primary site (primary vs secondary information)
 - [[Exhibition Value]] — value generated solely by attention, irreducible to use or exchange value (Han via Benjamin)
 - [[Exploitation of Freedom]] — control via voluntary self-illumination rather than external coercion; the book's central title-thesis — freedom itself is producing coercion (Han, Psychopolitics)
+- [[Explosion vs Implosion]] — McLuhan: mechanical explosion (fragmentation, space) reversing into electric implosion (contraction, nervous system)
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
 - [[Flickering Signifier]] — Hayles's figure for signification under conditions of code and mutation, the informatic successor to the floating signifier
 - [[Fractured Identities]] — Haraway: identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
 - [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
 - [[Freedom of Information]] — Dataism's supreme value, the first genuinely new value since 1789 (Harari)
 - [[Gamification]] — play enlisted to heighten productivity, so the player self-subjugates in the act of playing (Han)
+- [[Games as Extensions of the Social Man]] — McLuhan: the collective specialization of the extensions thesis; games as models of a culture and as mass media
+- [[The Global Village]] — McLuhan: electric speed contracts the planet to a single participatory community
+- [[Government by News Leak]] — McLuhan: electric speed converting top secrecy into participation via the controlled news leak
 - [[Gleichschaltung]] — forced synchronization; the leveling, conformity-producing violence latent in compulsory transparency; Big-Data sameness
 - [[The Growth Imperative]] — Harari: growth as essential, supreme, and ethics-overriding under the modern covenant
 - [[Healing as Killing]] — therapeutic self-optimization that destroys the soul; the positivity of self-improvement as a mode of domination (Han)
@@ -64,6 +82,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Homework Economy]] — Haraway (after Richard Gordon): the worldwide feminization of work; precursor to Han's immaterial labour
 - [[Homo Deus]] — Harari: the upgraded human-as-god via the three paths of bioengineering, cyborg engineering, and inorganic life (distinct from the book note)
 - [[Humanism (Harari)]] — Harari: humanism as the worship of humankind; the dominant modern religion
+- [[Hybrid Energy]] — McLuhan: the crossing of two media releases energy as by fission or fusion and breaks the media-trance
 - [[Hypercommunication]] — communication accelerated by eliminating the friction of the Other; total/coercive communication and its self-destruction
 - [[Hyperinformation]] — information past the point of clarity; positivized excess that yields opacity, not truth
 - [[Hyphen vs Splice]] — two modes of joining opposites: identity-preserving metonymic tension vs transfiguring cybernetic circuit (Wolfe's Limbo)
@@ -84,13 +103,24 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Intimacy as Psychological Formula of Transparency]] — the affective mode of transparency: laying the soul bare
 - [[Knowledge = Experiences × Sensitivity]] — Harari: humanism's epistemology, locating authority in lived, cultivated experience
 - [[Large-Scale Flexible Cooperation]] — Harari: the real 'human spark' that gives Homo sapiens mastery over the planet
+- [[Leasing the Central Nervous System]] — McLuhan: we have leased our eyes, ears, and nerves to private corporations
 - [[Liberal Humanism (Harari)]] — Harari: the orthodox humanist sect that defeated its rivals 1914–1989
+- [[Man as Servomechanism of His Extensions]] — McLuhan, the Gadget Lover: man serves his technologies as gods, the sex organs of the machine world
+- [[Media as Extensions of Man]] — McLuhan: every medium is an extension of a body part, sense, or faculty; the electric age extends the central nervous system
+- [[Media as Translators]] — McLuhan: all media are active metaphors translating experience into new forms
+- [[Media Change as Collective Surgery]] — McLuhan: a new medium operates on the whole social body while the incised area is numb
+- [[Media Hot and Cold]] — McLuhan: media classified by definition (data-density) and inverse participation; the hot form excludes, the cool form includes
+- [[The Medium Is the Message]] — McLuhan's signature thesis: the form/scale of a medium, not its content, restructures human affairs
 - [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
 - [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
+- [[Money as a Medium]] — McLuhan: money as extension, storehouse, and translator of communal work; its commodity→credit/information arc and electric reversal into the credit card
+- [[The Mosaic]] — McLuhan: the corporate/collective image of discontinuous juxtaposed items, with no point of view, that commands deep communal participation (press, ads, telegraph, photograph)
 - [[Nanobots]] — blood-cell-sized robots that scan the brain from inside its capillaries; the route to upload-grade detail (Kurzweil)
+- [[Narcosis]] — McLuhan: the constitutive numbness accompanying every extension; the etymological root of Narcissus
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation; narration vs additive data
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; constitutive of life and resistance
 - [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
+- [[Number as the Extension of Touch]] — McLuhan: number as a bodily extension of the haptic sense, paired against writing as the extension of sight
 - [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
 - [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
 - [[Oppositional Consciousness]] — Sandoval's model (via Haraway): identity born of reading webs of power from refused category-membership
@@ -99,29 +129,40 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
 - [[Paradigm Shift and the S-Curve]] — the shape of accelerating change: each paradigm an S-curve, the overall exponential a cascade of S-curves (Kurzweil)
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
+- [[The Phonetic Alphabet]] — McLuhan: the one writing system that maps meaningless letters to meaningful sounds, detribalizing its user and installing visual uniformity ('an eye for an ear')
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
 - [[Patternism]] — Kurzweil's doctrine of the self as a persisting, substrate-independent pattern of information; immortalist inverse of Hayles's pattern/randomness
 - [[Pornography (Han)]] — structural form of total exposure: smooth, post-hermeneutic, infectious; datasexuality and the pornographic traits of dataism
 - [[Positivity]] — the regime of additive, smooth same-only experience that follows from dismantled negativity; positivity as a theory of power
 - [[Posthumanism]] — the posthuman as a point of view, not the end of humanity but of the liberal conception of the human; benign when grounded in embodiment
+- [[Print as the Architect of Nationalism]] — McLuhan: print homogenizes vernaculars into the nation as 'continuity and competition in homogeneous space'
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
+- [[The Restoration of the Role]] — McLuhan: electric media restore the collective, nonvisual role (king/emperor; the movie star as 'jobless image') in place of the delegated specialist job
+- [[Reversal of the Overheated Medium]] — McLuhan: any medium intensified past a threshold reverses into its opposite
 - [[The Refusal of Innocence]] — Haraway: the cyborg's rejection of origin myths, organic wholeness, the Garden, and victimhood-as-insight
 - [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
 - [[Reverse-Engineering the Human Brain]] — scanning, modeling, and re-instantiating the brain's 'software of intelligence' on faster substrates; the software complement to the hardware-capacity argument (Kurzweil)
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
+- [[Sense Ratios]] — McLuhan: media alter sense ratios/patterns of perception beneath opinion
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
 - [[Smart Power]] — permissive, seductive, psyche-targeting neoliberal power that presents itself as freedom (Han)
+- [[The Social Hormone]] — McLuhan: electric media producing organic interdependence; instant information as the social body's chemical messenger
 - [[Society as Algorithm]] — Harari: writing organises society algorithmically, the deep root of bureaucracy
 - [[Smoothness]] — the surface property of transparency: frictionless, leveled, uninterrupted; smart power is smooth and permissive
 - [[Society of Control]] — power as continuous modulation and voluntary self-exposure rather than enclosure (Han via Deleuze); the mole/snake, debt
+- [[Specialism as Counter-Irritant]] — McLuhan: fragmentation as the compensation of the enslaved; perfect adaptation as a fatal static terminus
+- [[Statement Without Syntax]] — McLuhan: the photograph as a nonverbal medium of statement by gesture, mime, and gestalt that restores what the alphabet severed
 - [[Systems Theory]] — autopoiesis as the theory of the living, extended to social systems (the state as the paradigmatic cyborg)
 - [[Techno-Humanism]] — Harari: the conservative techno-religion that upgrades humans while keeping them the source of meaning; distinct from Transhumanism
 - [[Techno-Religion]] — Harari: salvation through technology and economics (the umbrella over Techno-Humanism and Dataism)
 - [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
+- [[The Technological Extension of Consciousness]] — McLuhan: the electric age translates us into information, toward transferring consciousness to the computer
 - [[Transcending Biology]] — Kurzweil's 'version 1.0' bodies premise and the immortality claim ('mortality will be in our own hands'); the strongest celebratory body-as-replaceable-hardware statement in the vault
+- [[Transportation as Communication]] — McLuhan: physical transport and information movement as one continuous 'communication,' the electric age being the transition from transport to information
+- [[Typographic Man]] — McLuhan: print culture as uniformity, lineality, individualism, nationalism; the archetype of mechanization
 - [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
 - [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
 - [[The Body as Data]] — the body recoded as informational pattern ('data made flesh'; downloadable consciousness), the fantasy Hayles contests; the digital habitus as a likeness of the soul (Han)
@@ -151,6 +192,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
 - [[Upgrading Inequality]] — Harari: medicine upgrading the healthy rather than healing the sick, producing biological castes
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
+- [[The War of the Icons]] — McLuhan: the cold war as an electric battle of information and images, not hardware; the icon as munition, all technology as a weapon
 - [[Women in the Integrated Circuit]] — Haraway: women's dispersed, contradictory positions across seven loci in the microelectronic world-system
 - [[Women of Color as a Cyborg Identity]] — Haraway: the exemplary coalitional affinity-identity, named a cyborg identity in section 06
 - [[The World as a Problem of Coding]] — Haraway: the common move of communications sciences and modern biologies; cross-book bridge to Hayles's pattern thesis and Harari's organisms-are-algorithms
@@ -309,6 +351,51 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Intimacy as Psychological Formula of Transparency]] — confessional self-exposure as control
 - [[Truth as Avowal]] — the moral-psychological form transparency takes; confession as productive technique of power
 - [[Hell of the Same]] — the erotic flatness of an Other-less world
+
+### Media Ecology / Extensions of Man (McLuhan)
+
+- [[The Medium Is the Message]] — the signature thesis: the form/scale of a medium, not its content, restructures human affairs
+- [[Media as Extensions of Man]] — every medium an extension of a sense, organ, or faculty; the electric age extends the central nervous system
+- [[The Content of Any Medium Is Another Medium]] — media nest recursively; content masks the medium
+- [[Media Hot and Cold]] — media classified by data-density and inverse participation; the hot form excludes, the cool includes
+- [[Reversal of the Overheated Medium]] — any medium intensified past a threshold reverses into its opposite
+- [[The Break Boundary]] — Boulding's point of no return at which a system changes into another
+- [[Sense Ratios]] — media alter the ratios and patterns of perception beneath opinion
+- [[Acoustic vs Visual Space]] — perspective and the fixed gaze as learned typographic habits, not innate perception
+- [[Typographic Man]] — print culture as uniformity, lineality, individualism, nationalism; the archetype of mechanization
+- [[The Phonetic Alphabet]] — meaningless letters mapped to meaningful sounds; the detribalizing 'eye for an ear'
+- [[Detribalization and Retribalization]] — hot/mechanical media detribalize; electric media retribalize
+- [[The Global Village]] — electric speed contracts the planet to a single participatory community
+- [[Explosion vs Implosion]] — mechanical explosion reversing into electric implosion
+- [[Center-Margin Structure]] — the spatial-political geometry media speed creates and electric speed dissolves
+- [[Transportation as Communication]] — physical transport and information movement as one continuous 'communication'
+- [[Autoamputation]] — the keystone: every technology a defensive self-amputation of an over-stressed organ
+- [[Narcosis]] — the constitutive numbness accompanying every extension; the root of Narcissus
+- [[Man as Servomechanism of His Extensions]] — the Gadget Lover: man as the sex organs of the machine world
+- [[The Electric Age as Extension of the Central Nervous System]] — electric technology as a live model of the CNS set outside us
+- [[Hybrid Energy]] — the crossing of two media releases energy and breaks the media-trance
+- [[Media as Translators]] — all media as active metaphors that translate experience
+- [[The Technological Extension of Consciousness]] — the electric age translating us into information, toward consciousness on the computer
+- [[The Artist as Integral Awareness]] — the artist as early-warning antenna and source of cultural immunity
+- [[Media Change as Collective Surgery]] — a new medium operating on the whole social body while the incised area is numb
+- [[Leasing the Central Nervous System]] — we have leased our eyes, ears, and nerves to private corporations
+- [[Specialism as Counter-Irritant]] — fragmentation as the compensation of the enslaved; adaptation as a fatal terminus
+- [[Challenge and Collapse]] — Toynbee recast: coexisting societies generate a rain of psychic energy
+- [[Number as the Extension of Touch]] — number as the bodily extension of the haptic sense
+- [[Money as a Medium]] — money as extension/storehouse/translator of work; its arc toward the credit card
+- [[Print as the Architect of Nationalism]] — print homogenizing vernaculars into the nation
+- [[The Authority of Knowledge]] — electric speed dissolving delegated hierarchical authority into a nonlineal authority of knowledge
+- [[A Pluralism of Centers]] — dialogue among centers and equals, because an electric structure has no margins
+- [[The Restoration of the Role]] — electric media restoring the collective nonvisual role in place of the specialist job
+- [[Depth as Insight Not Point of View]] — depth experience dissolving highbrow/lowbrow; consciousness as an inclusive process
+- [[Statement Without Syntax]] — the photograph as nonverbal statement by gesture, mime, and gestalt
+- [[The Mosaic]] — the corporate/collective image of discontinuous juxtaposed items that commands deep participation
+- [[Government by News Leak]] — electric speed converting top secrecy into participation
+- [[Advertising as the Extension of Automation Toward a Collective Consciousness]] — advertising extending automation toward a programmed collective consciousness
+- [[Games as Extensions of the Social Man]] — games as models of a culture and as mass media
+- [[The Social Hormone]] — electric media producing organic interdependence; information as the social body's chemical messenger
+- [[The War of the Icons]] — the cold war as an electric battle of information and images; all technology as a weapon
+- [[Automation as Learning a Living]] — 'automation is information'; work, consumption, and learning fused into one process
 
 ### Media / Art / Perception
 

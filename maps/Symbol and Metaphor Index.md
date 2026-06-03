@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Symbol and Metaphor Index
@@ -42,6 +42,34 @@ All symbol and metaphor notes.
 - [[The Lily Pads on the Lake]] — the parable of exponential onset: the last seven doublings cover the whole lake (Kurzweil)
 - [[Machines Made of Sunshine]] — the immaterial microelectronic machine as 'nothing but signals'; 'Cyborgs are ether, quintessence' (Haraway)
 - [[The Salamander (Regeneration)]] — the monstrous, potent regrown limb as the figure of cyborg reconstitution after injury (Haraway)
+- [[The Global Village]] — the globe shrunk to a single participatory village by electric speed (McLuhan)
+- [[The Burglar's Meat]] — content as the decoy a burglar throws to distract the watchdog of the mind (McLuhan)
+- [[Hypnosis vs Hallucination]] — heating one sense hypnotizes, cooling all senses hallucinates (McLuhan)
+- [[Railway vs the Electric Grid]] — mechanical centralization vs electric decentralization (McLuhan)
+- [[Narcissus as Narcosis]] — the figure of technological numbness, not vanity; the root of Narcissus is narcosis (McLuhan)
+- [[Man as the Sex Organs of the Machine World]] — man fecundating the machine world as the bee does the plant (McLuhan)
+- [[We Wear All Mankind as Our Skin]] — the global-village apex of the extension thesis (McLuhan)
+- [[The Brain Outside the Skull]] — the body's interior exteriorized as electric technology (McLuhan)
+- [[Leasing the Nerves (the Archimedean Lever Recast)]] — the corporate world-mover standing on our leased nerves (McLuhan)
+- [[Every American Home Has Its Berlin Wall]] — electric retribalization figured as generational conflict (McLuhan)
+- [[The A Bomb and the H Bomb]] — literate fission vs electric fusion (McLuhan)
+- [[The Earth as a Map of Itself]] — total data gathering as the corollary of the outered central nervous system (McLuhan)
+- [[An Eye for an Ear]] — the alphabet's trade of the auditory tribal world for the visual civilized one (McLuhan)
+- [[The Dragon's Teeth (Cadmus)]] — letters as agents of aggressive martial order, via Canetti (McLuhan)
+- [[The Gift of Gutenberg]] — print's exact repeatability transforming the medieval zero into Renaissance infinity (McLuhan)
+- [[Listening with the Entire Epidermis]] — the electric-age return to whole-sensorium tactile life (McLuhan)
+- [[Consciousness Without Walls]] — the cosmic endpoint where electric collective consciousness obsolesces housing and language (McLuhan)
+- [[Language Does for Intelligence What the Wheel Does for the Feet]] — Bergson's analogy for language as extending yet dividing technology (McLuhan)
+- [[Babel vs Pentecost]] — language as division (Babel) vs computer-mediated universal understanding (Pentecost) (McLuhan)
+- [[The Midas Touch]] — all technology turning every function into its own form (McLuhan)
+- [[The Scent of Time (McLuhan)]] — incense-graduated time; the source text behind Han's Fragrance of Time (McLuhan)
+- [[The Brothel-without-Walls]] — the photographic age as a wall-less brothel mass-producing the purchasable human image, after Genet (McLuhan)
+- [[The Carapace (Car as Shell)]] — the car as the hard exoskeletal shell of urban man; cars as shiny-backed insects (McLuhan)
+- [[The Seamless Web]] — the inclusive nonhierarchical decision-field the telephone introduces in place of the chain-of-command pyramid (McLuhan)
+- [[X Without Walls]] — each electric medium as the abolition of an enclosure: speech / music hall / museum / space / classroom without walls (McLuhan)
+- [[The Age of the Iron Whim]] — the typewriter-and-typist as agents of female vocation and the homogenizing of business; the 'twelve-pound look' (McLuhan)
+- [[The Tribal Drum]] — radio reaching the subliminal depths, turning psyche and society into 'a single echo chamber' (McLuhan)
+- [[The Schmoo]] — Al Capp's creature as the figure of automation's custom-on-demand abundance; the custom-built supplanting the mass-produced (McLuhan)
 
 ## Symbols
 
@@ -62,3 +90,8 @@ All symbol and metaphor notes.
 - [[I Would Rather Be a Cyborg Than a Goddess]] — the manifesto's signature closing slogan (Haraway)
 - [[Blasphemy]] — Haraway's faithful-but-not-reverent method, paired with irony (Haraway)
 - [[C3I]] — command-control-communication-intelligence as the condensed emblem of the coded-control regime (Haraway)
+- [[The Electric Light]] — pure information, a medium without a content; the clearest proof that the medium is the message (McLuhan)
+- [[The Idol (113th Psalm)]] — the Hebrew counterpart to Narcissus; we become what we behold (McLuhan)
+- [[The Forest of Arden]] — Shakespeare's golden world as an advance model of the automation age (McLuhan)
+- [[The Credit Card]] — money as pure credit-information; the electric reversal toward 'tribal money' (McLuhan)
+- [[Canned Dreams]] — film as the most magical of consumer commodities, the American way of life exported 'in cans' (McLuhan)

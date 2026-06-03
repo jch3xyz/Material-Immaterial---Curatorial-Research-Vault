@@ -4,6 +4,7 @@ status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/12 The Semiotics of Virtuality - Mapping the Posthuman]]"
+  - "[[raw/McLuhan - Understanding Media/13 Chapter 9 - The Written Word - An Eye for an Ear]]"
 related:
   - "[[Embodiment]]"
   - "[[The Body as Data]]"
@@ -14,11 +15,16 @@ opposes:
   - "[[Material vs Immaterial]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-03
 ---
 
 # Inscription vs Incorporation
+
+## General Orientation
+
+The vault holds two complementary author-senses of this distinction. **[[N. Katherine Hayles]]** treats it as an analytic *polarity* — a heuristic pairing of transportable, abstracted sign-systems (inscription) against context-bound, habitual bodily practice (incorporation), governed by the homology *body : embodiment :: inscription : incorporation* — and uses it to ask whether the world of information can dominate the embodied lifeworld. **[[Marshall McLuhan]]** does not name the pair, but his account of the phonetic alphabet supplies the polarity's *historical prototype*: the alphabet is the inscriptive technology that converts the incorporated, embodied practice of oral speech into a detached, repeatable visual mark — giving its user "an eye for an ear" and so opening the very breach between the visual/transportable and the auditory/embodied that Hayles's distinction generalizes. The mapping of McLuhan's alphabet claims onto Hayles's pair is an interpretive synthesis; McLuhan's claims about the alphabet are themselves directly stated in his text.
 
 ## Brief Definition
 
@@ -34,11 +40,20 @@ The organizing move is the **homology**: "as the body is to embodiment, so inscr
 
 In chapter 12 ("The Semiotics of Virtuality") the polarity becomes a narrative and political stake. Reading four "tutor texts," Hayles frames the human/posthuman transition as "a series of exchanges between evolving/devolving inscriptions and incorporations." At "the basic coding level" — machine language, or the neural level where the *Snow Crash* virus strikes — "inscription and incorporation join"; as one moves up to higher, representational codes, "inscription tends to diverge from incorporation, becoming representational rather than performative." The decisive sentence makes the polarity the site of survival: "Human survival takes shape as a struggle to determine whether inscription will dominate and control incorporation, in which case the text remains in the realm of information and thus the posthuman triumphs; the other, happier possibility is that incorporation can subsume and delimit inscription, in which case the text remains in an embodied lifeworld in which the human can continue to live." The two outcomes — info world wins, or the embodied lifeworld survives — are exactly the two horns the polarity is built to name.
 
+## Marshall McLuhan (Understanding Media)
+
+McLuhan never uses Hayles's vocabulary, but his chapter on the written word furnishes the historical prototype of the inscription/incorporation divide. For McLuhan the **phonetic alphabet** is a singular technology that severs the auditory from the visual: "Only the phonetic alphabet makes such a sharp division in experience, giving to its user an eye for an ear, and freeing him from the tribal trance of resonating word magic and the web of kinship." Where the spoken word is "inclusive and participational" — an incorporated, all-at-once practice in which "Oral cultures act and react at the same time" — the alphabet abstracts the mark from the body and the moment, producing the detached, repeatable visual sign on which literate civilization is built. This is the move Hayles would call inscription: the conversion of an embodied, context-bound performance (oral speech) into a transportable visual code that "can be transported from context to context once it has been performed." *(Directly stated for McLuhan's alphabet claims; Interpretive synthesis for the mapping onto Hayles's distinction.)*
+
+What makes the alphabet inscriptive in McLuhan's sense is precisely its abstraction from incorporation. Unlike the hieroglyph or the Chinese ideogram — which he calls "an inclusive gestalt, not an analytic dissociation of senses and functions" — the phonetic alphabet uses "semantically meaningless letters" to correspond to "semantically meaningly sounds," achieving a "stark divison and parallelism between a visual and an auditory world." Its power, he argues, "has nothing to do with the content of the alphabetized words; it is the result of the sudden breach between the auditory and the visual experience of man." That breach is the engine of detachability: "Literate man undergoes much separation of his imaginative, emotional, and sense life," and "Phonetic culture endows men with the means of repressing their feelings and emotions when engaged in action." The embodied, affective, kin-bound resonance of the oral word is stripped away so the sign can travel — McLuhan's concrete version of incorporation being subsumed by inscription, where the visual code "extend[s] patterns of visual uniformity and continuity." *(Directly stated.)*
+
+Read against Hayles, McLuhan historicizes the polarity she frames analytically. Her example of the incorporated practice is learning to type — a bodily competence that "can never be cut entirely free from its context"; McLuhan's complementary case is the deeper, slower migration of the spoken word itself out of the body and onto the page. The alphabet is thus the founding instance of what Hayles names the posthuman stake — "whether inscription will dominate and control incorporation" — staged not as a near-future cybernetic crisis but as the two-thousand-year-old technology that "alone, is the technology that has been the means of creating 'civilized man.'" The convergence is interpretive (the two authors share no common source and use different vocabularies), but it positions McLuhan's "eye for an ear" as the archaeological precursor to Hayles's struggle between the embodied lifeworld and the realm of information. *(Interpretive synthesis.)*
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — the second of her two body/embodiment polarities; the homology *body : embodiment :: inscription : incorporation* is hers, and she weaponizes it to expose how an "ideology of immateriality" depends on the very "material conditions that produce the ideology."
 - **Paul Connerton** (*How Societies Remember*) — Hayles's direct source for the incorporating/inscribing distinction; his claim that habit "is a knowledge and a remembering in the hands and in the body" anchors her sense of incorporation as bodily memory resistant to conscious intellection.
 - **Maurice Merleau-Ponty** (*Phenomenology of Perception*) — the distinction is, in Hayles's words, "implicit" here; the lived body's pre-reflective competence (again, typing) is its phenomenological root.
+- **[[Marshall McLuhan]]** (*Understanding Media*, ch. 9) — supplies the historical prototype rather than the analytic pair: the phonetic alphabet as the inscriptive technology that converts the incorporated, participational practice of oral speech into the detached, repeatable visual mark, "giving to its user an eye for an ear." The mapping onto Hayles's terms is interpretive; McLuhan's alphabet claims are his own.
 
 ## Related Concepts
 
@@ -116,3 +131,36 @@ Relevant passage:
 > As one moves up from this basic level, inscription tends to diverge from incorporation, becoming representational rather than performative. One way to think about the transformation of the human into the posthuman, then, is as a series of exchanges between evolving/devolving inscriptions and incorporations.
 
 Supports: Shows the poles converge at the basic coding level and diverge at higher representational levels, and that Hayles reads the posthuman transition as exchanges between them. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/13 Chapter 9 - The Written Word - An Eye for an Ear]]
+Relevant passage:
+
+> Only the phonetic alphabet makes such a sharp division in experience, giving to its user an eye for an ear, and freeing him from the tribal trance of resonating word magic and the web of kinship.
+
+Supports: McLuhan's core claim — the phonetic alphabet as the inscriptive technology that severs the auditory (embodied, participational) from the visual (detached, transportable), the historical prototype of the inscription/incorporation divide. Label for McLuhan's claim: `Directly stated`. Label for the mapping onto Hayles's polarity: `Interpretive synthesis`.
+
+### Source 7
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/13 Chapter 9 - The Written Word - An Eye for an Ear]]
+Relevant passage:
+
+> This fact has nothing to do with the content of the alphabetized words; it is the result of the sudden breach between the auditory and the visual experience of man.
+
+Supports: Locates the alphabet's power in the breach between auditory and visual experience rather than in content — the abstraction-from-incorporation that makes the inscribed sign detachable. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/13 Chapter 9 - The Written Word - An Eye for an Ear]]
+Relevant passage:
+
+> Oral cultures act and react at the same time. Phonetic culture endows men with the means of repressing their feelings and emotions when engaged in action.
+
+Supports: Contrasts the inclusive, simultaneous (incorporated) practice of oral culture with the detachment phonetic literacy enables — the affective/embodied resonance stripped from the sign so it can travel. Label: `Directly stated`.

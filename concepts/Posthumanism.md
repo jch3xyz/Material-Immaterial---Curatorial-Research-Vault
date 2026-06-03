@@ -15,6 +15,9 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Haraway - A Cyborg Manifesto/02 [Fractured Identities]]]"
   - "[[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]"
+  - "[[raw/McLuhan - Understanding Media/03 Introduction]]"
+  - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
+  - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -31,6 +34,7 @@ related:
 opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
+  - "[[Marshall McLuhan]]"
   - "[[Donna Haraway]]"
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
@@ -48,8 +52,9 @@ For [[N. Katherine Hayles]], the posthuman is not a literal cyborg but **a point
 
 ## General Orientation
 
-The word *posthuman* carries several distinct senses in this vault, and the note keeps them separate. The earliest, and the one the others draw on, is **feminist anti-humanism (Haraway)** — a *politics*, not a forecast.
+The word *posthuman* carries several distinct senses in this vault, and the note keeps them separate. The earliest *politics* among them is **feminist anti-humanism (Haraway)** — but earlier still, and a *technological precursor* the others inherit rather than cite, is **the extension/obsolescence of "Man" (McLuhan)**, who in 1964 already projected the species' nervous system extended into a single planetary consciousness as "the final phase of the extensions of man."
 
+- **The technological extension/obsolescence of "Man" (McLuhan).** A *media-theoretic precursor* — neither politics, diagnosis, eschatology, forecast, nor affirmation, but a description of where the logic of media as [[Media as Extensions of Man|extensions of man]] is headed. Where the five senses below all turn on *information/pattern over matter*, McLuhan supplies the prior premise from which that turn becomes thinkable: that every technology is an extension of the human body or nervous system, and that electric technology extends the *central nervous system itself* "in a global embrace." His projected terminus — "the technological simulation of consciousness ... collectively and corporately extended to the whole of human society" — is the obsolescence/extension of bounded "Man" stated two decades before Haraway's refusal of "Man, the embodiment of Western logos," and treated below as the **precursor pole**: the human dissolved not into Dataism's data flow (Harari) or Kurzweil's nonbiological substrate, but into a collectively externalized, planet-wide consciousness. (See [[The Technological Extension of Consciousness]], [[The Electric Age as Extension of the Central Nervous System]], [[The Global Village]].)
 - **The cyborg as feminist anti-humanism (Haraway).** The historical root, predating the four below. Donna Haraway's cyborg is not a prediction about machines or a stance on subjectivity-as-information but a deliberate *political myth* aimed at "Man, the embodiment of Western logos" — the universal Western self built out of dualisms (self/other, mind/body, culture/nature, male/female, maker/made). It refuses three things at once: the universal subject ("the end of man is at stake"), organic wholeness, and original unity (the "founding myth of original wholeness"). Where the four senses below describe, unmask, forecast, or affirm a *condition*, Haraway's posthumanism is a *refusal* and a tactic — "I would rather be a cyborg than a goddess." Hayles draws directly on this root, but converts the polemical cyborg into an analytical point of view (see the contrast below).
 - **Posthumanism as critical point of view (Hayles).** A descriptive and diagnostic stance: the posthuman names *how subjectivity is constructed* once [[Information]] is privileged over [[Embodiment]]. It is analytical, ambivalent, and contestable — Hayles is mapping a condition ("we have always been posthuman") in order to argue for a *benign, embodied* version of it.
 - **Transhumanism as eschatological program (O'Gieblyn).** A *prescriptive* movement (Kurzweil, Bostrom, Moravec) that takes the same pattern-over-matter premise and turns it into a salvation narrative: mind-uploading, the Singularity, immortality, divinization. O'Gieblyn's thesis is that this is posthumanism's "religious double" — a Christian resurrection eschatology in technical dress.
@@ -67,6 +72,16 @@ Crucially, Hayles distinguishes the posthuman from its predecessor and foil, [[T
 Hayles's key political claim follows from this diagnosis: the posthuman is not lethal in itself. "But the posthuman does not really mean the end of humanity. It signals instead the end ofa certain conception of the human, a conception that may have applied, at best, to that fraction of humanity who had the wealth, power, and leisure to conceptualize themselves as autonomous beings exercising their will through individual agency and choice." The danger lies in a specific fusion: "What is lethal is not the posthuman as such but the grafting of the posthuman onto a liberal humanist view of the self." When Moravec imagines "you" downloading yourself into a computer to attain immortality, he is not abandoning the autonomous liberal subject but "expanding its perogatives into the realm of the posthuman."
 
 Against this lethal graft, Hayles posits a second, benign posthuman: one "grounded in embodied actuality rather than disembodied information," where "emergence replaces teleology ... distributed cognition replaces autonomous will; embodiment replaces a body seen as a support system for the mind." This version is not antihuman and not apocalyptic. It is also already our condition — "we have always been posthuman" — so the question is no longer whether but *what kind*: "Increasingly the question is not whether we will become posthuman, for posthumanity is already here. Rather, the question is what kind of posthumans we will be." Because the posthuman is performative ("People become posthuman because they think they are posthuman") and its meaning is still being decided, Hayles treats the present as the moment to contest it: "The best possible time to contest for what the posthuman means is now."
+
+---
+
+## Marshall McLuhan (Understanding Media)
+
+Two decades before Hayles names the posthuman a point of view and Haraway refuses "Man," Marshall McLuhan's *Understanding Media* (1964) supplies the **precursor pole** of the vault's posthuman thread: the projection of a "final phase" of the human in which bounded individual "Man" is extended — and thereby rendered obsolete — by the externalization of his own nervous system into a single planetary consciousness. McLuhan's premise is that all technologies are [[Media as Extensions of Man|extensions of man]]: "During the mechanical ages we had extended our bodies in space. Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned." From this he forecasts the terminus that anticipates the later authors' posthumans: "**Rapidly, we approach the final phase of the extensions of man— the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society**, much as we have already extended our senses and our nerves by the various media" (`Directly stated`). This is not the human *saved* (O'Gieblyn's eschatology), *retired* into a data flow (Harari), *welcomed* into nonbiological substrate (Kurzweil), or *refused* as a universal (Haraway), but the human *collectivized* — individual consciousness simulated and shared out across the species (see [[The Technological Extension of Consciousness]], [[The Global Village]]).
+
+The obsolescence of bounded "Man" is, for McLuhan, the structural consequence of this extension rather than a value-laden forecast. Once electric media externalize the nervous system, the literate Western self — "the man of action who appears not to be involved in the action," who "acquired from the technology of literacy the power to act without reacting" — can no longer hold its detached, "partial and specialized" point of view: "**In the electric age we wear all mankind as our skin.**" The body itself is recast as already prosthetic and already on the way out: every invention is an [[Autoamputation|autoamputation]], a "self-amputation of our physical bodies," and with electric technology "man extended, or set outside himself, a live model of the central nervous system itself" — "a development that suggests a desperate and suicidal autoamputation" (`Directly stated`). The human is thereby reduced to a relay in a system that has outgrown him — what McLuhan gives as the period's most cited image of post-human instrumentality: "**Man becomes, as it were, the sex organs of the machine world, as the bee of the plant world, enabling it to fecundate and to evolve ever new forms.**" This is [[Man as Servomechanism of His Extensions|man as the servomechanism of his extensions]], the bounded individual subordinated to the technological organism he reproduces — a 1964 anticipation of the functional demotion Harari's [[Dataism]] later carries to the species' "retirement" (`Interpretive synthesis`).
+
+The completion of the figure is the dissolution of the individual into a collective consciousness external to any single skull. In "Media as Translators" McLuhan describes the human translated into information — "In this electric age we see ourselves being translated more and more into the form of information, moving toward the technological extension of consciousness" — until the organism is wholly turned inside out: "**an organism that now wears its brain outside its skull and its nerves outside its hide.**" The endpoint is the transfer of consciousness itself to the machine and its fusion into one planetary mind: "Having extended or translated our central nervous system into the electromagnetic technology, it is but a further stage to transfer our consciousness to the computer world as well," so that the present "translation of our entire lives into the spiritual form of information" might "make of the entire globe, and of the human family, a single consciousness" (`Directly stated`). Read against the rest of this note, McLuhan is the *precursor* the four later senses share without naming: the pattern-over-matter premise that Hayles diagnoses, O'Gieblyn unmasks, Harari forecasts to obsolescence, and Kurzweil welcomes is already implicit here in the translation of "ourselves into the form of information" — but McLuhan's distinctive terminus is neither the immortal uploaded self nor the human's erasure but its *collectivization*: a corporate, planet-wide consciousness in which the individual "Man" of the literate age is extended past the point of his own survival (`Interpretive synthesis`).
 
 ---
 
@@ -112,6 +127,7 @@ Crucially, Kurzweil denies that any boundary survives at all. In "A Theory of Te
 
 ## Authors and Variants
 
+- **[[Marshall McLuhan]]** — the **technological precursor pole**, earlier than all the senses below (*Understanding Media*, 1964). Not politics, diagnosis, eschatology, forecast, or affirmation but a media-theoretic projection: technologies as [[Media as Extensions of Man|extensions of man]], electric media extending the central nervous system "in a global embrace," and a "final phase of the extensions of man— the technological simulation of consciousness ... collectively and corporately extended to the whole of human society." The bounded literate "Man" is rendered obsolete — "in the electric age we wear all mankind as our skin"; "man becomes ... the sex organs of the machine world" — and the individual is dissolved into a single planetary consciousness ("an organism that now wears its brain outside its skull"). Distinct from Harari's data-flow obsolescence and Kurzweil's nonbiological substrate: McLuhan's terminus is the *collectivization* of consciousness, not the self's erasure or its immortal upload (see [[The Technological Extension of Consciousness]], [[The Global Village]], [[Man as Servomechanism of His Extensions]]).
 - **[[Donna Haraway]]** — the **foundational anti-humanist root**, predating the four below. The cyborg as a *feminist political myth* against "Man, the embodiment of Western logos" — the universal Western self: "the end of man is at stake ... woman disintegrates into women." It refuses the universal subject, organic wholeness, and original unity ("not ... a once-upon-a-time wholeness before language, before writing, before Man"; "I would rather be a cyborg than a goddess"). A *politics of refusal*, not a forecast — distinct from Hayles's point of view, O'Gieblyn's eschatology, Harari's obsolescence, and Kurzweil's affirmation. The historical source Hayles draws on (see [[The Liberal Humanist Subject]], [[Fractured Identities]]).
 - **[[N. Katherine Hayles]]** — the posthuman as a point of view with four assumptions, distinct from the figure of [[The Cyborg]]; the end of [[The Liberal Humanist Subject]], not of humanity; lethal only when grafted onto liberal humanism; redeemable as a *benign, embodied* posthuman located in the dialectic of pattern/randomness and grounded in [[Embodiment]].
 - **Hans Moravec (Hayles's antagonist)** — the "apocalyptic" or anti-human posthuman: a "postbiological" future in which consciousness is downloaded into a computer and intelligent machines displace humanity. For Hayles this is precisely the posthuman *grafted onto liberal humanism* (autonomy and mastery extended into immortality), the version she sets out to contest.
@@ -410,3 +426,69 @@ Relevant passage:
 > Insofar as we know ourselves in both formal discourse (for example, biology) and in daily practice (for example, the homework economy in the integrated circuit), we find ourselves to be cyborgs, hybrids, mosaics, chimeras.
 
 Supports: The cyborg as the figure that enacts the refusal — grounded in the collapse of the organism/machine and other Western dualisms; the hybrid, boundary-crossing self that dissolves "Man, the embodiment of Western logos" and that Hayles later converts into an analytical point of view. Label: `Directly stated`.
+
+### Source 25
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> Rapidly, we approach the final phase of the extensions of man— the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society, much as we have already extended our senses and our nerves by the various media
+
+Supports: The precursor pole — McLuhan's projected terminus of the human (1964): consciousness technologically simulated and "collectively and corporately extended to the whole of human society." The extension/obsolescence of bounded "Man," prior to and presupposed by the four later posthuman senses. Label: `Directly stated`.
+
+### Source 26
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> During the mechanical ages we had extended our bodies in space. Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned.
+
+Supports: The premise from which the final phase follows — technologies as extensions of man, and electric technology as the extension of the central nervous system "in a global embrace"; grounds the move from extended bodies to a planet-wide, collectivized consciousness. Label: `Directly stated`.
+
+### Source 27
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]
+Relevant passage:
+
+> Man becomes, as it were, the sex organs of the machine world, as the bee of the plant world, enabling it to fecundate and to evolve ever new forms.
+
+Supports: The functional demotion of bounded "Man" to a relay/servomechanism in the technological organism he reproduces — the post-human instrumentality (man as the [[Man as Servomechanism of His Extensions|servomechanism of his extensions]]) that anticipates Harari's later reduction of the human to an "obsolete algorithm." Label: `Directly stated`.
+
+### Source 28
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]
+Relevant passage:
+
+> In the electric age we wear all mankind as our skin.
+
+Supports: The dissolution of the detached literate self ("the man of action who appears not to be involved in the action") into total participation — the bounded individual point of view rendered untenable; the collectivizing terminus stated as lived condition. Label: `Directly stated`.
+
+### Source 29
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> Electromagnetic technology requires utter human docility and quiescence of meditation such as befits an organism that now wears its brain outside its skull and its nerves outside its hide.
+
+Supports: The human turned inside out — brain and nerves externalized into electric technology; the precursor image of the body/mind dissolved into an external information system, the substrate of the "single consciousness." Label: `Directly stated`.
+
+### Source 30
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> If the work of the city is the remaking or translating of man into a more suitable form than his nomadic ancestors achieved, then might not our current translation of our entire lives into die spiritual form of information seem to make of the entire globe, and of the human family, a single consciousness?
+
+Supports: McLuhan's distinctive terminus — the translation of human life "into the spiritual form of information" fusing "the entire globe, and of the human family" into "a single consciousness"; the *collectivization* of consciousness that sets the precursor pole apart from Kurzweil's immortal upload and Harari's data-flow erasure. Label: `Directly stated`.

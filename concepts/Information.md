@@ -24,6 +24,12 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas]]"
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
+  - "[[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]"
+  - "[[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]"
+  - "[[raw/McLuhan - Understanding Media/17 Chapter 13 - Housing - New Look and New Outlook]]"
+  - "[[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]"
+  - "[[raw/McLuhan - Understanding Media/25 Chapter 21 - Press - Government by News Leak]]"
+  - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -49,8 +55,9 @@ authors:
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
   - "[[Donna Haraway]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Information
@@ -119,7 +126,7 @@ Kurzweil's distinctive contribution to *this* note is not the metaphysics, which
 
 Where the metaphysics turns ontological — the claim that "information rather than matter and energy may be regarded as the more fundamental reality" — Kurzweil advances it as an endorsement of Edward Fredkin's digital physics rather than a bare assertion: Fredkin showed that the energy required for information processing "has no lower limit," and "[t]hat implies that information rather than matter and energy may be regarded as the more fundamental reality" (Ch. 2). He aligns this with [[Norbert Wiener]], who "heralded a fundamental change in focus from energy to information in his 1948 book *Cybernetics* and suggested that the transformation of information, not energy, was the fundamental building block of the universe" (Ch. 2). This is the precise inversion the [[Material vs Immaterial]] tension is built to interrogate, and it places Kurzweil at the affirmative extreme of the same cybernetic genealogy ([[N. Katherine Hayles]] traces, [[Meghan O'Gieblyn]] reads theologically, and [[Yuval Noah Harari]] reports as religion): the Shannon-Wiener decoupling of information from matter, which Hayles and O'Gieblyn distrust, is for Kurzweil a metaphysical *achievement*. The full development of this inversion belongs to [[The Computational Universe]]; here it matters only as the limit-case of the note's central thread — weightless pattern raised, at last, to the status of the real. `Directly stated` for the quotations; `Interpretive synthesis` for the placement of Kurzweil at the affirmative pole of the shared genealogy.
 
-A seventh, *political-operational* sense belongs to **[[Donna Haraway]]** and *A Cyborg Manifesto*. Writing in 1985 — before Hayles historicizes the cybernetic information-as-pattern thesis — Haraway gives that thesis its sharpest political edge: information is "just that kind of quantifiable element (unit, basis of unity) that allows universal translation, and so unhindered instrumental power (called effective communication)" (Ch. 3). Information is here neither Han's positivized language nor (yet) Hayles's contested reification but the *operator of control itself* — the medium by which "the translation of the world into a problem of coding" submits "all heterogeneity . . . to disassembly, reassembly, investment, and exchange" within what she names the [[The Informatics of Domination|informatics of domination]]. This is the cybernetic information-as-pattern genealogy the other authors trace and contest, anticipated and reframed as a technology of instrumental power. See [[#Information as Universal Translation (Haraway)]], [[The World as a Problem of Coding]], and [[The Informatics of Domination]].
+A seventh, *political-operational* sense belongs to **[[Donna Haraway]]** and *A Cyborg Manifesto*. Writing in 1985 — before Hayles historicizes the cybernetic information-as-pattern thesis — Haraway gives that thesis its sharpest political edge: information is "just that kind of quantifiable element (unit, basis of unity) that allows universal translation, and so unhindered instrumental power (called effective communication)" (Ch. 3). Information is here neither Han's positivized language nor (yet) Hayles's contested reification but the *operator of control itself* — the medium by which "the translation of the world into a problem of coding" submits "all heterogeneity . . . to disassembly, reassembly, investment, and exchange" within what she names the [[The Informatics of Domination|informatics of domination]]. This is the cybernetic information-as-pattern genealogy the other authors trace and contest, anticipated and reframed as a technology of instrumental power. See [[#Information as Universal Translation (Haraway)]], [[The World as a Problem of Coding]], and [[The Informatics of Domination]]. An eighth, *media-theoretic* sense belongs to **[[Marshall McLuhan]]** and *Understanding Media*: information is not language, pattern, idiom, soul, cosmos, or coded control but a property of media *as such* — the change of "scale or pace or pattern" a technology introduces "into human affairs" (Ch. 1). Its purest instance is the electric light, "a medium without a message" whose lack of "content" makes it "pure information" and reveals that "the medium is the message"; "content," McLuhan argues, is "the juicy piece of meat carried by the burglar to distract the watchdog of the mind" (Ch. 1). In the electric "Age of Information . . . commodities themselves assume more and more the character of information" (Ch. 3), anticipating Han's [[Immaterial Labour|immaterial production]]. McLuhan describes this circulation where the others contest it; see [[#The Electric Light as Pure Information (McLuhan)]].
 
 ## Information as Universal Translation (Haraway)
 
@@ -128,6 +135,14 @@ For [[Donna Haraway]] in *A Cyborg Manifesto* (1985), "information" names the qu
 This sense is distinct from the six already in this note, yet it precedes and anticipates them. Where [[N. Katherine Hayles]] later *historicizes* the Shannon-Wiener decoupling of information from matter as a contingent reification — and [[Meghan O'Gieblyn]] reads it theologically, [[Yuval Noah Harari]] reports it as religion, and [[Ray Kurzweil]] holds it as metaphysics — Haraway, writing a decade before Hayles, already treats information-as-pattern as installed, and asks instead what it *does*: it is the operator of "unhindered instrumental power." Information is the unit of "[t]he translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange" (Ch. 3) — the move she calls [[The World as a Problem of Coding|the translation of the world into a problem of coding]] and locates within [[The Informatics of Domination|the informatics of domination]]. Haraway's exchange of coded signals even "transcends the universal translation effected by capitalist markets that Marx analyzed so well" (Ch. 3), making information the more total medium of equivalence. `Directly stated` for the quotations; `Interpretive synthesis` for the placement of Haraway as the political anticipation of the cybernetic genealogy the other five authors variously historicize, read, report, or hold.
 
 What distinguishes Haraway's "information" from Han's and Hayles's is therefore its explicitly *operational and political* charge. Han indicts information for lacking the negativity of truth; Hayles contests the imagining of information as separable from its body. Haraway adds a third axis: information is the very thing that "allows universal translation, and so unhindered instrumental power" — the medium of control whose "biggest threat . . . is interruption of communication" (Ch. 3). This places Haraway's account in pointed contrast with [[Yuval Noah Harari]]'s Dataist creed that "the greatest sin is to block the data flow": what Harari reports as a religion's commandment, Haraway diagnoses, from the side of those "who would resist," as the logic of domination itself — "[a]ny system breakdown is a function of stress," and the interruption of communication is the system's "privileged pathology" (Ch. 3). `Directly stated` for the quotations; `Interpretive synthesis` for the Han / Hayles / Harari contrast.
+
+## The Electric Light as Pure Information (McLuhan)
+
+For [[Marshall McLuhan]] in *Understanding Media*, "information" names the very substance of the electric age, and his treatment turns on a single paradoxical example: the electric light. "The electric light is pure information. It is a medium without a message, as it were, unless it is used to spell out some verbal ad or name" (Ch. 1). The light is *pure* information precisely because it has no "content" of its own to be confused with — it is the limiting case of McLuhan's master thesis that "the medium is the message." Every other medium arrives in a pair, "with one acting as the 'content' of the other, obscuring the operation of both" (Ch. 5): the content of writing is speech, of print the written word, of the telegraph print. The light has no such content-medium to hide behind, and so it makes visible the thesis the others conceal — that it is the medium, not its content, that "shapes and controls the scale and form of human association and action" (Ch. 1). This is why McLuhan can write that "the message of the electric light is total change. It is pure information without any content to restrict its transforming and informing power" (Ch. 5), and, in the housing chapter, that "Light is information without 'content,' much as the missile is a vehicle without the additions of wheel or highway" (Ch. 13). `Directly stated`.
+
+McLuhan's "information" is therefore distinct from the six senses already in this note: it is neither Han's positivized language, Hayles's reified Shannon-Wiener pattern, Lippard's documentary idiom, O'Gieblyn's soul-substitute, Harari's cosmology, nor Kurzweil's metaphysics, but a property of *media as such* — the change of "scale or pace or pattern" a technology introduces "into human affairs" (Ch. 1), apprehended as information once the content-decoy is set aside. The polemical core is that "content" is a distraction: "the 'content' of a medium is like the juicy piece of meat carried by the burglar to distract the watchdog of the mind" (Ch. 1), and "it is only too typical that the 'content' of any medium blinds us to the character of the medium" (Ch. 1). To attend to information in McLuhan's sense is to stop asking what a medium *carries* and to study what it *is* and does — the "psychic and social consequences" of the new scale it imposes. This reframing converges, by an [[Material vs Immaterial|interpretive synthesis]], with the note's central suspicion of weightless pattern, but inverts the usual evaluative charge: where Han, Hayles, and O'Gieblyn distrust the displacement of substance by pattern, McLuhan treats the recognition that the light *is* information, prior to and apart from any content, as the diagnostic key to all media. `Directly stated` for the quotations; `Interpretive synthesis` for the placement among the other senses.
+
+McLuhan extends this from media to the economy, anticipating the [[Immaterial Labour|immaterial-production]] thesis Han later develops: in the electric age, the commodity itself becomes informational. "In the new electric Age of Information and programmed production, commodities themselves assume more and more the character of information, although this trend appears mainly in the increasing advertising budget" (Ch. 3). As automation displaces the assembly line, "it becomes obvious that information is the crucial commodity, and that solid products are merely incidental to information movement" (Ch. 21) — a claim structurally close to Han's *Psychopolitics* formulation that what neoliberal capital produces is "not material objects, but immaterial ones - for instance, information and programs" (see [[#Psychopolitics (Han) — data positivism and the end of theory]]), though McLuhan reaches it through media theory rather than a critique of power. He names the epoch outright: "We live today in the Age of Information and of Communication because electric media instantly and constantly create a total field of interacting events in which all men participate" (Ch. 25). McLuhan's "Age of Information" thus designates the same instantaneous, total circulation that Han diagnoses as [[Hyperinformation|hyperinformation]] and Harari elevates to "information flow," but here it is presented descriptively, as the condition the study of media is meant to make conscious. `Directly stated` for the quotations; `Interpretive synthesis` for the cross-author links.
 
 ## Authors and Variants
 
@@ -138,7 +153,7 @@ What distinguishes Haraway's "information" from Han's and Hayles's is therefore 
 - **[[Yuval Noah Harari]]** — A *fifth, cosmological sense*: information is the substance of the universe — "the universe consists of data flows" (Ch. 11) — and its unobstructed circulation is the supreme value of the [[Dataism|Dataism]] he diagnoses, whose "greatest sin is to block the data flow" (Ch. 11). Unlike Han, Hayles, and O'Gieblyn, Harari *reports* this elevation of weightless flow rather than contesting it, and derives from it the genuinely new value of [[Freedom of Information|freedom of information]] — "given to information," not to humans (Ch. 11). His Ch. 6 genealogy adds that writing and money "broke the data-processing limitations of the human brain," making information constitutively bureaucratic and able to override the reality it records ("reality that had to give way"). Affirmative obverse of Han's "data totalitarianism." See [[#Information Flow as the Supreme Value (Harari)]] and [[Freedom of Information]]. `Directly stated`.
 - **[[Ray Kurzweil]]** — A *sixth, affirmative-metaphysical sense*: where Harari only *reports* the data religion, Kurzweil *holds* it. He is "a 'patternist,' someone who views patterns of information as the fundamental reality" (Prologue), and extends this to the self — "bits of information, which essentially is what we comprise" (Prologue) — and to species difference ("the genetic difference between chimpanzees and humans . . . is only a few hundred thousand bytes of information," Prologue). His distinctive gift to this note is technical, not metaphysical: he distinguishes *information* (meaningful, unpredictable, incompressible) from *noise* (random, "carries no information") and from *order* ("information that fits a purpose"), Ch. 2 — see [[Order as Information That Fits a Purpose]]. The ontological inversion ("information rather than matter and energy may be regarded as the more fundamental reality," Ch. 2, endorsing Fredkin and [[Norbert Wiener]]) is routed to [[The Computational Universe]] and the [[Material vs Immaterial]] tension. The affirmative pole the other five authors contest. See [[#Information as the Fundamental Reality (Kurzweil)]] and [[Patternism]]. `Directly stated`.
 - **[[Donna Haraway]]** — A *seventh, political-operational sense*: information is "just that kind of quantifiable element (unit, basis of unity) that allows universal translation, and so unhindered instrumental power (called effective communication)" (Ch. 3) — the unit of equivalence that lets "any component . . . be interfaced with any other" through "the proper code," and the operator of [[The World as a Problem of Coding|the translation of the world into a problem of coding]] within [[The Informatics of Domination|the informatics of domination]]. Written in 1985, it *anticipates* the cybernetic information-as-pattern thesis [[N. Katherine Hayles]] later historicizes, but gives it a political edge — information as the medium of instrumental control whose "biggest threat . . . is interruption of communication" (Ch. 3). The pointed obverse of [[Yuval Noah Harari]]'s "the greatest sin is to block the data flow." Not Han's positivized language, not Hayles's contested reification, but the cybernetic construct read as a technology of domination. See [[#Information as Universal Translation (Haraway)]]. `Directly stated`.
-- **[[Marshall McLuhan]]** — Speculative connection. McLuhan's diagnosis of the electric age as one of total information and instantaneous extension may resonate with Han's "hyperinformation," though McLuhan does not theorize the negativity/positivity axis. `Speculative connection`.
+- **[[Marshall McLuhan]]** — An *eighth, media-theoretic sense*: information is a property of media as such — the change of "scale or pace or pattern" a technology introduces "into human affairs" (Ch. 1) — apprehended once "content" is recognized as a decoy. Its limit-case is the electric light, "pure information . . . a medium without a message" (Ch. 1) whose "message . . . is total change" because it is "pure information without any content to restrict its transforming and informing power" (Ch. 5). In the electric "Age of Information . . . commodities themselves assume more and more the character of information" (Ch. 3) until "information is the crucial commodity, and . . . solid products are merely incidental to information movement" (Ch. 21) — an anticipation of Han's [[Immaterial Labour|immaterial production]]. Not Han's positivized language nor Hayles's reified pattern, but converges with the note's thread (and with Han's [[Hyperinformation|hyperinformation]] and Harari's "information flow") on the instantaneous total circulation of the electric age — presented descriptively. See [[#The Electric Light as Pure Information (McLuhan)]]. `Directly stated`.
 - **[[Guy Debord]]** — Speculative connection. Debord's [[Spectacle|spectacle]] as autonomous image-economy and Han's information-circulation share a critique of a self-referential surface that displaces lived truth, though Debord theorizes image rather than language. `Speculative connection`.
 - **[[Donella Meadows]]** — Speculative connection. Meadows treats information flows as system levers; Han treats their proliferation as the dismantling of negativity. The frameworks may be compared but do not coincide. `Speculative connection`.
 
@@ -561,3 +576,80 @@ Relevant passage:
 > Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange.
 
 Supports: The "translation of the world into a problem of coding" — information as the unit of a common language in which "all resistance to instrumental control disappears." Grounds the second paragraph of [[#Information as Universal Translation (Haraway)]] and the cross-link to [[The World as a Problem of Coding]] and [[The Informatics of Domination]]. Label: `Directly stated`.
+
+### Source 36
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]
+Relevant passage:
+
+> The electric light is pure information. It is a medium without a message, as it were, unless it is used to spell out some verbal ad or name.
+
+Supports: McLuhan's central example and the *media-theoretic* sense of information — the electric light as "pure information," a content-less medium that makes the "medium is the message" thesis visible. Grounds the opening of [[#The Electric Light as Pure Information (McLuhan)]], the eighth author-entry in [[#Authors and Variants]], and the eighth sense in the General Orientation. Label: `Directly stated`.
+
+### Source 37
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]
+Relevant passage:
+
+> For the "content" of a medium is like the juicy piece of meat carried by the burglar to distract the watchdog of the mind. The effect of the medium is made strong and intense just because it is given another medium as "content."
+
+Supports: The polemic that "content" is a decoy that "blinds us to the character of the medium" — the move that reframes information as a property of the medium itself. Grounds the second paragraph of [[#The Electric Light as Pure Information (McLuhan)]]. Label: `Directly stated`.
+
+### Source 38
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]
+Relevant passage:
+
+> In a word, the message of the electric light is total change. It is pure information without any content to restrict its transforming and informing power.
+
+Supports: The "total change" formulation — light as pure information whose transforming power is unrestricted precisely because it has no content. Grounds the first paragraph of [[#The Electric Light as Pure Information (McLuhan)]]. Label: `Directly stated`.
+
+### Source 39
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/17 Chapter 13 - Housing - New Look and New Outlook]]
+Relevant passage:
+
+> Light is information without "content," much as the missile is a vehicle without the additions of wheel or highway.
+
+Supports: A second statement of light-as-content-less-information, with the missile analogy (a self-contained system in which "the medium is the message"). Reinforces the first paragraph of [[#The Electric Light as Pure Information (McLuhan)]]. Label: `Directly stated`.
+
+### Source 40
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]
+Relevant passage:
+
+> In the new electric Age of Information and programmed production, commodities themselves assume more and more the character of information, although this trend appears mainly in the increasing advertising budget.
+
+Supports: The economic extension — in the electric Age of Information the commodity itself becomes informational. Grounds the third paragraph of [[#The Electric Light as Pure Information (McLuhan)]] and the anticipation of Han's [[Immaterial Labour|immaterial production]]. Label: `Directly stated`.
+
+### Source 41
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/25 Chapter 21 - Press - Government by News Leak]]
+Relevant passage:
+
+> As automation takes hold, it becomes obvious that information is the crucial commodity, and that solid products are merely incidental to information movement.
+
+Supports: The claim that under automation information becomes "the crucial commodity" and solid products "merely incidental" — the sharpest form of McLuhan's information-economy thesis. Grounds the third paragraph of [[#The Electric Light as Pure Information (McLuhan)]]. Label: `Directly stated`.
+
+### Source 42
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]
+Relevant passage:
+
+> We live today in the Age of Information and of Communication because electric media instantly and constantly create a total field of interacting events in which all men participate.
+
+Supports: McLuhan's naming of the epoch — the "Age of Information and of Communication" as the instantaneous total field created by electric media. Grounds the third paragraph of [[#The Electric Light as Pure Information (McLuhan)]] and the cross-link to Han's [[Hyperinformation|hyperinformation]] and Harari's "information flow." Label: `Directly stated`.

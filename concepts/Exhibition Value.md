@@ -4,6 +4,7 @@ status: generated
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]"
+  - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
 related:
   - "[[Exhibition Value|Attention Capital]]"
   - "[[Positivity]]"
@@ -18,11 +19,18 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Walter Benjamin]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-03
 ---
 
 # Exhibition Value
+
+## General Orientation
+
+This note holds two distinct but resonant senses of the term, separated by some thirty years. The primary sense is **[[Byung-Chul Han]]'s** (after [[Walter Benjamin]]): exhibition value is a *value form* — the value a thing accrues solely through the attention its display generates, a third term beyond the Marxian use/exchange pair, which in the Society of Transparency liquidates [[Cult Value]] and tips into [[Pornography (Han)]]. Han names an economic-aesthetic logic and gives it a concept.
+
+The second sense is a **precursor diagnosis** in **[[Marshall McLuhan]]** (*Understanding Media*, 1964): not the named value-form but the underlying *mechanism* of the self-as-display. McLuhan describes how the photograph, by mass-producing and multiplying the human image, turns persons into purchasable merchandise — the world remade as a "Brothel-without-Walls." McLuhan predates Han and does not theorize "exhibition value" as such; the connection below is interpretive synthesis, reading McLuhan's photographic logic as an early description of the display-economy Han would later formalize.
 
 ## Brief Definition
 
@@ -36,10 +44,19 @@ The conceptual move that gives the term its force is Han's claim that exhibition
 
 Han's most striking extension of the concept is its slide into [[Pornography (Han)]]. Because exhibition value depends on total visibility, it tends toward the obscene: the face that has been over-displayed loses its [[Aura]] and becomes a surface. "The face loaded with exhibition value to the point of bursting is pornographic" (see [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]). Here exhibition value names not just an economic logic but a structural disposition of contemporary subjectivity: every subject is its own advertising object, [[The Face]] becomes a visage on display, and beauty (which for Benjamin required a veil) is replaced by sublime-less, secretless exposure. The concept thus binds Han's economic, aesthetic, and erotic critiques into a single diagnosis.
 
+## Marshall McLuhan (Understanding Media)
+
+`Interpretive synthesis.` Writing in 1964, [[Marshall McLuhan]] does not use the term "exhibition value," but his account of the photograph supplies a precursor diagnosis of the display-logic Han would later formalize. For McLuhan the camera is a device that *thingifies* the person: "Both monocle and camera tend to turn people into things, and the photograph extends and multiplies the human image to the proportions of mass-produced merchandise" (see [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]). The decisive verbs — *extends*, *multiplies* — describe the mechanism by which a human image stops being a singular presence and becomes a reproducible, circulable commodity. This is the same passage from singular existence to displayed merchandise that Han narrates as the liquidation of [[Cult Value]] by exhibition value, arrived at three decades earlier from the side of media rather than political economy.
+
+McLuhan pushes the point to its commercial limit: the mass-reproduced image is not merely seen but *purchased*. "The movie stars and matinee idols are put in the public domain by photography. They become dreams that money can buy. They can be bought and hugged and thumbed more easily than public prostitutes." From here he names his governing figure: "photography has inspired Genet with the theme of the world since photography as a Brothel-without-Walls." The figure rhymes precisely with Han's claim that "the society of exhibition is a society of pornography" — both describe a world in which total mass-circulated visibility converts the human image into an object on offer. Where Han traces this to the metaphysics of [[Positivity]] and the maximization of attention as capital, McLuhan grounds it in the medium itself: the photograph's power "to be everywhere and to interrelate things" is what dissolves the singular into the merchandised.
+
+The convergence is sharpest around the **self-as-display**. McLuhan observes that the photograph reaches inward as well as outward — "the complete transformation of human sense-awareness by this form involves a development of self-consciousness that alters facial expression and cosmetic makeup as immediately as it does our bodily stance, in public or in private." The photographic regime thus produces a subject perpetually composing itself *for the image*, a "tidying-up of our inner lives" disciplined by the picture. This anticipates Han's diagnosis that under exhibition value "every subject is also its own advertising object," with [[The Face]] retooled as a surface for display. McLuhan supplies the medial genealogy; Han supplies the value-theoretic and erotic critique. The link is not made by either author — McLuhan never read Han, and Han does not cite this chapter — so it is offered here as interpretive synthesis, not as a claim either thinker advances.
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — exhibition value is the form of value proper to the [[Transparency|Society of Transparency]]: attention-generated, irreducible to use or exchange, and pornographic in tendency. It displaces [[Cult Value]] entirely and underwrites [[Operation Schönheit]] — the compulsion to be beautiful, fit, displayable.
 - **[[Walter Benjamin]]** — original source of the cult value / exhibition value distinction. For Benjamin the two stand in tension; cult value finds its "last refuge" in the human countenance and in portrait photography. Han reads Benjamin as describing a *threshold* that the digital age has now crossed.
+- **[[Marshall McLuhan]]** — Interpretive synthesis. Does not name "exhibition value," but his 1964 account of the photograph as turning people into things and multiplying "the human image to the proportions of mass-produced merchandise" — the world as a "Brothel-without-Walls" — is a precursor diagnosis of the self-as-display logic Han later theorizes. McLuhan locates the cause in the medium (the camera, mass reproduction); Han in political economy and the metaphysics of [[Positivity]]. See [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]].
 - **[[Giorgio Agamben]]** — Speculative connection. Agamben celebrates a "pure exhibition value" that, by emptying the face of expression, could open a new erotic communication. Han explicitly opposes this reading: for Han, Agamben mistakes the pornographic for the profane. See [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]].
 - **[[Guy Debord]]** — Speculative connection. Han ends the pornography chapter with "The society of pornography is a society of the spectacle," suggesting an unstated rhyme between exhibition value and the spectacle's logic of separated, mediated visibility. The link is not theorized in *The Transparency Society* itself.
 
@@ -124,3 +141,36 @@ Relevant passage:
 > Capitalism heightens the pornographication of society by exhibiting everything as a commodity and handing it over to hypervisibility. It seeks the maximization of exhibition value.
 
 Supports: Confirms that exhibition value is, for Han, not a neutral descriptor but the *telos* of capitalist visibility — what capital tries to maximize once use and exchange value have been outflanked. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]
+Relevant passage:
+
+> Both monocle and camera tend to turn people into things, and the photograph extends and multiplies the human image to the proportions of mass-produced merchandise.
+
+Supports: The load-bearing McLuhan passage. Establishes the precursor mechanism — the photograph thingifies the person and multiplies the human image into commodity form — that the note reads as an early description of the display-economy Han later names "exhibition value." The connection between McLuhan's medium-driven account and Han's value-theoretic one is `Interpretive synthesis`; the passage itself is `Directly stated`.
+
+### Source 7
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]
+Relevant passage:
+
+> The movie stars and matinee idols are put in the public domain by photography. They become dreams that money can buy. They can be bought and hugged and thumbed more easily than public prostitutes.
+
+Supports: Grounds the claim that mass-reproduced images are not merely displayed but *purchasable* — the human image rendered as merchandise on offer. This is the commercial-erotic limit McLuhan names the "Brothel-without-Walls," rhyming with Han's "the society of exhibition is a society of pornography." Label: `Directly stated` for the passage; the rhyme with Han is `Interpretive synthesis`.
+
+### Source 8
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]
+Relevant passage:
+
+> By the same token, the complete transformation of human sense-awareness by this form involves a development of self-consciousness that alters facial expression and cosmetic makeup as immediately as it does our bodily stance, in public or in private.
+
+Supports: Anchors the convergence on the *self-as-display*: the photographic regime produces a subject that composes itself for the image, anticipating Han's "every subject is also its own advertising object" and the retooling of [[The Face]] as a surface. Label: `Directly stated` for the passage; the link to Han's exhibition-value subject is `Interpretive synthesis`.

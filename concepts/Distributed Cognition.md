@@ -6,6 +6,13 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch06 [Network]]]"
+  - "[[raw/McLuhan - Understanding Media/03 Introduction]]"
+  - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
+  - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/McLuhan - Understanding Media/12 Chapter 8 - The Spoken Word - Flower of Evil]]"
+  - "[[raw/McLuhan - Understanding Media/15 Chapter 11 - Number - Profile of the Crowd]]"
+  - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
 related:
   - "[[Posthumanism]]"
   - "[[Cybernetics]]"
@@ -18,15 +25,18 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-03
 ---
 
 # Distributed Cognition
 
 ## General Orientation
 
-This note carries two author-sections. For **[[N. Katherine Hayles]]**, distributed cognition is a *normative* posthumanist thesis: cognition resides across embodied humans and the material media and environments they build, so that "distributed cognition replaces autonomous will" and the [[The Liberal Humanist Subject|liberal humanist subject]] dissolves — re-embodied, not dematerialized. For **[[Meghan O'Gieblyn]]**, the same architecture appears as a *historical migration in the model of mind* — from a central processor to a decentralized network with no governing brain — traced across the "wood-wide web," swarm self-organization, and Rodney Brooks's subsumption-architecture robots, and shadowed by a deflationary suspicion: that the most "intelligent" machine behavior may be hidden human intelligence, and that to make ourselves "one with the natural world" by this route is to reduce mind to "the exchange of information." Where Hayles offers the distributed cognitive system as an emancipatory reframing, O'Gieblyn reads it as both wonder and warning — closely allied with [[Emergence]] and [[Embodiment]] and with the deflation of [[Mind as Machine]].
+This note carries three author-sections. For **[[N. Katherine Hayles]]**, distributed cognition is a *normative* posthumanist thesis: cognition resides across embodied humans and the material media and environments they build, so that "distributed cognition replaces autonomous will" and the [[The Liberal Humanist Subject|liberal humanist subject]] dissolves — re-embodied, not dematerialized. For **[[Meghan O'Gieblyn]]**, the same architecture appears as a *historical migration in the model of mind* — from a central processor to a decentralized network with no governing brain — traced across the "wood-wide web," swarm self-organization, and Rodney Brooks's subsumption-architecture robots, and shadowed by a deflationary suspicion: that the most "intelligent" machine behavior may be hidden human intelligence, and that to make ourselves "one with the natural world" by this route is to reduce mind to "the exchange of information." Where Hayles offers the distributed cognitive system as an emancipatory reframing, O'Gieblyn reads it as both wonder and warning — closely allied with [[Emergence]] and [[Embodiment]] and with the deflation of [[Mind as Machine]].
+
+For **[[Marshall McLuhan]]** (*Understanding Media*, 1964), distributed cognition appears decades earlier and at a *planetary scale*, not as a term of art but as a thesis about electric technology: by extending "our central nervous system itself in a global embrace," the electric age makes "the creative process of knowing" something "collectively and corporately extended to the whole of human society." This is a 1960s precursor to the vault's distributed-cognition thread — knowing distributed across a global field of instantly interacting events rather than housed in the individual skull — and it converges with [[The Global Village]]. McLuhan supplies the *medium-historical* and cosmic register that Hayles and O'Gieblyn later refract through cybernetics, the network, and the brain: where they locate distributed cognition in ship-bridges, forests, and subsumption robots, McLuhan locates it in the electrically interlinked "human family" itself. This section is an **interpretive synthesis** — McLuhan does not use the phrase "distributed cognition," but his electric-extension-of-consciousness thesis names the same structure. Do not collapse it into the Hayles/O'Gieblyn senses.
 
 ## Brief Definition
 
@@ -50,12 +60,21 @@ The decisive move is that this distributed architecture is turned back onto the 
 
 But O'Gieblyn closes the network with a deflationary coda that pulls against the enchantment. The promise that consciousness will "simply emerge as a side effect of complexity" she reads as "an updated version of vitalism" and "uncomfortably like magic," a way of trying to get "something from nothing." Brooks himself "referred to consciousness as a 'cheap trick,' an illusion that exists only in the eye of the beholder" — "Intelligence is in the eye of the observer" — which deflates the very [[Mind as Machine|computational metaphor]] the network was meant to vindicate. And the literal punchline of the campus delivery robots is that the bots "were observed at all times by a human engineer" who could "override its systems and control it manually," so that "it was impossible to know whether the bots were acting autonomously or being maneuvered remotely": "The most eerily intelligent behavior I had observed in them may have been precisely what it appeared to be: evidence of human intelligence." Distributed cognition, in O'Gieblyn's telling, is real enough as a description of swarms and climates, but as a theory of machine *mind* it risks dignifying hidden human labor and a "rudimentary caricature" of ourselves — "the exchange of information—that it can be applied to virtually anything."
 
+## Marshall McLuhan (Understanding Media)
+
+For [[Marshall McLuhan]], what the vault calls distributed cognition is the culminating consequence of his master thesis that media are "the extensions of man." Where earlier extensions externalized a single sense or organ, the electric age extends the integrating organ itself: "in this electric age we see ourselves being translated more and more into the form of information, moving toward the technological extension of consciousness." The *Introduction* states the trajectory directly: "Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned. Rapidly, we approach the final phase of the extensions of man— the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society." Knowing, in other words, becomes a property of the species-wide electric field rather than of the bounded individual — a 1964 anticipation of the distributed cognitive system, pitched not at a ship's bridge but at the scale of the [[The Global Village|global village]] (Interpretive synthesis).
+
+McLuhan repeatedly frames this as a *field* rather than an aggregate of minds. In "Telegraph": "We live today in the Age of Information and of Communication because electric media instantly and constantly create a total field of interacting events in which all men participate." In "The Gadget Lover," the same condition is given as a perceptual precondition — "Apparently this could not have happened before the electric age gave us the means of instant, total field-awareness" — and in "Number" the planetary scale is made explicit: "When we have achieved a world-wide fragmentation, it is not unnatural to think about a world-wide integration." The recurring image is the central nervous system writ large: "It is a principal aspect of the electric age that it establishes a global network that has much of the character of our central nervous system," because "with electricity we extend our central nervous system globally, instantly interrelating every human experience" (*Automation*). This is the same structural move the later authors make — cognition as a property of the coupled whole — but McLuhan grounds it in a *medium-historical* claim about electric speed and the abolition of distance rather than in cybernetics, ecology, or robotics (Directly stated for the quotations; Interpretive synthesis for the alignment with distributed cognition).
+
+The most striking convergence with the vault's [[The Body as Data|information]] thread is McLuhan's claim that this electric extension of consciousness can dispense with language and symbol altogether. In "Media as Translators" he asks "might not our current translation of our entire lives into die spiritual form of information seem to make of the entire globe, and of the human family, a single consciousness?"; in "The Spoken Word" he goes further: "Electricity points the way to an extension of the process of consciousness itself, on a world scale, and without any verbalization whatever." Read alongside Hayles, this is the optimistic, pre-cybernetic face of the wager that mind can be carried as pattern across a material network — McLuhan celebrates as collective consciousness what O'Gieblyn later suspects of reducing mind to "the exchange of information," and what Hayles insists must stay [[Embodiment|embodied]]. His "single consciousness" is the planetary limit-case of distributed cognition, and the point at which it shades into [[The Global Village]] (Interpretive synthesis; the cross-author tension is a speculative connection drawn by this vault, not by McLuhan).
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — distributed cognition is the term that names how the posthuman subject is "distributed rather than located solely in consciousness." She deploys it normatively, as the substitute for "autonomous will" that makes a non-apocalyptic posthumanism thinkable, and she insists it is material and embodied, not a flight into pure information.
 - **Edwin Hutchins** — Hayles's primary source for the concept; his ethnography of naval navigation supplies both the ship example and the gloss that thinking is "a gradual propagation of organized functional properties across a set of malleable media," with cognition and decision-making alike distributed across human and nonhuman actors.
 - **Gregory Bateson** — supplies the framing that the emergent human subject "becomes a metaphor for" the distributed cognitive system as a whole, in which "'thinking' is done by both human and nonhuman actors."
 - **[[Meghan O'Gieblyn]]** — treats distributed cognition historically, as the migration of the model of mind from the central processor to the distributed network, where "there is no central, governing brain." She runs it through the wood-wide web, swarm self-organization, and Brooks's "subsumption architecture," uses it to dissolve the unified self ("a unit, not a colony"), and deflates it with the suspicion that the most "eerily intelligent" machine behavior may be "evidence of human intelligence."
+- **[[Marshall McLuhan]]** — the 1960s precursor. Distributed cognition appears as the "technological simulation of consciousness" of the electric age, in which "the creative process of knowing will be collectively and corporately extended to the whole of human society." He frames it as a planetary "central nervous system" and a "total field of interacting events in which all men participate" — knowing distributed across a global field rather than housed in the individual, converging with [[The Global Village]]. He does not use the phrase "distributed cognition"; the alignment is this vault's interpretive synthesis.
 
 ## Related Concepts
 
@@ -68,6 +87,7 @@ But O'Gieblyn closes the network with a deflationary coda that pulls against the
 - [[Emergence]] — for O'Gieblyn the engine of distributed intelligence: "new structural properties and patterns" that "appear spontaneously in complex adaptive systems" with no central control, in forests, swarms, and Brooks's robots alike.
 - [[Mind as Machine]] — distributed cognition is the network-stage successor to the central-processor metaphor; O'Gieblyn's deflation (consciousness as a "cheap trick," "in the eye of the observer") simultaneously extends and undercuts the machine model of mind.
 - [[The Extrapolated Body]] — the extension of cognition across prosthetic, material media.
+- [[The Global Village]] — McLuhan's planetary limit-case of distributed cognition: the electric extension of the "central nervous system itself in a global embrace," making knowing a property of the interlinked "human family" rather than the individual.
 - The Observer — distinct from distributed cognition: the single observer included in a reflexive system is one participant in, not the locus of, the distributed cognitive whole.
 
 ## Opposing Concepts
@@ -194,3 +214,106 @@ Relevant passage:
 > Later I learned that the robots were observed at all times by a human engineer who sat in a room somewhere in the bowels of campus, watching them all on computer screens. If one of the bots found itself in a particularly hairy predicament, the human controller could override its systems and control it manually. In other words, it was impossible to know whether the bots were acting autonomously or being maneuvered remotely. The most eerily intelligent behavior I had observed in them may have been precisely what it appeared to be: evidence of human intelligence.
 
 Supports: The deflationary coda — the most "intelligent" machine behavior in a distributed system may be hidden human intelligence, not autonomous machine cognition. Undercuts the enchantment of emergent machine mind. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> Rapidly, we approach the
+> final phase of the extensions of man— the technological simulation of consciousness, when
+> the creative process of knowing will be collectively and corporately extended to the whole
+> of human society
+
+Supports: The keystone McLuhan passage — the electric age as the "technological simulation of consciousness" in which knowing is "collectively and corporately extended to the whole of human society." The 1960s precursor to distributed cognition at planetary scale. Label: `Directly stated` (quotation); `Interpretive synthesis` (alignment with distributed cognition).
+
+### Source 12
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]
+Relevant passage:
+
+> We live today in the Age of Information and of Communication because electric media
+> instantly and constantly create a total field of interacting events in which all men
+> participate.
+
+Supports: Distributed cognition as a "total field of interacting events in which all men participate" — knowing as a property of the shared electric field rather than the individual. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]
+Relevant passage:
+
+> It is a principal aspect of the electric
+> age that it establishes a global network that has much of the character of our central
+> nervous system.
+
+Supports: The central-nervous-system thesis — the electric age establishes a planetary "global network" with "much of the character of our central nervous system." The structural figure of distributed cognition at global scale. Label: `Directly stated`.
+
+### Source 14
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]
+Relevant passage:
+
+> since with electricity we extend our
+> central nervous system globally, instantly interrelating every human experience.
+
+Supports: The extension of the central nervous system "globally, instantly interrelating every human experience" — cognition and experience distributed across the planetary electric field. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]
+Relevant passage:
+
+> Apparently this could not have happened
+> before the electric age gave us the means of instant, total field-awareness.
+
+Supports: The perceptual precondition — "instant, total field-awareness" as the electric-age capacity underwriting collective consciousness; the field, not the node, as the unit of awareness. Label: `Directly stated`.
+
+### Source 16
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/15 Chapter 11 - Number - Profile of the Crowd]]
+Relevant passage:
+
+> When
+> we have achieved a world-wide fragmentation, it is not unnatural to think about a world-wide
+> integration.
+
+Supports: The planetary scale of the integration — "world-wide integration" as the counterpart to "world-wide fragmentation"; distributed cognition figured as the integration of the species into a single field. Label: `Directly stated`.
+
+### Source 17
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> then might not our current
+> translation of our entire lives into die spiritual form of information seem to make of the
+> entire globe, and of the human family, a single consciousness?
+
+Supports: The limit-case — the translation of life into "the spiritual form of information" making "the entire globe, and of the human family, a single consciousness." The convergence of distributed cognition with the information/[[The Body as Data|body-as-data]] thread, and with [[The Global Village]]. Label: `Directly stated`. (OCR artifact "die" for "the" preserved verbatim from source.)
+
+### Source 18
+
+Book: *Understanding Media*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/12 Chapter 8 - The Spoken Word - Flower of Evil]]
+Relevant passage:
+
+> Electricity points the
+> way to an extension of the process of consciousness itself, ona
+> world scale, and_ without any verbalization whatever.
+
+Supports: The strongest statement of the immaterial limit — an "extension of the process of consciousness itself, on a world scale, and without any verbalization whatever." Collective consciousness without language; the pre-cybernetic optimistic face of mind-as-pattern across a planetary field. Label: `Directly stated`. (OCR artifacts "ona" for "on a" and "and_" for "and" preserved verbatim from source; the quote spans a mid-paragraph line break in the raw chapter.)

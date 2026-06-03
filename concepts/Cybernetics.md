@@ -8,6 +8,11 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
   - "[[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]"
   - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
+  - "[[raw/McLuhan - Understanding Media/03 Introduction]]"
+  - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
+  - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Homeostasis]]"
@@ -23,8 +28,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Norbert Wiener]]"
   - "[[Donna Haraway]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-03
 ---
 
 # Cybernetics
@@ -35,7 +41,7 @@ The postwar synthesis—named from the Greek for "steersman"—that fuses inform
 
 ## General Orientation
 
-Cybernetics is a shared note carrying distinct but compatible author treatments. For [[N. Katherine Hayles]] and [[Norbert Wiener]] (below), it is read primarily *epistemologically and ontologically*: the discipline that reconstructs the human as an information-processing system and makes the boundary of the subject "constructed rather than given." For [[Donna Haraway]], the same boundary-dissolving move is read *politically*: cybernetics' fusion of control, communication, and information becomes the ground of the late-twentieth-century subject ("coded by C3I") and the engine of what she names the [[The Informatics of Domination|informatics of domination]]. Where Hayles contests the abstraction of pattern from flesh, Haraway asks whose domination the cybernetic recoding of organisms into biotic components serves—and what oppositional politics the cyborg, as a cybernetic organism, might enable. The sections below treat each sense in turn.
+Cybernetics is a shared note carrying distinct but compatible author treatments. For [[N. Katherine Hayles]] and [[Norbert Wiener]] (below), it is read primarily *epistemologically and ontologically*: the discipline that reconstructs the human as an information-processing system and makes the boundary of the subject "constructed rather than given." For [[Donna Haraway]], the same boundary-dissolving move is read *politically*: cybernetics' fusion of control, communication, and information becomes the ground of the late-twentieth-century subject ("coded by C3I") and the engine of what she names the [[The Informatics of Domination|informatics of domination]]. Where Hayles contests the abstraction of pattern from flesh, Haraway asks whose domination the cybernetic recoding of organisms into biotic components serves—and what oppositional politics the cyborg, as a cybernetic organism, might enable. For [[Marshall McLuhan]] (below), cybernetics—which he most often names "cybernation"—is read *physiologically and medially*: not a theory of the subject but a description of electric media as servo-mechanisms that have "outered" the central nervous system, technologically extending it "in a global embrace" until the planet itself becomes a single nervous system. The sections below treat each sense in turn.
 
 ## Longer Explanation
 
@@ -53,11 +59,18 @@ For [[Donna Haraway]], cybernetics is not principally a theory to be reconstruct
 
 Haraway's distinctive contribution is to politicize cybernetics' boundary-dissolving move as a system of power—the [[The Informatics of Domination|informatics of domination]]. She tracks the cybernetic recasting of living things into information: "In a sense, organisms have ceased to exist as objects of knowledge, giving way to biotic components, i.e., special kinds of information-processing devices." This recoding is not neutral. For Haraway, "communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange." The operative quantity is the one cybernetics theorizes: "the key operation is determining the rates, directions, and probabilities of flow of a quantity called information. The world is subdivided by boundaries differentially permeable to information." Thus where Hayles measures cybernetics against [[Embodiment|embodiment]], Haraway measures it against domination—asking not only that the cybernetic subject's boundaries are constructed but in whose interest, and toward what oppositional recoupling the figure of [[The Cyborg|the cyborg]] might be turned. `Strongly implied` (Haraway's quoted passages are directly stated; the framing of her contribution *as* the politicization of the move Hayles treats epistemologically is interpretive synthesis across the two authors).
 
+## The Central Nervous System Extended Planetarily (McLuhan)
+
+For [[Marshall McLuhan]], cybernetics is not a theory of the human subject but a *physiological* account of what electric media are and do. His governing thesis—announced in the Introduction to *[[Understanding Media]]*—is that media are extensions of the body, and that the electric phase of that long history extends the one organ that coordinates all the others: "Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned." The central nervous system is, for McLuhan, already the body's own information network—"Physiologically, the central nervous system, that electric network that coordinates the various media of our senses, plays the chief role"—so the electric "outering" of it (telegraph, radio, television, the computer) is the technological simulation of a faculty the organism had previously kept inside its skin. This is a cybernetic framing in the strict sense: media are servo-mechanisms of the body, and the relation of person to medium is one of servile coupling. "Man must serve his electric technology with the same servo-mechanistic fidelity with which he served his coracle, his canoe, his typography, and all other extensions of his physical organs." (The fuller working-out of this coupling—the Narcissus-as-narcosis logic of [[Autoamputation|autoamputation]], numbness, and [[Man as Servomechanism of His Extensions|the human as the "servomechanism" of its own extensions]]—is developed in Ch. 4, "The Gadget Lover"; here it grounds only the cybernetic claim that the planetary nervous system is a servo-mechanism.) `Interpretive synthesis` (McLuhan never adopts the word "cybernetics" as a banner the way Hayles does; reading his extended-CNS thesis *as* a cybernetic framing is synthesis—his own term is "cybernation," used below.)
+
+McLuhan's preferred name for the discipline is "cybernation" (or, interchangeably, "automation"), and where he uses it he aligns closely with the control-communication-information synthesis Hayles describes—while inflecting it toward *organic interrelation* rather than the construction of the subject. Cybernation, for McLuhan, is precisely the supersession of the discrete machine by an information system: "Instead of being concerned with separate machines, cybernation looks at the production problem as an integrated system of information handling." The same move that dissolves the boundary of the human in Hayles dissolves, for McLuhan, the boundaries between the units of the industrial and the social field, which the electric medium recombines into a single interacting whole: "Automation or cybernation deals with all the units and components of the industrial and marketing process exactly as radio or TV combine the individuals in the audience into new interprocess." Crucially, McLuhan locates the defining feature of the cybernetic/servo-mechanistic structure in the *decoupling of energy from information*—a formulation that converges with the cybernetic separation of the message from its physical substrate: "The source of energy is separate from the process of translation of information, or the applying of knowledge," a separation he says obtains "in all servo-mechanist structures that involve feedback." Read against the rest of this note, McLuhan thus supplies the *medial* register the others presuppose: where Hayles asks what cybernetics does to the concept of the human and Haraway asks whom its recoding of organisms serves, McLuhan describes the concrete electric apparatus—telegraph to computer—by which the central nervous system is turned inside out and laid over the globe. `Strongly implied` (McLuhan's quoted passages are directly stated; the alignment of his "cybernation" with the cybernetic control/communication/information synthesis, and the cross-author contrast, is interpretive synthesis.)
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — treats cybernetics as the seriated discipline (three waves) whose history shows how information was abstracted from materiality; her critical project contests the [[Embodiment vs Information|materiality/information separation]] cybernetics helped install, while refusing to read disembodiment as cybernetics' necessary meaning.
 - **[[Norbert Wiener]]** — the "father of cybernetics," who fused control, communication, and information into "a universal theory of knowledge" yet sought to align it with liberal humanism, fashioning "human and machine alike in the image of an autonomous, self-directed individual." His "Behavior, Purpose, and Teleology" (with Bigelow and Rosenblueth) is, in Hayles's account, "the founding document for cybernetics."
 - **[[Donna Haraway]]** — reads cybernetics politically rather than epistemologically: the cyborg "is a cybernetic organism," and cybernetics' fusion of control, communication, and information ("coded by C3I") is the ground of the late-twentieth-century subject. Her contribution is to recast the cybernetic recoding of "organisms… [as] biotic components, i.e., special kinds of information-processing devices" as a system of power—the [[The Informatics of Domination|informatics of domination]]—and to ask what oppositional politics [[The Cyborg|the cyborg]] might enable from inside it.
+- **[[Marshall McLuhan]]** — reads cybernetics (his term: "cybernation") physiologically and medially: electric media "outer" the central nervous system, extending it "in a global embrace" so that the planet becomes a single nervous system, and the human couples to its media with "servo-mechanistic fidelity." Cybernation supersedes the discrete machine with "an integrated system of information handling" and is defined by the separation of energy from the "translation of information." The fuller autoamputation/servo-mechanism material is developed in Ch. 4 ("The Gadget Lover") and treated in [[Autoamputation]] and [[Man as Servomechanism of His Extensions]].
 
 ## Related Concepts
 
@@ -205,3 +218,69 @@ Relevant passage:
 > Furthermore, communications sciences and modern biologies are constructed by a common move—the translation of the world into a problem of coding, a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange.
 
 Supports: Cybernetics' boundary-dissolving translation of the world into code as the move Haraway reads as a system of instrumental control. Label: `Directly stated`
+
+### Source 12
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned.
+
+Supports: The keystone of the McLuhan section—electric media extend the central nervous system planetarily, the cybernetic framing of media as an outering of the body's own information network. Label: `Directly stated`
+
+### Source 13
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]
+Relevant passage:
+
+> Physiologically, the central nervous system, that electric network that coordinates the various media of our senses, plays the chief role.
+
+Supports: The physiological premise that the central nervous system is itself an electric coordinating network—why its electric "outering" is a technological simulation of an internal faculty. Forward-links the fuller autoamputation/servo-mechanism material to [[Autoamputation]] and [[Man as Servomechanism of His Extensions]]. Label: `Directly stated`
+
+### Source 14
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> Man must serve his electric technology with the same servo-mechanistic fidelity with which he served his coracle, his canoe, his typography, and all other extensions of his physical organs.
+
+Supports: The servo-mechanism framing—the human couples to its media with servo-mechanistic fidelity, the cybernetic relation of person to medium. Label: `Directly stated`
+
+### Source 15
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]
+Relevant passage:
+
+> Instead of being concerned with separate machines, cybernation looks at the production problem as an integrated system of information handling.
+
+Supports: McLuhan's use of "cybernation" as the supersession of the discrete machine by an integrated information system—his alignment with the control/communication/information synthesis. Label: `Directly stated`
+
+### Source 16
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]
+Relevant passage:
+
+> Automation or cybernation deals with all the units and components of the industrial and marketing process exactly as radio or TV combine the individuals in the audience into new interprocess.
+
+Supports: Cybernation as the recombination of discrete units into a single interacting whole—the organic-interrelation inflection McLuhan gives the boundary-dissolving move. Label: `Directly stated`
+
+### Source 17
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]
+Relevant passage:
+
+> The source of energy is separate from the process of translation of information, or the applying of knowledge.
+
+Supports: The defining feature McLuhan ascribes to "all servo-mechanist structures that involve feedback"—the decoupling of energy from information, converging with the cybernetic separation of message from substrate. Label: `Directly stated`

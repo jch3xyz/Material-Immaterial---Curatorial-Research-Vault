@@ -7,6 +7,8 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]"
+  - "[[raw/McLuhan - Understanding Media/10 Chapter 7 - Challenge and Collapse - The Nemesis of Creativity]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -20,8 +22,9 @@ opposes:
   - "[[Trust]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Digital Panopticon
@@ -34,6 +37,7 @@ Han's reworking of the Benthamian and Foucauldian panopticon as an aperspectival
 
 "Digital panopticon" names a single concept that carries several distinguishable senses, and the note keeps them apart rather than fusing them.
 
+- **The media-historical precursor — McLuhan (1964)** — two decades before Han, *Understanding Media* already frames electric media as an apparatus that records "our least gesture" and to which we have "leased" the nerves and senses it runs on. McLuhan has no term "digital panopticon," and his stakes are media-ownership and the loss of autonomy rather than surveillance proper; but his warning that "each stick of chewing gum we reach for is acutely noted by some computer" and that "we have leased our central nervous systems to various corporations" is a direct historical antecedent of Han's voluntary-self-exposure regime and of [[Dataism]]'s totalized data-gathering. (See *Marshall McLuhan (Understanding Media)* below.)
 - **The disciplinary predecessor** — Bentham's [[The Panopticon|panopticon]] and the Foucauldian disciplinary apparatus it emblematizes: a centered, perspectival machine built around one hidden inspector who "sees without being seen," with isolated, silenced inmates who *know* they are watched and interiorize the gaze. This is the foil Han argues *against*, not his own concept.
 - **Han in *The Transparency Society*** — the digital panopticon as an *aperspectival*, decentered regime sustained by [[Hypercommunication]] and voluntary self-exposure, where "hypercommunication guarantees [[Transparency]]" and the "transparent customer" becomes its homo sacer. (See *Longer Explanation* and *Authors and Variants* below.)
 - **Han in *Psychopolitics*** — the same structure radicalized along three further axes: surveillance is *outsourced to the inmates* and offered "out of an inner need"; Big Brother "now wears a friendly face" so that the watching goes *unfelt* ("everyone feels free"); and Big Data makes the apparatus *aperspectival without blind spots*, able to "peer into the human soul itself," until "everyone is his or her own panopticon." (See *Psychopolitics (Han)* below.)
@@ -56,9 +60,18 @@ The second axis is *affective*: the panopticon has become unfelt. Han contrasts 
 
 The third axis is *optical and psychic totalization* through Big Data. The Benthamian panopticon, "confined to a perspectival optical system," left "blind spots … where prisoners could indulge in secret wishes and thoughts without being observed." Digital surveillance abolishes them: "Digital surveillance proves so efficient because it is aperspectival. It does not suffer from the perspectival limitations characterizing analogue optical systems. Digital optics enables surveillance from any and every angle. It eliminates all blind spots. In contrast to analogue and perspectival optics, it can peer into the human soul itself." Coupled to [[Auto-Exploitation]], this produces an *internalized* panopticon with no remaining guard/inmate distinction: the self-tracking, self-illuminating subject "bears its own, internal panopticon within; here, there is no difference between guard and inmate. The digitalized, networked subject is a panopticon of itself." This is the *Psychopolitics* radicalization of the aperspectival form developed in [[Aperspectival Panopticon (Han)]]: aperspectivity is now not only the loss of a center but the elimination of every blind spot, reaching into the soul and the digital unconscious itself. (Directly stated — Ch11; the coupling to auto-exploitation is `Strongly implied` by Han's own juxtaposition of self-exploitation and self-surveillance in the same passage.)
 
+## Marshall McLuhan (Understanding Media) — leasing the nervous system to corporations
+
+McLuhan's *Understanding Media* (1964) supplies a media-historical precursor to Han's surveillance critique, written more than two decades earlier and from a different vantage: not the disciplinary inheritance of Bentham and Foucault, but the political economy of media ownership. In "Hybrid Energy: Les Liaisons Dangereuses" (ch. 5) he already describes the condition that [[Dataism]] would later name. "We have reached a similar point of data gathering when each stick of chewing gum we reach for is acutely noted by some computer that translates our least gesture into a new probability curve or some parameter of social science." The phrasing prefigures Han's aperspectival panopticon that "can peer into the human soul itself" and Harari's vision of algorithms that record every act: the least gesture is captured and converted into data. McLuhan grounds this in his thesis that electric technology externalizes the body — "Our private and corporate lives have become information processes just because we have put our central nervous systems outside us in electric technology." (Directly stated — ch. 5.)
+
+In "Challenge and Collapse: The Nemesis of Creativity" (ch. 7) McLuhan turns this into a warning about ownership and the loss of autonomy. Because "electric technology is directly related to our central nervous systems," to operate media is to operate on the public's own nerves; and once that operation is privatized, the subject is dispossessed: "Once we have surrendered our senses and nervous systems to the private manipulation of those who would try to benefit from taking a lease on our eyes and ears and nerves, we don't really have any rights left." He drives the metaphor home — "we have leased our central nervous systems to various corporations" — and likens it to handing common speech to a private corporation or leasing the earth's atmosphere as a monopoly. This is the historical antecedent of Han's [[Digital Panopticon]]: where McLuhan locates the danger in the *private manipulation* of externalized senses by corporate lessees, Han locates it in the *voluntary self-exposure* of subjects who feel free; both describe a regime in which the apparatus runs on faculties the subject has handed over. (Directly stated — ch. 7.)
+
+The convergence should not be overstated. McLuhan's diagnosis is media-ecological — his real worry is the numbing "Narcissus-narcosis" by which we fail to perceive our own extensions — and his proposed remedy is the artist's "integral awareness," not a politics of opacity or [[Negativity]]. He does not name surveillance, voluntary self-illumination, or the collapse of guard and inmate; reading him as an early theorist of the digital panopticon is an interpretive bridge, not his own claim. What is verbatim and load-bearing is the leasing metaphor and the "acutely noted by some computer" passage, which place the externalized, corporately captured, data-translated body on the timeline well before Han and Harari. (Interpretive synthesis — for the bridge to Han's digital panopticon and to [[Dataism]]; the McLuhan passages themselves are `Directly stated`.)
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Reworks Bentham and (implicitly) Foucault. The panopticon becomes aperspectival, voluntary, communicative, and economic rather than centered, coercive, silent, and disciplinary. Its perfection is reached when subjects expose themselves "not through outer constraint but through self-generated need."
+- **[[Marshall McLuhan]]** — Media-historical precursor (1964). No term "digital panopticon"; his frame is media ownership, not surveillance. But he describes the externalized, corporately leased, data-translated body that Han's panopticon and [[Dataism]] presuppose: "we have leased our central nervous systems to various corporations," and "each stick of chewing gum we reach for is acutely noted by some computer." (Directly stated for the passages; the bridge to Han is interpretive.)
 - **[[Jeremy Bentham]]** — Original architect of the panopticon as moral-reform machine; cited by Han as the disciplinary foil. (Directly stated in Ch9 via Bentham's own line about "seeing without being seen.")
 - **[[Jean Baudrillard]]** — Han cites Baudrillard's 1978 claim that we are witnessing "the end of 'the perspectival truth of the panoptic system'"; Han partly inverts this by arguing the panopticon has not ended but become aperspectival. (Directly stated — Ch9.)
 - **[[David Brin]]** — Han cites Brin's call for "the surveillance of all by all" as the futurological alibi of the digital panopticon's "transparent society." (Directly stated — Ch9.)
@@ -243,3 +256,25 @@ Relevant passage:
 > The auto-exploiting subject carries around its own labour camp; here, it is perpetrator and victim at one and the same time. As a self-illuminating, self-surveilling subject, it bears its own, internal panopticon within; here, there is no difference between guard and inmate. The digitalized, networked subject is a panopticon of itself
 
 Supports: Anchors the internalization of the panopticon and its coupling to [[Auto-Exploitation]] — the self-surveilling subject "bears its own, internal panopticon within," abolishing the guard/inmate distinction. Label: `Directly stated` (for the internal panopticon); the link to auto-exploitation is `Strongly implied` by Han's pairing of self-exploitation with self-surveillance in the same passage. Label: `Strongly implied`.
+
+### Source 15
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]
+Relevant passage:
+
+> We have reached a similar point of data gathering when each stick of chewing gum we reach for is acutely noted by some computer that translates our least gesture into a new probability curve or some parameter of social science.
+
+Supports: Establishes the 1964 media-historical precursor to the digital panopticon's data-gathering — the "least gesture" captured and translated into data, prefiguring Han's aperspectival panopticon that "can peer into the human soul itself" and Harari's [[Dataism]]. Label: `Directly stated` (for McLuhan's passage); the bridge to Han/Harari is `Interpretive synthesis`.
+
+### Source 16
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/10 Chapter 7 - Challenge and Collapse - The Nemesis of Creativity]]
+Relevant passage:
+
+> Once we have surrendered our senses and nervous systems to the private manipulation of those who would try to benefit from taking a lease on our eyes and ears and nerves, we don't really have any rights left.
+
+Supports: Grounds McLuhan's media-ownership warning — the loss of autonomy that follows from surrendering the externalized senses to corporate lessees ("we have leased our central nervous systems to various corporations"), a historical antecedent of Han's voluntary-self-exposure [[Digital Panopticon]]. Label: `Directly stated` (for McLuhan's passage); the bridge to Han is `Interpretive synthesis`.

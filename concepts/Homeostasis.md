@@ -5,6 +5,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
   - "[[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]"
+  - "[[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]"
 related:
   - "[[Cybernetics]]"
   - "[[Feedback Loops]]"
@@ -18,11 +19,16 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Norbert Wiener]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
 last_updated: 2026-06-01
 ---
 
 # Homeostasis
+
+## General Orientation
+
+This note is shared by two authors who reach the same word from different directions. For [[N. Katherine Hayles]] (and, through her, [[Norbert Wiener]]), homeostasis is the technical, period-defining concept of *first-wave [[Cybernetics]]* — the maintenance of steady states via negative [[Feedback Loops|feedback]], the founding equivalence that lets the same stabilizing logic run through animals, humans, and machines, and the contingent point at which information was conceived as disembodied stable value. For [[Marshall McLuhan]], homeostasis is a much older biological-political figure: he names it explicitly, ties it back to Hippocrates' *ponos* ("toil," the fight of the body in disease), and applies it to the **city as a form of the body politic**, which responds to "irritations" with "counter-irritant" new extensions in pursuit of constancy, equilibrium, and "staying power." Hayles historicizes homeostasis as a quantifiable wager about *information*; McLuhan generalizes it into a law of how social bodies extend themselves under pressure (the "City as Extension of the Body" material folds here, alongside [[Media as Extensions of Man]]). The shared core in both is the same: order held against shock and change.
 
 ## Brief Definition
 
@@ -38,11 +44,20 @@ Hayles's most pointed claim is that homeostasis prevailed not because it was tru
 
 Finally, homeostasis does not simply vanish when the second wave turns to reflexivity; it persists as a *skeuomorph*. "Homeostasis, a foundational concept during the first wave, functioned during the second wave as a skeuomorph": no longer "an initiating premise," it "performed the work of a gesture or an allusion used to authenticate new elements in the emerging constellation of reflexivity," while exerting "an inertial pull on the new elements, limiting how radically they could transform the constellation." This is the same vestigial logic that later attaches to reflexivity itself within the third wave of [[Systems Theory|virtuality]] — a threshold device smoothing the transition between constellations rather than a live organizing idea.
 
+## Marshall McLuhan (Understanding Media)
+
+For [[Marshall McLuhan]], in the chapter "Roads and Paper Routes," homeostasis is the name modern science gives to a very old principle of bodily and political self-maintenance. He arrives at it through the city's history of internal conflict: the city, "formed as a kind of protective hide or shield for man," purchased that protection "at the cost of maximized struggle within the walls," and "it was amidst such irritations that man produced his greatest inventions as counter-irritants." These inventions were "extensions of himself by means of concentrated toil, by which he hoped to neutralize distress." McLuhan then routes the modern term back through antiquity: "The Greek word ponos, or 'toil,' was a term used by Hippocrates, the father of medicine, to describe the fight of the body in disease. Today this idea is called homeostasis, or equilibrium as a strategy of the staying power of any body." Homeostasis is thus, for McLuhan, the *deep continuity* between Hippocrates' diseased body fighting to recover and the modern systems-theoretic vocabulary of equilibrium — confidence: `Directly stated`.
+
+What is distinctive in McLuhan is that he applies homeostasis to the **social body** as readily as the biological one: "All organizations, but especially biological ones, struggle to remain constant in their inner condition amidst the variations of outer shock and change. The man-made social environment as an extension of man's physical body is no exception." The decisive formulation is the city as body politic: "The city, as a form of the body politic, responds to new pressures and irritations by resourceful new extensions always in the effort to exert staying power, constancy, equilibrium, and homeostasis." Here homeostasis becomes the *motive* of [[Media as Extensions of Man|media as extensions]] — every new road, alphabet, or wheel is a "resourceful new extension" by which the body politic answers irritation in the effort to stay constant. McLuhan even folds the whole arc of the city — from the alarm of the village, through the resistance of the city, to the exhaustion and inertia of empire — into a "disease and irritation syndrome," felt "as normal physical expressions of counter-irritant recovery from disease" (confidence: `Directly stated`).
+
+The figure scales up to electric media. McLuhan reads Telstar in the same homeostatic key: "By outering these satellites as extensions of our nervous system, there is an automatic response in all the organs of the body politic of mankind. Such new intensity of proximity imposed by Telstar calls for radical rearrangement of all organs in order to maintain staying power and equilibrium." Where [[N. Katherine Hayles|Hayles]] treats homeostasis as a *historically contingent* installation that "won" because it was quantifiable — and that survives only as a skeuomorph once reflexivity displaces it — McLuhan treats it as a *standing law* of how extended bodies behave: the body politic perpetually re-extends itself to restore equilibrium under the shocks of new media (confidence: `Interpretive synthesis` for the contrast; the McLuhan claim itself is `Directly stated`). Notably, McLuhan's "extensions in the effort to exert staying power" are themselves disruptive — "acceleration beyond a point in any system becomes disruption and breakdown" — so the pursuit of homeostasis is, in his account, also what unsettles it.
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — Treats homeostasis as a *constellation* and a period marker rather than a neutral biological fact: the central concept of first-wave cybernetics, allied with information-as-thing and signal/noise, that "won" by being quantifiable, and that survives into the second wave only as a skeuomorph. For her it is the historically contingent point at which information was abstracted from materiality.
 - **[[Norbert Wiener]]** — Carries homeostasis as both technical principle and existential drama. Hayles reads it into his biography (solving a math problem to "regain psychological homeostasis") and into his cosmology, where "life and homeostasis" appear as "contrarian islands" holding out against the entropic tide; "Only if creative play is allowed... can homeostasis be maintained, even temporarily, in the face of constant entropic pressure toward degradation." Homeostasis for Wiener is fragile order purchased against noise, entropy, and death — and its absence in "the body politic" is a source of cybernetic anxiety.
 - **W. Ross Ashby (homeostat)** — Mechanized the concept. Ashby's homeostat was built so that homeostasis "included the environment as part of the picture," posing the problem as: given some function of the environment, can the organism find an inverse "such that the product of the two will result in a steady state?" Hayles uses the homeostat to show how a "simple machine" smuggled in a "complex network of assumptions" about humans as mechanisms "trying to maintain homeostasis."
+- **[[Marshall McLuhan]]** — Names homeostasis explicitly and ties it to Hippocrates' *ponos*: "equilibrium as a strategy of the staying power of any body." Extends it from the biological body to the social body — "the city, as a form of the body politic," answering "irritations" with "counter-irritant" new extensions in pursuit of "staying power, constancy, equilibrium, and homeostasis." For McLuhan, homeostasis is the standing motive of [[Media as Extensions of Man|extension]] itself, scaling from the Greek city-state to Telstar; the pursuit of equilibrium is also what drives disruptive new extensions.
 
 ## Related Concepts
 
@@ -132,3 +147,25 @@ Relevant passage:
 > Only if creative play is allowed, if the mechanism can adapt freely to changing messages, can homeostasis be maintained, even temporarily, in the face of constant entropic pressure toward degradation.
 
 Supports: The Wiener variant — homeostasis as fragile, temporary order held against entropy, noise, and death; the existential and probabilistic charge homeostasis carries for Wiener. Label: `Directly stated`
+
+### Source 7
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]
+Relevant passage:
+
+> Nevertheless, it was amidst such irritations that man produced his greatest inventions as counter-irritants. These inventions were extensions of himself by means of concentrated toil, by which he hoped to neutralize distress. The Greek word ponos, or "toil," was a term used by Hippocrates, the father of medicine, to describe the fight of the body in disease. Today this idea is called homeostasis, or equilibrium as a strategy of the staying power of any body. All organizations, but especially biological ones, struggle to remain constant in their inner condition amidst the variations of outer shock and change.
+
+Supports: McLuhan's explicit naming of homeostasis and its grounding in Hippocrates' *ponos* — homeostasis as "equilibrium as a strategy of the staying power of any body," reached via inventions as "counter-irritants" extended from the self. The General Orientation and the McLuhan section's first paragraph. Label: `Directly stated`
+
+### Source 8
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]
+Relevant passage:
+
+> The man-made social environment as an extension of man's physical body is no exception. The city, as a form of the body politic, responds to new pressures and irritations by resourceful new extensions always in the effort to exert staying power, constancy, equilibrium, and homeostasis.
+
+Supports: The scaling of homeostasis from the biological body to the social body — the city as body politic answering "pressures and irritations" with "resourceful new extensions" in pursuit of "staying power, constancy, equilibrium, and homeostasis" — folding the City-as-Extension material into [[Media as Extensions of Man]]. Label: `Directly stated`

@@ -11,6 +11,7 @@ authors:
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
   - "[[Donna Haraway]]"
+  - "[[Marshall McLuhan]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -31,6 +32,11 @@ sources:
   - "[[raw/Haraway - A Cyborg Manifesto/01 [An Ironic Dream of a Common Language]]]"
   - "[[raw/Haraway - A Cyborg Manifesto/03 [The Informatics of Domination]]]"
   - "[[raw/Haraway - A Cyborg Manifesto/06 [Cyborgs - A Myth of Political Identity]]]"
+  - "[[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]"
+  - "[[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]"
+  - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]"
+  - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -38,8 +44,10 @@ related_concepts:
   - "[[Information]]"
   - "[[The Body as Data]]"
   - "[[Immaterial Labour]]"
+  - "[[Mechanical vs Electric]]"
+  - "[[Explosion vs Implosion]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Material vs Immaterial
@@ -55,6 +63,8 @@ Han carries a *second* sense of "immaterial" into the vault from *[[Psychopoliti
 **[[Ray Kurzweil]]** supplies a *sixth* sense and, with it, the axis's purest *affirmative* immaterialist pole — the one position in the vault that simply *endorses* the hierarchy the others contest. Where Hayles/Lippard/Han deny the immaterial its autonomy and Harari reads the immaterial fiction as *swallowing* the material, Kurzweil ranks the immaterial above the material as a flat metaphysical thesis: "information rather than matter and energy may be regarded as the more fundamental reality." His "immaterial" is the *pattern* — the [[Patternism|patternist]] "views patterns of information as the fundamental reality," and the matter that instantiates them (the atoms of the brain, the body, the rock) is transient and, in itself, "for the most part effectively random." What counts is not the substrate but the [[Order as Information That Fits a Purpose|order]] the pattern carries. This is the inverse of Hayles's [[The Materiality of Informatics|materiality of informatics]]: where she re-embeds information in its medium, Kurzweil declares the medium replaceable and the pattern primary — "we will be able to port our mental processes to a more suitable computational substrate." Yet his own [[The Computational Universe|computational]] argument carries a strong counter-current that anchors the pattern firmly to physics, treated in the section below; this sense is therefore *cross-linked, not merged* with the four-author core, supplying the affirmative pole against which their denials are framed.
 
 **[[Donna Haraway]]** brings a *seventh* sense, and chronologically it is the *earliest* — *A Cyborg Manifesto* (1985) predates Hayles, who borrows the very word "informatics" from it ("the informatics of domination"). Haraway's distinctive move is that she refuses the gesture every other source on this axis makes: she does not rank the poles, and she does not unmask one as parasitic on the other. The cyborg is held, instead, as "a condensed image of both imagination and material reality, the two joined centers structuring any possibility of historical transformation." Yet within that held tension she supplies the vault's *sharpest single image of the immaterial pole*: the machines that "are nothing but signals, electromagnetic waves, a section of a spectrum," against people "both material and opaque" — "Cyborgs are ether, quintessence." Her sense of "immaterial" is thus neither Shannon-Wiener pattern (Hayles), nor dematerialized object (Lippard), nor mode of production (Han), nor ascendant fiction (Harari), nor fundamental pattern (Kurzweil): it is the *microelectronic* — "Microelectronics is the technical basis of simulacra—that is, of copies without originals" — the leaky boundary between physical and nonphysical that the cyborg myth deliberately inhabits rather than resolves. She is treated in her own section below and *cross-linked, not merged* with the five senses above, both as Hayles's acknowledged precursor and as the one source that holds the two poles as "joined centers" rather than ranking them.
+
+**[[Marshall McLuhan]]** brings an *eighth* sense, and it is the most strictly *historical* — the axis read as a periodizing reversal between two regimes of technology. For McLuhan the material pole is the *mechanical* age of "solid commodities" moved through space (stone, papyrus, bullion, road and rail), and the immaterial pole is the *electric* age in which "all solid goods can be summoned to appear as solid commodities by means of information circuits." His "immaterial" is thus neither Hayles's Shannon-Wiener pattern, nor Lippard's dematerialized object, nor Han's mode of production, nor Harari's ascendant fiction, nor Kurzweil's fundamental pattern, nor Haraway's microelectronic simulacrum, but *information* as the substance of an epoch — and the axis names a *direction of travel* in which the electric dematerializes the mechanical: "the greatest of all reversals occurred with electricity, that ended sequence by making things instant." His version is developed in its own section below and *cross-linked, not merged* with the seven senses above; it is the vault's one source to fold the material/immaterial axis into a media-historical schema (see [[Mechanical vs Electric]] and [[Explosion vs Implosion]]).
 
 The titular axis of this vault. It is the most general form of an opposition that recurs under more specific names throughout the collection — [[Embodiment vs Information]], [[Presence Absence vs Pattern Randomness]], body versus pattern, presence versus circulation. Where those tensions stage a particular contest, *material vs immaterial* names the underlying hierarchy itself: the cultural conviction, in [[N. Katherine Hayles]]'s words, "that information is in some sense more essential, more important, and more fundamental than materiality." Both authors ingested here work to deny that hierarchy its self-evidence — Hayles by re-embodying information in [[The Materiality of Informatics]], Han by diagnosing the "smooth streams of capital, communication, and information" as a regime that levels matter, language, and the body into frictionless circulation.
 
@@ -120,6 +130,14 @@ Within that held tension, however, Haraway supplies the vault's sharpest single 
 
 "[[The Informatics of Domination]]" extends the axis by declaring the old dividing line obsolete rather than choosing a side of it. Charting the passage "from an organic, industrial society to a polymorphous, information system," Haraway concludes that "the boundary-maintaining images of base and superstructure, public and private, or material and ideal never seemed more feeble." The material/ideal dichotomy is not resolved in favor of either pole but rendered unmaintainable — "simultaneously material and ideological," as she says of the whole chart of transitions. The biological extension follows in "Cyborgs: A Myth of Political Identity," where the organism itself crosses into the informatic: "Biological organisms have become biotic systems, communications devices like others. There is no fundamental, ontological separation in our formal knowledge of machine and organism, of technical and organic." Read against Hayles, this is the source-text of the position *How We Became Posthuman* later elaborates — Hayles takes the word "informatics" from Haraway and turns her held tension into an explicit re-embodiment — but Haraway herself stops at the held tension, refusing the ranking. The relation is therefore one of *precursor*, cross-linked and not merged: Haraway's "joined centers" are the unranked ground from which Hayles's [[The Materiality of Informatics|materiality of informatics]] and the four-author program of denial later depart. The precursor relation to Hayles is `Interpretive synthesis`; the held-tension reading and each quoted image are `Directly stated`. *(Closing figure, from the same chapter: "I would rather be a cyborg than a goddess" — the refusal of an organicist return to the material pole that would, symmetrically, rank matter over imagination.)*
 
+## Marshall McLuhan (Understanding Media)
+
+[[Marshall McLuhan]]'s *[[Understanding Media]]* gives this axis its sharpest *media-historical* form: it is the same opposition the book stages as [[Mechanical vs Electric]], read here as a reversal in which the electric age dematerializes the mechanical. McLuhan's material pole is the mechanical regime of *solid commodities* moved through space — stone, papyrus, bullion, road and rail — and his immaterial pole is *information* detached from any such vehicle. The pivot is stated in "The Medium Is the Message": with the passage from the mechanical to the electric, "the greatest of all reversals occurred with electricity, that ended sequence by making things instant." Where the mechanical age "extended our bodies in space," the electric age detaches the message from its material carrier, so that the very substance of the economy ceases to be the solid good and becomes the pattern of information. The historical hinge is given precisely in "Roads and Paper Routes": "It is only since the telegraph that information has detached itself from such solid commodities as stone and papyrus, much as money had earlier detached itself from hides, bullion, and metals, and has ended as paper." `Directly stated`.
+
+The decisive claim for this axis is that, under electric conditions, the material commodity *becomes* information rather than merely carrying it. In "Reversal of the Overheated Medium" McLuhan periodizes the shift: "In the new electric Age of Information and programmed production, commodities themselves assume more and more the character of information, although this trend appears mainly in the increasing advertising budget." The image recurs at its most vivid in "Media as Translators," where the solidity of goods is shown to be summoned out of information rather than possessed in matter: "so with electric technology all solid goods can be summoned to appear as solid commodities by means of information circuits set up in the organic patterns that we call 'automation' and information retrieval." The first chapter supplies the limit-case in which a medium is *nothing but* its immateriality — the electric light, "pure information," "a medium without a message" carrying no solid content at all. Read against the vault's other sources, this is McLuhan's distinctive contribution: not a denial of the immaterial's autonomy (Hayles, Lippard, Han), nor an affirmation of its priority (Kurzweil), nor a holding-open of the two poles (Haraway), but a *dating* of the dematerialization — the mechanical/material giving way to the electric/immaterial as a one-way reversal of cultural history. As the telegraph chapter puts it, in the electric age "All the mechanical aspects of our world seem to probe toward self-liquidation." `Directly stated`; the placement of McLuhan's mechanical/electric reversal *as* an instance of the vault's material/immaterial axis is `Interpretive synthesis`.
+
+This media-historical reading is *cross-linked, not merged* with the seven senses above. It is closest in shape to Harari's "direction of travel" (the immaterial gaining over the material) but differs at the root: where Harari reads the immaterial *fiction* as actively rewriting matter, McLuhan reads the immaterial *information* as the form an entire age takes once its dominant extension shifts from body-in-space to nervous-system-as-circuit — a periodizing schema, not a metaphysics or an ontology. The fuller treatment of the reversal as a polar opposition lives in the dedicated tension [[Mechanical vs Electric]] and as a directional law in the concept [[Explosion vs Implosion]]; the present section records only the material/immaterial edge of that schema — that the electric dematerializes the mechanical, so that sequence becomes instant information and the solid commodity assumes the character of information.
+
 ## Related Concepts
 
 - [[Patternism]] — Kurzweil's *[[The Singularity Is Near]]* name for the affirmative immaterialist thesis: "patterns of information" are "the fundamental reality," and the matter instantiating them (brain, body, rock) is a transient, replaceable carrier. The vault's one source that *endorses* the material/immaterial hierarchy the others contest.
@@ -128,6 +146,8 @@ Within that held tension, however, Haraway supplies the vault's sharpest single 
 - [[The Informatics of Domination]] — Haraway's name for the passage to the "polymorphous, information system" in which "the boundary-maintaining images of base and superstructure, public and private, or material and ideal never seemed more feeble." The dichotomy rendered unmaintainable rather than decided.
 - [[Intersubjective Reality]] — Harari's *[[Homo Deus]]* name for the immaterial pole: shared fictions (gods, nations, money) that exist "purely in their common imagination" yet, via computers and bioengineering, come to "swallow up the objective reality." The vault's one source reading the immaterial as ascendant over the material rather than parasitic on it.
 - [[Immaterial Labour]] — Han's *[[Psychopolitics]]* name for the new mode of production: immaterial, non-physical forms (information, programs, emotion, the integral person) supersede the body as the force of production. The autonomist-Marxist (Marx/Negri/Gorz) sense of the axis, distinct from Hayles's disembodiment and Lippard's dematerialization.
+- [[Mechanical vs Electric]] — McLuhan's *[[Understanding Media]]* schema that carries this axis in its media-historical form: the mechanical age moves solid commodities, the electric age detaches information from its material carrier ("all solid goods can be summoned to appear as solid commodities by means of information circuits"). The vault's one source to date the dematerialization as an epochal reversal.
+- [[Explosion vs Implosion]] — the same McLuhan reversal as a directional law of cultural history; the mechanical/material explodes outward in space, the electric/immaterial implodes into the instant — "the greatest of all reversals occurred with electricity, that ended sequence by making things instant."
 - [[The Materiality of Informatics]] — Hayles's specific name for her intervention in this axis: the claim that the "immaterial" pole is produced by and crossed with the material pole.
 - [[Virtuality]] — the cultural condition that dramatizes the hierarchy and, in its dominant reading, tilts it toward the immaterial; "the cultural perception that material objects are interpenetrated by information patterns."
 - [[Embodiment]] — the affirmed material term; instantiated, local, specific, irreplaceable.
@@ -463,3 +483,69 @@ Relevant passage:
 > Biological organisms have become biotic systems, communications devices like others.
 
 Supports: The biological extension of the axis — the organism itself crossing into the informatic, "no fundamental, ontological separation … of machine and organism." The precursor of Hayles's posthuman re-coding of the body, but held as crossing rather than ranking. Label: `Directly stated` (for the crossing); the precursor relation to Hayles is `Interpretive synthesis`.
+
+### Source 30
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]
+Relevant passage:
+
+> So the greatest of all reversals occurred with electricity, that ended sequence by making things instant.
+
+Supports: The pivot of McLuhan's media-historical reading of the axis — the electric age dematerializes the mechanical by "ending sequence" (lineal, material cause-and-effect) and substituting the instant. The hinge of the McLuhan section and the link to [[Explosion vs Implosion]]. Label: `Directly stated`.
+
+### Source 31
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]
+Relevant passage:
+
+> The electric light is pure information. It is a medium without a message, as it were, unless it is used to spell out some verbal ad or name.
+
+Supports: The limit-case in which a medium is nothing but its immateriality — the electric light as "pure information," carrying no solid content at all. The purest single image of McLuhan's immaterial pole. Label: `Directly stated`.
+
+### Source 32
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]
+Relevant passage:
+
+> In the new electric Age of Information and programmed production, commodities themselves assume more and more the character of information, although this trend appears mainly in the increasing advertising budget.
+
+Supports: The decisive claim for this axis — under electric conditions the material commodity itself assumes "the character of information." The dematerialization of the commodity, distinct from Han's mode-of-production sense in that McLuhan dates it to a media regime rather than a class structure. Label: `Directly stated`.
+
+### Source 33
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> so with electric technology all solid goods can be summoned to appear as solid commodities by means of information circuits set up in the organic patterns that we call "automation" and information retrieval.
+
+Supports: The solidity of goods shown to be summoned *out of information* rather than possessed in matter — the electric age's reversal of the material/immaterial priority into a one-way movement (information first, solid commodity as its appearance). Label: `Directly stated`.
+
+### Source 34
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]
+Relevant passage:
+
+> It is only since the telegraph that information has detached itself from such solid commodities as stone and papyrus, much as money had earlier detached itself from hides, bullion, and metals, and has ended as paper.
+
+Supports: The historical hinge of the axis stated precisely — the telegraph as the moment information detaches from its solid material vehicle, paralleled to money's earlier detachment from bullion. Dates the dematerialization to a specific media event, the load-bearing point of McLuhan's periodizing reading. Label: `Directly stated`.
+
+### Source 35
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]
+Relevant passage:
+
+> All the mechanical aspects of our world seem to probe toward self-liquidation.
+
+Supports: The reversal stated as the self-dissolution of the material/mechanical pole under electric conditions — the mechanical "probing toward self-liquidation" as the electric age dematerializes it. Closes the McLuhan section and ties the material/immaterial edge to [[Mechanical vs Electric]]. Label: `Directly stated` (for the mechanical self-liquidation); placing it on the material/immaterial axis is `Interpretive synthesis`.

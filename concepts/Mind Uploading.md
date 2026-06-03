@@ -7,6 +7,7 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
 related:
   - "[[The Body as Data]]"
   - "[[Posthumanism]]"
@@ -23,6 +24,7 @@ opposes:
 authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
+  - "[[Marshall McLuhan]]"
 confidence: medium
 last_updated: 2026-06-02
 ---
@@ -36,6 +38,8 @@ The transhumanist proposition that a mind can be transferred onto a digital medi
 ## General Orientation
 
 The note now holds two opposed authorial voices that must not be flattened into one. **[[Ray Kurzweil]]** is the *primary-source advocate*: in *The Singularity Is Near* he defines uploading operationally as "scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate," distinguishes a *functional emulation* of human intelligence (which "is sufficient to re-create human powers of pattern recognition, intellect, and emotional intelligence") from the harder *personal upload* of "a particular person's personality," and offers gradual neuron-by-neuron transfer as his answer to the continuity problem. **[[Meghan O'Gieblyn]]** is the *critical reader*: she cites Kurzweil only secondhand, frames uploading as transhumanism's literalized [[Mind as Machine]] metaphor and a structural repetition of the early Church's resurrection problem, and amplifies the dissenting pole—Susan Schneider's "zombie with no subjective experience" objection—as the book's "great paradox." The opposing pole also draws on Gerald Edelman's caveat (within Kurzweil's own chapter) that "a description is not the capability." Read together: Kurzweil supplies the engineering claim and the optimistic continuity argument; O'Gieblyn and the Schneider/Edelman objections supply the critique that even a perfect copy may carry no one across.
+
+A third, earlier voice sits *upstream* of both. **[[Marshall McLuhan]]**, in *Understanding Media* (1964), names the upload as a logical terminus of the electric extension of the nervous system—"it is but a further stage to transfer our consciousness to the computer world as well"—decades before Moravec or Kurzweil gave it an engineering program. McLuhan is not an advocate proposing a method but a media theorist tracing a tendency: having "outered" the central nervous system into electromagnetic technology, man is already being "translated more and more into the form of information," and the computer is the next vessel of that translation. His sense belongs here as a *precursor and limit-case*, not as a goal—he registers the move's grandeur and its danger (a "single consciousness," but also numbing "Narcissus illusions") without the salvific charge O'Gieblyn diagnoses in the transhumanists. Where Kurzweil engineers the transfer and O'Gieblyn historicizes it as resurrection theology, McLuhan situates it as the endpoint of a centuries-long logic of media as extensions/translations of the body.
 
 ## Longer Explanation
 
@@ -55,10 +59,19 @@ Where O'Gieblyn leaves the **continuity of personal identity** unresolved, Kurzw
 
 Kurzweil meets the metaphysical objections head-on without conceding them. To readers who take Roger Penrose's quantum theory of consciousness to mean "that uploading is impossible because a person's 'quantum state' will have changed many times during the scanning period," he replies: "But I would point out that my quantum state has changed many times in the time it took me to write this sentence, and I still consider myself to be the same person (and no one seems to be objecting)." He also imports, inside his own chapter, the strongest opposing caveat—Gerald Edelman's point "that there is a difference between a capability and a description of that capability," that "a photograph of a person is different from the person herself." Kurzweil grants the caveat but argues uploading "goes beyond the extremely high-resolution scan," since the captured details must be "instantiated into a working computational medium" where "the neural details … interact with one another (and with the outside world) in the same ways that they do in the original"—a running program, not a static disk image. He nonetheless leaves the deepest question open: "Perhaps the most important question will be whether or not an uploaded human brain is really you … one could still reasonably ask whether the upload is the same person or a new person. After all, the original person may still exist." This is precisely the seam where Schneider's "zombie with no subjective experience" and O'Gieblyn's "nothing … going on inside" reopen against him. `Directly stated` (the quotations); `Strongly implied` (that Kurzweil's own deferred question is the entry point for the Schneider/O'Gieblyn critique).
 
+## Marshall McLuhan (Understanding Media)
+
+Writing in 1964—well before mind uploading had any engineering program—**[[Marshall McLuhan]]** arrives at the proposition as the next inference in his theory of media as "extensions of man." His governing move in this chapter is that "All media are active metaphors in their power to translate experience into new forms," and that the electric media translate the body itself: "By putting our physical bodies inside our extended nervous systems, by means of electric media, we set up a dynamic by which all previous technologies … will be translated into information systems." The self is already in transit toward information: "In this electric age we see ourselves being translated more and more into the form of information, moving toward the technological extension of consciousness." `Directly stated`.
+
+From this it is, for McLuhan, only a short step to the upload. He frames it as a staged progression rather than a feat to be invented: "For it is now possible to program ratios among the senses that approach the condition of consciousness. Yet such a condition would necessarily be an extension of our own consciousness as much as wheel is an extension of feet in rotation. Having extended or translated our central nervous system into the electromagnetic technology, it is but a further stage to transfer our consciousness to the computer world as well." This is the verbatim anchor for treating McLuhan as a 1964 *precursor* to the [[Patternism|patternist]] upload that [[Ray Kurzweil]] would later engineer: the body's nervous system, once "outered" into electromagnetic technology, makes the further "transfer … to the computer world" appear as continuation, not rupture. Earlier in the chapter McLuhan offers the cognate image of total storage—"We are now in a position to go beyond that and to transfer the entire show to the memory of a computer"—after the poet Mallarmé's wager that "the world exists to end in a book." `Directly stated` (the quotations); `Strongly implied` (that this is a structural precursor to the later transhumanist upload, which McLuhan does not name).
+
+McLuhan's tone is neither the engineer's optimism nor the theologian's critique but the media analyst's ambivalence—which is why this note treats his sense as a *limit-case* rather than a goal. He sees a possible payoff ("Then, at least, we shall be able to program consciousness in such wise that it cannot be numbed nor distracted by the Narcissus illusions of the entertainment world that beset mankind when he encounters himself extended in his own gimmickry") and a planetary horizon (the question "might not our current translation of our entire lives into … the spiritual form of information seem to make of the entire globe, and of the human family, a single consciousness?"). The same passage warns of "utter human docility and quiescence" and the "servo-mechanistic fidelity" the electric demands of its servant. Unlike the Kurzweil-anchored sections above, there is no claim that subjective experience is *preserved* across the transfer; uploading appears as the logical endpoint of media-as-translation, registered with as much foreboding as promise. `Strongly implied` (McLuhan does not adjudicate the continuity-of-identity question the rest of this note turns on; he treats the transfer as a tendency to be understood, not a survival to be guaranteed).
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — treats mind-uploading as a repetition, structurally, of the early Church's centuries-long problem of bodily continuity across death; reads it as transhumanism's literalized [[Mind as Machine]] metaphor and as a symptom of [[Posthumanism]]'s erasure of the body.
 - **[[Ray Kurzweil]]** — the "patternist" who frames consciousness as a transferable pattern of information ("I am rather like the pattern that water makes in a stream"); holds that an uploaded person with the same organization of information will have the same subjective experience, so "the scanned person's mind will exist in two places at once." *In his own voice* (*The Singularity Is Near*, primary source): defines uploading as "scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate"; distinguishes [[Reverse-Engineering the Human Brain|functional emulation]] of human intelligence from the finer *personal upload* of a particular personality; answers the continuity problem with *gradual transfer* via [[Nanobots]] ("no 'old Ray' and 'new Ray,' just an increasingly capable Ray"); rebuts Penrose ("my quantum state has changed many times … and I still consider myself to be the same person") while granting Edelman's caveat that a description is not the capability.
+- **[[Marshall McLuhan]]** — the 1964 *precursor* (not advocate): in *Understanding Media* he reads the upload as the next "further stage" after the electric extension of the central nervous system, "it is but a further stage to transfer our consciousness to the computer world as well." Offered here as a limit-case—media-as-translation carried to its endpoint—rather than as a continuity-preserving promise; he raises neither the patternist guarantee nor the resurrection critique, registering the transfer with ambivalence ("a single consciousness," but also numbing "Narcissus illusions").
 - **[[Hans Moravec]]** / **[[Norbert Wiener]]** — Wiener's cybernetic image that "we are not stuff that abides, but patterns that perpetuate themselves" supplies the patternist lineage; Moravec is the canonical transhumanist proponent of robotic mind-transfer in the surrounding [[The Three Waves of Cybernetics|cybernetics]] tradition.
 - **Susan Schneider** — the dissenting philosopher: even a behaviorally identical upload "will be a zombie with no subjective experience"; the most uploading can achieve is "functional similarity to the original."
 
@@ -220,3 +233,36 @@ Relevant passage:
 > Nobel Prize winner Gerald Edelman points out that there is a difference between a capability and a description of that capability. A photograph of a person is different from the person herself, even if the "photograph" is very high resolution and three-dimensional.... Perhaps the most important question will be whether or not an uploaded human brain is really you.... After all, the original person may still exist.
 
 Supports: The opposing pole inside Kurzweil's own chapter—Edelman's "a description is not the capability" caveat and Kurzweil's deferred "is the upload really you?" question, the seam where the Schneider zombie objection re-enters. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> For it is now possible to program ratios among the senses that approach the condition of consciousness. Yet such a condition would necessarily be an extension of our own consciousness as much as wheel is an extension of feet in rotation. Having extended or translated our central nervous system into the electromagnetic technology, it is but a further stage to transfer our consciousness to the computer world as well.
+
+Supports: The keystone 1964 anticipation of mind uploading—the "further stage" of transferring consciousness to the computer once the central nervous system has been "outered" into electromagnetic technology. The precursor to the Kurzweil-anchored sections. Label: `Directly stated` (the claim); `Strongly implied` (its status as a structural precursor to the later transhumanist upload, which McLuhan does not name).
+
+### Source 14
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> In this electric age we see ourselves being translated more and more into the form of information, moving toward the technological extension of consciousness.
+
+Supports: Establishes the underlying tendency—the self translated "into the form of information"—of which the upload is, for McLuhan, the endpoint; grounds the General Orientation's reading of McLuhan as upstream of both Kurzweil's engineering claim and O'Gieblyn's critique. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]
+Relevant passage:
+
+> Then, at least, we shall be able to program consciousness in such wise that it cannot be numbed nor distracted by the Narcissus illusions of the entertainment world that beset mankind when he encounters himself extended in his own gimmickry.
+
+Supports: McLuhan's ambivalent register—the upload as both a possible release from media-induced numbing and a horizon shadowed by "Narcissus illusions" and "utter human docility"—which warrants treating his sense as a limit-case rather than a goal. Label: `Strongly implied` (McLuhan states the prospect; the framing as ambivalence/limit-case is interpretive synthesis).

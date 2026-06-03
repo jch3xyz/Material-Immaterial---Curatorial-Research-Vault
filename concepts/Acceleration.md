@@ -7,6 +7,11 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Han - Psychopolitics/13 Idiotism]]"
   - "[[raw/Han - Psychopolitics/09 Emotional Capitalism]]"
+  - "[[raw/McLuhan - Understanding Media/03 Introduction]]"
+  - "[[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]"
+  - "[[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]"
+  - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -26,8 +31,9 @@ opposes:
   - "[[Deceleration]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Acceleration
@@ -38,7 +44,7 @@ For [[Byung-Chul Han]], acceleration is speed stripped of sense and direction �
 
 ## General Orientation
 
-"Acceleration" is used in several distinct senses across the vault, and they should not be collapsed. In [[Byung-Chul Han]]'s *Transparency Society* it is a *structural* category: only additive, non-narrative, transparent processes admit acceleration, so speed is a symptom of the loss of narrative form rather than a cause (see the longer explanation below). In Han's *Psychopolitics* the same term is given an *immunological-political* sense: the acceleration of information and capital presupposes the suppression of immune response — of idiosyncrasy and otherness — so that "the Same reacts to the Same" (see [[#Psychopolitics (Han) — immunosuppression for acceleration]]). Distinct again are the *speculative* media-theoretic and systems senses flagged in "Authors and Variants" below — [[Marshall McLuhan|McLuhan]]'s electric speed, [[Guy Debord|Debord]]'s saturated spectacle, [[Donella Meadows|Meadows]]'s delays and feedback — which may complement but do not ground Han's argument. The two Han senses are continuous (both make acceleration depend on the dismantling of negativity), and the Psychopolitics section extends rather than revises the structural account.
+"Acceleration" is used in several distinct senses across the vault, and they should not be collapsed. In [[Byung-Chul Han]]'s *Transparency Society* it is a *structural* category: only additive, non-narrative, transparent processes admit acceleration, so speed is a symptom of the loss of narrative form rather than a cause (see the longer explanation below). In Han's *Psychopolitics* the same term is given an *immunological-political* sense: the acceleration of information and capital presupposes the suppression of immune response — of idiosyncrasy and otherness — so that "the Same reacts to the Same" (see [[#Psychopolitics (Han) — immunosuppression for acceleration]]). Distinct again is [[Marshall McLuhan|McLuhan]]'s *media-theoretic* sense — the "electric speed" of *Understanding Media*, which abolishes space and time, reverses explosion into implosion, and re-fuses the fragmented Western self into a participatory whole (see [[#Marshall McLuhan (Understanding Media)]] below). The crucial point is one of *evaluation*: McLuhan reads the very instantaneity that Han diagnoses as pathological — the collapse of distance, the abolition of the gap — as a *positive* force of "depth participation" and re-tribalization. Where Han sees the senses left behind and the Other abolished, McLuhan sees the central nervous system extended into a "global embrace." They share the diagnosis (instant simultaneity) and oppose on its value. Still further removed are the *speculative* connections flagged in "Authors and Variants" below — [[Guy Debord|Debord]]'s saturated spectacle and [[Donella Meadows|Meadows]]'s delays and feedback. The two Han senses are continuous (both make acceleration depend on the dismantling of negativity), and the Psychopolitics section extends rather than revises the structural account.
 
 ## Longer Explanation
 
@@ -54,11 +60,19 @@ In *Psychopolitics* Han recasts acceleration in immunological terms: speed is bo
 
 The corollary on the affective side appears in ch. 9, "Emotional Capitalism." Because emotion is faster than reason, accelerated production emotionalizes itself: "Rationality is slower than emotionality; it has no speed, as it were. Thus, the pressure of acceleration now is leading to a dictatorship of emotion." Here acceleration does not only suppress otherness; it displaces the slow medium of rationality — "the medium of disciplinary society" — in favour of the dynamic, situative, performative register that [[Emotional Capitalism|emotional capitalism]] can exploit. The structural claim of *The Transparency Society* (only additive, complexity-reduced processes admit acceleration; "the senses are slow") thus returns as a claim about the psyche: what is slow — idiosyncrasy, immune defence, rationality, the sensory body — is what acceleration must strip away, so that information, capital, and emotion can circulate at maximum velocity (`Directly stated` for the quotations; `Strongly implied` for reading the rationality-to-emotionality shift as continuous with the Transparency-Society account of additive speed).
 
+## Marshall McLuhan (Understanding Media)
+
+McLuhan names the same phenomenon Han diagnoses — instant, all-at-once simultaneity — but treats it as the defining event of the electric age rather than as a pathology. For McLuhan acceleration is not a free-floating speeding-up but a *threshold* effect of media as "extensions of man": "all technologies are extensions of our physical and nervous systems to increase power and speed," and "an increase of power or speed in any kind of grouping of any components whatever is itself a disruption that causes a change of organization" (ch. 10). Below a certain rate, speed *separates* and *specializes* — "Speed-up tends to separate functions, both commercial and political, and acceleration beyond a point in any system becomes disruption and breakdown" (ch. 10). This is the destructive face McLuhan shares with Han: "Acceleration is a formula for dissolution and breakdown in any organization" (ch. 25). But McLuhan's argument turns on a reversal at the limit. When mechanical speed gives way to electric instantaneity, the dynamic inverts: "The stepping-up of speed from the mechanical to the instant electric form reverses explosion into implosion" (ch. 3). Where the mechanical age "extended our bodies in space," electric technology has "extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned" (Introduction). Acceleration, pushed past its break boundary, ceases to fragment and instead re-fuses (`Directly stated` for the quotations; `Interpretive synthesis` for the explosion-to-implosion reading as the structural pivot of McLuhan's account of speed).
+
+The decisive contrast with Han lies in the *valuation* of this instantaneity. For Han, acceleration is the price perception pays — "the senses are slow" — and the collapse of distance is the abolition of the Other ([[Hell of the Same]]). For McLuhan, the very abolition of the temporal gap that Han laments is the condition of a recovered *depth*: "In the mechanical age now receding... Slow movement insured that the reactions were delayed for considerable periods of time. Today the action and the reaction occur almost at the same time," and as a result, "in the electric age, when our central nervous system is technologically extended to whole of mankind... we necessarily participate, in depth, in the consequences of our every action" (Introduction). The literate Westerner's "power to act without reacting" — his detached, fragmented [[Pathos of Distance|distance]] — is exactly what electric speed dissolves; McLuhan reads this as re-tribalization and "wholeness, empathy and depth of awareness," not as the dissociation Han fears. The same simultaneity is, for McLuhan, "the new world of the global village," in which "the principle of specialism and division as a factor of speed no longer applies" and "what emerges is a total field of inclusive awareness" (ch. 10) (`Directly stated` for the quotations; `Interpretive synthesis` for reading McLuhan's "depth participation" as the affirmative counterpart of Han's pathological diagnosis — McLuhan and Han do not cite each other).
+
+This is most explicit where McLuhan ties acceleration to interdependence and automation. Electric speed does not merely move things faster; it changes their *organization* into an organic whole: "The new kind of interrelation in both industry and entertainment is the result of the electric instant speed," and "Electricity unifies these fragments once more because its speed of operation requires a high degree of interdependence among all phases of any operation" (ch. 33). For Han the immunosuppression demanded by acceleration is a *loss* — of idiosyncrasy, of the negative, of the Other; for McLuhan the interdependence demanded by electric speed is a *gain* — the end of mechanical fragmentation and the simulation of a single nervous system. The two thinkers thus run their causal arrows toward opposite verdicts on one shared fact: that at electric speed, distance, delay, and the separateness of functions all give way to instant, total involvement (`Interpretive synthesis`; the Han↔McLuhan comparison is the curatorial join, not a claim either author makes).
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Acceleration is a *symptom*, not a *cause*. It is what becomes possible once narrative form has been hollowed out into addition; it is therefore inseparable from his account of [[Transparency]], [[Hypercommunication]], and the [[Exhibition Value|Society of Exhibition]]. In *Psychopolitics* (chs. 9 and 13) the same structural claim is given an immunological-political form: acceleration requires the *immunosuppression* of idiosyncrasy and otherness so that "the Same reacts to the Same" (the [[Hell of the Same]]), and "the pressure of acceleration now is leading to a dictatorship of emotion" — see [[#Psychopolitics (Han) — immunosuppression for acceleration]], [[Idiotism]], [[Immunological Age]], [[Emotional Capitalism]].
 - **[[Guy Debord]]** — *Speculative connection.* Debord's [[Spectacle]] shares Han's diagnosis of a regime in which appearance saturates and immediate stimulation displaces lived experience; whether Debord theorizes acceleration as structurally as Han does is not established here. See `[[Guy Debord - The Society of the Spectacle]]`.
-- **[[Marshall McLuhan]]** — *Speculative connection.* McLuhan's account of media-driven speed and the global nervous system in `[[Marshall McLuhan - Understanding Media]]` may furnish a media-theoretic complement to Han's structural argument; this link is a commitment, not a claim.
+- **[[Marshall McLuhan]]** — *Now grounded (Understanding Media).* McLuhan's "electric speed" abolishes space and time and "reverses explosion into implosion," re-fusing the fragmented Western self into the global participatory whole of the "global village." He reads the very instantaneity Han diagnoses as pathological as a *positive* force of depth participation — they share the diagnosis and oppose on its value. See [[#Marshall McLuhan (Understanding Media)]]; book note [[Understanding Media]].
 - **[[Donella Meadows]]** — *Speculative connection.* The systems-thinking vocabulary of `[[Donella Meadows - Thinking in Systems]]` (delays, feedback loops, flows) may help formalize Han's dis-synchrony claim, but Han himself does not invoke systems theory.
 
 ## Related Concepts
@@ -168,3 +182,69 @@ Relevant passage:
 > Rationality is slower than emotionality; it has no speed, as it were. Thus, the pressure of acceleration now is leading to a dictatorship of emotion.
 
 Supports: Establishes the affective corollary — because rationality (the medium of disciplinary society) is slower than emotionality, acceleration displaces it, yielding a "dictatorship of emotion." Anchors the link to [[Emotional Capitalism]] and the rationality-to-emotionality material. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]
+Relevant passage:
+
+> The stepping-up of speed from the mechanical to the instant electric form reverses explosion into implosion.
+
+Supports: The structural pivot of McLuhan's account of speed — the threshold at which acceleration ceases to fragment and instead re-fuses. Grounds the [[#Marshall McLuhan (Understanding Media)]] section's claim that McLuhan and Han share the diagnosis of instant simultaneity but diverge on its meaning. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> Today the action and the reaction occur almost at the same time.
+
+Supports: McLuhan's name for the instantaneity Han diagnoses as pathological — the collapse of the delay between act and consequence. McLuhan reads it positively: "in the electric age... we necessarily participate, in depth, in the consequences of our every action." Anchors the distinction between McLuhan's "depth participation" and Han's diagnosis of dissociated temporality. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/03 Introduction]]
+Relevant passage:
+
+> Today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned.
+
+Supports: The positive valuation that distinguishes McLuhan from Han — the abolition of space and time is, for McLuhan, the condition of the "global village" and a recovered wholeness, not the [[Hell of the Same]]. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]
+Relevant passage:
+
+> Speed-up tends to separate functions, both commercial and political, and acceleration beyond a point in any system becomes disruption and breakdown.
+
+Supports: McLuhan's destructive face of acceleration, shared with Han — below the electric threshold, speed fragments and specializes. Sets up the reversal (Source 8) by which electric instantaneity inverts this dynamic into implosive re-fusion. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]
+Relevant passage:
+
+> Acceleration is a formula for dissolution and breakdown in any organization.
+
+Supports: The point of maximal overlap with Han — acceleration as breakdown. The McLuhan section uses it to mark exactly where the two thinkers agree (the dissolutive effect of speed on existing structures) before they diverge on whether the resulting electric whole is a loss or a gain. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Understanding Media: The Extensions of Man*
+Author: Marshall McLuhan
+Raw file: [[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]
+Relevant passage:
+
+> Electricity unifies these fragments once more because its speed of operation requires a high degree of interdependence among all phases of any operation.
+
+Supports: McLuhan's affirmative inversion of Han's immunosuppression thesis — where Han reads the interdependence demanded by acceleration as the abolition of otherness, McLuhan reads it as the recovery of organic unity from mechanical fragmentation. Anchors the third paragraph of the McLuhan section. Companion quote (same chapter): "The new kind of interrelation in both industry and entertainment is the result of the electric instant speed." Label: `Directly stated`.

@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 # Reading Pathways
@@ -390,3 +390,48 @@ A cross-book pathway following Haraway's coded command-control grid and its mate
 - [[Immaterial Labour]] — Han's neoliberal immaterial production; the downstream of the homework economy
 - [[Material vs Immaterial]] — the vault's master axis, now spanning six author sections
 - [[N. Katherine Hayles and Donna Haraway]] — the cross-book bridge on informatics and the cyborg
+
+## Pathways through *Understanding Media* (Marshall McLuhan)
+
+### Pathway: McLuhan's Part I apparatus
+
+Follows the conceptual machinery McLuhan builds in the book's first chapters before turning it loose on individual media: the thesis that the medium is the message, the extension/autoamputation physiology, the hot/cool typology, and the law of reversal. Useful for thinking media as form rather than content, and perception beneath opinion.
+
+- [[The Medium Is the Message]] — the form and scale of a medium, not its content, is the message
+- [[Media as Extensions of Man]] — every medium an extension of a sense, organ, or faculty
+- [[The Content of Any Medium Is Another Medium]] — media nest recursively; content masks the medium
+- [[Sense Ratios]] — media alter the ratios and patterns of perception beneath opinion
+- [[Media Hot and Cold]] — media classified by data-density and inverse participation
+- [[Reversal of the Overheated Medium]] — any medium intensified past a threshold reverses into its opposite
+- [[The Break Boundary]] — Boulding's point of no return at which a system changes into another
+- [[The medium not its content is the message]] — the signature argument in its own note
+- [[Mechanical vs Electric]] — the master historical opposition the apparatus serves
+
+### Pathway: Extension, autoamputation, and numbness
+
+Traces the book's physiological core: the extension of man as a self-amputation that numbs the extended organ, the Narcissus-narcosis of the media trance, and the artist as the one awareness that breaks it. Useful for thinking the body extended, surveillance, and technological capture.
+
+- [[Autoamputation]] — every technology a defensive self-amputation of an over-stressed organ
+- [[Narcosis]] — the constitutive numbness accompanying every extension
+- [[Narcissus as Narcosis]] — the figure of technological numbness, not vanity
+- [[Man as Servomechanism of His Extensions]] — the Gadget Lover who serves his own extensions
+- [[The Electric Age as Extension of the Central Nervous System]] — electric technology as a live model of the CNS set outside us
+- [[Leasing the Central Nervous System]] — we have leased our eyes, ears, and nerves to private corporations
+- [[Numbness vs Awareness]] — the necessary narcosis against the awareness that breaks the trance
+- [[The Artist as Integral Awareness]] — the artist as the culture's immune system against media shock
+- [[We have leased our central nervous systems to private corporations]] — the capture argument in its own note
+
+### Pathway: The electric reversal — explosion into implosion across the vault
+
+A cross-book pathway following McLuhan's master historical claim — mechanical explosion contracting into electric implosion and the global village — into the vault's information, acceleration, and material/immaterial threads. Useful for reading media speed against Han, Hayles, Harari, and Kurzweil.
+
+- [[Explosion vs Implosion]] — mechanical explosion reversing into electric implosion
+- [[The Global Village]] — electric speed contracting the planet to a single participatory community
+- [[Transportation as Communication]] — physical transport and information movement as one continuous 'communication'
+- [[Money as a Medium]] — money's arc from commodity to credit-information
+- [[The Credit Card]] — money as pure credit-information; the electric reversal toward 'tribal money'
+- [[Material vs Immaterial]] — the vault's master axis, now spanning seven author sections
+- [[Information]] — where McLuhan's electric-information thread meets Hayles, Lippard, and Harari
+- [[Acceleration]] — Han's critique of speed, the productive contrast to McLuhan's 'electric speed'
+- [[Marshall McLuhan and Byung-Chul Han]] — electric speed and the leased nervous system read against Han
+- [[Marshall McLuhan and N. Katherine Hayles]] — the senses as substrate and consciousness translated into information
