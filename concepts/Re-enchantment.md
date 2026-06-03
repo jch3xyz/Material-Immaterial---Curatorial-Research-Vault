@@ -22,7 +22,7 @@ authors:
   - "[[Max Weber]]"
   - "[[Charles Taylor]]"
 confidence: medium
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Re-enchantment

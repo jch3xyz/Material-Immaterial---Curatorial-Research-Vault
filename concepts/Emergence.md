@@ -30,7 +30,7 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Emergence

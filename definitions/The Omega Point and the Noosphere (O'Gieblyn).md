@@ -10,7 +10,7 @@ sources:
     passage: "Once humanity is sufficiently connected via our information technologies, Teilhard predicted, we will all fuse into a single universal mind—the noosphere—enacting the Kingdom of Heaven that Christ promised."
 related_concepts:
   - "[[Transhumanism]]"
-  - "[[Singularity]]"
+  - "[[The Singularity]]"
   - "[[Patternism]]"
   - "[[Mind Uploading]]"
   - "[[Re-enchantment]]"
@@ -35,24 +35,24 @@ At the Omega Point, O'Gieblyn writes, "human consciousness would be raised 'to a
 
 ## Context
 
-O'Gieblyn introduces the noosphere and Omega Point in the "Pattern" chapter as the missing genealogical link in her central argument that [[Transhumanism]] is secularized Christian eschatology. Tracing the word "transhuman" backward from [[Ray Kurzweil]] through [[Julian Huxley]]'s 1957 lecture and past its appearance in *The Divine Comedy*, she finds it resurfacing in Teilhard, who "believed [evolution] was the means by which Christ would bring about the kingdom of God." The Omega Point is, in her account, the named precursor that transhumanists suppress: "The Omega Point, as many critics have noted, is an obvious precursor to Kurzweil's [[Singularity]]" (`Directly stated`). The omission is motivated — "Most transhumanists are outspoken atheists, eager to maintain the notion that their philosophy is rooted in modern rationalism and not in fact what it is: an outgrowth of Christian eschatology" (`Directly stated`). The concept therefore does the work of demystification: it exposes the [[Patternism|mind-as-pattern]] dream of [[Mind Uploading]] and the [[Disembodied Information as the Soul|information-as-soul]] move as historical inheritances rather than discoveries, a case study in [[Re-enchantment]].
+O'Gieblyn introduces the noosphere and Omega Point in the "Pattern" chapter as the missing genealogical link in her central argument that [[Transhumanism]] is secularized Christian eschatology. Tracing the word "transhuman" backward from [[Ray Kurzweil]] through [[Julian Huxley]]'s 1957 lecture and past its appearance in *The Divine Comedy*, she finds it resurfacing in Teilhard, who "believed [evolution] was the means by which Christ would bring about the kingdom of God." The Omega Point is, in her account, the named precursor that transhumanists suppress: "The Omega Point, as many critics have noted, is an obvious precursor to Kurzweil's [[The Singularity]]" (`Directly stated`). The omission is motivated — "Most transhumanists are outspoken atheists, eager to maintain the notion that their philosophy is rooted in modern rationalism and not in fact what it is: an outgrowth of Christian eschatology" (`Directly stated`). The concept therefore does the work of demystification: it exposes the [[Patternism|mind-as-pattern]] dream of [[Mind Uploading]] and the [[Disembodied Information as the Soul|information-as-soul]] move as historical inheritances rather than discoveries, a case study in [[Re-enchantment]].
 
 The noosphere returns, transposed, in the "Metonymy" chapter, where O'Gieblyn shows it reanimated by contemporary [[Panpsychism]] and [[Integrated Information Theory]]. Where Teilhard offered a theological prophecy, the philosopher Philip Goff offers an existential threat read off the same curve: if the internet's information ever becomes more integrated than a human brain, individual minds would be "absorbed into the collective mind." O'Gieblyn makes the lineage explicit (`Directly stated`):
 
 > Goff likens this scenario to the visions of Pierre Teilhard de Chardin, the French Jesuit priest who, as we've seen, prophesied the coming Omega Point and inspired aspects of transhumanism. Once humanity is sufficiently connected via our information technologies, Teilhard predicted, we will all fuse into a single universal mind—the noosphere—enacting the Kingdom of Heaven that Christ promised.
 
-O'Gieblyn then reports feeling "the pull of the gyre" of this merging herself — viral cascades in which "users who share them begin to seem less like agents than as hosts, nodes in the enormous brain" — but closes with a deflating verdict on the supposed apotheosis: "it does not feel like the Kingdom of God" (`Directly stated`). The concept thus spans her book's two registers: the Omega Point as the religious skeleton of the engineer's [[Singularity]], and the noosphere as the metaphysical flattery of a conscious-internet [[Emergence|hive mind]].
+O'Gieblyn then reports feeling "the pull of the gyre" of this merging herself — viral cascades in which "users who share them begin to seem less like agents than as hosts, nodes in the enormous brain" — but closes with a deflating verdict on the supposed apotheosis: "it does not feel like the Kingdom of God" (`Directly stated`). The concept thus spans her book's two registers: the Omega Point as the religious skeleton of the engineer's [[The Singularity]], and the noosphere as the metaphysical flattery of a conscious-internet [[Emergence|hive mind]].
 
 ## Differences from Other Uses
 
 Teilhard's noosphere is the historical ancestor of [[N. Katherine Hayles]]'s posthuman dream of [[The Body as Data|disembodiment]], but the valuations are opposed. Hayles's [[Posthumanism]] is the critical target — she warns against the fantasy that [[Information]] is "an entity that can flow unchanged between different material substrates," a decontextualization O'Gieblyn explicitly borrows from *How We Became Posthuman* to explain how information "became, in other words, the materialist's substitute for the soul." Teilhard, by contrast, *celebrates* the dissolution of [[Embodiment|bodies]] into a global mind as glorification. The Omega Point is a [[Mind as Machine|computational-spirit]] eschatology stated as hope, where Hayles states it as a contingency to be resisted; both, on O'Gieblyn's reading, erase the body, repeating the gesture of [[The Liberal Humanist Subject]].
 
-The concept also differs sharply from the engineers who inherit it. [[Ray Kurzweil]]'s [[Singularity]] and [[Hans Moravec]]'s mind-transfer dreams strip the explicitly Christian frame, presenting the same intelligence explosion as secular extrapolation of Moore's Law; O'Gieblyn's wager is that the resemblance is "historical and genetic," not coincidental. Against the cybernetic lineage of [[Norbert Wiener]] — for whom [[Cybernetics|information]] still had to be "instantiated in a particular context and embodied in some kind of physical form" — Teilhard already imagines the network as a route *out* of matter. And against the IIT theorists Christof Koch and Giulio Tononi, who would grant the internet a "tiny glow" of phenomenal experience on neutral, "carbon"-agnostic grounds, Teilhard's noosphere is unabashedly a vehicle of divine fulfillment. O'Gieblyn's contribution is to show these are not three independent ideas but one inheritance wearing different metaphors — the central thesis that the [[Mind as Machine|computer metaphor]] keeps smuggling back the disembodied soul it was built to abolish.
+The concept also differs sharply from the engineers who inherit it. [[Ray Kurzweil]]'s [[The Singularity]] and [[Hans Moravec]]'s mind-transfer dreams strip the explicitly Christian frame, presenting the same intelligence explosion as secular extrapolation of Moore's Law; O'Gieblyn's wager is that the resemblance is "historical and genetic," not coincidental. Against the cybernetic lineage of [[Norbert Wiener]] — for whom [[Cybernetics|information]] still had to be "instantiated in a particular context and embodied in some kind of physical form" — Teilhard already imagines the network as a route *out* of matter. And against the IIT theorists Christof Koch and Giulio Tononi, who would grant the internet a "tiny glow" of phenomenal experience on neutral, "carbon"-agnostic grounds, Teilhard's noosphere is unabashedly a vehicle of divine fulfillment. O'Gieblyn's contribution is to show these are not three independent ideas but one inheritance wearing different metaphors — the central thesis that the [[Mind as Machine|computer metaphor]] keeps smuggling back the disembodied soul it was built to abolish.
 
 ## Related Concepts
 
 - [[Transhumanism]]
-- [[Singularity]]
+- [[The Singularity]]
 - [[Patternism]]
 - [[Mind Uploading]]
 - [[Re-enchantment]]
@@ -94,7 +94,7 @@ Relevant passage:
 
 > The Omega Point, as many critics have noted, is an obvious precursor to Kurzweil's Singularity.
 
-Supports: Establishes the named-precursor claim linking Teilhard's Omega Point to Kurzweil's [[Singularity]], anchoring the genealogy at the heart of the note. Confidence: `Directly stated`.
+Supports: Establishes the named-precursor claim linking Teilhard's Omega Point to Kurzweil's [[The Singularity]], anchoring the genealogy at the heart of the note. Confidence: `Directly stated`.
 
 ### Source 3
 

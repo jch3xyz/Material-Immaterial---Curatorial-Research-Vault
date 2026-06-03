@@ -1434,5 +1434,244 @@
       "tensions/Homo-Centric vs Data-Centric.md",
       "tensions/Intelligence vs Consciousness.md"
     ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/04 Prologue - The Power of Ideas.md": {
+    "sha256": "67058ad6d4bb17f2c1dcbeacae2669fd765dba4d62fad5528affa2f42463bd51",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 04 Prologue - The Power of Ideas.md.analysis.md",
+    "generated_files": [
+      "arguments/We are not our bodies but a pattern of information that persists through material turnover.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Information.md",
+      "concepts/Patternism.md",
+      "concepts/Reverse-Engineering the Human Brain.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Law of Accelerating Returns.md",
+      "concepts/The Singularity.md",
+      "concepts/Transcending Biology.md",
+      "metaphors/Technology as Magic.md",
+      "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+      "sources/Kurzweil - The Singularity Is Near - 04 Prologue - The Power of Ideas.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs.md": {
+    "sha256": "d903405728d8befe5501784138ca4762413cc3fc6372332e8044c8ab60a7387c",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 05 Ch1 - The Six Epochs.md.analysis.md",
+    "generated_files": [
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Posthumanism.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Law of Accelerating Returns.md",
+      "concepts/The Singularity.md",
+      "concepts/The Six Epochs.md",
+      "concepts/Transcending Biology.md",
+      "concepts/Transhumanism.md",
+      "definitions/The Law of Accelerating Returns (Kurzweil).md",
+      "definitions/The Singularity (Kurzweil).md",
+      "metaphors/The Lily Pads on the Lake.md",
+      "metaphors/Version 1.0 Biological Bodies.md",
+      "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+      "references/Ray Kurzweil and N. Katherine Hayles.md",
+      "references/Ray Kurzweil and Yuval Noah Harari.md",
+      "sources/Kurzweil - The Singularity Is Near - 05 Ch1 - The Six Epochs.md",
+      "tensions/Biology vs Technology.md",
+      "tensions/Embodiment vs Information.md",
+      "tensions/Exponential vs Linear.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution.md": {
+    "sha256": "062cf7d6319c65251886e442e384029b7de5f469a8be7127f189f0e48aaff678",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 06 Ch2 - A Theory of Technology Evolution.md.analysis.md",
+    "generated_files": [
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Emergence.md",
+      "concepts/Information.md",
+      "concepts/Order as Information That Fits a Purpose.md",
+      "concepts/Paradigm Shift and the S-Curve.md",
+      "concepts/Patternism.md",
+      "concepts/Posthumanism.md",
+      "concepts/Reverse-Engineering the Human Brain.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Law of Accelerating Returns.md",
+      "concepts/The Singularity.md",
+      "concepts/The Six Epochs.md",
+      "definitions/The Law of Accelerating Returns (Kurzweil).md",
+      "references/Meghan O'Gieblyn and Ray Kurzweil.md",
+      "references/Ray Kurzweil and N. Katherine Hayles.md",
+      "references/Ray Kurzweil and Yuval Noah Harari.md",
+      "sources/Kurzweil - The Singularity Is Near - 06 Ch2 - A Theory of Technology Evolution.md",
+      "tensions/Biology vs Technology.md",
+      "tensions/Exponential vs Linear.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain.md": {
+    "sha256": "8eaafc8bc79d65361fb7e6b1f853aded87c7d169861a8fb4b7229c390cfdf460",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 07 Ch3 - Achieving the Computational Capacity of the Human Brain.md.analysis.md",
+    "generated_files": [
+      "arguments/We are not our bodies but a pattern of information that persists through material turnover.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Mind Uploading.md",
+      "concepts/Order as Information That Fits a Purpose.md",
+      "concepts/Paradigm Shift and the S-Curve.md",
+      "concepts/Patternism.md",
+      "concepts/Reverse-Engineering the Human Brain.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Computational Universe.md",
+      "concepts/The Law of Accelerating Returns.md",
+      "concepts/The Singularity.md",
+      "concepts/Transcending Biology.md",
+      "concepts/Transhumanism.md",
+      "definitions/The Singularity (Kurzweil).md",
+      "metaphors/How Smart Is a Rock.md",
+      "references/Ray Kurzweil and N. Katherine Hayles.md",
+      "references/Ray Kurzweil and Yuval Noah Harari.md",
+      "sources/Kurzweil - The Singularity Is Near - 07 Ch3 - Achieving the Computational Capacity of the Human Brain.md",
+      "symbols/The Ultimate Laptop.md",
+      "tensions/Biology vs Technology.md",
+      "tensions/Embodiment vs Information.md",
+      "tensions/Material vs Immaterial.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain.md": {
+    "sha256": "82fc16e74771857a57a2d415058d7e82480973fb472a6c676702c3023aeb3b53",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 08 Ch4 - How to Reverse Engineer the Human Brain.md.analysis.md",
+    "generated_files": [
+      "arguments/Uploading is a gradual unnoticed merger not a sudden scan and copy.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Emergence.md",
+      "concepts/Mind Uploading.md",
+      "concepts/Nanobots.md",
+      "concepts/Neuromorphic Modeling.md",
+      "concepts/Patternism.md",
+      "concepts/Reverse-Engineering the Human Brain.md",
+      "concepts/The Law of Accelerating Returns.md",
+      "references/Ray Kurzweil and N. Katherine Hayles.md",
+      "sources/Kurzweil - The Singularity Is Near - 08 Ch4 - How to Reverse Engineer the Human Brain.md",
+      "tensions/Embodiment vs Information.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/09 Ch5 - GNR - Three Overlapping Revolutions.md": {
+    "sha256": "5a30b8da3da37da35285af595e7e1db19579146f257ef0e837b61a7b82947bc9",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 09 Ch5 - GNR - Three Overlapping Revolutions.md.analysis.md",
+    "generated_files": [
+      "arguments/Biology is dramatically suboptimal and must be transcended not merely repaired.md",
+      "arguments/Molecular manufacturing collapses physical value into information.md",
+      "arguments/Strong AI cannot be contained only value-aligned because it will be us.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/GNR (Genetics Nanotechnology Robotics).md",
+      "concepts/Self-Replication Risk (Gray Goo).md",
+      "concepts/Strong AI.md",
+      "concepts/The Body as Data.md",
+      "sources/Kurzweil - The Singularity Is Near - 09 Ch5 - GNR - Three Overlapping Revolutions.md",
+      "tensions/Promise vs Peril.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/10 Ch6 - The Impact.md": {
+    "sha256": "29f76b90707b5ae9ee0cf05bf44710a209a9912680f2387d0494327552ee23e3",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 10 Ch6 - The Impact.md.analysis.md",
+    "generated_files": [
+      "arguments/Biology is dramatically suboptimal and must be transcended not merely repaired.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Decentralization.md",
+      "concepts/Emergence.md",
+      "concepts/Full-Immersion Virtual Reality.md",
+      "concepts/GNR (Genetics Nanotechnology Robotics).md",
+      "concepts/Human Body Version 2.0.md",
+      "concepts/The Body as Data.md",
+      "concepts/The Universe Wakes Up.md",
+      "references/Ray Kurzweil and Byung-Chul Han.md",
+      "sources/Kurzweil - The Singularity Is Near - 10 Ch6 - The Impact.md",
+      "symbols/Smart Dust.md",
+      "tensions/Privacy vs Security.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian.md": {
+    "sha256": "8d9d2db29025b0029f7baa4de4a2f0afdfb763a42417f2f8b6dfced78c3560c7",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 11 Ch7 - Ich bin ein Singularitarian.md.analysis.md",
+    "generated_files": [
+      "arguments/Immortality is contingent on continual maintenance of the mind file.md",
+      "arguments/The human is central after all not dethroned by science.md",
+      "arguments/Whether a machine is conscious is not a scientific question but the fundamental philosophical one.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Patternism.md",
+      "concepts/Re-enchantment.md",
+      "concepts/Singularitarian.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "concepts/The Singularity.md",
+      "concepts/The Universe Wakes Up.md",
+      "sources/Kurzweil - The Singularity Is Near - 11 Ch7 - Ich bin ein Singularitarian.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/12 Ch8 - The Deeply Intertwined Promise and Peril of GNR.md": {
+    "sha256": "9b8c105310b89965fcfdd4702a3df24c050bf2524eb2854b1b67b0242fe7263f",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 12 Ch8 - The Deeply Intertwined Promise and Peril of GNR.md.analysis.md",
+    "generated_files": [
+      "arguments/Broad relinquishment is unworkable and would require totalitarianism and make the dangers worse.md",
+      "arguments/Strong AI cannot be contained only value-aligned because it will be us.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Decentralization.md",
+      "concepts/Defensive Technologies.md",
+      "concepts/GNR (Genetics Nanotechnology Robotics).md",
+      "concepts/Self-Replication Risk (Gray Goo).md",
+      "concepts/Strong AI.md",
+      "references/Ray Kurzweil and Bill Joy.md",
+      "references/Ray Kurzweil and Byung-Chul Han.md",
+      "sources/Kurzweil - The Singularity Is Near - 12 Ch8 - The Deeply Intertwined Promise and Peril of GNR.md",
+      "symbols/Smart Dust.md",
+      "tensions/Privacy vs Security.md",
+      "tensions/Promise vs Peril.md",
+      "tensions/Relinquishment vs Development.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/13 Ch9 - Response to Critics.md": {
+    "sha256": "31478a30530290fd4c95d295f471adb569524feeb56c8a960d6ad70717ea4d33",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 13 Ch9 - Response to Critics.md.analysis.md",
+    "generated_files": [
+      "arguments/The Chinese Room proves nothing because understanding belongs to the whole system not the man.md",
+      "arguments/Whether a machine is conscious is not a scientific question but the fundamental philosophical one.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/Emergence.md",
+      "concepts/Full-Immersion Virtual Reality.md",
+      "concepts/Patternism.md",
+      "concepts/The Hard Problem of Consciousness.md",
+      "references/Ray Kurzweil and John Searle.md",
+      "sources/Kurzweil - The Singularity Is Near - 13 Ch9 - Response to Critics.md"
+    ]
+  },
+  "raw/Kurzweil - The Singularity Is Near/14 Epilogue.md": {
+    "sha256": "42e2a1333aace76df6e9d3fb62986e847b394fdf95eeb0f755f1e334336e52b0",
+    "last_ingested": "2026-06-02",
+    "analysis_file": "_system/analysis/Kurzweil - The Singularity Is Near - 14 Epilogue.md.analysis.md",
+    "generated_files": [
+      "arguments/The human is central after all not dethroned by science.md",
+      "authors/Ray Kurzweil.md",
+      "books/The Singularity Is Near.md",
+      "concepts/The Singularity.md",
+      "concepts/The Universe Wakes Up.md",
+      "metaphors/The Event Horizon of the Singularity.md",
+      "sources/Kurzweil - The Singularity Is Near - 14 Epilogue.md"
+    ]
   }
 }

@@ -32,12 +32,26 @@ page is the operating manual.
 ## Ingest protocol (the whole loop)
 
 1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
-   Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus are
-   DONE. 21 remain.)
+   Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
+   Kurzweil–The Singularity Is Near are DONE. 20 remain.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
-   (e.g. Han's *Burnout Society*, the Kurzweil/Harari pairs) extends the existing author note rather
-   than overwriting it. Pass a strong `updateHints` listing the existing notes to merge into.
+   (e.g. Han's *Burnout Society*, Kurzweil's *Age of Spiritual Machines*, Harari's *Nexus*) extends the
+   existing author note rather than overwriting it. Pass a strong `updateHints` listing the existing
+   notes to merge into. When splitting a book into halves (below), pass Half 2 the exact list of notes
+   Half 1 created so its planner extends them instead of duplicating.
+   **BIG-BOOK RULE (learned on Kurzweil):** for books with > ~8 substantive chapters or very long
+   chapters (≳ 800 lines), **split the ingest into halves of ≤ ~6 chapters each** and run them
+   SEQUENTIALLY (not parallel — they share the book/author note). A single oversized pass makes the
+   synthesis planner overflow and return an EMPTY plan (`CREATE 0`), and the index agent then pollutes
+   the maps with links to phantom notes. The other big books (Acemoglu, McLuhan 38 ch, Zuboff,
+   Soni&Goodman 37 ch, Shiner, Ascott 39 ch, the Kurzweil/Waldrop bios) should be split up front.
+   **VERIFY-ON-DISK + COMMIT EACH PHASE (learned the hard way):** the workflow's reported `created: N`
+   is OPTIMISTIC — content-heavy agents (sources, references, arguments, author-note extensions)
+   sometimes return a path WITHOUT the Write landing. After each run, parse its `create_plan`/`update_plan`
+   and check every file exists on disk; regenerate any missing note with a focused single-note agent
+   (ample budget → reliably persists). Then **`git commit` immediately** — untracked notes have twice
+   vanished during interruptions (likely an Obsidian Git plugin clean/reset); committing makes them safe.
 2. **Inspect**: `ls "raw/<Author - Book>/"` and `wc -l` to find substantive chapters. Skip
    About / Front Matter / Contents / Notes / Index / Acknowledgments / Bibliography.
 3. **Hash**: `cd "raw/<Author - Book>" && for f in <files>; do shasum -a 256 "$f"; done`.

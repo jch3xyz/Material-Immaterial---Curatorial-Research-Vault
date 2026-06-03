@@ -92,7 +92,7 @@ The book is built in two parts across nine chapters plus prologue, epilogue, and
 
 ## Key Symbols
 
-- [[The Singularitarian]] — "someone who understands the Singularity and who has reflected on its implications for his or her own life"; the figure who lives by the prophecy (Kurzweil's self-designation)
+- [[Singularitarian]] — "someone who understands the Singularity and who has reflected on its implications for his or her own life"; the figure who lives by the prophecy (Kurzweil's self-designation)
 - [[The Nanobot]] — the recurring symbolic object of Kurzweil's program: the blood-cell-sized machine that makes the inside of the brain legible, the technological condition of both reverse-engineering and uploading
 - [[Moore's Law]] — the most public emblem of exponential technology, which Kurzweil decenters into merely one of (at least) six computing paradigms
 

@@ -56,7 +56,7 @@ For the vault, the chapter is doubly important. It is the most direct in-the-boo
 
 ## Important Metaphors / Symbols
 
-- [["How Smart Is a Rock?"]] — the central image of the limits section: an ordinary stone already performs about 10^42 cps; intelligence is not a different *kind* of activity but the purposeful organization of computation matter already does. (Forward-stub metaphor — link if realized; otherwise the concept lives in [[The Computational Universe]].)
+- [[How Smart Is a Rock]] — the central image of the limits section: an ordinary stone already performs about 10^42 cps; intelligence is not a different *kind* of activity but the purposeful organization of computation matter already does. (Forward-stub metaphor — link if realized; otherwise the concept lives in [[The Computational Universe]].)
 - "Then our minds won't have to stay so small" — the body-as-cramped-container figure: biology as a confinement the mind will outgrow once ported to a better substrate.
 - "It is still only Spring. Wait until Summer." — Moravec's epigraph; the seasonal metaphor for AI progress as an exponential whose slow early phase is mistaken for permanent barrenness.
 - "A village of human brains" / "all human brains on Earth" — units of measure that domesticate astronomical computational projections.

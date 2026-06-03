@@ -15,7 +15,7 @@ related:
   - "[[Negativity]]"
   - "[[Gleichschaltung]]"
   - "[[Money as Equivalencer]]"
-  - "[[Like Button]]"
+  - "[[The Like Button]]"
   - "[[Smooth Communication]]"
   - "[[Pornography of Information]]"
 confidence: high
@@ -41,7 +41,7 @@ The mapping runs: **circulation of capital, information, and communication ⇒ i
 
 - **Sameness is produced, not given.** The metaphor reframes monoculture as an *active* operation. Transparency is "a systemic compulsion gripping all social processes" that "stabilizes and speeds the system by eliminating the Other and the Alien" (`Directly stated`). Hell, in Han, is engineered.
 - **Money as universal equivalencer.** "Money, which makes it possible to equate anything with anything else, abolishes all incommensurability, any and all singularity." The metaphor reveals capital as one of the principal *infernal mechanisms*: it produces the Same by pricing the singular out of existence. See [[Money as Equivalencer]].
-- **The Like-button as adjacent figure.** "The general consensus of the society of positivity is 'Like.'" Facebook's refusal of a "Dislike" button is, in Han's terms, infernal architecture: it ensures that "a chain reaction of likeness" can occur without negative friction. See [[Like Button]].
+- **The Like-button as adjacent figure.** "The general consensus of the society of positivity is 'Like.'" Facebook's refusal of a "Dislike" button is, in Han's terms, infernal architecture: it ensures that "a chain reaction of likeness" can occur without negative friction. See [[The Like Button]].
 - **Hell is fast.** The metaphor binds *sameness* to *acceleration*: "Communication reaches its maximum velocity where like responds to like." The inferno's defining tempo is the speed of frictionless circulation (`Directly stated`).
 - **Totalitarian undertone.** Han glosses transparency with the citation "New word for *Gleichschaltung*: Transparency." The hell-of-the-same metaphor inherits this political weight — the inferno is a *calibrated* society. See [[Gleichschaltung]].
 - **Pornography, theatocracy, postpolitics belong to the same hell.** Images "freed from all dramaturgy . . . from any meaning at all" become pornographic; politics without the arcanum becomes mere staging; opinions without ideology leave "what already exists untouched." All are forms of the Same. See [[Pornography of Information]], [[Postpolitics|Postpolitical]].
@@ -63,7 +63,7 @@ The mapping runs: **circulation of capital, information, and communication ⇒ i
 - [[Negativity]]
 - [[Smooth Communication]]
 - [[Money as Equivalencer]] — adjacent figure: money as the operator that produces the Same
-- [[Like Button]] — adjacent figure: the "Like" as infernal consensus
+- [[The Like Button]] — adjacent figure: the "Like" as infernal consensus
 - [[Gleichschaltung]] — political-historical resonance Han explicitly invokes
 - [[Pornography of Information]] — images stripped of negativity belong to the same inferno
 - [[Postpolitics|Postpolitical]] — the political form proper to the inferno of the same
@@ -102,4 +102,4 @@ Relevant passage:
 
 > The general consensus of the society of positivity is "Like." It is telling that Facebook has consistently refused to introduce a "Dislike" button. The society of positivity avoids negativity in all forms because negativity makes communication stall.
 
-Supports: Grounds the adjacent figure of the [[Like Button]] as a concrete instance of the inferno of the same — a designed-in refusal of negative judgment that keeps the chain reaction of likeness running. Label: `Directly stated`.
+Supports: Grounds the adjacent figure of the [[The Like Button]] as a concrete instance of the inferno of the same — a designed-in refusal of negative judgment that keeps the chain reaction of likeness running. Label: `Directly stated`.

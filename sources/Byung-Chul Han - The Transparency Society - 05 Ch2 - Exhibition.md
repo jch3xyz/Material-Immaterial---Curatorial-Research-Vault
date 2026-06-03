@@ -50,7 +50,7 @@ The chapter's rhetorical posture is polemical and diagnostic. Han equates exhibi
 
 ## Important Definitions
 
-- [[Exhibition Value (Han)]] — "It is not use value because it stands removed from the sphere of utility; it is not exchange value because it does not reflect any labor. It exists thanks only to the attention it produces."
+- [[Exhibition Value]] — "It is not use value because it stands removed from the sphere of utility; it is not exchange value because it does not reflect any labor. It exists thanks only to the attention it produces."
 - [[Face (Han)]] — "a visage on display, 'strip[ped] of its aura' . . . the commodity form of the 'human countenance.'"
 - [[Dwelling (Han via Heidegger)]] — "to be at peace, to be brought to peace, to remain in peace [zufrieden sein, zum Frieden gebracht, in ihm bleiben]."
 - [[Obscenity (Han via Baudrillard)]] — "things visible do not come to an end in obscurity and silence — instead they fade into the more visible than visible: obscenity."

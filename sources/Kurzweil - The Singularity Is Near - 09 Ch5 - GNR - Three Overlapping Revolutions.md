@@ -27,7 +27,7 @@ For the vault, chapter 5 is the primary-source anchor for a cluster of Kurzweil-
 
 ## Key Concepts
 
-- [[GNR (Genetics, Nanotechnology, Robotics)]] — the chapter's organizing concept; three compounding, time-overlapping revolutions that constitute Epoch Five / the early Singularity; each conquers the prior revolution's limits and raises a graver peril (bioengineered viruses under G, self-replicating nanobots under N, pathological superintelligence under R).
+- [[GNR (Genetics Nanotechnology Robotics)]] — the chapter's organizing concept; three compounding, time-overlapping revolutions that constitute Epoch Five / the early Singularity; each conquers the prior revolution's limits and raises a graver peril (bioengineered viruses under G, self-replicating nanobots under N, pathological superintelligence under R).
 - [[Strong AI]] — the "R" in GNR; machine intelligence that exceeds unenhanced human intelligence; once at human level it "necessarily soar[s] past it" via double-exponential ascent; Kurzweil's central claim is that "a more intelligent process will inherently outcompete one that is less intelligent, making intelligence the most powerful force in the universe."
 - [[Narrow AI]] — artificial intelligence that performs "a useful and specific function that once required human intelligence... and does so at human levels or better"; Kurzweil argues the "AI winter" is a myth and documents the already-ubiquitous deployment of narrow AI across medicine, finance, military, and media.
 - [[Molecular Manufacturing]] — Drexler's molecular assembler; a tabletop device that builds "almost any physically possible product for which we have a software description"; incremental cost "pennies per pound"; once operational, product value "would be based essentially on information" — the chapter's strongest single witness for [[Material vs Immaterial]].
@@ -43,12 +43,12 @@ For the vault, chapter 5 is the primary-source anchor for a cluster of Kurzweil-
 
 ## Key Arguments
 
-- **R is the most profound revolution because a more intelligent process outcompetes everything less intelligent.** Intelligence is self-amplifying: machines share knowledge instantly, have exact memory, combine peak skills, and undergo double-exponential ascent once at human level; nanotech is "powerful but not necessarily intelligent." Supports: [[Strong AI]], [[GNR (Genetics, Nanotechnology, Robotics)]]. (Directly stated)
+- **R is the most profound revolution because a more intelligent process outcompetes everything less intelligent.** Intelligence is self-amplifying: machines share knowledge instantly, have exact memory, combine peak skills, and undergo double-exponential ascent once at human level; nanotech is "powerful but not necessarily intelligent." Supports: [[Strong AI]], [[GNR (Genetics Nanotechnology Robotics)]]. (Directly stated)
 - **Biology, however perfectly tuned, is fundamentally suboptimal; nanotech and AI must transcend, not merely repair it.** Even fully reprogrammed DNA-based biology leaves us "second-class robots" (Moravec); nanobots are "thousands of times faster and stronger than biological cells"; nanotube computation is "millions of times faster" than interneuronal switching. Supports: [[Strong AI]], [[Transhumanism]], [[Material vs Immaterial]]. (Directly stated)
 - **Once molecular manufacturing arrives, the value of all physical objects collapses into information.** Assemblers reduce material cost to "pennies per pound"; the only real cost is the software description; product value "gradually approach[es] an asymptote of 100 percent of their value." Supports: [[Molecular Manufacturing]], [[Material vs Immaterial]], [[The Law of Accelerating Returns]]. (Directly stated)
 - **Aging and death are not destiny but a group of debuggable information processes.** De Grey's seven aging processes, each with a reversal strategy; the house-maintenance metaphor; C. elegans lifespan extended sixfold by gene modification; telomerase, RNAi, transdifferentiation. Supports: [[Radical Life Extension]], [[The Body as Data]]. (Directly stated)
 - **Critics' "we don't have X today, therefore X is impossible" reasoning is systematically wrong.** Biology itself proves molecular assembly is possible ("if Smalley's critique were valid, none of us would be here"); the AI winter is a myth; narrow AI is ubiquitous. Supports: [[The Law of Accelerating Returns]], [[Narrow AI]]. (Directly stated)
-- **Relinquishment of dangerous technologies forfeits both the defense and the promise.** The software-virus analogy: we did not abandon the Internet; we built a "technological immune system." Denying the feasibility of molecular assembly also denies its potential. Supports: [[GNR (Genetics, Nanotechnology, Robotics)]], [[Promise vs Peril]]. (Directly stated)
+- **Relinquishment of dangerous technologies forfeits both the defense and the promise.** The software-virus analogy: we did not abandon the Internet; we built a "technological immune system." Denying the feasibility of molecular assembly also denies its potential. Supports: [[GNR (Genetics Nanotechnology Robotics)]], [[Promise vs Peril]]. (Directly stated)
 
 ## Important Definitions
 
@@ -88,7 +88,7 @@ For the vault, chapter 5 is the primary-source anchor for a cluster of Kurzweil-
 
 - [[The Singularity Is Near]] — book
 - [[Ray Kurzweil]] — author
-- [[GNR (Genetics, Nanotechnology, Robotics)]] — the chapter's organizing concept (forward-stub: create)
+- [[GNR (Genetics Nanotechnology Robotics)]] — the chapter's organizing concept (forward-stub: create)
 - [[Strong AI]] — the R revolution (forward-stub: create)
 - [[Narrow AI]] — ubiquitous current state of the field (forward-stub: create)
 - [[Molecular Manufacturing]] — the universal assembler (forward-stub: create)
@@ -126,7 +126,7 @@ For the vault, chapter 5 is the primary-source anchor for a cluster of Kurzweil-
 
 > The first half of the twenty-first century will be characterized by three overlapping revolutions—in Genetics, Nanotechnology, and Robotics. These will usher in what I referred to earlier as Epoch Five, the beginning of the Singularity. We are in the early stages of the "G" revolution today. By understanding the information processes underlying life, we are starting to learn to reprogram our biology to achieve the virtual elimination of disease, dramatic expansion of human potential, and radical life extension. Hans Moravec points out, however, that no matter how successfully we fine-tune our DNA-based biology, humans will remain "second-class robots," meaning that biology will never be able to match what we will be able to engineer once we fully understand biology's principles of operation.
 
-Supports: [[GNR (Genetics, Nanotechnology, Robotics)]], [[Radical Life Extension]], [[Transhumanism]], [[Material vs Immaterial]]
+Supports: [[GNR (Genetics Nanotechnology Robotics)]], [[Radical Life Extension]], [[Transhumanism]], [[Material vs Immaterial]]
 Confidence: Directly stated
 
 ---
@@ -153,7 +153,7 @@ Confidence: Directly stated
 
 > Of the three primary revolutions underlying the Singularity (G, N, and R), the most profound is R, which refers to the creation of nonbiological intelligence that exceeds that of unenhanced humans. A more intelligent process will inherently outcompete one that is less intelligent, making intelligence the most powerful force in the universe.
 
-Supports: [[Strong AI]], [[GNR (Genetics, Nanotechnology, Robotics)]], [[The Singularity]]
+Supports: [[Strong AI]], [[GNR (Genetics Nanotechnology Robotics)]], [[The Singularity]]
 Confidence: Directly stated
 
 ---
@@ -192,7 +192,7 @@ Confidence: Directly stated
 
 > Nanotechnology is powerful but not necessarily intelligent. We can devise ways of at least trying to manage the enormous powers of nanotechnology, but superintelligence innately cannot be controlled.
 
-Supports: [[Strong AI]], [[Promise vs Peril]], [[GNR (Genetics, Nanotechnology, Robotics)]]
+Supports: [[Strong AI]], [[Promise vs Peril]], [[GNR (Genetics Nanotechnology Robotics)]]
 Confidence: Directly stated
 
 ---
