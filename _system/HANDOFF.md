@@ -33,10 +33,13 @@ page is the operating manual.
 
 1. **Pick a book** not yet in the cache. (As of 2026-06-02: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
-   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 19 remain.)
+   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto are DONE. 15 remain. NOTE: the corpus
+   is now **23 books** — on 2026-06-02 the user intentionally removed 4 books (Acemoglu & Johnson–Power and
+   Progress, Harari–Nexus, Shiner–The Invention of Art, Turner–From Counterculture to Cyberculture) from
+   `raw/` and the plan; do not treat those as pending ingests.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
-   (e.g. Han's *Burnout Society*, Kurzweil's *Age of Spiritual Machines*, Harari's *Nexus*) extends the
+   (e.g. Han's *Burnout Society*, Kurzweil's *Age of Spiritual Machines*) extends the
    existing author note rather than overwriting it. Pass a strong `updateHints` listing the existing
    notes to merge into. When splitting a book into halves (below), pass Half 2 the exact list of notes
    Half 1 created so its planner extends them instead of duplicating.
@@ -44,20 +47,23 @@ page is the operating manual.
    chapters (≳ 800 lines), **split the ingest into halves of ≤ ~6 chapters each** and run them
    SEQUENTIALLY (not parallel — they share the book/author note). A single oversized pass makes the
    synthesis planner overflow and return an EMPTY plan (`CREATE 0`), and the index agent then pollutes
-   the maps with links to phantom notes. The other big books (Acemoglu, McLuhan 38 ch, Zuboff,
-   Soni&Goodman 37 ch, Shiner, Ascott 39 ch, the Kurzweil/Waldrop bios) should be split up front.
+   the maps with links to phantom notes. The other big books (McLuhan 38 ch, Zuboff,
+   Soni&Goodman 37 ch, Ascott 39 ch, the Kurzweil/Waldrop bios) should be split up front.
    **VERIFY-ON-DISK + COMMIT EACH PHASE (learned the hard way):** the workflow's reported `created: N`
    is OPTIMISTIC — content-heavy agents (sources, references, arguments, author-note extensions)
    sometimes return a path WITHOUT the Write landing. After each run, parse its `create_plan`/`update_plan`
    and check every file exists on disk; regenerate any missing note with a focused single-note agent
    (ample budget → reliably persists). Then **`git commit` immediately** — untracked notes have twice
    vanished during interruptions (likely an Obsidian Git plugin clean/reset); committing makes them safe.
-   **NEVER `git add -A` / `git add .` after an ingest (learned on Haraway):** the same clean/reset process
-   has also **deleted *tracked* `raw/` folders mid-run** (on the Haraway pass: Acemoglu, Harari–Nexus, Shiner,
-   Turner — all future ingest sources, no vault notes lost). A blanket add would commit those deletions and
-   destroy the sources. Instead: (a) inspect `git status` first; (b) if any `raw/` files show as deleted, restore
-   them with `git checkout HEAD -- "raw/<folder>"`; (c) stage ONLY the note folders explicitly
-   (`git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`).
+   **DON'T `git add -A` / `git add .` after an ingest; stage note folders explicitly:**
+   `git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`.
+   A blanket add sweeps in unrelated working-tree state (`.obsidian/` UI churn, `.DS_Store`) and, more
+   importantly, any `raw/` changes. If `git status` shows `raw/` files **deleted**, STOP and find out why
+   before acting — it may be an intentional user edit, not an accident. (On the Haraway pass, 4 `raw/` book
+   folders showed as deleted mid-run; I first assumed the interruption-loss failure mode above and restored
+   them with `git checkout HEAD -- "raw/<folder>"`, but the user had deleted them **on purpose** — those 4
+   books were dropped from the corpus on 2026-06-02 and the deletion was committed. So: surface unexpected
+   `raw/` deletions, don't reflexively restore or commit them.)
    Also: the durable monograph workflow's top-level `args` does NOT bind through `scriptPath` — run it via a thin
    wrapper script that calls `workflow({scriptPath: ".../ingest-book.monograph.js"}, ARGS)` with the args inlined.
 2. **Inspect**: `ls "raw/<Author - Book>/"` and `wc -l` to find substantive chapters. Skip

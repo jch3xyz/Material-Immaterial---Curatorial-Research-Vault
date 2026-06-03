@@ -1,46 +1,53 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 # Source Inventory
 
-Map of `raw/` as of 2026-06-01. Each book lives in its own folder and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
+The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
+
+> **Corpus size: 23 books** (was 27). On 2026-06-02 the user intentionally removed 4 books from `raw/` and the corpus — see **Removed from corpus** below. Separately, several listed books are part of the plan but their `raw/` files are not in the repo yet (currently 16 book folders are present on disk); the table is the intended corpus, not a literal disk snapshot.
 
 ## Books in `raw/`
 
 | #   | Folder                                         | Files | Author              | Likely substantive units       |
 | --- | ---------------------------------------------- | ----- | ------------------- | ------------------------------ |
-| 1   | `Acemoglu & Johnson - Power and Progress`      | 20    | Acemoglu & Johnson  | front + chapters + back        |
-| 2   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | essay collection               |
-| 3   | `Benjamin - Illuminations`                     | 16    | Walter Benjamin     | essays                         |
-| 4   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | chapters                       |
-| 5   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | 9 chapters + preface           |
-| 6   | `Debord - The Society of the Spectacle`        | 15    | Guy Debord          | 9 chapters                     |
-| 7   | `Donella Meadows - Thinking in Systems`        | 19    | Donella Meadows     | 7 chapters + intro             |
-| 8   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | chapters                       |
-| 9   | `Han - The Burnout Society`                    | 11    | Byung-Chul Han      | chapters                       |
-| 10  | `Harari - Homo Deus`                           | 17    | Yuval Noah Harari   | chapters                       |
-| 11  | `Harari - Nexus`                               | 19    | Yuval Noah Harari   | chapters                       |
-| 12  | `Haraway - A Cyborg Manifesto`                 | 9     | Donna Haraway       | essay sections                 |
-| 13  | `Hayles - How We Became Posthuman`             | 15    | N. Katherine Hayles | chapters                       |
-| 14  | `Kurzweil - The Age of Spiritual Machines`     | 25    | Ray Kurzweil        | chapters                       |
-| 15  | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | chapters                       |
-| 16  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | sections                       |
-| 17  | `Marcuse - Eros and Civilization`              | 18    | Herbert Marcuse     | chapters                       |
-| 18  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | many short chapters            |
-| 19  | `Norman - The Design of Everyday Things`       | 15    | Don Norman          | chapters                       |
-| 20  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | chapters                       |
-| 21  | `Price - Dispersion`                           | 2     | Seth Price          | short essay                    |
-| 22  | `Shiner - The Invention of Art`                | 26    | Larry Shiner        | chapters                       |
-| 23  | `Soni & Goodman - A Mind at Play`              | 37    | Soni & Goodman      | chapters (Shannon biography)   |
-| 24  | `Turner - From Counterculture to Cyberculture` | 13    | Fred Turner         | chapters                       |
-| 25  | `Vierkant - The Image Object Post-Internet`    | 4     | Artie Vierkant      | short manifesto                |
-| 26  | `Waldrop - The Dream Machine`                  | 16    | M. Mitchell Waldrop | chapters (Licklider biography) |
-| 27  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | chapters                       |
+| 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | essay collection               |
+| 2   | `Benjamin - Illuminations`                     | 16    | Walter Benjamin     | essays                         |
+| 3   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | chapters                       |
+| 4   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | 9 chapters + preface           |
+| 5   | `Debord - The Society of the Spectacle`        | 15    | Guy Debord          | 9 chapters                     |
+| 6   | `Donella Meadows - Thinking in Systems`        | 19    | Donella Meadows     | 7 chapters + intro             |
+| 7   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | chapters                       |
+| 8   | `Han - The Burnout Society`                    | 11    | Byung-Chul Han      | chapters                       |
+| 9   | `Harari - Homo Deus`                           | 17    | Yuval Noah Harari   | chapters                       |
+| 10  | `Haraway - A Cyborg Manifesto`                 | 9     | Donna Haraway       | essay sections                 |
+| 11  | `Hayles - How We Became Posthuman`             | 15    | N. Katherine Hayles | chapters                       |
+| 12  | `Kurzweil - The Age of Spiritual Machines`     | 25    | Ray Kurzweil        | chapters                       |
+| 13  | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | chapters                       |
+| 14  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | sections                       |
+| 15  | `Marcuse - Eros and Civilization`              | 18    | Herbert Marcuse     | chapters                       |
+| 16  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | many short chapters            |
+| 17  | `Norman - The Design of Everyday Things`       | 15    | Don Norman          | chapters                       |
+| 18  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | chapters                       |
+| 19  | `Price - Dispersion`                           | 2     | Seth Price          | short essay                    |
+| 20  | `Soni & Goodman - A Mind at Play`              | 37    | Soni & Goodman      | chapters (Shannon biography)   |
+| 21  | `Vierkant - The Image Object Post-Internet`    | 4     | Artie Vierkant      | short manifesto                |
+| 22  | `Waldrop - The Dream Machine`                  | 16    | M. Mitchell Waldrop | chapters (Licklider biography) |
+| 23  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | chapters                       |
 
-Total: 27 books, 485 raw markdown files.
+Total: 23 books, 407 raw markdown files (planned). Of these, 8 are ingested (see `log.md`) and 16 book folders are currently present on disk.
+
+## Removed from corpus
+
+Intentionally deleted by the user on 2026-06-02 (removed from `raw/` and committed; were previously tracked in git, recoverable from history if ever needed):
+
+- `Acemoglu & Johnson - Power and Progress` (Daron Acemoglu & Simon Johnson)
+- `Harari - Nexus` (Yuval Noah Harari)
+- `Shiner - The Invention of Art` (Larry Shiner)
+- `Turner - From Counterculture to Cyberculture` (Fred Turner)
 
 ## Standard Non-Substantive Files (skipped by default)
 
@@ -54,14 +61,13 @@ These files typically appear in each book folder and are skipped by analysis unl
 
 ## Author → Books Mapping
 
-- **Daron Acemoglu & Simon Johnson** — Power and Progress
 - **Roy Ascott** — Telematic Embrace
 - **Walter Benjamin** — Illuminations
 - **Jack Burnham** — Beyond Modern Sculpture
 - **Byung-Chul Han** — The Transparency Society, Psychopolitics, The Burnout Society
 - **Guy Debord** — The Society of the Spectacle
 - **Donella Meadows** — Thinking in Systems
-- **Yuval Noah Harari** — Homo Deus, Nexus
+- **Yuval Noah Harari** — Homo Deus
 - **Donna Haraway** — A Cyborg Manifesto
 - **N. Katherine Hayles** — How We Became Posthuman
 - **Ray Kurzweil** — The Age of Spiritual Machines, The Singularity Is Near
@@ -71,9 +77,7 @@ These files typically appear in each book folder and are skipped by analysis unl
 - **Don Norman** — The Design of Everyday Things
 - **Meghan O'Gieblyn** — God Human Animal Machine
 - **Seth Price** — Dispersion
-- **Larry Shiner** — The Invention of Art
 - **Jimmy Soni & Rob Goodman** — A Mind at Play
-- **Fred Turner** — From Counterculture to Cyberculture
 - **Artie Vierkant** — The Image Object Post-Internet
 - **M. Mitchell Waldrop** — The Dream Machine
 - **Shoshana Zuboff** — The Age of Surveillance Capitalism
