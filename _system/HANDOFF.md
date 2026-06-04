@@ -31,14 +31,15 @@ page is the operating manual.
 
 ## Ingest protocol (the whole loop)
 
-1. **Pick a book** not yet in the cache. (As of 2026-06-03: Han–Transparency, Hayles–Posthuman,
+1. **Pick a book** not yet in the cache. (As of 2026-06-04: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
-   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media are DONE.
-   7 remain. NOTE: the corpus is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media,
+   Han–*The Burnout Society* are DONE.
+   6 remain. NOTE: the corpus is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
    intentionally removed 11 books from the plan (see `source_inventory.md` → Removed from corpus: Acemoglu,
    Harari–Nexus, Shiner, Turner, Kurzweil–*Age of Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman,
-   Vierkant, Waldrop); do not treat any of those as pending ingests. The 7 remaining: Ascott, Benjamin, Burnham,
-   Debord, Meadows, Han–*Burnout Society*, Zuboff.)
+   Vierkant, Waldrop); do not treat any of those as pending ingests. The 6 remaining: Ascott, Benjamin, Burnham,
+   Debord, Meadows, Zuboff.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
@@ -62,6 +63,10 @@ page is the operating manual.
    agent(prompt,opts)}catch{} return null }`) — 4 tries for analysis/planners, 2 for generation. Keep
    prompt/opts byte-identical so `resumeFromRunId` still cache-hits prior successes. On McLuhan the first
    run aborted on 3/34 analysis agents; the wrapper + resume (cached 31, re-ran 3) recovered cleanly.
+   **As of 2026-06-04 the `safeAgent` wrapper is BAKED INTO the durable monograph workflow**
+   (`ingest-book.monograph.js`) at every analysis/plan/generation/index call site — so a standard
+   monograph ingest no longer needs a custom wrapper; the Burnout Society run completed clean on the
+   first try. (A custom big-book workflow like McLuhan's must still include its own copy of `safeAgent`.)
    **VERIFY-ON-DISK + COMMIT EACH PHASE (learned the hard way):** the workflow's reported `created: N`
    is OPTIMISTIC — content-heavy agents (sources, references, arguments, author-note extensions)
    sometimes return a path WITHOUT the Write landing. After each run, parse its `create_plan`/`update_plan`
