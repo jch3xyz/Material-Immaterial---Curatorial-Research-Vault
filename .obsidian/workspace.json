@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9a1110a7e658a5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd07e25aca246de",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/Ray Kurzweil and N. Katherine Hayles.md",
+                "file": "maps/Reading Pathways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ray Kurzweil and N. Katherine Hayles"
+              "title": "Reading Pathways"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ad098717df1d7c4",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Ray Kurzweil and N. Katherine Hayles.md",
+                "file": "maps/Reading Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ray Kurzweil and N. Katherine Hayles"
+              "title": "Backlinks for Reading Pathways"
             }
           },
           {
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,34 +202,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8bd07e25aca246de",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory.md",
+    "raw/Byung-Chul Han - The Agony of Eros/06 Fantasy.md",
+    "raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros.md",
+    "raw/Byung-Chul Han - The Agony of Eros/05 Porn.md",
+    "raw/Byung-Chul Han - The Agony of Eros/04 Bare Life.md",
+    "raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able.md",
+    "raw/Byung-Chul Han - The Agony of Eros/02 Melancholia.md",
+    "raw/Byung-Chul Han - The Agony of Eros/01 Foreword - The Reinvention of Love.md",
+    "raw/Byung-Chul Han - The Agony of Eros/00 [About].md",
+    "raw/Byung-Chul Han - The Agony of Eros",
+    "Byung-Chul Han - The Agony of Eros/08 The End of Theory.md",
+    "Byung-Chul Han - The Agony of Eros/06 Fantasy.md",
+    "Byung-Chul Han - The Agony of Eros/07 The Politics of Eros.md",
+    "Byung-Chul Han - The Agony of Eros/05 Porn.md",
+    "Byung-Chul Han - The Agony of Eros/04 Bare Life.md",
+    "Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able.md",
+    "Byung-Chul Han - The Agony of Eros/02 Melancholia.md",
+    "Byung-Chul Han - The Agony of Eros/01 Foreword - The Reinvention of Love.md",
+    "Byung-Chul Han - The Agony of Eros/00 [About].md",
+    "Byung-Chul Han - The Agony of Eros",
+    "metaphors/The Body as Congealed Metaphor.md",
+    "references/Ray Kurzweil and N. Katherine Hayles.md",
     "sources/McLuhan - Understanding Media - 37 Chapter 33 - Automation - Learning a Living.md",
     "sources/McLuhan - Understanding Media - 35 Chapter 31 - Television - The Timid Giant.md",
     "arguments/The consumer becomes producer in the automation circuit.md",
     "sources/McLuhan - Understanding Media - 34 Chapter 30 - Radio - The Tribal Drum.md",
     "sources/McLuhan - Understanding Media - 36 Chapter 32 - Weapons - War of the Icons.md",
     "arguments/Automation is the electric invasion of the mechanical world.md",
-    "sources/McLuhan - Understanding Media - 33 Chapter 29 - Movies - The Reel World.md",
-    "sources/McLuhan - Understanding Media - 31 Chapter 27 - The Telephone - Sounding Brass or Tinkling Symbol.md",
-    "sources/McLuhan - Understanding Media - 32 Chapter 28 - Phonograph - The Toy That Shrank the National Chest.md",
-    "sources/McLuhan - Understanding Media - 29 Chapter 25 - Telegraph - The Social Hormone.md",
-    "sources/McLuhan - Understanding Media - 30 Chapter 26 - The Typewriter - Into the Age of the Iron Whim.md",
-    "sources/McLuhan - Understanding Media - 24 Chapter 20 - The Photograph - The Brothel-without-Walls.md",
-    "sources/McLuhan - Understanding Media - 28 Chapter 24 - Games - The Extensions of Man.md",
-    "sources/McLuhan - Understanding Media - 27 Chapter 23 - Ads - Keeping Upset with the Joneses.md",
-    "sources/McLuhan - Understanding Media - 25 Chapter 21 - Press - Government by News Leak.md",
-    "sources/McLuhan - Understanding Media - 26 Chapter 22 - Motorcar - The Mechanical Bride.md",
-    "sources/McLuhan - Understanding Media - 22 Chapter 18 - The Printed Word - Architect of Nationalism.md",
-    "sources/McLuhan - Understanding Media - 21 Chapter 17 - Comics - Mad Vestibule to TV.md",
-    "sources/McLuhan - Understanding Media - 23 Chapter 19 - Wheel, Bicycle, and Airplane.md",
-    "sources/McLuhan - Understanding Media - 18 Chapter 14 - Money - The Poor Man's Credit Card.md",
-    "sources/McLuhan - Understanding Media - 19 Chapter 15 - Clocks - The Scent of Time.md",
-    "sources/McLuhan - Understanding Media - 20 Chapter 16 - The Print - How to Dig It.md",
-    "sources/McLuhan - Understanding Media - 17 Chapter 13 - Housing - New Look and New Outlook.md",
-    "sources/McLuhan - Understanding Media - 16 Chapter 12 - Clothing - Our Extended Skin.md",
-    "sources/McLuhan - Understanding Media - 14 Chapter 10 - Roads and Paper Routes.md",
-    "sources/McLuhan - Understanding Media - 15 Chapter 11 - Number - Profile of the Crowd.md",
     "metaphors/Consciousness Without Walls.md.tmp.42862.50da67da4bd4",
     "_system/workflows/_run_mcluhan.js",
     "raw/Turner - From Counterculture to Cyberculture",
@@ -237,8 +241,6 @@
     "_system/workflows/_run_haraway.js",
     "Untitled.canvas",
     "tensions/Free Will vs Determinism.md.tmp.35303.02c30efb1542",
-    "raw/Kandinsky - On the Spiritual in Art",
-    "02-Sources/Essays/AI Is Inherently Evil",
     "Thinking In Systems/attachments/NMN THEORY OF CHANGE (Poster (US)).png.png",
     "Thinking In Systems/attachments/3BC72856-CEC2-48B7-A92A-BB96819607F9.png",
     "Thinking In Systems/attachments/IMG_0173.jpeg",

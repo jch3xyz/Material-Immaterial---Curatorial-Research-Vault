@@ -122,7 +122,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Ads are the richest daily reflection a society ever made of itself]] — ad teams out-research sociologists; the acceptable ad dramatizes communal experience
 - [[Games are extensions of the social man and are mass media]] — games extend social man, model a culture, and are therefore mass media
 - [[Games are counter-irritants to the stress of specialist labor and stave off automatism]] — a society without games sinks into the zombie trance of automation
-- [[Hitler's rise was a media effect of radio's form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
+- [[Hitler's rise was a media effect of radios form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
 - [[Automation ends jobs and subjects but fuses work and learning]] — the structural argument anchoring automation as learning a living
 - [[Automation liberates men into the role of artist]] — McLuhan's most utopian claim; cross-linked to its critics Han, Harari, and Lippard
 
@@ -212,10 +212,6 @@ All argument notes in `arguments/`, grouped by author and book.
 ### On art, labour, and the economy
 
 - [[The homework economy is made possible by not caused by the new technologies]] — the feminization of work as the material substrate; technology as enabling condition, not cause (Haraway)
-- [[Automation ends jobs and subjects but fuses work and learning]] — automation dissolving the job into a single process of work-as-learning (McLuhan)
-- [[Automation liberates men into the role of artist]] — the utopian claim that automation returns men to the role of artist; read against Han, Harari, and Lippard (McLuhan)
-- [[Art is the only known immunity to technological trauma so the artist is indispensable to survival]] — the artist as the culture's immune system against media shock (McLuhan)
-- [[Advertising will liquidate itself by its own success]] — advertising self-liquidating at the terminus of programmed harmony (McLuhan)
 
 ### On religion, meaning, and disenchantment (O'Gieblyn)
 
