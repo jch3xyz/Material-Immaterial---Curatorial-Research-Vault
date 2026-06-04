@@ -1,39 +1,48 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Source Inventory
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 16 books** (was 27). On 2026-06-02 the user intentionally removed 11 books — see **Removed from corpus** below. The inventory now matches the disk exactly: all 16 books are present in `raw/`. Of the 16, **8 are ingested** and 8 remain.
+> **Corpus size: 12 books** (was 27 → 16 → 12). On 2026-06-02 the user removed 11 books, then on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff) — see **Removed from corpus** below. The inventory now matches the disk exactly: all 12 books are present in `raw/`. Of the 12, **10 are ingested** and **2 remain (Ascott, Burnham)**.
 
 ## Books in `raw/`
 
-| #   | Folder                                         | Files | Author              | Likely substantive units       |
-| --- | ---------------------------------------------- | ----- | ------------------- | ------------------------------ |
-| 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | essay collection               |
-| 2   | `Benjamin - Illuminations`                     | 16    | Walter Benjamin     | essays                         |
-| 3   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | chapters                       |
-| 4   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | 9 chapters + preface           |
-| 5   | `Debord - The Society of the Spectacle`        | 15    | Guy Debord          | 9 chapters                     |
-| 6   | `Donella Meadows - Thinking in Systems`        | 19    | Donella Meadows     | 7 chapters + intro             |
-| 7   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | chapters                       |
-| 8   | `Han - The Burnout Society`                    | 11    | Byung-Chul Han      | chapters                       |
-| 9   | `Harari - Homo Deus`                           | 17    | Yuval Noah Harari   | chapters                       |
-| 10  | `Haraway - A Cyborg Manifesto`                 | 9     | Donna Haraway       | essay sections                 |
-| 11  | `Hayles - How We Became Posthuman`             | 15    | N. Katherine Hayles | chapters                       |
-| 12  | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | chapters                       |
-| 13  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | sections                       |
-| 14  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | many short chapters            |
-| 15  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | chapters                       |
-| 16  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | chapters                       |
+| #   | Folder                                         | Files | Author              | Status   |
+| --- | ---------------------------------------------- | ----- | ------------------- | -------- |
+| 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | **TODO** |
+| 2   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | **TODO** |
+| 3   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | ingested |
+| 4   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | ingested |
+| 5   | `Han - The Burnout Society`                    | 11    | Byung-Chul Han      | ingested |
+| 6   | `Harari - Homo Deus`                           | 17    | Yuval Noah Harari   | ingested |
+| 7   | `Haraway - A Cyborg Manifesto`                 | 9     | Donna Haraway       | ingested |
+| 8   | `Hayles - How We Became Posthuman`             | 15    | N. Katherine Hayles | ingested |
+| 9   | `Kurzweil - The Singularity Is Near`           | 18    | Ray Kurzweil        | ingested |
+| 10  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | ingested |
+| 11  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | ingested |
+| 12  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | ingested |
 
-Total: 16 books, 292 raw markdown files (matches disk). 8 ingested (see `log.md`); 8 remain.
+Total: 12 books, 217 raw markdown files (matches disk). 10 ingested (see `log.md`); 2 remain (Ascott, Burnham).
 
 ## Removed from corpus
+
+### Removed 2026-06-04 (4)
+
+Intentionally removed by the user after the Burnout Society ingest, trimming the corpus from 16 → 12. `raw/` is gitignored, so these were deleted from disk only (no git action needed):
+
+- `Benjamin - Illuminations` (Walter Benjamin)
+- `Debord - The Society of the Spectacle` (Guy Debord)
+- `Donella Meadows - Thinking in Systems` (Donella Meadows)
+- `Zuboff - The Age of Surveillance Capitalism` (Shoshana Zuboff)
+
+> Note: forward-stub links to these authors/works (e.g. `[[Walter Benjamin]]`, `[[The Society of the Spectacle]]`, `[[Shoshana Zuboff]]`, `[[The Age of Surveillance Capitalism]]`) remain valid as forward-stubs per policy — they simply will not be realized from a primary source now.
+
+### Removed 2026-06-02 (11)
 
 All 11 intentionally removed by the user on 2026-06-02. Four had `raw/` files tracked in git (deleted via `git rm` and committed — recoverable from history); seven were plan entries whose `raw/` files were never in the repo.
 
@@ -66,12 +75,9 @@ These files typically appear in each book folder and are skipped by analysis unl
 
 ## Author → Books Mapping
 
-- **Roy Ascott** — Telematic Embrace
-- **Walter Benjamin** — Illuminations
-- **Jack Burnham** — Beyond Modern Sculpture
+- **Roy Ascott** — Telematic Embrace *(TODO)*
+- **Jack Burnham** — Beyond Modern Sculpture *(TODO)*
 - **Byung-Chul Han** — The Transparency Society, Psychopolitics, The Burnout Society
-- **Guy Debord** — The Society of the Spectacle
-- **Donella Meadows** — Thinking in Systems
 - **Yuval Noah Harari** — Homo Deus
 - **Donna Haraway** — A Cyborg Manifesto
 - **N. Katherine Hayles** — How We Became Posthuman
@@ -79,7 +85,6 @@ These files typically appear in each book folder and are skipped by analysis unl
 - **Lucy Lippard** — Six Years
 - **Marshall McLuhan** — Understanding Media
 - **Meghan O'Gieblyn** — God Human Animal Machine
-- **Shoshana Zuboff** — The Age of Surveillance Capitalism
 
 ## Prototype Book (Phase 3)
 

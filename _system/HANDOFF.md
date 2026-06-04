@@ -35,11 +35,12 @@ page is the operating manual.
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
    Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media,
    Han–*The Burnout Society* are DONE.
-   6 remain. NOTE: the corpus is now **16 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
-   intentionally removed 11 books from the plan (see `source_inventory.md` → Removed from corpus: Acemoglu,
-   Harari–Nexus, Shiner, Turner, Kurzweil–*Age of Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman,
-   Vierkant, Waldrop); do not treat any of those as pending ingests. The 6 remaining: Ascott, Benjamin, Burnham,
-   Debord, Meadows, Zuboff.)
+   2 remain. NOTE: the corpus is now **12 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   intentionally removed 11 books from the plan (Acemoglu, Harari–Nexus, Shiner, Turner, Kurzweil–*Age of
+   Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop), and on 2026-06-04 removed
+   4 more (Benjamin–*Illuminations*, Debord–*Society of the Spectacle*, Meadows–*Thinking in Systems*,
+   Zuboff–*Age of Surveillance Capitalism*); see `source_inventory.md` → Removed from corpus. Do not treat any
+   of those as pending ingests. The 2 remaining: **Ascott, Burnham.**)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
