@@ -4,6 +4,7 @@ status: generated
 sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related:
   - "[[Achievement Society]]"
   - "[[Auto-Exploitation]]"
@@ -19,6 +20,10 @@ last_updated: 2026-06-02
 
 # The Project (Han)
 
+## General Orientation
+
+*The project* (*Projekt*) is Byung-Chul Han's name for the self-conception of the neoliberal subject, developed across two books with two complementary emphases. In *Psychopolitics* the accent is **social and affective**: the self that "no longer deems itself subjugated" but a project, "always refashioning and reinventing" itself, and that — feeling free — internalizes coercion as compulsive achievement and optimization (the Deleuzean *snake* against the disciplinary *mole*). In *The Burnout Society* the same move is read **intrapsychically**: the achievement-subject "liberates itself into a project," ceasing to be a subject in the etymological sense, but the project then "turns out to be a projectile that the achievement-subject is aiming at itself," opening auto-aggression against an unattainable ego ideal. The two senses are one concept: the affect of freedom that *Psychopolitics* makes a principle of power is, in *The Burnout Society*, the very thing that makes the self-directed violence so efficient and so unnoticeable (`Interpretive synthesis`).
+
 ## Brief Definition
 
 The contemporary self that no longer experiences itself as a subjugated subject but as a *project* (*Projekt*) — perpetually refashioning and reinventing itself — and that, in the very feeling of freedom this brings, internalizes constraint as compulsive achievement and optimization.
@@ -33,9 +38,17 @@ In "The Mole and the Snake," Han maps the concept onto Deleuze's animals of cont
 
 The unlimited self-production the project imagines is therefore an illusion that stabilizes the system: the person "as a project free to fashion him- or herself at will" believes itself "capable of unlimited self-production," and this belief, dispersing class into isolated entrepreneurs of the self, "renders impossible any social revolution" and ensures "no political We is even possible" (`Directly stated`). The affect of freedom is, in this sense, the most economical instrument of domination.
 
+## The Burnout Society (Han) — the project as projectile (PRIMARY source)
+
+The title chapter of *The Burnout Society* is the primary source for the subject→project passage read *intrapsychically* — as a scene of the achievement-subject "inflicting violence on, and waging war with, itself." Han stages the move through the post-Freudian restructuring of the psyche: in the shift from disciplinary to achievement society, "the superego positivizes itself into the ego ideal." Where "the achievement-subject projects itself [*entwirft sich*] onto the ego ideal," the obedience-subject "subjects itself [*sich unterwift*] to the superego" — "subjection and projection are two different modes of existence." The repressive superego *prohibits*; the ego ideal *seduces*. Crucially, "projecting oneself into the ego ideal is interpreted as an act of freedom" — the same felt freedom that *Psychopolitics* makes the principle of [[Auto-Exploitation]] (`Directly stated`).
+
+This is where the concept's defining metaphor is minted. Han writes that "the late-modern achievement-subject is subject to no one. In fact, it is no longer a subject in the etymological sense (*subject to, sujet à*). It positivizes itself; indeed, it liberates itself into a project." But the project recoils: "when the ego gets caught in an unattainable ego ideal, it gets crushed altogether. The gap between the real ego and the ego ideal then brings forth auto-aggression." Hence the figure that gives [[The Project as Projectile]] its name — "the project turns out to be a projectile that the achievement-subject is aiming at itself. In view of the ego ideal, the real ego appears as a loser buried in self-reproach. The ego wages war with itself" (`Directly stated`).
+
+The Burnout-Society treatment thus completes the [[Subject vs Project]] opposition by supplying its psychic mechanism and its cost: "auto-compulsion, which presents itself as freedom, takes the place of allo-compulsion," and because "a deceptive feeling of freedom accompanies it," the self-generated violence is "more fatal than its counterpart inasmuch as the victim of such violence considers itself free." The liberation *into* a project is, at the limit, a liberation into self-directed fire — the achievement-subject "exploits itself until it burns out," developing "auto-aggression that often enough escalates into the violence of self-destruction" (`Directly stated`).
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — *Project* (*Projekt*) is the self-image of the neoliberal subject in *Psychopolitics*: the I that takes itself to be free, self-refashioning, and limitlessly self-producing, and that thereby internalizes coercion as compulsive achievement and optimization. Han pairs it with Deleuze's *snake* (control society) against the *mole* (disciplinary society), making *project* the counter-term to *subject*.
+- **[[Byung-Chul Han]]** — *Project* (*Projekt*) is the self-image of the neoliberal subject in *Psychopolitics*: the I that takes itself to be free, self-refashioning, and limitlessly self-producing, and that thereby internalizes coercion as compulsive achievement and optimization. Han pairs it with Deleuze's *snake* (control society) against the *mole* (disciplinary society), making *project* the counter-term to *subject*. In *The Burnout Society* the same move is read intrapsychically: the achievement-subject "liberates itself into a project" and is "no longer a subject in the etymological sense," but "the project turns out to be a projectile that the achievement-subject is aiming at itself," opening auto-aggression against the unattainable ego ideal (the figure realized as [[The Project as Projectile]]).
 
 ## Related Concepts
 
@@ -43,6 +56,7 @@ The unlimited self-production the project imagines is therefore an illusion that
 - [[Auto-Exploitation]] — the project, "master and slave in one," exploits itself voluntarily; its sense of freedom is what makes self-exploitation possible.
 - [[Exploitation of Freedom]] — the project is the subjective face of the neoliberal exploitation of freedom: only freely given, freely felt activity yields maximal returns.
 - [[Society of Control]] — the snake-as-project is the animal of control society; the project belongs to the post-disciplinary order of open, self-steering movement.
+- [[The Project as Projectile]] — the metaphor minted in *The Burnout Society*: the self-liberation into a project recoils as a projectile aimed at the self, the gap between real ego and ego ideal opening into auto-aggression.
 
 ## Opposing Concepts
 
@@ -90,3 +104,36 @@ Relevant passage:
 > But the snake is a project inasmuch as it creates space through the course it steers.
 
 Supports: Maps the project onto Deleuze's snake (control society) against the mole (disciplinary subject), giving the concept its defining image — the self that appears to generate its own space and trajectory — and grounding the subject-versus-project opposition. Label: `Directly stated`.
+
+### Source 4
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The late-modern achievement-subject is subject to no one. In fact, it is no longer a subject in the etymological sense (subject to, sujet à). It positivizes itself; indeed, it liberates itself into a project.
+
+Supports: The primary intrapsychic statement of the subject→project move — the achievement-subject ceases to be a *subject* (subjected) and "liberates itself into a project," grounding the General Orientation's intrapsychic sense and the [[Subject vs Project]] opposition. Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The achievement-subject projects itself [entwirft sich] onto the ego ideal, whereas the obedience-subject subjects itself [sich unterwift] to the superego. Subjection and projection are two different modes of existence. ... Projecting oneself into the ego ideal is interpreted as an act of freedom. But when the ego gets caught in an unattainable ego ideal, it gets crushed altogether. The gap between the real ego and the ego ideal then brings forth auto-aggression.
+
+Supports: Establishes the psychic mechanism of the project — projection onto the seductive ego ideal (vs. subjection to the prohibitive superego), felt as freedom yet opening auto-aggression when the ego ideal proves unattainable. Anchors [[The Project as Projectile]] and the [[Auto-Exploitation]] cross-link. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The project turns out to be a projectile that the achievement-subject is aiming at itself. In view of the ego ideal, the real ego appears as a loser buried in self-reproach. The ego wages war with itself.
+
+Supports: The verbatim source of the metaphor [[The Project as Projectile]] — the self-liberation into a project recoiling as self-directed auto-aggression, the "war with itself" of the achievement-subject. Label: `Directly stated`.

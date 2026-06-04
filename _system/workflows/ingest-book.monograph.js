@@ -54,6 +54,17 @@ if (!BF || !BOOK_TITLE || !AUTHOR || CHAPTERS.length === 0) {
   return { error: 'missing required args' }
 }
 
+// RESILIENT-AGENT WRAPPER (learned on McLuhan): despite the docs, a schema agent that
+// "completed without calling StructuredOutput (after 2 nudges)" THROWS and aborts the whole
+// run — parallel() does NOT coerce it to null. Retry with byte-identical prompt/opts so
+// resumeFromRunId still cache-hits prior successes. Use 4 tries for analysis/planners, 2 for generation.
+async function safeAgent(prompt, opts, tries = 3) {
+  for (let i = 0; i < tries; i++) {
+    try { const r = await agent(prompt, opts); if (r) return r } catch (e) { /* retry */ }
+  }
+  return null
+}
+
 const LINKRULE = `
 ## Link rules (MANDATORY — read first)
 Read \`${VAULT}/_system/link_vocabulary.md\` before writing. Several books are already ingested.
@@ -103,7 +114,7 @@ Begin.
 `
 
 const analyses = (await parallel(CHAPTERS.map(ch => () =>
-  agent(analysisPrompt(ch), { label: `analyze:${(ch.title||ch.file).slice(0,28)}`, phase: 'Analysis Pass', schema: ANALYSIS_SCHEMA })
+  safeAgent(analysisPrompt(ch), { label: `analyze:${(ch.title||ch.file).slice(0,28)}`, phase: 'Analysis Pass', schema: ANALYSIS_SCHEMA }, 4)
 ))).filter(Boolean)
 log(`Analysis: ${analyses.length}/${CHAPTERS.length} chapters analyzed`)
 
@@ -143,7 +154,7 @@ ${LINKRULE}
 Return the structured plan.
 `
 
-const plan = await agent(planPrompt, { label: 'synthesis plan', phase: 'Synthesis Plan', schema: PLAN_SCHEMA })
+const plan = await safeAgent(planPrompt, { label: 'synthesis plan', phase: 'Synthesis Plan', schema: PLAN_SCHEMA }, 4)
 if (!plan) { log('Plan failed; aborting'); return { error:'plan failed', analyses_written: analyses.length } }
 const byKind = {}; for (const n of plan.create_notes) byKind[n.kind]=(byKind[n.kind]||0)+1
 log(`Plan: CREATE ${plan.create_notes.length} (${Object.entries(byKind).map(([k,v])=>k+':'+v).join(', ')}); UPDATE ${plan.update_notes.length}`)
@@ -226,13 +237,13 @@ Return only the path.`
 
 // Run create (book, author, planner interpretive notes, source summaries) then updates.
 const createThunks = [
-  () => agent(bookPrompt, { label:`gen:book:${BOOK_TITLE.slice(0,24)}`, phase:'Generation Pass' }),
-  () => agent(authorPrompt, { label:`gen:author:${AUTHOR}`, phase:'Generation Pass' }),
-  ...plan.create_notes.map(n => () => agent(interpPrompt(n), { label:`gen:${n.kind}:${n.title.slice(0,30)}`, phase:'Generation Pass' })),
-  ...sourceTasks.map(t => () => agent(sourcePrompt(t), { label:`source:${t.chapter.file.replace('.md','').slice(0,24)}`, phase:'Generation Pass' })),
+  () => safeAgent(bookPrompt, { label:`gen:book:${BOOK_TITLE.slice(0,24)}`, phase:'Generation Pass' }, 2),
+  () => safeAgent(authorPrompt, { label:`gen:author:${AUTHOR}`, phase:'Generation Pass' }, 2),
+  ...plan.create_notes.map(n => () => safeAgent(interpPrompt(n), { label:`gen:${n.kind}:${n.title.slice(0,30)}`, phase:'Generation Pass' }, 2)),
+  ...sourceTasks.map(t => () => safeAgent(sourcePrompt(t), { label:`source:${t.chapter.file.replace('.md','').slice(0,24)}`, phase:'Generation Pass' }, 2)),
 ]
 const created = await parallel(createThunks)
-const updated = await parallel(plan.update_notes.map(u => () => agent(updatePrompt(u), { label:`upd:${u.target_file.split('/').pop().replace('.md','').slice(0,26)}`, phase:'Generation Pass' })))
+const updated = await parallel(plan.update_notes.map(u => () => safeAgent(updatePrompt(u), { label:`upd:${u.target_file.split('/').pop().replace('.md','').slice(0,26)}`, phase:'Generation Pass' }, 2)))
 log(`Generation: created ${created.filter(Boolean).length}/${createThunks.length} (incl. book, author, ${sourceTasks.length} source summaries), updated ${updated.filter(Boolean).length}/${plan.update_notes.length}`)
 
 // ===================== Phase 4: Indexes & Maps =====================
@@ -244,7 +255,7 @@ ${JSON.stringify(plan.index_entries, null, 2)}
 \`\`\`
 Tasks: 1) \`${VAULT}/maps/Concept Index.md\` (Alphabetical re-sort + thematic clusters). 2) \`${VAULT}/maps/Argument Index.md\` (add \`### ${AUTHOR} — ${BOOK_TITLE}\` + thematic cross-refs). 3) \`${VAULT}/maps/Tension Index.md\` (Realized Notes; upgrade any committed stub this book realizes). 4) \`${VAULT}/maps/Symbol and Metaphor Index.md\`. 5) \`${VAULT}/maps/Author Network.md\` (Realized References; realize affinities). 6) \`${VAULT}/maps/Reading Pathways.md\` (2-3 pathways for this book). 7) \`${VAULT}/maps/Home.md\` (Status: note the new book + 2-3 highlight links; realized stubs resolve now). 8) \`${VAULT}/overview.md\` (Current State).
 Canonical links only (no type prefixes). Return a one-paragraph summary.`
-const idxReport = await agent(idxPrompt, { label:'indexes & maps', phase:'Indexes & Maps' })
+const idxReport = await safeAgent(idxPrompt, { label:'indexes & maps', phase:'Indexes & Maps' }, 2)
 
 return {
   book: BOOK_TITLE,

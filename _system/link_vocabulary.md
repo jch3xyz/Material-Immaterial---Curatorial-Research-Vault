@@ -397,6 +397,40 @@ Left correct (false positive): `[[Media as Extensions of Man\|central nervous sy
 
 ---
 
+## Canonical Note Names — Han The Burnout Society ingest (2026-06-04)
+
+Added by *The Burnout Society* (*Müdigkeitsgesellschaft*, 2010, trans. Erik Butler). Book: `The Burnout Society`. Author: **`Byung-Chul Han` (his THIRD book in the vault)** — the author note was **extended, not duplicated** (Transparency Society + Psychopolitics content preserved; the "Books in the Vault" line flipped from "not yet processed" to ingested). Source summaries: `Han - The Burnout Society - <NN Chapter>` (8: Neuronal Power, Beyond Disciplinary Society, Profound Boredom, Vita Activa, The Pedagogy of Seeing, The Bartleby Case, The Society of Tiredness, Burnout Society). This book is the **chronological ORIGIN** of much of the vault's existing Han vocabulary (achievement society, auto-exploitation, positivity/negativity, the immunological→neuronal shift, Can/Should), so it was a heavy create-or-extend pass (30 updates) anchoring those notes in their primary text.
+
+**New concepts/** (15 — 14 planned + 1 realized in finalize): Negative Potency *(Agamben's potenza di non / "the power not-to"; the single canonical name — NOT "The Power Not-To"; kept DISTINCT from `Negativity`)* · Hyperattention · Multitasking · Deep Contemplative Attention · Profound Boredom · Vita Contemplativa · Hyperactivity as Hyperpassivity · Bare Life *(Han-anchored via Agamben — the achievement-subject as homo sacer of itself; open to a future Agamben section; kept DISTINCT from the forward-stub `Homo Sacer`)* · Animal Laborans *(Han-anchored via Arendt)* · Fundamental Tiredness *(the keystone tiredness concept, holding both the I-/we-tiredness poles)* · Community of Singularities · Doping Society · Burnout *(the title malady; coexists with `books/The Burnout Society` per the Psychopolitics/Homo Deus base-name pattern)* · Neuronal Violence · **Disciplinary Society** *(realized in finalize — was the vault's most heavily-linked forward-stub at 61 inbound refs/19 files; ch.3 "Beyond Disciplinary Society" + ch.7 Bartleby + ch.9 are now the strongest Han primary-text anchor; realized Han-anchored on the `Biopolitics` precedent, open to a future Foucault author-section; `Michel Foucault` stays a forward-stub author)*.
+
+**New arguments/** (7): The achievement society supersedes the disciplinary society · Depression is caused by the imperative to achieve not the failure to become oneself · The pathologies of the present are infarctions not infections · The contemplative life is more active than hyperactivity · Bartleby is a story of exhaustion not de-creation · The society to come is a society of tiredness · The achievement-subject is the homo sacer of its own self.
+
+**New tensions/** (5): Vita Activa vs Vita Contemplativa · Deep Attention vs Hyperattention · I-Tiredness vs We-Tiredness · **Discipline vs Achievement** *(realizes the dangling tension the Han author note already referenced; kept DISTINCT from the Deleuzean `Discipline vs Control` — Han explicitly rejects "control society" as the successor and names achievement; the two are cross-linked)* · Positive Potency vs Negative Potency.
+
+**New metaphors/** (7): The Project as Projectile · Prometheus and the Eagle · The Dream Bird That Hatches the Egg of Experience *(Benjamin)* · Dancing Escapes the Achievement-Principle · The Machine of Positivity *(Positivmaschine; also holds ch.6's pejorative "idiot savant" — NOT to be merged with the affirmative `Idiotism`)* · The Pentecostal Company · The Internal Work Camp.
+
+**New references/** (6): `Byung-Chul Han and {Hannah Arendt, Giorgio Agamben, Alain Ehrenberg, Peter Handke, Sigmund Freud, Richard Sennett}`. (Agamben note is the keystone — homo sacer/bare life borrowed-and-inverted, the Bartleby polemic, state of exception. Ehrenberg is Han's running polemical target on depression. Freud/Sennett were already in the author note's related_authors.)
+
+**Cross-book UPDATES** (30 existing notes gained a Burnout-Society author-section — do NOT duplicate; many are the note's PRIMARY source): `Immunological Age` *(ch.2 Neuronal Power is its fullest exposition)* · `Achievement Society` · `Auto-Exploitation` · `Allo-Exploitation` · `Can vs Should` · `Positivity` · `Negativity` · `Hell of the Same` · `Acceleration` · `Narrativity` · `Society of Control` · `Self-Optimization` · `Healing as Killing` · `Exploitation of Freedom` · `Gleichschaltung` · `The Project (Han)` (concepts) · `Erfahrung vs Erlebnis (Han)` (def) · `Positivity vs Negativity` · `Discipline vs Control` · `Subject vs Project` · `Freedom vs Control` · `Narration vs Addition` (tensions) · the references `Byung-Chul Han and {Jean Baudrillard, Friedrich Nietzsche, Walter Benjamin, Martin Heidegger, Hegel, Carl Schmitt, Michel Foucault}`.
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Hannah Arendt`, `Alain Ehrenberg`, `Peter Handke`, `Herman Melville` (each now has, or is named in, a reference note). `Giorgio Agamben`, `Sigmund Freud`, `Richard Sennett` already existed as related-author stubs. Agamben-owned concepts kept as forward-stubs: `Homo Sacer`, `State of Exception`, plus the literary figure `Bartleby`. Rendered as **plain text** (one-off figures): Roberto Esposito, Jürgen Habermas, Cézanne, Merleau-Ponty, Maurice Blanchot, Kafka (Prometheus/Hunger Artist handled inside metaphors). `Obedience-Subject` retargeted to `[[Disciplinary Society|obedience-subject]]`.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- `Burnout` (concept, the malady) ≠ `The Burnout Society` (book). `Negative Potency` (Agambenian faculty) ≠ `Negativity` (dialectical/immunological category). `Bare Life` (realized, Han-anchored) ≠ `Homo Sacer` (Agamben forward-stub). `Disciplinary Society` (realized, Han-anchored) ≠ `Discipline`/`Discipline vs Control`/`Discipline vs Achievement`.
+- `Vita Contemplativa` is a concept; `Vita Activa` is covered by the `Vita Activa vs Vita Contemplativa` tension + the Arendt reference (no standalone `Vita Activa` concept — 0 dangling links).
+- The ch.6 "idiot savant"/"autistic" (a NEGATIVE figure of pure positivity, inside `The Machine of Positivity`) must NOT be merged with the affirmative `Idiotism` (Psychopolitics ch.13).
+
+### Burnout-pass variant/dangling fixes (applied 2026-06-04, finalize)
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `[[Burnout Society\|depression and burnout]]` | `Burnout` *(the malady; the book is `The Burnout Society`)* |
+| `[[Obedience-Subject]]` | `[[Disciplinary Society\|obedience-subject]]` |
+| `Deep Boredom` (chapter prose) | `Profound Boredom` *(chapter title / canonical concept)* |
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
@@ -416,6 +450,9 @@ These are **verified** pure format/article/qualifier variants that must be rewri
 | `Society of the Spectacle` | `The Society of the Spectacle` *(forward-stub)* |
 | `The Society of The Spectacle` | `The Society of the Spectacle` *(forward-stub)* |
 | `The Society of Control` | `Society of Control` |
+| `Burnout Society` *(as a book reference)* | `The Burnout Society` |
+| `Deep Boredom` | `Profound Boredom` |
+| `The Power Not-To` | `Negative Potency` |
 
 ### Synonym consolidations (2026-06-01 within-Han pass)
 

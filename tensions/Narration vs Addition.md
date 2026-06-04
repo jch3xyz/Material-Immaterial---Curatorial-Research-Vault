@@ -10,6 +10,8 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[Acceleration]]"
@@ -35,6 +37,8 @@ In Chapter 5 of *[[The Transparency Society]]*, [[Byung-Chul Han]] stages a stru
 This is a single Han opposition restated across two books, each foregrounding a different stake. In *[[The Transparency Society]]* (Ch. 5) the contrast is primarily **temporal-aesthetic**: narration has "its own temporality, its own rhythm and tact" and "elude[s] acceleration," whereas addition is "more transparent" and is the only mode that "admits acceleration." The pun anchoring it there is *erzählen* (to tell) vs *zählen* (to count): the procession tells; the processor "tells [erzählt] nothing. It simply counts [zählt]."
 
 In *[[Psychopolitics]]* (Ch. 11, "Big Data") the same opposition is restated in an **epistemic and ethical** register under the heading of [[Dataism]] and the slogan "counting is not recounting." Here the additive pole is *Big Data* itself — data, numbers, storage, the [[Quantified Self]] — and the narrative pole is meaning, self-knowledge, living memory, and (via [[Hegel]]) theory and Spirit. The two presentations share a structure but diverge in emphasis: the Transparency-Society version asks what additive time does to *experience* and *acceleration*; the Big-Data version asks what additive data does to *meaning*, *self*, and *knowledge*. The dedicated [[Counting vs Recounting]] note develops the Psychopolitics restatement in full; the section below records the cross-book continuity here so the two are not read as unrelated (`Interpretive synthesis`).
+
+In *[[The Burnout Society]]* the axis appears in a third, **existential-vitalist** register. There the loss of the narrative pole is named *denarrativization*, and what it strips bare is not experience or meaning as such but *life itself*: "the general denarrativization of the world … makes life bare" (Ch. 5), and the capitalist absolutization of survival "makes life itself bare and strips it of all narrativity" (Ch. 9). The additive residue here is not data or accelerated time but the reduction of existence to vital functioning — survival, health, the body of the ego. The section below records this third stake and cross-links it to [[Narrativity]] and [[Bare Life]] (`Interpretive synthesis`).
 
 ## The Poles
 
@@ -87,6 +91,12 @@ In the "Big Data" chapter of *[[Psychopolitics]]*, Han restates the narration/ad
 The same opposition governs memory. "Human memory is a narrative, an account; forgetting forms a necessary component. In contrast, digital memory is a matter of seamless addition and accumulation. Stored data admit counting, but they cannot be recounted." Where the [[Transparency|Transparency Society]] version aligned storage with the additive pole, the Big-Data version sharpens it: a timeline "recounts nothing. It simply enumerates and adds up events," and so "digital temporality belongs to the undead." This grounds the [[Memory vs Storage]] sub-tension in the Psychopolitics frame (`Directly stated`).
 
 Finally, via [[Hegel]], Han extends the opposition into the register of *Spirit* and the **syllogism** (*Schluss*, conclusion), giving the additive pole a logical signature absent from the Transparency-Society treatment: "constant addition yields no conclusion, no syllogism, no 'putting-together' ... As narration, syllogism represents the opposite of addition. Big Data is purely additive; it never comes to an end, to a conclusion. In contrast to the correlations and additions that Big Data generates, theoretical thinking represents a narrative form of knowledge." The additive syllogism never concludes; theory, like ritual and ceremony, is "syllogistic" and so narrative. Hence "[t]otalized data-knowledge amounts to absolute ignorance: the absolute zero of Spirit." The full development of this restatement — meaning, self, memory, theory — lives in the dedicated [[Counting vs Recounting]] note; it is captured here as a cross-book continuity, not a duplicate (`Directly stated`; cross-book framing `Interpretive synthesis`).
+
+## The Burnout Society (Han) — denarrativization and bare life
+
+In *[[The Burnout Society]]* the narration/addition axis surfaces under Han's own term **denarrativization**, and its stake is no longer experience or meaning but *life itself*. Tracing the late-modern collapse of the religious "thanatotechnics" that once produced a feeling of duration, Han writes that "[t]he general denarrativization of the world is reinforcing the feeling of fleetingness. It makes life bare" (Ch. 5, "Vita Activa"). The additive residue here is not data or accelerated time but *bare life* — work as "a bare activity," the body of the ego that must be kept healthy at any cost. Where addition once named the temporality that admits acceleration (Transparency Society) or the data that cannot recount a self (Psychopolitics), here the dissolution of the narrative pole leaves only [[Bare Life]]: "[t]he activity of bare laboring corresponds entirely to bare life." This is the existential floor of the same opposition — when narrativity drains out, what remains is sheer, undirected vitality (`Directly stated`).
+
+The Burnout-Society chapter sharpens this into a diagnosis of the health cult under capital. Because the capitalist economy "absolutizes survival" and "is not concerned with the good life," "[t]he reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity" (Ch. 9, "Burnout Society"). The result is a life "as flat as a coin and stripped of all narrative content, all value," from which "[t]he mania for health emerges." Han ties the additive pole directly to value-loss: once [[Narrativity]] is gone, "the loss of ideal values leaves, other than the exhibition value of the ego, only health value behind" — a line that links this section to [[Exhibition Value]]. The opposition stays asymmetrical and one-directional, as in the other books: denarrativization is a drift to be named, not a polarity to be balanced. What it names here is the stripping of narrative content down to the immanency of vital functioning — the additive remainder when story, threshold, and teleology fall away (`Directly stated`; cross-book framing `Interpretive synthesis`).
 
 ## Sources
 
@@ -199,3 +209,25 @@ Relevant passage:
 > But constant addition yields no conclusion, no syllogism, no 'putting-together'. The absolute con-clusion ex-cludes any further addition. As narration, syllogism represents the opposite of addition. Big Data is purely additive; it never comes to an end, to a conclusion. In contrast to the correlations and additions that Big Data generates, theoretical thinking represents a narrative form of knowledge.
 
 Supports: Extends the addition/narration opposition into the Hegelian register of *Spirit* and the syllogism (*Schluss*): the additive syllogism never concludes, while narration (and theory) is conclusion. Connects to [[Counting vs Recounting]] and [[Byung-Chul Han and Hegel]]. Label: `Directly stated`.
+
+### Source 11
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> The general denarrativization of the world is reinforcing the feeling of fleetingness. It makes life bare. Work itself is a bare activity. The activity of bare laboring corresponds entirely to bare life.
+
+Supports: Names the narration/addition axis in its third register — *denarrativization* — and states its existential stake directly: the loss of the narrative pole "makes life bare." Anchors the cross-link to [[Bare Life]] and grounds the Burnout-Society section. Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity. It takes livingness from life, which is much more complex than simple vitality and health. The mania for health emerges when life has become as flat as a coin and stripped of all narrative content, all value.
+
+Supports: Ties the additive pole to capital's absolutization of survival — when [[Narrativity]] is stripped away, only bare, vital functioning and the cult of health remain. Connects the axis to [[Bare Life]] and to [[Exhibition Value]] (the residual "health value"). Label: `Directly stated`.

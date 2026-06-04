@@ -4,21 +4,28 @@ status: generated
 sources:
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
+  - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
 related:
   - "[[Auto-Exploitation]]"
   - "[[Achievement Society]]"
   - "[[Exploitation of Freedom]]"
   - "[[Negativity]]"
   - "[[Positivity]]"
+  - "[[Doping Society]]"
+  - "[[Healing as Killing]]"
 opposes:
   - "[[Positivity vs Negativity]]"
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Self-Optimization
+
+## General Orientation
+
+In this vault, *self-optimization* is overwhelmingly [[Byung-Chul Han]]'s term, but it carries two distinct accents across the two of his books that ground this note. In *Psychopolitics* it names a **neoliberal technology of the self** — the interiorized imperative of perpetual self-improvement that turns domination into freedom and "amounts to total self-exploitation," operating across both body-optimization and mental optimization. In *The Burnout Society* the same drive appears one register down, at the level of biology: the achievement society intensifying into a **doping society** in which "the body and the human being as a whole" become a performance-machine (*Leistungsmaschine*) to be maximized by any means, so that one can "achieve without achieving." The two accents are continuous — the *Psychopolitics* imperative is the technique; the *Burnout Society* performance-machine is its limit-figure in the flesh — and they are cross-developed in the neighboring notes [[Doping Society]], [[Healing as Killing]], and [[Auto-Exploitation]]. `Interpretive synthesis`.
 
 ## Brief Definition
 
@@ -41,6 +48,14 @@ Self-optimization first appears in *Psychopolitics* as a release of the body fro
 ### Mental Optimization
 
 The deeper turn is psychic. "Now, productivity is not to be enhanced by overcoming physical resistance so much as by optimizing psychic or mental processes. Physical discipline has given way to mental optimization." `Directly stated`. This is the register of "neuro-enhancement," "self-management workshops, motivational retreats and seminars on personality or mental training" that "promise boundless self-optimization and heightened efficiency." `Directly stated`. Mental optimization is what lets neoliberalism "capitalize not just on working time but on the person him- or herself: all the attention the individual commands and, indeed, his or her very life," so that "the psyche itself is being exploited" and "psychic maladies such as depression and burnout define our times." `Directly stated`. Mental optimization is therefore the precise point where psychopolitics replaces biopolitics. `Interpretive synthesis`.
+
+## The Burnout Society (Han) — the performance-machine and the doping society
+
+In *The Burnout Society*, the same optimizing drive Han later anatomizes in *Psychopolitics* appears in its most literal, somatic form: the reduction of the living human to a machine that exists only to perform. As the [[Achievement Society|achievement society]] hardens into "a society of activeness [Aktivgesellschaft]," it "is slowly developing into a doping society," and Han's key claim is that no rule can hold this development back: "simple prohibition cannot prevent both the body and the human being as a whole from becoming a performance-machine [Leistungsmaschine] that is supposed to function without disturbance and maximize achievement." `Directly stated`. Self-optimization, read at this register, is exactly that becoming-performance-machine — the imperative of frictionless functioning and maximized achievement inscribed into the body itself, not merely into the psyche. `Strongly implied`.
+
+The doping society gives self-optimization its purest emblem. The euphemism reveals the logic: "the negative expression 'brain doping' has been replaced by 'neuroenhancement,'" and "Doping makes it possible to achieve without achieving, so to speak." `Directly stated`. To optimize oneself here is to optimize the very substrate of performance — to enhance the machine so that output is decoupled from effort. Doping, Han writes, "is just one consequence of this development, whereby being alive [Lebendigkeit] itself — an extremely complex phenomenon — is boiled down to vital functions and capacities." `Directly stated`. Self-optimization thus terminates in a flattening of life to function: the same logic that *Psychopolitics* names "total self-exploitation" shows up in *The Burnout Society* as the boiling-down of livingness to bare vital capacity. `Interpretive synthesis`.
+
+The cost is the one Han returns to across both books — the destruction of [[Negativity|negativity]]. The doping society's relentless performance-enhancement is generated within "a world that is poor in negativity and in turn dominated by excess positivity," and its "flipside" is mass exhaustion: "the society of achievement and activeness is generating excessive tiredness and exhaustion," and "The excessiveness of performance enhancement leads to psychic infarctions." `Directly stated`. The fuller treatment of the *Leistungsmaschine* and the neuroenhancement figure lives in [[Doping Society]]; its psychic culmination — the optimizing imperative that "is proving destructive" and "leading to mental collapse" — is carried by [[Healing as Killing]]. Self-optimization is the thread that binds them: technique, performance-machine, and the killing dressed as healing are three faces of one neoliberal drive. `Interpretive synthesis`.
 
 ## Authors and Variants
 
@@ -145,3 +160,25 @@ Relevant passage:
 > The neoliberal ideology of self-optimization displays religious - indeed, fanatical - traits. It entails a new form of subjectivation. Endlessly working at self-improvement resembles the self-examination and self-monitoring of Protestantism, which represents a technology of subjectivation and domination in its own right. Now, instead of searching out sins, one hunts down negative thoughts.
 
 Supports: Grounds the religious/fanatical framing and the link to [[Negativity]] / [[Positivity vs Negativity]]: self-optimization "hunts down negative thoughts," eliminating negativity in the name of a total positivity. Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/08 The Society of Tiredness]]
+Relevant passage:
+
+> For all that, simple prohibition cannot prevent both the body and the human being as a whole from becoming a performance-machine [Leistungsmaschine] that is supposed to function without disturbance and maximize achievement.
+
+Supports: Anchors the **Burnout Society** section. Self-optimization, in its most literal somatic form, is the becoming-performance-machine of the body and the human being as a whole — the imperative of frictionless functioning and maximized achievement. Grounds the cross-link to [[Doping Society]] (which holds the fuller *Leistungsmaschine* figure). Label: `Directly stated`.
+
+### Source 9
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/08 The Society of Tiredness]]
+Relevant passage:
+
+> In the meanwhile, the negative expression “brain doping” has been replaced by “neuroenhancement.” Doping makes it possible to achieve without achieving, so to speak.
+
+Supports: Grounds the doping-society emblem of self-optimization — neuroenhancement as the optimization of the substrate of performance, decoupling achievement from effort ("achieve without achieving"). Cross-links to [[Doping Society]] and [[Healing as Killing]]. Label: `Directly stated`.

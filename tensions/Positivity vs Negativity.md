@@ -15,6 +15,9 @@ sources:
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
   - "[[raw/Han - Psychopolitics/07 Shock]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
+  - "[[raw/Han - The Burnout Society/02 Neuronal Power]]"
+  - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
+  - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[The Same]]"
@@ -33,7 +36,7 @@ related_concepts:
   - "[[Psychopolitics]]"
   - "[[Digital Panopticon]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Positivity vs Negativity
@@ -42,12 +45,13 @@ This is the **spine pair** of [[The Transparency Society]]. Every other oppositi
 
 ## General Orientation
 
-The same Han opposition — positivity vs negativity — operates in two distinct registers across his books, and the two should be kept separate.
+The same Han opposition — positivity vs negativity — operates in three distinct registers across his books, and the three should be kept separate.
 
 - **The information register** (*[[The Transparency Society]]*). Here positivity vs negativity names a transformation of *appearance, meaning, and the medium*: the dismantling of the secret, distance, the gap, the *punctum*, and dialectical depth in favor of the smooth, leveled, exhibited, fully visible. This is the register that the body of this note (above and below) develops. Its social form is [[Transparency]]; its medial form is [[Information]].
 - **The power register** (*[[Psychopolitics]]*). Here the very same opposition names two *technologies of domination*: disciplinary power, which is "commanded by negativity" — prohibition, threat, shock, the "no" that shatters the will — versus the neoliberal regime, which "beams forth in positivity" — permission, stimulus, Liking, seduction, the "yes" that meets the subject halfway (`Directly stated`, [[raw/Han - Psychopolitics/02 Smart Power]]). The section [[#Psychopolitics (Han) — positivity vs negativity as a theory of power]] develops this register and should not be read as a duplicate of the Transparency-Society material: it transposes positivity/negativity from *how things appear* to *how power works*.
+- **The pathology register** (*[[The Burnout Society]]*). Here positivity vs negativity names an *axis of illness and diagnosis*: the neuronal afflictions of the twenty-first century (depression, ADHD, burnout) are "not infections, but infarctions"; they "do not follow from the negativity of what is immunologically foreign, but from an excess of positivity" (`Directly stated`, [[raw/Han - The Burnout Society/02 Neuronal Power]]). This is the earliest and most systematic of the three treatments — an entire short book turns on the pair — and it supplies the [[Neuronal Violence|neuronal-violence]] mechanism (immanent, system-internal, "a terror of immanence") that the later books presuppose. The section [[#The Burnout Society (Han) — the master opposition at book length]] develops it.
 
-The connective tissue between the two registers is that both diagnose a single historical tipping from negativity to positivity; but the *Psychopolitics* treatment adds a claim the Transparency book does not foreground — that the positive technology is more efficient, more total, and "just as destructive" as the negative one it replaces.
+The connective tissue across the three registers is that all of them diagnose a single historical tipping from negativity to positivity. The *Burnout Society* treatment is the diagnostic-pathological base: it argues that the harm itself has changed form (infarction, not infection) and locates the engine of the shift in the move from a [[Achievement Society|disciplinary to an achievement society]]. The *Psychopolitics* treatment then transposes this onto a typology of power and adds a claim the others do not foreground — that the positive technology is more efficient, more total, and "just as destructive" as the negative one it replaces. Note also that the pathology register raises a *faculty-level* distinction — "positive potency" (the power to do) versus "negative potency" (the power *not* to do, "the power to say no") — which is a separate analytic axis treated in its own note, [[Positive Potency vs Negative Potency]], and should not be conflated with the broad positivity/negativity diagnosis here.
 
 ## The Poles
 
@@ -75,10 +79,19 @@ The transposition is exact: every figure of negative power has a positive succes
 
 What keeps this register from collapsing into mere preference for the negative is Han's symmetry thesis: the positive technology is not benign. Self-optimization that "enlists Liking" still destroys: "the violence of positivity is just as destructive as the violence of negativity. Neoliberal psychopolitics, with the consciousness industry it promotes, is destroying the human soul, which is anything but a machine of positivity" (`Directly stated`, [[raw/Han - Psychopolitics/06 Healing as Killing]]). And the diagnosis is not, finally, that negativity is bad and positivity good, but that a soul subjected "to the dictates of positivity entirely" is no longer a human soul at all: "Without negativity, life degrades into 'something dead'. Indeed, negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung)" (`Directly stated`, [[raw/Han - Psychopolitics/06 Healing as Killing]]). The power register thus arrives at the same valuation as the information register — negativity is the condition of depth, experience, and life — but it reaches it by way of a theory of *domination* rather than a theory of *appearance*. Disciplinary negativity at least left the subject able to feel the wall it pressed against; neoliberal positivity removes the wall and, with it, the subject's capacity to know it is unfree. (`Interpretive synthesis`, across [[raw/Han - Psychopolitics/02 Smart Power]], [[raw/Han - Psychopolitics/06 Healing as Killing]], and [[raw/Han - Psychopolitics/08 Friendly Big Brother]].)
 
+## The Burnout Society (Han) — the master opposition at book length
+
+If *The Transparency Society* makes positivity vs negativity its spine pair, *[[The Burnout Society]]* makes it the load-bearing wall of an entire book. The book opens with a pathological history of the present: "Every age has its signature afflictions," and the twenty-first century's "is determined neither by bacteria nor by viruses, but by neurons." The decisive move is to recast these neuronal illnesses as the wrong *kind* of harm for the immunological paradigm: "Neurological illnesses such as depression, attention deficit hyperactivity disorder (ADHD), borderline personality disorder (BPD), and burnout syndrome … are not infections, but infarctions; they do not follow from the negativity of what is immunologically foreign, but from an excess of positivity" (`Directly stated`, [[raw/Han - The Burnout Society/02 Neuronal Power]]). This is the *infarction-not-infection* argument, and it is the diagnostic core from which all of Han's later positivity/negativity work proceeds. Because "Otherness is disappearing, we live in a time that is poor in negativity. And so, the neuronal illnesses of the twenty-first century follow a dialectic: not the dialectic of negativity, but that of positivity" (`Directly stated`, [[raw/Han - The Burnout Society/02 Neuronal Power]]). The harm is no longer the immunological Other intruding from outside; it is the "violence of positivity" that "does not deprive, it saturates; it does not exclude, it exhausts" — what Han names [[Neuronal Violence|neuronal violence]], "a terror of immanence" that is "systemic — that is, system-immanent."
+
+The second chapter supplies the *historical* engine of the tipping: the shift from a disciplinary to an [[Achievement Society|achievement society]]. "Disciplinary society is a society of negativity. It is defined by the negativity of prohibition. The negative modal verb that governs it is May Not." Achievement society discards this: "Unlimited Can is the positive modal verb of achievement society." Han's sharpest formulation of the diagnosis as a difference in *symptom* follows: "Disciplinary society is still governed by no. Its negativity produces madmen and criminals. In contrast, achievement society creates depressives and losers" (`Directly stated`, [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]). The achievement-subject is "lord and master of itself," subject to no external instance of domination — but "the disappearance of domination does not entail freedom"; it makes "freedom and constraint coincide," and "excess work and performance escalate into [[Auto-Exploitation|auto-exploitation]]," which "is more efficient than allo-exploitation, for the feeling of freedom attends it." Here the pathology register and the power register interlock: positivity is more productive than negativity ("The positivity of Can is much more efficient than the negativity of Should"), which is precisely why the social unconscious switches to it — and why the resulting violence is invisible, internalized, and self-administered. (`Strongly implied` as the bridge to the [[#Psychopolitics (Han) — positivity vs negativity as a theory of power]] register; `Directly stated` for the quoted claims, [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]].)
+
+The book's normative ground — why "poor in negativity" is a diagnosis and not a neutral description — is laid in "The Pedagogy of Seeing," where Han reaches for the same Hegelian register that anchors the Transparency-Society spine. "If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive" (`Directly stated`, [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]). Negativity here is the capacity for interruption, refusal, and the "no": the *vita contemplativa* "offers resistance to crowding, intrusive stimuli," and "a real turn to the [[The Other|Other]] presupposes the negativity of an interruption." Without it, "thinking" degrades "into calculation" — the human and the social "transforming into autistic performance-machines," the computer being the limit case, "a machine of positivity [Positivmaschine]" precisely "because negativity is absent." This chapter also introduces, but does not exhaust here, the *faculty-level* distinction that the vault tracks separately as [[Positive Potency vs Negative Potency]]: "There are two forms of potency. Positive potency is the power to do something. Negative potency, in contrast, is the power not to do — to adopt Nietzsche's phrasing, the power to say no." That pair refines the broad positivity/negativity diagnosis into a claim about *abilities* (the power-not-to that "total positivization" abolishes); it is a distinct analytic axis and is developed in its own note, not duplicated here. (`Directly stated` for the quoted Hegel and potency passages; the relation between the two pairs is `Interpretive synthesis`, [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]].)
+
 ## Authors and Books That Discuss It
 
 - [[Byung-Chul Han]] in [[The Transparency Society]] — frames the entire book as the diagnosis of a "society of negativity . . . yielding to a society that progressively dismantles negativity in favor of positivity" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Byung-Chul Han]] in [[Psychopolitics]] — transposes the opposition into a typology of power: disciplinary "negativity" (prohibition, threat, shock) versus the neoliberal "positivity" of [[Smart Power|smart power]] (permission, stimulus, Liking, seduction), with the thesis that "the violence of positivity is just as destructive as the violence of negativity" ([[raw/Han - Psychopolitics/06 Healing as Killing]]).
+- [[Byung-Chul Han]] in [[The Burnout Society]] — develops the opposition as a *pathology/diagnosis* axis: the neuronal illnesses of the present "are not infections, but infarctions" deriving "from an excess of positivity" and following "not the dialectic of negativity, but that of positivity" ([[raw/Han - The Burnout Society/02 Neuronal Power]]); the historical engine is the shift to an [[Achievement Society|achievement society]] — "Disciplinary society is still governed by no. … achievement society creates depressives and losers" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]); the Hegelian ground is that "negativity is precisely what keeps existence [Dasein] alive" against "the total positivization of the world" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]).
 - [[Hegel|G. W. F. Hegel]] (cited by Han) — supplies the dialectical concept of negativity Han defends: Spirit has "power . . . only by looking the negative in the face and tarrying with it" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Friedrich Nietzsche]] (cited by Han) — supplies the claim that depth, "profundity, secret, mask, spirit, cunning, greatness" are granted "through suffering, through the discipline of great suffering" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Walter Benjamin]] (cited by Han) — supplies the cult-value/exhibition-value distinction and the claim that beauty requires the secret of the veil ([[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]], [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]).
@@ -121,6 +134,8 @@ What keeps this register from collapsing into mere preference for the negative i
 - [[Auto-Exploitation]]
 - [[Achievement Society]]
 - [[Society of Control]]
+- [[Neuronal Violence]]
+- [[Positive Potency vs Negative Potency]]
 
 ## Possible Synthesis or Unresolved Status
 
@@ -300,3 +315,36 @@ Relevant passage:
 > But the violence of positivity is just as destructive as the violence of negativity. Neoliberal psychopolitics, with the consciousness industry it promotes, is destroying the human soul, which is anything but a machine of positivity (Positivmaschine).
 
 Supports: The symmetry thesis that keeps the power register from being a simple preference for the negative — positive power is "just as destructive" as negative power. Label: `Directly stated`.
+
+### Source 16
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> Because Otherness is disappearing, we live in a time that is poor in negativity. And so, the neuronal illnesses of the twenty-first century follow a dialectic: not the dialectic of negativity, but that of positivity.
+
+Supports: Grounds the pathology register under "[[#The Burnout Society (Han) — the master opposition at book length]]": the present's neuronal illnesses follow the dialectic of positivity, not negativity — the *infarction-not-infection* diagnosis and the source of the [[Neuronal Violence]] mechanism. Label: `Directly stated`.
+
+### Source 17
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> Disciplinary society is still governed by no. Its negativity produces madmen and criminals. In contrast, achievement society creates depressives and losers.
+
+Supports: Names the historical engine of the tipping — the move from disciplinary (negativity, "no") to [[Achievement Society|achievement society]] (positivity, "Can") — as a difference in symptom, linking the pathology register to [[Auto-Exploitation]] and bridging toward the power register. Label: `Directly stated`.
+
+### Source 18
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive.
+
+Supports: Supplies the Hegelian normative ground — negativity as the condition of life and thought against "total positivization" — and introduces the faculty-level distinction tracked separately in [[Positive Potency vs Negative Potency]]. Label: `Directly stated`.

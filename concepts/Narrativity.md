@@ -6,6 +6,8 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/09 Ch6 - Intimacy]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related:
   - "[[Negativity]]"
   - "[[Ritual]]"
@@ -45,6 +47,14 @@ In the "Big Data" chapter of *[[Psychopolitics]]*, Han carries narrativity out o
 The argument is most pointed where Han turns to memory. "Human memory is a narrative, an account; forgetting forms a necessary component. In contrast, digital memory is a matter of seamless addition and accumulation" (Source 5). Narrative memory is therefore selective in a way digital storage cannot be: it depends on forgetting, and it is "subject to constant rewriting and rearrangement" — Han enlists Freud's thesis that memory traces are "subjected from time to time to a rearrangement in accordance with fresh circumstances," so that "the past - as something that remains self-identical and is always to be retrieved in the same form - does not exist." Digital memory, by contrast, "consists of indifferent - as it were, undead - points of presence" and "lacks the extended horizon constituting the temporality of the living." The autobiographical form is narrative ("memorial writing"); "a timeline, on the other hand, recounts nothing. It simply enumerates and adds up events or information." This sets the living, forgetting, narrative memory of the self against the undead, total, additive memory of the Digital — Han's [[Psychopolitics]]-register elaboration of the [[Memory]] / [[Storage]] distinction already implicit in his account of narrativity (`Directly stated`).
 
 Finally, narrativity is what Han, reading [[Hegel]], opposes to the merely additive at the level of knowledge itself: "constant addition yields no conclusion, no syllogism," and "Syllogism is not addition, but narration." Because Big Data "is purely additive; it never comes to an end, to a conclusion," it "lacks comprehension … and thus it lacks Spirit," so that "theoretical thinking represents a narrative form of knowledge." Narration here is the form in which beginning and end "form a meaningful set of relations - a unity that makes sense," which is why "Rituals and ceremonies are syllogistic forms too … As narratives, they defy acceleration." The loss of narrativity is thus, once more, the condition of total acceleration — "when all syllogistic forms fall apart … total acceleration sets in" — confirming across both books that, for Han, the crisis is not speed but the dissolution of narrative form (`Directly stated`).
+
+## The Burnout Society (Han) — denarrativization, loss of Bestand, and bare life
+
+In *[[The Burnout Society]]*, Han gives narrativity its starkest existential and biopolitical register: the loss of narrative is what reduces life to *bare life* and licenses the absolute compulsion to survive. The hinge is in the "Vita Activa" chapter, where Han locates the source of late-modern "hectic nervousness" not in Arendt's *animal laborans* but in a *loss of being*: "The modern loss of faith does not concern just God or the hereafter. It involves reality itself and makes human life radically fleeting. … Nothing promises duration or substance [Bestand]." Even the consolations that once supplied a sense of duration are spent — "religions, as thanatotechnics that would remove the fear of death and produce a feeling of duration, have run their course." Into this lack of Being steps the decisive sentence for this note: "The general denarrativization of the world is reinforcing the feeling of fleetingness. It makes life bare. Work itself is a bare activity. The activity of bare laboring corresponds entirely to bare life. Merely working and merely living define and condition each other" (Source 6). Where *[[The Transparency Society]]* read denarrativization as the eclipse of negativity, destiny, and the *Roman*, and *[[Psychopolitics]]* read it as the triumph of additive data over recounting, *The Burnout Society* reads it as the stripping-away of narrative duration that leaves only [[Bare Life|bare life]] (`Directly stated`).
+
+This is the seam to Han's reworking of Agamben. Because "a narrative thanatotechnics proves lacking, the unconditional compulsion arises to keep bare life healthy"; with the death of God, "health rose to divine status," and "life today is even barer than the life of homo sacer" — not absolutely expendable but "absolutely untötbar," undead, holy, and therefore "to be preserved at any cost." Denarrativization thus does not merely impoverish experience; it converts the whole of [[Achievement Society]] into a population of *homines sacri* whose sole remaining value is health (`Directly stated`). The valence differs from the [[Transparency]]-society treatment — there narrativity's loss was an aesthetic-temporal flattening; here it is an ontological reduction that makes [[Negativity|negativity]] (death, the Other, destiny) disappear and so makes the compulsion to survive total.
+
+The "Burnout Society" chapter completes the argument at the level of value. "The capitalist economy absolutizes survival. It is not concerned with the good life. … The reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity. It takes livingness from life, which is much more complex than simple vitality and health." The result is Han's flattest image of the denarrativized life: "The mania for health emerges when life has become as flat as a coin and stripped of all narrative content, all value" (Source 7). With "the loss of ideal values" there remains "only health value" beside "the exhibition value of the ego," and "bare life makes all teleology vanish — every in-order-to [jedes Umzu]." The inner logic of achievement society then "dictates its evolution into a [[Doping Society|doping society]]." This is the register in which the vault argument [[The crisis is not acceleration but loss of narrativity]] reaches its limit case: it is not speed that hollows life but denarrativization, which here does not merely scatter temporality (the Transparency-society claim) but voids life of all narrative content and value — leaving only the holy, undead, "as flat as a coin" survival of bare life (`Interpretive synthesis`).
 
 ## Authors and Variants
 
@@ -151,3 +161,29 @@ And:
 > Digital memory consists of indifferent - as it were, undead - points of presence. It lacks the extended horizon constituting the temporality of the living.
 
 Supports: Grounds the claim that human memory is narrative and depends on forgetting and rearrangement, against the additive, "undead," total memory of the Digital — the [[Memory]] / [[Storage]] distinction in its *Psychopolitics* form, and the "timeline … recounts nothing" formulation. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> The modern loss of faith does not concern just God or the hereafter. It involves reality itself and makes human life radically fleeting. Life has never been as fleeting as it is today. Not just human life, but the world in general is becoming radically fleeting. Nothing promises duration or substance [Bestand].
+
+And:
+
+> Even religions, as thanatotechnics that would remove the fear of death and produce a feeling of duration, have run their course. The general denarrativization of the world is reinforcing the feeling of fleetingness. It makes life bare. Work itself is a bare activity. The activity of bare laboring corresponds entirely to bare life. Merely working and merely living define and condition each other.
+
+Supports: Grounds the *Burnout Society* register of denarrativization — its loss is the loss of duration/substance [Bestand] and the reduction of life to [[Bare Life|bare life]], with religions (as narrative thanatotechnics) spent. Anchors the claim that "merely working and merely living define and condition each other" and the conversion of [[Achievement Society]] into a population of *homines sacri* whose remaining value is health. Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The capitalist economy absolutizes survival. It is not concerned with the good life. … The reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity. It takes livingness from life, which is much more complex than simple vitality and health. The mania for health emerges when life has become as flat as a coin and stripped of all narrative content, all value.
+
+Supports: Grounds the value-register claim that the absolutization of survival strips life of all narrative content and value ("as flat as a coin"), leaving only health value beside [[Exhibition Value|the exhibition value of the ego]], and that achievement society's inner logic "dictates its evolution into a [[Doping Society|doping society]]." The limit case of [[The crisis is not acceleration but loss of narrativity]]. Label: `Directly stated`.

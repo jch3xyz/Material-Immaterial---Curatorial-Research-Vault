@@ -10,8 +10,10 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
+  - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Byung-Chul Han ↔ Hegel
@@ -53,9 +55,17 @@ The third and central move runs Han's whole **Big Data argument through Hegel's 
 
 Taken together, the *Psychopolitics* deployment shifts the Han↔Hegel relationship from the largely affirmative borrowing of the *Transparency Society* (where Hegel's Spirit is a measure of the present) to a mixed posture: Hegel's Logic is wielded affirmatively as the standard that exposes Big Data's poverty, while Hegel's master–slave verdict is explicitly corrected. The connecting thread across both books is [[Negativity]]: the negative that Spirit must tarry with, that thinking requires to become "different-from-itself," and that the Concept supplies as the comprehending "third" missing from mere correlation (`Interpretive synthesis`).
 
+## The Burnout Society (Han) — negativity keeps Dasein alive; the master/slave inversion
+
+*The Burnout Society* (Han's earlier book, the companion to *The Transparency Society*) makes the same two Hegelian moves the later books develop, here in their seminal form. The first enlists Hegel against **total positivization**. Diagnosing the late-modern subject as an "autistic performance-machine," Han argues that the elimination of [[Negativity]] turns thinking into mere calculation and the human being into [[The Machine of Positivity|a machine of positivity]] — verbatim: "It is a machine of positivity [Positivmaschine]." Against this, he invokes Hegel directly: "If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive." Negativity here is the "negative potency" — "the power not to do," "the power to say no" — without which the senses "would stand utterly at the mercy of rushing, intrusive stimuli" and "no 'spirituality' would be possible." This is the *Transparency Society*'s Spirit-that-tarries-with-the-negative re-stated as an anthropological claim: man is a *Negativitätswesen*, and the [[Positivity vs Negativity|positivization]] that abolishes the negative to accelerate itself is, on Hegel's authority, a threat to life as such (`Directly stated`).
+
+The second move **inverts the master–slave dialectic**, in the formulation that *Psychopolitics* would later sharpen. In "Vita Activa," tracing why "all human activities in late modernity are sinking to the level of mere laboring," Han concludes that "the society of laboring and achievement is not a free society. It generates new constraints." The Hegelian dialectic does not, as the *Phenomenology* promised, terminate in emancipation through work; verbatim: "Ultimately, the dialectic of master and slave does not yield a society where everyone is free and capable of leisure, too. Rather, it leads to a society of work in which the master himself has become a laboring slave." This is the totalization of labour in nuce — "everyone carries a work camp inside," "one is simultaneously prisoner and guard, victim and perpetrator," and so "one exploits oneself": [[Auto-Exploitation|auto-exploitation]] that "is possible even without domination." The [[Achievement Society|achievement society]] is therefore the master/slave dialectic run to its inverted conclusion, the leisured free society of Hegel's promise turned into a universal labour camp (`Directly stated`).
+
+Read alongside the *Transparency Society* and *Psychopolitics* sections above, *The Burnout Society* is the origin point of both threads: the master/slave inversion that *Psychopolitics* restates almost word-for-word ("counter to what Hegel assumed, labouring does not make the slave free … Today's dialectic of master and slave means the totalization of labour"), and the appeal to Hegelian [[Negativity]] as "what keeps existence alive" that *Psychopolitics* echoes via the *Encyclopedia Logic* ("Without negativity, life degrades into 'something dead'"). The through-line is unchanged across all three books: negativity is the measure, and its liquidation is the disease (`Interpretive synthesis`).
+
 ## Confidence
 
-High. Han names Hegel explicitly in both chapters, places quoted Hegelian formulae in quotation marks, and builds his core opposition between [[Positivity]] and [[Negativity]] directly on Hegel's account of Spirit and thinking. There is no interpretive leap required to establish the relationship. The *Psychopolitics* additions are likewise direct citations — Han quotes the *Encyclopedia Logic* and *Science of Logic* by note and corrects the *Phenomenology*'s master–slave verdict by name — with only the cross-book synthesis (the through-line of negativity uniting both deployments) labelled `Interpretive synthesis`.
+High. Han names Hegel explicitly in both chapters, places quoted Hegelian formulae in quotation marks, and builds his core opposition between [[Positivity]] and [[Negativity]] directly on Hegel's account of Spirit and thinking. There is no interpretive leap required to establish the relationship. The *Psychopolitics* additions are likewise direct citations — Han quotes the *Encyclopedia Logic* and *Science of Logic* by note and corrects the *Phenomenology*'s master–slave verdict by name — with only the cross-book synthesis (the through-line of negativity uniting both deployments) labelled `Interpretive synthesis`. The *Burnout Society* additions are equally direct: Han names Hegel for the thesis that "negativity is precisely what keeps existence [Dasein] alive" and for the master/slave verdict that yields "a society of work in which the master himself has become a laboring slave." Only the claim that these earlier formulations are the origin point of the later books' threads is labelled `Interpretive synthesis`.
 
 ## Sources
 
@@ -113,3 +123,25 @@ Relevant passage:
 > Hegel's Logic may also be read as the logic of knowledge. Here, correlation represents the most primitive level. A strong correlation between A and B means that if A changes, a change also occurs in B. But when a correlation holds - however strong it may be —one still does not know why this is the case. It just is that way. Correlation represents a relation of probability, not of necessity. It declares: A often occurs together with B. That is the difference between correlation and causation, which is distinguished by necessity: A causes B. [...] Only the 'Concept' brings forth knowledge. The Concept is C, which comprehends within itself {in sich begreift} A and B [...] Big Data lacks comprehension - it lacks the Concept - and thus it lacks Spirit. The absolute knowledge intimated by Big Data coincides with absolute ignorance.
 
 Supports: The central *Psychopolitics* argument, run through Hegel's *Logic*. The verbatim correlation/causation/Concept ladder shows why Big Data, halting at correlation, "lacks the Concept and so lacks Spirit," so that "absolute knowledge ... coincides with absolute ignorance." Grounds the claim that data-driven knowledge is "the absolute zero of Spirit," an "epoch without reason." Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive.
+
+Supports: The seminal *Burnout Society* statement of the negativity thread — Hegel enlisted against total positivization. Man as a *Negativitätswesen* whose "negative potency" (the "power not to do," "the power to say no") is the condition of "spirituality"; without it the subject becomes [[The Machine of Positivity|a machine of positivity]] ("Positivmaschine"). This is the earliest form of the appeal later restated in *Psychopolitics* via the *Encyclopedia Logic* ("Without negativity, life degrades into 'something dead'"). Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> The society of laboring and achievement is not a free society. It generates new constraints. Ultimately, the dialectic of master and slave does not yield a society where everyone is free and capable of leisure, too. Rather, it leads to a society of work in which the master himself has become a laboring slave.
+
+Supports: The seminal *Burnout Society* statement of the master/slave inversion — the totalization of labour in nuce. The Hegelian dialectic terminates not in leisured freedom but in a universal labour camp where "one is simultaneously prisoner and guard, victim and perpetrator," so "one exploits oneself" — grounding [[Auto-Exploitation|auto-exploitation]] "without domination" and the [[Achievement Society|achievement society]]. *Psychopolitics* restates this almost verbatim ("Today's dialectic of master and slave means the totalization of labour"). Label: `Directly stated`.

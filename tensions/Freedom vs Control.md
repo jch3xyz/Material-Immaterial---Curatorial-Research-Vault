@@ -12,6 +12,8 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/02 Smart Power]]"
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
+  - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[Digital Panopticon]]"
@@ -22,7 +24,7 @@ related_concepts:
   - "[[Trust]]"
   - "[[Neoliberal Dispositive]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Freedom vs Control
@@ -36,7 +38,7 @@ The peculiarity of Han's [[Freedom vs Control|Dialectic of Freedom]] is that the
 
 ## General Orientation
 
-This note currently tracks a single author, Byung-Chul Han, across two books, but the two treatments are distinct enough to keep separate. In *The Transparency Society* (below, under "Why It Matters" and Sources 1–5), the switch is staged at the level of *communication and visibility*: freedom becomes control because unrestricted self-exposure perfects the [[Digital Panopticon]]. In *Psychopolitics* (the section below) the switch is staged at the level of *power and the psyche*: the claim sharpens to an identity — "self-optimization and submission, freedom and exploitation, fall into one" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma|Foucault's Dilemma]]). Where the transparency account describes a dialectical *Umschlag* (freedom switching into control), the psychopolitical account describes power that has *shed its negativity* altogether and "present[s] itself as freedom" ([[raw/Han - Psychopolitics/02 Smart Power|Smart Power]]). Read the two as one continuous argument deepening from medium to subject-formation rather than as two separate theses. `Interpretive synthesis`
+This note currently tracks a single author, Byung-Chul Han, across three books, but the treatments are distinct enough to keep separate. In *The Transparency Society* (below, under "Why It Matters" and Sources 1–5), the switch is staged at the level of *communication and visibility*: freedom becomes control because unrestricted self-exposure perfects the [[Digital Panopticon]]. In *The Burnout Society* (the section below it) the dialectic is staged at the level of the *psyche of the achievement-subject*: the disappearance of domination "does not entail freedom" but "makes freedom and constraint coincide," and on the basis of that "paradoxical freedom" the subject becomes "simultaneously perpetrator and victim, master and slave" until "freedom and violence now coincide" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). In *Psychopolitics* (the last section) the switch is staged at the level of *power and the psyche*: the claim sharpens to an identity — "self-optimization and submission, freedom and exploitation, fall into one" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma|Foucault's Dilemma]]). Where the transparency account describes a dialectical *Umschlag* (freedom switching into control), *The Burnout Society* names the dialectic of freedom directly — freedom as the producer of its own constraint — and the psychopolitical account describes power that has *shed its negativity* altogether and "present[s] itself as freedom" ([[raw/Han - Psychopolitics/02 Smart Power|Smart Power]]). *The Burnout Society* is the earliest and most concentrated statement of the dialectic the other two sections track. Read the three as one continuous argument deepening from medium to subject-formation rather than as separate theses. `Interpretive synthesis`
 
 ## Why It Matters
 
@@ -47,11 +49,20 @@ The tension matters because it forecloses two intuitive escape routes at once: o
 ## Authors and Books That Discuss It
 
 - [[Byung-Chul Han]] in [[The Transparency Society]] — Stages the tension as a dialectic in which freedom *is* control's most efficient mode. The closing line of Ch9 — "Freedom turns out to be a form of control" — is the book's most compressed statement of the thesis.
+- [[Byung-Chul Han]] in *The Burnout Society* — Names the dialectic in the psyche of the achievement-subject: "the disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide," culminating in the formula "Freedom and violence now coincide." See the dedicated section below.
 - [[Byung-Chul Han]] in *Psychopolitics: Neoliberalism and New Technologies of Power* — Intensifies the tension to the point of identity. "Freedom itself, which is supposed to be the opposite of constraint, is producing coercion"; power "present[s] itself as freedom"; "self-optimization and submission, freedom and exploitation, fall into one." See the dedicated section below.
 - [[Jeremy Bentham]] (via Han's reading) — The original panopticon presupposed an isolated, silenced subject coerced from a central tower. Han uses Bentham as the *contrast* showing how thoroughly the digital case has shed external constraint.
 - [[Michel Foucault]] (implicit interlocutor) — Disciplinary power, which Han argues has been superseded by an aperspectival control that runs on freedom rather than discipline.
 - [[Jean Baudrillard]] — Quoted in Ch9 announcing "the end of 'the perspectival truth of the panoptic system'" — Han partially agrees (perspective is gone) and partially overturns him (the panopticon has not ended but mutated).
 - [[David Brin]] — His call for "the surveillance of all by all" is presented as the very figure of the freedom-as-control collapse.
+
+## The Burnout Society (Han) — compulsive freedom; freedom and violence coincide
+
+In *The Burnout Society*, Han gives the dialectic its most concentrated formulation, located not in the medium of communication but in the psyche of the [[Achievement Society|achievement-subject]]. The argument turns on the *disappearance* of an external master: the achievement-subject "stands free from any external instance of domination [Herrschaftsinstanz] forcing it to work, much less exploiting it. It is lord and master of itself." But this self-mastery is precisely the trap. "However, the disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide. Thus, the achievement-subject gives itself over to compulsive freedom—that is, to the free constraint of maximizing achievement" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]). Freedom here is not abolished by control; the loss of an external dominator *is itself* the condition under which freedom and constraint become one. The result is "a paradoxical freedom that abruptly switches over into violence because of the compulsive structures dwelling within it." `Directly stated`
+
+This is the engine of [[Auto-Exploitation]] and the realization of [[Exploitation of Freedom]]: "Excess work and performance escalate into auto-exploitation. This is more efficient than allo-exploitation, for the feeling of freedom attends it. The exploiter is simultaneously the exploited. Perpetrator and victim can no longer be distinguished" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]). The *feeling* of freedom is again the load-bearing operator, exactly as in the Transparency account — it is what makes self-imposed constraint more productive than coerced labor. Because the constraint is self-generated, no outside instance remains against which freedom could be defended; the subject "considers itself free" even as it is destroyed. `Directly stated`
+
+The argument reaches its terminal formula in the closing chapter, where Han collapses sovereign and slave into a single figure. "Exploitation now occurs without domination. That is what makes self-exploitation so efficient. [...] On the basis of the paradoxical freedom it holds, the achievement-subject is simultaneously perpetrator and victim, master and slave. Freedom and violence now coincide" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). The achievement-subject "that understands itself as its own master, as homo liber, turns out to be [[Homo Sacer|homo sacer]]." This is the statement of the dialectic that the Transparency and Psychopolitics sections track from their respective angles: the same identity Han later sharpens in *Psychopolitics* ("freedom and exploitation, fall into one") and the same collapse he stages in *The Transparency Society* ("Freedom turns out to be a form of control"). The vault's argument [[Freedom itself is producing coercion]] is, in *The Burnout Society*, given as the coincidence of freedom with its own violence: "Auto-compulsion, which presents itself as freedom, takes the place of allo-compulsion." `Directly stated`
 
 ## Psychopolitics (Han) — freedom itself producing coercion
 
@@ -211,4 +222,28 @@ Relevant passage:
 > Under neoliberalism, the technology of power takes on a subtle form. It does not lay hold of individuals directly. Instead, it ensures that individuals act on themselves so that power relations are interiorized - and then interpreted as freedom. Self-optimization and submission, freedom and exploitation, fall into one. Such engineering of freedom and exploitation, which occurs in order to effect self-exploitation, is what escaped Foucault.
 
 Supports: The sharpest statement of the tension as an *identity* rather than a switch — "freedom and exploitation, fall into one." Grounds the [[Michel Foucault]] linkage (Han's correction of the "technologies of the self") and the claim that this is the most intensified form of the tension in the vault.
+Label: `Directly stated`
+
+### Source 12
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> The achievement-subject stands free from any external instance of domination [Herrschaftsinstanz] forcing it to work, much less exploiting it. It is lord and master of itself. Thus, it is subject to no one—or, as the case may be, only to itself. It differs from the obedience-subject on this score. However, the disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide. Thus, the achievement-subject gives itself over to compulsive freedom—that is, to the free constraint of maximizing achievement. Excess work and performance escalate into auto-exploitation. This is more efficient than allo-exploitation, for the feeling of freedom attends it. The exploiter is simultaneously the exploited. Perpetrator and victim can no longer be distinguished. Such self-referentiality produces a paradoxical freedom that abruptly switches over into violence because of the compulsive structures dwelling within it.
+
+Supports: The core *Burnout Society* statement of the dialectic — the disappearance of an external master does not produce freedom but "makes freedom and constraint coincide." Names "compulsive freedom" and grounds the [[Auto-Exploitation]] linkage (the feeling of freedom makes self-exploitation more efficient; perpetrator and victim become indistinguishable). The "paradoxical freedom that abruptly switches over into violence" is the bridge to Source 13.
+Label: `Directly stated`
+
+### Source 13
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> Exploitation now occurs without domination. That is what makes self-exploitation so efficient. The capitalist system is switching from allo-exploitation to auto-exploitation in order to accelerate. On the basis of the paradoxical freedom it holds, the achievement-subject is simultaneously perpetrator and victim, master and slave. Freedom and violence now coincide. The achievement-subject that understands itself as its own master, as homo liber, turns out to be homo sacer.
+
+Supports: The terminal formula of the dialectic — "Freedom and violence now coincide" — and the collapse of master and slave, sovereign (homo liber) and homo sacer, into a single subject. This is *The Burnout Society*'s most compressed statement of the tension the Transparency and Psychopolitics sections also track, and it grounds the argument [[Freedom itself is producing coercion]] as the coincidence of freedom with its own violence.
 Label: `Directly stated`

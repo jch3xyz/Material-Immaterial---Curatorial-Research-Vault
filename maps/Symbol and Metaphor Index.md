@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 # Symbol and Metaphor Index
@@ -70,6 +70,13 @@ All symbol and metaphor notes.
 - [[The Age of the Iron Whim]] — the typewriter-and-typist as agents of female vocation and the homogenizing of business; the 'twelve-pound look' (McLuhan)
 - [[The Tribal Drum]] — radio reaching the subliminal depths, turning psyche and society into 'a single echo chamber' (McLuhan)
 - [[The Schmoo]] — Al Capp's creature as the figure of automation's custom-on-demand abundance; the custom-built supplanting the mass-produced (McLuhan)
+- [[The Project as Projectile]] — the self-as-project boomeranging back as self-aggression; freedom's collapse into auto-violence (Han, The Burnout Society)
+- [[Prometheus and the Eagle]] — Kafka's Prometheus reread as self-exploitation: the eagle the chained hero's own exhaustion feeding on itself (Han, The Burnout Society)
+- [[The Dream Bird That Hatches the Egg of Experience]] — Benjamin's figure for deep boredom as the womb of creative experience, killed by hyperattention (Han, The Burnout Society)
+- [[Dancing Escapes the Achievement-Principle]] — the walking → running → dancing parable: dancing as the leap out of the logic of acceleration and achievement (Han, The Burnout Society)
+- [[The Machine of Positivity]] — the computer / positivized mind as Positivmaschine: a calculating apparatus with no negativity, no hesitation, no no (Han, The Burnout Society)
+- [[The Pentecostal Company]] — Handke's society of inspired not-doing; a community gathered in tiredness rather than performance (Han, The Burnout Society)
+- [[The Internal Work Camp]] — everyone carries a work camp inside; the achievement-subject as guard and inmate at once (Han, The Burnout Society)
 
 ## Symbols
 

@@ -6,6 +6,7 @@ sources:
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
 related:
   - "[[Digital Panopticon]]"
   - "[[Aperspectival Panopticon (Han)]]"
@@ -13,13 +14,15 @@ related:
   - "[[Auto-Exploitation]]"
   - "[[Transparency]]"
   - "[[Gleichschaltung]]"
+  - "[[Achievement Society]]"
 opposes:
   - "[[Freedom vs Control]]"
+  - "[[Discipline vs Achievement]]"
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Gilles Deleuze]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Society of Control
@@ -48,9 +51,17 @@ Han then reads Deleuze's body/soul distinction as the hinge between [[Byung-Chul
 
 Two later chapters reinforce the formation. In ch.8 ("Friendly Big Brother") Han argues the [[Digital Panopticon]] surpasses Orwell's surveillance state by abolishing the gap between watching and being-watched: "1984 did not signal the end of the surveillance state so much as the inception of a new kind of control society." Its defining feature is voluntary, friendly participation rather than coercion — "Smartphones have been substituted for torture chambers. Big Brother now wears a friendly face" — culminating in the dissolution of the [[Freedom vs Control]] distinction: "Now, communication and control have become one, without remainder. Now, everyone is his or her own panopticon." In ch.11 ("Big Data") the control society reaches technical completion: digital surveillance "is aperspectival," it "can peer into the human soul itself," and "The expansion of Web 2.0, the internet of persons, to Web 3.0, the internet of things, is bringing digital control society to completion." Big Data here is psychopolitical rather than biopolitical — "digital psychopolitics manages to intervene in psychic processes in a prospective fashion. Quite possibly, it is even faster than free will" — and so "could overtake it. If so, this would herald the end of freedom." (Directly stated — *Psychopolitics* ch.8, ch.11.)
 
+## The Burnout Society (Han) — control rejected as the successor regime
+
+In *The Burnout Society* (ch. "Beyond Disciplinary Society") Han **rejects** "control society" as the name for the regime that succeeds discipline — a notable reversal of the *Transparency Society* / *Psychopolitics*-era treatment, where he adopts Deleuze's control-society periodization. Diagnosing the present as a "society of fitness studios, office towers, banks, airports, shopping malls, and genetic laboratories," he names the successor formation [[Achievement Society]] rather than control: "Twenty-first-century society is no longer a disciplinary society, but rather an achievement society [Leistungsgesellschaft]." Crucially, he disqualifies *both* Foucault's framework and the control-society concept in the same breath: "Foucault's analysis of power cannot account for the psychic and topological changes that occurred as disciplinary society transformed into achievement society. Nor does the commonly employed concept of 'control society' do justice to this change. It still contains too much negativity." (Directly stated — *The Burnout Society*.)
+
+The objection is precise and turns on Han's [[Positivity]]/[[Negativity]] axis. Control society, for him, remains too tied to the [[Negativity]] of prohibition that defines discipline: "Disciplinary society is a society of negativity. It is defined by the negativity of prohibition. The negative modal verb that governs it is May Not." The achievement society, by contrast, is governed by [[Positivity]] — "Unlimited Can is the positive modal verb of achievement society" — so its mode of compulsion is not the watched, modulated subject of control but the self-driving "achievement-subject" who "exploits itself — and it does so voluntarily, without external constraints." This is why Han here prefers *achievement* over *control* as the periodizing term: where the control-society and panoptic vocabulary still images an external (if decentered) gaze, the achievement society's coercion is internalized as [[Auto-Exploitation]] dressed as freedom — "Excess work and performance escalate into auto-exploitation. This is more efficient than allo-exploitation, for the feeling of freedom attends it. The exploiter is simultaneously the exploited." (Directly stated — *The Burnout Society*; see the argument [[The achievement society supersedes the disciplinary society]] and the tension [[Discipline vs Achievement]].)
+
+This stands in **mild tension** with the rest of this note. In *Psychopolitics* ch.3 Han embraces Deleuze's "control society" as the regime succeeding discipline (the snake replacing the mole), and in chs.8 and 11 he speaks freely of "a new kind of control society" and "digital control society." In *The Burnout Society* he instead holds that the control-society concept "still contains too much negativity" and substitutes the achievement society. The two treatments are not contradictory in substance — both diagnose a positivized, self-exploiting, post-disciplinary subject — but they differ in which periodizing *name* Han endorses, and against which earlier theorist (Deleuze in *Psychopolitics*, Foucault and the control-society concept alike in *The Burnout Society*). The continuity Han himself stresses is the production drive: "On one level, continuity holds in the paradigm shift from disciplinary society to achievement society." (Interpretive synthesis — comparison across Han's books; the individual claims are each Directly stated in their source chapters.)
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Reframes the society of control as the apotheosis of transparency and achievement: a decentered, aperspectival panopticon sustained by voluntary self-display, hypercommunication, and auto-exploitation, in which "communication and commerce, freedom and control, collapse into one." Its imperative is economic rather than the moral/biopolitical one Bentham envisaged. In *Psychopolitics* he adds the Deleuzian armature — the mole/snake, subject/project, body/soul, and debt — and names Deleuze directly, plus the claims that "communication and control have become one, without remainder" (ch.8) and that Web 3.0 completes the digital control society (ch.11). (Directly stated.)
+- **[[Byung-Chul Han]]** — Reframes the society of control as the apotheosis of transparency and achievement: a decentered, aperspectival panopticon sustained by voluntary self-display, hypercommunication, and auto-exploitation, in which "communication and commerce, freedom and control, collapse into one." Its imperative is economic rather than the moral/biopolitical one Bentham envisaged. In *Psychopolitics* he adds the Deleuzian armature — the mole/snake, subject/project, body/soul, and debt — and names Deleuze directly, plus the claims that "communication and control have become one, without remainder" (ch.8) and that Web 3.0 completes the digital control society (ch.11). In *The Burnout Society*, by contrast, he **rejects** "control society" as the successor name — it "still contains too much negativity" — and substitutes [[Achievement Society]], a mild periodizing tension with the *Psychopolitics*-era treatment. (Directly stated.)
 - **[[Gilles Deleuze]]** — Originator of the phrase "societies of control" ("Postscript on the Societies of Control," 1990), describing the passage from Foucault's enclosed disciplinary milieus to continuous modulation. *Directly stated* — in *Psychopolitics* ch.3 Han names Deleuze and cites the "Postscript" three times, supplying the provenance the *Transparency Society* chapter left implicit. Forward-stub: Deleuze has no book in the library yet. (Directly stated — *Psychopolitics* ch.3.)
 
 ## Related Concepts
@@ -208,3 +219,25 @@ Relevant passage:
 > In contrast, digital psychopolitics manages to intervene in psychic processes in a prospective fashion. Quite possibly, it is even faster than free will. As such, it could overtake it. If so, this would herald the end of freedom.
 
 Supports: Establishes the control society's psychopolitical (soul-directed, prospective) mode of operation and its threat to free will. Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> Foucault’s analysis of power cannot account for the psychic and topological changes that occurred as disciplinary society transformed into achievement society. Nor does the commonly employed concept of “control society” do justice to this change. It still contains too much negativity.
+
+Supports: The keystone passage for the Burnout Society section — Han explicitly rejects "control society" as the successor regime ("It still contains too much negativity") and names the achievement society instead, in mild tension with the *Psychopolitics*-era adoption of Deleuze's control-society periodization. Label: `Directly stated`.
+
+### Source 14
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> Disciplinary society is a society of negativity. It is defined by the negativity of prohibition. The negative modal verb that governs it is May Not. ... Unlimited Can is the positive modal verb of achievement society.
+
+Supports: Grounds the basis of Han's rejection — control society still carries the negativity of prohibition that defines discipline, whereas the achievement society is governed by positivity (the unlimited Can), the Positivity/Negativity axis on which the periodizing substitution turns. Label: `Directly stated`.

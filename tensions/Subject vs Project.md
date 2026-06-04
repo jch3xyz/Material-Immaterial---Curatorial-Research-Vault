@@ -9,8 +9,10 @@ authors:
 sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related_concepts:
   - "[[The Project (Han)]]"
+  - "[[The Project as Projectile]]"
   - "[[Beyond the Subject]]"
   - "[[Psychopolitics]]"
   - "[[Society of Control]]"
@@ -21,6 +23,10 @@ last_updated: 2026-06-02
 ---
 
 # Subject vs Project
+
+## General Orientation
+
+This tension runs across two of Byung-Chul Han's books, which name the same figure from opposite ends. *Psychopolitics* gives the **lateral, social** sense: the passage from *subject* (the cast-down *subjectum*, the disciplinary mole) to *project* (the self-fashioning neoliberal snake), where what feels like emancipation is "a more efficient kind of subjectivation and subjugation." *The Burnout Society* (ch. "Burnout Society", the **primary source** for the project-as-projectile figure) gives the **intrapsychic, self-violent** sense: the achievement-subject "positivizes itself; indeed, it liberates itself into a project," at which point "the project turns out to be a projectile that the achievement-subject is aiming at itself." The two readings are continuous — the same false antithesis (project as escape from subject) — but the *Burnout Society* section pushes it furthest, showing the project-form as **self-directed violence**: master and slave, perpetrator and victim, collapsed into one (`Interpretive synthesis`).
 
 ## The Poles
 
@@ -46,6 +52,14 @@ What is at stake is whether emancipation can be sought *inside* this opposition 
 - [[Achievement Society]] — the labour-form correlate of the project-subject.
 - [[Auto-Exploitation]] — what the project does to itself once master and slave collapse into one.
 - [[Exploitation of Freedom]] — the mechanism by which the project's freedom is harvested.
+
+## The Burnout Society (Han) — the project as projectile (PRIMARY source)
+
+In *The Burnout Society*, Han traces the *subject → project* turn to its intrapsychic root in the shift from the Freudian/Kantian **superego** to the **ego ideal**. "In the transition from disciplinary society to achievement society, the superego positivizes itself into the ego ideal." Where the repressive superego *prohibits* and rules with the "harshly restraining, cruelly prohibiting quality" of the "dictatorial 'Thou shalt'", the ego ideal *seduces*: "The achievement-subject projects itself [entwirft sich] onto the ego ideal, whereas the obedience-subject subjects itself [sich unterwift] to the superego." Subjection and projection, Han insists, "are two different modes of existence" — and "projecting oneself into the ego ideal is interpreted as an act of freedom." This is the same hinge the *Psychopolitics* poles turn on, but read here from inside the psyche: the project pole is not a station beyond the subject so much as the superego that has learned to seduce rather than command (`Directly stated`).
+
+The figure's violence becomes explicit. The achievement-subject "is no longer a subject in the etymological sense (subject to, *sujet à*)"; "it positivizes itself; indeed, it liberates itself into a project." But "the change from subject to project does not make power or violence disappear" — "auto-compulsion, which presents itself as freedom, takes the place of allo-compulsion." When the ego "gets caught in an unattainable ego ideal, it gets crushed altogether," and "the gap between the real ego and the ego ideal then brings forth auto-aggression." Han's metaphor names the whole movement: "**The project turns out to be a projectile that the achievement-subject is aiming at itself.**" See [[The Project as Projectile]]. The project, that is, is not merely a more efficient form of capture (the *Psychopolitics* reading) but a weapon turned inward — "exogenous violence is replaced by self-generated violence, which is more fatal than its counterpart inasmuch as the victim of such violence considers itself free" (`Directly stated`).
+
+This deepens, rather than displaces, the *Psychopolitics* opposition. Both books show the project as the false resolution of the subject: in *Psychopolitics* it is the snake's felt freedom that re-subjugates the I; in *The Burnout Society* the same felt freedom makes the achievement-subject "simultaneously perpetrator and victim, master and slave," so that "the achievement-subject exploits itself until it burns out." The project pole here collapses the two poles of [[The Mole and the Snake]] into a single self-relation — [[Auto-Exploitation]] as the project's mode of operation — and supplies the curatorially sharpest version of the figure: the self-fashioning I of [[The Project (Han)]] is not the overcoming of subjection but its internalization as a self-aimed projectile, with [[Achievement Society]] as its labour-form (`Strongly implied`).
 
 ## Possible Synthesis or Unresolved Status
 
@@ -96,3 +110,36 @@ Relevant passage:
 > The passage from the mole to the snake - from subject to project - does not amount to setting out for an entirely new way of life; instead, it represents a mutation, indeed an intensification, of capitalism, which remains one and the same.
 
 Supports: Shows the poles share one substance and that the project is no escape from the subject but an intensification — grounding the "dissolved, not synthesized" reading of the tension. Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The achievement-subject projects itself [entwirft sich] onto the ego ideal, whereas the obedience-subject subjects itself [sich unterwift] to the superego.
+
+Supports: Grounds the *subject*/*project* opposition intrapsychically in the shift from superego (subjection) to ego ideal (projection), the primary-source root of the figure *Psychopolitics* states laterally. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The late-modern achievement-subject is subject to no one. In fact, it is no longer a subject in the etymological sense (subject to, sujet à). It positivizes itself; indeed, it liberates itself into a project. However, the change from subject to project does not make power or violence disappear. Auto-compulsion, which presents itself as freedom, takes the place of allo-compulsion.
+
+Supports: The explicit *subject → project* turn, naming the *project* as no escape but a transfer from external to self-compulsion that "presents itself as freedom." Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The project turns out to be a projectile that the achievement-subject is aiming at itself.
+
+Supports: The book's signature metaphor — the project read as self-directed violence — anchoring [[The Project as Projectile]] and the *Burnout Society* section's "weapon turned inward" reading. Label: `Directly stated`.

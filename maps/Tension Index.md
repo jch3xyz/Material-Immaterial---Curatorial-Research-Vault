@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 # Tension Index
@@ -24,7 +24,7 @@ Links above may resolve to existing notes or stubs.
 
 - [[Transparency vs Opacity]] — Han's core opposition across eros, hermeneutics, the holy
 - [[Freedom vs Control]] — the dialectic of freedom in the digital panopticon; extended in Psychopolitics to freedom itself producing coercion
-- [[Positivity vs Negativity]] — the master conceptual pair the book extends; positivity vs negativity as a theory of power (Psychopolitics)
+- [[Positivity vs Negativity]] — the master conceptual pair across two Han books; positivity vs negativity as a theory of power (Psychopolitics) and as the pathology/diagnosis register of excess positivity (The Burnout Society)
 - [[Visibility vs Understanding]] — hyperinformation does not converge on truth
 - [[Desire vs Danger]] — eros vs pornography; veil vs total exposure
 - [[Narration vs Addition]] — narrative gravity vs additive accumulation; counting is not recounting (Psychopolitics)
@@ -32,6 +32,11 @@ Links above may resolve to existing notes or stubs.
 - [[Discipline vs Control]] — confinement and the mole vs modulation and the snake (Han via Deleuze, Psychopolitics)
 - [[Subject vs Project]] — the cast-down subject vs the self-fashioning project that re-subjugates itself (Han, Psychopolitics)
 - [[Counting vs Recounting]] — additive data vs narrative meaning (Han, Psychopolitics)
+- [[Vita Activa vs Vita Contemplativa]] — the book-defining opposition: hyperactive laboring vs the contemplative life as sovereign saying-no; the Action-vs-Laboring distinction folded inside (Han, The Burnout Society)
+- [[Deep Attention vs Hyperattention]] — the attention-regime opposition: immersive lingering attention vs the scattered, broad-but-flat regime of multitasking (Han, The Burnout Society)
+- [[I-Tiredness vs We-Tiredness]] — the exhausting, isolating tiredness vs the healing, reconciling tiredness; the two poles of Fundamental Tiredness (Han, The Burnout Society)
+- [[Discipline vs Achievement]] — confinement, prohibition, and the should vs auto-exploitation, permission, and the can; realizes the dangling author-note link, distinct from Discipline vs Control (Han, The Burnout Society)
+- [[Positive Potency vs Negative Potency]] — the faculty-level pair: the power to do vs the power not to do (the power to say no); distinct from Positivity vs Negativity (Han, The Burnout Society)
 - [[Embodiment vs Information]] — the book's master opposition: disembodied informational pattern vs enacted, instantiated embodiment (Hayles)
 - [[Presence Absence vs Pattern Randomness]] — the epistemic shift displacing the Western presence/absence dialectic with pattern/randomness (Hayles)
 - [[Liberal Humanist Subject vs Posthuman]] — autonomous self-possession vs distributed-cognition amalgam; lethal only when one is grafted onto the other (Hayles)

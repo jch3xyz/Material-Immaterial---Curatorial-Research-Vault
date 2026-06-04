@@ -9,6 +9,8 @@ sources:
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
   - "[[raw/Han - Psychopolitics/07 Shock]]"
   - "[[raw/Han - Psychopolitics/13 Idiotism]]"
+  - "[[raw/Han - The Burnout Society/02 Neuronal Power]]"
+  - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
 related:
   - "[[Secrecy|The Secret]]"
   - "[[The Threshold]]"
@@ -37,6 +39,8 @@ last_updated: 2026-06-02
 
 "Negativity" is, in this vault, a [[Byung-Chul Han]] term of art, and it carries more than one sense across his books. In *The Transparency Society* it names the productive force of *distinction, concealment, and otherness* — the friction that resists frictionless circulation and conditions thinking, eros, and politics (developed in the sections below). In *Psychopolitics* the term takes on two further, sharper registers that are easy to confuse and must be kept apart: (1) a **vital-existential** register, where negativity is *constitutive of life, experience, and the soul* — pain "is constitutive for experience (Erfahrung)" — and its absence reduces life to "something dead" (ch.6); and (2) a **disciplinary** register, where negativity is the signature of *shock* — "paralyzing and annihilating the contents of the psyche" — which Han uses to mark the difference between old disciplinary power and the *positive* psychopolitics of neoliberalism (ch.7). A third, redemptive register appears in the figure of the idiot, where the field of immanence is itself "negativity, wresting the subject out of itself" (ch.13). The first and third are negativity *to be defended*; the second is negativity *as violence* — and Han is explicit that "the violence of positivity is just as destructive as the violence of negativity" (ch.6). (Label: `Directly stated` for the distinctions; `Interpretive synthesis` for the three-register framing.)
 
+*The Burnout Society* (the earlier book, and the **primary source** for negativity's *immunological* register) supplies the structural genealogy that the other books presuppose: there, negativity is bound to **immunity** and the **[[The Other|Other]]** — "The dialectic of negativity is the fundamental trait of immunity" — so that the contemporary "excess of [[Positivity|positivity]]" is, at root, the *disappearance of Otherness*: "we live in a time that is poor in negativity." This is the precondition of the "positive" pathologies (depression, ADHD, burnout). The vital-existential register also receives there its sharpest Hegelian formulation — "negativity is precisely what keeps existence [Dasein] alive" — and the [[Calculation]]-vs-thinking material is developed directly: thinking as "a network of antibodies and natural immune defenses" that, absent negativity, degrades into calculation. Keep all of this distinct from the related but separate concept [[Negative Potency]] — the Agambenian *faculty of the not-to* (the power *not* to do, perceive, or think) that Han also names in *The Burnout Society* ch.6 — which is the structured *capacity* that negativity makes possible, not negativity as such. (Label: `Directly stated` for the quotations; `Interpretive synthesis` for the cross-register placement.)
+
 ## Brief Definition
 
 For [[Byung-Chul Han]], negativity is the productive force of distinction, resistance, concealment, and otherness that conditions thinking, experience, eros, and politics — and whose systematic dismantling produces the inferno of transparency.
@@ -56,6 +60,12 @@ In *Psychopolitics*, Han carries negativity from the diagnostics of the smooth s
 The "Shock" chapter (ch.7) supplies the contrasting, *disciplinary* register, which Han is at pains to distinguish from the foregoing. Reading Naomi Klein's two "Doctor Shocks" — the psychiatrist Ewen Cameron and the economist Milton Friedman — Han identifies shock therapy as "a genuinely disciplinary technique," one that "owes its efficacy to paralyzing and annihilating the contents of the psyche. Its essential trait is negativity." Cameron's "de-branding" and "re-branding" of the psyche, and Friedman's "depatterning" of societies "back to a state of 'natural' health," both operate by negative threat: by wiping the slate clean. This is precisely *not* how neoliberal power works. "Neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering 'bitter medicine', it enlists Liking" — it "seduces the soul" rather than shocking it. Negativity here names the *old* coercion ([[Smart Power|smart power]] has superseded it), so that Klein's "theory of shock blinds her to the actual workings of neoliberal psychopolitics." (Label: `Directly stated`.)
 
 Finally, in "Idiotism" (ch.13) negativity returns as the structure of *resistance and release*. The idiot — "unallied, un-networked, and uninformed," the heretic who "preserves the magic of the outsider" against "the violence of consensus" — gains access to a "field of immanence" that "eludes subjectivation and psychologization altogether." This sphere of [[Immanence and A Life|immanence]] is, in Han's gloss on Deleuze, "the matrix of de-subjectivation and de-psychologization. It is negativity, wresting the subject out of itself and liberating it into the 'immensity of an empty time'." Here negativity is no longer the friction of distinction (as in *Transparency Society*) nor the violence of shock (ch.7), but the emptying-out by which the self is loosened from itself — a negativity that runs *with*, not against, the freedom of "A LIFE." (Label: `Directly stated` for the quotations; `Interpretive synthesis` for situating it among the registers.)
+
+## The Burnout Society (Han) — the poverty of negativity; negativity keeps existence alive (PRIMARY source)
+
+*The Burnout Society* is the **primary source** for negativity's immunological genealogy, and it grounds the diagnoses the later books inherit. In "Neuronal Power" (ch.2) Han ties negativity *structurally* to immunity and the [[The Other|Other]]: "The dialectic of negativity is the fundamental trait of immunity. The immunologically Other is the negative that intrudes into the Own [das Eigene] and seeks to negate it." Immunity *is* the dialectic of negativity — self-assertion as "the negation of negation" against a foreign Other. But the present age has left the "immunological age" behind: "It is marked by the disappearance of otherness and foreignness." Once "Otherness is being replaced with difference, which does not entail immunoreaction," the negative loses its sting, and so "Because Otherness is disappearing, we live in a time that is poor in negativity." This poverty is the *precondition* of the [[Positivity|positive]] pathologies — depression, ADHD, burnout — which "follow a dialectic: not the dialectic of negativity, but that of positivity," deriving "from an excess of positivity." Crucially, the resulting harm is not immunological violence at all but a "violence of positivity" that "does not deprive, it saturates; it does not exclude, it exhausts" — a "terror of immanence" to which immunology, and negativity with it, is structurally blind. (Label: `Directly stated`.)
+
+"The Pedagogy of Seeing" (ch.6) enlists [[Hegel]] to state the vital-existential stake in its most concentrated form: "If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive." Here Han develops the calculation-versus-thinking material that runs continuous with the rest of this note: "If thinking [das Denken] itself were a 'network of antibodies and natural immune defenses,' then the absence of negativity would transform it into calculation." Thinking, like immunity, lives by the negative — by the "excluding instincts," the "no in opposition," the "negativity of an interruption" — and without it both the mind and the world become a "machine of positivity [Positivmaschine]," "autistic performance-machines" that calculate quickly precisely because they are "free of all Otherness." (See the new metaphor [[The Machine of Positivity]].) This is also where Han names the two potencies — "Positive potency is the power to do something. Negative potency, in contrast, is the power not to do" — the structured faculty treated under [[Negative Potency]]. Negative potency is not negativity itself but the *capacity* negativity opens: the power of the *not-to* (not to react, not to perceive, not to think) that makes contemplation, "spirituality," and sovereign action possible. The two notes are cross-linked precisely so this distinction is not lost — negativity is the constitutive force; negative potency is the faculty it grounds. (Label: `Directly stated` for the quotations; `Interpretive synthesis` for the negativity/negative-potency distinction.)
 
 ## Authors and Variants
 
@@ -203,3 +213,58 @@ Relevant passage:
 > The sphere of immanence to which the idiot gains admittance is the matrix of de-subjectivation and de-psychologization. It is negativity, wresting the subject out of itself and liberating it into the 'immensity of an empty time’.
 
 Supports: The redemptive register — the field of [[Immanence and A Life|immanence]] opened by the idiot is itself negativity, the emptying-out that loosens the subject from itself; negativity here runs with the freedom of "A LIFE," not against it. Label: `Directly stated`.
+
+### Source 11
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> The dialectic of negativity is the fundamental trait of immunity. The immunologically Other is the negative that intrudes into the Own [das Eigene] and seeks to negate it.
+
+Supports: The immunological register — negativity is bound *structurally* to immunity and the [[The Other|Other]]; immunity *is* the dialectic of negativity (self-assertion as the negation of negation). This is the genealogy the later books presuppose. Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> Because Otherness is disappearing, we live in a time that is poor in negativity. And so, the neuronal illnesses of the twenty-first century follow a dialectic: not the dialectic of negativity, but that of positivity.
+
+Supports: The disappearance of Otherness is the precondition of the "poverty of negativity" — and thus of the [[Positivity|positive]] pathologies (depression, ADHD, burnout) that follow the dialectic of positivity rather than negativity. Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive.
+
+Supports: The most concentrated statement of the vital-existential stake, enlisting [[Hegel]]: negativity is what keeps existence (Dasein) alive, so total positivization is dangerous. Cross-links [[references/Byung-Chul Han and Hegel|Byung-Chul Han and Hegel]]. Label: `Directly stated`.
+
+### Source 14
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> If thinking [das Denken] itself were a "network of antibodies and natural immune defenses," then the absence of negativity would transform it into calculation.
+
+Supports: The calculation-versus-thinking material, directly continuous with this note: thinking lives by the negative (like immunity); absent negativity it degrades into calculation, and the mind becomes a [[The Machine of Positivity|machine of positivity]]. Label: `Directly stated`.
+
+### Source 15
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> There are two forms of potency. Positive potency is the power to do something. Negative potency, in contrast, is the power not to do—to adopt Nietzsche’s phrasing, the power to say no. However, this negative potency differs from simple impotence, the inability to act.
+
+Supports: Anchors the cross-link to the distinct concept [[Negative Potency]] — the Agambenian faculty of the *not-to* that negativity makes possible. Negative potency is the structured *capacity*, not negativity as such; the two are kept distinct and cross-linked. Label: `Directly stated`.

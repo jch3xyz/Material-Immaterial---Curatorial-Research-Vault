@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 # Argument Index
@@ -22,6 +22,16 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[The morality of total transparency switches into tyranny]] — Han's genealogy via Rousseau
 - [[Compulsive transparency stabilizes the existing system]] — only negativity can question; transparency confirms
 - [[Exhibition value is a third value form beyond Marx]] — attention-generated value escapes use and exchange
+
+### Byung-Chul Han — The Burnout Society
+
+- [[The achievement society supersedes the disciplinary society]] — the book's periodizing thesis: the regime of the should gives way to the regime of the can
+- [[Depression is caused by the imperative to achieve not the failure to become oneself]] — the Ehrenberg polemic; burnout/depression as the pathology of excess positivity
+- [[The pathologies of the present are infarctions not infections]] — the epochal positivity thesis: ailments of immanence, not immunological negativity
+- [[The contemplative life is more active than hyperactivity]] — the pedagogy-of-seeing thesis; negative potency as the higher activity
+- [[Bartleby is a story of exhaustion not de-creation]] — contra Agamben; the Ent-Schöpfung / Erschöpfung pun
+- [[The society to come is a society of tiredness]] — the affirmative closing thesis; the healing we-tiredness
+- [[The achievement-subject is the homo sacer of its own self]] — the Bann der Leistung; contra Agamben, the subject is its own sovereign and bare life
 
 ### Byung-Chul Han — Psychopolitics
 
@@ -170,6 +180,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[The cyborg is our ontology and it gives us our politics]] — the post-liberal subject as machine-organism hybrid, the affirmative counterpart to the erased subject (Haraway)
 - [[There is no natural basis for the unity of women]] — the dissolution of essential identity into fractured, coalitional affinity (Haraway)
 - [[The cyborg has no origin story in the Western sense]] — the refusal of original unity and the myth of wholeness (Haraway)
+- [[The achievement-subject is the homo sacer of its own self]] — the self-exploiting subject as both sovereign and bare life; the subject collapsed into its own project (Han, Burnout Society)
 
 ### On desire and control
 
@@ -185,6 +196,18 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Big Data is blind to the event and so blind to the future]] — the limit of predictive dataism
 - [[Naomi Klein's shock model misreads neoliberal power]] — shock is disciplinary negativity, not psychopolitics
 - [[The digital panopticon runs on voluntary self-exposure]] — the surveillance precondition of psychopolitics
+- [[The achievement society supersedes the disciplinary society]] — the periodizing thesis: the regime of the should gives way to the regime of the can (Burnout Society)
+- [[The achievement-subject is the homo sacer of its own self]] — auto-exploitation read as self-sovereignty over one's own bare life (Burnout Society)
+
+### On the achievement society and burnout (Han, The Burnout Society)
+
+- [[The achievement society supersedes the disciplinary society]] — the regime of the should gives way to the regime of the can
+- [[Depression is caused by the imperative to achieve not the failure to become oneself]] — the Ehrenberg polemic; the pathology of excess positivity
+- [[The pathologies of the present are infarctions not infections]] — the epochal positivity thesis: ailments of immanence, not negativity
+- [[The achievement-subject is the homo sacer of its own self]] — the Bann der Leistung; the subject as its own sovereign and bare life (contra Agamben)
+- [[The contemplative life is more active than hyperactivity]] — negative potency as the higher activity
+- [[Bartleby is a story of exhaustion not de-creation]] — contra Agamben; the Ent-Schöpfung / Erschöpfung pun
+- [[The society to come is a society of tiredness]] — the affirmative closing thesis; the healing we-tiredness
 
 ### On systems and feedback
 

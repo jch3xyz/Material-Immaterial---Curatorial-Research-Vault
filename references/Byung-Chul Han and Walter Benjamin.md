@@ -14,21 +14,24 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/09 Emotional Capitalism]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Byung-Chul Han ↔ Walter Benjamin
 
 ## General Orientation
 
-This note tracks [[Byung-Chul Han]]'s direct citation of [[Walter Benjamin]] across more than one book, and the senses in which Han inherits Benjamin must be kept distinct. Two clusters are documented here:
+This note tracks [[Byung-Chul Han]]'s direct citation of [[Walter Benjamin]] across more than one book, and the senses in which Han inherits Benjamin must be kept distinct. Three clusters are documented here:
 
 1. **The *Transparency Society* cluster (aura / cult-value / the veil).** In *The Transparency Society* Han draws on Benjamin's [[Aura]] ("appearance of a distance"), the [[Cult Value]]/[[Exhibition Value]] pair, and the veil-doctrine of beauty (from the artwork essay and "Goethe's *Elective Affinities*"). This is the material in the sections below ("Relationship Type", "Explanation", "Source Passages", and Sources 1–5).
 
 2. **The *Psychopolitics* cluster (capitalism as religion; the optical→digital unconscious; cultic value in consumption).** In *Psychopolitics* Han cites two *different* Benjamin texts: "Capitalism as Religion" (the cult that produces guilt, not atonement) and the "optical unconscious" of the artwork essay, which Han extends into a "digital unconscious." A faint third echo — Benjamin's cult/cultic value resurfacing as the "emotive or cultic value" of consumption — appears in the chapter on emotional capitalism. This material is in the section "Psychopolitics (Han)" and Sources 6–8.
 
-These are deliberately not merged: the *Transparency Society* citations concern aura and visibility; the *Psychopolitics* citations concern guilt-religion and the unconscious. The same two authors, different Benjamin texts, different arguments. (Label: `Directly stated` that two distinct books cite Benjamin; the orientation framing is `Interpretive synthesis`.)
+3. **The *Burnout Society* cluster (deep boredom; the storyteller; the gift of listening).** In *The Burnout Society* Han cites a *third* Benjamin text — "The Storyteller" — for the figure of deep boredom as a [[The Dream Bird That Hatches the Egg of Experience|dream bird that hatches the egg of experience]], boredom as a "warm gray fabric," and the vanishing "gift of listening" and "community of listeners." This material grounds Han's defense of [[Deep Contemplative Attention]] against the scattered hyperattention of the [[Achievement Society]], and it is in the section "The Burnout Society (Han)" and Source 9.
+
+These are deliberately not merged: the *Transparency Society* citations concern aura and visibility; the *Psychopolitics* citations concern guilt-religion and the unconscious; the *Burnout Society* citation concerns boredom, [[Narrativity|narration]], and listening. The same two authors, different Benjamin texts, different arguments. (Label: `Directly stated` that three distinct books cite Benjamin; the orientation framing is `Interpretive synthesis`.)
 
 ## Relationship Type
 
@@ -77,6 +80,14 @@ In *Psychopolitics*, Han turns to two Benjamin texts that play no part in *The T
 The second is Benjamin's "optical unconscious." In "Big Data," Han quotes Benjamin's claim that "It is through the camera that we first discover the optical unconscious, just as we discover the instinctual unconscious through psychoanalysis," and then performs the book's signature extension: "In analogy to the 'optical unconscious', one could call such a microphysical or micropsychical web of relations the digital unconscious." Where Benjamin's movie camera disclosed "another nature" beneath conscious perception, Han reads [[Big Data]] as "a digital magnifying glass" that makes visible *actomes* — "micro-actions that elude detection by the waking mind" — and so renders "the collective unconscious accessible." The coinage *digital unconscious* is Han's; the analogical move (camera : optical unconscious :: data-mining : digital unconscious) is openly modelled on Benjamin. This is the operative link to [[Psychopolitics]] and the [[Digital Panopticon]]: Big Data does not merely watch behaviour but reaches "deep into our psyche," below free will. (Label: `Directly stated` for the citation and coinage; the equation of data-mining with a Benjaminian camera is Han's own, labelled `Directly stated` as his argument.)
 
 A third, fainter echo belongs to the same Benjaminian lineage as the *Transparency Society* cult/exhibition pair, but it is not a named citation. In "Emotional Capitalism," Han writes that "It is not use value but emotive or cultic value that plays a constitutive role in the economy of consumption" — consumer capitalism "operates through the selling and consumption of meanings and emotions," so that "we do not consume things so much as emotions." The phrase "cultic value" reactivates Benjamin's [[Cult Value]] in a new register: under [[Emotional Capitalism]], what is consumed carries an affective-cultic charge rather than utility. Han does not cite Benjamin by name here, so the connection to Benjamin's term is inheritance, not citation — kept separate from the explicit cult/exhibition citations in *The Transparency Society* above. (Label: `Strongly implied`.)
+
+## The Burnout Society (Han) — the dream bird; the gift of listening
+
+In *The Burnout Society*, Han enlists a *third* Benjamin text — "The Storyteller" — at the hinge of his case against late-modern hyperattention. Where the *Transparency Society* cluster borrows Benjamin's aura and the *Psychopolitics* cluster his guilt-religion and optical unconscious, here Benjamin supplies the figure that dignifies idleness. Closing his account of [[Profound Boredom]], Han writes: "Walter Benjamin calls this deep boredom a 'dream bird that hatches the egg of experience.'" Deep boredom is not a deficiency but a condition of creation — "the peak of mental relaxation" — and "[a] purely hectic rush produces nothing new. It reproduces and accelerates what is already available." The named citation realizes the new metaphor [[The Dream Bird That Hatches the Egg of Experience]] and grounds Han's defense of [[Deep Contemplative Attention]] against the "broad but flat mode of attention" of multitasking and video games. (Label: `Directly stated`.)
+
+Han then tracks Benjamin's lament for what is lost as the dream bird's habitat disappears: "Benjamin laments that the dream bird's nests of tranquillity and time are vanishing in the modern world. No longer does one 'spin and weave.'" The texture of boredom is itself quoted — "Boredom is a 'warm gray fabric on the inside, with the most lustrous and colorful silks'; '[i]n this fabric we wrap ourselves when we dream'" — and with the loss of that tranquillity, Han follows Benjamin to a social consequence: "As tranquillity vanishes, the 'gift of listening' goes missing, as does the 'community of listeners.'" Against this Benjaminian receptivity Han sets the present "community of activity [Aktivgemeinschaft]," noting that the "'gift of listening' is based on the ability to grant deep, contemplative attention—which remains inaccessible to the hyperactive ego." (Label: `Directly stated`.)
+
+This is the most affirmative use Han makes of Benjamin in the vault: not a diagnostic borrowing (aura's decline, the guilt-cult) but a positive model. The dream bird, the gray-silk fabric, and the community of listeners belong to the same Benjaminian valuation of slow, transformative [[Erfahrung vs Erlebnis (Han)|experience]] over inert experiencing that Han inherits in *The Transparency Society* — but turned toward a remedy: the rehabilitation of the *vita contemplativa* and of [[Narrativity|narration]] (the storyteller's art) against the additive, accelerated economy of [[Achievement Society|achievement]]. That the *Burnout Society*'s storyteller-Benjamin is the same lineage as the *Transparency Society*'s Erfahrung/Erlebnis-Benjamin is `Interpretive synthesis`; the citations themselves are `Directly stated`.
 
 ## Sources
 
@@ -169,3 +180,14 @@ Relevant passage:
 > Moreover, consumer capitalism operates through the selling and consumption of meanings and emotions. It is not use value but emotive or cultic value that plays a constitutive role in the economy of consumption.
 
 Supports: An unattributed echo of Benjamin's [[Cult Value]]: Han names "emotive or cultic value" as constitutive of consumption under [[Emotional Capitalism]], reactivating the Benjaminian term without citation. Kept separate from the explicit cult/exhibition citations of *The Transparency Society* because here it is inheritance, not a named citation. Label: `Strongly implied`.
+
+### Source 9
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/04 Profound Boredom]]
+Relevant passage:
+
+> Walter Benjamin calls this deep boredom a “dream bird that hatches the egg of experience.” If sleep represents the high point of bodily relaxation, deep boredom is the peak of mental relaxation. A purely hectic rush produces nothing new. It reproduces and accelerates what is already available. Benjamin laments that the dream bird’s nests of tranquillity and time are vanishing in the modern world. No longer does one “spin and weave.” Boredom is a “warm gray fabric on the inside, with the most lustrous and colorful silks”; “[i]n this fabric we wrap ourselves when we dream.” We are “at home . . . in the arabesques of its lining.” As tranquillity vanishes, the “gift of listening” goes missing, as does the “community of listeners.” Our community of activity [Aktivgemeinschaft] stands diametrically opposed to such rest. The “gift of listening” is based on the ability to grant deep, contemplative attention—which remains inaccessible to the hyperactive ego.
+
+Supports: Han's named citation of Benjamin (from "The Storyteller") for deep boredom as the [[The Dream Bird That Hatches the Egg of Experience|dream bird that hatches the egg of experience]], boredom as the "warm gray fabric," and the vanishing "gift of listening" / "community of listeners." A third Benjamin text, distinct from the *Transparency Society* (aura/veil) and *Psychopolitics* (guilt-cult/optical unconscious) citations: it underwrites Han's defense of [[Deep Contemplative Attention]] and [[Profound Boredom]] against late-modern hyperattention. Label: `Directly stated`.

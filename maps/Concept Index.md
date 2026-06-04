@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 # Concept Index
@@ -18,6 +18,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Acoustic vs Visual Space]] — McLuhan: perspective and the fixed gaze as learned typographic habits, not innate perception; the Movies chapter is its keystone case-study
 - [[A Pluralism of Centers]] — McLuhan: restraint of electric power requires not a separation of powers but dialogue among centers and equals, because an electric structure has no margins
 - [[Allo-Exploitation]] — exploitation by an other; the antonym of [[Auto-Exploitation]] superseded under neoliberalism (Han)
+- [[Animal Laborans]] — Han re-reads Arendt: the late-modern laborer ego-bloated and hyperactive, no longer the herd-animal of Arendt's account (Burnout Society)
 - [[The Anthropocene]] — Harari: humanity as the dominant geological force
 - [[Arcana of Power]] — Schmittian secrecy that politics requires and transparency dismantles
 - [[Artificial Life]] — the third wave figured as a spiral; the 'strong claim' that codes are alive, not merely simulating life
@@ -25,6 +26,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Authority of Knowledge]] — McLuhan: electric speed dissolves delegated lineal/visual/hierarchical authority and substitutes an inclusive, nonlineal authority of knowledge
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization; the entrepreneur of himself as the panopticon of himself (Han)
 - [[Autopoiesis]] — Maturana & Varela's self-making circular organization; resists the disembodiment of information
+- [[Bare Life]] — Han re-reads Agamben: bare life as the un-killable, holy, undead residue of denarrativized existence (Burnout Society)
 - [[Autoamputation]] — McLuhan's keystone: every technology is a defensive self-amputation of an over-stressed organ by the central nervous system
 - [[Automation as Learning a Living]] — McLuhan: 'automation is information'; work, consumption, and learning fuse into one process; man as a nomadic gatherer of knowledge
 - [[Advertising as the Extension of Automation Toward a Collective Consciousness]] — McLuhan: advertising as a crude attempt to extend automation toward a programmed collective consciousness
@@ -33,6 +35,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Breached Boundaries]] — Haraway's three boundary breakdowns (human/animal, organism/machine, physical/nonphysical), introduced in section 01 and declared dissolved in section 06
 - [[The Break Boundary]] — McLuhan (via Boulding): the point of no return at which a system changes into another
 - [[Biopolitics]] — the governmental technology of disciplinary power over the body and population; foil to psychopolitics (Han, realized from forward-stub)
+- [[Burnout]] — the title malady of excess positivity that eludes psychoanalysis; auto-aggressive self-exhaustion, distinct from melancholy (Burnout Society)
 - [[Can It Suffer (The Reality Test)]] — Harari's criterion separating the real (suffering subjects) from the fictional (money, gods, nations)
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
 - [[Capital as Religion]] — Capital as a transcendence ruling through debt and guilt; the cult without dogma (Han via Benjamin)
@@ -45,6 +48,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Cyborg Writing]] — Haraway: survival by seizing the tools of signification that marked the othered as other; noise and pollution against perfect communication
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
 - [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
+- [[Deep Contemplative Attention]] — the immersive, lingering attention that is the precondition of culture and philosophy; displaced by hyperattention (Burnout Society)
 - [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
 - [[Depth as Insight Not Point of View]] — McLuhan: depth experience dissolves highbrow/lowbrow because consciousness is an inclusive process not dependent on content
 - [[Detribalization and Retribalization]] — McLuhan: hot/mechanical media detribalize; electric media retribalize
@@ -53,6 +57,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Disembodied Information as the Soul]] — information decoupled from matter at the Macy Conferences as 'the materialist's substitute for the soul' (the theological reading of Hayles)
 - [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos; O'Gieblyn's master frame (Weber forward-stub)
 - [[Distributed Cognition]] — cognition residing across human and nonhuman actors (Hutchins; the Chinese Room); replaces autonomous will
+- [[Doping Society]] — achievement society intensified into a performance-machine: neuroenhancement, doping, 'Health is the new goddess' (Burnout Society)
 - [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
 - [[The Electric Age as Extension of the Central Nervous System]] — McLuhan: electric technology as a live model of the central nervous system set outside us
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
@@ -69,6 +74,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Fractured Identities]] — Haraway: identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
 - [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
 - [[Freedom of Information]] — Dataism's supreme value, the first genuinely new value since 1789 (Harari)
+- [[Fundamental Tiredness]] — the healing we-tiredness; the keystone affirmative concept that holds the I- and we- poles together (Burnout Society)
 - [[Gamification]] — play enlisted to heighten productivity, so the player self-subjugates in the act of playing (Han)
 - [[Games as Extensions of the Social Man]] — McLuhan: the collective specialization of the extensions thesis; games as models of a culture and as mass media
 - [[The Global Village]] — McLuhan: electric speed contracts the planet to a single participatory community
@@ -83,6 +89,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Homo Deus]] — Harari: the upgraded human-as-god via the three paths of bioengineering, cyborg engineering, and inorganic life (distinct from the book note)
 - [[Humanism (Harari)]] — Harari: humanism as the worship of humankind; the dominant modern religion
 - [[Hybrid Energy]] — McLuhan: the crossing of two media releases energy as by fission or fusion and breaks the media-trance
+- [[Hyperactivity as Hyperpassivity]] — absolutized positive potency switches into its opposite: the hyperactive subject obeys every impulse, a frenetic passivity (Burnout Society)
+- [[Hyperattention]] — the scattered, broad-but-flat attention-regime that displaces deep reflection; the rapid switching of multitasking (Burnout Society)
 - [[Hypercommunication]] — communication accelerated by eliminating the friction of the Other; total/coercive communication and its self-destruction
 - [[Hyperinformation]] — information past the point of clarity; positivized excess that yields opacity, not truth
 - [[Hyphen vs Splice]] — two modes of joining opposites: identity-preserving metonymic tension vs transfiguring cybernetic circuit (Wolfe's Limbo)
@@ -115,11 +123,14 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
 - [[Money as a Medium]] — McLuhan: money as extension, storehouse, and translator of communal work; its commodity→credit/information arc and electric reversal into the credit card
 - [[The Mosaic]] — McLuhan: the corporate/collective image of discontinuous juxtaposed items, with no point of view, that commands deep communal participation (press, ads, telegraph, photograph)
+- [[Multitasking]] — Han: not civilizational progress but a regression to the divided vigilance of wild animals; the cognitive form of hyperattention (Burnout Society)
 - [[Nanobots]] — blood-cell-sized robots that scan the brain from inside its capillaries; the route to upload-grade detail (Kurzweil)
 - [[Narcosis]] — McLuhan: the constitutive numbness accompanying every extension; the etymological root of Narcissus
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation; narration vs additive data
+- [[Negative Potency]] — Han's 'power not to do' / the power to say no; the active core of the vita contemplativa, distinct from mere inability (Burnout Society)
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; constitutive of life and resistance
 - [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
+- [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence' that needs no enemy or negativity (Burnout Society)
 - [[Number as the Extension of Touch]] — McLuhan: number as a bodily extension of the haptic sense, paired against writing as the extension of sight
 - [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
 - [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
@@ -136,6 +147,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Positivity]] — the regime of additive, smooth same-only experience that follows from dismantled negativity; positivity as a theory of power
 - [[Posthumanism]] — the posthuman as a point of view, not the end of humanity but of the liberal conception of the human; benign when grounded in embodiment
 - [[Print as the Architect of Nationalism]] — McLuhan: print homogenizes vernaculars into the nation as 'continuity and competition in homogeneous space'
+- [[Profound Boredom]] — 'the peak of mental relaxation,' the dream bird that hatches the egg of experience; the deep boredom hyperattention destroys (Burnout Society)
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
@@ -166,6 +178,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
 - [[The Black Box]] — opaque deep-learning models delivering objective knowledge at the price of human comprehension; engineering, theological, and psychological registers
 - [[The Body as Data]] — the body recoded as informational pattern ('data made flesh'; downloadable consciousness), the fantasy Hayles contests; the digital habitus as a likeness of the soul (Han)
+- [[Community of Singularities]] — Han's 'friendly and': the redemptive inverse of the Hell of the Same, a togetherness that preserves difference (Burnout Society)
 - [[The Computational Universe]] — the worldview in which humans, machines, and cosmos alike process information; a contingent ideology Hayles critiques
 - [[The Cyborg]] — both technological object and discursive formation; Haraway's hybrid of machine and organism ('our ontology' that 'gives us our politics') joined to Hayles's figure of enacted and represented bodies (now realized from Haraway's primary text)
 - [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate/catalogue as the material residue of the immaterial work; art-historical analogue of 'information must be instantiated in a medium'
@@ -192,6 +205,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
 - [[Upgrading Inequality]] — Harari: medicine upgrading the healthy rather than healing the sick, producing biological castes
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
+- [[Vita Contemplativa]] — Han's revaluation of the contemplative life as sovereign saying-no, against Arendt's subordination of it to the vita activa (Burnout Society)
 - [[The War of the Icons]] — McLuhan: the cold war as an electric battle of information and images, not hardware; the icon as munition, all technology as a weapon
 - [[Women in the Integrated Circuit]] — Haraway: women's dispersed, contradictory positions across seven loci in the microelectronic world-system
 - [[Women of Color as a Cyborg Identity]] — Haraway: the exemplary coalitional affinity-identity, named a cyborg identity in section 06
@@ -343,6 +357,35 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Idiotism]] — the idiot as figure of resistance against total communication and surveillance
 - [[Immanence and A Life]] — Deleuze's plane on which no domination can be erected
 - [[Negativity]] — negativity as constitutive of life and resistance
+
+### The Achievement Society (Han, The Burnout Society)
+
+The book-length diagnosis of the pathologies of excess positivity that supersede the disciplinary regime.
+
+- [[Achievement Society]] — the neoliberal regime of auto-exploitation at book length; the achievement-subject as absolute slave
+- [[Auto-Exploitation]] — the internal work camp; the achievement-subject as predator and prey at once
+- [[Burnout]] — the title malady of excess positivity that eludes psychoanalysis; distinct from melancholy
+- [[Doping Society]] — the achievement society intensified into a performance-machine; neuroenhancement and 'Health is the new goddess'
+- [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence'
+- [[Immunological Age]] — the immunological → neuronal epochal shift; the periodization the book opens on
+- [[Can vs Should]] — the Should → Can modal shift that defines the achievement-subject
+- [[Positivity]] — the regime of excess positivity whose pathologies are infarctions, not infections
+- [[Hyperactivity as Hyperpassivity]] — absolutized positive potency switching into obedience to every impulse
+- [[Animal Laborans]] — the late-modern laborer, ego-bloated and hyperactive (Han re-reads Arendt)
+- [[Bare Life]] — the un-killable, holy, undead residue of denarrativized existence (Han re-reads Agamben)
+
+### The Contemplative Cure (Han, The Burnout Society)
+
+Han's affirmative counter-program: the revaluation of attention, boredom, tiredness, and the power to say no.
+
+- [[Negative Potency]] — the 'power not to do' / the power to say no; the active core of the vita contemplativa
+- [[Vita Contemplativa]] — the contemplative life revalued as sovereign saying-no, against Arendt
+- [[Deep Contemplative Attention]] — the immersive lingering attention that is the precondition of culture and philosophy
+- [[Hyperattention]] — the scattered, broad-but-flat attention-regime that displaces deep reflection
+- [[Multitasking]] — regression to the divided vigilance of wild animals, not civilizational progress
+- [[Profound Boredom]] — 'the peak of mental relaxation,' the dream bird that hatches the egg of experience
+- [[Fundamental Tiredness]] — the healing we-tiredness; the keystone affirmative concept
+- [[Community of Singularities]] — the 'friendly and,' the redemptive inverse of the Hell of the Same
 
 ### Desire / Interiority / Psychoanalysis
 

@@ -8,8 +8,13 @@ sources:
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
   - "[[raw/Han - Psychopolitics/12 Beyond the Subject]]"
+  - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
+  - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
+  - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
+  - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Byung-Chul Han ↔ Friedrich Nietzsche
@@ -43,6 +48,14 @@ And, on the *Gleichwerden* of the masses, with Han's gloss:
 From "Beyond the Subject" (ch. 12), Nietzsche on naturification and the sudden:
 
 > What Nietzsche refers to as the 'naturificatiori' (Vernatürlichung) of the human being includes 'readiness for what is absolutely sudden and thwarting (das absolut Plötzliche und Durchkreuzende)'
+
+## The Burnout Society (Han) — the last man, the pedagogy of seeing, health as goddess
+
+In *The Burnout Society* Nietzsche returns as the same kind of recurring witness, but now enlisted against a different rival diagnosis and toward a different end: the rehabilitation of contemplation against the [[Achievement Society]]. The most load-bearing deployment is a corrective re-reading. Where Alain Ehrenberg "wrongly equates the human type of the present day with Nietzsche's 'sovereign man,'" Han insists the figure becoming mass reality "is no sovereign superman but 'the last man,' who does nothing but work," a "new human type" that, "standing exposed to excessive positivity without any defense, lacks all sovereignty" (`Directly stated`). He restates the verdict in ch. 9: "For Nietzsche, it is not 'sovereign man' but the 'last man' who exploits himself as his own vassal," and — reversing Ehrenberg's appropriation — Nietzsche "advanced 'sovereign man' . . . as a countermodel to the exhausted achievement-subject," "a man of leisure [Muße]" whom hyperactivity would have disgusted. So the same Nietzschean material that grounds Han's quarrel with Ehrenberg (see [[Byung-Chul Han and Alain Ehrenberg]]) grounds his account of [[Auto-Exploitation]] and of [[Can vs Should]]: the last man is the worker without sovereignty, the "last man" folded into the diagnosis of compulsive Can (`Directly stated` / `Interpretive synthesis` for the routing).
+
+Nietzsche also underwrites the book's positive program — the [[Vita Contemplativa]] and its [[Negative Potency]]. In "The Pedagogy of Seeing," Han takes the three pedagogical tasks of *Twilight of the Idols* — "One needs to learn to see, to think, and to speak and write" — as the charter for "instruction in a particular way of seeing." Learning to see means "getting your eyes used to calm, to patience, to letting things come to you" and learning "not to react immediately to a stimulus, but instead to take control of the inhibiting, excluding instincts"; "every characteristic absence of spirituality . . . is due to an inability to resist a stimulus." From this Han derives the two forms of potency, naming Nietzsche directly: "Negative potency, in contrast, is the power not to do — to adopt Nietzsche's phrasing, the power to say no" (`Directly stated`). The same chapter routes Hegel's "negativity is precisely what keeps existence alive" alongside Nietzsche's "excluding instincts," so the contemplative no is built on a Nietzschean foundation. Reinforcing this, "Profound Boredom" cites Nietzsche on the danger of pure activity: "From lack of repose our civilization is turning into a new barbarism. At no time have the active, that is to say the restless, counted for more. That is why one of the most necessary corrections to the character of mankind . . . is a considerable strengthening of the contemplative element in it" (`Directly stated`) — Nietzsche, "who replaced Being with Will," enlisted on the side of repose against hyperactivity.
+
+Finally, in "Vita Activa," Nietzsche supplies the genealogy of the [[Doping Society]]'s cult of health: "Nietzsche already observed that, after the death of God, health rose to divine status. If a horizon of meaning extended beyond bare life, the cult of health would not be able to achieve this degree of absoluteness." The thought returns as the closing diagnosis of ch. 9 — once life is "stripped of all transcendent value" and reduced to "the immanency of vital functions," "Health is the new goddess" — so Nietzsche's observation about the death of God anchors Han's claim that bare, denarrativized life makes health absolute (`Directly stated`). Across *The Burnout Society*, then, Nietzsche is no longer (as in *Psychopolitics*) the witness against statistical sameness but the diagnostician of the last man's laboring un-sovereignty, the source of the "power to say no," and the genealogist of health-as-goddess — each cited verbatim, each turned against the violence of [[Positivity]].
 
 ## Confidence
 
@@ -82,3 +95,62 @@ Relevant passage:
 > What Nietzsche refers to as the 'naturificatiori' (Vernatürlichung) of the human being includes 'readiness for what is absolutely sudden and thwarting (das absolut Plötzliche und Durchkreuzende)'
 
 Supports: Establishes the third deployment — Han opens the chapter from Nietzsche's "naturification" to ground the Event as that which annuls the standing order and "breaks the subject open and wrests it from subjection," and then routes Nietzsche through [[Michel Foucault]] ("Following Nietzsche's lead, Foucault also advances a conception of history . . .") into the account of experience as wrenching the subject from itself. Label: `Directly stated`.
+
+### Source 4
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> In fact, Nietzsche would say that that human type in the process of becoming reality en masse is no sovereign superman but "the last man," who does nothing but work. The new human type, standing exposed to excessive positivity without any defense, lacks all sovereignty.
+
+Supports: The corrective re-reading against Ehrenberg — the new human type is the **last man** "who does nothing but work" and "lacks all sovereignty," not the "sovereign superman." Grounds the routing of the last-man material into [[Achievement Society]], [[Can vs Should]], and [[Auto-Exploitation]] (and the dedicated [[Byung-Chul Han and Alain Ehrenberg]] dispute). Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> In Twilight of the Idols, Nietzsche formulates three tasks for which pedagogues are necessary. One needs to learn to see, to think, and to speak and write.
+
+And, on the two forms of potency:
+
+> There are two forms of potency. Positive potency is the power to do something. Negative potency, in contrast, is the power not to do—to adopt Nietzsche's phrasing, the power to say no.
+
+Supports: The three pedagogical tasks of *Twilight of the Idols* ground the pedagogy of seeing and the [[Vita Contemplativa]]; Nietzsche's "power to say no" is the explicit source for [[Negative Potency]] ("the power not to do"). Learning to see means "not to react immediately to a stimulus" and to "take control of the inhibiting, excluding instincts." Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/04 Profound Boredom]]
+Relevant passage:
+
+> From lack of repose our civilization is turning into a new barbarism. At no time have the active, that is to say the restless, counted for more. That is why one of the most necessary corrections to the character of mankind that have to be taken in hand is a considerable strengthening of the contemplative element in it.
+
+Supports: Nietzsche — "who replaced Being with Will" — enlisted against hyperactivity: the "new barbarism" born of "lack of repose" and the call for "a considerable strengthening of the contemplative element." Anchors the [[Vita Contemplativa]] program against [[Acceleration]] and the [[Achievement Society]]'s restlessness. Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> Nietzsche already observed that, after the death of God, health rose to divine status. If a horizon of meaning extended beyond bare life, the cult of health would not be able to achieve this degree of absoluteness.
+
+Supports: After the death of God "health rose to divine status" — Nietzsche supplies the genealogy of the cult of health that Han develops into the [[Doping Society]] and "Health is the new goddess." The absoluteness of health follows from the collapse of any "horizon of meaning . . . beyond bare life." Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> For Nietzsche, it is not "sovereign man" but the "last man" who exploits himself as his own vassal. Counter to what Ehrenberg claims, Nietzsche advanced "sovereign man" in the name of cultural criticism, as a countermodel to the exhausted achievement-subject. That is why "sovereign man" is a man of leisure [Muße].
+
+Supports: Restates the last-man correction in ch. 9 and reverses Ehrenberg's appropriation — Nietzsche's "sovereign man" is a "man of leisure," a *countermodel* to the exhausted achievement-subject who "exploits himself as his own vassal." Reinforces the [[Achievement Society]] / [[Auto-Exploitation]] / [[Vita Contemplativa]] cluster and the closing "Health is the new goddess" genealogy ([[Doping Society]]). Label: `Directly stated`.

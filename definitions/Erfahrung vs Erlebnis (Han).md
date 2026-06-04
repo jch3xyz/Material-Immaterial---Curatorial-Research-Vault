@@ -12,6 +12,8 @@ sources:
     passage: "In contrast to experiencing (Erlebnis), experience (Erfahrung) is founded on discontinuity. Experience means transformation."
   - source_file: "raw/Han - Psychopolitics/06 Healing as Killing.md"
     passage: "Pain is constitutive for experience (Erfahrung)."
+  - source_file: "raw/Han - The Burnout Society/09 Burnout Society.md"
+    passage: "Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares."
 related_concepts:
   - "[[Byung-Chul Han]]"
   - "[[Negativity]]"
@@ -24,19 +26,20 @@ related_concepts:
   - "[[Intimacy as Psychological Formula of Transparency|Intimacy]]"
   - "[[Information]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Erfahrung vs Erlebnis — Byung-Chul Han
 
 ## General Orientation
 
-This note tracks a single opposition — the German *Erfahrung* ("experience") versus *Erlebnis* ("experiencing") — across two books by Byung-Chul Han. Both books keep the same poles, but they foreground different stakes:
+This note tracks a single opposition — the German *Erfahrung* ("experience") versus *Erlebnis* ("experiencing") — across three books by Byung-Chul Han. All three keep the same poles, but they foreground different stakes:
 
 - In ***The Transparency Society***, the distinction is *epistemic and relational*. *Erfahrung* is charged with [[Negativity|negativity]], faces [[The Other|the Other]], and transforms the experiencing subject; *Erlebnis* is self-referential, additive, [[Acceleration|accelerable]], and leaves the existing order untouched. (See the *Author's Definition* and *Context* sections below.)
 - In ***Psychopolitics***, the distinction is *political and subject-constituting*. *Erfahrung* "is founded on discontinuity," "means transformation," and "wrenches the subject from itself" — it tears the subject out of subjection. *Erlebnis*, recast as "the neoliberal psychopolitics of experiencing or emotion," does the opposite: it "ensnares the subject deeper and deeper" in subjugation.
+- In ***The Burnout Society***, the distinction is given its *sharpest single formulation*, in the title chapter and again via Richard Sennett's diagnosis of narcissism: "Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares." Here *Erlebnis* is bound to the narcissistic self-reference of the achievement-subject; *Erfahrung*, as the encounter that *alters*, is what the worldless, world-destroying ego forecloses.
 
-The through-line is that *Erfahrung* names a negativity-bearing event that frees, while *Erlebnis* names a positivity-bound stimulus that preserves the subject in place. The *Psychopolitics* treatment is recorded in the new section below; the older *Transparency Society* treatment is preserved unchanged in the sections that follow.
+The through-line is that *Erfahrung* names a negativity-bearing event that frees and alters, while *Erlebnis* names a positivity-bound stimulus that preserves the ego in place by expanding it into the world. The *Burnout Society* and *Psychopolitics* treatments are recorded in the new sections below; the older *Transparency Society* treatment is preserved unchanged in the sections that follow.
 
 ## Author's Definition
 
@@ -76,6 +79,14 @@ The political payoff is the reversal of subjection. Punning on the double sense 
 
 "Healing as Killing" (ch. 6) reinforces the same constitutive role for *Erfahrung* from the side of [[Negativity|negativity]]. Against the neoliberal "dictates of [[Positivity|positivity]]" and the ideology of boundless self-optimization, Han insists that "negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung)." A life "wholly of positive emotions and the sensation of 'flow' . . . is not human at all"; the soul owes "its defining tautness and depth precisely to negativity." The two chapters thus converge: *Erfahrung* requires the negativity (discontinuity, otherness, pain) that neoliberal psychopolitics works to therapeutically eliminate, which is why genuine experience can free the subject while *Erlebnis*/emotion only deepens its subjugation [Strongly implied].
 
+## The Burnout Society (Han) — Erfahrung vs Erlebnis (via Sennett)
+
+In the title chapter of *The Burnout Society*, Han stages the distinction inside his diagnosis of the [[Achievement Society|achievement-subject]]'s narcissistic self-relation, where the "absence of relation to the Other causes a crisis of gratification." He quotes [[Byung-Chul Han and Richard Sennett|Richard Sennett]] on narcissism as a character disorder — "erasing the line between self and other means that nothing new, nothing “other,” ever enters the self," so that "The narcissist is not hungry for experiences, he is hungry for Experience. . . . one drowns in the self" — and then crystallizes the opposition in his own terms, the single sharpest formulation in his corpus: "Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares." Where the *Transparency Society* passages opposed transformation to stasis and otherness to self-encounter, here the two poles are condensed: *Erfahrung* is the encounter with [[The Other|the Other]] that *alters* the subject; *Erlebnis* is the ego's expansion *into* the Other and the world that, far from altering, only "com-pares" — annexes alterity to the self [Directly stated].
+
+Han ties this directly to [[Negativity|negativity]] and distance. "Love of self is still determined by negativity insofar as it devalues and wards off the Other in favor of the Own"; the Own "sets itself against the Other," and "thereby, the Other acts to preserve distance." Narcissism, by contrast, "blurs the border" — "[i]f one suffers from a narcissistic disorder, one sinks into oneself," and "[w]hen reference to the Other goes missing, no stable self-image can form." *Erlebnis* is thus the experiential mode of an ego that has lost the negativity of the Other: "worldless and worlddestroying," it "annihilates all reference to the Other in favor of narcissistic self-reference." Han credits Sennett, who "rightly connects contemporary psychic disturbances to narcissism," but holds that "he draws the wrong conclusions" — the narcissist does not strategically *avoid* closure to heighten the self; rather, the "socially conditioned impossibility of objectively valid, definitive forms of closure drives the subject into narcissistic self-repetition," so that it "loses itself and scatters itself into the open" [Directly stated].
+
+This is the same definitional structure carried by the other two books — *Erfahrung* = negativity + otherness + transformation; *Erlebnis* = positivity + self-reference + preservation of the existing — now welded to the [[Achievement Society|achievement society]]'s logic of [[Auto-Exploitation|self-exploitation]]. The achievement-subject's incapacity for *Erfahrung* (the altering encounter with the Other) is of a piece with its depressive, world-destroying self-reference, which "often culminates in burnout." The convergence is interpretive only at the seams: Han states the *Erfahrung*/*Erlebnis* distinction and its grounding in narcissistic negativity-loss directly, while the link to burnout-as-self-exploitation is the chapter's broader argument rather than a claim made of the distinction itself [Strongly implied].
+
 ## Related Concepts
 
 - [[Negativity]] — what *Erfahrung* possesses and *Erlebnis* lacks
@@ -91,6 +102,8 @@ The political payoff is the reversal of subjection. Punning on the double sense 
 - [[Positivity]] — the dictate against which *Erfahrung* is constituted in "Healing as Killing"
 - [[Achievement Society|achievement-subject]] — the subject *Erlebnis*/emotion ensnares more deeply (*Psychopolitics*)
 - [[Exploitation of Freedom]] — the "art of living" / practice of freedom *Erfahrung* serves via de-psychologization
+- [[Byung-Chul Han and Richard Sennett]] — Han adopts and corrects Sennett's narcissism diagnosis in *The Burnout Society*, the setting for the sharpest *Erfahrung*/*Erlebnis* formulation
+- [[Auto-Exploitation]] — the achievement-subject's self-exploitation, of a piece with its *Erlebnis*-bound, world-destroying self-reference (*The Burnout Society*)
 
 ## Sources
 
@@ -148,3 +161,14 @@ Relevant passage:
 > It is impossible to subordinate human personhood to the dictates of positivity entirely. Without negativity, life degrades into ‘something dead’. Indeed, negativity is what keeps life alive. Pain is constitutive for experience (Erfahrung). Life that consists wholly of positive emotions and the sensation of ‘flow’ is not human at all. The human soul owes its defining tautness and depth precisely to negativity.
 
 Supports: Reinforces, from the side of [[Negativity|negativity]], that *Erfahrung* is constituted by what neoliberal [[Positivity|positivity]] would eliminate — "Pain is constitutive for experience (Erfahrung)." Anchors the convergence of the discontinuity argument (ch. 12) with the negativity argument (ch. 6). Label: Directly stated.
+
+### Source 6
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares. Love of self is still determined by negativity insofar as it devalues and wards off the Other in favor of the Own. The Own sets itself against the Other. Thereby, the Other acts to preserve distance. Self-love means taking an explicit stand vis-à-vis the Other. Narcissism, in contrast, blurs the border.
+
+Supports: The sharpest single formulation of the opposition in Han's corpus, stated in the title chapter immediately after the [[Byung-Chul Han and Richard Sennett|Sennett]] quotation on narcissism. Establishes *Erfahrung* as the altering encounter with [[The Other|the Other]] and *Erlebnis* as the ego's expansion into the world that "com-pares," and grounds both in the [[Negativity|negativity]]/distance that narcissism's border-blurring destroys. Label: Directly stated.

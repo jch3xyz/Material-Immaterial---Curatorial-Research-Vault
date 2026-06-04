@@ -27,17 +27,17 @@ related_authors:
   - "[[Eva Illouz]]"
   - "[[George Orwell]]"
   - "[[Antonio Negri]]"
-last_updated: 2026-06-02
+last_updated: 2026-06-04
 ---
 
 # Byung-Chul Han
 
-Korean-German philosopher and cultural critic working out of the German philosophical tradition. Han writes short, aphoristic books that diagnose the affective and informational pathologies of late neoliberal capitalism by appropriating and re-tuning a fixed canon of interlocutors — Hegel on the negative, Heidegger on dwelling and *Erfahrung*, Benjamin on aura and storytelling, Baudrillard on the obscene and the end of the panoptic gaze, Foucault on discipline and biopolitics, Sennett on opacity and autonomy, Nietzsche on suffering and the will to ignorance. Within the vault he is represented by [[The Transparency Society]] and [[Psychopolitics]]; the `raw/` folder also contains [[The Burnout Society]], which has not yet been processed. The two ingested books are continuous: *Psychopolitics* carries the [[Positivity]]/[[Negativity]], [[Digital Panopticon]], [[Transparency]], and [[Auto-Exploitation]] vocabulary of *The Transparency Society* into an explicit theory of neoliberal power — the regime that no longer disciplines the body but steers the [[Psychopolitics|psyche]].
+Korean-German philosopher and cultural critic working out of the German philosophical tradition. Han writes short, aphoristic books that diagnose the affective and informational pathologies of late neoliberal capitalism by appropriating and re-tuning a fixed canon of interlocutors — Hegel on the negative, Heidegger on dwelling and *Erfahrung*, Benjamin on aura and storytelling, Baudrillard on the obscene and the end of the panoptic gaze, Foucault on discipline and biopolitics, Sennett on opacity and autonomy, Nietzsche on suffering and the will to ignorance. Within the vault he is represented by [[The Transparency Society]], [[Psychopolitics]], and [[The Burnout Society]]. The three ingested books are continuous, and *The Burnout Society* (*Müdigkeitsgesellschaft*, 2010) is in fact the **earliest** and the **primary source** for much of the Han vocabulary the vault first grounded secondhand in the two later books: it is where [[Achievement Society|achievement society]], [[Auto-Exploitation|auto-exploitation]], the [[Can vs Should|Should→Can shift]], and the [[Positivity]]/[[Negativity]] diagnosis are first and most fully argued. *Psychopolitics* carries the [[Positivity]]/[[Negativity]], [[Digital Panopticon]], [[Transparency]], and [[Auto-Exploitation]] vocabulary of *The Transparency Society* into an explicit theory of neoliberal power — the regime that no longer disciplines the body but steers the [[Psychopolitics|psyche]] — while *The Burnout Society* supplies the underlying pathological diagnosis: the [[Achievement Society|achievement society]] of self-exploiting subjects burning out under an **excess of positivity**.
 
 ## Books in the Vault
 
 - [[The Transparency Society]] — ingested. See [[raw/Byung-Chul Han - The Transparency Society/03 Preface]], [[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]], [[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]].
-- [[The Burnout Society]] — present in `raw/Han - The Burnout Society`, not yet processed. Forward link.
+- [[The Burnout Society]] — ingested (2026-06-04). Chapters: [[raw/Han - The Burnout Society/02 Neuronal Power]] · [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]] · [[raw/Han - The Burnout Society/04 Profound Boredom]] · [[raw/Han - The Burnout Society/05 Vita Activa]] · [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]] · [[raw/Han - The Burnout Society/07 The Bartleby Case]] · [[raw/Han - The Burnout Society/08 The Society of Tiredness]] · [[raw/Han - The Burnout Society/09 Burnout Society]].
 - [[Psychopolitics]] — ingested (2026-06-02). Chapters: [[raw/Han - Psychopolitics/01 The Crisis of Freedom.md]] · [[raw/Han - Psychopolitics/02 Smart Power.md]] · [[raw/Han - Psychopolitics/03 The Mole and the Snake.md]] · [[raw/Han - Psychopolitics/04 Biopolitics.md]] · [[raw/Han - Psychopolitics/05 Foucault's Dilemma.md]] · [[raw/Han - Psychopolitics/06 Healing as Killing.md]] · [[raw/Han - Psychopolitics/07 Shock.md]] · [[raw/Han - Psychopolitics/08 Friendly Big Brother.md]] · [[raw/Han - Psychopolitics/09 Emotional Capitalism.md]] · [[raw/Han - Psychopolitics/10 Gamification.md]] · [[raw/Han - Psychopolitics/11 Big Data.md]] · [[raw/Han - Psychopolitics/12 Beyond the Subject.md]] · [[raw/Han - Psychopolitics/13 Idiotism.md]].
 
 ## Central Concerns
@@ -121,7 +121,7 @@ The crisis of freedom (freedom itself now "bringing forth compulsion and constra
 - [[Emotional Capitalism]] / [[Feeling vs Emotion vs Affect (Han)]] — capitalism exploits "the performativity of emotion"; "today we do not consume things so much as emotions" ([[raw/Han - Psychopolitics/09 Emotional Capitalism.md|Ch9]]).
 - [[Gamification]] / [[Human Capital]] — play captured as a productivity engine ("gamification is destroying play's potential to set free"); free time recaptured so that "human beings… are now transforming themselves into Capital" ([[raw/Han - Psychopolitics/10 Gamification.md|Ch10]]).
 - [[Self-Optimization]] / [[The Age of Exhaustion]] — the therapeutic imperative as total self-exploitation, inaugurating the "age of exhaustion" of depression and burnout ([[raw/Han - Psychopolitics/05 Foucault's Dilemma.md|Ch5]], [[raw/Han - Psychopolitics/06 Healing as Killing.md|Ch6]]).
-- [[The Project (Han)]] / [[Allo-Exploitation]] / [[Obedience-Subject]] — the self-fashioning "project" that re-subjugates itself; the obedience-subject of sovereign/disciplinary *allo-exploitation*, antonym of the [[Achievement Society|achievement-subject]]'s [[Auto-Exploitation|auto-exploitation]] ([[raw/Han - Psychopolitics/01 The Crisis of Freedom.md|Ch1]], [[raw/Han - Psychopolitics/04 Biopolitics.md|Ch4]]).
+- [[The Project (Han)]] / [[Allo-Exploitation]] / [[Disciplinary Society|obedience-subject]] — the self-fashioning "project" that re-subjugates itself; the obedience-subject of sovereign/disciplinary *allo-exploitation*, antonym of the [[Achievement Society|achievement-subject]]'s [[Auto-Exploitation|auto-exploitation]] ([[raw/Han - Psychopolitics/01 The Crisis of Freedom.md|Ch1]], [[raw/Han - Psychopolitics/04 Biopolitics.md|Ch4]]).
 - [[Capital as Religion]] / [[Dictatorship of Capital]] — Capital as "a new God, making us guilty and debt-ridden"; debt (*Schuld*) as an instrument of domination ([[raw/Han - Psychopolitics/01 The Crisis of Freedom.md|Ch1]], [[raw/Han - Psychopolitics/03 The Mole and the Snake.md|Ch3]]).
 - [[Immunological Age]] — shock as a *disciplinary*, negative, immunological technique, mis-taken by Klein for the logic of neoliberalism ([[raw/Han - Psychopolitics/07 Shock.md|Ch7]]).
 - [[Idiotism]] / [[The Idiot (Han)]] / [[Singularity (Han)]] / [[Heresy as Choice]] / [[Politics of Silence]] — the closing counter-figure: "the idiot is unallied, un-networked, and uninformed," a "practice of freedom" against the "violence of consensus" ([[raw/Han - Psychopolitics/13 Idiotism.md|Ch13]]).
@@ -178,6 +178,82 @@ Notes carried over from *The Transparency Society* and **extended** with a *Psyc
 - [[Immanence vs Transcendence]] / [[Intelligence vs Idiotism]] / [[Silence vs Communication]] — the book's affirmative poles: "A Life" against Capital-as-transcendence; the idiot's vertical outside against system-immanent intelligence ([[raw/Han - Psychopolitics/10 Gamification.md|Ch10]], [[raw/Han - Psychopolitics/13 Idiotism.md|Ch13]]).
 - [[Material vs Immaterial]] — extended with a Han/labour inflection: "What gets produced are not material objects, but immaterial ones - for instance, information and programs" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma.md|Ch5]]).
 - [[Freedom vs Control]] / [[Positivity vs Negativity]] — the book's governing axes, now applied to *power* rather than information: neoliberal psychopolitics "is dominated by positivity" ([[raw/Han - Psychopolitics/07 Shock.md|Ch7]]).
+
+---
+
+## The Burnout Society (2026-06-04 ingest)
+
+*The Burnout Society* (*Müdigkeitsgesellschaft*, 2010; trans. Erik Butler) is, chronologically, Han's foundational diagnosis and the **primary source** for vocabulary the vault had until now grounded mostly in the later *Transparency Society* and *Psychopolitics* (which cite back to it). Its thesis: the twenty-first century has left behind the **immunological / viral** age of *negativity* (the foreign Other, friend/foe, defense) and entered a **neuronal** age of *excess positivity*, whose signature afflictions — depression, ADHD, burnout — are "not infections, but infarctions." Foucault's [[Disciplinary Society|disciplinary society]] of prohibition (the "Should") has given way to an [[Achievement Society|achievement society]] of the unlimited "Can," populated by self-projecting [[Achievement Society|achievement-subjects]] who, freed of any external master, exploit themselves until they burn out. Against this Han mounts a *positive program*: the recovery of [[Negative Potency|the power not-to]], [[Deep Contemplative Attention|contemplative attention]], the [[Vita Contemplativa|vita contemplativa]], and a redemptive [[Fundamental Tiredness|"we-tiredness"]]. `Directly stated`, [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Ch. Beyond Disciplinary Society]]: "Twenty-first-century society is no longer a disciplinary society, but rather an achievement society [Leistungsgesellschaft]. Also, its inhabitants are no longer 'obedience-subjects' but 'achievement-subjects.' They are entrepreneurs of themselves."
+
+### Central concerns this book adds
+
+The periodization of the **immunological → neuronal** age, where harm comes "not just from the Other or the foreign, but also from the Same" ([[Immunological Age]], [[Hell of the Same]]); the supersession of [[Disciplinary Society|disciplinary society]] by the [[Achievement Society|achievement society]] and the [[Can vs Should|Should→Can]] modal shift; [[Auto-Exploitation|auto-exploitation]] as exploitation without domination (the achievement-subject as "predator and prey at once"); the restructuring of attention into [[Hyperattention|hyperattention]] and [[Multitasking|multitasking]] against [[Deep Contemplative Attention|deep contemplative attention]]; the defense of the [[Vita Contemplativa|vita contemplativa]] and [[Profound Boredom|profound boredom]] against the cult of activity; the reduction of life to bare, denarrativized survival (the [[Doping Society|doping society]], "Health is the new goddess"); and the affirmative counter-figures of [[Negative Potency|negative potency]] and [[Fundamental Tiredness|fundamental / we-tiredness]].
+
+### Major concepts introduced or realized this book
+
+- [[Achievement Society]] — **primary source**. The achievement-subject is "lord and master of itself," yet "the disappearance of domination does not entail freedom"; it "exploits itself until it burns out" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]], [[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`.
+- [[Auto-Exploitation]] / [[Allo-Exploitation]] — **primary source** for the pairing: "Auto-exploitation is more efficient than allo-exploitation because a deceptive feeling of freedom accompanies it. The exploiter is simultaneously the exploited" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). The carceral figure: "everyone carries a work camp inside" ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]). `Directly stated`.
+- [[Can vs Should]] — **primary source** for the modal shift: "The modal verb that determines achievement society is not the Freudian Should, but Can" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`.
+- [[Positivity]] / [[Negativity]] — **primary source** for the excess-positivity / poverty-of-negativity thesis: the maladies "indicate an excess of positivity, that is, not negation so much as the inability to say no" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]); "According to Hegel, negativity is precisely what keeps existence [Dasein] alive" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). `Directly stated`.
+- [[Immunological Age]] — realized as the term's **primary source** (the Psychopolitics note self-flagged this consolidation): the friend/foe Cold War dispositive, the dialectic of negativity, inoculation as negation of negation, and the periodization into a "postimmunological" present ([[raw/Han - The Burnout Society/02 Neuronal Power|Neuronal Power]]). `Directly stated`.
+- [[Negative Potency]] — *new* keystone concept: "Positive potency is the power to do something. Negative potency, in contrast, is the power not to do — to adopt Nietzsche's phrasing, the power to say no… [it] differs from simple impotence" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). `Directly stated`.
+- [[Deep Contemplative Attention]] / [[Hyperattention]] / [[Multitasking]] — *new*: "We owe the cultural achievements of humanity — which include philosophy — to deep, contemplative attention"; multitasking is "regression" to "the vigilance of a wild animal" ([[raw/Han - The Burnout Society/04 Profound Boredom|Profound Boredom]]). `Directly stated`.
+- [[Profound Boredom]] / [[Vita Contemplativa]] — *new*: deep boredom as Benjamin's "dream bird that hatches the egg of experience"; the vita contemplativa as not passivity but "a mode of saying no" ([[raw/Han - The Burnout Society/04 Profound Boredom|Profound Boredom]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). `Directly stated`.
+- [[Hyperactivity as Hyperpassivity]] — *new*: "hyperactive intensification leads to an abrupt switch into hyperpassivity"; "It is an illusion to believe that being more active means being freer" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). `Directly stated`.
+- [[Animal Laborans]] — *new* (Han-anchored, awaiting Arendt's *The Human Condition*): "The late-modern animal laborans is equipped with an ego just short of bursting… It is hyperactive and hyperneurotic" ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]). `Directly stated`.
+- [[Bare Life]] — *new* (Han re-reads [[Giorgio Agamben|Agamben]]'s [[Homo Sacer|homo sacer]]): late-modern bare life "cannot be killed absolutely… It is undead… Here the word sacer does not mean 'accursed' but 'holy'" ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]). `Directly stated`.
+- [[Doping Society]] — *new*: "the inner logic of achievement society dictates its evolution into a doping society"; the body becomes a *Leistungsmaschine*; "Health is the new goddess" ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]], [[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`.
+- [[Fundamental Tiredness]] / [[Community of Singularities]] — *new* (the book's affirmative pole, via Handke): a healing "we-tiredness" that "trusts in the world," loosens the ego, and founds "a community that requires neither belonging nor relation" ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]). `Directly stated`.
+- [[Acceleration]] / [[Narrativity]] / [[Exploitation of Freedom]] / [[The Project (Han)]] / [[Gleichschaltung]] / [[Exhibition Value]] — carried over and **extended** with Burnout-Society primary-source sections (acceleration as "accelerated walking" abolishing the interval; the "denarrativization" that "makes life bare"; "freedom and violence now coincide"; "the project turns out to be a projectile"; the "violence of consensus"; the ego "exhibited as a commodity").
+
+### Major arguments introduced
+
+- **The pathologies of the present arise from excess positivity, not immunological negativity** — "Harm does not come from negativity alone, but also from positivity — not just from the Other or the foreign, but also from the Same" ([[raw/Han - The Burnout Society/02 Neuronal Power|Neuronal Power]]). `Directly stated`.
+- **The achievement society supersedes the disciplinary society** — "Foucault's analysis of power cannot account for the psychic and topological changes that occurred as disciplinary society transformed into achievement society" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]). `Directly stated`.
+- **Auto-exploitation is more efficient than allo-exploitation because a feeling of freedom attends it** — "The exploiter is simultaneously the exploited. Exploitation now occurs without domination" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`.
+- **The maladies of the twenty-first century stem from excess positivity, not repression — so psychoanalysis cannot reach them** — depression "defies the conflict model — that is, depression eludes psychoanalysis" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`.
+- **The contemplative life is more active than hyperactivity** — "As a mode of saying no, sovereign action [Tun] proves more active than any and all hyperactivity, which represents a symptom of mental exhaustion" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). `Directly stated`.
+- **The achievement-subject is the homo sacer of its own self** — "The injunction that makes us all homines sacri is not a sovereign injunction, but the injunction to achieve [Bann der Leistung]" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). `Directly stated`; the re-reading against [[Giorgio Agamben|Agamben]] is `Strongly implied` as polemic.
+- **There is a healing fundamental tiredness that inspires rather than exhausts** — "The tiredness of exhaustion is the tiredness of positive potency… Tiredness that inspires is tiredness of negative potency, namely of not-to" ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]). `Directly stated`.
+
+### Characteristic metaphors introduced
+
+- **Infection vs infarction** / **the ego overheating** — the new pathologies "are not infections, but infarctions"; "Burnout syndrome occurs when the ego overheats, which follows from too much of the Same" ([[raw/Han - The Burnout Society/02 Neuronal Power|Neuronal Power]]).
+- **The project as projectile** — "The project turns out to be a projectile that the achievement-subject is aiming at itself" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]); extends [[The Project (Han)]].
+- **Prometheus and the eagle** — the bound Prometheus and the liver-eating eagle as an intrapsychic scene of self-exploitation ("the eagle… can be interpreted as the subject's alter ego") ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]).
+- **Everyone carries a work camp inside** — the carceral figure of [[Auto-Exploitation|auto-exploitation]]: "one is simultaneously prisoner and guard, victim and perpetrator" ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]).
+- **The dream bird that hatches the egg of experience** ([[Walter Benjamin|Benjamin]], via Han) — deep boredom as creative incubation ([[raw/Han - The Burnout Society/04 Profound Boredom|Profound Boredom]]).
+- **Walking → running → dancing** — running is "just accelerated walking," but dancing "escapes the achievement-principle entirely" ([[raw/Han - The Burnout Society/04 Profound Boredom|Profound Boredom]]); links to [[Acceleration]].
+- **The computer as machine of positivity [Positivmaschine]** — the calculator "free of all Otherness," "stupid insofar as it lacks the ability to delay" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]).
+- **The Dutch still life ("all in one")** and **the Pentecostal company** — Handke's emblems of the [[Community of Singularities|community of singularities]] and the society of tiredness ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]).
+- **"Health is the new goddess"** / **the undead achievement-subject** — the deification of bare survival; "They are too alive to die, and too dead to live" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]).
+
+### Related authors realized or deepened by this book
+
+- [[Giorgio Agamben]] — *first substantively engaged* (forward-stub author). A sustained polemic across three chapters: the [[Bare Life|homo sacer / bare life]] re-read as universal and "undead/holy" ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]); the [[Negative Potency|"power not-to"]] *denied* to Bartleby, whose "I would prefer not to" is read as apathy, "a story of exhaustion [Erschöpfung]" not "de-creation [Ent-Schöpfung]" ([[raw/Han - The Burnout Society/07 The Bartleby Case|The Bartleby Case]]); and the [[Achievement Society|achievement-subject]] as "the homo sacer of his own self" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). Direct citation with disagreement.
+- **Hannah Arendt** — *new* central interlocutor (forward-stub author). Han accepts her symptom (the triumph of the [[Animal Laborans|animal laborans]]) but rejects her explanation, and catches her "inadvertently endors[ing] vita contemplativa" while praising action ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). Direct citation with disagreement.
+- **Alain Ehrenberg** — *new* polemical target (forward-stub author): *The Weariness of the Self*; Han argues he "attempts to rescue psychoanalysis even though its conditions have disappeared" and misreads depression by holding to the negativity scheme ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]], [[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). Direct citation with disagreement.
+- **Richard Sennett** — deepened (forward-stub author): Han quotes Sennett on narcissism and the gratification crisis but inverts his conclusion — closure is not avoided but "has become socially impossible" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). Direct citation with disagreement.
+- **Sigmund Freud** — deepened (forward-stub author): the psychic apparatus, the superego, character, and melancholy invoked as the model of the [[Disciplinary Society|disciplinary]]/obedience-subject that the achievement-subject has outgrown; "the superego positivizes itself into the ego ideal" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). Direct citation / partial disagreement.
+- **Peter Handke** — *new* (forward-stub author): *Essay on Tiredness* is the wellspring of the book's affirmative [[Fundamental Tiredness|we-tiredness]] and the [[Community of Singularities|community of singularities]] ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]). Direct citation.
+- [[Walter Benjamin]] — deepened: "the dream bird that hatches the egg of experience," the boredom-as-fabric image, and the "gift of listening" (from "The Storyteller") anchor [[Profound Boredom]] ([[raw/Han - The Burnout Society/04 Profound Boredom|Profound Boredom]]). Direct citation. See [[Byung-Chul Han and Walter Benjamin]].
+- [[Hegel]] — deepened: "negativity is precisely what keeps existence [Dasein] alive" grounds [[Negative Potency]]; the master/slave dialectic ending with "the master himself… a laboring slave" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]], [[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]]). Direct citation. See [[Byung-Chul Han and Hegel]].
+- [[Friedrich Nietzsche]] — deepened: the *Twilight of the Idols* pedagogy of "learning to see" and "the power to say no"; the "sovereign man" advanced as the countermodel to the self-exploiting "last man" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]], [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]). Direct citation. See [[Byung-Chul Han and Friedrich Nietzsche]].
+- [[Martin Heidegger]] — deepened: *Gelassenheit*, the analytic of care/in-order-to, and the Angst/dread distinction; the Sabbath/interval as differing from "Heidegger's definition of time" ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]). Direct citation / strongly implied. See [[Byung-Chul Han and Martin Heidegger]].
+- [[Jean Baudrillard]] — deepened into a substantive disagreement: Han endorses Baudrillard's intuition of the Same's violence ("He who lives by the Same shall die by the Same") but argues his "viral violence" fatally remains immunological ([[raw/Han - The Burnout Society/02 Neuronal Power|Neuronal Power]]). Direct citation with disagreement. See [[Byung-Chul Han and Jean Baudrillard]].
+- [[Carl Schmitt]] — deepened: "a sign of inner conflict to have more than one real enemy" (the late-modern ego's lack of character; Facebook "friends"); the decisionistic power of decision against depression ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). Direct citation. See [[Byung-Chul Han and Carl Schmitt]].
+- [[Michel Foucault]] — deepened: the [[Disciplinary Society|disciplinary society]] is the explicit foil Han supersedes; Bartleby is its worked example (walls, partitions, the "Tombs," the obedience-subject) ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]], [[raw/Han - The Burnout Society/07 The Bartleby Case|The Bartleby Case]]). Strongly implied / shared vocabulary. See [[Byung-Chul Han and Michel Foucault]].
+- [[Gilles Deleuze]] — light touch: Han rejects Deleuze's "control society" as "still… too much negativity," naming *achievement* (not control) as the successor regime ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]). Strongly implied. See [[Byung-Chul Han and Gilles Deleuze]].
+
+### Disagreements or tensions introduced or extended
+
+- [[Positivity vs Negativity]] — the book's master opposition in its **primary-source** form: the negativity of prohibition/Should (disciplinary) vs the positivity of Can (achievement); negative vs positive potency ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]).
+- [[Discipline vs Control]] — extended/qualified: this book makes **achievement**, not control, the successor to discipline ("Nor does the commonly employed concept of 'control society' do justice to this change. It still contains too much negativity") ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society|Beyond Disciplinary Society]]).
+- [[Subject vs Project]] / [[Freedom vs Control]] — the change "from subject to project"; "Freedom and violence now coincide" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]).
+- **Immunological vs Neuronal violence** — the periodizing tension: viral/immunological violence "operate[s] head-on" against a foreign singularity; neuronal violence "is immanent in the system itself," "a terror of immanence" ([[raw/Han - The Burnout Society/02 Neuronal Power|Neuronal Power]]). (Captured within [[Immunological Age]] / [[Positivity vs Negativity]].)
+- **Vita Activa vs Vita Contemplativa** — Han contra Arendt: the contemplative life defended as the *more* active, sovereign "mode of saying no"; the "dialectic of being-active" collapsing into [[Hyperactivity as Hyperpassivity|hyperpassivity]] ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]).
+- **I-Tiredness vs We-Tiredness** — the closing opposition: solitary, divisive, world-destroying tiredness of the exhausted ego vs the healing [[Fundamental Tiredness|we-tiredness]] that trusts in the world ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]).
+- **Positive Potency vs Negative Potency** — the Agambenian faculty distinction (the power-to vs the power-not-to) underlying the book's positive program ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]], [[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]); cross-linked to [[Can vs Should]].
 
 ---
 
@@ -457,4 +533,256 @@ Relevant passage:
 > In light of compulsive and coercive communication and conformism, idiotism represents a practice of freedom. By nature, the idiot is unallied, un-networked, and uninformed.
 
 Supports: [[Idiotism]], [[The Idiot (Han)]], and [[Idiotism is a practice of freedom against psychopolitics]] — the book's affirmative counter-figure.
+Label: Directly stated
+
+### Source 24
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> From a pathological standpoint, the incipient twenty-first century is determined neither by bacteria nor by viruses, but by neurons. Neurological illnesses such as depression, attention deficit hyperactivity disorder (ADHD), borderline personality disorder (BPD), and burnout syndrome mark the landscape of pathology at the beginning of the twenty-first century. They are not infections, but infarctions; they do not follow from the negativity of what is immunologically foreign, but from an excess of positivity.
+
+Supports: The periodizing thesis of *The Burnout Society* (the immunological → neuronal age) and the **primary source** for [[Immunological Age]], [[Positivity]]/[[Negativity]], and the argument that the pathologies of the present arise from excess positivity not immunological negativity.
+Label: Directly stated
+
+### Source 25
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> Harm does not come from negativity alone, but also from positivity—not just from the Other or the foreign, but also from the Same. Such violence of positivity is clearly what Baudrillard has in mind when he writes, “He who lives by the Same shall die by the Same.”
+
+Supports: The "violence of positivity / the Same" thesis ([[Hell of the Same]], [[Positivity]]) and Han's direct citation-with-disagreement of [[Jean Baudrillard]] ([[Byung-Chul Han and Jean Baudrillard]]).
+Label: Directly stated
+
+### Source 26
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> Twenty-first-century society is no longer a disciplinary society, but rather an achievement society [Leistungsgesellschaft ]. Also, its inhabitants are no longer “obedience-subjects” but “achievement-subjects.” They are entrepreneurs of themselves.
+
+Supports: The **primary source** for [[Achievement Society]] and the supersession of [[Disciplinary Society|disciplinary society]] ([[Byung-Chul Han and Michel Foucault]]).
+Label: Directly stated
+
+### Source 27
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> The depressive human being is an animal laborans that exploits itself—and it does so voluntarily, without external constraints. It is predator and prey at once.
+
+Supports: [[Auto-Exploitation]] (the perpetrator=victim collapse) and the Han-anchored [[Animal Laborans]].
+Label: Directly stated
+
+### Source 28
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/04 Profound Boredom]]
+Relevant passage:
+
+> We owe the cultural achievements of humanity—which include philosophy—to deep, contemplative attention. Culture presumes an environment in which deep attention is possible.
+
+Supports: [[Deep Contemplative Attention]] against [[Hyperattention]]/[[Multitasking]]; the defense of the [[Vita Contemplativa]].
+Label: Directly stated
+
+### Source 29
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/04 Profound Boredom]]
+Relevant passage:
+
+> Running, or racing, does not yield a new gait. It is just accelerated walking. Dancing or gliding, however, represent entirely new forms of motion. Only human beings can dance.
+
+Supports: [[Profound Boredom]] as the incubation of the new (vs mere [[Acceleration]]); dancing "escapes the achievement-principle entirely."
+Label: Directly stated
+
+### Source 30
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> The late-modern animal laborans is equipped with an ego just short of bursting. And it is anything but passive. If one abandoned one’s individuality and dissolved into the life process of the species entirely, one would at least have the serenity [Gelassenheit] of an animal. But the late-modern animal laborans is anything but animalian. It is hyperactive and hyperneurotic.
+
+Supports: [[Animal Laborans]] (Han's re-reading against Arendt) and the [[Hyperactivity as Hyperpassivity|hyperactive]] achievement-subject.
+Label: Directly stated
+
+### Source 31
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> That said, this bare life has the particularity of not being absolutely expendable [tötbar]; rather, it cannot be killed absolutely [absolut untötbar (ist)]. It is undead, so to speak. Here the word sacer does not mean “accursed” but “holy.” Now bare, sheer life itself is holy, and so it must be preserved at any cost.
+
+Supports: [[Bare Life]] (Han's "undead/holy" re-reading of [[Giorgio Agamben|Agamben]]'s [[Homo Sacer|homo sacer]]); the seed of the [[Doping Society]].
+Label: Directly stated
+
+### Source 32
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/05 Vita Activa]]
+Relevant passage:
+
+> In this society of compulsion, everyone carries a work camp inside. This labor camp is defined by the fact that one is simultaneously prisoner and guard, victim and perpetrator. One exploits oneself. It means that exploitation is possible even without domination.
+
+Supports: [[Auto-Exploitation]] — the internalized work camp; "exploitation is possible even without domination."
+Label: Directly stated
+
+### Source 33
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> There are two forms of potency. Positive potency is the power to do something. Negative potency, in contrast, is the power not to do—to adopt Nietzsche’s phrasing, the power to say no. However, this negative potency differs from simple impotence, the inability to act.
+
+Supports: [[Negative Potency]] (the chapter's central concept; the power not-to / power to say no), grounding [[Byung-Chul Han and Friedrich Nietzsche]].
+Label: Directly stated
+
+### Source 34
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> What eludes Arendt in the dialectic of being-active [Aktivsein] is that hyperactive intensification leads to an abrupt switch into hyperpassivity; now one obeys every impulse or stimulus without resistance. Instead of freedom, it produces new constraints. It is an illusion to believe that being more active means being freer.
+
+Supports: [[Hyperactivity as Hyperpassivity]] and the disagreement with Arendt (Vita Activa vs Vita Contemplativa).
+Label: Directly stated
+
+### Source 35
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive.
+
+Supports: [[Negativity]] as the **primary source** (negativity keeps Dasein alive); [[Byung-Chul Han and Hegel]]; the "machine of positivity [Positivmaschine]" diagnosis.
+Label: Directly stated
+
+### Source 36
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/07 The Bartleby Case]]
+Relevant passage:
+
+> his signature phrase, “I would prefer not to,” expresses neither the negative potency of not-to nor the instinct for delay and deferral that is essential for “spirituality.” Rather, it stands for a lack of drive and for apathy, which seal Bartleby’s doom.
+
+Supports: Han's pathological reading of Bartleby contra [[Giorgio Agamben|Agamben]] — [[Negative Potency]] *denied* to Bartleby; "a story of exhaustion [Erschöpfung]" not "de-creation [Ent-Schöpfung]."
+Label: Directly stated
+
+### Source 37
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/08 The Society of Tiredness]]
+Relevant passage:
+
+> The tiredness of exhaustion is the tiredness of positive potency. It makes one incapable of doing something. Tiredness that inspires is tiredness of negative potency, namely of not-to.
+
+Supports: [[Fundamental Tiredness]] and [[Negative Potency]] — the book's affirmative pole (the healing tiredness of the not-to).
+Label: Directly stated
+
+### Source 38
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/08 The Society of Tiredness]]
+Relevant passage:
+
+> This tiredness founds a deep friendship and makes it possible to conceive of a community that requires neither belonging nor relation [Verwandtschaft]. Human beings and things show themselves to be connected through a friendly and.
+
+Supports: [[Community of Singularities]] — the "friendly and" / friendliness-as-indifference; the affirmative inverse of [[Hell of the Same]].
+Label: Directly stated
+
+### Source 39
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> Achievement society is the society of self-exploitation. The achievement-subject exploits itself until it burns out.
+
+Supports: The **primary source** for [[Achievement Society]] and [[Auto-Exploitation]] — the title diagnosis.
+Label: Directly stated
+
+### Source 40
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The modal verb that determines achievement society is not the Freudian Should, but Can.
+
+Supports: The **primary source** for [[Can vs Should]] (the Should→Can modal shift); [[Byung-Chul Han and Sigmund Freud|Freud]] as the disciplinary model superseded.
+Label: Directly stated
+
+### Source 41
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The injunction that makes us all homines sacri is not a sovereign injunction, but the injunction to achieve [Bann der Leistung].
+
+Supports: The achievement-subject as "the homo sacer of his own self"; Han's re-reading of [[Giorgio Agamben|Agamben]] ([[Bare Life]]).
+Label: Directly stated
+
+### Source 42
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The project turns out to be a projectile that the achievement-subject is aiming at itself. In view of the ego ideal, the real ego appears as a loser buried in self-reproach. The ego wages war with itself.
+
+Supports: [[The Project (Han)]] (project → projectile) and the superego positivizing into the ego ideal.
+Label: Directly stated
+
+### Source 43
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> The inner logic of achievement society dictates its evolution into a doping society.
+
+Supports: [[Doping Society]] — the *Leistungsmaschine* / neuroenhancement diagnosis; "Health is the new goddess."
+Label: Directly stated
+
+### Source 44
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> Today violence issues more readily from the conformism of consensus than from the antagonism of dissent. In this sense—contra Habermas—one might speak of the violence of consensus.
+
+Supports: The "violence of consensus" extending [[Gleichschaltung]] and [[Positivity]] (violence from positivity, not only conflict).
 Label: Directly stated

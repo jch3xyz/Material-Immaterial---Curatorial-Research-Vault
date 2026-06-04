@@ -11,6 +11,11 @@ sources:
   - "[[raw/Han - Psychopolitics/07 Shock]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/02 Neuronal Power]]"
+  - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
+  - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
+  - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
+  - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
 related:
   - "[[Transparency]]"
   - "[[Smoothness]]"
@@ -40,13 +45,15 @@ For [[Byung-Chul Han]], **positivity** names the regime that emerges when negati
 
 ## General Orientation
 
-This note tracks the single term "positivity" across **two registers in Han's corpus**, kept deliberately as distinct author-sections rather than collapsed into one synthesis:
+This note tracks the single term "positivity" across **three registers in Han's corpus**, kept deliberately as distinct author-sections rather than collapsed into one synthesis:
 
 1. **Positivity as a structural-aesthetic condition** (the register of *[[The Transparency Society]]*). Here positivity is the *subtractive* state that results when whatever resists, delays, conceals, or differs has been operationalized away — across image, language, body, and time. See **Longer Explanation** and **Authors and Variants** below; this is the original spine of the note and is unchanged.
 
 2. **Positivity as a theory of power** (the register of *[[Psychopolitics]]*). Here the same term is transposed into an explicit account of *domination*: the neoliberal regime "beams forth in positivity," operating through permission, stimulus, and the "Like" rather than through the prohibition and threat that command [[Negativity]]. See **§ Psychopolitics (Han) — positivity as a theory of power**.
 
-The two registers share a single diagnosis (the dismantling of negativity) but answer different questions — the first *what positivity is*, the second *how it rules*. Keeping them separate preserves the move from a description of the transparency society to a theory of [[Smart Power]] without flattening either.
+3. **Positivity as the master pathology** (the register of *[[The Burnout Society]]*, the diagnosis's foundational text). Here positivity is read pathologically: an *excess* that makes the body and soul sick from within, producing the "neuronal" illnesses (depression, ADHD, burnout) that follow not from the negativity of the foreign Other but from a "too-much of positivity." See **§ The Burnout Society (Han) — excess positivity as the master pathology**.
+
+The three registers share a single diagnosis (the dismantling of negativity) but answer different questions — the first *what positivity is*, the second *how it rules*, the third *how it sickens*. Keeping them separate preserves the move from a description of the transparency society, through a theory of [[Smart Power]], to the clinical-pathological account in which excess positivity is itself the disease — without flattening any of them.
 
 ## Longer Explanation
 
@@ -71,6 +78,14 @@ In *[[Psychopolitics]]* Han transposes positivity out of the aesthetic-epistemic
 The register is sharpened in Han's reading of Naomi Klein. Klein's shock doctrine, Han argues, mistakes a *disciplinary* technique for the contemporary one: electroshock "owes its efficacy to paralyzing and annihilating the contents of the psyche. Its essential trait is negativity. In contrast, neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering 'bitter medicine', it enlists Liking" (Ch.7). Positivity here is precisely what makes psychopolitics *psycho*-political: it "seduces the soul; it preempts it in lieu of opposing it." The same logic reorganizes surveillance. Against Orwell — whose state is governed by "the negativity of enmity" and the destruction of words — the [[Digital Panopticon]] "uses freedom to excess": "No production of scarcity occurs; instead, surplus is generated - indeed, a superabundance of positivity. … The principle of negativity, which still defined Orwell's state, has yielded to the principle of positivity" (Ch.8). "Big Brother now wears a friendly face. His friendliness is what makes surveillance so efficient." Positivity is thus the affective form that lets surveillance run on voluntary self-exposure ([[Auto-Exploitation]]) rather than coerced confession.
 
 Crucially, Han does not present positivity as benign. In "Healing as Killing" he insists that "the violence of positivity is just as destructive as the violence of negativity," because the imperative of self-optimization "is destroying the human soul, which is anything but a machine of positivity (Positivmaschine)" (Ch.6). Total subordination to positivity is itself lethal — "Without negativity, life degrades into 'something dead'" — so the [[Achievement Society]]'s endless self-improvement ends not in flourishing but in burnout and collapse: "Healing, it turns out, means killing." This is the load-bearing difference between the two registers: in *The Transparency Society* positivity's costs surface as exhaustion and the depletion of aura; in *Psychopolitics* the *destructiveness of positivity* is named as a violence in its own right, equal in kind to the negativity it displaces. *(Confidence: `Directly stated` for the four anchor quotations and the disciplinary/psychopolitical contrast; `Interpretive synthesis` for the claim that this constitutes one continuous diagnosis across both books.)*
+
+## The Burnout Society (Han) — excess positivity as the master pathology (PRIMARY source)
+
+*[[The Burnout Society]]* is the foundational text of the positivity diagnosis: where *The Transparency Society* describes positivity and *Psychopolitics* theorizes how it rules, this book makes excess positivity the **master pathology** of the present. Han opens by periodizing illness — the twenty-first century is "determined neither by bacteria nor by viruses, but by neurons" — and locates its signature afflictions (depression, ADHD, BPD, burnout) on the side of positivity rather than negativity: "They are not infections, but infarctions; they do not follow from the negativity of what is immunologically foreign, but from an excess of positivity" (ch.2). This is the decisive turn away from the [[Immunological Age]], whose whole apparatus of attack and defense is keyed to "the negativity of the Other"; the new pathologies "elude all technologies and techniques that seek to combat what is alien." Han makes the source of harm explicit: "Harm does not come from negativity alone, but also from positivity—not just from the Other or the foreign, but also from the Same" (ch.2). *(Confidence: `Directly stated`.)*
+
+Positivity in this register is therefore a **violence** with its own distinct mode — [[Neuronal Violence]]. It is not the depriving, excluding violence of the foreign but a saturating, exhausting violence from within: "The violence of positivity does not deprive, it saturates; it does not exclude, it exhausts. That is why it proves inaccessible to unmediated perception" (ch.2). Because this violence is "system-immanent," it produces "psychic infarctions" rather than immune reactions, and so escapes the immunological optics that earlier ages relied on. The same logic grounds Han's reading of depression as the signature mood of the [[Achievement Society]]: "Depression is the sickness of a society that suffers from excessive positivity. It reflects a humanity waging war on itself" (ch.3). The depressive [[Achievement Society|achievement-subject]] is "predator and prey at once," wounded by an internalized war — the pathological face of [[Auto-Exploitation]]. *(Confidence: `Directly stated` for the quotations; `Interpretive synthesis` for naming this the master-pathology register.)*
+
+Excess positivity also reorganizes attention and, finally, the human itself. In the register of perception it appears "as an excess of stimuli, information, and impulses. It radically changes the structure and economy of attention. Perception becomes fragmented and scattered" (ch.4) — the displacement of deep contemplative attention by hyperattention, and the corollary of [[Acceleration]], which "is abolishing all intervals." Pushed to its limit, the "general positivization of the world means that both human beings and society are transforming into autistic performance-machines" (ch.6); the computer, "free of all Otherness," is the exemplary "machine of positivity [Positivmaschine]" — the figure this note tracks under the metaphor [[The Machine of Positivity]]. The book's closing diagnosis returns excess positivity to the body: the tiredness and exhaustion of the achievement society "are not immunological reactions presupposing the negativity of the immunologically Other. Rather, they are caused by a too-much of positivity. The excessiveness of performance enhancement leads to psychic infarctions" (ch.8). This is the clinical endpoint of positivity — [[Burnout]] as the collapse of a soul that "is anything but a machine of positivity." *(Confidence: `Directly stated` for the four anchor quotations; `Interpretive synthesis` for the through-line linking attention, the Positivmaschine, and burnout as one continuous pathology of positivity.)*
 
 ## Related Concepts
 
@@ -258,3 +273,80 @@ Relevant passage:
 > Smart power with a liberal, friendly appearance - power that stimulates and seduces - is more compelling than power that imposes, threatens and decrees. Its signal and seal is the Like button.
 
 Supports: Identifies the "Like button" as the signal and seal of positive (smart) power, linking the positivity register to [[Smart Power]] and [[The Like Button]]. Label: `Directly stated`.
+
+### Source 15
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> They are not infections, but infarctions; they do not follow from the negativity of what is immunologically foreign, but from an excess of positivity.
+
+Supports: The foundational pathological statement of the Burnout-Society register — the neuronal illnesses of the present derive from excess positivity, not from the negativity of the foreign Other. Anchors § The Burnout Society (Han) and the link to [[Neuronal Violence]] / [[Immunological Age]]. Label: `Directly stated`.
+
+### Source 16
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> Harm does not come from negativity alone, but also from positivity—not just from the Other or the foreign, but also from the Same.
+
+Supports: States the decisive widening of the source of harm — positivity (and the Same) as a source of harm in its own right, beyond the Other. Label: `Directly stated`.
+
+### Source 17
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/02 Neuronal Power]]
+Relevant passage:
+
+> The violence of positivity does not deprive, it saturates; it does not exclude, it exhausts. That is why it proves inaccessible to unmediated perception.
+
+Supports: The signature characterization of the violence of positivity — saturating and exhausting rather than depriving and excluding; grounds the distinct mode of [[Neuronal Violence]]. Label: `Directly stated`.
+
+### Source 18
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]
+Relevant passage:
+
+> Depression is the sickness of a society that suffers from excessive positivity. It reflects a humanity waging war on itself.
+
+Supports: Names depression as the signature illness of excessive positivity and the internalized war of the [[Achievement Society]]; the clinical face of [[Auto-Exploitation]]. Label: `Directly stated`.
+
+### Source 19
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/04 Profound Boredom]]
+Relevant passage:
+
+> Excessive positivity also expresses itself as an excess of stimuli, information, and impulses. It radically changes the structure and economy of attention. Perception becomes fragmented and scattered.
+
+Supports: Specifies positivity in the register of attention — an excess of stimuli that fragments perception and displaces deep contemplative attention; corollary of [[Acceleration]]. Label: `Directly stated`.
+
+### Source 20
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]
+Relevant passage:
+
+> The general positivization of the world means that both human beings and society are transforming into autistic performance-machines.
+
+Supports: The endpoint of total positivization — human beings and society becoming autistic performance-machines; with the surrounding "machine of positivity [Positivmaschine]," grounds the metaphor [[The Machine of Positivity]]. Label: `Directly stated`.
+
+### Source 21
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/08 The Society of Tiredness]]
+Relevant passage:
+
+> Rather, they are caused by a too-much of positivity. The excessiveness of performance enhancement leads to psychic infarctions.
+
+Supports: The book's closing diagnosis — exhaustion and tiredness are caused by a too-much of positivity, leading to psychic infarctions; the clinical endpoint that grounds [[Burnout]]. Label: `Directly stated`.

@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 # Reading Pathways
@@ -435,3 +435,50 @@ A cross-book pathway following McLuhan's master historical claim — mechanical 
 - [[Acceleration]] — Han's critique of speed, the productive contrast to McLuhan's 'electric speed'
 - [[Marshall McLuhan and Byung-Chul Han]] — electric speed and the leased nervous system read against Han
 - [[Marshall McLuhan and N. Katherine Hayles]] — the senses as substrate and consciousness translated into information
+
+## Pathways through *The Burnout Society* (Byung-Chul Han)
+
+### Pathway: The diagnosis of the achievement society
+
+Follows Han's clinical core, from the epochal shift into the achievement society through auto-exploitation to burnout and its intensification in the doping society. Useful for thinking self-coercion, exhaustion, and the pathologies of excess positivity.
+
+- [[Achievement Society]] — the neoliberal regime of auto-exploitation at book length
+- [[Auto-Exploitation]] — the internal work camp; predator and prey at once
+- [[Burnout]] — the title malady of excess positivity that eludes psychoanalysis
+- [[The pathologies of the present are infarctions not infections]] — the epochal positivity thesis
+- [[Doping Society]] — the achievement society intensified into a performance-machine; 'Health is the new goddess'
+- [[The Internal Work Camp]] — everyone carries a work camp inside
+- [[Depression is caused by the imperative to achieve not the failure to become oneself]] — the Ehrenberg polemic
+
+### Pathway: The periodization — from discipline to achievement
+
+Traces Han's historical argument: the immunological age of negativity and infection gives way to the neuronal age of positivity and infarction, and the disciplinary society of the should to the achievement society of the can. Useful for thinking the genealogy of power and how it sits beside (and apart from) the Psychopolitics periodization.
+
+- [[Immunological Age]] — the immunological → neuronal epochal shift
+- [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence'
+- [[Can vs Should]] — the Should → Can modal shift
+- [[The achievement society supersedes the disciplinary society]] — the periodizing thesis
+- [[Discipline vs Achievement]] — confinement and the should vs auto-exploitation and the can; distinct from Discipline vs Control
+
+### Pathway: The contemplative cure — Han's affirmative turn
+
+Moves from Han's diagnosis to his counter-program: the recovery of negative potency, profound boredom, and the contemplative life, ending in the healing tiredness of a community of singularities. Useful for thinking attention, rest, and what resists the achievement-principle.
+
+- [[Negative Potency]] — the 'power not to do' / the power to say no
+- [[Profound Boredom]] — the dream bird that hatches the egg of experience
+- [[Vita Contemplativa]] — the contemplative life as sovereign saying-no, against Arendt
+- [[The contemplative life is more active than hyperactivity]] — the pedagogy-of-seeing thesis
+- [[Fundamental Tiredness]] — the healing we-tiredness
+- [[Community of Singularities]] — the 'friendly and,' the redemptive inverse of the Hell of the Same
+- [[The society to come is a society of tiredness]] — the affirmative closing thesis
+
+### Pathway: Attention and the senses (a bridge to McLuhan)
+
+A cross-book pathway placing Han's attention-regime diagnosis beside McLuhan's account of media reshaping the ratios of perception. Useful for thinking deep vs scattered attention, multitasking, and perception beneath opinion.
+
+- [[Deep Contemplative Attention]] — the immersive lingering attention that is the precondition of culture
+- [[Hyperattention]] — the scattered, broad-but-flat attention-regime that displaces deep reflection
+- [[Multitasking]] — regression to the divided vigilance of wild animals, not progress
+- [[Deep Attention vs Hyperattention]] — the attention-regime opposition
+- [[Sense Ratios]] — McLuhan: media alter the ratios and patterns of perception beneath opinion
+- [[Marshall McLuhan and Byung-Chul Han]] — the media-ecology precursor to Han's attention diagnosis

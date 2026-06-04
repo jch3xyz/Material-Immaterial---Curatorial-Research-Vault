@@ -4,12 +4,14 @@ status: generated
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
 related:
   - "[[Positivity]]"
   - "[[Hell of the Same]]"
   - "[[Transparency]]"
   - "[[Transparency abolishes the Other and produces compulsive conformity]]"
   - "[[Idiotism]]"
+  - "[[Neuronal Violence]]"
   - "[[Friedrich Nietzsche]]"
 opposes:
   - "[[Negativity]]"
@@ -26,6 +28,8 @@ last_updated: 2026-06-02
 ## General Orientation
 
 *Gleichschaltung* enters the vault through [[Byung-Chul Han]] in two registers, across two books, that should be kept distinct even as they name one operation. In *[[The Transparency Society]]* (ch. 1, [[Positivity]]) the term is invoked **politically**: transparency is named as the new word for *Gleichschaltung*, the "totalitarian trait" of a calibrated society that eliminates the Other to speed circulation. In *[[Psychopolitics]]* (ch. 11, "Big Data") the term is given its **statistical-genealogical root**: Han traces it back through [[Friedrich Nietzsche]]'s phrase *Zunehmen im Gleichwerden* ("increasing in becoming-equal") and the Romantic-era revolt against statistical normality, then carries it forward into Big Data as "hypertrophied sameness." The two senses are the same leveling read at different depths — the political diagnosis on top, the statistical-numerical mechanism underneath — and both converge on the figure of the [[Hell of the Same]]. (`Directly stated` that Han uses the term in both books; `Interpretive synthesis` that the two are layers of one operation.)
+
+A third register arrives with *The Burnout Society* (ch. "Burnout Society"). There Han does not name *Gleichschaltung* directly, but he supplies the **theory of violence** that the term's leveling presupposes: violence does not vanish when society positivizes itself and sheds the negativity of conflict — it migrates into "the positivity of consensus." This is the same purging of the Other read from the side of *force*: where the [[Transparency]] account shows synchronization eliminating friction and the [[Big Data]] account shows it as statistical averaging, the *Burnout Society* account shows that the resulting "totality of capital" is itself "consensual violence" — leveling that no longer needs an antagonist to be violent. (`Directly stated` that violence issues from "the positivity of consensus"; `Interpretive synthesis` that this grounds the leveling named *Gleichschaltung* elsewhere.)
 
 ## Brief Definition
 
@@ -47,9 +51,18 @@ The recurrence is explicit. Immediately after the Nietzsche passage Han writes: 
 
 Big Data, for Han, intensifies this to a pathology: "Dataism is augmenting Zunehmen im Gleichwerden, or hypertrophied sameness." (`Directly stated`.) Because data-mining "calculates average values" and "has no access to what is unique," it is structurally incapable of the event, the improbable, the singular — "Big Data is wholly blind to the event." Read against the *Transparency Society* account, this confirms that *Gleichschaltung* and the [[Hell of the Same]] name one leveling in two idioms: the *Hell of the Same* is its affective-economic face (equivalence abolishing singularity), *Gleichschaltung* its political-statistical face (the herd produced by averaging). The counter-pole Han offers in the same book is the figure of the [[Idiotism|idiot]] — the one who refuses to be networked, calculated, and brought into line, and so preserves the heretical singularity that *Zunehmen im Gleichwerden* dissolves. (`Strongly implied` that the idiot is the structural opposite of the data-driven *Gleichschaltung*; the explicit treatment of the idiot is in ch. 13, not ch. 11.)
 
+## The Burnout Society (Han) — the violence of consensus (contra Habermas)
+
+In *The Burnout Society* (ch. "Burnout Society") Han withholds the word *Gleichschaltung* but secures its underlying premise: that leveling can be violent without any clash. The argument arrives through a critique of the "deconflictualization" that Alain Ehrenberg ties to depression. Han concedes the diagnosis of a de-ideologized, positivized society — "Sociopolitical events are no longer determined by the clash between ideologies or classes—the very idea has come to sound archaic" — but he refuses the inference that the disappearance of conflict means the disappearance of force. "But for all that, the positivization of society does not abolish violence. Violence does not stem from the negativity of clash or conflict alone; it also derives from the positivity of consensus." (`Directly stated`.) This is the structural complement to the *Gleichschaltung* of [[Transparency]] and [[Big Data]]: there, leveling proceeds by eliminating the Other (see [[Transparency abolishes the Other and produces compulsive conformity]]); here, Han names the violence intrinsic to that very smoothing. The same sentence supplies the totalizing object: "Now, the totality of capital, which seems to be absorbing everything, represents consensual violence." (`Directly stated`.) The capital that "absorbs everything" is the economic body of the calibrated, synchronized society — leveling as a force that operates through agreement rather than against an enemy.
+
+Han makes the polemical edge explicit at the chapter's turn against Agamben, whose *homo sacer* he reads as still bound to "the scheme of negativity" — to exclusion, the state of exception, a sovereign who kills. Against that "anachronistic focus on negativity," Han insists the contemporary violence is one of "exhaustion and inclusion," of "extreme phenomena of positivity." It is here that he gives the term-of-art this note carries forward: "Today violence issues more readily from the conformism of consensus than from the antagonism of dissent. In this sense—contra Habermas—one might speak of the violence of consensus." (`Directly stated`; the verbatim quotation, em-dashes preserved.) The "contra Habermas" is load-bearing: where Habermas's communicative ideal treats consensus as the non-violent telos of reason, Han reverses the valuation — consensus is precisely where late-modern violence now lives, because *conformism* (the "chain reaction of likeness" of the [[Transparency Society]], the "compulsion to conform" of [[Psychopolitics]]) has become the medium of domination. (`Directly stated` for the reversal; `Interpretive synthesis` for the link back to the *Transparency Society* "chain reaction of likeness." Whether to mint a `Byung-Chul Han and Jürgen Habermas` reference note is flagged as an open review item; Habermas is rendered as plain text here pending that decision, with no author-note file.)
+
+This register is continuous with the existing Big-Data "sameness" account rather than a departure from it. *Psychopolitics* showed *Gleichschaltung* as a numerical convergence toward the average that "eliminates the Other, the Alien and the Deviant"; *The Burnout Society* shows why that elimination is *violent* even when nobody is coerced and nobody dissents — the "totality of capital" levels by consensus, and the achievement-subject, "simultaneously perpetrator and victim, master and slave," administers that violence to itself. The same chapter develops this self-administered force as the [[Neuronal Violence|neuronal violence]] of the achievement society (depression, burnout, ADHD as "auto-aggressive" maladies of excess positivity), so that the consensual violence of capital and the auto-aggression of the burnt-out subject are two faces of one positivized regime. (`Strongly implied` that the violence of consensus and neuronal auto-aggression are continuous; `Directly stated` that burnout and depression "display auto-aggressive traits" and that "exogenous violence is replaced by self-generated violence.")
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — uses *Gleichschaltung* diagnostically, not as a historical analogy to a specific regime but as a structural name for the "totalitarian trait" of compulsory transparency: a calibrated, synchronized society that levels singularity to accelerate the circulation of capital, communication, and information. In *[[Psychopolitics]]* (ch. 11) he supplies the term's statistical genealogy — [[Friedrich Nietzsche]]'s *Zunehmen im Gleichwerden* — and extends it to Big Data as "hypertrophied sameness." (`Directly stated` for Han's invocation of the term in both books.)
+- **[[Byung-Chul Han]]** — uses *Gleichschaltung* diagnostically, not as a historical analogy to a specific regime but as a structural name for the "totalitarian trait" of compulsory transparency: a calibrated, synchronized society that levels singularity to accelerate the circulation of capital, communication, and information. In *[[Psychopolitics]]* (ch. 11) he supplies the term's statistical genealogy — [[Friedrich Nietzsche]]'s *Zunehmen im Gleichwerden* — and extends it to Big Data as "hypertrophied sameness." In *The Burnout Society* (ch. "Burnout Society") he supplies the theory of force the term presupposes: that "the positivization of society does not abolish violence," which "derives from the positivity of consensus" and from "the totality of capital … [as] consensual violence" — "contra Habermas … the violence of consensus." (`Directly stated` for Han's invocation of the term in two books and for the consensual-violence thesis in the third.)
+- **Jürgen Habermas** *(plain text; forward-stub candidate — see open review item)* — the foil of the *Burnout Society* formulation. Habermas's account of consensus as the non-violent telos of communicative reason is the position Han reverses with "contra Habermas … one might speak of the violence of consensus." He is named only in this contrastive phrase and is not otherwise developed in the chapter; whether to mint a `Byung-Chul Han and Jürgen Habermas` reference note is flagged for review. (`Directly stated` that Han names him as the contrast.)
 - **[[Friedrich Nietzsche]]** *(forward-stub; originating-thinker for the statistical root)* — the source, via *Psychopolitics* ch. 11, of the phrase *Zunehmen im Gleichwerden* ("increasing in becoming-equal") that Han treats as the conceptual root of *Gleichschaltung*. Nietzsche's revolt against statistical reason ("the figures of statistics prove only that man is a herd animal") furnishes the genealogy Han uses to ground the term in numerical averaging rather than political decree. (`Directly stated` that Han attributes the phrase to Nietzsche.)
 - **[[Carl Schmitt]]** *(forward-stub; originating-thinker candidate)* — the chapter's nearest cited authority on the political register (the *arcanum*, "courage to secrecy"), which makes Schmitt a plausible source of the footnoted maxim. This attribution is **unverified**; the quotation is rendered here as an unattributed epigraph pending endnote confirmation. (`Speculative connection`.)
 
@@ -60,6 +73,8 @@ Big Data, for Han, intensifies this to a pathology: "Dataism is augmenting Zuneh
 - [[Hell of the Same]] — the affective-economic figure for the same leveling: equivalence abolishing singularity; in *Psychopolitics* ch. 11 it is identified with the statistical *Zunehmen im Gleichwerden*.
 - [[Transparency abolishes the Other and produces compulsive conformity]] — the argument this concept underwrites.
 - [[Idiotism]] — the counter-figure: the idiot's heretical singularity is what *Gleichschaltung* / *Zunehmen im Gleichwerden* dissolves (developed in *Psychopolitics* ch. 13).
+- [[Neuronal Violence]] — the self-administered face of the consensual violence the *Burnout Society* chapter names: the auto-aggressive maladies (depression, burnout, ADHD) of the positivized achievement society. The violence of consensus and neuronal auto-aggression are two faces of one positivized regime.
+- [[Positivity]] — the regime whose "positivization" does not abolish violence but relocates it into consensus and conformism (*Burnout Society*).
 - [[Friedrich Nietzsche]] — the originating thinker of *Zunehmen im Gleichwerden*, the statistical root Han assigns to the term.
 
 ## Opposing Concepts
@@ -142,3 +157,25 @@ Relevant passage:
 > Dataism is augmenting Zunehmen im Gleichwerden, or hypertrophied sameness. Data-mining does not differ from statistics in any fundamental way. The correlations it lays bare represent only what is likely in statistical terms. It calculates average values. As such, Big Data has no access to what is unique. Big Data is wholly blind to the event.
 
 Supports: The extension of *Gleichschaltung* into Big Data as "hypertrophied sameness." Because data-mining only calculates averages and "has no access to what is unique," it is structurally blind to the singular event — confirming that the leveling is intensified, not relieved, by digital quantification. Underwrites the cross-link to [[Idiotism]] (the singular that resists averaging) and to [[Hell of the Same]]. Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> But for all that, the positivization of society does not abolish violence. Violence does not stem from the negativity of clash or conflict alone; it also derives from the positivity of consensus. Now, the totality of capital, which seems to be absorbing everything, represents consensual violence.
+
+Supports: The load-bearing passage for the *Burnout Society* register. Violence persists after positivization and migrates into "the positivity of consensus"; the "totality of capital" is named as "consensual violence." This is the theory of force underlying the leveling that *Gleichschaltung* designates in the other two books — the calibrated/synchronized society's economic body, leveling by consensus rather than against an enemy. Continuous with the Big-Data "sameness" register (Source 6). Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Burnout Society*
+Author: Byung-Chul Han
+Raw file: [[raw/Han - The Burnout Society/09 Burnout Society]]
+Relevant passage:
+
+> Today violence issues more readily from the conformism of consensus than from the antagonism of dissent. In this sense—contra Habermas—one might speak of the violence of consensus.
+
+Supports: The named thesis — "the violence of consensus" — and its explicit polemical target, Habermas (for whom consensus is the non-violent telos of communicative reason). Han reverses that valuation: conformism, not dissent, is now the medium of violence. Em-dashes preserved character-for-character. Grounds the open review item on whether to mint a `Byung-Chul Han and Jürgen Habermas` reference note; Habermas is otherwise undeveloped in the chapter and is left as plain text. Label: `Directly stated`.
