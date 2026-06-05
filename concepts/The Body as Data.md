@@ -23,6 +23,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]"
   - "[[raw/McLuhan - Understanding Media/15 Chapter 11 - Number - Profile of the Crowd]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Posthumanism]]"
   - "[[Information (Hayles)]]"
@@ -40,8 +42,9 @@ authors:
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # The Body as Data
@@ -148,6 +151,12 @@ What keeps McLuhan from being merely a celebrant of this transformation — and 
 - How does the prior, "imaginary" separation of information from materiality make the body-as-data thinkable in the first place — and can the separation be contested without rejecting information theory itself?
 - Why is the fantasy of disembodiment experienced as simultaneously a "dream" (immortality, freedom from material constraint) and a "nightmare" (the body reduced to a fashion accessory rather than the ground of being)?
 - What does it cost, ethically and politically, to imagine that "we can do away with the body" because "we are essentially information"?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Two decades before Haraway named the organism's translation into a "biotic component," **[[Jack Burnham]]** had already, in *Beyond Modern Sculpture* (1968), reached the body-as-data thesis from the side of art theory — by treating the cybernetic organism as the terminal stage of sculpture itself. For his "Cyborg Art" — "the cybernetic organism as an art form" — the organism is grasped as an information-processing system: where the older "Object Art physical presence is everything," in the new "Systems Art 'information' is the key factor." The body, in this frame, ceases to be palpable mass and becomes a node in an "interacting assembly," defined (like any system) by "input and output, kinetically sustained equilibrium and eventual death" rather than by matter. This is the same inversion the rest of the cluster names — physicality demoted, information installed as the operative reality — arrived at through the migration of sculpture from the object to the system. `Directly stated` (the cross-reading of Burnham's art-theoretical "information" against the body-as-data cluster is `Interpretive synthesis`).
+
+Burnham's most direct contribution to this note is his reconception of the body itself as something to be *re-created in information*. In the Introduction he frames modern sculpture as "a preparatory stage representing steps toward the simulation of biological life," whose telos is the machine as "the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts." The living body is thereby reconceived not as irreducible flesh but as an effect of organization that technology can re-instantiate — a "life-bearing artifact." His definition closes the circuit: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." Where Hayles contests the reduction of the body to portable pattern and Harari and Kurzweil embrace it, Burnham occupies a distinct, earlier position — the body-as-data not as upload, dossier, or dogma, but as the engineering horizon of an art that aspires to make matter live. `Directly stated` (the positioning of Burnham as a 1968 art-theoretical precursor to the body-as-data cluster is `Interpretive synthesis`).
 
 ## Sources
 
@@ -392,3 +401,25 @@ Relevant passage:
 > If political and commercial institutions take on a biological character by means of electric communications, it is also common now for biologists like Hans Selye to think of the physical organism as a communication network: "Hormone is a specific chemical messenger-substance, made by an endocrine gland and secreted into the blood, to regulate and coordinate the functions of distant organs."
 
 Supports: McLuhan's two-way recoding — the social field rendered a nervous system while "the physical organism" is rendered "a communication network" — paired with his account of the externalized nerves as the inauguration of "the Age of Anxiety and of Pervasive Dread" ("To put one's nerves outside, and one's physical organs inside the nervous system, or the brain, is to initiate a situation-if not a concept-of dread"). Underwrites the third McLuhan paragraph and its ambivalence. Label: `Directly stated`.
+
+### Source 23
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+Supports: Burnham's art-theoretical statement of the same inversion the cluster names — physical presence demoted, information installed as the operative reality — reached via sculpture's migration from object to system; grounds the `## Jack Burnham (Beyond Modern Sculpture)` section. Pairs with his definition of the cyborg in the same chapter: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." Label: `Directly stated`.
+
+### Source 24
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> The machine, he intuitively realized, as unsubtle and inefficient as it was, remained the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts.
+
+Supports: Burnham's reconception of the living body as an effect of organization that technology can re-instantiate — the body re-created as a "life-bearing artifact" — the 1968 art-theoretical precursor of the body-as-data thesis. Pairs with the Introduction's framing of modern sculpture as "a preparatory stage representing steps toward the simulation of biological life." Label: `Directly stated`.

@@ -14,6 +14,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
   - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -37,8 +39,9 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 ---
 
 # Acceleration
@@ -119,6 +122,14 @@ This is most explicit where McLuhan ties acceleration to interdependence and aut
 - How does Han's claim that "only additive processes admit acceleration" relate to [[Marshall McLuhan|McLuhan]]'s account of electric speed? Do their causal arrows run in opposite directions?
 - If [[Ritual]] resists acceleration by virtue of its narrativity, what happens when rituals are *imitated* in accelerated form (e.g., online ceremonies)? Are they still rituals, or already processors?
 - Is "dis-synchrony" a temporal claim, a social claim, or both — and what would re-synchronization even look like for Han?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Burnham's 1968 *Beyond Modern Sculpture* names a different register of acceleration from Han's — not the pathological collapse of the temporal interval but the *exponential growth of science itself* as the engine driving modern sculpture's transformation from object to system. In the Introduction he reports the limit-case the diagnosis turns on: "Science historians have speculated that science cannot indefinitely maintain its exponential rate of growth without turning the whole world into a race of scientists." Acceleration here is the rate at which scientific theory discloses new "form-worlds" with which artistic sensibility must constantly re-synchronize (Burnham's redefined *reification*); its asymptote is a society wholly given over to technics (`Directly stated` for the quotation; `Interpretive synthesis` for reading it as the temporal logic of reification).
+
+What makes this acceleration irreversible, for Burnham, is the autonomy of technics. In the Introduction he holds that "[s]tylistic cycles are a self-evident impossibility as art becomes a psychical manifestation of the scientific demiurge, which moves ceaselessly in a single irreversible direction" — there is no cyclical return, only a one-way intensification. Chapter 8, drawing on Jacques Ellul's *la technique*, sharpens this into the figure of a *self-augmenting* force: "The fearful quality about technology is that it is self-aggrandizing; it moves almost as if men were not its instigators; a self-propelled force, it evolves oblivious of the ambitions and contentments of the human race." Acceleration is thus a property the system has *of itself*, not a speed imposed on it by human users (`Directly stated` for both quotations; `Interpretive synthesis` for joining "single irreversible direction" to "self-aggrandizing" as one account of self-augmenting technics).
+
+The bridge to Han is a curatorial join, not a claim either author makes. Burnham's *self-augmenting, irreversible* acceleration is an account of the technical-civilizational process — exponential, one-directional, autonomous — whereas Han's is a *pathological-temporal* diagnosis: acceleration "is abolishing all intervals," hollowing futurity into "a protracted present" (see [[#The Burnout Society (Han) — the abolition of the interval; the protracted present]]). They converge on irreversibility and on technology's apparent independence of human will, but Burnham is largely *affirmative* about the trajectory (sculpture's "temporary survival" lies through it), where Han reads the same momentum as the loss of the negative. Keep the two distinct: Burnham theorizes the *growth rate and autonomy* of technics; Han theorizes the *destruction of the temporal gap* that such speed effects (`Interpretive synthesis`; Burnham and Han do not cite each other and write seventeen-plus years apart).
 
 ## Sources
 
@@ -297,3 +308,25 @@ Relevant passage:
 > A purely hectic rush produces nothing new. It reproduces and accelerates what is already available.
 
 Supports: The new-versus-mere-acceleration contrast — acceleration is sterile, multiplying the already-given without originating. Anchors the third paragraph of the Burnout-Society section and the link to [[Dancing Escapes the Achievement-Principle]]. Companion quote (same chapter): "Running, or racing, does not yield a new gait. It is just accelerated walking. Dancing or gliding, however, represent entirely new forms of motion." Label: `Directly stated`.
+
+### Source 17
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Science historians have speculated that science cannot indefinitely maintain its exponential rate of growth without turning the whole world into a race of scientists.
+
+Supports: Grounds the [[#Jack Burnham (Beyond Modern Sculpture)]] section's distinct sense of acceleration — the *exponential rate of growth of science itself* as the engine of modern sculpture's transformation, against which Burnham's whole object-to-system thesis is set. Companion quote (same chapter): "Stylistic cycles are a self-evident impossibility as art becomes a psychical manifestation of the scientific demiurge, which moves ceaselessly in a single irreversible direction." Label: `Directly stated`.
+
+### Source 18
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> The fearful quality about technology is that it is self-aggrandizing; it moves almost as if men were not its instigators; a self-propelled force, it evolves oblivious of the ambitions and contentments of the human race.
+
+Supports: Anchors the *self-augmenting / irreversible* reading of technics in the [[#Jack Burnham (Beyond Modern Sculpture)]] section (Ch. 8, via Ellul's *la technique*) — acceleration as a property the technical system has of itself, the curatorial bridge to (and distinction from) Han's pathological temporal acceleration. Label: `Directly stated`.

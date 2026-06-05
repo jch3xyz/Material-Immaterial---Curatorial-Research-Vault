@@ -7,6 +7,8 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch03 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
 related:
   - "[[Information (Hayles)]]"
   - "[[Flickering Signifier|Flickering Signifiers]]"
@@ -21,8 +23,9 @@ opposes:
 authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Pattern and Randomness
@@ -82,6 +85,12 @@ The second inflection is cognitive rather than metaphysical: *apophenia*, the mi
 - If randomness is reframed by the Conclusion as "the creative ground from which pattern can emerge," does this redeem the [[Posthumanism|posthuman]] from the disembodiment fantasy, or does investing noise with "plenitude" simply relocate the metaphysics of presence into the realm of pattern?
 - For a curatorial practice concerned with the [[Material vs Immaterial]] divide, what is the difference between an artifact valued as *presence* (the singular, located object) and one valued as *pattern* (the replicable, accessible code) — and what does the shift "from ownership to access" do to the status of the original?
 - Is "mutation" — "the bifurcation point at which the interplay between pattern and randomness causes the system to evolve" in a new direction — a model of creativity that depends on embodiment, or one that bypasses it?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+[[Jack Burnham]] arrives at the pattern/randomness problem from the side of the art object rather than information theory, but his kinetic and light art turn on the same axis — here named as the opposition between programmed (determinate) and aleatory (random) motion, the [[Determinism vs Randomness]] tension. For Burnham, the central unsolved technical-aesthetic problem of the Kinetic revival is *programming*: a fully deterministic control is so demanding that artists default to chance. As he puts it, "any kind of detailed and precise programming, demands more engineering ability from artists than a decision to let randomness run its course." The deterministic, "closed kinematic chain" of the first age of machines was Kineticism's deep root and its limitation; the New Tendency's escape was to let statistical, field-distributed randomness carry the motion, which is why Burnham can describe the determinate program and the aleatory field as rival solutions to the same problem of generating time-based form. (`Directly stated`.)
+
+The light artists push the same opposition toward a positive aesthetic of structured randomness. Burnham reports Nicolas Schöffer's preference for indeterminate light sequences that go on indefinitely, "never quite the same but always appearing the same" — a regime Schöffer names *continuous discontinuity* and which Burnham frames as "the statistical leveling-off of random phenomena," explicitly held to be "superior to a repetitive determinate program." (`Directly stated`.) This is a near-exact artifact-level rhyme with the Hayles dialectic above: where Hayles treats randomness not as the simple absence of pattern but as "the creative ground from which pattern can emerge," Burnham's light artists treat statistically-leveled randomness as the generative substrate of a perceptually stable pattern — the determinate program reframed not as the ideal but as the impoverished case. The convergence is a resonance across very different vocabularies (sculpture-as-system vs. information theory), not a citation; Burnham (1968) does not invoke Shannon-Weaver information theory in these passages. (`Interpretive synthesis`.)
 
 ## Sources
 
@@ -194,3 +203,25 @@ Relevant passage:
 > Our brains have evolved to detect patterns and attribute significance to events that are entirely random, imagining signal where there is mostly noise.
 
 Supports: Establishes the second O'Gieblyn inflection — apophenia, the mind as a pattern-detecting, meaning-making organ that reads signal into noise. The cognitive/psychological counterpart of the information-theoretic pattern, relocating "signal" and "noise" from the channel to the perceiver. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]
+Relevant passage:
+
+> any kind of detailed and precise programming, demands more engineering ability from artists than a decision to let randomness run its course.
+
+Supports: Burnham names programming — determinate vs. aleatory — as the central unsolved problem of the Kinetic revival, with full determinism so costly that artists default to letting randomness run its course. Anchors the [[Determinism vs Randomness]] tension and the artifact-level rhyme with Hayles's pattern/randomness dialectic. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]
+Relevant passage:
+
+> Schaffer's light programs go on indefinitely, never quite the same but always appearing the same; this he designates as continuous discontinuity.
+
+Supports: Schöffer's "continuous discontinuity" — indeterminate light sequences "never quite the same but always appearing the same," which Burnham glosses as "the statistical leveling-off of random phenomena" and holds "superior to a repetitive determinate program." A light-art realization of structured randomness as the generative ground of perceptual pattern, rhyming with Hayles's reframing of randomness as "the creative ground from which pattern can emerge." (OCR note: the raw renders the artist's name as "Schaffer"; the artist is Nicolas Schöffer.) Label: `Directly stated`.

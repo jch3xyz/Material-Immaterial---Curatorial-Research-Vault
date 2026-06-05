@@ -15,6 +15,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
   - "[[raw/McLuhan - Understanding Media/16 Chapter 12 - Clothing - Our Extended Skin]]"
   - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment vs Information]]"
@@ -29,8 +31,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Embodiment
@@ -112,6 +115,12 @@ What makes McLuhan a precursor to the vault's embodiment thread, and not merely 
 - Where is the line between the body (normalized, Platonic) and embodiment (instantiated, specific) drawn, and who draws it? Is the move from one to the other — as in PET imaging that converts "embodiment into a body" — itself a technology of power?
 - If embodiment is the pole Hayles affirms, is [[Embodiment vs Information]] a genuine opposition or a false binary that her notion of "embodied virtuality" already begins to dissolve?
 - How does embodiment, as the ground of finitude, reframe the stakes of the [[Material vs Immaterial]] hierarchy for a curatorial practice concerned with what survives, what is copied, and what cannot be?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+[[Jack Burnham]] reaches embodiment not as a thesis about the human subject but as a consequence of a change in art: when sculpture stops making transcendent form and starts staging the *experience of perception*, the perceiving body becomes the ground of the work. In the chapter on form exhaustion and the rise of [[Phenomenalism (Burnham)]], Burnham argues that Object/Minimal art shifts "the obligation to 'vitalize' sculpture" onto the viewer, who "not only is free to but must reconstruct the sculpture for himself." Seeing is no longer a detached optical act but, as Burnham puts it, "seeing as essentially an existential act by the observer" — a claim he grounds in Merleau-Ponty, for whom "what arises from the first glance is what Merleau-Ponty called 'carnal intersubjectivity.'" This is the phenomenological undercurrent of the vault's embodiment thread: the work exists only in its enactment by a specific, situated perceiving body, which parallels Hayles's insistence that "an incorporating practice such as a good-bye wave cannot be separated from its embodied medium." See [[Carnal Intersubjectivity (Merleau-Ponty via Burnham)]] for the perceptual relation Burnham names. Confidence: `Directly stated` (the Burnham/Merleau-Ponty quotations); `Interpretive synthesis` (the parallel to Hayles's incorporation).
+
+In the book's final chapter, on robot and cyborg art, Burnham extends the body in the opposite direction — outward into the machine — seventeen years before Haraway. He coins "Cyborg Art (i.e., the cybernetic organism as an art form)" and defines the cyborg directly: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." Burnham's cyborg is thus a body *coupled* to a machine through feedback, a man-machine system rather than a metaphor — the literal, engineering version of the move Haraway later makes politically ("the machine is us, our processes, an aspect of our embodiment") and Hayles diagnoses as the cybernetic erasure of the body. Where Hayles defends embodiment, O'Gieblyn traces the fantasy of its abolition, Haraway affirmatively extends it, and McLuhan grounds it as media-extension, Burnham supplies the earliest primary-art-text instance in the vault of embodiment widened to take the machine in through reciprocal feedback. Confidence: `Directly stated` (the cyborg definition and "Cyborg Art" coinage); `Interpretive synthesis` (the placement against the four-author thread).
 
 ## Sources
 
@@ -290,3 +299,29 @@ Relevant passage:
 > After centuries of being fully clad and of being contained in uniform visual space, the electric age ushers us into a world in which we live and breathe and listen with the entire epidermis.
 
 Supports: Clothing as an extension of the skin and the electric-age reorganization of the whole sensorium — the body extended outward and the senses re-equilibrated. Links to [[We Wear All Mankind as Our Skin]]. Confidence: `Directly stated`
+
+### Source 17
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]
+Relevant passage:
+
+> Perhaps a special crisis had to appear before sculptors would begin to consider seeing as essentially an existential act by the observer.
+
+> What arises from the first glance is what Merleau-Ponty called "carnal intersubjectivity."
+
+Supports: The phenomenological grounding of embodiment in Burnham — perception as an existential bodily act, and Merleau-Ponty's "carnal intersubjectivity" as the relation through which the perceiving body constitutes the Object work. Grounds [[Phenomenalism (Burnham)]] and [[Carnal Intersubjectivity (Merleau-Ponty via Burnham)]]; parallels Hayles's incorporating practice. Confidence: `Directly stated`
+
+### Source 18
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It is this last example which typifies the most exotic, if distant, goal of Cyborg Art (i.e., the cybernetic organism as an art form) and which is very gradually becoming the next, and perhaps ultimate stage of sculpture.
+
+> A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
+
+Supports: Burnham's "Cyborg Art" and his direct definition of the cyborg as a body coupled to a machine through reciprocal feedback — the earliest primary-art-text instance in the vault of embodiment extended outward into the machine (1968), predating Haraway's "the machine is us, our processes, an aspect of our embodiment." Confidence: `Directly stated`

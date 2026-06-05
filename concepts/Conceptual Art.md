@@ -6,6 +6,8 @@ sources:
   - "[[raw/Lippard - Six Years/04 Preface]]"
   - "[[raw/Lippard - Six Years/06 1967]]"
   - "[[raw/Lippard - Six Years/11 Postface]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
 related:
   - "[[Dematerialization]]"
   - "[[Information]]"
@@ -19,8 +21,9 @@ authors:
   - "[[Lucy Lippard]]"
   - "[[Sol LeWitt]]"
   - "[[Joseph Kosuth]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Conceptual Art
@@ -69,6 +72,12 @@ Lippard's verdict on the movement is deliberately dual, delivered in the Postfac
 - Lippard frames Conceptual art as restructuring perception and "remarking direct experience" rather than producing objects. Does this make it an early instance of [[Art as Experiential Technology]] — art whose product is a state of awareness in the viewer?
 - The Postface splits the verdict: aesthetic success, economic/political failure. Can an "informational, documentary idiom" carry critical or political force once it is reabsorbed as a luxury commodity, or does commodification neutralize the idea?
 - If the body of the artist becomes the work (Acconci, Piper, Ukeles, the "living sculptures"), is the dematerialized object simply relocated *into the body* — and what does that do to the idea/material hierarchy the genre is built on?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Jack Burnham's *Beyond Modern Sculpture* (1968) supplies the sculptural counterpart to the conceptual-art turn Lippard charts: where Conceptual art demotes the object in favor of the idea, Burnham tracks an analogous migration in sculpture from the fixed *object* to the interacting *system*. His formula is exact — "It becomes clear that with Object Art physical presence is everything, while for Systems Art 'information' is the key factor" (`Directly stated`, Burnham). The two diagnoses run parallel: Lippard's "idea is paramount and the material form is secondary" and Burnham's relocation of the artwork from physical presence to information are the same de-emphasis of the durable object, reached from the sculptural and the conceptual side respectively. See [[Object and System]] for Burnham's master object→system distinction, and [[Jack Burnham and Lucy Lippard]] for the cross-book bridge.
+
+Burnham also pre-dates Lippard's vocabulary of "dematerialization." Already in the closing chapter of his book's Part I he names sculpture's "steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend" (`Directly stated`, Burnham). This is a systems/information orientation that anticipates the conceptual movement's refusal of the object: the burden of the work shifts from the made form toward the relations, energy, and information it organizes (`Strongly implied`). Burnham's object→system axis is thus a near-contemporaneous sibling of Lippard's idea→document axis — distinct theses (sculpture's immateriality vs. the conceptual-art document) that converge on the same waning of physical presence.
 
 ## Sources
 
@@ -159,3 +168,16 @@ Relevant passage:
 > Three years later, the major conceptualists are selling work for substantial sums here and in Europe; they are represented by (and still more unexpected—showing in) the world's most prestigious galleries. Clearly, whatever minor revolutions in communication have been achieved by the process of dematerializing the object... , art and artist in a capitalist society remain luxuries.
 
 Supports: The economic/political-failure half of the dual verdict — the genre did not escape commodification. Spoken by Lippard. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]], [[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+> This too has vanished and the dialectical tension within twentieth-century sculpture remains its steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend.
+
+Supports: Burnham's systems/information orientation as the sculptural counterpart to the conceptual-art turn — the object→system shift parallels Lippard's idea→document shift; both demote physical presence in favor of information. Anticipates Lippard's "dematerialization." Spoken by Burnham. Cross-link [[Object and System]], [[Jack Burnham and Lucy Lippard]]. Label: `Directly stated`.

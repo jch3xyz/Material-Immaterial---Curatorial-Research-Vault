@@ -13,6 +13,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Homeostasis]]"
@@ -29,8 +31,9 @@ authors:
   - "[[Norbert Wiener]]"
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Cybernetics
@@ -95,6 +98,14 @@ McLuhan's preferred name for the discipline is "cybernation" (or, interchangeabl
 - Can the cybernetic reconception of humans, animals, and machines as information-processing systems be held without the "leap from embodied reality to abstract information" Hayles contests? (ties to [[Embodiment vs Information]])
 - Is the disembodiment cybernetics produced an "inexorable logic" of the field, or a contingent outcome that an embodied cybernetics could undo? (ties to [[Embodiment]], [[Posthumanism]])
 - Does Wiener's intent to *extend* liberal humanism through cybernetics survive the discipline's own pressure toward dissolving the autonomous subject? (ties to [[Posthumanism]], [[Norbert Wiener]])
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+For [[Jack Burnham]], cybernetics enters art as the discipline that consummates sculpture's migration from object to system. Writing in 1968, Burnham returns to the same etymological root Hayles foregrounds, but to a different end: he announces "the Greek 'kybernetes' (derived from steersman and the basis of the word cybernetics)" as the successor to vitalism's *élan vital*—"the expression of a new and even more effective prime mover." Where the older sculptural aesthetic had been "predicated on the conviction that artistic vitality could be substituted for biological vitality," the kybernetes/steersman becomes the engine of an art that no longer imitates life but simulates its organization. `Directly stated`
+
+Burnham's definition is terse and organizational rather than ontological: "it should be made clear that cybernetics is preeminently the science of organization," "the analysis of linked and interacting systems." On this footing the science of organization becomes the technical ground of [[Cyborg Art]]—"the cybernetic organism as an art form"—and of what he would soon name [[Systems Esthetics]]: an art built from negative feedback, [[Homeostasis|homeostasis]], input and output, and the coupling of system to system. Cybernetics is what lets sculpture cross from the inert, place-bound object to "an interacting assembly" with lifelike properties, the move Burnham reads as sculpture's "next, and perhaps ultimate stage." `Directly stated`
+
+Cybernetics also supplies Burnham's cosmological framing of technology against entropy. He reports the cyberneticist's definition of technology as "the development of pockets of decreasing entropy on a planet where the general level of entropy is rising"—technics as local order bought at the cost of global disorder, the sculpture/system as a low-entropy island. Read alongside the rest of this note, Burnham's reception is the *art-theoretical* register the others presuppose: he takes Wiener's discipline (he opens the cyborg chapter on a Wiener epigraph) and Bertalanffy's general systems theory into the practice of sculpture, anticipating by seventeen years the cyborg that [[Donna Haraway]] would politicize and prefiguring the systems body Hayles later contests. See [[Jack Burnham and N. Katherine Hayles]]. `Strongly implied` (Burnham's quoted passages are directly stated; the cross-author framing of his reception as the art-theoretical register of the same cybernetic synthesis is interpretive synthesis.)
 
 ## Sources
 
@@ -284,3 +295,25 @@ Relevant passage:
 > The source of energy is separate from the process of translation of information, or the applying of knowledge.
 
 Supports: The defining feature McLuhan ascribes to "all servo-mechanist structures that involve feedback"—the decoupling of energy from information, converging with the cybernetic separation of message from substrate. Label: `Directly stated`
+
+### Source 18
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Before going further, it should be made clear that cybernetics is preeminently the science of organization.
+
+Supports: Burnham's art-theoretical definition of cybernetics as "the science of organization"—the technical ground of Cyborg Art and Systems Esthetics. Label: `Directly stated`
+
+### Source 19
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> the "elan vital" will be looked upon as the old prime mover, while the Greek "kybernetes" (derived from steersman and the basis of the word cybernetics) becomes the expression of a new and even more effective prime mover.
+
+Supports: Burnham's kybernetes/steersman framing—cybernetics as the successor to vitalism's *élan vital*, the prime mover of an art that simulates the organization of life. Label: `Directly stated`

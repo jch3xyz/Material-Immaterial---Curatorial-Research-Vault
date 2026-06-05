@@ -8,6 +8,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Cybernetics]]"
   - "[[Embodiment]]"
@@ -20,8 +21,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Norbert Wiener]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Feedback Loops
@@ -56,12 +58,19 @@ McLuhan supplies a *physiological* feedback-loop reading that runs parallel to W
 
 In the "Automation" chapter McLuhan uses the word "feedback" in something much closer to the explicit cybernetic sense, and makes it epochal. Examining the pattern of automation, he writes, "Anybody who begins to examine the pattern of automation finds that perfecting the individual machine by making it automatic involves 'feedback.' That means introducing an information loop or circuit, where before there had been merely a one way flow or mechanical sequence" (Source 7). Feedback so understood is for McLuhan a historical rupture: "Feedback is the end of the lineality that came into the Western world with the alphabet and the continuous forms of Euclidean space" (Source 7). The "information loop or circuit" replaces "one-way flow" with "dialogue between the mechanism and its environment," weaving individual machines into "a galaxy of such machines" and, ultimately, the global "central nervous system" extended by electric media. The two registers meet in McLuhan's recurring figure of the servomechanism: in Narcissus he becomes "the servomechanism of his own extended or repeated image," and in Automation the feedback circuit is what marks the servomechanistic machine off "from the older mechanical principle of one-way movement." McLuhan thus joins the equilibrium-seeking vocabulary of cybernetics — extension as a "strategy of equilibrium" — to the historical claim that the closed information loop dissolves the linear, fragmented order of typographic and mechanical culture (`Strongly implied` for the synthesis of the two registers; the individual passages are `Directly stated`).
 
+## Jack Burnham (Beyond Modern Sculpture)
+
+In *Beyond Modern Sculpture* (1968) the feedback loop is the technical hinge of Burnham's argument that sculpture is migrating from the inert *object* to the interacting *system* — and, at its terminus, to [[Cyborg Art]], "the cybernetic organism as an art form." Reading the art world through [[Cybernetics]] (which he calls "preeminently the science of organization"), Burnham distinguishes the two polarities of the loop as sharply as Wiener does. Negative feedback is the stabilizing, equilibrium-seeking principle: "Negative feedback (as was mentioned with Cannon's homeostasis) is the process whereby any number of coupled systems are designed to maintain a relatively constant input-output relationship" (Source 8) — the same self-regulating logic he had just traced through Walter Cannon's [[Homeostasis|homeostasis]] and the servo-controlled machine. Its destructive counterpart is positive feedback: "Positive feedback (Wiener's 'hunting' symptom in neural pathology being one example) is caused when a mechanical or chemical chain reaction exceeds the boundaries of restraint and each 'cause and effect' relationship triggers off a still larger 'cause and effect' cycle" — the runaway oscillation whose graphic case is "an explosion of dynamite." For the full definitional treatment of these two poles see [[Negative Feedback (Burnham)]] (`Directly stated`).
+
+What makes negative feedback load-bearing for Burnham is that it is the principle of the *self-regulating cybernetic art system* — the servo-mechanism. He narrates the historical shift by which "the machine has become less simply a set of 'power drives' and more a series of 'servo systems'; or systems with closed-loop communication regulated as are Cannon's homeostasis functions for biological systems" (Source 9). The closed loop is exactly what raises a kinetic mechanism above one-way motion: a property "of systems is input and output," and "coupled systems evidence a feedback relationship when a reciprocal transmission of energy or information between systems affects the process of transmission itself." This is why Burnham's keystone definition of the cyborg is itself a definition of a loop: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism" (Source 10). Reciprocal, negative-feedback coupling is the dividing line between the "one-way message" of all prior sculpture — including Kinetic Art, which "no more 'acts' than does a ball of yarn when it is batted and chased by a kitten" — and the responsive, two-way [[Cyborg Art]] he projects as "the next, and perhaps ultimate stage of sculpture" (`Strongly implied` for the synthesis that negative feedback is the governing principle of the cybernetic art system; the individual passages are `Directly stated`).
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — Uses the feedback loop diagnostically: as the cybernetic mechanism that erodes liberal autonomy, defines the technobio-integrated circuit of VR, and links technology to discourse via incorporation. She insists the loop runs through material, embodied processes, so it is for her a hinge against the disembodiment of information rather than evidence for it.
 - **[[Norbert Wiener]]** — The originating figure. For Wiener "a flexible, self-regulating system of control based on feedback from the system itself" is required precisely because the universe is probabilistic; teleological behavior is redefined as "behavior controlled by negative feedback." Hayles reads Wiener as wanting to preserve liberal subjectivity even as his own feedback logic undermines it.
 - **Second-order / autopoietic variant (dissent)** — In the second wave, Maturana and Varela turn the loop "inside out": on the premise that systems are informationally closed, "no information crosses the boundary separating the system from its environment," so "the loop no longer functions to connect a system to its environment." This denies that messages circulate in feedback loops at all (see [[Systems Theory]]) and shifts attention from the observed system to the observer.
 - **[[Marshall McLuhan]]** — A physiological / homeostatic register. All extensions of the body are "attempts to maintain equilibrium"; pleasure (counter-irritation) and comfort (removal of irritants) are "strategies of equilibrium for the central nervous system." In the Automation chapter McLuhan also uses "feedback" in its cybernetic sense — "an information loop or circuit" that ends the "one-way flow" of mechanical and typographic linearity. The loop here is equilibrium-seeking and emphatically embodied (see [[Homeostasis]]).
+- **[[Jack Burnham]]** — The art-theoretical register. Negative feedback is the self-regulating principle of the cybernetic art system / servo-mechanism: "any number of coupled systems are designed to maintain a relatively constant input-output relationship," echoing Cannon's homeostasis. Its opposite, positive feedback, is runaway "hunting." Reciprocal, closed-loop feedback is Burnham's criterion separating the responsive [[Cyborg Art]] he forecasts ("any artificial system connected through reciprocal feedback to an organism") from the "one-way message" of all prior sculpture (see [[Negative Feedback (Burnham)]], [[Cybernetics]]).
 
 ## Related Concepts
 
@@ -166,3 +175,40 @@ Relevant passage:
 > Anybody who begins to examine the pattern of automation finds that perfecting the individual machine by making it automatic involves "feedback." That means introducing an information loop or circuit, where before there had been merely a one way flow or mechanical sequence. Feedback is the end of the lineality that came into the Western world with the alphabet and the continuous forms of Euclidean space.
 
 Supports: Anchors McLuhan's explicit cybernetic use of "feedback" as "an information loop or circuit" replacing "one way flow," and the epochal claim that feedback ends the linear order of the alphabet and Euclidean space — the second register of the McLuhan section, joining the equilibrium-seeking vocabulary to the historical break from mechanical/typographic linearity. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Negative feedback (as was mentioned with Cannon's homeostasis) is the process whereby any number of coupled systems are designed to maintain a relatively constant input-output relationship.
+
+And:
+
+> Positive feedback (Wiener's "hunting" symptom in neural pathology being one example) is caused when a mechanical or chemical chain reaction exceeds the boundaries of restraint and each "cause and effect" relationship triggers off a still larger "cause and effect" cycle.
+
+Supports: Grounds Burnham's two-polarity definition of feedback — negative feedback as the stabilizing, equilibrium-seeking principle (tied to Cannon's homeostasis) and positive feedback as runaway "hunting" oscillation. Establishes negative feedback as the self-regulating principle of the cybernetic art system (see [[Negative Feedback (Burnham)]], [[Homeostasis]]). Label: `Directly stated`.
+
+### Source 9
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> the machine has become less simply a set of "power drives" and more a series of "servo systems"; or systems with closed-loop communication regulated as are Cannon's homeostasis functions for biological systems
+
+Supports: Anchors the servo-mechanism reading — the negative-feedback "closed-loop communication" that regulates the self-stabilizing cybernetic system, the basis of the responsive (rather than one-way) art Burnham forecasts. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
+
+Supports: Burnham's keystone cyborg definition is itself a definition of a reciprocal feedback loop; establishes reciprocal, closed-loop coupling as the criterion separating responsive [[Cyborg Art]] from the "one-way message" of all prior sculpture. Label: `Directly stated`.

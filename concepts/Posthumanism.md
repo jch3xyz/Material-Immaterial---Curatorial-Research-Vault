@@ -18,6 +18,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/03 Introduction]]"
   - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -40,8 +42,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-05
 ---
 
 # Posthumanism
@@ -160,6 +163,12 @@ Crucially, Kurzweil denies that any boundary survives at all. In "A Theory of Te
 - When the body is reconceived as "the original prosthesis" and then as Gibson's "data made flesh," what is lost in treating [[The Body as Data]] — and can "abstract pattern ... ever fully capture the embodied actuality"? (ties to the body as data; information vs materiality)
 - If "posthumanity is already here," is the relevant question ethical and curatorial ("what kind of posthumans we will be") rather than predictive? (ties to posthumanism)
 - Does the performative claim "People become posthuman because they think they are posthuman" make the posthuman a matter of belief and self-description rather than of biological or technological fact? (ties to embodiment; posthumanism)
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Two decades before Hayles names the posthuman a point of view and seventeen years before Haraway's cyborg, the critic Jack Burnham's *Beyond Modern Sculpture* (1968) supplies the vault's **earliest, art-theoretic anticipation of the posthuman** — not a politics, diagnosis, eschatology, forecast, or affirmation of *subjectivity*, but a teleology of *art* whose terminus is the literal re-creation of intelligent life. Burnham reads the whole trajectory of modern sculpture as a "preparatory stage" pointed at the simulation of biological life, culminating in what he calls "Cyborg Art" (see [[Cyborg Art]]). His prediction is explicit: "the logical outcome of technology's influence on art before the end of this century should be a series of art forms that manifest true intelligence, but perhaps more meaningfully, with a capacity for reciprocal relationships with human beings (in this case the word viewer seems quite antiquated)" (`Directly stated`). Where the later authors describe the human becoming information, Burnham projects the *artwork* crossing into intelligent, responsive life — and in doing so dissolves the spectator into an interlocutor, the "viewer" rendered obsolete by an art that answers back.
+
+What makes this a posthuman anticipation rather than merely a forecast about machines is Burnham's claim about what abstraction has secretly been *for*. Departing from Worringer's thesis that abstraction relieves "cosmic anguish," Burnham argues that in an industrial-scientific society "the role of artistic abstraction is nothing less than psychic preparation for the entire re-creation of society, including remaking the biological composition of its inhabitants" (`Directly stated`). Modern formalism, on this reading, is the species rehearsing its own self-transformation — a reading he extends in the chapter "Robot and Cyborg Art," where sculpture becomes "a kind of psychical radar signal preparing the human race thousands (or now perhaps only scores) of years in advance" for self-inflicted evolution into a "post-human species." This is the same pattern-over-matter horizon the four later senses converge on — Hayles's "what kind of posthumans," Harari's retirement of *Homo sapiens*, Kurzweil's next evolutionary step — but arrived at from *aesthetics*: art as the early-warning organ of a species preparing to refashion its own biology (`Interpretive synthesis`). Burnham himself flags the teleological climax as speculative, so it is held here as anticipation, not doctrine (`Strongly implied`). His "Cyborg Art" predates Haraway's cyborg by seventeen years and grounds the vault's cybernetic-art thread (see [[Cyborg Art]], [[Systems Consciousness]], [[The Cyborg]]).
 
 ## Sources
 
@@ -492,3 +501,36 @@ Relevant passage:
 > If the work of the city is the remaking or translating of man into a more suitable form than his nomadic ancestors achieved, then might not our current translation of our entire lives into die spiritual form of information seem to make of the entire globe, and of the human family, a single consciousness?
 
 Supports: McLuhan's distinctive terminus — the translation of human life "into the spiritual form of information" fusing "the entire globe, and of the human family" into "a single consciousness"; the *collectivization* of consciousness that sets the precursor pole apart from Kurzweil's immortal upload and Harari's data-flow erasure. Label: `Directly stated`.
+
+### Source 31
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> the logical outcome of technology's influence on art before the end of this century should be a series of art forms that manifest true intelligence, but perhaps more meaningfully, with a capacity for reciprocal relationships with human beings (in this case the word viewer seems quite antiquated).
+
+Supports: Burnham's 1968 anticipation of the posthuman from *aesthetics* — art predicted to cross into "true intelligence" and "reciprocal relationships with human beings," dissolving the spectator into an interlocutor and rendering "viewer" obsolete; the earliest art-theoretic precursor to the four posthuman senses (see [[Cyborg Art]]). Label: `Directly stated`.
+
+### Source 32
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> But in an industrial society the role of artistic abstraction is nothing less than psychic preparation for the entire re-creation of society, including remaking the biological composition of its inhabitants.
+
+Supports: Recasts modern abstraction as the species' rehearsal of its own self-transformation — abstraction as "psychic preparation" for "remaking the biological composition of its inhabitants"; the move that makes Burnham's forecast a *posthuman* anticipation rather than only a claim about machines. Label: `Directly stated`.
+
+### Source 33
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Art, then, and the whole image-making drive may be means for preparing man for physical and mental changes which he will in time make upon himself. Sculpture, functioning so, becomes a kind of psychical radar signal preparing the human race thousands (or now perhaps only scores) of years in advance.
+
+Supports: The teleological climax of the cyborg-art chapter — sculpture as a "psychical radar signal" preparing the human race for self-inflicted evolution into a "post-human species"; the explicit 1968 figure of the posthuman, flagged by Burnham himself as speculative. Label: `Strongly implied`. Label: `Directly stated` (for the quoted prose).

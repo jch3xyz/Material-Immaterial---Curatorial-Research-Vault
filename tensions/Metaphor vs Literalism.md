@@ -6,10 +6,13 @@ poles:
   - "Literalism (the figure taken as plainspoken truth — 'the universe is in fact a computer')"
 authors:
   - "[[Meghan O'Gieblyn]]"
+  - "[[Jack Burnham]]"
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch07 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/07 Chapter 5 - Sculpture and Automata]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related_concepts:
   - "[[Mind as Machine]]"
   - "[[The Computational Universe]]"
@@ -19,7 +22,7 @@ related_concepts:
   - "[[Embodiment]]"
   - "[[The Body as Data]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Metaphor vs Literalism
@@ -60,6 +63,12 @@ What is at stake, then, is the difference between a tool and a truth-claim. Held
 ## Possible Synthesis or Unresolved Status
 
 O'Gieblyn does not resolve the tension by abolishing one pole; her synthesis is to hold the figurative pole *consciously*. Her point at the Sweden conference "was not that we should reject all metaphors, only that we should recognize them for what they are: crude attempts to elucidate concepts that are still beyond our understanding." The synthesis is therefore a discipline of remembering — keeping the quotation marks alive, refusing to let the analogy "die" into literal truth. Yet the book leaves the matter genuinely unsettled in two ways. First, the questioner's challenge in Ch8 — *metaphors are unavoidable, so which one do you subscribe to?* — is one she "failed to answer" and keeps "mentally revising"; days later she concludes she "no longer believed in metaphors. All of them, religious or scientific, were treacherous, sullied by human longings." Second, Kurzweil's fatalism haunts the resolution: "perhaps our limited vantage as humans meant that all we could hope for were metaphors of our own making, that we would continually grasp at the shadow of absolute truths without any hope of attainment." If every account of the world is irreducibly metaphoric and perspectival (the Bohrian "we ourselves are part of nature and therefore part of the mystery"), then the literal/figurative line is not a fact about the world but a vigilance we must continually choose — a tension to be held, not dissolved.
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Burnham gives this tension a sculptural, materialist genealogy: across his ten-millennia history of automata, the maker of anthropomorphic images "brings to life" the figure by ascending methods, of which the last and lowest is "literal movement and animation." Where art's older devices animate the figure only *metaphorically* — through the "metaphor of art," mimetic representation, or magical investiture — the automaton crosses into the literal, and at a cost: "Generally, this last embodies the fewest psychical reverberations. While it denies aesthetic-religious sensitivity, it has become the most expedient." The latent vitalism of the static statue (the *figure* of life) gives way to the machine that actually moves — the metaphor of life literalized into mechanism. `Confidence: Directly stated.`
+
+The arc completes in his final chapter, where Burnham names the literal re-creation of life as the terminus of the whole sculptural tradition: "What we will examine as Cyborg or Post-Kinetic art is really the first attempt to simulate the structure of life literally." This is not the magical copying of life's *appearance* but its literal operation on actual cybernetic principles — feedback, homeostasis, reciprocal coupling. Burnham marks the boundary explicitly through Grey Walter: "There is, however, a well-defined difference between the magical and the scientific imitation of life. The former copies external appearances; the latter is concerned with performance and behavior" (see [[Magical vs Scientific Imitation of Life]]). The figurative pole — sculpture as an *image* of the living, "Western man unknowingly converges art with a universal desire to re-create life nonbiologically" — hardens into the literal pole, the cybernetic organism that does not merely *resemble* life but enacts it. This is the sculptural counterpart of O'Gieblyn's slide from *like* to *is*, here carried not by metaphor in language but by the literal mechanization of the art object (see [[The Faustian Urge to Re-create Life Nonbiologically]]). `Confidence: Interpretive synthesis` (Burnham does not name this as a "metaphor vs. literalism" tension; the mapping of his metaphor-of-life → literal-animation arc onto the vault's tension is the synthesis, while the individual quoted claims are `Directly stated`).
 
 ## Sources
 
@@ -117,3 +126,18 @@ Relevant passage:
 > The difference between so-called atheists and people who believe in "God" is a matter of the choice of metaphor, and we could not get through our lives without having to choose metaphors for transcendent questions.
 
 Supports: Kurzweil's claim (quoted in the chapter) that all existential answers are "necessarily metaphoric," which O'Gieblyn reads as both confirming the religion/technology parallel and threatening to collapse the metaphor/truth distinction into fatalism — the unresolved edge of the tension. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/07 Chapter 5 - Sculpture and Automata]] , [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passages:
+
+> as in the case of automata, by literal movement and animation. Generally, this last embodies the fewest psychical reverberations. While it denies aesthetic-religious sensitivity, it has become the most expedient.
+
+> What we will examine as Cyborg or Post-Kinetic art is really the first attempt to simulate the structure of life literally.
+
+> There is, however, a well-defined difference between the magical and the scientific imitation of life. The former copies external appearances; the latter is concerned with performance and behavior.
+
+Supports: Burnham's sculptural mapping of the tension — the move from the METAPHOR of life (latent visual vitalism, the static figure as an *image* of the living) to the LITERAL re-creation of life (automata "by literal movement," then the cybernetic organism that simulates "the structure of life literally" on actual cybernetic principles). Grounds the "## Jack Burnham (Beyond Modern Sculpture)" section; cross-links [[Magical vs Scientific Imitation of Life]] and [[The Faustian Urge to Re-create Life Nonbiologically]]. The individual quoted claims are `Directly stated`; their assignment to the metaphor/literalism poles is `Interpretive synthesis`.

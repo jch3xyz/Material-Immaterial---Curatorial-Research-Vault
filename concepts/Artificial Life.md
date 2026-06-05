@@ -6,6 +6,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[The Three Waves of Cybernetics]]"
   - "[[Emergence]]"
@@ -83,6 +84,14 @@ For Hayles, AL is therefore not a neutral science but a site where "life," "natu
 - Does AL's "strong claim" mark a genuine emergence of new life, or only the latest reinscription of the form-over-matter hierarchy running from Plato through Shannon's [[Information (Hayles)]]? (ties to information vs materiality)
 - The field splits internally (Langton/Fredkin/Moravec vs Varela/Brooks). Is embodiment a contingent research choice or a condition of the living? What does Brooks's "the world is its own best model" imply for [[Embodiment vs Information]]?
 - If AL applied to humans yields [[Posthumanism]], which posthuman does it produce — one that "regards their bodies as fashion accessories" or one "embedded in a material world of great complexity"? (ties to posthumanism)
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+For **[[Jack Burnham]]** (*Beyond Modern Sculpture*, 1968) the artificial-life impulse is reconstructed thirty years before Hayles names the field, as the deep teleology of modern sculpture itself. In the Introduction Burnham reads the whole trajectory of the medium as "a preparatory stage representing steps toward the simulation of biological life," and he locates the engine of that movement in the machine rather than in the human figure: the sculptor abandoned anthropomorphism because the machine "remained the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts." This is the convergence thesis stated directly — biology, machine theory, and sculpture are not parallel pursuits but one. `Directly stated`
+
+In Chapter 2 ("The Biotic Sources of Modern Sculpture") Burnham makes that convergence explicit as a shared end, arguing that "the meaning of organicism for all three disciplines has already begun to converge toward a single end result — the understanding of living matter through its creation." Vitalism, the reigning aesthetic of modern sculpture, is for Burnham only "a transitional step in this process from inanimate object to system" — a metaphorical animation of inert mass that anticipates, but cannot accomplish, the literal making of life. `Directly stated`
+
+By Chapter 8 ("Robot and Cyborg Art") the endpoint arrives as **Cyborg Art**, "the cybernetic organism as an art form," where Burnham reports the bio-electronics consensus that "there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter," concluding that "organisms artificially created may possess consciousness." Burnham's 1968 "life-bearing artifacts" and the re-creation of life through the machine are thus an art-world precursor of the wetware/hardware/software AL program [[N. Katherine Hayles]] later maps: both site the redefinition of "life" in the privileging of organized form (or pattern) over matter, and Burnham anticipates Hayles's own embodied caution that the artificial creature is the literal making of a body, not a disembodied code. `Strongly implied`
 
 ## Sources
 
@@ -162,3 +171,18 @@ Relevant passage:
 > In the rapidly emerging field of artificial life, computer programs are designed to allow “creatures” (that is, discrete packets of computer codes) to evolve spontaneously in directions the programmer may not have anticipated. The intent is to evolve the capacity to evolve. Some researchers have argued that such self-evolving programs are not merely models of life but are themselves alive. What assumptions make this claim plausible? If one sees the universe as composed essentially of information, it makes sense that these “creatures” are life forms because they have the form of life, that is, an informational code.
 
 Supports: Hayles's prologue framing of AL as third-wave, its "evolve the capacity to evolve" aim, and the link between the strong claim and the computational-universe assumption that reality is information. Label: `Directly stated`
+
+### Source 8
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]] , [[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]] , [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Such a prognostication views modern sculpture as a preparatory stage representing steps toward the simulation of biological life ... The machine, he intuitively realized, as unsubtle and inefficient as it was, remained the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts.
+
+> the meaning of organicism for all three disciplines has already begun to converge toward a single end result-the understanding of living matter through its creation.
+
+> it is generally acknowledged by scientists working in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness.
+
+Supports: Grounds the Burnham author-section — modern sculpture as a preparatory stage toward "the simulation of biological life" / "life-bearing artifacts" (02 Introduction), the converging goal of "understanding living matter through its creation" (04 Chapter 2), and the bio-electronics claim that artificially created organisms "may possess consciousness" (10 Chapter 8). The 1968 art-world precursor of the artificial-life convergence thesis Hayles later maps. Label: `Directly stated`

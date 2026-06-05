@@ -10,6 +10,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/05 Ch1 - The Six Epochs]]"
   - "[[raw/Kurzweil - The Singularity Is Near/06 Ch2 - A Theory of Technology Evolution]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Posthumanism]]"
   - "[[The Body as Data]]"
@@ -27,8 +29,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-05
 ---
 
 # The Computational Universe
@@ -121,6 +124,12 @@ The terminus is Epoch Six, where the engineer's project becomes a cosmology. "In
 - What is at stake in the claim that "phenomenological experience is itself a kind of illusion, covering an underlying reality of simple forms"? Does treating the lived, embodied world as illusion already presuppose the posthuman erasure of [[Embodiment]]? (ties to embodiment; posthumanism)
 - If the computational universe makes "fight them or join them" the only two options, what third future does Hayles's "embodied world" open — and is "feel[ing] at home in the universe because they are embodied creatures" an argument or a value commitment? (ties to embodiment; posthumanism)
 - When the body becomes one more medium running the cosmic program (see [[The Body as Data]]), does anything of the human survive that "abstract pattern" cannot, in principle, capture and replace? (ties to the body as data; embodiment)
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Burnham reaches a version of the computational-universe thesis seventeen years before Haraway and three decades before the digital-physics writers in this note — not from cybernetics' history or from physics, but from the art-historical argument of *Beyond Modern Sculpture* (1968), whose spine is the migration of sculpture "from the object to the system." His most pointed claim flattens the ontological boundary the whole worldview depends on: reporting the consensus "in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness." `Directly stated`. This is the same form-over-matter inversion [[Material vs Immaterial|Hayles diagnoses]] and the same premise [[Ray Kurzweil]] builds on when he treats inert matter as latent computation to be *organized* — for Burnham, living and nonliving differ only in the organization (the *complexity*) of matter, so the line between organism and machine is one of degree, not kind. Read alongside the cosmic-computer claims already in this note (Fredkin's reality-as-software, Lloyd's universe-as-computer, Harari's cosmic data-processing system), Burnham supplies the art-world's early statement of the move: once matter is just "an ascending scale of complexity," consciousness and the cosmos become matters of organization rather than substance. `Interpretive synthesis`.
+
+In the Introduction the cosmological frame is explicitly informational-thermodynamic. Burnham reports the cyberneticist's definition of "technology as the development of pockets of decreasing entropy on a planet where the general level of entropy is rising," and glosses Kenneth Boulding's image of the universe "like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art." `Directly stated`. The universe here is not yet a computer, but it is already read as a system of entropy and organization — local order purchased against rising global disorder — which is the cybernetic substrate from which the later "information is king" cosmology in this note grows. Burnham's place in the cluster is therefore as the earliest, art-theoretical anticipation: the cosmos as decreasing-entropy systems (Boulding, Introduction) and the collapse of the living/nonliving distinction into organizational complexity (Chapter 8) prefigure, in 1968, the worldview Hayles demystifies, O'Gieblyn diagnoses, Harari preaches, and Kurzweil sets out to build. `Interpretive synthesis`.
 
 ## Sources
 
@@ -409,3 +418,36 @@ Relevant passage:
 > Ultimately, the entire universe will become saturated with our intelligence. This is the destiny of the universe. (See chapter 6.) We will determine our own fate rather than have it determined by the current "dumb," simple, machinelike forces that rule celestial mechanics.
 
 Supports: Kurzweil's framing of the cosmic terminus as an *engineering* destiny — "we will determine our own fate" by converting "dumb" matter into intelligence. The fourth stance (build/convert) set against Harari's "merge into" a god-like system. Grounds the closing of the Kurzweil section. Label: `Directly stated`.
+
+### Source 27
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> it is generally acknowledged by scientists working in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness.
+
+Supports: Burnham's collapse of the living/nonliving boundary into organizational complexity — the same form-over-matter premise the worldview rests on, stated from art theory in 1968. Grounds the Burnham section's claim that organism and machine differ only in degree. Label: `Directly stated`.
+
+### Source 28
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Such a trend has led one cyberneticist to define technology as the development of pockets of decreasing entropy on a planet where the general level of entropy is rising.
+
+Supports: The informational-thermodynamic framing of the cosmos as a system of entropy and organization — the cybernetic substrate from which the later "information is king" cosmology grows. Grounds the entropy/decreasing-entropy strand of the Burnham section. Label: `Directly stated`.
+
+### Source 29
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> The universe then is seen to be like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art.
+
+Supports: Boulding's spendthrift-artist image of the cosmos — the universe read as a system of diminishing potential and rising order, anticipating the cluster's view of the cosmos as an organizing/information-processing system. Label: `Directly stated`.

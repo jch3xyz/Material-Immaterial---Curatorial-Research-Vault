@@ -6,6 +6,7 @@ sources:
   - "[[raw/Lippard - Six Years/03 Author's Notes]]"
   - "[[raw/Lippard - Six Years/08 1969]]"
   - "[[raw/Lippard - Six Years/09 1970]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Dematerialization]]"
   - "[[Information]]"
@@ -17,8 +18,9 @@ opposes:
   - "[[Exhibition Value]]"
 authors:
   - "[[Lucy Lippard]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Exhibition as Medium
@@ -62,6 +64,12 @@ Lippard extends the principle to her own curatorial practice and to the book in 
 - The circulation Siegelaub mobilized against commodification is, for Han, exactly how [[Exhibition Value]] operates. Did the exhibition-as-medium build the distribution infrastructure that later recuperated it?
 - Print, mail, telephone, telex: the model is bound to its period's media. How does it translate to [[New Media Art]] and networked distribution, where the "publication" has no edition and no undistorted "original" to be primary about?
 - Where does *the body* go when the exhibition is a magazine page or an index card — is the dematerialized exhibition a removal of the spectator's body from the encounter, or its relocation to the reader's act of shuffling, culling, and reading?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Writing four years before the end of Lippard's chronicle, [[Jack Burnham]] arrives at the same relocation of the site of art from a different direction — sculpture rather than Conceptual art. His master thesis is the migration from the discrete *object* to the interacting *system*: "with Object Art physical presence is everything, while for Systems Art 'information' is the key factor" (`Directly stated`). What for Lippard is the catalogue displacing the gallery is, for Burnham, the system displacing the object — and in both cases the artwork's center of gravity moves from its physical presence to its informational and relational setting. His exhibit is, tellingly, the same one Lippard's milieu prized: Robert Morris's plan-built L-beams, the mailed instructions from which carpenters constructed the work, which Burnham reads as the threshold of an art whose carrier is information rather than a shipped object.
+
+The deeper convergence with the exhibition-as-medium is Burnham's claim that the system dissolves the very boundary the gallery is built to maintain. "The system, like the art object, is a physical presence, yet one that does not maintain the viewer-object dichotomy but tends to integrate the two into a set of shifting interacting events" (`Directly stated`). Where Lippard/Siegelaub reconceive the gallery "not as exhibition hall but as bank of ideas," Burnham reconceives it as a setting of relations — prompting us "not to look at the 'skin' of objects, but at those meaningful relationships within and beyond their visible boundaries." The two accounts are independent primary-text witnesses, from sculpture and from Conceptualism, to one shift: the site of art is no longer the bounded object but its relational/informational field (`Interpretive synthesis`).
 
 ## Sources
 
@@ -119,3 +127,14 @@ Relevant passage:
 > The gallery not as exhibition hall but as bank of ideas
 
 Supports: The 1970 extension of the model to the gallery itself (Pierre Restany's "Art from Europe," Bonino Gallery, March 1970), where works "were filed in drawers and available on request" — the physical exhibition space reconceived as an information store. The 1970 *Studio International* magazine-exhibition issue is also chronicled in this year's entries. Speaker: exhibition description, quoted by Lippard. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+Supports: Burnham's object-to-system thesis as an independent primary-text witness to the exhibition-as-medium's underlying shift — the artwork's center of gravity moving from physical presence to information. The same chapter adds: "The system, like the art object, is a physical presence, yet one that does not maintain the viewer-object dichotomy but tends to integrate the two into a set of shifting interacting events." Label: `Directly stated`.

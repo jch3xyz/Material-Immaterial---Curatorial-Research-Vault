@@ -12,6 +12,7 @@ authors:
   - "[[Ray Kurzweil]]"
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -37,6 +38,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
   - "[[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/03 Chapter 1 - Sculpture's Vanishing Base]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -47,7 +51,7 @@ related_concepts:
   - "[[Mechanical vs Electric]]"
   - "[[Explosion vs Implosion]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Material vs Immaterial
@@ -162,6 +166,14 @@ This media-historical reading is *cross-linked, not merged* with the seven sense
 Neither author lets "immaterial" stand free. This is their deep convergence: for both, the immaterial is materially produced and conditioned, and the appearance of weightless circulation is something manufactured rather than given. Hayles refuses the information/matter split outright — "conceiving of information as a thing separate from the medium instantiating it is a prior imaginary act that constructs a holistic phenomenon as an information/matter duality" — and re-grounds the immaterial pole in the material it had appeared to escape: the posthuman subject "is constituted by the crossing of the materiality of informatics with the immateriality of information," not by the triumph of one over the other. Han, from the other disciplinary door, treats the immaterial regime of transparency as a *violence* done to matter, body, and language — a leveling that "flattens out the human being itself" — and insists that what resists circulation (distance, shame, the veil, the secret) cannot be integrated without remainder.
 
 They differ in what they enlist *against* the immaterial. For **Hayles** the counterweight is **embodiment** — the instantiated, finite, irreplaceable material form, recovered through a positive analytic of bodies, interfaces, and media. For **Han** the counterweight is **negativity** — the gap, the threshold, the Other, the opacity of language ("all understanding is always at the same time a not-understanding") — a more dialectical, loss-oriented resistance that does not rest on the body as such. Hayles wants to keep the productive power of the pattern/information dialectic while denying it the right to erase matter; Han is closer to mourning, reading the smoothing of the material as a depletion that leaves the world "more shameless and more naked." The tension is therefore *held open as a hierarchy to be contested* rather than dissolved into a synthesis: both authors agree the immaterial is parasitic on the material, but they disagree on whether the proper response is to re-embody (Hayles) or to re-introduce the negative (Han).
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+[[Jack Burnham]]'s *Beyond Modern Sculpture* (1968) is the vault's *eighth* source on this axis, and it is the only one whose **entire architecture** is the axis: the book divides modern sculpture into two parts, and the migration between them is the spine of its argument. "The two parts of this book," Burnham writes, "divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity." His material pole is the **object** — solid, palpable, inert, and place-bound: "Above all the object occupies a specific space: it has place, remaining inert and stationary." His immaterial pole is the **system** — "an aggregate of components" whose parts are "mutually dependent" and which "may manifest some of the fundamental characteristics natural to life: self-organization, growth, internal or external mobility, irritability or sensitivity, input and output, kinetically sustained equilibrium and eventual death." This object-to-system migration is distinctive enough to carry its own tension, [[Object vs System]], cross-linked here and *not merged* with the seven senses above; the present section records only its material/immaterial edge. `Directly stated`.
+
+Burnham's sense of "immaterial" is thus neither Hayles's Shannon-Wiener pattern, nor Lippard's dematerialized object, nor Han's mode of production, nor Harari's ascendant fiction, nor Kurzweil's fundamental pattern, nor Haraway's microelectronic simulacrum, nor McLuhan's epochal information, but the **physical system of forces** that supersedes the formal object. The hinge is stated at the level of the sculpture base, whose disappearance Burnham reads as "symptomatic" of the whole transformation: once a sculpture is freed of its last physical support, "with sculpture completely liberated from its base it becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase." Where Lippard's conceptualists migrate the art *object* toward the *idea*, Burnham migrates it toward the *system* — toward energy, feedback, and "invisible forces" rather than toward dematerialized thought; the two are art-historical neighbors on the axis (Herbert Read's "tortuous dematerialization … scribble in the air," which Burnham quotes, is the milieu Lippard's 1968 dematerialization later names), but Burnham's terminus is the life-simulating machine, not the mailed catalogue. `Directly stated`; the placement of his object/system migration on the vault's material/immaterial axis is `Interpretive synthesis`.
+
+The axis is consummated in Burnham's final chapter, "Robot and Cyborg Art," where the immaterial pole is named outright as *information*: "It becomes clear that with Object Art physical presence is everything, while for Systems Art 'information' is the key factor." This is the cleanest convergence with the four-author core — Burnham, like Hayles and McLuhan, identifies the immaterial pole with information detaching from physical presence — yet his valence is closer to McLuhan's and Kurzweil's: he does not unmask the immaterial as parasitic but reads the shift as a *teleological* one, sculpture "moving toward a systems view of art" in which "the cultural obsession with the art object is slowly disappearing and being replaced by what might be called 'systems consciousness.'" That systems consciousness "shifts from the direct shaping of matter to a concern for organizing quantities of energy and information." Burnham is, with this, the vault's chronological precursor of the cyborg (his "Cyborg Art" of 1968 predates [[Donna Haraway]]'s by seventeen years) and a striking early statement of the systems/posthuman reading of the body that [[N. Katherine Hayles]] would later elaborate; on this axis his contribution is to date the dematerialization of the sculptural object into a system of energy and information, and to read that dematerialization not as loss but as the medium's approach to "lifelike activity." `Directly stated`; the cross-author bridges to Hayles, Haraway, and Lippard are `Interpretive synthesis`.
 
 ## Sources
 
@@ -549,3 +561,36 @@ Relevant passage:
 > All the mechanical aspects of our world seem to probe toward self-liquidation.
 
 Supports: The reversal stated as the self-dissolution of the material/mechanical pole under electric conditions — the mechanical "probing toward self-liquidation" as the electric age dematerializes it. Closes the McLuhan section and ties the material/immaterial edge to [[Mechanical vs Electric]]. Label: `Directly stated` (for the mechanical self-liquidation); placing it on the material/immaterial axis is `Interpretive synthesis`.
+
+### Source 36
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> The two parts of this book divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity.
+
+Supports: The book's organizing statement of the axis — sculpture's migration from the material *object* (traditional physical form) to the immaterial *system* (interacting assembly with lifelike activity). The eighth-author grounding of the tension and the basis of the cross-linked [[Object vs System]]. Label: `Directly stated`.
+
+### Source 37
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/03 Chapter 1 - Sculpture's Vanishing Base]]
+Relevant passage:
+
+> Now, with sculpture completely liberated from its base it becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase.
+
+Supports: The matter/energy hinge stated at the level of the vanishing base — once freed of its last physical support, the sculpture ceases to be a formal object and becomes "a physical system including invisible forces." The object→system migration at its sharpest, the material/immaterial edge of the book's spine. Label: `Directly stated` (for Burnham's claim); placing the object/system migration on the vault's material/immaterial axis is `Interpretive synthesis`.
+
+### Source 38
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+Supports: The immaterial pole named outright as *information* — the convergence with Hayles and McLuhan (the immaterial as information detaching from physical presence), here as the contrast between Object Art (presence) and Systems Art (information). The culmination of Burnham's object→system reading of the axis. Label: `Directly stated`.

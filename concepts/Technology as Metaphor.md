@@ -6,6 +6,9 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch04 [Pattern]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch08 [Paradox]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch13 [Virality]]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Mind as Machine]]"
   - "[[The Computational Universe]]"
@@ -20,8 +23,9 @@ opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[Meghan O'Gieblyn]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Technology as Metaphor
@@ -67,6 +71,12 @@ Crucially, O'Gieblyn's prescription is *not* to abandon metaphor. Pressed in Swe
 - If the self becomes "a data set of our clicks, purchases, and likes" that big data treats as "most valuable and real," has the metaphor of the body as data already been taken literally? (ties to **the body as data**)
 - What is the difference between a live metaphor that "elucidates" and a dead one that becomes ideology — "pure atmosphere" — and can that line be policed once a culture has internalized it? (ties to **meaning**)
 - Is O'Gieblyn's prescription — inhabit the technological idiom while refusing its literalization — actually livable, or does ubiquity guarantee the slide into "scientific fundamentalism"?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+[[Jack Burnham]] arrives at a kindred but distinct claim in the 1968 Introduction to *Beyond Modern Sculpture*: where [[Meghan O'Gieblyn|O'Gieblyn]] treats technology as the inescapable *epistemic metaphor* through which we figure mind and world, Burnham treats it as an *ontological force* that has become the age's metaphysics outright. Adopting the essayist Friedrich Junger's formulation, he writes that "the essayist Friedrich Junger conceded over forty years ago that technology is the metaphysics of our century; time has not diminished the accuracy of Junger's apprehension," and he generalizes the point from technology to science as such: when "metaphysical considerations and the accepted notion of reality fuse into a single view of the world, the result is an operational system as psychologically and intellectually pervasive as any monolithic religion." This is [[Technics]] (science and technology fused into one coercive, irreversible word) as the lived metaphysics of the present, not merely a figure of speech — and it is the connective tissue between Burnham's account and O'Gieblyn's: the moment a metaphor becomes "as pervasive as any monolithic religion" is precisely O'Gieblyn's dead metaphor, the figure taken literally as "scientific fundamentalism." `Strongly implied`.
+
+Burnham's most specific contribution to this concept is the displacement of the religious totem by the scientific model as the culture's central image. With the metaphysics of science installed, "the contemporary icon par excellence becomes the scientific model which interprets principles believed to be operative in the real world." The successor to the magical, anthropomorphic object is thus an abstraction — a provisional theoretical construct elevated, through its use as sculpture or icon, into an "ideational verity" (see [[The Scientific Model as Icon]]). This is Burnham's version of technology-as-metaphor pushed to its sculptural endpoint: the figure of the age is no longer a god or a person made in our image but a *model*, the impersonal output of [[The Scientific Demiurge]] that "moves ceaselessly in a single irreversible direction." `Directly stated` (for the model-as-icon claim); `Interpretive synthesis` (for the parallel to O'Gieblyn's dead metaphor).
 
 ## Sources
 
@@ -127,3 +137,18 @@ Relevant passage:
 > The most successful metaphors become invisible through ubiquity. The same is true of ideology, which, as it becomes thoroughly integrated into a culture, sheds its contours and distinctive outline and dissolves finally into pure atmosphere.
 
 Supports: Extends the dead-metaphor mechanism from individual figures to whole ideologies — ubiquity makes a metaphor invisible and therefore unexaminable, the condition under which the viral/informational idiom of the digital age becomes the unquestioned "atmosphere" of self-understanding. Label: `Directly stated`.
+
+### Source 5
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]] , [[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]] , [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> In this respect, the essayist Friedrich Junger conceded over forty years ago that technology is the metaphysics of our century; time has not diminished the accuracy of Junger's apprehension.
+
+And, on the scientific model as the culture's central image:
+
+> When metaphysical considerations and the accepted notion of reality fuse into a single view of the world, the result is an operational system as psychologically and intellectually pervasive as any monolithic religion. Hence the contemporary icon par excellence becomes the scientific model which interprets principles believed to be operative in the real world.
+
+Supports: Burnham (1968), via Junger, states technology/science as the lived metaphysics of the age — the ontological-force counterpart to O'Gieblyn's epistemic metaphor — and names the scientific model as the icon that displaces the religious/anthropomorphic totem, the move O'Gieblyn would call the metaphor taken literally ([[Technics]], [[The Scientific Model as Icon]], [[The Scientific Demiurge]]). Label: `Directly stated`.

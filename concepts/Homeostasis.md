@@ -6,6 +6,7 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
   - "[[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]"
   - "[[raw/McLuhan - Understanding Media/14 Chapter 10 - Roads and Paper Routes]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Cybernetics]]"
   - "[[Feedback Loops]]"
@@ -20,8 +21,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Norbert Wiener]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Homeostasis
@@ -79,6 +81,14 @@ The figure scales up to electric media. McLuhan reads Telstar in the same homeos
 - When homeostasis allies information-as-thing with "a stable quantitative value" that "can be transported into any medium," what has to be done to the body for it to count as such a medium — and is this the origin of [[The Body as Data|the body as data]]?
 - Does treating the steady state as "stability itself" rather than "a specific site" already abstract embodiment away, privileging pattern over the fickle, buffeted, sweating body Hayles invokes? (ties to [[Embodiment]])
 - If homeostasis survives only as a *skeuomorph* — an authenticating gesture exerting "inertial pull" — does its vestige still shape how the posthuman imagines stability, even after reflexivity and virtuality displace it? (ties to [[Posthumanism]])
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+For [[Jack Burnham]], in the final chapter of *Beyond Modern Sculpture* ("Robot and Cyborg Art"), homeostasis enters art theory through its biological origin: it is the term **Walter B. Cannon** coined in *The Wisdom of the Body* (1932) for the body's involuntary self-balancing. Burnham reports it directly — Cannon "called this system of automatic valves and thermostats homeostasis. Defined, this is the ability of the body to keep its quantities of liquids, solids, and gases in a state of equilibrium" — and immediately ties it to feedback: "Cannon found that the body is constantly forcing such a balance by various strategies, which include feedback mechanisms" (confidence: `Directly stated`). This is the [[Homeostasis (Cannon via Burnham)|Cannon-via-Burnham]] sense of the word: equilibrium maintained by automatic correction, the physiological model that cybernetics would generalize to machines.
+
+What makes Burnham distinctive is that he routes homeostasis into a theory of art through **negative feedback**. He defines the mechanism for "both animals and machines" as "a fractional return of the energy output of a system in the form of information guiding the system's future activities," and then names the link to Cannon explicitly: "[[Negative Feedback (Burnham)|Negative feedback]] (as was mentioned with Cannon's homeostasis) is the process whereby any number of coupled systems are designed to maintain a relatively constant input-output relationship. This might be the chemical equilibrium of the body or the constant adjustments of a servo-controlled processing mechanism" (confidence: `Directly stated`). Homeostasis is thus, for Burnham, the equilibrium-seeking principle that negative [[Feedback Loops|feedback]] secures across organisms and servo-machines alike — the same indifference to substrate that lets the same stabilizing logic run through bodies and machines, here imported into the art object as a design goal.
+
+Burnham then makes homeostasis an *art principle*. The self-stabilizing machines of [[Cybernetics]] — W. Ross Ashby's homeostat among them — supply the behavioral repertoire (goal-seeking, equilibrium, "ultrastability") that the first true cybernetic sculptures pursue; Burnham reads Nicolas Schöffer's CYSP I as carrying a "homeostatic device" that balances its sound tower. Where [[N. Katherine Hayles|Hayles]] historicizes homeostasis as the *contingent, quantifiable* wager of first-wave cybernetics and [[Marshall McLuhan|McLuhan]] generalizes it into a standing law of the body politic's self-extension, Burnham operationalizes it: equilibrium maintained by negative feedback becomes the technical hinge of the move from sculpture-as-[[Material vs Immaterial|object]] to sculpture-as-[[Systems Theory|system]], and ultimately of "Cyborg Art" — "the cybernetic organism as an art form" (confidence: `Interpretive synthesis` for the three-way contrast; the Burnham claims themselves are `Directly stated`).
 
 ## Sources
 
@@ -169,3 +179,25 @@ Relevant passage:
 > The man-made social environment as an extension of man's physical body is no exception. The city, as a form of the body politic, responds to new pressures and irritations by resourceful new extensions always in the effort to exert staying power, constancy, equilibrium, and homeostasis.
 
 Supports: The scaling of homeostasis from the biological body to the social body — the city as body politic answering "pressures and irritations" with "resourceful new extensions" in pursuit of "staying power, constancy, equilibrium, and homeostasis" — folding the City-as-Extension material into [[Media as Extensions of Man]]. Label: `Directly stated`
+
+### Source 9
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> In The Wisdom of the Body (1932) Dr. Walter Cannon of Harvard explained the balanced plumbing of the human body, those ever present involuntary mechanisms maintaining the health of the whole organism. He called this system of automatic valves and thermostats homeostasis. Defined, this is the ability of the body to keep its quantities of liquids, solids, and gases in a state of equilibrium. Cannon found that the body is constantly forcing such a balance by various strategies, which include feedback mechanisms.
+
+Supports: The Cannon-via-Burnham definition of homeostasis (the body's self-balancing of liquids, solids, and gases) and its grounding in feedback mechanisms — the biological origin Burnham imports into cybernetic art. Label: `Directly stated`
+
+### Source 10
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Negative feedback (as was mentioned with Cannon's homeostasis) is the process whereby any number of coupled systems are designed to maintain a relatively constant input-output relationship. This might be the chemical equilibrium of the body or the constant adjustments of a servo-controlled processing mechanism.
+
+Supports: Burnham's explicit linkage of homeostasis to negative feedback as the equilibrium-securing principle shared by the body and servo-machines — the technical hinge by which homeostasis becomes a design goal for cybernetic art. Label: `Directly stated`

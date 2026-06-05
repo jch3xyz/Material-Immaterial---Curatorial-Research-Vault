@@ -31,8 +31,9 @@ authors:
   - "[[Christopher Langton]]"
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-05
 ---
 
 # Emergence
@@ -103,6 +104,12 @@ In *The Singularity Is Near*, Ray Kurzweil accepts the core fact that animates b
 The supplement that crosses the gap is *evolution*, and Kurzweil's hardware/software distinction is the load-bearing move. "Wolfram say[s] that the class 4 automata and an evolutionary algorithm are 'computationally equivalent.' But that is true only on what I consider the 'hardware' level. On the software level, the … patterns produced are clearly different an[d] of a different order of complexity and usefulness" (`Directly stated`). A cellular automaton may be a "universal computer," but "by itself, a universal computer is not capable of solving intelligent programs without what I would call 'software'" — and "[i]t is the complexity of the software that runs on a universal computer that is precisely the issue." Adding "an evolutionary algorithm" to "Wolfram's simple cellular automata" is what lets the system climb from "interesting but limited patterns to those of insects or Chopin interludes." This reframes emergence as **bounded engineering**: real, deterministic, unpredictable, but plateauing unless a second mechanism — evolution, then the [[The Law of Accelerating Returns|law of accelerating returns]] — is layered on. It is the optimist's answer to O'Gieblyn's worry about getting "something from nothing": for Kurzweil you do not get something from nothing, you get it from billions of years of already-completed evolutionary search, which AI can "short-circuit" by reverse-engineering the brain (see [[Order as Information That Fits a Purpose]], [[Paradigm Shift and the S-Curve]]).
 
 The second anchor comes from Chapter 4, where Kurzweil makes intelligence itself an instance of this bounded, modelable emergence. Among the brain's design principles he lists: "The brain uses emergent properties. Intelligent behavior is an emergent property of the brain's chaotic and complex activity" (`Directly stated`). The analogy is to ant and termite colonies, whose "architecture emerges from the unpredictable interactions of all the colony members, each following relatively simple rules" — "no master architects." Crucially, the chaos here is not residual mystery but a *tractable* object: "The chaotic (random and unpredictable) aspects of neural function can be modeled using the mathematical techniques of complexity theory and chaos theory." Where O'Gieblyn reads Minsky's dumb agents as the dissolution of the very consciousness emergence claims to explain, and Brooks's "cheap trick" as a confession, Kurzweil reads the same picture as a tractable modeling target — chaos and complexity theory supply the mathematics, and a "stable pattern" emerging from a neural network's "chaotic dance" is precisely the computable "decision" he intends to re-create in silicon (`Strongly implied`; see [[The Computational Universe]], [[Neuromorphic Modeling]]). Emergence, on this third pole, is neither a refuge from reductionism (Hayles) nor reductionism's mystical disguise (O'Gieblyn), but a real and limited natural-engineering process whose ceiling is raised by evolution and whose mathematics is, in principle, fully in hand.
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Writing in 1968, well before Hayles's third wave or O'Gieblyn's suspicion, Jack Burnham locates emergence not in [[Artificial Life]] software but in the cybernetic *art object* — the moment sculpture stops being an inert object and becomes a system that exhibits the life-like properties of self-organization, goal-seeking, and equilibrium. He divides the field of life-simulating machines into two camps, one of which is "concerned with the characteristics of self-organizing systems, and is biologically oriented" (`Directly stated`). The trajectory he forecasts is the same upward leap into unanticipated higher-order behavior that the term names in Hayles: "following in the wake of cybernetic technology, systems with organic properties will lead to 'sculpture'—if it can be called that—rivaling the attributes of intelligent life" (`Directly stated`). Emergence here is the engine of his book's master movement from object to system — "vitalism is a transitional step in this process from inanimate object to system" — but the *emergent* pole is the system that grows, self-stabilizes, and behaves, not the vitalist metaphor of life-in-stone (see [[Vitalism]]).
+
+The metaphysical warrant Burnham supplies is the flat ontology that makes such emergence thinkable: complexity, not any vital essence, is the only thing that separates a machine from an organism. Reporting the consensus of mid-century bio-electronics, he writes that "there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness" (`Directly stated`). This is emergence as a continuum of complexity — consciousness and aliveness arising as one climbs the scale of organization — and it converges directly with the [[The Computational Universe|computational-universe]] reading and with Kurzweil's bounded-engineering pole above (mind as an emergent, modelable property of organized matter). It must be kept **distinct** from [[Vitalism]]: where the vitalist posits a non-material life-force entering inert matter, Burnham's emergence-of-the-system explicitly denies any such qualitative break — the very move O'Gieblyn flags when she reads emergence as the structural heir of vitalism. Burnham stands on the opposite side of that equation: for him there is no ghost, only ascending complexity (`Strongly implied`).
 
 ## Sources
 
@@ -303,3 +310,36 @@ Relevant passage:
 > The chaotic (random and unpredictable) aspects of neural function can be modeled using the mathematical techniques of complexity theory and chaos theory.
 
 Supports: The chaos of neural activity is tractable, not mysterious — emergence is modelable by complexity and chaos theory, the answer to O'Gieblyn's "uncomfortably like magic." Label: `Directly stated`.
+
+### Source 19
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> following in the wake of cybernetic technology, systems with organic properties will lead to "sculpture "—if it can be called that—rivaling the attributes of intelligent life.
+
+Supports: Burnham's forecast that cybernetic systems exhibit life-like emergent properties (self-organization, goal-seeking, equilibrium) — the art object becomes a system rivaling intelligent life. Label: `Directly stated`.
+
+### Source 20
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> it is generally acknowledged by scientists working in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness.
+
+Supports: Emergence as a continuum of complexity — no qualitative break between living and nonliving matter, so consciousness/aliveness emerge by ascending the scale of organization. The flat-ontology warrant for emergent machine consciousness; kept distinct from [[Vitalism]]. Label: `Directly stated`.
+
+### Source 21
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]
+Relevant passage:
+
+> The modern meaning of the organic lies in the gradual moving away from biotic appearances toward biotic functioning via the machine; vitalism is a transitional step in this process from inanimate object to system.
+
+Supports: The object-to-system migration that frames Burnham's account of emergence — the emergent pole is the functioning system, not the vitalist metaphor of life-in-matter (cross-link [[Vitalism]]). Label: `Directly stated`.

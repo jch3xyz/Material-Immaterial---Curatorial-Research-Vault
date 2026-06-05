@@ -12,6 +12,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/04 Chapter 1 - The Medium Is the Message]]"
   - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment]]"
@@ -31,8 +33,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # The Cyborg
@@ -100,6 +103,12 @@ The point at which McLuhan stops short of the cyborg is precisely the one the Ge
 - When cybernetics constructs "bodies as immaterial flows of information," does the cyborg figure the [[The Body as Data|body as data]] — and what is lost when the body's plenitude is reduced to pattern? (ties to the body as data)
 - Is the cyborg's erasure of the human/machine, human/animal, and animate/inanimate distinctions liberating or lethal — and does it matter whether the cyborg is "grafted onto a liberal humanist view of the self"? (ties to posthumanism)
 - Because the cyborg is "both technological object and discursive formation," can its material and figural registers ever be separated — or does it permanently entangle the [[Material vs Immaterial]] divide? (ties to information vs materiality)
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+This is the figure's earliest primary-text appearance in the vault, and an *art-world* deployment of the term that predates Haraway (1985) and Hayles by some seventeen years. Writing in 1968, the critic [[Jack Burnham]] names the terminal stage of his book's object-to-system trajectory "Cyborg Art," which he glosses directly as "the cybernetic organism as an art form" — "the most exotic, if distant, goal" of sculpture and "very gradually becoming the next, and perhaps ultimate stage of sculpture." In the Introduction he announces it as the herald of "the sculpture of the future": "Nothing more spectacular heralds the beginnings of the sculpture of the future than the slow emergence of what is called \"Cyborg Art\" (the art of cybernetic organisms)." For Burnham this is distinct enough to warrant its own heading; in the vault it is cross-linked as [[Cyborg Art]] — the art form proper, as opposed to the cyborg as cultural and ontological figure tracked in the Hayles, Haraway, and McLuhan sections above. (Confidence: Directly stated for Burnham's coinage and definition of Cyborg Art; Interpretive synthesis on its precedence over Haraway and Hayles.)
+
+Burnham also supplies a compact, technical definition of the cyborg itself, grounded in cybernetics rather than in political myth (Haraway) or epistemology (Hayles): "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." What unifies organism and machine in his account is [[Feedback Loops|reciprocal feedback]] — the same two-way coupling that, for Burnham, separates genuine cyborg art from all prior, one-way sculpture. His criterion for the art form is that it possess "a capacity for reciprocal relationships with human beings," so that the cyborg is for him less a hybrid body than a *system of exchange* joining the human to the responsive artwork. This cybernetic, systems-theoretic framing is the through-line connecting Burnham to Hayles's later informatic cyborg, and the conceptual parallel with Haraway's organism-machine hybrid is developed in [[Jack Burnham and Donna Haraway]]. (Confidence: Directly stated for Burnham's definition and the reciprocal-feedback criterion; Interpretive synthesis on the lineage to Hayles and the parallel with Haraway.)
 
 ## Sources
 
@@ -329,4 +338,28 @@ Relevant passage:
 > Electromagnetic technology requires utter human docility and quiescence of meditation such as befits an organism that now wears its brain outside its skull and its nerves outside its hide.
 
 Supports: McLuhan's nearest approach to a literal cybernetic organism — the nervous system worn outside the body — supplying the materials of the cyborg merger while still presupposing an intact "Man" being extended.
+Confidence: Directly stated
+
+### Source 20
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
+
+Supports: Burnham's compact, cybernetics-grounded definition of the cyborg (1968) — the earliest primary-text use of the term in the vault, predating Haraway and Hayles; grounds the reciprocal-feedback criterion that ties the figure to [[Feedback Loops]] and [[Cybernetics]].
+Confidence: Directly stated
+
+### Source 21
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Nothing more spectacular heralds the beginnings of the sculpture of the future than the slow emergence of what is called "Cyborg Art" (the art of cybernetic organisms).
+
+Supports: Burnham's coinage of "Cyborg Art" as the art of cybernetic organisms — the art-world deployment of the cyborg as a distinct art form, anchoring the cross-link to [[Cyborg Art]].
 Confidence: Directly stated

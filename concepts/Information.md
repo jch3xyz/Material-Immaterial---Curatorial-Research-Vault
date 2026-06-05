@@ -30,6 +30,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/06 Chapter 3 - Reversal of the Overheated Medium]]"
   - "[[raw/McLuhan - Understanding Media/25 Chapter 21 - Press - Government by News Leak]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -56,8 +58,9 @@ authors:
   - "[[Ray Kurzweil]]"
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Information
@@ -189,6 +192,12 @@ McLuhan extends this from media to the economy, anticipating the [[Immaterial La
 - Can there be a *negative* mode of information — one that withholds, refuses, or interrupts — or is the category itself defined by the absence of negativity?
 - How does Han's account relate to information theory in the Shannon sense (signal as surprise), where information is *defined* by a kind of negativity? Is Han polemically narrowing the term?
 - If "[o]nly emptiness is entirely transparent" (Ch. 7), is the proliferation of information a symptom of, or a defense against, nihilism?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+For [[Jack Burnham]] in *Beyond Modern Sculpture* (1968), "information" is neither a mode of language nor a reified Shannon-Wiener pattern but the defining property of an artwork once it ceases to be an *object* and becomes a *system*. The whole book turns on a single migration: "The two parts of this book divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity" (Introduction). At the book's climax Burnham names what changes when art crosses that threshold: where the object is defined by its material, place-bound presence, the system is defined by information. Reporting Robert Morris's practice of sending plans from which a museum's carpenters built the work, he draws the conclusion flatly: "It becomes clear that with Object Art physical presence is everything, while for Systems Art \"information\" is the key factor" (Ch. 8). `Directly stated`.
+
+Burnham's sense thus converges with the note's central thread from the side of *art history*: the shift from material object to information/system is, for him, the trajectory of modern sculpture itself. This makes his "information" the art-theoretic precursor to [[Lucy Lippard]]'s "primary information" (see [[#Information in Conceptual Art (Lippard)]]) — both describe a work that no longer depends on physical presence and so can be carried as plan, instruction, or document — while his object→system axis sits squarely on the vault's [[Material vs Immaterial]] tension. Written seventeen years before Haraway and decades before Hayles historicizes the cybernetic information-as-pattern thesis, Burnham already treats information as the unit of an art of "interacting" systems with lifelike properties, anticipating the [[Cybernetics|cybernetic]] and [[Systems Theory|systems]] vocabulary the later authors elaborate. `Interpretive synthesis` for the cross-author placement; `Directly stated` for the quoted claims.
 
 ## Sources
 
@@ -653,3 +662,25 @@ Relevant passage:
 > We live today in the Age of Information and of Communication because electric media instantly and constantly create a total field of interacting events in which all men participate.
 
 Supports: McLuhan's naming of the epoch — the "Age of Information and of Communication" as the instantaneous total field created by electric media. Grounds the third paragraph of [[#The Electric Light as Pure Information (McLuhan)]] and the cross-link to Han's [[Hyperinformation|hyperinformation]] and Harari's "information flow." Label: `Directly stated`.
+
+### Source 43
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+Supports: Burnham's *art-historical* sense of information — the property that defines an artwork once it migrates from material object to interacting system. Grounds the [[#Jack Burnham (Beyond Modern Sculpture)]] section and ties the object→information shift to the [[Material vs Immaterial]] tension and [[Lucy Lippard]]'s "primary information." Label: `Directly stated`.
+
+### Source 44
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> The two parts of this book divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity.
+
+Supports: Establishes Burnham's object→system axis — the structural premise behind "for Systems Art information is the key factor." Grounds the [[#Jack Burnham (Beyond Modern Sculpture)]] section and the placement of his information-sense on the [[Material vs Immaterial]] tension. Label: `Directly stated`.

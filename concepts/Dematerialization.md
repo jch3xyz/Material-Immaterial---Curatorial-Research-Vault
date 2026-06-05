@@ -13,6 +13,7 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Material vs Immaterial]]"
   - "[[Virtuality]]"
@@ -25,8 +26,9 @@ opposes:
   - "[[Material vs Immaterial]]"
 authors:
   - "[[Lucy Lippard]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Dematerialization
@@ -72,6 +74,14 @@ The concept is best read as the **art-historical instance** of the broader [[Mat
 - The Art & Language "matter-state" rebuttal anticipates [[The Materiality of Informatics]]: can any art ever be immaterial, or only differently embodied? What does this imply for the body as the persistent substrate of even "idea" art?
 - If even the most dematerialized work "failed to escape the market" and "art and artist in a capitalist society remain luxuries," is immateriality a real escape route from commodity status, or a new commodity form?
 - Dematerialization moves art toward [[Information]], systems, and [[New Media Art]]. Does treating art as transmissible information turn it into an experiential technology — and what is lost when the encounter is "read about" rather than bodily "looked at"?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Burnham's *Beyond Modern Sculpture* (1968) is the **sculptural precursor** to Lippard's dematerialization of the art object — a parallel 1968 diagnosis, arrived at from the side of sculpture rather than conceptual practice. The book opens by borrowing Herbert Read's verdict on postwar sculpture: "Herbert Read characterizes (1964, p. 253) the tortuous dematerialization of post-World War II sculpture as a reduction to a 'scribble in the air'" — for Read, "extension rather than containment, dynamicism instead of mass" carry sculpture away from "its original stability." This "scribble in the air" image (its own metaphor note [[A Scribble in the Air]]) is the bridge-figure between Burnham's sculpture and Lippard's conceptual art (`Directly stated`).
+
+Burnham's Chapter 1 ("Sculpture's Vanishing Base") makes the drive toward immateriality concrete: the steady "withering away of the base" — the plinth that rooted sculpture to the ground and conferred its aura of presence — is read as "symptomatic" of sculpture's larger departure from the inert, place-bound object. Once "completely liberated from its base," a sculpture "becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase" (`Directly stated`). Chapter 4 ("Form Exhaustion and the Rise of Phenomenalism") names the through-line explicitly: "the dialectical tension within twentieth-century sculpture remains its steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend" — an immateriality driven by the obsolescence of the visual-geometrical scientific model, since "the decline of formalism is the decline of a world fashioned to operate on a strictly visual-geometrical level" (`Directly stated`).
+
+The endpoint is the same value-reweighting Lippard tracks, stated in systems terms: by the final chapter on Cyborg Art, Burnham can write that "with Object Art physical presence is everything, while for Systems Art 'information' is the key factor" (`Directly stated`). Burnham is a **precursor**, not a synonym — his object-to-system migration runs alongside, and 1968-contemporaneous with, Lippard's idea-paramount/material-secondary axis; the interpretive lineage is held in the cross-book note [[Jack Burnham and Lucy Lippard]] (`Interpretive synthesis`).
 
 ## Sources
 
@@ -140,3 +150,47 @@ Relevant passage:
 > whatever minor revolutions in communication have been achieved by the process of dematerializing the object (easily mailed work, catalogues and magazine pieces, primarily art that can be shown inexpensively and unobtrusively in infinite locations at one time), art and artist in a capitalist society remain luxuries.
 
 Supports: The recuperation arc — dematerialization failed to free art from commodity status. Speaker: Lippard. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Herbert Read characterizes (1964, p. 253) the tortuous dematerialization of post-World War II sculpture as a reduction to a "scribble in the air."
+
+Supports: The Burnham→Lippard dematerialization lineage — Read's "tortuous dematerialization" / "scribble in the air" is the framing precursor, in sculpture, to Lippard's dematerialization of the conceptual-art object. Speaker: Jack Burnham (quoting Herbert Read, *A Concise History of Modern Sculpture*, 1964). Label: `Directly stated`.
+
+### Source 8
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/03 Chapter 1 - Sculpture's Vanishing Base]]
+Relevant passage:
+
+> Now, with sculpture completely liberated from its base it becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase.
+
+Supports: The vanishing base drives sculpture from object toward immateriality (a "physical system including invisible forces") — the precursor, at the level of the plinth, to dematerialization. Speaker: Jack Burnham. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]
+Relevant passage:
+
+> the dialectical tension within twentieth-century sculpture remains its steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend.
+
+Supports: Burnham's explicit articulation of sculpture's "steady gravitation toward seeming immateriality" — a primary-text precursor (1968) to Lippard's dematerialization, framed as a dialectical tension between matter and immateriality. Speaker: Jack Burnham. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
+
+Supports: The object-to-system / matter-to-information reweighting that parallels Lippard's idea-paramount/material-secondary axis — the same valuation of information over physical presence that "dematerialization" names in conceptual art. Speaker: Jack Burnham. Label: `Directly stated`.

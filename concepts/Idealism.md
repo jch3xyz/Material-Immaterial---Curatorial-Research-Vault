@@ -3,6 +3,9 @@ type: concept
 status: generated
 sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch10 [Metonymy]]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
 related:
   - "[[The Mind-Body Problem]]"
   - "[[Panpsychism]]"
@@ -18,8 +21,9 @@ opposes:
 authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[David Chalmers]]"
+  - "[[Jack Burnham]]"
 confidence: medium
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Idealism
@@ -67,6 +71,14 @@ O'Gieblyn's reading of idealism is finally reflexive and theological rather than
 - **The body as data:** If the inanimate, measurable world is "a vision dreamed up by the cosmic mind," is the reduction of the self to [[The Body as Data|data]] a category error — mistaking an "explanatory abstraction" for the substrate — or is the dreamed body still binding?
 - **Technology and perception:** Kastrup builds idealism out of neural networks and quantum field theory; if the universe "resembles an enormous neural network" and superposition signals a "cosmic mind... in a state of indecision," does our technology disclose mind in the world or only project our latest metaphor onto it (the radio, the transistor, the noumenal channel)?
 - **Posthumanism / the return of God:** When God "keeps barging into philosophy long after we declared him dead," is idealism a genuine decentering of the human, or — like panpsychism — "merely another attempt to see all things in our image"? And does Kastrup needing God to prove the material world *does not* exist invert, or merely repeat, the Cartesian dependence on the divine?
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+Burnham names a distinct, art-historical sense of idealism that should be kept apart from O'Gieblyn's metaphysics-of-mind idealism above. In *Beyond Modern Sculpture* (1968) he argues that "Much of the most original formalist and geometric sculpture of the past half century owes its existence to what could be called 'scientific idealism.'" This is not the claim that consciousness is the fundamental substance, but that the sculptor seeks "essential reality through the theories and models put forth provisionally by scientists; their use as sculpture or icon transforms them into ideational verities." The scientific model — atomic diagram, topological surface, mathematical function — becomes the modern icon, and the abstract sculpture built from it is treated as a window onto an underlying, invisible order. See [[Scientific Idealism]] for the dedicated concept. `Directly stated`
+
+For Burnham this idealism is historically doomed. Once physics abandoned visual models for "scientific symbolism and computation," the science-derived form-world ceased to be visualizable, and "The decline of formalism is the decline of a world fashioned to operate on a strictly visual-geometrical level." Object/Minimal art is the endpoint: "In theory at least, Object sculpture is art which has been cut free of all previous iconic influences; it is sculpture de-idealized." The succeeding program is not a deeper idealism but its opposite — an attention to the act of perception itself: "Static sculpture has emerged from millenniums of transcendent idealism and now moves toward transcendent phenomenalism." This is the axis captured by the tension [[Idealism vs Phenomenalism]]. `Directly stated`
+
+The contact point with O'Gieblyn's idealism is structural rather than doctrinal: both name a position in which a mental or theoretical construct (consciousness for Kastrup; the provisional scientific model for the formalist sculptor) is taken as the route to "essential reality." But Burnham's scientific idealism stays resolutely on the side of [[The Computational Universe|scientific materialism]] — it is reality apprehended *through* science's models, not the dissolution of matter into mind. Burnham's interest is the reverse trajectory: where O'Gieblyn's idealism re-enchants matter as mind, Burnham tracks sculpture's de-idealization and dematerialization toward perception, system, and eventually [[Artificial Life|life-simulating systems]]. `Interpretive synthesis`
 
 ## Sources
 
@@ -124,3 +136,25 @@ Relevant passage:
 > If the very nature of the world is subjective, Kastrup writes in The Idea of the World, "the meanings we think to discern in the world may not, after all, be more personal projections, but actual properties of the world."
 
 Supports: Substantiates the "meaning" thread — idealism's promise to re-fuse subjective meaning with objective reality, the lure O'Gieblyn flags as both compelling and suspect. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Much of the most original formalist and geometric sculpture of the past half century owes its existence to what could be called "scientific idealism." Such an idealism attempts to view essential reality through the theories and models put forth provisionally by scientists; their use as sculpture or icon transforms them into ideational verities.
+
+Supports: Anchors Burnham's distinct, art-historical "scientific idealism" — viewing essential reality through provisional scientific models taken as "ideational verities" — and the cross-link to the dedicated concept [[Scientific Idealism]]. Kept distinct from O'Gieblyn's philosophy-of-mind idealism. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]
+Relevant passage:
+
+> Static sculpture has emerged from millenniums of transcendent idealism and now moves toward transcendent phenomenalism.
+
+Supports: Grounds the succession of Burnham's scientific/transcendent idealism by phenomenalism — the perceptual turn that underwrites the tension [[Idealism vs Phenomenalism]] and the "sculpture de-idealized" reading. Label: `Directly stated`.

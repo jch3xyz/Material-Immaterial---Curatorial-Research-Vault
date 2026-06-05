@@ -14,6 +14,7 @@ sources:
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Posthumanism]]"
   - "[[Cybernetics]]"
@@ -27,8 +28,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Meghan O'Gieblyn]]"
   - "[[Marshall McLuhan]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-05
 ---
 
 # Distributed Cognition
@@ -103,6 +105,12 @@ The most striking convergence with the vault's [[The Body as Data|information]] 
 - If cognition is "distributed across a set of malleable media," is there a principled line between the [[The Body as Data|body-as-information]] and the body as one material actor among others — between the [[Material vs Immaterial|material and the immaterial]] in the cognitive circuit?
 - For a curatorial/exhibition context: if "thinking" is done by "both human and nonhuman actors," what is the status of the apparatus, the interface, the installation — are they participants in cognition or merely its supports?
 - How does the included [[Embodiment|embodied]] observer differ from the distributed system that observes through it? (The Observer vs Distributed Cognition distinction.)
+
+## Jack Burnham (Beyond Modern Sculpture)
+
+For [[Jack Burnham]] (*Beyond Modern Sculpture*, 1968), what the vault calls distributed cognition appears a generation before Hayles in two distinct registers — the social-planetary and the cybernetic-prosthetic — both grounded in his master thesis that art and society alike are migrating "from the object to the system." In the *Introduction*, the entropy/Boulding frame culminates in a planetary claim: "Technique, then, may be the means by which society eventually becomes one giant, interconnected, living system, structured to reduce individual differences between components and to facilitate integration and communication within the whole." Knowing and organizing are here relocated out of the individual and into a coupled socio-technical whole, of which the artwork is "a tiny microcosm of the entire socio-technical-biological evolution." This is the same structural move Hayles and McLuhan make — cognition and decision residing in the system rather than the node — but Burnham routes it through cybernetics, entropy, and [[Systems Theory]] rather than through ship-bridges or the electric central nervous system (Directly stated for the quotation; Interpretive synthesis for the alignment with distributed cognition — Burnham does not use the phrase).
+
+In the closing chapter "Robot and Cyborg Art," Burnham specifies the *coupling* that makes a distributed cognitive system: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism," his examples being Handyman (the remote manipulator) and the IBM "1500" teaching machine — "partial cyborg relationships" in which "an element of awareness between machine and operator" remains. The operator-machine feedback loop is precisely a coupled cognitive whole, the structure Hayles draws from Hutchins's ship navigation. Burnham then names the aesthetic correlate — what he calls [[Systems Consciousness]]: "the cultural obsession with the art object is slowly disappearing and being replaced by what might be called 'systems consciousness,'" a shift "from the direct shaping of matter to a concern for organizing quantities of energy and information" and toward "those meaningful relationships within and beyond their visible boundaries." Where Object Art trades in physical presence, "for Systems Art 'information' is the key factor." This is distributed cognition rendered as an art-historical telos: attention itself migrating from the bounded object to the relations of the system (Directly stated for the quotations; Interpretive synthesis for the alignment — and a Speculative connection where Burnham's man-machine coupling is read as a distributed *cognitive* system rather than a merely mechanical one).
 
 ## Sources
 
@@ -318,3 +326,25 @@ Relevant passage:
 > world scale, and_ without any verbalization whatever.
 
 Supports: The strongest statement of the immaterial limit — an "extension of the process of consciousness itself, on a world scale, and without any verbalization whatever." Collective consciousness without language; the pre-cybernetic optimistic face of mind-as-pattern across a planetary field. Label: `Directly stated`. (OCR artifacts "ona" for "on a" and "and_" for "and" preserved verbatim from source; the quote spans a mid-paragraph line break in the raw chapter.)
+
+### Source 19
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> Technique, then, may be the means by which society eventually becomes one giant, interconnected, living system, structured to reduce individual differences between components and to facilitate integration and communication within the whole.
+
+Supports: Burnham's planetary register of distributed cognition (1968) — organizing and knowing relocated from the individual to a coupled socio-technical-biological whole, of which the artwork is "a tiny microcosm." The entropy/Boulding frame anticipates Hayles's and McLuhan's distributed cognitive system. Label: `Directly stated` (quotation); `Interpretive synthesis` (alignment with distributed cognition — Burnham does not use the phrase).
+
+### Source 20
+
+Book: *Beyond Modern Sculpture*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> A cyborg, then, is any artificial system connected through reciprocal feedback to an organism. Handyman, the indirectly controlled industrial manipulator, and the IBM "1500," the super teaching machine, are examples of at least partial cyborg relationships.
+
+Supports: The cybernetic-prosthetic register — the operator-machine feedback coupling (Handyman, the IBM "1500") as a partial cyborg relationship; a coupled cognitive whole in the manner Hayles draws from Hutchins's ship navigation. Grounds [[Systems Consciousness]] as the aesthetic correlate ("for Systems Art 'information' is the key factor"). Label: `Directly stated` (quotation); `Speculative connection` (reading the man-machine coupling as a distributed *cognitive* system).
