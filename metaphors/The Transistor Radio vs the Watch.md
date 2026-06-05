@@ -9,7 +9,7 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
 related:
   - "[[Scientific Idealism]]"
-  - "[[The Visible vs The Invisible]]"
+  - "The Visible vs The Invisible"
   - "[[Phenomenalism (Burnham)]]"
   - "[[Mechanical vs Electric]]"
   - "[[Material vs Immaterial]]"
@@ -32,7 +32,7 @@ The mapping is: as the radio's interior is to the watch's, so the contemporary s
 
 ## What It Reveals
 
-- It makes concrete, in a single household comparison, why a [[Scientific Idealism|scientific idealism]] that converts provisional scientific models into visual icons can no longer hold: the science itself has stopped being visualizable. The radio reveals an order that is encoded, miniaturized, and invisible — the very [[The Visible vs The Invisible|invisibility]] that, for Burnham, undoes a sculpture built on visual-geometric legibility (`Directly stated`).
+- It makes concrete, in a single household comparison, why a [[Scientific Idealism|scientific idealism]] that converts provisional scientific models into visual icons can no longer hold: the science itself has stopped being visualizable. The radio reveals an order that is encoded, miniaturized, and invisible — the very invisibility that, for Burnham, undoes a sculpture built on visual-geometric legibility (`Directly stated`).
 - It marks the threshold of Burnham's [[Phenomenalism (Burnham)|phenomenalism]]: once "pure form" can no longer mirror a now-invisible reality, attention migrates from formal relationships to the *experience* of perception itself.
 - It resonates with McLuhan's diagnosis of the same break: the watch is the [[Mechanical vs Electric|mechanical]] age made tactile and sequential, the radio the electric age whose order is informational and "all-at-once." Both writers reach for the contrast between a visible mechanical world and an electric/electronic one whose structure escapes the eye (`Interpretive synthesis`).
 
@@ -45,7 +45,7 @@ The mapping is: as the radio's interior is to the watch's, so the contemporary s
 ## Related Symbols and Concepts
 
 - [[Scientific Idealism]] — the impulse the metaphor declares bankrupt: once science is encoded and invisible, sculpture can no longer iconize it as visual-geometric form.
-- [[The Visible vs The Invisible]] — the tension the emblem dramatizes: the watch is the visible-mechanical, the radio the invisible-electronic.
+- The Visible vs The Invisible — the tension the emblem dramatizes: the watch is the visible-mechanical, the radio the invisible-electronic.
 - [[Phenomenalism (Burnham)]] — the turn the metaphor opens onto: from form that mirrors reality to the experience of perception.
 - [[Mechanical vs Electric]] — McLuhan's parallel opposition (watch ≈ mechanical/sequential; radio ≈ electric/simultaneous).
 - [[Material vs Immaterial]] — the vault-wide tension the encoded, miniaturized radio interior participates in.

@@ -41,7 +41,7 @@ The tension is not a clean opposition. Burnham insists the two creeds "have infl
 - [[Organicism]] — the systemic pole; the utilitarian evolution of systems, the working objective of which is "any arrangement possessing the attributes of life."
 - [[Systems Theory]] — where Burnham says organicism is most fully realized; "the largest and most comprehensive attempt to use the analogues of biological organization."
 - [[Cybernetics]] — the science that, for Burnham, lets a culture "literally fus[e] organic activities with the linear-geometric precision of machines"; the *kybernetes* succeeds the *elan vital*.
-- [[Mechanism]] — vitalism's direct antagonist in biology; organicism partly absorbs and supersedes the mechanist-vitalist dispute by recasting life as system rather than essence.
+- [[Mechanism (Burnham)]] — vitalism's direct antagonist in biology; organicism partly absorbs and supersedes the mechanist-vitalist dispute by recasting life as system rather than essence.
 - [[Emergence]] — the systems-organicist intuition that the whole ensemble's behavior exceeds its components.
 - [[Material vs Immaterial]] — the vault-spanning tension this instances: vitalism invests an immaterial "psychic energy" into inert mass, while organicism treats matter as connected energy states forming a single continuum.
 

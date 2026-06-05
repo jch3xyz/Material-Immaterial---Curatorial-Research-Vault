@@ -431,6 +431,64 @@ New **author forward-stubs** (cited substantively, no book in `raw/`): `Hannah A
 
 ---
 
+## Canonical Note Names — Burnham *Beyond Modern Sculpture* ingest (2026-06-05)
+
+Added by *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century* (1968) — the vault's foundational **systems-esthetics** primary source. Book: `Beyond Modern Sculpture`. Author: **`Jack Burnham` (new — realizes the forward-stub declared in the Lippard ingest; canonical name `Jack Burnham`)**. Source summaries: `Burnham - Beyond Modern Sculpture - <NN Chapter>` (9: Introduction + Ch1-8). Ingested via a **custom big-book workflow** (`_system/workflows/_run_burnham.js`): 9 parallel analyses → 3 sequential chunked planners (object-side / formalism→automata / system-side) sharing a running canonical-names list → single generation + index. 128 interpretive notes + book + author + 9 sources (139 new); 20 cross-book updates. The cross-book UPDATE notes + 2 committed-stub creates **under-persisted** in the first generation pass (returned a path without the write landing) and were regenerated via an **analysis-driven** repair workflow (`_run_burnham_fix.js` — read the small analysis files, not the 150KB raw). See `log.md`.
+
+**New concepts/** (36): Systems Esthetics *(Burnham's art-specific object→system thesis; American spelling; kept DISTINCT from `Systems Theory`)* · Object and System *(the book's spine)* · Reification *(thingification / Verdinglichung, after Marx)* · Technics *(la technique, after Ellul)* · Scientific Idealism · The Scientific Demiurge · The Sculpture Base · The Vanishing Base · The Readymade · Object Art · Vitalism · Organicism · Form Exhaustion · Formalism (Burnham) · The Scientific Model · Topology as the New Formalism · Light as a Sculpture Medium · Phenomenalism (Burnham) · Automata · Subsculpture · The Robot · The Faustian Urge to Re-create Life Nonbiologically · The Clockwork Universe · Luminosity · The Unrequited Art · Kinetic Art · The New Tendency and Field Kinetics · The Closed Kinematic Chain · Systems Consciousness · Cyborg Art · Reciprocal Communication · The Mock Robot · Anthropomorphism in Sculpture · Sculpture as Biological Signal · **New Media Art** *(realized — was a committed research-focus forward-stub, 21 inbound files, deferred in the Lippard ingest "until Ascott/Burnham")* · **Art as Experiential Technology** *(realized — committed stub, 18 inbound files; both to be EXTENDED when Ascott is ingested)*.
+
+**New definitions/** (21, all `(Burnham)` or `(X via Burnham)`): System (Burnham) · Object (Burnham) · Reification (Burnham) · Technique (Ellul via Burnham) · Entropy (Burnham) · Elan Vital (Bergson via Burnham) · Mechanism (Burnham) · Base Pedestal Plinth (Burnham) · Topology (Burnham) · Phenomenological Reduction (Husserl via Burnham) · Carnal Intersubjectivity (Merleau-Ponty via Burnham) · Subsculpture (Burnham) · Automata (Burnham) · Robot (Capek via Burnham) · Cyborg (Burnham) · Cybernetics (Burnham) · Negative Feedback (Burnham) · Homeostasis (Cannon via Burnham) · Plasma (Burnham) · Kinematics vs Kinetics (Burnham) · Objecthood (Fried via Burnham).
+
+**New arguments/** (28): incl. Modern sculpture is not dying of formal exhaustion but achieving its oldest goal the simulation of life · Only the machine not anthropomorphism can bring inert matter to life · A base-less sculpture ceases to be an object and becomes a physical system of forces · Constructivist sculpture dematerialized its support from the conceptual models of science · Vitalism is the transitional step from the sculptural object to the system · Technology's logic of duplication has dealt a death blow to the unique art object · The history of automata is the aesthetic core of a Faustian drive to re-create life nonbiologically · A machine may be more responsive to human needs than another person · The true goal of the kinetic revival was immateriality not machine motion · For Object Art presence is everything for Systems Art information is the key · There are no qualitative differences between living and nonliving matter · A biological society that builds superintelligent automata will be dominated by them · Sculpture seeks its own obliteration by becoming the life it imitates · (see `log.md`/`maps/Argument Index.md` for the full 28).
+
+**New metaphors/** (14): A Scribble in the Air *(Herbert Read, Introduction — the dematerialization bridge to Lippard)* · The Kybernetes as the New Prime Mover · The Universe as a Spendthrift Artist *(Boulding)* · Form as a Waterfall Not a Crystal · Embodying Space Without Matter Like Music · The Hooded Machine · The Transistor Radio vs the Watch · The Mechanized Stage as Organism · Joey the Mechanical Boy · Pygmalion and Galatea · The Music-Box Automata · The Bicycle Wheel as a Turtle on Its Back · The Light Bulb as Pure Information · Technology as a Self-Propelled Time-Binding Web.
+
+**New symbols/** (10): The Scientific Model as Icon · The Automobile as Leased System · The Pylon Sign (Las Vegas) · The No-Sculptures (Goodman) · Vaucansons Duck · The Strasbourg Cathedral Clock · The Robot *(coexists with the concept `The Robot`)* · The Tortoise (Machina Speculatrix) · Searcher (Seawright) · The Pieta Shipped Across the Ocean.
+
+**New tensions/** (15): Object vs System *(the keystone — distinct from, and cross-linked to, `Material vs Immaterial`)* · Mechanism vs Vitalism · Organic vs Geometric · Vitalism vs Organicism · Gravity vs Mobility · Form vs Light · Idealism vs Phenomenalism · Apollonian vs Faustian · Anthropomorphic vs Non-Anthropomorphic Logic Machine · Determinism vs Randomness · Art vs Technics · One-Way Stimulation vs Two-Way Communication · Living vs Nonliving Matter · Magical vs Scientific Imitation of Life · Objecthood vs Theatre.
+
+**New references/** (4 — all vault-internal interpretive bridges, labelled interpretive synthesis NOT citations Burnham made): `Jack Burnham and {Lucy Lippard, Donna Haraway, N. Katherine Hayles, Marshall McLuhan}`. The **Burnham ↔ Lippard** note is the keystone (Burnham 1968 object→system / Read's "scribble in the air" predates and parallels Lippard's dematerialization). **Burnham ↔ Haraway**: Burnham's 1968 "Cyborg Art (the art of cybernetic organisms)" anticipates Haraway's 1985 cyborg by 17 years.
+
+**Cross-book UPDATES** (20 existing notes gained a `## Jack Burnham (Beyond Modern Sculpture)` section — do NOT duplicate): `Material vs Immaterial` *(now an **EIGHT-author** tension — Han, Hayles, Lippard, Harari, Kurzweil, Haraway, McLuhan, Burnham; the book's literal object→system spine)* · `Systems Theory` · `Dematerialization` *(Burnham as PRECURSOR to Lippard, cross-linked)* · `The Cyborg` *(Burnham's 1968 cyborg-art section beside Hayles/Haraway)* · `Cybernetics` · `Artificial Life` · `Emergence` *(kept DISTINCT from the new `Vitalism`)* · `Posthumanism` · `Homeostasis` · `Technology as Metaphor` · `Distributed Cognition` · `Conceptual Art` · `Feedback Loops` · `Idealism` *(scientific idealism; kept distinct from philosophy-of-mind Idealism)* · `The Computational Universe` · `Pattern and Randomness` · `Metaphor vs Literalism` · `Embodiment` · `The Body as Data` · `Acceleration` · `Information` · `Exhibition as Medium`. (Systems Theory + Feedback Loops landed in the first pass; the rest via the repair pass.)
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Jacques Ellul`, `Herbert Read`, `Friedrich Jünger`, `Thomas Kuhn`, `C. G. Jung`, `Wilhelm Worringer`, `Oswald Spengler`, `Henri Focillon`, `Edmund Husserl`, `Maurice Merleau-Ponty`, `Karel Capek`, `Christopher Langton`, `Edward Fredkin`, `Michael Fried`. Reused existing stubs: `Kenneth Boulding`, `Henri Bergson`, `Lewis Mumford`, `Karl Marx`, `Norbert Wiener`, `Marvin Minsky`, `Niels Bohr`, `René Descartes`, `Max Weber`, `Nick Bostrom`, `David Chalmers`, `Hans Moravec`, `Claude Shannon`, `Humberto Maturana`, `Francisco Varela`, `Warren McCulloch`, `Sol LeWitt`, `Hans Haacke`, `Seth Siegelaub`, `Marcel Duchamp`, `Joseph Kosuth`. Artists (Brancusi, Gabo, Calder, Tinguely, Moholy-Nagy, Schöffer, Takis, Rickey, Wilfred, Flavin, Paik, Seawright, etc.) render as plain text per one-off policy.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- `Systems Esthetics` (Burnham — the art object→system thesis) ≠ `Systems Theory` (the broader cross-author field). Cross-linked.
+- `The Robot` exists as BOTH a concept (the automaton-form + its sociology) and a symbol (the stainless-steel folklore icon) — same base name, different folders (Obsidian disambiguates by path; the `Hell of the Same` / `The Global Village` precedent). Link to `[[The Robot]]`; the concept is the default conceptual target.
+- The Cyborg cluster — four distinct notes: concept `The Cyborg` (cross-author, updated with a Burnham section) · new concept `Cyborg Art` (the art form) · new definition `Cyborg (Burnham)` · existing definition `Cyborg (Haraway)`. Do not merge.
+- Object cluster: concept `Object Art` ≠ concept `Object and System` ≠ definition `Object (Burnham)` ≠ tension `Object vs System`.
+- `Automata` (concept) beside `Automata (Burnham)` (def); `Subsculpture` (concept) beside `Subsculpture (Burnham)` (def); `Phenomenalism (Burnham)` (concept) beside `Phenomenological Reduction (Husserl via Burnham)` (def) and `Idealism vs Phenomenalism` (tension).
+- `The Sculpture Base` (the base as institution/convention) and `The Vanishing Base` (its disappearance, Ch1) are kept distinct and cross-linked.
+- `Vitalism` (concept, non-material life-essence) kept DISTINCT from `Emergence` (bottom-up self-organization) and from `Organicism` (the `Vitalism vs Organicism` tension carries the relation).
+- `New Media Art` and `Art as Experiential Technology` are realized as full Burnham-anchored concepts (committed stubs), to be EXTENDED — not re-created — when Ascott (*Telematic Embrace*) is ingested.
+
+### Burnham-pass variant/dangling fixes (applied 2026-06-05, finalize)
+
+Verified alias-preserving rewrites caught in the normalization backstop (chunked-planner naming divergence + source-summary over-linking):
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Mechanism` (13×) | `Mechanism (Burnham)` |
+| `Entropy` (4×) | `Entropy (Burnham)` |
+| `Cyborg` (2×) | `The Cyborg` |
+| `Base, Pedestal, Plinth (Burnham)` (3×) | `Base Pedestal Plinth (Burnham)` |
+| `Object Art (Minimalism)` (3×) | `Object Art` |
+| `Joey, the Mechanical Boy` | `Joey the Mechanical Boy` |
+| `McLuhan` (bare surname) | `Marshall McLuhan` |
+| `From Object to System` (3×) | `Object and System` |
+| `The vanishing base is symptomatic of sculpture's transformation` | `The Vanishing Base` |
+| `A base-less sculpture becomes a system of forces not a formal object` | `A base-less sculpture ceases to be an object and becomes a physical system of forces` |
+| `Constructivism dematerialized support by importing the conceptual models of science`, `Constructivist Dematerialization` | `Constructivist sculpture dematerialized its support from the conceptual models of science` |
+| `Technologys logic…` (file renamed via `git mv` to the apostrophe form) | `Technology's logic of duplication has dealt a death blow to the unique art object` |
+| `Jack Burnham and Henri Focillon` *(bogus ref — Focillon not ingested)* | `Henri Focillon` *(author forward-stub)* |
+| `Hitler's rise was a media effect of radios form not its content` *(pre-existing McLuhan straggler)* | `Hitler's rise was a media effect of radio's form not its content` |
+
+**Unlinked to plain text** (one-off descriptive phrases / Ch1 base-paraphrases, not durable standalone notes — content captured by the created notes): `The Base as Anti-Base`, `The Base as Launching Pad`, `The Twilight Zone of the Base`, `Floor-Bound Sculpture`, `Air-Borne Sculpture`, `The Bird Leaving the Nest`, `A Different Animal`, `Animism of the Base (Brancusi)`, `If any object on a base is sculpture the base destroys its own meaning`, `The base encodes biological immobility and gravity…`, `The withering of the base secularizes…`, `Secularization of Sculpture`, `Idealism vs Secularization`, `Dis-synchrony`, `Denigration vs Iconization`, `Tensegrity`, `Symbolic Appearance`, `Operationalization`, `Hermeneutic Depth`, `Pornography of the Visible`, `Technology and Perception`, `Aesthetic Contemplation`, `The Visible vs The Invisible`, `The Readymade is a Goedel's Theorem of aesthetics`, `The Life of Forms (Focillon)`, bare `Material`/`Immaterial`, and malformed book links `Donella Meadows - Thinking in Systems` / `Guy Debord - The Society of the Spectacle`.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
@@ -453,6 +511,10 @@ These are **verified** pure format/article/qualifier variants that must be rewri
 | `Burnout Society` *(as a book reference)* | `The Burnout Society` |
 | `Deep Boredom` | `Profound Boredom` |
 | `The Power Not-To` | `Negative Potency` |
+| `Systems Aesthetics`, `Systems Art` | `Systems Esthetics` *(Burnham's American spelling; distinct from `Systems Theory`)* |
+| `Cyborg` | `The Cyborg` |
+| `Mechanism` | `Mechanism (Burnham)` |
+| `Entropy` | `Entropy (Burnham)` |
 
 ### Synonym consolidations (2026-06-01 within-Han pass)
 

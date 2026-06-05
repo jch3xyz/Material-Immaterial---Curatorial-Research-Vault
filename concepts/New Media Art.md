@@ -13,7 +13,7 @@ related:
   - "[[Object and System]]"
   - "[[Art as Experiential Technology]]"
 opposes:
-  - "[[Object and System]]"
+  - "[[Object Art]]"
 authors:
   - "[[Jack Burnham]]"
 confidence: medium

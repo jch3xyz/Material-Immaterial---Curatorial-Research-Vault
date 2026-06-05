@@ -7,12 +7,12 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
 related:
   - "[[Vitalism]]"
-  - "[[The Life of Forms (Focillon)]]"
+  - "The Life of Forms (Focillon)"
   - "[[Phenomenalism (Burnham)]]"
   - "[[Kinetic Art]]"
   - "[[Dematerialization]]"
 opposes:
-  - "[[The Life of Forms (Focillon)]]"
+  - "The Life of Forms (Focillon)"
 authors:
   - "[[Jack Burnham]]"
 confidence: high
@@ -27,7 +27,7 @@ Jack Burnham's claim that sculptural form is "a decidedly finite grouping" whose
 
 ## Longer Explanation
 
-Form exhaustion is the mechanism by which, in Burnham's account, the two governing programs of twentieth-century sculpture — abstract [[Vitalism]] and "formal-reductivism" — reached their end around 1960. The argument is framed as a direct contradiction of Henri Focillon's promise, in *La Vie des formes*, that art enjoys an inexhaustible morphogenetic fertility (see [[The Life of Forms (Focillon)]]). Where Focillon held that form begets progeny endlessly, Burnham counters that "no artistic analogue to biotic generation of form types can assure art of an infinite supply of new forms," because "sculptural form and its varieties constitute a decidedly finite grouping." (`Directly stated`, Ch. 2.)
+Form exhaustion is the mechanism by which, in Burnham's account, the two governing programs of twentieth-century sculpture — abstract [[Vitalism]] and "formal-reductivism" — reached their end around 1960. The argument is framed as a direct contradiction of Henri Focillon's promise, in *La Vie des formes*, that art enjoys an inexhaustible morphogenetic fertility (see The Life of Forms (Focillon)). Where Focillon held that form begets progeny endlessly, Burnham counters that "no artistic analogue to biotic generation of form types can assure art of an infinite supply of new forms," because "sculptural form and its varieties constitute a decidedly finite grouping." (`Directly stated`, Ch. 2.)
 
 The mechanism is depletion through repetition. Abstract vitalistic sculpture "has been dependent on form possibilities"; once those possibilities were used up, "the idiom was finished." (`Directly stated`, Ch. 2.) Because vitalist sculpture drew its repertoire from a bounded stock of biotic archetypes (the seed, the bone, the embryo, the totem), each succeeding generation could only re-work an inheritance already optimized by its innovators — Brancusi, Moore, Arp — and so "each succeeding generation of sculptors has had to answer the charge of imitation-without too much success." (`Directly stated`, Ch. 3.) Burnham reads the proliferation of biomorphic "totemistic or insectile cliches," culminating in the *reductio ad absurdum* of Sam Goodman's *No-Sculptures*, as the symptom of an idiom that had exhausted its means while continuing to mass-produce them.
 
@@ -37,7 +37,7 @@ Form exhaustion is therefore the hinge of the whole book. As the visible stock o
 
 ## Authors and Variants
 
-- **[[Jack Burnham]]** — coins and develops the idea across the closing chapters of *Beyond Modern Sculpture*'s Part I. Form is a finite stock; the vitalist idiom dies by depletion, not refutation; formalism contracts in a world of invisible values; the result drives sculpture out of the object and toward system. The claim is explicitly framed *against* Focillon's infinite-supply optimism (see [[Jack Burnham and Henri Focillon]]).
+- **[[Jack Burnham]]** — coins and develops the idea across the closing chapters of *Beyond Modern Sculpture*'s Part I. Form is a finite stock; the vitalist idiom dies by depletion, not refutation; formalism contracts in a world of invisible values; the result drives sculpture out of the object and toward system. The claim is explicitly framed *against* Focillon's infinite-supply optimism (see [[Henri Focillon]]).
 - **[[Henri Focillon]]** *(forward-stub — the opposed source)* — in *La Vie des formes* holds that forms propagate endlessly, "form begets progeny," guaranteeing art a perpetually renewing supply. This is precisely the promise Burnham denies.
 
 ## Related Concepts
@@ -50,7 +50,7 @@ Form exhaustion is therefore the hinge of the whole book. As the visible stock o
 
 ## Opposing Concepts
 
-- [[The Life of Forms (Focillon)]] — the direct antithesis: Focillon's morphogenetic promise of an infinite supply of forms, which Burnham names and rejects ("Contrary to what Focillon has written…").
+- The Life of Forms (Focillon) — the direct antithesis: Focillon's morphogenetic promise of an infinite supply of forms, which Burnham names and rejects ("Contrary to what Focillon has written…").
 
 ## Questions It Raises
 

@@ -10,7 +10,7 @@ authors:
 sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
 related_concepts:
-  - "[[Mechanism]]"
+  - "[[Mechanism (Burnham)]]"
   - "[[Vitalism]]"
   - "[[Organicism]]"
 confidence: high
@@ -21,7 +21,7 @@ last_updated: 2026-06-05
 
 ## The Poles
 
-- **Mechanism** — the belief in a physical, usually electrochemical, basis for all phenomena of life, human consciousness included; the view that "life can be interpreted on all levels solely in terms of analyzable physical functions and combinations of matter." See [[Mechanism]].
+- **Mechanism** — the belief in a physical, usually electrochemical, basis for all phenomena of life, human consciousness included; the view that "life can be interpreted on all levels solely in terms of analyzable physical functions and combinations of matter." See [[Mechanism (Burnham)]].
 - **Vitalism** — the doctrine that life is "metaphysically instigated," consisting of "an 'entelechy,' to use Aristotle's word, a nonmaterial center of being making it different in quality and in kind from inorganic matter." See [[Vitalism]].
 
 ## Why It Matters
@@ -38,7 +38,7 @@ Yet the same losing doctrine became "the reigning aesthetic for many years in mo
 
 ## Related Concepts
 
-- [[Mechanism]]
+- [[Mechanism (Burnham)]]
 - [[Vitalism]]
 - [[Organicism]] — Burnham's paired creed, held in *polar opposition* to vitalism but not identical to mechanism: vitalism is "a preeminently poetic view of life," organicism "a beautiful view of the utilitarian evolution of systems." Distinguished by the tension [[Vitalism vs Organicism]].
 - [[Elan Vital (Bergson via Burnham)]] — the canonical neo-vitalist name for the "vital essence"; Burnham frames it as "the old prime mover," displaced at the end of the age by the Greek *kybernetes* (the steersman, root of [[Cybernetics]]) as "a new and even more effective prime mover."

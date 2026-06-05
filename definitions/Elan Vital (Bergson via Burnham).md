@@ -8,7 +8,7 @@ sources:
     passage: "Best remembered of Bergson's ideas is the phrase elan vital, the vital impetus, or, in George Bernard Shaw's words, the \"life force.\" This was vitalism regenerated and made the rallying cry for one of the twentieth century's most powerful aesthetics"
 related_concepts:
   - "[[Vitalism]]"
-  - "[[Mechanism]]"
+  - "[[Mechanism (Burnham)]]"
   - "[[Organicism]]"
   - "[[Mechanism vs Vitalism]]"
   - "[[Material vs Immaterial]]"
@@ -41,14 +41,14 @@ The term also carries the book's larger arc toward the system. Burnham's thesis 
 
 - **A reported, not original, definition.** This is Bergson's term as Burnham *reports* it (with Shaw's "life force" gloss). The note is filed under Burnham because the verbatim wording, the sculptor's-block analogy, and the "rallying cry … aesthetic" framing are Burnham's. The concept [[Vitalism]] is the broader doctrine; [[Henri Bergson]] (forward-stub) is the source figure; this note is the specific term.
 - **Distinct from [[Vitalism]] the concept.** Vitalism is the whole doctrine — and, for Burnham, the fifty-year *aesthetic* of modern sculpture; the *elan vital* is its single "best remembered" coinage, the "vital impetus" itself. Same relation as `Cyborg (Haraway)` (definition) to `The Cyborg` (concept).
-- **The opposite of mechanistic explanation.** Burnham sets the *elan vital* squarely against [[Mechanism]]: "in contrast to the mechanistic theories of physiology and evolution, in no way did the elan vital denigrate the existence of man, nor nullify the divinity of his origins." This is the [[Mechanism vs Vitalism]] tension in its sharpest single term. Where the mechanist sees "physical laws" governing "every living entity on the earth," Bergson's force "had the power of cutting into the temporal continuum on its own volition." (`Directly stated`)
+- **The opposite of mechanistic explanation.** Burnham sets the *elan vital* squarely against [[Mechanism (Burnham)]]: "in contrast to the mechanistic theories of physiology and evolution, in no way did the elan vital denigrate the existence of man, nor nullify the divinity of his origins." This is the [[Mechanism vs Vitalism]] tension in its sharpest single term. Where the mechanist sees "physical laws" governing "every living entity on the earth," Bergson's force "had the power of cutting into the temporal continuum on its own volition." (`Directly stated`)
 - **Not [[Organicism]].** Burnham keeps the *elan vital* (poetic, life-as-essence, vitalist) distinct from the organicist "view of the utilitarian evolution of systems." The two influenced each other but "remain in polar opposition."
 - **Not material complexity / emergence.** The *elan vital* is precisely the *non-material* principle that the contemporary scientific account of life arising from material organization displaced. Burnham reads molecular biology as what will "far outshine" it — the two are cross-linked, not equated.
 
 ## Related Concepts
 
 - [[Vitalism]] — the parent doctrine and aesthetic; the *elan vital* is its keystone term.
-- [[Mechanism]] — the direct antagonist; the *elan vital* is defined against "mechanistic theories of physiology and evolution."
+- [[Mechanism (Burnham)]] — the direct antagonist; the *elan vital* is defined against "mechanistic theories of physiology and evolution."
 - [[Mechanism vs Vitalism]] — the tension the term most sharply names (a force that "cuts into the temporal continuum on its own volition" versus universal "physical laws").
 - [[Organicism]] — the paired-but-opposed creed; vitalism is poetic where organicism is systemic.
 - [[Material vs Immaterial]] — the *elan vital* is the attempt to invest immaterial "life force" / "psychic energy" into "inert matter"; a vault-spanning instance of the core tension.

@@ -31,16 +31,18 @@ page is the operating manual.
 
 ## Ingest protocol (the whole loop)
 
-1. **Pick a book** not yet in the cache. (As of 2026-06-04: Han–Transparency, Hayles–Posthuman,
+1. **Pick a book** not yet in the cache. (As of 2026-06-05: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
    Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media,
-   Han–*The Burnout Society* are DONE.
-   2 remain. NOTE: the corpus is now **12 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   Han–*The Burnout Society*, Burnham–*Beyond Modern Sculpture* are DONE (11 of 12).
+   1 remains. NOTE: the corpus is now **12 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
    intentionally removed 11 books from the plan (Acemoglu, Harari–Nexus, Shiner, Turner, Kurzweil–*Age of
    Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop), and on 2026-06-04 removed
    4 more (Benjamin–*Illuminations*, Debord–*Society of the Spectacle*, Meadows–*Thinking in Systems*,
    Zuboff–*Age of Surveillance Capitalism*); see `source_inventory.md` → Removed from corpus. Do not treat any
-   of those as pending ingests. The 2 remaining: **Ascott, Burnham.**)
+   of those as pending ingests. **The 1 remaining: Ascott** (*Telematic Embrace*, 39 ch — use the big-book
+   chunked workflow; it will EXTEND, not re-create, `New Media Art` / `Art as Experiential Technology` /
+   `Cyborg Art` / `Systems Esthetics`, which Burnham realized).)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
@@ -74,6 +76,15 @@ page is the operating manual.
    and check every file exists on disk; regenerate any missing note with a focused single-note agent
    (ample budget → reliably persists). Then **`git commit` immediately** — untracked notes have twice
    vanished during interruptions (likely an Obsidian Git plugin clean/reset); committing makes them safe.
+   **BURNHAM REINFORCEMENT (2026-06-05): the UPDATE (Edit-existing) path flakes far worse than the CREATE
+   (Write-new) path.** On Burnham the generation pass reported `updated 24/24` but only ~5 actually landed —
+   16 existing notes were left untouched and 2 stub-creates never wrote, while all 126 create_notes persisted.
+   So **content-verify every UPDATE, not just file-existence**: grep each update target for a real
+   `## <Author> (<Book>)` heading (or git-modified status), don't trust the count. And when you regenerate
+   the stragglers, **feed the repair agents the small `_system/analysis/*.analysis.md` files (which already
+   hold the verbatim candidate passages), NOT the raw chapters** — a first Burnham repair that re-read the
+   150KB raw chapters mostly no-op'd (~4K tokens/agent, budget exhausted before the write); the
+   analysis-driven re-run landed 22/22 cleanly. (`_system/workflows/_run_burnham_fix.js` is the template.)
    **DON'T `git add -A` / `git add .` after an ingest; stage note folders explicitly:**
    `git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`.
    A blanket add sweeps in unrelated working-tree state (`.obsidian/` UI churn, `.DS_Store`) and, more

@@ -7,7 +7,7 @@ sources:
   - source_file: "raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture.md"
     passage: "Mechanistic theory of organic matter can be summarily defined as a belief in a physical basis, usually electrochemical, for all phenomena of life including human consciousness. Pure mechanism is the view that life can be interpreted on all levels solely in terms of analyzable physical functions and combinations of matter."
 related_concepts:
-  - "[[Mechanism]]"
+  - "[[Mechanism (Burnham)]]"
   - "[[Vitalism]]"
   - "[[Mechanism vs Vitalism]]"
   - "[[Organicism]]"
@@ -41,7 +41,7 @@ Burnham also marks the historical mutation of the target. The mechanist's fronti
 
 ## Differences from Other Uses
 
-- **vs. the concept [[Mechanism]]** — that note holds the broader concept (the mechanism/vitalism polarity as Burnham deploys it across the book, and its art-historical consequences); this note isolates and pins Burnham's verbatim *summary definition* of the mechanistic theory of organic matter. They are companion notes, not duplicates (same pattern as `Information` / `Information (Han)`). `Directly stated`
+- **vs. the concept [[Mechanism (Burnham)]]** — that note holds the broader concept (the mechanism/vitalism polarity as Burnham deploys it across the book, and its art-historical consequences); this note isolates and pins Burnham's verbatim *summary definition* of the mechanistic theory of organic matter. They are companion notes, not duplicates (same pattern as `Information` / `Information (Han)`). `Directly stated`
 - **vs. [[Vitalism]]** — vitalism is the explicit opposite Burnham defines it against: a belief that "life at its core is metaphysically instigated," resting on a nonmaterial "entelechy" or, in Bergson's phrase, the *élan vital*. Mechanism denies that residue; the two poles are held together in [[Mechanism vs Vitalism]]. `Directly stated`
 - **vs. [[Theological Mechanism (O'Gieblyn via Riskin)]]** — O'Gieblyn (after Jessica Riskin) names a *theology* of mechanism: a clockwork worldview that "relied upon a divine Designer to whom it outsourced perception, will, and purposeful action." Burnham's mechanism is the reverse polarity — it is precisely the position that does *without* a divine impetus, the "frontal attack on the higher origins of man." Burnham's mechanists are the heretics the Church accused; O'Gieblyn's theological mechanism keeps God as the system's author. `Interpretive synthesis`
 - **vs. Descartes's "animal machine"** — Burnham treats the Cartesian clockwork body as the *crude* and superseded form of mechanism ("Animals are not reducible to clockworks"). His "pure mechanism" is not seventeenth-century mechanical analogy but the modern electrochemical / regulatory-systems account; Descartes's lasting contribution was "a method of investigating living matter," not the clockwork model itself. `Directly stated`
@@ -49,7 +49,7 @@ Burnham also marks the historical mutation of the target. The mechanist's fronti
 
 ## Related Concepts
 
-- [[Mechanism]]
+- [[Mechanism (Burnham)]]
 - [[Vitalism]]
 - [[Mechanism vs Vitalism]]
 - [[Organicism]]

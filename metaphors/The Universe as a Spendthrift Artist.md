@@ -8,7 +8,7 @@ authors:
 sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
-  - "[[Entropy]]"
+  - "[[Entropy (Burnham)]]"
   - "[[Cybernetics]]"
   - "[[Kenneth Boulding]]"
 confidence: high
@@ -19,7 +19,7 @@ last_updated: 2026-06-05
 
 ## The Metaphor
 
-The economist Kenneth Boulding's figure, quoted by Jack Burnham in the Introduction to *Beyond Modern Sculpture*: the universe is "like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art." It is a metaphor for [[Entropy]] — the universe as a spendthrift whose total store of usable potential is irreversibly running down, yet who spends that dwindling capital into ever more intricate local order. The exemplary instance Boulding chooses is the sculptor's own act: the statue's organization is "bought at the cost of disorganization in the chips."
+The economist Kenneth Boulding's figure, quoted by Jack Burnham in the Introduction to *Beyond Modern Sculpture*: the universe is "like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art." It is a metaphor for [[Entropy (Burnham)]] — the universe as a spendthrift whose total store of usable potential is irreversibly running down, yet who spends that dwindling capital into ever more intricate local order. The exemplary instance Boulding chooses is the sculptor's own act: the statue's organization is "bought at the cost of disorganization in the chips."
 
 ## What It Compares
 
@@ -43,7 +43,7 @@ The "artist" image flatters: it casts a blind, lawful dissipation as purposive, 
 
 ## Related Symbols and Concepts
 
-- [[Entropy]] — the physical concept this metaphor renders intuitive; Burnham's "negative term, a kind of dissipation factor."
+- [[Entropy (Burnham)]] — the physical concept this metaphor renders intuitive; Burnham's "negative term, a kind of dissipation factor."
 - [[Cybernetics]] — the discourse from which Burnham draws "the development of pockets of decreasing entropy"; Boulding writes within the same information/systems milieu.
 - [[Kenneth Boulding]] — the economist whose figure this is (forward-stub author).
 
@@ -69,7 +69,7 @@ Relevant passage:
 
 > Since the mid-nineteenth century, physicists have used the term entropy to express the work potential in a measurable system. Entropy is a curiously negative term, a kind of dissipation factor which expresses the level of disorganiza tion to be found in a system. The more disorganized or chaotic the system, the less work it can do, the higher its level of entropy will be. Entropy also measures the probability that a system exists; the more structured the system, the less probable its existence... Such a trend has led one cyberneticist to define technology as the development of pockets of decreasing entropy on a planet where the general level of entropy is rising.
 
-Supports: Establishes the entropy framework the Boulding metaphor illustrates — disorganization, probability, and "pockets of decreasing entropy" — grounding the metaphor's cross-links to [[Entropy]] and [[Cybernetics]]. Label: `Directly stated`.
+Supports: Establishes the entropy framework the Boulding metaphor illustrates — disorganization, probability, and "pockets of decreasing entropy" — grounding the metaphor's cross-links to [[Entropy (Burnham)]] and [[Cybernetics]]. Label: `Directly stated`.
 
 ### Source 3
 

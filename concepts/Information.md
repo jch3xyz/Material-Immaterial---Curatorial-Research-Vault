@@ -36,7 +36,7 @@ related:
   - "[[Transparency]]"
   - "[[Positivity]]"
   - "[[Hypercommunication]]"
-  - "[[Operationalization]]"
+  - "Operationalization"
   - "[[Acceleration]]"
   - "[[Narration vs Addition|Addition vs Narration]]"
   - "[[Pornography (Han)]]"
@@ -48,7 +48,7 @@ opposes:
   - "[[Knowledge (Erkenntnis)]]"
   - "[[Negativity]]"
   - "[[Insight]]"
-  - "[[Hermeneutic Depth]]"
+  - "Hermeneutic Depth"
 authors:
   - "[[Byung-Chul Han]]"
   - "[[N. Katherine Hayles]]"
@@ -79,7 +79,7 @@ Han defines information by what it lacks. In *[[The Transparency Society]]*, he 
 
 Crucially, Han distinguishes information from both [[Truth|truth]] and [[Knowledge (Erkenntnis)|knowledge (Erkenntnis)]]. Truth is "a negative force insofar as it presents and asserts itself by declaring all else false," and so "[h]yperinformation and hypercommunication attest to lack of truth — indeed, to lack of being" (Ch. 1). Accumulation does not converge on truth; it substitutes for it. Likewise, knowledge and [[Insight|insight]] retain a transformative negativity that information does not: "A single insight can put all that exists, everything as an entirety, into question and change it. Information lacks such negativity" (Ch. 5). Information is additive where insight is dialectical; it counts where narration tells. This is why Han ties information so closely to [[Acceleration|acceleration]] — only an additive, self-identical process admits the kind of frictionless speed-up that ritual, narration, or thought refuse.
 
-The texture of information is, for Han, nakedness. Against Augustine's "figural garb" that eroticizes the Word, Han writes: "In contrast, information stands naked. The nudity of the Word strips it of all appeal. It flattens it" (Ch. 3). Information is post-hermeneutic — it offers no veil to lift, no obscurity that "renews" what is found. Hence Han's reversal of the Enlightenment trope: more information does not illuminate. "The mass of information produces no truth. The more information is set free, the more difficult it proves to survey the world. Hyperinformation and hypercommunication bring no light into darkness" (Ch. 7). To stave off the emptiness that follows the collapse of [[Symbolic Appearance|symbolic appearance]], a "mass of information is brought into circulation" — fullness as a cover for void. `Interpretive synthesis` across Ch. 1, Ch. 5, and Ch. 7.
+The texture of information is, for Han, nakedness. Against Augustine's "figural garb" that eroticizes the Word, Han writes: "In contrast, information stands naked. The nudity of the Word strips it of all appeal. It flattens it" (Ch. 3). Information is post-hermeneutic — it offers no veil to lift, no obscurity that "renews" what is found. Hence Han's reversal of the Enlightenment trope: more information does not illuminate. "The mass of information produces no truth. The more information is set free, the more difficult it proves to survey the world. Hyperinformation and hypercommunication bring no light into darkness" (Ch. 7). To stave off the emptiness that follows the collapse of symbolic appearance, a "mass of information is brought into circulation" — fullness as a cover for void. `Interpretive synthesis` across Ch. 1, Ch. 5, and Ch. 7.
 
 ## Hayles on Information
 
@@ -165,7 +165,7 @@ McLuhan extends this from media to the economy, anticipating the [[Immaterial La
 - [[Transparency]] — Information is the medium through which transparency is enforced; "the society of transparency is the society of information" (Ch. 7).
 - [[Positivity]] — Information is positivized language; it is the verbal form of the [[Positivity|society of positivity]].
 - [[Hypercommunication]] — Paired with hyperinformation as twin symptoms of "lack of being" (Ch. 1).
-- [[Operationalization]] — Information is "operationalized language" — language subordinated to a calculable, steerable process (Ch. 1, Ch. 7).
+- Operationalization — Information is "operationalized language" — language subordinated to a calculable, steerable process (Ch. 1, Ch. 7).
 - [[Narration vs Addition|Addition vs Narration]] — Information is additive; it "simply counts [zählt]" rather than telling [erzählt] (Ch. 5).
 - [[Acceleration]] — Only the additive admits acceleration; information is the substance that can be sped up (Ch. 5).
 - [[Pornography (Han)]] — Information's nakedness is structurally pornographic: "unmediated contact between the image and the eye" (Ch. 1).
@@ -181,9 +181,9 @@ McLuhan extends this from media to the economy, anticipating the [[Immaterial La
 - [[Truth]] — Truth is a "negative force" that "presents and asserts itself by declaring all else false"; information accumulates without ever achieving this directional negativity (Ch. 1).
 - [[Knowledge (Erkenntnis)]] — Knowledge is distinguished by negativity and transformative consequence; information leaves what exists as it stands (Ch. 5).
 - [[Insight]] — "A single insight can put all that exists . . . into question and change it. Information lacks such negativity" (Ch. 5).
-- [[Hermeneutic Depth]] — The figural garb of the Word "eroticizes" it; information's nudity "flattens" it (Ch. 3).
+- Hermeneutic Depth — The figural garb of the Word "eroticizes" it; information's nudity "flattens" it (Ch. 3).
 - [[Narration]] — Narration is selective and tension-bearing; information is additive and lacks narrativity (Ch. 5).
-- [[Symbolic Appearance]] — The society of transparency "lacks truth . . . [and] also lacks symbolic appearance"; information circulates to mask the resulting emptiness (Ch. 7).
+- Symbolic Appearance — The society of transparency "lacks truth . . . [and] also lacks symbolic appearance"; information circulates to mask the resulting emptiness (Ch. 7).
 
 ## Questions It Raises
 
@@ -221,7 +221,7 @@ Relevant passage:
 
 > The society of transparency not only lacks truth; it also lacks symbolic appearance. Neither truth nor symbolic appearance are see-through. Only emptiness is entirely transparent. To avert this emptiness, a mass of information is brought into circulation. The mass of information and imagery offers fullness in which emptiness is still noticeable. More information and communication alone do not illuminate the world. Transparency also does not entail clairvoyance. The mass of information produces no truth. The more information is set free, the more difficult it proves to survey the world. Hyperinformation and hypercommunication bring no light into darkness.
 
-Supports: Grounds the reversal at the heart of the note — that hyperinformation does not illuminate but masks emptiness. Distinguishes information from [[Truth|truth]] and [[Symbolic Appearance|symbolic appearance]]. Label: `Directly stated`.
+Supports: Grounds the reversal at the heart of the note — that hyperinformation does not illuminate but masks emptiness. Distinguishes information from [[Truth|truth]] and symbolic appearance. Label: `Directly stated`.
 
 ### Source 3
 

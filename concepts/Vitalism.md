@@ -12,7 +12,7 @@ related:
   - "[[Emergence]]"
   - "[[Material vs Immaterial]]"
 opposes:
-  - "[[Mechanism]]"
+  - "[[Mechanism (Burnham)]]"
 authors:
   - "[[Jack Burnham]]"
   - "[[Henri Bergson]]"
@@ -28,7 +28,7 @@ Vitalism is the poetic, metaphysical doctrine that life is instigated by a non-m
 
 ## Longer Explanation
 
-For Burnham, vitalism is first a position in the long mechanist-versus-vitalist dispute in biology: the belief that "life at its core is metaphysically instigated," consisting of "an 'entelechy,' to use Aristotle's word, a nonmaterial center of being making it different in quality and in kind from inorganic matter." Against this stands [[Mechanism]], the view that life can be interpreted entirely in terms of analyzable physical functions. Burnham narrates vitalism's steady scientific defeat — "the history of biology is the refutation of vitalism" — as the life force was forced to "redefine" itself "in terms of an ever-receding sphere of influence over the properties of living organisms" (`Directly stated`).
+For Burnham, vitalism is first a position in the long mechanist-versus-vitalist dispute in biology: the belief that "life at its core is metaphysically instigated," consisting of "an 'entelechy,' to use Aristotle's word, a nonmaterial center of being making it different in quality and in kind from inorganic matter." Against this stands [[Mechanism (Burnham)]], the view that life can be interpreted entirely in terms of analyzable physical functions. Burnham narrates vitalism's steady scientific defeat — "the history of biology is the refutation of vitalism" — as the life force was forced to "redefine" itself "in terms of an ever-receding sphere of influence over the properties of living organisms" (`Directly stated`).
 
 The book's central paradox is that this scientifically losing doctrine became the *reigning aesthetic of modern sculpture*. Burnham frames the question directly: "Why, if vitalism played such a reactionary role in the biological sciences, did it provide some of the most advanced justification for avant-garde abstract sculpture?" His answer is that vitalism, "a preeminently poetic view of life, a celebration of the natural condition," gave the abstract sculptor a way to "create 'life' as Rodin had done — but in a radical form that would appear to be anything but a copy of life." Beginning with Rodin's "romantic, vitalistic pantheism," running through Brancusi, Gaudier-Brzeska, Arp, Hepworth, and Henry Moore (who, almost alone, "saw the inappropriateness of the word" *organic* and "supplied 'vitalistic' in its stead"), and persisting into the postwar American welded idiom, vitalism "endured as one of those great sophisticated folk myths" propelling "a good portion of the modern idiom for the past fifty years" (`Directly stated`).
 
@@ -53,7 +53,7 @@ Because the aesthetic borrowed its authority from science, it could survive only
 
 ## Opposing Concepts
 
-- [[Mechanism]] — the direct antagonist: "a belief in a physical basis, usually electrochemical, for all phenomena of life including human consciousness." Vitalism's whole history, for Burnham, is its defeat by mechanistic biology.
+- [[Mechanism (Burnham)]] — the direct antagonist: "a belief in a physical basis, usually electrochemical, for all phenomena of life including human consciousness." Vitalism's whole history, for Burnham, is its defeat by mechanistic biology.
 
 ## Questions It Raises
 

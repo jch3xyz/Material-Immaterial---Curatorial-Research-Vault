@@ -132,7 +132,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Ads are the richest daily reflection a society ever made of itself]] — ad teams out-research sociologists; the acceptable ad dramatizes communal experience
 - [[Games are extensions of the social man and are mass media]] — games extend social man, model a culture, and are therefore mass media
 - [[Games are counter-irritants to the stress of specialist labor and stave off automatism]] — a society without games sinks into the zombie trance of automation
-- [[Hitler's rise was a media effect of radios form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
+- [[Hitler's rise was a media effect of radio's form not its content]] — the formal (anti-Lazarsfeld) retribalization claim; a dated/dangerous causal assertion to attribute, not endorse
 - [[Automation ends jobs and subjects but fuses work and learning]] — the structural argument anchoring automation as learning a living
 - [[Automation liberates men into the role of artist]] — McLuhan's most utopian claim; cross-linked to its critics Han, Harari, and Lippard
 
@@ -146,7 +146,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Vitalism is the transitional step from the sculptural object to the system]] — the Ch2 hinge of the whole narrative
 - [[The mechanist-vitalist dispute was settled by sensibilities not facts]] — the biological dispute resolved aesthetically
 - [[Biology machine theory and sculpture converge on understanding living matter through its creation]] — the Faustian convergence of three discourses
-- [[Technologys logic of duplication has dealt a death blow to the unique art object]] — the reproductive logic dissolving the unique object
+- [[Technology's logic of duplication has dealt a death blow to the unique art object]] — the reproductive logic dissolving the unique object
 - [[The obsolescence of the visual scientific model drove the dematerialization of sculpture]] — the invisibility of scientific reality as the engine of dematerialization
 - [[Light not form determines our perception of sculpture]] — Read's glitter principle; perception shifts from mass to light (Ch7)
 - [[Object art shifts the obligation to vitalize sculpture onto the viewers perception]] — Object Art as sculpture de-idealized
@@ -195,7 +195,7 @@ All argument notes in `arguments/`, grouped by author and book.
 - [[Money is a specialist visual technology underwritten by print literacy]] — money's arc from commodity to credit-information on the material/immaterial axis (McLuhan)
 - [[The obsolescence of the visual scientific model drove the dematerialization of sculpture]] — the art-historical engine of dematerialization, on the Material/Immaterial axis (Burnham)
 - [[Light not form determines our perception of sculpture]] — sculpture dissolved from mass into light (Burnham)
-- [[Technologys logic of duplication has dealt a death blow to the unique art object]] — reproductive logic dissolving the unique material object (Burnham)
+- [[Technology's logic of duplication has dealt a death blow to the unique art object]] — reproductive logic dissolving the unique material object (Burnham)
 
 ### On the posthuman and the subject
 

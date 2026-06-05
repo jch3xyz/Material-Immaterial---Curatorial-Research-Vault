@@ -25,11 +25,11 @@ Central dashboard for the Material/Immaterial curatorial research vault. Source-
 
 Concepts the vault should be particularly useful for:
 
-- [[Embodiment]] · [[Material]] · [[Immaterial]] · [[The Extrapolated Body]] · [[The Body as Data]]
+- [[Embodiment]] · Material · Immaterial · [[The Extrapolated Body]] · [[The Body as Data]]
 - [[Transparency]] · [[Visibility vs Understanding]] · [[Surveillance]]
 - [[Desire]] · [[Interiority]] · [[Psychoanalysis]]
 - [[Systems Theory]] · [[Cybernetics]] · [[Feedback Loops]]
-- [[Posthumanism]] · [[Technology and Perception]] · [[Art as Experiential Technology]] · [[New Media Art]]
+- [[Posthumanism]] · Technology and Perception · [[Art as Experiential Technology]] · [[New Media Art]]
 
 Links above may resolve to existing notes or to stubs — they mark commitments, not yet realizations.
 

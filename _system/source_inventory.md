@@ -8,14 +8,14 @@ last_updated: 2026-06-04
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 12 books** (was 27 → 16 → 12). On 2026-06-02 the user removed 11 books, then on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff) — see **Removed from corpus** below. The inventory now matches the disk exactly: all 12 books are present in `raw/`. Of the 12, **10 are ingested** and **2 remain (Ascott, Burnham)**.
+> **Corpus size: 12 books** (was 27 → 16 → 12). On 2026-06-02 the user removed 11 books, then on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff) — see **Removed from corpus** below. The inventory now matches the disk exactly: all 12 books are present in `raw/`. Of the 12, **11 are ingested** and **1 remains (Ascott)**.
 
 ## Books in `raw/`
 
 | #   | Folder                                         | Files | Author              | Status   |
 | --- | ---------------------------------------------- | ----- | ------------------- | -------- |
 | 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | **TODO** |
-| 2   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | **TODO** |
+| 2   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | ingested |
 | 3   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | ingested |
 | 4   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | ingested |
 | 5   | `Han - The Burnout Society`                    | 11    | Byung-Chul Han      | ingested |
@@ -27,7 +27,7 @@ The book corpus for the vault. Each book lives in its own folder under `raw/` an
 | 11  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | ingested |
 | 12  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | ingested |
 
-Total: 12 books, 217 raw markdown files (matches disk). 10 ingested (see `log.md`); 2 remain (Ascott, Burnham).
+Total: 12 books, 217 raw markdown files (matches disk). 11 ingested (see `log.md`); 1 remains (Ascott).
 
 ## Removed from corpus
 
@@ -76,7 +76,7 @@ These files typically appear in each book folder and are skipped by analysis unl
 ## Author → Books Mapping
 
 - **Roy Ascott** — Telematic Embrace *(TODO)*
-- **Jack Burnham** — Beyond Modern Sculpture *(TODO)*
+- **Jack Burnham** — Beyond Modern Sculpture
 - **Byung-Chul Han** — The Transparency Society, Psychopolitics, The Burnout Society
 - **Yuval Noah Harari** — Homo Deus
 - **Donna Haraway** — A Cyborg Manifesto

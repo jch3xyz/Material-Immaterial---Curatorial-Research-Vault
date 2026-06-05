@@ -6,7 +6,7 @@ sources:
   - source_file: "raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art.md"
     passage: "It becomes clear that with Object Art physical presence is everything, while for Systems Art \"information\" is the key factor."
 related_arguments:
-  - "[[Technologys logic of duplication has dealt a death blow to the unique art object]]"
+  - "[[Technology's logic of duplication has dealt a death blow to the unique art object]]"
   - "[[A base-less sculpture ceases to be an object and becomes a physical system of forces]]"
 tensions:
   - "[[Object vs System]]"
@@ -51,7 +51,7 @@ The two poles dramatize the difference. Michelangelo's Pietà, place-oriented Ob
 
 ## Related Arguments
 
-- [[Technologys logic of duplication has dealt a death blow to the unique art object]] — supplies the mechanism: once the work is reproducible information, the irreplaceable singular object loses its claim.
+- [[Technology's logic of duplication has dealt a death blow to the unique art object]] — supplies the mechanism: once the work is reproducible information, the irreplaceable singular object loses its claim.
 - [[A base-less sculpture ceases to be an object and becomes a physical system of forces]] — the earlier structural move (object to system) that this argument completes at the level of the unit of art (presence to information).
 
 ## Tensions

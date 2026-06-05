@@ -7,7 +7,7 @@ sources:
     passage: "The real way to kill an art movement is for it to realize its goals-an objective which Kineticism has yet to achieve."
 related_arguments:
   - "[[The machine must be humanized with imprecision and fallibility to make art live]]"
-  - "[[Technologys logic of duplication has dealt a death blow to the unique art object]]"
+  - "[[Technology's logic of duplication has dealt a death blow to the unique art object]]"
 tensions:
   - "[[Material vs Immaterial]]"
 confidence: high
@@ -53,7 +53,7 @@ The real death, Burnham argues, would be success. "The real way to kill an art m
 ## Related Arguments
 
 - [[The machine must be humanized with imprecision and fallibility to make art live]] — the complementary diagnosis: Tinguely's "joyous machine" tries to free the machine from its deterministic nature; this argument judges the most extreme version of that gesture (the self-destroying machine) a Luddite evasion rather than a genuine humanization.
-- [[Technologys logic of duplication has dealt a death blow to the unique art object]] — the book's other "death of art" claim; there technology *kills* the unique object through profusion, whereas here a movement's true death would be the *success* of its own goals — two contrasting causes of artistic death in the same book.
+- [[Technology's logic of duplication has dealt a death blow to the unique art object]] — the book's other "death of art" claim; there technology *kills* the unique object through profusion, whereas here a movement's true death would be the *success* of its own goals — two contrasting causes of artistic death in the same book.
 - [[The Unrequited Art]] — the chapter's governing concept, of which this argument is the closing thesis: an art kept alive by remaining unrealized.
 
 ## Tensions
