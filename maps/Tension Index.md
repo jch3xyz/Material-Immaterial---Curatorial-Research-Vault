@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 ---
 
 # Tension Index
@@ -16,7 +16,7 @@ All tension notes in `tensions/`.
 - [[Freedom vs Control]] — the dialectic of freedom in the digital panopticon; now extended by Psychopolitics — freedom itself producing coercion (realized via Han)
 - [[System vs Subject]] — now realized via Han's [[Subject vs Project]]: the cast-down subject vs the self-fashioning project
 - [[Desire vs Danger]] — eros vs pornography; veil vs total exposure (realized via Han)
-- [[Material vs Immaterial]] — now realized across seven author sections: Han (transparency/information; immaterial labour), Hayles, Lippard's art-historical dematerialization, O'Gieblyn, Kurzweil, Haraway (the cyborg as a condensed image of both imagination and material reality), and McLuhan (money's commodity→information arc; mechanical explosion vs electric implosion)
+- [[Material vs Immaterial]] — now realized across eight author sections: Han (transparency/information; immaterial labour), Hayles, Lippard's art-historical dematerialization, O'Gieblyn, Kurzweil, Haraway (the cyborg as a condensed image of both imagination and material reality), McLuhan (money's commodity→information arc; mechanical explosion vs electric implosion), and Burnham (sculpture's migration from object to system; the [[Object vs System]] axis)
 
 Links above may resolve to existing notes or stubs.
 
@@ -41,7 +41,7 @@ Links above may resolve to existing notes or stubs.
 - [[Presence Absence vs Pattern Randomness]] — the epistemic shift displacing the Western presence/absence dialectic with pattern/randomness (Hayles)
 - [[Liberal Humanist Subject vs Posthuman]] — autonomous self-possession vs distributed-cognition amalgam; lethal only when one is grafted onto the other (Hayles)
 - [[Homeostasis vs Reflexivity]] — man as self-regulating mechanism vs man spliced into a reflexive informational circuit (the Macy contest) (Hayles)
-- [[Material vs Immaterial]] — the vault's master axis, now spanning seven author sections: Han (transparency/information, and Psychopolitics' immaterial labour that releases the body from production), Hayles (embodiment/disembodiment), Lippard's 'Dematerialization in Conceptual Art' (the art-historical instance and its internal matter-state rebuttals), O'Gieblyn, Kurzweil (the body as obsolescent hardware), Haraway (the cyborg as 'a condensed image of both imagination and material reality'), and McLuhan (money's arc from commodity to credit-information, and the mechanical-explosion / electric-implosion opposition)
+- [[Material vs Immaterial]] — the vault's master axis, now spanning eight author sections: Han (transparency/information, and Psychopolitics' immaterial labour that releases the body from production), Hayles (embodiment/disembodiment), Lippard's 'Dematerialization in Conceptual Art' (the art-historical instance and its internal matter-state rebuttals), O'Gieblyn, Kurzweil (the body as obsolescent hardware), Haraway (the cyborg as 'a condensed image of both imagination and material reality'), McLuhan (money's arc from commodity to credit-information, and the mechanical-explosion / electric-implosion opposition), and Burnham (sculpture's dematerialization from the bounded object to the cybernetic system, condensed in the [[Object vs System]] axis)
 - [[Disenchantment vs Re-enchantment]] — the meaningless mechanistic cosmos vs. the persistent drive to re-enchant it by scientific means; O'Gieblyn's master axis (transhumanism, the re-enchanted network, panpsychism)
 - [[Free Will vs Determinism]] — spontaneous volition vs. the deterministic algorithm/predestination; foresight-vs-freedom, prediction-vs-control (O'Gieblyn)
 - [[Metaphor vs Literalism]] — the acknowledged analogy vs. its literalization ('the universe is like a computer' vs. 'is in fact a computer') (O'Gieblyn)
@@ -68,3 +68,18 @@ Links above may resolve to existing notes or stubs.
 - [[Liberty vs Capture]] — the self's rights over its senses against the leased, corporately manipulated nervous system (McLuhan)
 - [[Center vs Margin]] — centralization vs decentralization read off media speed; electric speed dissolves the margin (McLuhan)
 - [[Job vs Role]] — the delegated specialist job of mechanical/print culture vs the collective nonvisual role restored by electric media (McLuhan)
+- [[Object vs System]] — Burnham's framing of the canonical [[Material vs Immaterial]] axis; the bounded sculptural object vs the system of forces/energy/information (also gathers Matter vs Energy) (Burnham, Beyond Modern Sculpture)
+- [[Mechanism vs Vitalism]] — the centuries-long biological dispute carried into sculpture (Burnham)
+- [[Organic vs Geometric]] — the Worringer/Hauser polarity dissolved in vitalist art and fusible by technology (Burnham)
+- [[Vitalism vs Organicism]] — poetic life-essence vs the utilitarian evolution of systems (Burnham)
+- [[Gravity vs Mobility]] — the base as anchorage vs the will to flight/levitation (Burnham, Ch1)
+- [[Form vs Light]] — solid form/mass vs surface optics and light as the determinant of perception (Burnham)
+- [[Idealism vs Phenomenalism]] — transcendent idealism (icon/object) vs transcendent phenomenalism (perceptual situation); folds Object vs Experience (Burnham)
+- [[Apollonian vs Faustian]] — static sculpture's quietude vs automata's drive to transcend natural limits (Spengler via Burnham)
+- [[Anthropomorphic vs Non-Anthropomorphic Logic Machine]] — copying human form vs modeling thought (Pascal/Leibniz, pseudo-organisms) (Burnham)
+- [[Determinism vs Randomness]] — programmed vs aleatoric/statistical motion (Burnham, Ch6–7)
+- [[Art vs Technics]] — irrationality/madness vs the self-augmenting ethos of technics (Burnham, Ch6)
+- [[One-Way Stimulation vs Two-Way Communication]] — the cybernetic criterion separating sculpture from system (Burnham, Ch8)
+- [[Living vs Nonliving Matter]] — the boundary Burnham collapses into a scale of complexity (Burnham, Ch8)
+- [[Magical vs Scientific Imitation of Life]] — Grey Walter's appearance-vs-behavior distinction (Burnham, Ch8)
+- [[Objecthood vs Theatre]] — Burnham's inversion of Fried toward a systems perspective (Burnham, Ch8)

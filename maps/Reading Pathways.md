@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 ---
 
 # Reading Pathways
@@ -482,3 +482,63 @@ A cross-book pathway placing Han's attention-regime diagnosis beside McLuhan's a
 - [[Deep Attention vs Hyperattention]] — the attention-regime opposition
 - [[Sense Ratios]] — McLuhan: media alter the ratios and patterns of perception beneath opinion
 - [[Marshall McLuhan and Byung-Chul Han]] — the media-ecology precursor to Han's attention diagnosis
+
+## Pathways through *Beyond Modern Sculpture* (Jack Burnham)
+
+### Pathway: From object to system (Part One → Part Two)
+
+Follows the book's structural spine, from the exhausted formal vocabulary of the sculptural object through phenomenalism and automata to the cybernetic system. Useful for thinking dematerialization as an art-historical process and the Material/Immaterial axis read across the two parts of the book.
+
+- [[Object and System]] — the structural axis titling the book's two parts
+- [[The Vanishing Base]] — the withering of the base; the secularization of sculpture
+- [[Form Exhaustion]] — sculptural form as a finite grouping; how the vitalist idiom died
+- [[Object Art]] — 'sculpture de-idealized'; the obligation to vitalize shifted onto perception
+- [[Phenomenalism (Burnham)]] — art whose subject is the experience of perception
+- [[Automata]] — self-propelled images; the bridge from the object to the cybernetic system
+- [[The Faustian Urge to Re-create Life Nonbiologically]] — the desire-engine of the migration
+- [[Systems Esthetics]] — the founding object-to-system thesis
+- [[Object vs System]] — the organizing tension
+- [[Modern sculpture is not dying of formal exhaustion but achieving its oldest goal the simulation of life]] — the keystone thesis
+
+### Pathway: Vitalism and the death of the scientific model
+
+Traces Burnham's biological core: the rise and fall of vitalism, the mechanist-vitalist dispute, and the obsolescence of the visual scientific model that drove dematerialization. Useful for thinking the life-essence aesthetic and the invisibility of scientific reality.
+
+- [[Vitalism]] — the non-material life-essence aesthetic that reigned in modern sculpture
+- [[Mechanism vs Vitalism]] — the centuries-long biological dispute carried into sculpture
+- [[Organicism]] — the systems-interrelation creed, polar to vitalism
+- [[The Hooded Machine]] — sculpture as a black box hiding a supposed inner life force
+- [[The Scientific Model]] — the sculptor's reservoir of pure form, whose obsolescence drove dematerialization
+- [[The Transistor Radio vs the Watch]] — the visible-to-invisible shift in the scientific form-world
+- [[Topology as the New Formalism]] — form migrating to the innate spatial properties of objects
+- [[Light as a Sculpture Medium]] — light, not form, determines perception
+- [[Vitalism is the transitional step from the sculptural object to the system]] — the hinge of the narrative
+- [[The obsolescence of the visual scientific model drove the dematerialization of sculpture]] — the engine of dematerialization
+
+### Pathway: The cybernetic climax — toward Cyborg Art
+
+Moves through the kinetic and luminous experiments to Burnham's speculative endpoint: the cyborg as an art form and sculpture seeking its own obliteration by becoming the life it imitates. Useful for the vault's earliest cyborg and its lineage into the posthuman.
+
+- [[Kinetic Art]] — the first 'sculpture as system'
+- [[The Unrequited Art]] — kineticism as heroic productive failure
+- [[Luminosity]] — emitted light as the basis of Light Art
+- [[Systems Consciousness]] — the post-object aesthetic awareness
+- [[Cyborg Art]] — 'the cybernetic organism as an art form,' the ultimate stage of sculpture
+- [[Reciprocal Communication]] — sustained two-way exchange as the criterion of Cyborg Art
+- [[The Tortoise (Machina Speculatrix)]] — Grey Walter's first cybernetic organisms
+- [[Sculpture as Biological Signal]] — the speculative teleological theory of art preparing the post-human
+- [[The Cyborg]] — the figure the cluster runs into; Haraway's hybrid of machine and organism
+- [[Posthumanism]] — the lineage the cyborg feeds into
+- [[Jack Burnham and Donna Haraway]] — Cyborg Art 1968 anticipating the 1985 cyborg
+
+### Pathway: The dematerialization lineage across the vault (Burnham ↔ Lippard ↔ Hayles)
+
+A cross-book pathway placing Burnham's dematerialization of sculpture beside Lippard's dematerialization of the art object and Hayles's disembodiment of information, on the vault's central Material/Immaterial axis. Useful for reading dematerialization across art history and cybernetics.
+
+- [[Material vs Immaterial]] — the vault's master axis, now spanning eight author sections
+- [[Object and System]] — Burnham's art-historical instance of the axis
+- [[Dematerialization]] — Lippard's titular concept; the conceptual-art instance
+- [[A Scribble in the Air]] — Read via Burnham: the dematerialization of postwar sculpture
+- [[Embodiment]] — Hayles's instantiated particular against the disembodiment of information
+- [[Jack Burnham and Lucy Lippard]] — the keystone dematerialization / object-to-system bridge
+- [[Jack Burnham and N. Katherine Hayles]] — cybernetics and systems as a precursor to the posthuman body

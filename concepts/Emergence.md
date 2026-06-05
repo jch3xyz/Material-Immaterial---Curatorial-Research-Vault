@@ -10,6 +10,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
   - "[[raw/Kurzweil - The Singularity Is Near/13 Ch9 - Response to Critics]]"
   - "[[raw/Kurzweil - The Singularity Is Near/10 Ch6 - The Impact]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Artificial Life]]"
   - "[[Feedback Loops]]"

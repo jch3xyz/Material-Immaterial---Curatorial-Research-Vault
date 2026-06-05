@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 ---
 
 # Concept Index
@@ -19,9 +19,11 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[A Pluralism of Centers]] — McLuhan: restraint of electric power requires not a separation of powers but dialogue among centers and equals, because an electric structure has no margins
 - [[Allo-Exploitation]] — exploitation by an other; the antonym of [[Auto-Exploitation]] superseded under neoliberalism (Han)
 - [[Animal Laborans]] — Han re-reads Arendt: the late-modern laborer ego-bloated and hyperactive, no longer the herd-animal of Arendt's account (Burnout Society)
+- [[Anthropomorphism in Sculpture]] — Burnham: sculpture as always anthropomorphic, the prelude to re-creating life (Ch8)
 - [[The Anthropocene]] — Harari: humanity as the dominant geological force
 - [[Arcana of Power]] — Schmittian secrecy that politics requires and transparency dismantles
 - [[Artificial Life]] — the third wave figured as a spiral; the 'strong claim' that codes are alive, not merely simulating life
+- [[Automata]] — Burnham: self-propelled/animated images; the bridge from the sculptural object to the cybernetic system
 - [[The Artist as Integral Awareness]] — McLuhan: the artist as early-warning antenna and source of cultural immunity; the suspended judgment that absorbs technological shock
 - [[The Authority of Knowledge]] — McLuhan: electric speed dissolves delegated lineal/visual/hierarchical authority and substitutes an inclusive, nonlineal authority of knowledge
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization; the entrepreneur of himself as the panopticon of himself (Han)
@@ -40,11 +42,14 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
 - [[Capital as Religion]] — Capital as a transcendence ruling through debt and guilt; the cult without dogma (Han via Benjamin)
 - [[Capitalism as Religion (Harari)]] — Harari: capitalism issuing ethical verdicts under cover of fact; beside Capital as Religion (Han)
+- [[The Clockwork Universe]] — Burnham: the Cartesian-Newtonian cosmos as a great clock wound by God; the metaphysics of the golden age of automata
+- [[The Closed Kinematic Chain]] — Burnham via Reuleaux: the determinate machine as the root and limit of kineticism (Ch6)
 - [[Center-Margin Structure]] — McLuhan: the spatial-political geometry that media speed-up creates and electric speed dissolves ('centers everywhere; margins cease to exist')
 - [[Challenge and Collapse]] — McLuhan recasting Toynbee: coexisting societies generate a rain of psychic energy; the countervailing thrust toward decentralism
 - [[Conceptual Art]] — 'idea art' (Lippard, LeWitt, Kosuth): the idea supersedes the visual/material result; 'ideas can be art'
 - [[The Content of Any Medium Is Another Medium]] — McLuhan: media nest recursively and content masks the medium
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
+- [[Cyborg Art]] — Burnham: 'the cybernetic organism as an art form,' the ultimate stage of sculpture (Ch8); the vault's earliest cyborg
 - [[Cyborg Writing]] — Haraway: survival by seizing the tools of signification that marked the othered as other; noise and pollution against perfect communication
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
 - [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
@@ -61,6 +66,9 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
 - [[The Electric Age as Extension of the Central Nervous System]] — McLuhan: electric technology as a live model of the central nervous system set outside us
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
+- [[Form Exhaustion]] — Burnham: sculptural form as a finite grouping; how the vitalist idiom died (Ch2; contra Focillon)
+- [[Formalism (Burnham)]] — the material-optical-tactile features of sculpture as a prescientific methodology
+- [[The Faustian Urge to Re-create Life Nonbiologically]] — Burnham: the desire-engine of the object-to-system migration; anticipates Haraway and Hayles
 - [[Emergence]] — properties appearing spontaneously from simple rules and recursive feedback; replaces teleology in the benign posthuman
 - [[Emotional Capitalism]] — capitalism that exploits the performativity of emotion (Han; term from Illouz)
 - [[Evolutionary Humanism]] — Harari: the natural-selection sect of humanism (Nazism its extreme)
@@ -109,10 +117,13 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Internet-of-All-Things]] — Harari: Dataism's eschaton, the cosmic data-processing system humanity is destined to feed and merge into
 - [[Intersubjective Reality]] — Harari: the third level of reality (money, gods, nations) existing in shared imagination and enabling large-scale cooperation
 - [[Intimacy as Psychological Formula of Transparency]] — the affective mode of transparency: laying the soul bare
+- [[Kinetic Art]] — Burnham: nonrepresentational art using real time and motion, the first 'sculpture as system' (Ch6)
 - [[Knowledge = Experiences × Sensitivity]] — Harari: humanism's epistemology, locating authority in lived, cultivated experience
 - [[Large-Scale Flexible Cooperation]] — Harari: the real 'human spark' that gives Homo sapiens mastery over the planet
 - [[Leasing the Central Nervous System]] — McLuhan: we have leased our eyes, ears, and nerves to private corporations
 - [[Liberal Humanism (Harari)]] — Harari: the orthodox humanist sect that defeated its rivals 1914–1989
+- [[Light as a Sculpture Medium]] — Burnham: light, not form, determines perception; sculpture as a modulator of emitted/responsive light (Ch7)
+- [[Luminosity]] — Burnham: emitted light defined perceptually as the basis of Light Art (Ch7)
 - [[Man as Servomechanism of His Extensions]] — McLuhan, the Gadget Lover: man serves his technologies as gods, the sex organs of the machine world
 - [[Media as Extensions of Man]] — McLuhan: every medium is an extension of a body part, sense, or faculty; the electric age extends the central nervous system
 - [[Media as Translators]] — McLuhan: all media are active metaphors translating experience into new forms
@@ -122,6 +133,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
 - [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
 - [[Money as a Medium]] — McLuhan: money as extension, storehouse, and translator of communal work; its commodity→credit/information arc and electric reversal into the credit card
+- [[The Mock Robot]] — Burnham: figurative sculpture that looks mechanical but lacks function/feedback (Ch8)
 - [[The Mosaic]] — McLuhan: the corporate/collective image of discontinuous juxtaposed items, with no point of view, that commands deep communal participation (press, ads, telegraph, photograph)
 - [[Multitasking]] — Han: not civilizational progress but a regression to the divided vigilance of wild animals; the cognitive form of hyperattention (Burnout Society)
 - [[Nanobots]] — blood-cell-sized robots that scan the brain from inside its capillaries; the route to upload-grade detail (Kurzweil)
@@ -131,7 +143,11 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Negativity]] — Han's paradoxically positive value: secret, distinction, suffering, the Other; constitutive of life and resistance
 - [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
 - [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence' that needs no enemy or negativity (Burnout Society)
+- [[The New Tendency and Field Kinetics]] — Burnham: the c.1955–65 immateriality/raster/active-spectator revival (Ch6)
 - [[Number as the Extension of Touch]] — McLuhan: number as a bodily extension of the haptic sense, paired against writing as the extension of sight
+- [[Object and System]] — Burnham's structural axis titling the book's two parts; the art-historical instance of [[Material vs Immaterial]]
+- [[Object Art]] — Burnham's name for Minimal/Object sculpture; 'sculpture de-idealized'
+- [[Organicism]] — Burnham: the systems-interrelation creed (Mumford lineage); polar to vitalism (Ch2)
 - [[The New Human Agenda]] — Harari: immortality, happiness, and divinity as humanity's next great projects
 - [[The Ocean of Consciousness]] — Harari: the mostly-unmapped spectrum of mental states; the WEIRD critique of a narrow experiential map
 - [[Oppositional Consciousness]] — Sandoval's model (via Haraway): identity born of reading webs of power from refused category-membership
@@ -140,6 +156,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
 - [[Paradigm Shift and the S-Curve]] — the shape of accelerating change: each paradigm an S-curve, the overall exponential a cascade of S-curves (Kurzweil)
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
+- [[Phenomenalism (Burnham)]] — Burnham: art whose subject is the experience of perception (distinct from sense-data phenomenalism)
 - [[The Phonetic Alphabet]] — McLuhan: the one writing system that maps meaningless letters to meaningful sounds, detribalizing its user and installing visual uniformity ('an eye for an ear')
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
 - [[Patternism]] — Kurzweil's doctrine of the self as a persisting, substrate-independent pattern of information; immortalist inverse of Hayles's pattern/randomness
@@ -150,13 +167,22 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Profound Boredom]] — 'the peak of mental relaxation,' the dream bird that hatches the egg of experience; the deep boredom hyperattention destroys (Burnout Society)
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
 - [[Re-enchantment]] — the counter-movement that would restore through science the religious hopes science obliterated; transhumanism, the re-enchanted network, panpsychism as 'reenchantment cosmologies'
+- [[The Readymade]] — Burnham: Duchamp's 'all idea' object; 'a Goedel's Theorem of aesthetics' (Ch1)
+- [[Reciprocal Communication]] — Burnham: sustained two-way exchange as the criterion of Cyborg Art (Ch8)
+- [[Reification]] — Burnham: Marx's Verdinglichung redefined as re-synchronization of art with the scientific form-world
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
 - [[The Restoration of the Role]] — McLuhan: electric media restore the collective, nonvisual role (king/emperor; the movie star as 'jobless image') in place of the delegated specialist job
 - [[Reversal of the Overheated Medium]] — McLuhan: any medium intensified past a threshold reverses into its opposite
 - [[The Refusal of Innocence]] — Haraway: the cyborg's rejection of origin myths, organic wholeness, the Garden, and victimhood-as-insight
 - [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
 - [[Reverse-Engineering the Human Brain]] — scanning, modeling, and re-instantiating the brain's 'software of intelligence' on faster substrates; the software complement to the hardware-capacity argument (Kurzweil)
+- [[The Robot]] — Burnham: the non-anthropomorphic mechanical man (Capek) and the clanking stainless-steel folklore figure of the automatic age
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
+- [[Scientific Idealism]] — Burnham: viewing essential reality through provisional scientific models (distinct from Idealism)
+- [[The Scientific Demiurge]] — Burnham: the impersonal irreversible force that abolishes stylistic cycles
+- [[The Scientific Model]] — Burnham: the scientist's model as the sculptor's reservoir of pure form, whose obsolescence drove dematerialization
+- [[The Sculpture Base]] — Burnham: the base/pedestal/plinth as physical-and-psychic, biological-orientational device (Ch1)
+- [[Sculpture as Biological Signal]] — Burnham: the speculative teleological theory of art preparing the post-human (Ch8)
 - [[Sense Ratios]] — McLuhan: media alter sense ratios/patterns of perception beneath opinion
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
@@ -167,9 +193,13 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Society of Control]] — power as continuous modulation and voluntary self-exposure rather than enclosure (Han via Deleuze); the mole/snake, debt
 - [[Specialism as Counter-Irritant]] — McLuhan: fragmentation as the compensation of the enslaved; perfect adaptation as a fatal static terminus
 - [[Statement Without Syntax]] — McLuhan: the photograph as a nonverbal medium of statement by gesture, mime, and gestalt that restores what the alphabet severed
+- [[Subsculpture]] — Burnham: images ranked below fine-art sculpture (dolls, manikins, automata) migrating into art
+- [[Systems Consciousness]] — Burnham's coinage for the post-object aesthetic awareness (Ch8)
+- [[Systems Esthetics]] — Burnham's founding object-to-system thesis (American spelling; distinct from and cross-linked to [[Systems Theory]])
 - [[Systems Theory]] — autopoiesis as the theory of the living, extended to social systems (the state as the paradigmatic cyborg)
 - [[Techno-Humanism]] — Harari: the conservative techno-religion that upgrades humans while keeping them the source of meaning; distinct from Transhumanism
 - [[Techno-Religion]] — Harari: salvation through technology and economics (the umbrella over Techno-Humanism and Dataism)
+- [[Technics]] — Burnham: science and technology fused; coercive, irreversible (distinct from Technology as Metaphor)
 - [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
 - [[The Technological Extension of Consciousness]] — McLuhan: the electric age translates us into information, toward transferring consciousness to the computer
 - [[Transcending Biology]] — Kurzweil's 'version 1.0' bodies premise and the immortality claim ('mortality will be in our own hands'); the strongest celebratory body-as-replaceable-hardware statement in the vault
@@ -200,12 +230,16 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Useless Class]] — Harari: the superfluous people produced by automation, economically and militarily redundant
 - [[Theatrum Mundi]] — the world-as-theater of masks and roles that the tyranny of intimacy dismantles (Han via Sennett)
 - [[Theodicy]] — the problem of evil transposed onto AI: evil as bugs in the code; the citizen as Job before the inscrutable algorithm
+- [[Topology as the New Formalism]] — Burnham: sculptural form migrating to the innate properties of objects in space (Gabo's Spheric Theme, Bill's Mobius)
 - [[Transhumanism]] — the eschatological program (Kurzweil/Bostrom/Moravec) read as secularized Christian resurrection; posthumanism's religious double
 - [[Transparency]] — Han's master diagnostic: neoliberal dispositive that converts negativity into smooth, accelerable positivity; transparency steers the future as a neoliberal dispositive
 - [[Truth as Avowal]] — truth as something that comes into being through the confessional act of laying oneself bare (Han via Rousseau, with Foucauldian resonance)
+- [[The Unrequited Art]] — Burnham: Kineticism as heroic productive failure (Ch6); the concept and its coexisting title metaphor
 - [[Upgrading Inequality]] — Harari: medicine upgrading the healthy rather than healing the sick, producing biological castes
+- [[The Vanishing Base]] — Burnham: the symptomatic withering of the base; the secularization of sculpture (Ch1)
 - [[Virtuality]] — the cultural perception that material objects are interpenetrated by information patterns; extends rather than leaves the body
 - [[Vita Contemplativa]] — Han's revaluation of the contemplative life as sovereign saying-no, against Arendt's subordination of it to the vita activa (Burnout Society)
+- [[Vitalism]] — Burnham: the non-material life-essence aesthetic that reigned in modern sculpture (Ch2 keystone; distinct from Emergence)
 - [[The War of the Icons]] — McLuhan: the cold war as an electric battle of information and images, not hardware; the icon as munition, all technology as a weapon
 - [[Women in the Integrated Circuit]] — Haraway: women's dispersed, contradictory positions across seven loci in the microelectronic world-system
 - [[Women of Color as a Cyborg Identity]] — Haraway: the exemplary coalitional affinity-identity, named a cyborg identity in section 06
@@ -235,6 +269,9 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Freedom of Information]] — Dataism's supreme value, prizing flow over material substrate (Harari)
 - [[Transcending Biology]] — the 'version 1.0' body as obsolescent hardware; the strongest celebratory body-as-data statement in the vault (Kurzweil)
 - [[Order as Information That Fits a Purpose]] — order, not matter, as what evolution increases; the metaphysical ground of patternism (Kurzweil)
+- [[Object and System]] — Burnham's structural axis; the art-historical instance of the axis (object → system)
+- [[Topology as the New Formalism]] — sculptural form dematerializing into the innate spatial properties of objects (Burnham)
+- [[Light as a Sculpture Medium]] — sculpture dissolved into light rather than mass (Burnham)
 
 ### Embodiment / Posthuman
 
@@ -287,6 +324,10 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Computational Universe]] — the worldview in which everything processes information
 - [[Seriation]] — overlapping replication and innovation against paradigm shift
 - [[Skeuomorph]] — a vestigial functional feature that smooths conceptual transitions
+- [[Systems Esthetics]] — Burnham's art-world object-to-system thesis, cross-linked to but distinct from systems theory
+- [[Cyborg Art]] — 'the cybernetic organism as an art form'; the vault's earliest cyborg (Burnham)
+- [[Reciprocal Communication]] — sustained two-way exchange as the criterion of Cyborg Art (Burnham)
+- [[Systems Consciousness]] — the post-object aesthetic awareness (Burnham)
 
 ### Cyborg Feminism (Haraway)
 
@@ -439,6 +480,45 @@ Han's affirmative counter-program: the revaluation of attention, boredom, tiredn
 - [[The Social Hormone]] — electric media producing organic interdependence; information as the social body's chemical messenger
 - [[The War of the Icons]] — the cold war as an electric battle of information and images; all technology as a weapon
 - [[Automation as Learning a Living]] — 'automation is information'; work, consumption, and learning fused into one process
+
+### Systems Esthetics / Sculpture from Object to System (Burnham)
+
+Burnham's art-historical narrative of the dematerializing object: from the withering base, through vitalism and the exhausted scientific model, to the kinetic, luminous, and finally cybernetic system. The vault's first art/systems-esthetics primary source after Lippard.
+
+- [[Systems Esthetics]] — the founding object-to-system thesis (American spelling); the keystone of the cluster
+- [[Object and System]] — the structural axis titling the book's two parts; the art-historical instance of [[Material vs Immaterial]]
+- [[Reification]] — Marx's Verdinglichung redefined as the re-synchronization of art with the scientific form-world
+- [[Technics]] — science and technology fused; coercive and irreversible
+- [[The Scientific Demiurge]] — the impersonal irreversible force that abolishes stylistic cycles
+- [[Scientific Idealism]] — viewing essential reality through provisional scientific models
+- [[The Sculpture Base]] — the base/pedestal/plinth as a physical-and-psychic, biological-orientational device
+- [[The Vanishing Base]] — the symptomatic withering of the base; the secularization of sculpture
+- [[The Readymade]] — Duchamp's 'all idea' object; 'a Goedel's Theorem of aesthetics'
+- [[Object Art]] — Minimal/Object sculpture; 'sculpture de-idealized'
+- [[Vitalism]] — the non-material life-essence aesthetic that reigned in modern sculpture
+- [[Organicism]] — the systems-interrelation creed (Mumford lineage); polar to vitalism
+- [[Form Exhaustion]] — sculptural form as a finite grouping; how the vitalist idiom died
+- [[Formalism (Burnham)]] — the material-optical-tactile features of sculpture as a prescientific methodology
+- [[The Scientific Model]] — the scientist's model as the sculptor's reservoir of pure form, whose obsolescence drove dematerialization
+- [[Topology as the New Formalism]] — sculptural form migrating to the innate properties of objects in space
+- [[Phenomenalism (Burnham)]] — art whose subject is the experience of perception
+- [[Light as a Sculpture Medium]] — light, not form, determines perception; sculpture as a modulator of light
+- [[Luminosity]] — emitted light defined perceptually as the basis of Light Art
+- [[Kinetic Art]] — nonrepresentational art using real time and motion; the first 'sculpture as system'
+- [[The New Tendency and Field Kinetics]] — the immateriality/raster/active-spectator revival
+- [[The Closed Kinematic Chain]] — Reuleaux's determinate machine as the root and limit of kineticism
+- [[The Unrequited Art]] — Kineticism as heroic productive failure
+- [[Automata]] — self-propelled/animated images; the bridge from object to cybernetic system
+- [[Subsculpture]] — images ranked below fine-art sculpture migrating into art
+- [[The Robot]] — the non-anthropomorphic mechanical man (Capek) and the folklore figure of the automatic age
+- [[The Clockwork Universe]] — the Cartesian-Newtonian cosmos as a great clock; the metaphysics of the golden age of automata
+- [[The Faustian Urge to Re-create Life Nonbiologically]] — the desire-engine of the object-to-system migration; anticipates Haraway and Hayles
+- [[Systems Consciousness]] — the post-object aesthetic awareness
+- [[Cyborg Art]] — 'the cybernetic organism as an art form,' the ultimate stage of sculpture; the vault's earliest cyborg
+- [[Reciprocal Communication]] — sustained two-way exchange as the criterion of Cyborg Art
+- [[The Mock Robot]] — figurative sculpture that looks mechanical but lacks function and feedback
+- [[Anthropomorphism in Sculpture]] — sculpture as always anthropomorphic, the prelude to re-creating life
+- [[Sculpture as Biological Signal]] — the speculative teleological theory of art preparing the post-human
 
 ### Media / Art / Perception
 

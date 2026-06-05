@@ -4,6 +4,8 @@ status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
 related:
   - "[[The Three Waves of Cybernetics]]"
   - "[[Emergence]]"
@@ -21,11 +23,21 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Christopher Langton]]"
   - "[[Francisco Varela]]"
+  - "[[Jack Burnham]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 # Artificial Life
+
+## General Orientation
+
+This note now carries two distinct but converging senses of "artificial life," held by authors writing thirty years apart.
+
+- For **[[N. Katherine Hayles]]** (*How We Became Posthuman*, 1999), Artificial Life (AL) is the named third-wave cybernetic research program — the bottom-up building of life across wetware, hardware, and software — whose "strong claim" is that self-evolving codes *are* alive. Hayles reads it critically, as a reinscription of the form-over-matter hierarchy. This is the body of the note below ("Brief Definition" through "Opposing Concepts").
+- For **[[Jack Burnham]]** (*Beyond Modern Sculpture*, 1968), the same impulse is reconstructed as an **art-historical antecedent**: the whole history of modern sculpture is read as "a preparatory stage representing steps toward the simulation of biological life," with the machine as the only means by which man would "reconstruct intelligent life, or what might be called life-bearing artifacts." Burnham predates the named AL field but states its convergence thesis directly — biology, machine theory, and sculpture aiming at "the understanding of living matter through its creation." His section follows below.
+
+The two are cross-linked: Burnham's 1968 "life-bearing artifacts" and "re-creation of life through nonbiological means" are an art-world precursor of the wetware/hardware/software AL program Hayles maps; both site the redefinition of "life" itself in the privileging of form (or pattern) over matter.
 
 ## Brief Definition
 

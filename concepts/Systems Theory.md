@@ -6,6 +6,12 @@ sources:
   - "[[raw/Lippard - Six Years/07 1968]]"
   - "[[raw/Lippard - Six Years/08 1969]]"
   - "[[raw/Lippard - Six Years/10 1971]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/07 Chapter 5 - Sculpture and Automata]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
 related:
   - "[[Cybernetics]]"
   - "[[Autopoiesis]]"
@@ -19,6 +25,7 @@ authors:
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
   - "[[Lucy Lippard]]"
+  - "[[Jack Burnham]]"
 confidence: medium
 last_updated: 2026-06-01
 ---
@@ -27,7 +34,7 @@ last_updated: 2026-06-01
 
 ## General Orientation
 
-This note holds two related-but-distinct senses of "systems," kept linked rather than merged. (1) The **cybernetic/autopoietic** sense — Hayles's reconstruction of second-wave [[Cybernetics]], Maturana and Varela's [[Autopoiesis]], and the extension of organizational closure onto social systems — is the theory-of-living-systems lineage developed below in the Brief Definition and Longer Explanation. (2) The **art-world "systems aesthetics"** sense — Hans Haacke's "real" interdependent systems, [[Sol LeWitt]]'s serial permutations, and Jack Burnham's 1968 manifesto — is the conceptual-art lineage *Six Years* records, treated in its own section ("Systems Aesthetics in Conceptual Art (Lippard)"). The two share a vocabulary (system, process, feedback, real-time) and a moment, but arise from different fields and do not reduce to one another; a dedicated *Systems Aesthetics* note may later carry the second sense on its own.
+This note holds three related-but-distinct senses of "systems," kept linked rather than merged. (1) The **cybernetic/autopoietic** sense — Hayles's reconstruction of second-wave [[Cybernetics]], Maturana and Varela's [[Autopoiesis]], and the extension of organizational closure onto social systems — is the theory-of-living-systems lineage developed below in the Brief Definition and Longer Explanation. (2) The **art-world "systems aesthetics"** sense — Hans Haacke's "real" interdependent systems, [[Sol LeWitt]]'s serial permutations, and [[Jack Burnham]]'s 1968 manifesto — is the conceptual-art lineage *Six Years* records, treated in its own section ("Systems Aesthetics in Conceptual Art (Lippard)"). (3) The **sculptural-evolutionary** sense — Burnham's own *Beyond Modern Sculpture* (1968) treatment, in which the *system* (an interacting assembly that "may manifest some of the fundamental characteristics natural to life") is the form sculpture must *become* to survive the object's obsolescence — is developed in "Jack Burnham (Beyond Modern Sculpture)" below. The three share a vocabulary (system, process, feedback, organization, real-time) and a moment, but arise from different fields and do not reduce to one another; a dedicated *Systems Aesthetics* note may later carry the second sense on its own. Burnham himself bridges (2) and (3): the same critic who named the art-world tendency in his *Artforum* "Systems Aesthetics" essay (logged in *Six Years*) grounds the broader systems field in postwar systems analysis in his book — yet the two are kept distinct here, with the art-specific thesis reserved for [[Systems Esthetics]] and the broader field carried by this note.
 
 ## Brief Definition
 
@@ -58,9 +65,19 @@ The lineage has two other anchors in *Six Years*. The first is [[Sol LeWitt]]'s 
 
 By 1971 the political torque of the art-world sense is fully visible, and it is here that the two lineages most clearly *rhyme* without merging. In Jeanne Siegel's interview Haacke turns the systems frame on the institution of art itself: "Real-time systems are double agents. They might run under the heading 'art,' but this culturization does not prevent them from operating as normal." The phrase "real-time systems" borrows directly from computing and cybernetics, but Haacke's point is institutional-critical — a work that is a real social or informational system does not stop being one just because a gallery brackets it as "art"; it keeps "operating as normal," so it can carry real information and "affect the general social fabric." This is structurally close to Hayles's observation that in the social-systems extension "the machine of interest is much more likely to be the state," yet it arrives from the opposite direction: not a biologist's theory ported onto society, but an artist's wager that the artwork-as-system is continuous with the social systems it is embedded in. The Lippard lineage thus belongs beside the cybernetic one as a sibling, not a subset — a conceptual-art "systems aesthetics" that shares the period's language of process, feedback, and real-time operation while keeping its own realist, interventionist, institution-critical commitments. *(See General Orientation: a dedicated Systems Aesthetics note may later carry this sense independently.)*
 
+## Jack Burnham (Beyond Modern Sculpture)
+
+If Hayles reads systems theory as a biologist's discourse ported onto society and Lippard records its art-world adoption, Jack Burnham is the figure who makes the *system* the organizing concept of an entire history of sculpture — and who, more than anyone in the vault, treats "system" as the destiny art must enter to survive. His definition is the most explicit in the corpus: "A system is an aggregate of components; first, its parts are mutually dependent; and second, it may manifest some of the fundamental characteristics natural to life: self-organization, growth, internal or external mobility, irritability or sensitivity, input and output, kinetically sustained equilibrium and eventual death (humans are the most dramatic instances of systems which die)." This is the same family of properties Hayles tracks (organization, closure, structural coupling) and the same realist, interdependent processuality Haacke claimed, but Burnham frames it as a *life-likeness*: the system is interesting precisely because it crosses the threshold from inert object toward the behaviors of the living. The whole book pivots on this contrast — "the object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity" — so that "the system becomes a logical extension of the object through intellectual domination of the environment." (Confidence: Directly stated.)
+
+Crucially, Burnham grounds this not in biology alone but in **postwar systems analysis**, the same applied, military-industrial lineage Hayles's account brackets. "The largest and most comprehensive attempt to use the analogues of biological organization has been systems analysis and development," he writes, and dates its origin to wartime man-machine complexity: "During the Second World War man-machine units (in bombers, gun stations, radar installations, etc.) were for the, first time deemed too complex to be controlled by human reflexes. As a result, studies in the systematic organization and control of such groups were undertaken." From this he draws the abstract, observer-relative notion of system that rhymes with Hayles's Maturana: "The concept system itself is a pure abstraction, an assembly of isolable properties studied in terms of their transformations, either alone (closed) or in relation to other systems (open)," and "the system becomes the unit by which all levels of fluid organization are analyzed up through and including living organisms." The closed/open distinction, the observer who isolates a "singleness," the input-output and feedback vocabulary — Burnham takes these straight from cybernetics (Wiener, Ashby, Bertalanffy), so his systems sense is continuous with the [[Cybernetics]] / [[Feedback Loops]] / [[Autopoiesis]] cluster rather than a separate coinage. He even reads the broader culture as already systematized: when we buy an automobile "we no longer buy an object in the old sense of the word" but a lease into "an interlocking system of production and need fulfillment," so that "the object now is a replaceable component in an interlocking system." (Confidence: Directly stated.)
+
+What is distinctive — and what makes Burnham *the* systems-art figure — is that he makes sculpture's very survival depend on its becoming a system. Technology, he argues, produces "the growing tendency to relate materials, energy sources, transportable objects, events, and signals into a unified network above and beyond natural order. In such a situation the object was bound to lose out as a cumbersome element" — the object dematerializes (a thread that links directly to Lippard's [[Dematerialization]]). The machine's promise, foreshadowed by Picabia who "long before other artists, realized that the higher power of the machine lay in its ability to be united with other machines into feeling relationships, and to assume some of the social interaction of organisms living together," is that components couple into living-like wholes. The endpoint is the system that dissolves the object into its environment: writing of Light Art, Burnham observes that "emitted light best demonstrates one of the primary qualities of systems: the tendency to fuse art object and environment into a perceptual whole" — the work ceasing to be a discrete thing and becoming "a light-modulating system sensitive to responses from organisms which invade its presence." This is the through-line from Burnham's book to his contemporaneous *Artforum* program: the broader systems field theorized here is the soil from which his art-specific thesis grows. That thesis is kept on its own page — see [[Systems Esthetics]] — while this note carries the wider field. (Confidence: Directly stated; the book↔essay continuity is Interpretive synthesis grounded in *Six Years*' bibliographic record of the 1968 essay.)
+
 ## Related Concepts
 
 - [[Cybernetics]] — the broader field within which systems theory's second wave develops; systems theory frames and narrows it from feedback-and-control to organizational closure
+- [[Systems Esthetics]] — Burnham's art-specific thesis (the *Artforum* program that the artwork is a system, not an object); the species to this note's genus, kept distinct: Systems Esthetics is the art thesis, Systems Theory the broader field
+- [[Dematerialization]] — Burnham's "the object was bound to lose out as a cumbersome element" in the unified network is the sculptural correlate of Lippard's dematerialization of the art object
 - [[Autopoiesis]] — the specific theory of self-producing living systems that gives systems theory its rigorous core; systems theory is the genus, autopoiesis the species
 - [[Feedback Loops]] — the first-wave mechanism that systems theory reinterprets, insisting "there are no messages circulating in feedback loops" intrinsic to the system itself
 - [[Embodiment]] — recovered by systems theory's "emphasis on actual biological processes," even as the theory understates embodied action's transformative force
@@ -222,4 +239,100 @@ Relevant passage:
 > Burnham, Jack. “Systems Aesthetics.” Artforum, September, 1968.
 
 Supports: Records the bibliographic anchor naming the tendency outright — Jack Burnham's 1968 essay, the moment the art world's turn to systems acquires a theoretical banner. Establishes Burnham as a forward-stub critic in the lineage and grounds the possible future dedicated *Systems Aesthetics* note.
+Confidence: Directly stated
+
+### Source 13
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> A system is an aggregate of components; first, its parts are mutually dependent; and second, it may manifest some of the fundamental characteristics natural to life: self-organization, growth, internal or external mobility, irritability or sensitivity, input and output, kinetically sustained equilibrium and eventual death
+
+Supports: Burnham's explicit definition of the system as an interacting assembly that may take on the characteristics of life — the keystone of his sculptural-evolutionary systems sense and the anchor for the General Orientation's third sense. The most explicit "system" definition in the vault.
+Confidence: Directly stated
+
+### Source 14
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]
+Relevant passage:
+
+> the object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity
+
+Supports: Establishes the object→system axis that organizes the entire book and grounds the claim that sculpture's survival depends on becoming a system. Ties Burnham's systems sense to Lippard's dematerialization and to the broader cybernetic/autopoietic lineage.
+Confidence: Directly stated
+
+### Source 15
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]
+Relevant passage:
+
+> The largest and most comprehensive attempt to use the analogues of biological organization has been systems analysis and development. During the Second World War man-machine units (in bombers, gun stations, radar installations, etc.) were for the, first time deemed too complex to be controlled by human reflexes.
+
+Supports: Grounds Burnham's systems concept in postwar systems analysis and the wartime origin of man-machine units too complex for human reflexes — the applied military-industrial lineage that rhymes with (and complicates) Hayles's biology-first account of systems theory.
+Confidence: Directly stated
+
+### Source 16
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> The concept system itself is a pure abstraction, an assembly of isolable properties studied in terms of their transformations, either alone (closed) or in relation to other systems (open).
+
+Supports: Burnham's closed/open systems distinction, taken from cybernetics (Wiener, Ashby, Bertalanffy) — the device by which an observer isolates a system, structurally parallel to Hayles's Maturana. Establishes the continuity of Burnham's systems sense with the Cybernetics/Autopoiesis cluster.
+Confidence: Directly stated
+
+### Source 17
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]
+Relevant passage:
+
+> Stated differently, the system becomes the unit by which all levels of fluid organization are analyzed up through and including living organisms.
+
+Supports: Names the system as the universal unit of analysis spanning machines, societies, and living organisms — Burnham's portability claim, the counterpart to Hayles's "the machine of interest is much more likely to be the state."
+Confidence: Directly stated
+
+### Source 18
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]]
+Relevant passage:
+
+> Another important consequence of technology has been the growing tendency to relate materials, energy sources, transportable objects, events, and signals into a unified network above and beyond natural order. In such a situation the object was bound to lose out as a cumbersome element
+
+Supports: Burnham's account of how technology's unified network dematerializes the discrete object — the sculptural correlate of Lippard's dematerialization, and the basis for his thesis that sculpture must become a system to survive.
+Confidence: Directly stated
+
+### Source 19
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/07 Chapter 5 - Sculpture and Automata]]
+Relevant passage:
+
+> Picabia, long before other artists, realized that the higher power of the machine lay in its ability to be united with other machines into feeling relationships, and to assume some of the social interaction of organisms living together.
+
+Supports: Burnham's reading of Picabia as an early intuition of the system — machines coupled into "feeling relationships" that simulate the social interaction of living organisms. Grounds the coupling/life-likeness thread of Burnham's systems sense.
+Confidence: Directly stated
+
+### Source 20
+
+Book: *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*
+Author: Jack Burnham
+Raw file: [[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]
+Relevant passage:
+
+> At its present stage emitted light best demonstrates one of the primary qualities of systems: the tendency to fuse art object and environment into a perceptual whole.
+
+Supports: Burnham's claim that a primary quality of systems is to dissolve the object into its environment as a perceptual whole — the endpoint of the object→system trajectory, where the discrete artwork becomes an environment-modulating system.
 Confidence: Directly stated

@@ -13,6 +13,7 @@ sources:
   - "[[raw/McLuhan - Understanding Media/15 Chapter 11 - Number - Profile of the Crowd]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
 related:
   - "[[Posthumanism]]"
   - "[[Cybernetics]]"

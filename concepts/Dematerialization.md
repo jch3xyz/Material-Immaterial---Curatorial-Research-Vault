@@ -7,6 +7,12 @@ sources:
   - "[[raw/Lippard - Six Years/07 1968]]"
   - "[[raw/Lippard - Six Years/09 1970]]"
   - "[[raw/Lippard - Six Years/11 Postface]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/03 Chapter 1 - Sculpture's Vanishing Base]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/05 Chapter 3 - Formalism - The Weary Vocabulary]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
+  - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
 related:
   - "[[Material vs Immaterial]]"
   - "[[Virtuality]]"

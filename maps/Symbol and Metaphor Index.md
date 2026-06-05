@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 ---
 
 # Symbol and Metaphor Index
@@ -77,6 +77,20 @@ All symbol and metaphor notes.
 - [[The Machine of Positivity]] — the computer / positivized mind as Positivmaschine: a calculating apparatus with no negativity, no hesitation, no no (Han, The Burnout Society)
 - [[The Pentecostal Company]] — Handke's society of inspired not-doing; a community gathered in tiredness rather than performance (Han, The Burnout Society)
 - [[The Internal Work Camp]] — everyone carries a work camp inside; the achievement-subject as guard and inmate at once (Han, The Burnout Society)
+- [[A Scribble in the Air]] — Read via Burnham: the dematerialization of postwar sculpture (Burnham)
+- [[The Kybernetes as the New Prime Mover]] — the cybernetic steersman replacing the elan vital (Burnham)
+- [[The Universe as a Spendthrift Artist]] — Boulding via Burnham: the entropy of local order (Burnham)
+- [[Form as a Waterfall Not a Crystal]] — Sinnott via Burnham: the organism as dynamic equilibrium (Burnham)
+- [[Embodying Space Without Matter Like Music]] — the deepest immaterial aspiration of Western technology (Burnham)
+- [[The Hooded Machine]] — sculpture as a black box hiding a supposed inner life force; vitalism applied to the machine (Burnham)
+- [[The Transistor Radio vs the Watch]] — the visible-to-invisible shift in the scientific form-world (Burnham)
+- [[The Mechanized Stage as Organism]] — Schlemmer: the immersive programmed stage with man as 'the perfect engineer' (Burnham)
+- [[Joey the Mechanical Boy]] — Bettelheim: the human who finds security in becoming a robot (Burnham)
+- [[Pygmalion and Galatea]] — Ovid: the founding myth of bringing the made figure to life (Burnham)
+- [[The Music-Box Automata]] — Wiener's one-way-message figure for all prior sculpture (Burnham, Ch8)
+- [[The Bicycle Wheel as a Turtle on Its Back]] — Duchamp's immobile wheel (Burnham, Ch6)
+- [[The Light Bulb as Pure Information]] — McLuhan/Piene: art as energy and information (Burnham, Ch7)
+- [[Technology as a Self-Propelled Time-Binding Web]] — autonomous technics (Burnham, Ch8)
 
 ## Symbols
 
@@ -102,3 +116,12 @@ All symbol and metaphor notes.
 - [[The Forest of Arden]] — Shakespeare's golden world as an advance model of the automation age (McLuhan)
 - [[The Credit Card]] — money as pure credit-information; the electric reversal toward 'tribal money' (McLuhan)
 - [[Canned Dreams]] — film as the most magical of consumer commodities, the American way of life exported 'in cans' (McLuhan)
+- [[The Scientific Model as Icon]] — the contemporary icon par excellence; the model as the form-world's sacred image (Burnham)
+- [[The Automobile as Leased System]] — the object's collapse into systemhood (Burnham)
+- [[The Pylon Sign (Las Vegas)]] — the illuminated roadside sign as an arch-underground American art form (Burnham)
+- [[The No-Sculptures (Goodman)]] — the terminal emblem of the biomorphic vocabulary and Form Exhaustion (Burnham)
+- [[Vaucansons Duck]] — the golden-age automaton reproducing internal organic functions (Burnham)
+- [[The Strasbourg Cathedral Clock]] — the Renaissance clockwork miniature cosmos (Burnham)
+- [[The Tortoise (Machina Speculatrix)]] — Grey Walter's Elmer & Elsie, the first cybernetic organisms (Burnham, Ch8)
+- [[Searcher (Seawright)]] — the patterned-personality cybernetic sculpture (Burnham, Ch8)
+- [[The Pieta Shipped Across the Ocean]] — the irreplaceable Object-Art emblem (Burnham, Ch8)
