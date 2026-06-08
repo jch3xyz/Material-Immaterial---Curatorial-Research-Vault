@@ -8,13 +8,13 @@ last_updated: 2026-06-04
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 13 books** (was 27 → 16 → 12 → 13). On 2026-06-02 the user removed 11 books, on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff), then on **2026-06-08 RE-ADDED Zuboff** (*The Age of Surveillance Capitalism*) to the corpus — see **Removed from corpus** below. The inventory now matches the disk exactly: all 13 books are present in `raw/`. Of the 13, **11 are ingested** and **2 remain (Ascott, Zuboff)**.
+> **Corpus size: 13 books** (was 27 → 16 → 12 → 13). On 2026-06-02 the user removed 11 books, on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff), then on **2026-06-08 RE-ADDED Zuboff** (*The Age of Surveillance Capitalism*) to the corpus — see **Removed from corpus** below. The inventory now matches the disk exactly: all 13 books are present in `raw/`. Of the 13, **12 are ingested** and **1 remains (Zuboff)**.
 
 ## Books in `raw/`
 
 | #   | Folder                                         | Files | Author              | Status   |
 | --- | ---------------------------------------------- | ----- | ------------------- | -------- |
-| 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | **TODO** |
+| 1   | `Ascott - Telematic Embrace`                   | 39    | Roy Ascott          | ingested |
 | 2   | `Burnham - Beyond Modern Sculpture`            | 14    | Jack Burnham        | ingested |
 | 3   | `Byung-Chul Han - The Transparency Society`    | 14    | Byung-Chul Han      | ingested |
 | 4   | `Han - Psychopolitics`                         | 13    | Byung-Chul Han      | ingested |
@@ -28,7 +28,7 @@ The book corpus for the vault. Each book lives in its own folder under `raw/` an
 | 12  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | ingested |
 | 13  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | **TODO** |
 
-Total: 13 books, 242 raw markdown files (matches disk). 11 ingested (see `log.md`); 2 remain (Ascott, Zuboff). Zuboff was re-added 2026-06-08 (25 files: "The Definition" + Ch1-18 substantive = 19 chapters; a big book → use the chunked big-book workflow).
+Total: 13 books, 242 raw markdown files (matches disk). 12 ingested (see `log.md`); 1 remains (Zuboff). Zuboff was re-added 2026-06-08 (25 files: "The Definition" + Ch1-18 substantive = 19 chapters; a big book → use the chunked big-book workflow).
 
 ## Removed from corpus
 
@@ -76,7 +76,7 @@ These files typically appear in each book folder and are skipped by analysis unl
 
 ## Author → Books Mapping
 
-- **Roy Ascott** — Telematic Embrace *(TODO)*
+- **Roy Ascott** — Telematic Embrace
 - **Jack Burnham** — Beyond Modern Sculpture
 - **Byung-Chul Han** — The Transparency Society, Psychopolitics, The Burnout Society
 - **Yuval Noah Harari** — Homo Deus

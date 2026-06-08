@@ -34,19 +34,20 @@ page is the operating manual.
 1. **Pick a book** not yet in the cache. (As of 2026-06-05: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
    Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media,
-   Han–*The Burnout Society*, Burnham–*Beyond Modern Sculpture* are DONE (11 of 13).
-   2 remain. NOTE: the corpus is now **13 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   Han–*The Burnout Society*, Burnham–*Beyond Modern Sculpture*, Ascott–*Telematic Embrace* are DONE (12 of 13).
+   1 remains. NOTE: the corpus is now **13 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
    intentionally removed 11 books from the plan (Acemoglu, Harari–Nexus, Shiner, Turner, Kurzweil–*Age of
    Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop), and on 2026-06-04 removed
    4 more (Benjamin–*Illuminations*, Debord–*Society of the Spectacle*, Meadows–*Thinking in Systems*,
    Zuboff–*Age of Surveillance Capitalism*) — but on **2026-06-08 the user RE-ADDED Zuboff** (so Benjamin,
    Debord, Meadows stay removed; Zuboff is back); see `source_inventory.md` → Removed from corpus. Do not treat
-   Benjamin/Debord/Meadows as pending ingests. **The 2 remaining: Ascott** (*Telematic Embrace*, 39 ch — will
-   EXTEND, not re-create, `New Media Art` / `Art as Experiential Technology` / `Cyborg Art` / `Systems Esthetics`
-   that Burnham realized) **and Zuboff** (*The Age of Surveillance Capitalism*, 25 files / 19 substantive
-   chapters: "The Definition" + Ch1-18 — a big book; use the chunked big-book workflow; it will realize the
-   surveillance cluster, e.g. `Surveillance`, `Quantified Self`, and resonate with `Digital Panopticon` /
-   `Dataism` / `Big Data`). Both are big books → use the `_run_burnham.js` / `_run_mcluhan.js` chunked template.)
+   Benjamin/Debord/Meadows as pending ingests. **The 1 remaining: Zuboff** (*The Age of Surveillance Capitalism*,
+   25 files / 19 substantive chapters: "The Definition" + Ch1-18 — a big book; use the chunked big-book
+   workflow `_run_burnham.js`/`_run_ascott.js` as a template; it will realize the surveillance cluster, e.g.
+   `Surveillance`, `Quantified Self`, instrumentarian power / "Big Other", and resonate strongly with
+   `Digital Panopticon` / `Dataism` / `Big Data` and the Han + Harari surveillance arc). Ascott (book 12,
+   2026-06-08) realized the last forward-stub author and EXTENDED the Burnham art stubs `New Media Art` /
+   `Art as Experiential Technology` / `Cyborg Art` / `Systems Esthetics` / `Reciprocal Communication`.)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
@@ -89,6 +90,15 @@ page is the operating manual.
    hold the verbatim candidate passages), NOT the raw chapters** — a first Burnham repair that re-read the
    150KB raw chapters mostly no-op'd (~4K tokens/agent, budget exhausted before the write); the
    analysis-driven re-run landed 22/22 cleanly. (`_system/workflows/_run_burnham_fix.js` is the template.)
+   **ASCOTT REINFORCEMENT (2026-06-08): for REPAIRING existing notes, a single full-file Write beats a
+   sequence of Edits.** On Ascott the generation pass under-persisted ALL 30 updates (and the run was
+   interrupted before any commit — so commit creates IMMEDIATELY). A first analysis-driven *multi-Edit* repair
+   still only landed 7/30: the body `## <Author> (<Book>)` heading lands but the follow-up Sources + frontmatter
+   Edits silently don't (agents stop after the first edit). Rewriting the repair so each agent does ONE atomic
+   **Write** of the complete file (read target + analysis file → emit the whole note with the new section +
+   Source entry + frontmatter) landed **30/30 with 0 content loss**. VERIFY the Write didn't truncate: compare
+   each repaired file's byte length to its committed `HEAD` version — none should shrink (`git show HEAD:<path>`).
+   (`_system/workflows/_run_ascott_fix.js` v2 is the atomic-Write template.)
    **DON'T `git add -A` / `git add .` after an ingest; stage note folders explicitly:**
    `git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`.
    A blanket add sweeps in unrelated working-tree state (`.obsidian/` UI churn, `.DS_Store`) and, more

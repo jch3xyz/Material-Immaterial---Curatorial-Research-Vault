@@ -489,6 +489,46 @@ Verified alias-preserving rewrites caught in the normalization backstop (chunked
 
 ---
 
+## Canonical Note Names — Ascott *Telematic Embrace* ingest (2026-06-08)
+
+Added by *Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness* (Roy Ascott, ed. Edward A. Shanken, 2003) — collected writings 1964-2003 by the founder of **telematic art** and a 1960s **cybernetic-art** pioneer alongside Jack Burnham. Book: `Telematic Embrace`. Author: **`Roy Ascott` (new — realizes the last forward-stub author in the corpus)**. Source summaries: `Ascott - Telematic Embrace - <NN Title>` (29: Shanken's editorial intro "From Cybernetics to Telematics" + 28 Ascott essays). Ingested via the **custom big-book chunked workflow** (`_system/workflows/_run_ascott.js`): 29 parallel analyses → 7 sequential chunked planners (early cybernetic/behaviourist art → telematics/network consciousness → cyberception/technoetics/moistmedia) sharing a running canonical-names list → single generation + index. 213 interpretive notes + book + author + 29 sources (244 new); 30 cross-book updates. **NOTE: ch.04 is Edward Shanken's editorial introduction — its quotes are attributed to Shanken (the editor), not Ascott.** The 30 cross-book updates + 1 metaphor create under-persisted in the generation pass and the first (multi-Edit) repair; a **single-full-file-Write** repair (`_run_ascott_fix.js` v2) landed all 30/30 with 0 content loss. See `log.md`.
+
+**New concepts/** (75): Telematic Art · The Telematic Embrace *(coexists with the metaphor of the same name)* · Network Consciousness · Behaviourist Art · The Cybernetic Vision · Cybernetic Art Matrix · The Participator · Distributed Authorship · A Field Theory of Art · Network as Artwork · Cyberception · Technoetics · Technoetic Aesthetics · Moistmedia · Telenoia · Gesamtdatenwerk · Apparition · The Double Gaze · Double Consciousness · The Shamantic Web · The Post-Biological Body · The Post-Biological Era · The Distributed Self · Telepresence · Net Art · The Datapool · Data Space · Hypermedia · Telematic Discourse · Negotiated Meaning · The Democratisation of Meaning · Observer-Created Reality · The Planetary Collegium · Nature II · The Rematerialization of Art · Connectivism · Transpersonal Art · Visionary Pragmatism · Psibernetics · Futuribles · Psychotechnology · The Cybernated Society · The Groundcourse · Connective Criticism · Formalist Modernism (Ascott) · Postmodernist Art (Ascott) · Radical Constructivism (Ascott) · Simulation (Ascott) · Triangulation (Ascott) · The Computer as Matrix · The Computer as Behaviour Not Thing · The Computer as an Extra-Sensory Device · The Interface as Doorway · The Holomatic Principle · Global Vision · Telematic Time · Electronic Space and Molecular Time · Post-Photographic Practice · The Second Order of Reproduction · The Five-Fold Path · The Five Defining Features · Art as a Form of Behaviour · The City as Zone of Transformation · Inter-Reality · Cyber-estate · The Cybernet · The Mind of the Museum · The Museum of the Third Kind · Gardens of Hypotheses · Cyberbotany · The Building of Sentience · The Telematic Imperative · The Transformative Vocation · The Artist as Designer of Context. (See `maps/Concept Index.md` for clustering.)
+
+**New definitions/** (22, all `(Ascott)` or `(X via Ascott)`): incl. Telematics (Ascott) · Cyberception (Ascott) · Technoetics (Ascott) · Moistmedia (Ascott) · Telenoia (Ascott) · Behaviourist Art (Ascott) · Gesamtdatenwerk (Ascott) · Network Consciousness (Ascott). **New metaphors/** (20): incl. The Telematic Embrace *(metaphor — coexists with the concept)* · The Shamantic Web · The Double Gaze · The Interface as Doorway · Gardens of Hypotheses. **New symbols/** (5): incl. The Change Painting. **New tensions/** (25): incl. Form vs Behaviour-adjacent oppositions, Dry vs Wet (Moist), Appearance vs Apparition, Connected vs Isolated, Object vs Process. **New arguments/** (57): see `maps/Argument Index.md`.
+
+**New references/** (9 — all vault-internal interpretive bridges unless Ascott cites them): `Roy Ascott and {Jack Burnham, Marshall McLuhan, N. Katherine Hayles, Donna Haraway, Lucy Lippard, Meghan O'Gieblyn, Byung-Chul Han, Hans Moravec, Ray Kurzweil}`. The **Ascott ↔ Burnham** note is the keystone (the two poles of 1960s cybernetic art: Burnham's systems esthetics of the object→system vs Ascott's behavioural/participatory cybernetic art); **Ascott ↔ McLuhan** (global village → network consciousness).
+
+**Cross-book UPDATES** (30 existing notes gained a `## Roy Ascott (Telematic Embrace)` section — do NOT duplicate): `Material vs Immaterial` *(now a **NINE-author** tension — Han, Hayles, Lippard, Harari, Kurzweil, Haraway, McLuhan, Burnham, Ascott)* · `New Media Art` *(Burnham realized it from cybernetic art; Ascott carries it into networked/telematic art — the dimension the stub was built to receive)* · `Art as Experiential Technology` · `Cyborg Art` · `The Cyborg` · `Reciprocal Communication` · `Cybernetics` · `Systems Esthetics` · `Systems Theory` · `Object and System` · `Object vs System` · `One-Way Stimulation vs Two-Way Communication` · `Feedback Loops` · `Emergence` · `Information` · `The Global Village` · `Distributed Cognition` · `The Observer` · `Re-enchantment` · `Dematerialization` · `Exhibition as Medium` · `The Seamless Web` · `The Computational Universe` · `Posthumanism` · `Embodiment` · `Conceptual Art` · `Virtuality` · `Autopoiesis` · `The Body as Data` · `Artificial Life` · `Mind Uploading`.
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Gordon Pask` *(Ascott's key cybernetic influence)* · `Gregory Bateson` · `Heinz von Foerster` · `Stafford Beer` · `Edward A. Shanken` *(the editor)* · `Pierre Lévy` · `Vilém Flusser` · `William S. Burroughs` · `Timothy Leary` · `B. F. Skinner` · `Jacques Derrida` · `Roland Barthes` · `Charles Taylor`. Reused existing stubs: `Norbert Wiener`, `Hans Moravec`, `Humberto Maturana`, `Francisco Varela`, `Christopher Langton`, `Edward Fredkin`, `Marvin Minsky`, `Teilhard de Chardin`, `Walter Benjamin`, `Marcel Duchamp`, `Sol LeWitt`, `Seth Siegelaub`, `Hans Haacke`, `Joseph Kosuth`, `Jean Baudrillard`, `Michel Foucault`, `Max Weber`. `Marshall McLuhan` is an ingested author → reference note, not a stub.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- `The Telematic Embrace` exists as BOTH a concept and a metaphor (same base name, different folders; Obsidian disambiguates by path — the `Hell of the Same` / `The Global Village` / `The Robot` precedent). Link to `[[The Telematic Embrace]]`; the concept is the default conceptual target.
+- `Technoetics` (concept) ≠ `Technoetics (Ascott)` (definition); `Technoetic Aesthetics` is the distinct named aesthetic programme.
+- `The Cybernetic Vision` (Ascott's term) and `Cybernetic Art Matrix` (his CAM proposal) are distinct; bare `Cybernetic Art` links retarget to `The Cybernetic Vision`. Cross-linked to Burnham's `Cyborg Art` / `Systems Esthetics` and the shared `Cybernetics` note.
+- `Distributed Authorship` (Ascott) is the canonical name; `Dispersed Authorship` is a variant → retargeted.
+- Ascott EXTENDS the Burnham-realized stubs (`New Media Art`, `Art as Experiential Technology`, `Cyborg Art`, `Systems Esthetics`, `Reciprocal Communication`) — these are multi-author notes now, not re-created.
+
+### Ascott-pass variant/dangling fixes (applied 2026-06-08, finalize)
+
+Verified alias-preserving rewrites (chunked-planner naming divergence + source-summary over-linking):
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Dispersed Authorship` (9×) | `Distributed Authorship` |
+| `Technoetics (Ascott)` (6×, as a concept link) | `Technoetics` *(the `(Ascott)` form is the definition)* |
+| `Cybernetic Art` (4×) | `The Cybernetic Vision` |
+| `Telematic Love` (4×) | `The Telematic Embrace` |
+| `telematic embrace` (lowercase) | `The Telematic Embrace` |
+| `Telematic Culture` | `Telematic Art` |
+| `Global Village` | `The Global Village` |
+
+**Unlinked to plain text** (one-off phrases / essay-&-section titles / paraphrased argument titles, not durable standalone notes): `Form vs Behaviour`, `The Construction of Change`, `Connective Paradigm`, `Art and Consciousness`, `Closing the Loop`, `Laying Out the Threads of a Network`, `Mirror Mirror on the Wall`, `The Artwork as Matrix`, `The Horizontal Surface`, `Art as System and Process`, `Art as an Arrow to the Future`, `Linear vs Cyclical`, and ~9 paraphrased argument sentences (e.g. "Art is a behavioural field…", "The vision of art has shifted from the field of objects to the field of behaviour", "Formalist modernism is Newtonian…").
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
@@ -515,6 +555,10 @@ These are **verified** pure format/article/qualifier variants that must be rewri
 | `Cyborg` | `The Cyborg` |
 | `Mechanism` | `Mechanism (Burnham)` |
 | `Entropy` | `Entropy (Burnham)` |
+| `Dispersed Authorship` | `Distributed Authorship` *(Ascott)* |
+| `Cybernetic Art` | `The Cybernetic Vision` *(Ascott; cross-linked to Burnham's `Cyborg Art`)* |
+| `Telematic Love`, `telematic embrace`, `Telematic Culture` | `The Telematic Embrace` / `Telematic Art` *(Ascott)* |
+| `Global Village` | `The Global Village` |
 
 ### Synonym consolidations (2026-06-01 within-Han pass)
 
