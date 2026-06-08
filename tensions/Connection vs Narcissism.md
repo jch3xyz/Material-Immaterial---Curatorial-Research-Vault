@@ -13,7 +13,7 @@ sources:
   - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
 related_concepts:
   - "[[The Telematic Embrace]]"
-  - "[[Telematic Love]]"
+  - "[[The Telematic Embrace]]"
   - "[[Network Consciousness]]"
   - "[[Reciprocal Communication]]"
   - "[[Digital Panopticon]]"
@@ -24,11 +24,11 @@ last_updated: 2026-06-08
 
 # Connection vs Narcissism
 
-The contested seam at the heart of [[Roy Ascott|Ascott]]'s [[The Telematic Embrace|telematic embrace]]: do computer-mediated networks draw minds into a unifying *connection* — [[Telematic Love|passionate attraction]], reciprocity, a [[Network Consciousness|consciousness greater than the sum of its parts]] — or do the very same "hyaline interfaces" collapse exchange into *narcissism*, turning the screen into a mirror that talks only to the self and the network into a prison? This is the book's central unresolved question, and Edward A. Shanken (the volume's editor) stages it deliberately: he arrays the skeptics (Baudrillard, Manovich) against Ascott's love thesis rather than resolving it.
+The contested seam at the heart of [[Roy Ascott|Ascott]]'s [[The Telematic Embrace|telematic embrace]]: do computer-mediated networks draw minds into a unifying *connection* — [[The Telematic Embrace|passionate attraction]], reciprocity, a [[Network Consciousness|consciousness greater than the sum of its parts]] — or do the very same "hyaline interfaces" collapse exchange into *narcissism*, turning the screen into a mirror that talks only to the self and the network into a prison? This is the book's central unresolved question, and Edward A. Shanken (the volume's editor) stages it deliberately: he arrays the skeptics (Baudrillard, Manovich) against Ascott's love thesis rather than resolving it.
 
 ## The Poles
 
-- **Connection** — the network as a reciprocal, dialogical field. Exchange "generates trust and sympathy"; many-to-many transaction across the horizontal "table-top" replaces the one-way line of the analyst's couch; the embrace unites geographically dispersed minds into a shared, emergent state of mind. This is the affirmative pole Ascott defends through [[Telematic Love|passionate attraction]] and [[Reciprocal Communication|two-way communication]].
+- **Connection** — the network as a reciprocal, dialogical field. Exchange "generates trust and sympathy"; many-to-many transaction across the horizontal "table-top" replaces the one-way line of the analyst's couch; the embrace unites geographically dispersed minds into a shared, emergent state of mind. This is the affirmative pole Ascott defends through [[The Telematic Embrace|passionate attraction]] and [[Reciprocal Communication|two-way communication]].
 - **Narcissism** — the network as monologue and mirror. The same interface may "transform communication into monologue, unification into narcissism, passionate attraction into solitary confinement"; the screen, far from a window onto infinite space, "can equally be seen as a prison." The lone subject before the self-reflecting rectangle is locked into "autoerotic soliloquy" — the [[Hell of the Same|self looking back only at itself]].
 
 ## Why It Matters
@@ -43,7 +43,7 @@ The tension is not external to Ascott's utopia; it is *internal* to it. Shanken 
 ## Related Concepts
 
 - [[The Telematic Embrace]]
-- [[Telematic Love]]
+- [[The Telematic Embrace]]
 - [[Network Consciousness]]
 - [[Reciprocal Communication]]
 - [[The Global Village]]

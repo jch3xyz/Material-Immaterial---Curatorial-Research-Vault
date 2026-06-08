@@ -30,9 +30,9 @@ For the vault this chapter is the strongest single primary-text anchor for EXTEN
 - [[A Field Theory of Art]] — Ascott's proposed paradigm to replace the formalist modernist aesthetic: art as a probabilistic field of psychic interplay between two behavioural systems (artist and observer), not an object or a one-way message; "a field theory of art and consciousness."
 - [[The Participator]] — the viewer redefined operationally: not a receiver completing a fixed message but a generator of meaning "of operational importance in the total behaviour of the system."
 - [[Postmodernist Art (Ascott)]] — Ascott's non-stylistic definition: a cyclical, reversible, multilayered, ambiguous, networked art of art-and-consciousness, opposed to formalist modernism's linear progress.
-- [[Connective Paradigm]] — postmodernist art as "connective, inclusive, transactional, associative, referential, interactive"; it presents "a connective paradigm, which in turn demands a connective criticism." Networking, not reduction.
+- Connective Paradigm — postmodernist art as "connective, inclusive, transactional, associative, referential, interactive"; it presents "a connective paradigm, which in turn demands a connective criticism." Networking, not reduction.
 - [[Formalist Modernism (Ascott)]] — Ascott's antagonist: a "one-way street," "stylistically irreversible," with a "totally Newtonian structure," reducing art to "pure" form and a "fixed message" — and so, even in its own terms, "faux modernist." Kept distinct from [[Formalism (Burnham)]].
-- [[Art and Consciousness]] — the proto-technoetic seed: a transition "from materialist culture" toward "the spiritual in art"; art reaching out to "other operational modes of consciousness."
+- Art and Consciousness — the proto-technoetic seed: a transition "from materialist culture" toward "the spiritual in art"; art reaching out to "other operational modes of consciousness."
 - [[New Media Art]] — EXTENDED from the Ascott pole: his call to extend video's technology "to permit a more transactional, participative behaviour on the part of the observer."
 - [[Art as Experiential Technology]] — EXTENDED: Ascott's field theory makes the viewer's experience/behaviour constitutive of the work.
 - [[Reciprocal Communication]] — EXTENDED: the participator / two-system matrix replaces the one-way sending/receiving of messages.
@@ -44,11 +44,11 @@ For the vault this chapter is the strongest single primary-text anchor for EXTEN
 
 ## Key Arguments
 
-- [[Art is a behavioural field in which the viewer generates meaning]] — the sender→receiver model is replaced by a two-system matrix; meaning is negotiated, not transmitted, so the participator is constitutive.
-- [[Formalist modernism is Newtonian and therefore faux modernist]] — despite claiming to overthrow the Newtonian worldview, formalist modernism is "totally Newtonian" — linear, irreversible, progress-bound — and so not truly modern.
-- [[The language of a field theory of art comes from cybernetics physics and consciousness research]] — the new paradigm needs "new terms, a new language, a new set of metaphors," found not "among 'art' terms at all" but in Wiener, Heisenberg, Eco, Vallée, and Capra.
-- [[The art participator is the quantum observer the consciousness is part of the observed]] — the measurement-problem insight (the observer participates in the observed) and the cybernetic insight (information = transmission of alternatives) ground the participator ontologically.
-- [[Networking is the antithesis of reductionism and the postmodernist condition is inconclusive]] — a connective network of ideas cannot be closed without betraying its form; inconclusiveness is constitutive, not a failure.
+- Art is a behavioural field in which the viewer generates meaning — the sender→receiver model is replaced by a two-system matrix; meaning is negotiated, not transmitted, so the participator is constitutive.
+- Formalist modernism is Newtonian and therefore faux modernist — despite claiming to overthrow the Newtonian worldview, formalist modernism is "totally Newtonian" — linear, irreversible, progress-bound — and so not truly modern.
+- The language of a field theory of art comes from cybernetics physics and consciousness research — the new paradigm needs "new terms, a new language, a new set of metaphors," found not "among 'art' terms at all" but in Wiener, Heisenberg, Eco, Vallée, and Capra.
+- The art participator is the quantum observer the consciousness is part of the observed — the measurement-problem insight (the observer participates in the observed) and the cybernetic insight (information = transmission of alternatives) ground the participator ontologically.
+- Networking is the antithesis of reductionism and the postmodernist condition is inconclusive — a connective network of ideas cannot be closed without betraying its form; inconclusiveness is constitutive, not a failure.
 
 ## Important Definitions
 
@@ -58,16 +58,16 @@ For the vault this chapter is the strongest single primary-text anchor for EXTEN
 
 ## Important Metaphors / Symbols
 
-- [[The Horizontal Surface]] — the table-top / arena as the cosmic, transactional, bird's-eye plane of participatory art, opposed to the vertical painting "on the wall."
-- [[Art as an Arrow to the Future]] — formalist modernism "moving through time like an arrow, directed to the future."
-- [[The Artwork as Matrix]] — a matrix between two behaviours; a "field of psychic probability, highly entropic."
-- [[Mirror Mirror on the Wall]] — the vertical painting plane as a fixed, answer-giving mirror reflecting given values.
-- [[Closing the Loop]] — the feedback figure used to mean reconnecting postmodern art to early modernism's pre-materialist, spiritual aspirations.
-- [[Laying Out the Threads of a Network]] — the essay's self-description and method-as-form figure (vs "tying up loose ends").
+- The Horizontal Surface — the table-top / arena as the cosmic, transactional, bird's-eye plane of participatory art, opposed to the vertical painting "on the wall."
+- Art as an Arrow to the Future — formalist modernism "moving through time like an arrow, directed to the future."
+- The Artwork as Matrix — a matrix between two behaviours; a "field of psychic probability, highly entropic."
+- Mirror Mirror on the Wall — the vertical painting plane as a fixed, answer-giving mirror reflecting given values.
+- Closing the Loop — the feedback figure used to mean reconnecting postmodern art to early modernism's pre-materialist, spiritual aspirations.
+- Laying Out the Threads of a Network — the essay's self-description and method-as-form figure (vs "tying up loose ends").
 
 ## Major Tensions
 
-- [[Form vs Behaviour]] — the foundational opposition: "not form but behaviour."
+- Form vs Behaviour — the foundational opposition: "not form but behaviour."
 - [[Material vs Immaterial]] — "transition from materialist culture" toward "the spiritual in art" (Ascott's consciousness-inflected pole; EXTENDS the existing multi-author tension).
 - [[One-Way Stimulation vs Two-Way Communication]] — the one-way information model vs the two-system meaning-generating matrix (corroborates the Burnham/Ascott cluster from the Ascott side).
 - [[Determinism vs Randomness]] — formalist modernism's linear arrow vs the reversible "cyclical universe of interactions" associated with the new physics and indeterminacy.
@@ -100,7 +100,7 @@ Relevant passage:
 
 > I would like to look at the attributes of a paradigm for art, a field theory that would replace the formalist modernist aesthetic. It takes as its focus not form but behaviour
 
-Supports: [[A Field Theory of Art]], [[Form vs Behaviour]], [[Formalist Modernism (Ascott)]] — the essay's thesis statement: a behaviour-centred paradigm displacing the formalist modernist aesthetic.
+Supports: [[A Field Theory of Art]], Form vs Behaviour, [[Formalist Modernism (Ascott)]] — the essay's thesis statement: a behaviour-centred paradigm displacing the formalist modernist aesthetic.
 Confidence: Directly stated.
 
 ### Citation 2
@@ -109,7 +109,7 @@ Relevant passage:
 
 > it looks at a system in which the artwork is a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer.
 
-Supports: [[The Artwork as Matrix]], [[The Participator]], [[Art is a behavioural field in which the viewer generates meaning]], [[Reciprocal Communication]] — the artwork as a two-system matrix in which meaning is the viewer's responsibility.
+Supports: The Artwork as Matrix, [[The Participator]], Art is a behavioural field in which the viewer generates meaning, [[Reciprocal Communication]] — the artwork as a two-system matrix in which meaning is the viewer's responsibility.
 Confidence: Directly stated.
 
 ### Citation 3
@@ -127,7 +127,7 @@ Relevant passage:
 
 > Postmodernist art, by encompassing these qualities, presents a connective paradigm, which in turn demands a connective criticism.
 
-Supports: [[Connective Paradigm]], [[Postmodernist Art (Ascott)]] — postmodernist art as the connective paradigm and its demand for a connective criticism.
+Supports: Connective Paradigm, [[Postmodernist Art (Ascott)]] — postmodernist art as the connective paradigm and its demand for a connective criticism.
 Confidence: Directly stated.
 
 ### Citation 5
@@ -136,7 +136,7 @@ Relevant passage:
 
 > Formalist modernism was explicitly a one-way street, stylistically irreversible, always rushing for the future, while insisting on maintaining an overall “modernist” orthodoxy. Even in its own terms, then, it was “faux modernist.”
 
-Supports: [[Formalist Modernism (Ascott)]], [[Formalist modernism is Newtonian and therefore faux modernist]] — the "faux modernist" charge against linear, irreversible modernism.
+Supports: [[Formalist Modernism (Ascott)]], Formalist modernism is Newtonian and therefore faux modernist — the "faux modernist" charge against linear, irreversible modernism.
 Confidence: Directly stated.
 
 ### Citation 6
@@ -145,7 +145,7 @@ Relevant passage:
 
 > Norbert Wiener recognized the prime concept of semantic alternatives, seeing the transmission of information as “impossible save as a transmission of alternatives.” In both physics and cybernetics, the importance of the observer as participator in creating meaning is recognized. The physicist knows that his observational behaviour and consciousness are a part of what he is observing.
 
-Supports: [[Information]], [[Cybernetics]], [[The art participator is the quantum observer the consciousness is part of the observed]], [[The Observer]] — the Wiener citation and the physicist/participator equivalence.
+Supports: [[Information]], [[Cybernetics]], The art participator is the quantum observer the consciousness is part of the observed, [[The Observer]] — the Wiener citation and the physicist/participator equivalence.
 Confidence: Directly stated.
 
 ### Citation 7
@@ -154,7 +154,7 @@ Relevant passage:
 
 > We are in transition from materialist culture to one in which value is put upon the full dimensions of personal, psychic, and social life. In moving towards the spiritual in art, the postmodernist artist is simply closing the loop to the early aspirations of formalist modernism before it became trapped in a preoccupation with materialism.
 
-Supports: [[Art and Consciousness]], [[Material vs Immaterial]], [[Closing the Loop]], [[Re-enchantment]] — the materialist→spiritual transition (Ascott's pole on the Material vs Immaterial tension) and the feedback figure of "closing the loop."
+Supports: Art and Consciousness, [[Material vs Immaterial]], Closing the Loop, [[Re-enchantment]] — the materialist→spiritual transition (Ascott's pole on the Material vs Immaterial tension) and the feedback figure of "closing the loop."
 Confidence: Directly stated.
 
 ### Citation 8
@@ -163,7 +163,7 @@ Relevant passage:
 
 > While the painting on the wall looks back only at us, reflecting given values, assertive of orthodoxy (especially the orthodoxy of formalist modernism), the arena and the table-top have a more cosmic outlook, facing up, not only to us, but to the whole universe.
 
-Supports: [[The Horizontal Surface]], [[Mirror Mirror on the Wall]] — Ascott's signature spatial metaphor of the horizontal (cosmic, transactional) surface against the vertical (orthodox, closed) painting plane.
+Supports: The Horizontal Surface, Mirror Mirror on the Wall — Ascott's signature spatial metaphor of the horizontal (cosmic, transactional) surface against the vertical (orthodox, closed) painting plane.
 Confidence: Directly stated.
 
 ### Citation 9
@@ -172,5 +172,5 @@ Relevant passage:
 
 > But, finally, like this essay, any field theory of art must be inconclusive. I have not sought to tie up loose ends, so much as to lay out the threads for a multidimensional network of ideas. Networking is the antithesis of reductionism, and to be inconclusive in this sense is the essence of the postmodernist condition.
 
-Supports: [[Networking is the antithesis of reductionism and the postmodernist condition is inconclusive]], [[Connective Paradigm]], [[Laying Out the Threads of a Network]] — the method-as-form commitment: networking against reduction, inconclusiveness as constitutive.
+Supports: Networking is the antithesis of reductionism and the postmodernist condition is inconclusive, Connective Paradigm, Laying Out the Threads of a Network — the method-as-form commitment: networking against reduction, inconclusiveness as constitutive.
 Confidence: Directly stated.

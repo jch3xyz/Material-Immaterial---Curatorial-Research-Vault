@@ -6,7 +6,7 @@ sources:
   - source_file: "raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics.md"
     passage: "the conceptual idea of Ascott's telematic art—that electronic telecommunications technologies may contribute to the creation of a networked consciousness that is greater than the sum of its parts—is an integral part of his work and the history of the genre."
 related_arguments:
-  - "[[The vision of art has shifted from the field of objects to the field of behaviour]]"
+  - "The vision of art has shifted from the field of objects to the field of behaviour"
   - "[[The decentralized structure of telematic networks is subversive]]"
 tensions:
   - "[[Material vs Immaterial]]"
@@ -52,7 +52,7 @@ The claim is scaffolded by two speculative consciousness theories Shanken names 
 
 ## Related Arguments
 
-- [[The vision of art has shifted from the field of objects to the field of behaviour]] — the prior move: once art is behaviour/process rather than object, the network's distributed mind can *be* the work; network consciousness is the consciousness-register of the object→behaviour shift.
+- The vision of art has shifted from the field of objects to the field of behaviour — the prior move: once art is behaviour/process rather than object, the network's distributed mind can *be* the work; network consciousness is the consciousness-register of the object→behaviour shift.
 - [[The decentralized structure of telematic networks is subversive]] — the political corollary: the same "no centre, no hierarchy" architecture that produces collective consciousness subverts solitary authorship and centralized institutions.
 
 ## Tensions

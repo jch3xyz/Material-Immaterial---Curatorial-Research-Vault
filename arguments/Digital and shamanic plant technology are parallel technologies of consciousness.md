@@ -6,7 +6,7 @@ sources:
   - source_file: "raw/Ascott - Telematic Embrace/30 Weaving the Shamantic Web: Art and Technologies in the .md"
     passage: "Here technology plays an important part in the experience of “double consciousness,” just as it is clearly integral to our emergent faculty of cyberception and the double gaze."
 related_arguments:
-  - "[[The prosthesis of vision constructs what it envisions collapsing the material and immaterial]]"
+  - "The prosthesis of vision constructs what it envisions collapsing the material and immaterial"
   - "[[For the artist consciousness is to be transformed not explained]]"
 tensions:
   - "[[Material vs Immaterial]]"
@@ -50,9 +50,9 @@ The conclusion folds the parallel into Ascott's signature coinage: through bio-t
 
 ## Related Arguments
 
-- [[The prosthesis of vision constructs what it envisions collapsing the material and immaterial]] — the material/immaterial-collapse argument that the double-consciousness fieldwork grounds.
+- The prosthesis of vision constructs what it envisions collapsing the material and immaterial — the material/immaterial-collapse argument that the double-consciousness fieldwork grounds.
 - [[For the artist consciousness is to be transformed not explained]] — the master technoetic thesis this parallel serves; consciousness as the field of art.
-- [[Telematic art must remove the second observer and become an audienceless enactment of mind]] — the *pagé*'s ritual ("enactment, not performance") supplies the model.
+- Telematic art must remove the second observer and become an audienceless enactment of mind — the *pagé*'s ritual ("enactment, not performance") supplies the model.
 
 ## Tensions
 

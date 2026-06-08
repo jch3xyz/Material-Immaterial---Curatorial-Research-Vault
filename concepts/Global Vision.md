@@ -46,7 +46,7 @@ Crucially, Global Vision is **produced, not merely received**. "Telematic cultur
 
 - [[Network Consciousness]] — the **consciousness** register of the same network; Global Vision is its **perceptual** correlate. Kept distinct by design (the consciousness note vs. the perception note); the network's "subtle body"/"noosphere"/"planetary consciousness" is consciousness, while its "distributed sensorium … holistic, integrative viewing" is perception.
 - [[Cyberception]] — Ascott's **later refinement** (later chapters) of telematic perception; Global Vision is the earlier, broader formulation in ch. 20. Cross-linked as the maturation of the same perceptual thesis.
-- [[Telematic Art]] / [[Telematic Culture]] — the practice and the cultural formation whose perceptual register Global Vision names.
+- [[Telematic Art]] / [[Telematic Art]] — the practice and the cultural formation whose perceptual register Global Vision names.
 - [[Distributed Cognition]] — Global Vision is, in effect, distributed *perception*: a sensorium spread across human and artificial nodes.
 - [[The Global Village]] — McLuhan's planetary, retribalizing perceptual field that Ascott's horizontal "global vision" extends and digitizes.
 - [[The Technological Extension of Consciousness]] — McLuhan's electric extension of the central nervous system; Ascott's "artificial extension of human intelligence and perception" is its perceptual specification.

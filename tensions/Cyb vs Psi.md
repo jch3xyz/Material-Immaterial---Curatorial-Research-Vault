@@ -12,7 +12,7 @@ related_concepts:
   - "[[Psibernetics]]"
   - "[[The Psibernetic Arch]]"
   - "[[Cybernetics]]"
-  - "[[Cybernetic Art]]"
+  - "[[The Cybernetic Vision]]"
   - "[[Feedback Loops]]"
 confidence: medium
 last_updated: 2026-06-08
@@ -31,7 +31,7 @@ The contrast is crisp and deliberately symmetrical: *Directly stated* — "ESP i
 
 ## Why It Matters
 
-The tension is the load-bearing structure of [[Psibernetics]], Ascott's neologism fusing *psi* and *cyb*. It frames the whole "Visionary Theories of Art, Technology, and Consciousness" program of *Telematic Embrace* at its 1970 seed-point: cybernetic, behavioural art (the [[Cybernetic Art]] / feedback pole, the *other* 1960s pole to Burnham's [[Systems Esthetics]]) is here wedded not yet to telecommunications networks but to *psychic* communication. Holding both poles as one "whole system of prediction, control, and communication" is what lets Ascott treat ESP as the limit-case of cybernetic [[Feedback Loops]] — "more instant than instant electronic communications, because it involves no media" — and so anticipates his later move from feedback to [[Network Consciousness]] and the network-as-prosthesis-of-mind. The cyb side connects to the vault's [[Information]] / [[Pattern and Randomness]] (organisation vs entropy) themes; the psi side's stronger claims (an "instant global sympathy, a galactic sympathy perhaps") remain Ascott's avowedly visionary register and are labelled *Speculative connection* throughout.
+The tension is the load-bearing structure of [[Psibernetics]], Ascott's neologism fusing *psi* and *cyb*. It frames the whole "Visionary Theories of Art, Technology, and Consciousness" program of *Telematic Embrace* at its 1970 seed-point: cybernetic, behavioural art (the [[The Cybernetic Vision]] / feedback pole, the *other* 1960s pole to Burnham's [[Systems Esthetics]]) is here wedded not yet to telecommunications networks but to *psychic* communication. Holding both poles as one "whole system of prediction, control, and communication" is what lets Ascott treat ESP as the limit-case of cybernetic [[Feedback Loops]] — "more instant than instant electronic communications, because it involves no media" — and so anticipates his later move from feedback to [[Network Consciousness]] and the network-as-prosthesis-of-mind. The cyb side connects to the vault's [[Information]] / [[Pattern and Randomness]] (organisation vs entropy) themes; the psi side's stronger claims (an "instant global sympathy, a galactic sympathy perhaps") remain Ascott's avowedly visionary register and are labelled *Speculative connection* throughout.
 
 ## Authors and Books That Discuss It
 
@@ -42,7 +42,7 @@ The tension is the load-bearing structure of [[Psibernetics]], Ascott's neologis
 - [[Psibernetics]] — the coinage whose two poles this tension *is*; the named synthesis.
 - [[The Psibernetic Arch]] — the rainbow-arch metaphor that figures the union of the two poles.
 - [[Cybernetics]] — the cyb pole; Ascott extends it to the behavioural quality of twentieth-century art and to the medialess limit of feedback.
-- [[Cybernetic Art]] — Ascott's behavioural/participatory art at the feedback pole; distinct from, and cross-linked to, Burnham's [[Systems Esthetics]].
+- [[The Cybernetic Vision]] — Ascott's behavioural/participatory art at the feedback pole; distinct from, and cross-linked to, Burnham's [[Systems Esthetics]].
 - [[Feedback Loops]] — ESP framed as the perfect (medialess) limit of social feedback.
 - [[Information]] · [[Pattern and Randomness]] — the cyb-pole vocabulary of organisation and entropy ("Cybernetics is universal, but entropic").
 - [[Network Consciousness]] — the later development of the psi pole's "instant global sympathy" once telecommunications replaces telepathy.

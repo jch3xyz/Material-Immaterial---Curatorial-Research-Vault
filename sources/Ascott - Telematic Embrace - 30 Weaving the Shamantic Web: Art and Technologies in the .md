@@ -51,7 +51,7 @@ The chapter also carries Ascott's strongest single statement of the material/imm
 - [[Digital and shamanic plant technology are parallel technologies of consciousness]] — the structuring analogy: VR labs and the ayahuasca ritual both produce a double consciousness and a double gaze.
 - [[The prosthesis of vision constructs what it envisions so material and immaterial lose their distinction]] — the STM both images and manipulates single atoms; seeing and building fuse; the categorical distinction collapses.
 - [[Telematic art must remove the second observer and the phantom audience]] — the gallery-installed interactive work is re-objectified by a "second observer"; the cure is an audience-less enactment of mind on the model of the *pagé*'s non-public ritual.
-- [[Digital technique reduces art to craft replacing meaning with special effects]] — the opening polemic; a new Arts and Crafts "dumbing down" in which technique displaces the creation of meaning and value.
+- Digital technique reduces art to craft replacing meaning with special effects — the opening polemic; a new Arts and Crafts "dumbing down" in which technique displaces the creation of meaning and value.
 
 ## Important Definitions
 
@@ -182,7 +182,7 @@ Relevant passage:
 
 > the impact on art practice of technology, especially digital and communications technology, has been to reduce art in many cases to a form of craft in which polished technique or skilful programming, leading to dazzling special effects, have come to replace the creation of meaning and values.
 
-Supports: The opening polemic [[Digital technique reduces art to craft replacing meaning with special effects]] and its William Morris / Arts and Crafts analogy. Confidence: Directly stated.
+Supports: The opening polemic Digital technique reduces art to craft replacing meaning with special effects and its William Morris / Arts and Crafts analogy. Confidence: Directly stated.
 
 ### Citation 12
 

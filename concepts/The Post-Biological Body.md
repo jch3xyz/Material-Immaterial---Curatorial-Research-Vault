@@ -14,7 +14,7 @@ related:
   - "[[Posthumanism]]"
   - "[[Cyberception (Ascott)]]"
   - "[[Moistmedia (Ascott)]]"
-  - "[[Technoetics (Ascott)]]"
+  - "[[Technoetics]]"
   - "[[The Telematic Embrace]]"
   - "[[Transcending Biology]]"
 opposes:
@@ -44,13 +44,13 @@ Two clarifications matter. First, Ascott's "post-biological" is *not* an exit fr
 
 ## Authors and Variants
 
-- **[[Roy Ascott]]** — the post-biological body as interface: the networked erasure of the Cartesian body re-materialises into a bionic, prosthetic, transformable corporeality whose interface is set within the brain; the natural/artificial boundary dissolves technologically, conceptually, and spiritually. The body is a cybernetic system "seeking always the perfectibility of systems." Cross-linked to [[Cyberception (Ascott)]], [[Moistmedia (Ascott)]], and [[Technoetics (Ascott)]] as the faculty, substrate, and knowledge-form of this body.
+- **[[Roy Ascott]]** — the post-biological body as interface: the networked erasure of the Cartesian body re-materialises into a bionic, prosthetic, transformable corporeality whose interface is set within the brain; the natural/artificial boundary dissolves technologically, conceptually, and spiritually. The body is a cybernetic system "seeking always the perfectibility of systems." Cross-linked to [[Cyberception (Ascott)]], [[Moistmedia (Ascott)]], and [[Technoetics]] as the faculty, substrate, and knowledge-form of this body.
 
 ## Related Concepts
 
 - [[Cyberception (Ascott)]] — Ascott names this "the postbiological faculty"; the post-biological body is the corporeality that exercises it.
 - [[Moistmedia (Ascott)]] — the substrate (bits, atoms, neurons, genes) in which the post-biological body is materially recombined; "post-biological life" meets cyberspace in the moist.
-- [[Technoetics (Ascott)]] — the "new knowledge of the world" and "new definitions of life and human identity" that the post-biological body is built to inhabit.
+- [[Technoetics]] — the "new knowledge of the world" and "new definitions of life and human identity" that the post-biological body is built to inhabit.
 - [[The Telematic Embrace]] — the converged field of computing and telecommunications whose erasure of the bounded self triggers the re-materialisation.
 - [[The Cyborg]] — Ascott's bionic, prosthetic, machine-merged body is an artist's-eye cyborg (cross-link to Haraway's organism/machine breach and to [[Cyborg Art]]).
 - [[Embodiment]] — Ascott insists this is a *new embodiment*, not disembodiment, converging with Hayles's claim that there is only ever different embodiment.
