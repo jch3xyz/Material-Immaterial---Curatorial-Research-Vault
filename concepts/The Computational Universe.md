@@ -12,6 +12,9 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]]"
+  - "[[raw/Ascott - Telematic Embrace/32 Technoetic Aesthetics: 100 Terms and Definitions for th]]"
 related:
   - "[[Posthumanism]]"
   - "[[The Body as Data]]"
@@ -30,8 +33,9 @@ authors:
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # The Computational Universe
@@ -130,6 +134,12 @@ The terminus is Epoch Six, where the engineer's project becomes a cosmology. "In
 Burnham reaches a version of the computational-universe thesis seventeen years before Haraway and three decades before the digital-physics writers in this note — not from cybernetics' history or from physics, but from the art-historical argument of *Beyond Modern Sculpture* (1968), whose spine is the migration of sculpture "from the object to the system." His most pointed claim flattens the ontological boundary the whole worldview depends on: reporting the consensus "in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness." `Directly stated`. This is the same form-over-matter inversion [[Material vs Immaterial|Hayles diagnoses]] and the same premise [[Ray Kurzweil]] builds on when he treats inert matter as latent computation to be *organized* — for Burnham, living and nonliving differ only in the organization (the *complexity*) of matter, so the line between organism and machine is one of degree, not kind. Read alongside the cosmic-computer claims already in this note (Fredkin's reality-as-software, Lloyd's universe-as-computer, Harari's cosmic data-processing system), Burnham supplies the art-world's early statement of the move: once matter is just "an ascending scale of complexity," consciousness and the cosmos become matters of organization rather than substance. `Interpretive synthesis`.
 
 In the Introduction the cosmological frame is explicitly informational-thermodynamic. Burnham reports the cyberneticist's definition of "technology as the development of pockets of decreasing entropy on a planet where the general level of entropy is rising," and glosses Kenneth Boulding's image of the universe "like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art." `Directly stated`. The universe here is not yet a computer, but it is already read as a system of entropy and organization — local order purchased against rising global disorder — which is the cybernetic substrate from which the later "information is king" cosmology in this note grows. Burnham's place in the cluster is therefore as the earliest, art-theoretical anticipation: the cosmos as decreasing-entropy systems (Boulding, Introduction) and the collapse of the living/nonliving distinction into organizational complexity (Chapter 8) prefigure, in 1968, the worldview Hayles demystifies, O'Gieblyn diagnoses, Harari preaches, and Kurzweil sets out to build. `Interpretive synthesis`.
+
+## Roy Ascott (Telematic Embrace)
+
+Ascott reaches the computational-universe cluster from a direction none of the others take: not the demystifier (Hayles), the diagnostician (O'Gieblyn), the preacher (Harari), or the engineer (Kurzweil), but the *technoetic artist* for whom the informational cosmos is fundamentally a **cosmos of consciousness**. Where the writers already in this note install *information* as the substance of reality, Ascott inflects the same field-and-network picture toward *mind*. In "Concerning Nets and Spurs" (1985) he recovers the weaving of networks as "an essential metaphor of creation in the universe and in human action," and grounds it in the same quantum picture O'Gieblyn's "it from bit" rests on — Capra's reading in which "particles ... are probability patterns, interconnections in an inseparable cosmic web." The cosmos here is not a computer running programs but a relational field of interconnections, and the planetary telematic network is its technological double: a diffused "mind at large" in which "A whole new field of consciousness is forming." This is the same network-model-of-the-universe the digital-physics writers reach, but read as a fabric of consciousness rather than of code — Ascott's seed of what he will later call **technoetics**, the fusion of technology and consciousness. `Interpretive synthesis` across ch. 16.
+
+In "Beyond Time-Based Art" (1990) Ascott makes the art–physics mapping explicit, holding that "The models and even the terminology of quantum physics can be put to work in the development of new descriptions of art practice in the telematic environment." His figure for the machine that grasps this field is not the cosmic computer but **the computer as an extra-sensory device** — "dealing invisibly with the invisible; that is, with all the connections, systems, fields, and forces ... which lie outside the rather gross level of material perception afforded by our natural senses," through which "we can hope to glimpse the unseeable, to grasp chaos and the secret order in the disordered." Computation, on this account, is a way of *perceiving* the field-cosmos rather than of *being* it — which distinguishes Ascott from Kurzweil's "convert the matter of the cosmos" and from Fredkin's "reality is software." His most pointed difference from the literalist positions in this note comes in "Technoetic Aesthetics" (1996), where mind, not information, is made the cosmic constant — but a mind that still needs matter: "Mind is supervenient on the activity of its interfaces, whether organic or telematic, and although mind is ubiquitous and always present, it requires matter to become manifest." Where Fredkin holds that reality *is* a program and Seth Lloyd that the universe *is* a computer, Ascott holds that consciousness is the ubiquitous field and computation merely the interface that lets it appear — a technoetic re-enchantment closer to O'Gieblyn's [[Panpsychism]] pole (mind, not information, as substrate) than to the data-cosmos of [[Dataism]]. His closing turn names the frontier directly: "It is not the dark matter of outer space that interests us so much as the dark matter of consciousness. Maybe it's the same thing." `Interpretive synthesis` across ch. 16, 19, 32.
 
 ## Sources
 
@@ -451,3 +461,18 @@ Relevant passage:
 > The universe then is seen to be like a man, who is spending his capital so that his total capital in the form of potential continually diminishes, but who continually builds up the diminishing capital into ever more elaborate works of art.
 
 Supports: Boulding's spendthrift-artist image of the cosmos — the universe read as a system of diminishing potential and rising order, anticipating the cluster's view of the cosmos as an organizing/information-processing system. Label: `Directly stated`.
+
+### Source 30
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]] , [[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]] , [[raw/Ascott - Telematic Embrace/32 Technoetic Aesthetics: 100 Terms and Definitions for th]]
+Relevant passage:
+
+> particles ... are probability patterns, interconnections in an inseparable cosmic web. (ch. 16, Capra quoted by Ascott)
+
+> The computer is an extra-sensory device dealing invisibly with the invisible; that is, with all the connections, systems, fields, and forces ... which lie outside the rather gross level of material perception afforded by our natural senses. (ch. 19)
+
+> Mind is supervenient on the activity of its interfaces, whether organic or telematic, and although mind is ubiquitous and always present, it requires matter to become manifest. (ch. 32)
+
+Supports: Ascott's technoetic restatement of the computational-universe cluster — the cosmos as a relational field ("inseparable cosmic web"), computation as an extra-sensory means of perceiving that field rather than the substance of it, and mind (not information) made the ubiquitous cosmic constant that nonetheless "requires matter to become manifest." Grounds the Roy Ascott (Telematic Embrace) section and its placement of Ascott nearer the [[Panpsychism]] pole than the data-cosmos of [[Dataism]]; the cross-readings against Fredkin/Lloyd/Kurzweil are labeled `Interpretive synthesis`. Label: `Directly stated` (each quote verbatim from the analysis files; the Capra fragment uses the clean contiguous substring flagged for the OCR break in ch. 16).

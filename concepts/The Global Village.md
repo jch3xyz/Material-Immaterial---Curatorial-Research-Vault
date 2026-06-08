@@ -12,6 +12,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/23 Chapter 19 - Wheel, Bicycle, and Airplane]]"
   - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/17 Art and Education in the Telematic Culture]]"
 related:
   - "[[Acceleration]]"
   - "[[Hypercommunication]]"
@@ -23,8 +26,9 @@ opposes:
   - "[[Hell of the Same]]"
 authors:
   - "[[Marshall McLuhan]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-08
 ---
 
 # The Global Village
@@ -49,6 +53,12 @@ Within the vault this distinguishes McLuhan sharply from the later critics who i
 - **Variant images (McLuhan, same concept).** McLuhan glosses the village through cognate figures rather than a separate definition: "we wear all mankind as our skin"; the human family as "a single consciousness"; involvement "in The Family of Man"; "person-to-person relations as if on the smallest village scale." These are not distinct concepts but restatements; the vault houses them under this single note. `Directly stated`
 - **Resonances elsewhere in the vault (not McLuhan's term).** Later authors describe a comparable planetary connectedness on different premises — Harari's [[Society as Algorithm]] and [[Intersubjective Reality]], and his [[Large-Scale Flexible Cooperation]] as the engine of species-scale coordination; Haraway's planetary [[The Cyborg]]; Han's [[Hypercommunication]]. These are cross-author resonances, not uses of McLuhan's phrase. `Speculative connection`
 
+## Roy Ascott (Telematic Embrace)
+
+Ascott takes McLuhan's global village as the explicit prophetic frame for telematic art and pushes it forward one historical stage — from the *electric* implosion of broadcast media to the *computer-mediated* network — renaming the result "network consciousness." Where McLuhan had electricity extend "our central nervous system itself in a global embrace," Ascott has the convergence of computers and telecommunications constitute "a paradigm change in our culture and... what may amount to a quantum leap in human consciousness." The village's organic, retribalized "single consciousness" becomes, in Ascott, a distributed and emergent field: "In a sense, there is one wholeness, the flow of the network in which every idea is a part of every other idea, in which every participant reflects every other participant in the whole." He grounds this in the same predecessor — quoting McLuhan directly on electric implosion and on the fact that, with electric information media, "No detachment of frame is possible" — and routes the village's planetary scale through Teilhard's noosphere ("a thinking layer, enveloping the biosphere of the earth") and Russell's "global brain," "a shift in human ego-centred awareness to a unified field of shared awareness." This is McLuhan's depth-involvement and abolished detachment carried into the network: networking, Ascott writes, "puts you, in a sense, out of body, linking your mind into a kind of timeless sea." `Directly stated`
+
+In the 1988 "Art and Education in the Telematic Culture" he gives the village its most literal telematic restatement. Borrowing Bateson's claim that "human plus computer system plus environment constitutes a thinking system," Ascott argues that "With the convergence of computers and telecommunications, the 'thinking system' becomes planetary," until "we can no longer perceive ourselves as isolated individuals or cultures" — and asks, in a line that could caption McLuhan's own image, "Is it too fanciful to suppose that we are approaching the next stage of planetary awareness—global consciousness?" He even supplies the village its self-portrait: the planet, seeing the whole-earth image "beaming images of the whole earth back to us," stands "at the stade du miroir," gaining "a sense of self." This is best read as extension rather than mere repetition: McLuhan's village is a condition that electric speed *imposes* on a retribalized humanity, whereas Ascott's network consciousness is something the participatory, dispersed-authorship structure of telematic networks is meant to *cultivate* — a difference in agency that the vault tracks under [[Roy Ascott and Marshall McLuhan]]. `Interpretive synthesis`
+
 ## Related Concepts
 
 - [[Acceleration]] — McLuhan's electric speed is the mechanism that contracts the globe; the vault treats his media-driven acceleration as a speculative complement to Han's structural sense of the term.
@@ -68,6 +78,7 @@ Within the vault this distinguishes McLuhan sharply from the later critics who i
 - McLuhan's planetary contraction and Han's [[Acceleration]] / [[Hypercommunication]] describe the same abolition of distance with opposite affect. Do their causal arrows run in opposite directions, or are they describing the same process under hope and under despair?
 - If electricity "decentralizes" and "create[s] centers everywhere," is the global village genuinely egalitarian, or does abolishing the margin merely relocate power? (Compare Haraway's "informatics of domination" and Han's [[Digital Panopticon]].)
 - Does "depth involvement" actually heighten responsibility, as McLuhan claims, or does total, instantaneous exposure to "the concerns of all other men" produce numbness — the "Narcissus as Narcosis" he describes elsewhere in the same book?
+- Does Ascott's claim that telematic convergence makes "the 'thinking system'... planetary" realize McLuhan's village or merely re-stage it under a new technology? If the village is a *condition imposed* by electric speed and network consciousness a *capacity cultivated* by participatory networks, is the second still McLuhan's idea — or a different polity that only borrows the image?
 
 ## Sources
 
@@ -180,3 +191,14 @@ Relevant passage:
 > Electric media, however, abolish the spatial dimension, rather than enlarge it. By electricity, we everywhere resume person-to-person relations as if on the smallest village scale.
 
 Supports: The clearest mechanism statement — electric media abolish space and restore village-scale, person-to-person relations across the globe. Label: `Directly stated`
+
+### Source 11
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]] , [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/17 Art and Education in the Telematic Culture]]
+Relevant passage:
+
+> With the convergence of computers and telecommunications, the 'thinking system' becomes planetary.
+
+Supports: Ascott extends McLuhan's global village into the telematic era — the electric implosion of broadcast media becomes the computer-mediated network, and the village's planetary "single consciousness" becomes a distributed "network consciousness" / "global consciousness" greater than the sum of its parts. Ascott names McLuhan's global village as his explicit prophetic frame (he quotes McLuhan on electric implosion and that "No detachment of frame is possible"), and asks whether telematic convergence brings "the next stage of planetary awareness—global consciousness." See [[Roy Ascott and Marshall McLuhan]]. Label: `Directly stated`

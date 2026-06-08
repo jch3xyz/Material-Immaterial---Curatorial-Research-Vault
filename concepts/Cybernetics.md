@@ -15,6 +15,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Homeostasis]]"
@@ -32,8 +35,9 @@ authors:
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Cybernetics
@@ -106,6 +110,14 @@ For [[Jack Burnham]], cybernetics enters art as the discipline that consummates 
 Burnham's definition is terse and organizational rather than ontological: "it should be made clear that cybernetics is preeminently the science of organization," "the analysis of linked and interacting systems." On this footing the science of organization becomes the technical ground of [[Cyborg Art]]—"the cybernetic organism as an art form"—and of what he would soon name [[Systems Esthetics]]: an art built from negative feedback, [[Homeostasis|homeostasis]], input and output, and the coupling of system to system. Cybernetics is what lets sculpture cross from the inert, place-bound object to "an interacting assembly" with lifelike properties, the move Burnham reads as sculpture's "next, and perhaps ultimate stage." `Directly stated`
 
 Cybernetics also supplies Burnham's cosmological framing of technology against entropy. He reports the cyberneticist's definition of technology as "the development of pockets of decreasing entropy on a planet where the general level of entropy is rising"—technics as local order bought at the cost of global disorder, the sculpture/system as a low-entropy island. Read alongside the rest of this note, Burnham's reception is the *art-theoretical* register the others presuppose: he takes Wiener's discipline (he opens the cyborg chapter on a Wiener epigraph) and Bertalanffy's general systems theory into the practice of sculpture, anticipating by seventeen years the cyborg that [[Donna Haraway]] would politicize and prefiguring the systems body Hayles later contests. See [[Jack Burnham and N. Katherine Hayles]]. `Strongly implied` (Burnham's quoted passages are directly stated; the cross-author framing of his reception as the art-theoretical register of the same cybernetic synthesis is interpretive synthesis.)
+
+## Roy Ascott (Telematic Embrace)
+
+For [[Roy Ascott]], cybernetics is neither a method, an applied science, nor "robot art" but a *spirit* — *l'esprit cybernétique* — that can inform art and be enriched by it in return. Writing one to two years before [[Jack Burnham|Burnham]]'s *Beyond Modern Sculpture* (his "Behaviourist Art and the Cybernetic Vision" appeared in *Cybernetica* in 1966–67), Ascott stakes out the **participatory, behavioural pole** of 1960s cybernetic art that complements Burnham's object→system spine: where Burnham reads the history of sculpture drifting toward the responsive system, Ascott reads the whole of modern art drifting from a "deterministic vision" toward a feedback loop the spectator completes. He is explicit that "the cybernetic vision in art… is a matter of 'stance,' a fundamental attitude" before it is "a technical or procedural matter," and he defines cybernetics, before it is method, as "a field of knowledge that shapes our philosophy, influences our behaviour, and extends our thought" — citing Pierre de Latil's gloss of it as "the science of the organisation of effects, and of the automatic control of effects." `Directly stated`
+
+Ascott's cybernetics is grounded in the same founders the rest of this note treats — he made "analogue structures" of systems "discussed by C. E. Shannon, [[Norbert Wiener]], A. G. Pask" (the cybernetician Gordon Pask, co-designer with Cedric Price of the Fun Palace), drawing too on W. Ross Ashby's "intelligence amplifier" — but he gives the discipline a normative, perfectibilist cast: "Fundamentally, cybernetics concerns the idea of the perfectibility of systems; it is concerned in practice with the procurement of effective action by means of self-organising systems. It recognises the idea of the perfectibility of man." Its operative principle is the [[Feedback Loops|feedback loop]] that makes "an integral whole of the triad artist/artwork/observer," and it scales, in his speculative [[Cybernetic Art Matrix]] (CAM), to a networked, self-organising institution whose international form "would constitute the creative element in a 'world brain'" — an early seed of the [[The Global Village|global-village]] and network-consciousness themes his later telematic work develops. `Directly stated` (Ascott's quoted passages are directly stated; the cross-author framing of his participatory pole against Burnham's object→system esthetics is interpretive synthesis — the two do not cite each other.)
+
+By 1970, in "The Psibernetic Arch," Ascott pushes the discipline toward its second-order and visionary limits. He restates his art-theoretical contribution — "I have myself contributed the idea of a general behavioural quality in twentieth-century art that admits of cybernetic analysis" — recovers the older genealogy in which "the French physicist A.-M. Ampère intended" *cybernetics* to mean "the science of government… many years before [[Norbert Wiener|Norbert Wiener]]," and then arches cybernetics together with parapsychology: extrasensory perception is "the most perfect form of communication and social feedback imaginable," so that "ESP is instant, but sporadic. Cybernetics is universal, but entropic." This wedding of cybernetic feedback to an observer/participator who completes the system aligns Ascott with the second-order, reflexive turn the rest of this note treats under [[Reflexivity|reflexivity]], while pointing past it toward the consciousness-and-network preoccupations of his telematic art. `Strongly implied` (the quoted passages are directly stated; reading the ESP/feedback and participator material as a second-order inflection is interpretive synthesis.)
 
 ## Sources
 
@@ -317,3 +329,58 @@ Relevant passage:
 > the "elan vital" will be looked upon as the old prime mover, while the Greek "kybernetes" (derived from steersman and the basis of the word cybernetics) becomes the expression of a new and even more effective prime mover.
 
 Supports: Burnham's kybernetes/steersman framing—cybernetics as the successor to vitalism's *élan vital*, the prime mover of an art that simulates the organization of life. Label: `Directly stated`
+
+### Source 20
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> I am referring to the spirit of cybernetics, which may inform art and in turn be enriched by it.
+
+Supports: Ascott's defining move—cybernetics as *l'esprit cybernétique*, a spirit/stance that informs art, not a method or robot art. The keystone of the Ascott section. Label: `Directly stated`
+
+### Source 21
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> Fundamentally, cybernetics concerns the idea of the perfectibility of systems; it is concerned in practice with the procurement of effective action by means of self-organising systems. It recognises the idea of the perfectibility of man
+
+Supports: Ascott's normative/perfectibilist cast on cybernetics as the science of self-organising systems and the perfectibility of man. Label: `Directly stated`
+
+### Source 22
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> The participational, inclusive form of art has as its basic principle "feedback," and it is this loop that makes an integral whole of the triad artist/artwork / observer.
+
+Supports: The feedback loop as cybernetics' operative principle in Ascott's behaviourist art—the artist/artwork/observer triad made whole, the participatory pole of 1960s cybernetic art. Label: `Directly stated`
+
+### Source 23
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]
+Relevant passage:
+
+> I have myself contributed the idea of a general behavioural quality in twentieth-century art that admits of cybernetic analysis.
+
+Supports: Ascott's own statement of his art-theoretical contribution—the behavioural reading of modern art as amenable to cybernetic analysis (the pole complementary to Burnham's systems esthetics). Label: `Directly stated`
+
+### Source 24
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]
+Relevant passage:
+
+> ESP is instant, but sporadic. Cybernetics is universal, but entropic.
+
+Supports: Ascott's crisp characterisation of cybernetics' limits (universal but entropic) as one pole of his "psibernetic arch" wedding cybernetics to parapsychology and pushing feedback toward its second-order/visionary limit. Label: `Directly stated`

@@ -7,6 +7,9 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
 related:
   - "[[Systems Theory]]"
   - "[[Dematerialization]]"
@@ -18,8 +21,9 @@ opposes:
   - "[[Material vs Immaterial]]"
 authors:
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Systems Esthetics
@@ -150,3 +154,36 @@ Relevant passage:
 > It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
 
 Supports: The matter-to-information inversion that makes systems esthetics the art-historical anchor of the Material/Immaterial axis. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> A shift that is endorsed by the observed behavioural tendency of modern art; a shift, in short, towards an art of system and process. This implies that our appreciation of the beautiful, and the delight, stimulation, satisfaction, and regeneration that it induces in us, resides in our perception and awareness of a system rather than an object.
+
+Supports: Ascott's participatory-pole restatement of the object-to-system migration — aesthetic value departs the object and inheres in the system/process; the 1966–67 precursor to Burnham's 1968 systems esthetics. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]
+Relevant passage:
+
+> Art does not reside in the artwork alone, nor in the activity of the artist alone, but is understood as a field of psychic probability, highly entropic, in which the viewer is actively involved, not in an act of closure in the sense of completing a discrete message from the artist (a passive process) but by interrogating and interacting with the system "artwork" to generate meaning.
+
+Supports: The behavioural system the spectator completes — the artwork as a participatory field, not an object; the participatory counterpart to Burnham's object-to-system spine. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]
+Relevant passage:
+
+> When art is a form of behaviour, software predominates over hardware in the creative sphere. Process replaces product in importance, just as system supersedes structure
+
+Supports: Ascott's 1967 "Behaviourables and Futuribles" manifesto line (quoted in Shanken's editorial introduction), naming the same system-over-structure / process-over-product inversion as Burnham's systems esthetics, from the behavioural pole. Label: `Directly stated` (quoted by the editor Edward A. Shanken from Ascott's own essay).

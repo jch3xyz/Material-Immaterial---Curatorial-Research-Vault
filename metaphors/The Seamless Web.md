@@ -5,8 +5,12 @@ target: "The inclusive, nonhierarchical field of management and decision-making 
 source_domain: "A seamless web — an interlaced, edgeless textile of overlapping patterns with no seams, no joints, and no division into separable parts"
 authors:
   - "[[Marshall McLuhan]]"
+  - "[[Roy Ascott]]"
 sources:
   - "[[raw/McLuhan - Understanding Media/31 Chapter 27 - The Telephone - Sounding Brass or Tinkling Symbol]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/23 Telenoia]]"
 related:
   - "[[The Authority of Knowledge]]"
   - "[[Center-Margin Structure]]"
@@ -14,7 +18,7 @@ related:
   - "[[Mechanical vs Electric]]"
   - "[[The Global Village]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-08
 ---
 
 # The Seamless Web
@@ -50,6 +54,12 @@ The mapping turns an architectural image (the pyramid, with its stacked tiers, b
 - [[Center vs Margin]] — the tension the seamless web resolves toward the center pole.
 - [[Mechanical vs Electric]] — the pyramid is the mechanical (lineal, fragmented) form; the web is the electric (inclusive, in-depth) form.
 - [[The Global Village]] — the planetary-scale companion image of the same edgeless, totally involved electric field.
+
+## Roy Ascott (Telematic Embrace)
+
+Where McLuhan applies the seamless web to telephonic management, Ascott (writing two decades later) makes weaving the *master metaphor of telematic art and consciousness itself* — and recovers it as an ancient figure of cosmic creation. For Ascott the network is, at root, a web of no centre and no edge: "Télématique is a decentralising medium; its metaphor is that of a web or net in which there is no centre, or hierarchy, no top nor bottom." This is McLuhan's edgeless, hierarchy-dissolving fabric carried into the medium of computers-plus-telecommunications: the artwork ceases to be a discrete object and "becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network." `Directly stated`
+
+Ascott explicitly grounds the figure in physics, myth, and poststructuralist textual theory — Capra's "cosmic web," Bohm's implicate order, Barthes's text-as-tissue, and the ancient nets of weaving-as-creation. He recovers the net as "an essential metaphor of creation in the universe and in human action," and Capra's reading that "particles ... are probability patterns, interconnections in an inseparable cosmic web" supplies the quantum register of the same seamless fabric. In his later "Telenoia" (1993) the web becomes the figure of a connective, planetary consciousness — *telenoia*, "networked consciousness, interactive awareness, mind at large" — set against the "paranoia of the isolated, alienated self of the old industrial society." So the seamless web travels, across the two authors, from the telephone's management field to a holistic image of mind and meaning woven across the whole network. (The Ascott↔McLuhan affinity here — global village → network consciousness, an edgeless all-at-once field — is `Interpretive synthesis`; the Ascott quotations are `Directly stated`.) See [[Network Consciousness]], [[Telematic Art]], [[Distributed Authorship]], [[Telenoia]], and [[Indra's Net]].
 
 ## Sources
 
@@ -96,3 +106,20 @@ Relevant passage:
 > In an electric structure there are, so far as the time and space of this planet are concerned, no margins. There can, therefore, be dialogue only among centers and among equals. The chain-oi-command pyramids cannot obtain support from electric technology.
 
 Supports: Ties the seamless web to the collapse of the center-margin structure and the disabling of the chain-of-command pyramid. Label: `Directly stated`. (The "chain-oi-command" spelling is reproduced as it appears in the raw OCR'd source.)
+
+### Source 5
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]] , [[raw/Ascott - Telematic Embrace/23 Telenoia]]
+Relevant passage:
+
+> Télématique is a decentralising medium; its metaphor is that of a web or net in which there is no centre, or hierarchy, no top nor bottom.
+
+> art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network.
+
+> This model is part of a larger project in ancient thought that sought to establish the weaving of networks as an essential metaphor of creation in the universe and in human action.
+
+> Telenoia is networked consciousness, interactive awareness, mind at large (to use Gregory Bateson's term).
+
+Supports: Ascott carries McLuhan's edgeless, hierarchy-dissolving "seamless web" into the telematic medium — the decentralising web/net with "no centre, or hierarchy, no top nor bottom," the artwork as a "web of relationships ... in constant flux," weaving as the ancient "metaphor of creation," and (in "Telenoia") the web as the figure of a connective planetary consciousness. Label: `Directly stated` for the Ascott quotations; the McLuhan→Ascott continuity is `Interpretive synthesis`.

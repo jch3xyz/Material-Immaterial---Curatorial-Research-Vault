@@ -124,3 +124,36 @@ Relevant passage:
 > The "bringing to life" of machines, industrial and social systems has become the unconscious obsession of the twentieth-century technician. The "bringing to life" of wood and stone has always been the obsession of the sculptor; however, we live in a period where for the first time the sculptor sees the virtual achievement of his goal through the technician.
 
 Supports: Grounds the system pole's "life-simulating" aspiration in the biotic sources of modern sculpture — the long-standing sculptural urge to bring inert matter (the object) to life is now realizable through the technological system. Label: `Strongly implied`
+
+### Source 7
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]]
+Relevant passage:
+
+> Everything changes ceaselessly; we investigate our world best by first seeing the system or process before evaluating the 'thing.'
+
+Supports: Ascott's 1964 methodological statement of the same opposition — process/system before the "thing"/object — four years before Burnham's *Beyond Modern Sculpture*; the participatory/behavioural precursor to Burnham's object→system thesis. Label: `Directly stated`
+
+### Source 8
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> The vision of art has shifted from the field of objects to the field of behaviour, and its function has become less descriptive and more purposive.
+
+Supports: States the object→behaviour shift as the unifying tendency of modern art; Ascott relocates the "system" pole into the field of behaviour and the feedback loop between artist, artwork, and spectator, complementing Burnham's object-historical reading. Label: `Directly stated`
+
+### Source 9
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]
+Relevant passage:
+
+> Art does not reside in the artwork alone, nor in the activity of the artist alone, but is understood as a field of psychic probability, highly entropic, in which the viewer is actively involved
+
+Supports: By 1980 Ascott's "system" pole is the open, viewer-completed field — art does not reside in the object/artwork alone; the participatory, never-finished counterpart to Burnham's life-simulating interacting assembly. Label: `Directly stated`

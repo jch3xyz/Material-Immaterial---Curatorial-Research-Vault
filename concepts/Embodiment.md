@@ -17,6 +17,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
+  - "[[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment vs Information]]"
@@ -32,8 +35,9 @@ authors:
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Embodiment
@@ -121,6 +125,16 @@ What makes McLuhan a precursor to the vault's embodiment thread, and not merely 
 [[Jack Burnham]] reaches embodiment not as a thesis about the human subject but as a consequence of a change in art: when sculpture stops making transcendent form and starts staging the *experience of perception*, the perceiving body becomes the ground of the work. In the chapter on form exhaustion and the rise of [[Phenomenalism (Burnham)]], Burnham argues that Object/Minimal art shifts "the obligation to 'vitalize' sculpture" onto the viewer, who "not only is free to but must reconstruct the sculpture for himself." Seeing is no longer a detached optical act but, as Burnham puts it, "seeing as essentially an existential act by the observer" — a claim he grounds in Merleau-Ponty, for whom "what arises from the first glance is what Merleau-Ponty called 'carnal intersubjectivity.'" This is the phenomenological undercurrent of the vault's embodiment thread: the work exists only in its enactment by a specific, situated perceiving body, which parallels Hayles's insistence that "an incorporating practice such as a good-bye wave cannot be separated from its embodied medium." See [[Carnal Intersubjectivity (Merleau-Ponty via Burnham)]] for the perceptual relation Burnham names. Confidence: `Directly stated` (the Burnham/Merleau-Ponty quotations); `Interpretive synthesis` (the parallel to Hayles's incorporation).
 
 In the book's final chapter, on robot and cyborg art, Burnham extends the body in the opposite direction — outward into the machine — seventeen years before Haraway. He coins "Cyborg Art (i.e., the cybernetic organism as an art form)" and defines the cyborg directly: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." Burnham's cyborg is thus a body *coupled* to a machine through feedback, a man-machine system rather than a metaphor — the literal, engineering version of the move Haraway later makes politically ("the machine is us, our processes, an aspect of our embodiment") and Hayles diagnoses as the cybernetic erasure of the body. Where Hayles defends embodiment, O'Gieblyn traces the fantasy of its abolition, Haraway affirmatively extends it, and McLuhan grounds it as media-extension, Burnham supplies the earliest primary-art-text instance in the vault of embodiment widened to take the machine in through reciprocal feedback. Confidence: `Directly stated` (the cyborg definition and "Cyborg Art" coinage); `Interpretive synthesis` (the placement against the four-author thread).
+
+## Roy Ascott (Telematic Embrace)
+
+[[Roy Ascott]] reconfigures embodiment from a fifth position: the body is neither defended (Hayles), mourned in its fantasized abolition (O'Gieblyn), affirmatively extended into the machine (Haraway), nor grounded as media-extension (McLuhan), but *interfaced and distributed* into telematic networks until perception itself becomes a post-biological faculty. In "The Architecture of Cyberception," Ascott names this faculty **cyberception** and treats the planetary network as literally part of the sensorium: "The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole." Cyberception is "a qualitative change in our being, a whole new faculty, the post-biological faculty of 'cyberception,'" and it dissolves the bounded individual into the interface: "the sense of the individual is giving way to the sense of the interface. … We are all interface. We are computer-mediated and computer-enhanced." This is McLuhan's "extended central nervous system" carried to the point where the extension reconstitutes the perceiving body itself — embodiment redefined, not abolished, by the network. Confidence: `Directly stated`.
+
+The interface also reorganizes embodiment at the level of the single medium and of the self. In "Photography at the Interface," Ascott locates the change in the viewer's bodily relation to the image — "For the viewer, it's the difference between absorption and immersion" — where the digital, hypermedia image "call[s] for sensory immersion and conceptual navigation on the part of the viewing subject" rather than the bounded absorption of a material picture. And the networked body is no longer singular: telepresence is "the province of the distributed self," so that "human presence becomes virtualised and the individual self is distributed; space becomes virtualised and place becomes distributed" ("Back to Nature II"). Ascott's distributed, disseminated self is a direct challenge to the unitary embodiment the [[The Liberal Humanist Subject|liberal humanist subject]] presupposes, and it is the participatory/connectivist counterpart to Burnham's coupled cyborg body. Confidence: `Directly stated`.
+
+What most distinguishes Ascott from the other authors is that he refuses the material/immaterial opposition embodiment is usually set within. The prostheses and interfaces of the networked condition do not merely amplify the body — "Our prostheses not only amplify and extend the body and its five senses but also augment cognition and memory and subtly transform the personality," until "the line between natural and artificial systems [is rendered] meaningless. We are all becoming, to a greater or lesser extent, bionic." But rather than reading this as the [[The Body as Data|body's reduction to data]] or as Haraway's cyborg politics, Ascott forecasts a *re*materialization — "A marriage of the immaterial and the material" — in which the immaterial body of the network and the material body of biology and nanotechnology converge into a "second-order nature." The bionic, distributed, cyberceptive body is thus, for Ascott, the site where the [[Material vs Immaterial]] hierarchy is not defended or inverted but reconciled. Confidence: `Directly stated` (the cyberception, distributed-self, bionic, and rematerialization quotations); `Interpretive synthesis` (the placement against the four-author thread and the link to the marriage of material and immaterial).
+
+- **[[Roy Ascott]]** — embodiment reconfigured as *interface and distribution*: the cybernet is "part of our sensory apparatus" and "redefines our individual body," cyberception is a "post-biological faculty," "We are all interface," the self is "distributed," and the bionic body points toward "a marriage of the immaterial and the material." A fifth stance distinct from Hayles's defense, O'Gieblyn's critique, Haraway's extension, and McLuhan's media-grounding — the participatory/connectivist body dissolved into and rematerialized through the network. Anchors his sections in [[Material vs Immaterial]], [[Posthumanism]], and [[Distributed Cognition]].
 
 ## Sources
 
@@ -325,3 +339,24 @@ Relevant passage:
 > A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
 
 Supports: Burnham's "Cyborg Art" and his direct definition of the cyborg as a body coupled to a machine through reciprocal feedback — the earliest primary-art-text instance in the vault of embodiment extended outward into the machine (1968), predating Haraway's "the machine is us, our processes, an aspect of our embodiment." Confidence: `Directly stated`
+
+### Source 19
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]] , [[raw/Ascott - Telematic Embrace/21 Photography at the Interface]] , [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]
+Relevant passage:
+
+> The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole.
+
+> Actually, the sense of the individual is giving way to the sense of the interface. ... We are all interface. We are computer-mediated and computer-enhanced.
+
+> For the viewer, it's the difference between absorption and immersion.
+
+> Our prostheses not only amplify and extend the body and its five senses but also augment cognition and memory and subtly transform the personality.
+
+> The self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic.
+
+> A marriage of the immaterial and the material leading to a transcendence over the gross materiality of 'natural,' unmediated life.
+
+Supports: Ascott's reconfiguration of embodiment as interface and distribution — cyberception as a "post-biological faculty," the cybernet redefining the individual body, "We are all interface," the bodily shift from absorption to immersion at the interface, the bionic networked body, and the forecast "marriage of the immaterial and the material." A fifth stance distinct from Hayles's defense, O'Gieblyn's critique, Haraway's extension, and McLuhan's media-grounding; anchors the link to [[Material vs Immaterial]], [[Posthumanism]], and [[Distributed Cognition]]. Confidence: `Directly stated`

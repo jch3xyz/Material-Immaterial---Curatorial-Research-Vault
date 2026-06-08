@@ -14,6 +14,9 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]"
 related:
   - "[[Material vs Immaterial]]"
   - "[[Virtuality]]"
@@ -27,8 +30,9 @@ opposes:
 authors:
   - "[[Lucy Lippard]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Dematerialization
@@ -82,6 +86,12 @@ Burnham's *Beyond Modern Sculpture* (1968) is the **sculptural precursor** to Li
 Burnham's Chapter 1 ("Sculpture's Vanishing Base") makes the drive toward immateriality concrete: the steady "withering away of the base" — the plinth that rooted sculpture to the ground and conferred its aura of presence — is read as "symptomatic" of sculpture's larger departure from the inert, place-bound object. Once "completely liberated from its base," a sculpture "becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase" (`Directly stated`). Chapter 4 ("Form Exhaustion and the Rise of Phenomenalism") names the through-line explicitly: "the dialectical tension within twentieth-century sculpture remains its steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend" — an immateriality driven by the obsolescence of the visual-geometrical scientific model, since "the decline of formalism is the decline of a world fashioned to operate on a strictly visual-geometrical level" (`Directly stated`).
 
 The endpoint is the same value-reweighting Lippard tracks, stated in systems terms: by the final chapter on Cyborg Art, Burnham can write that "with Object Art physical presence is everything, while for Systems Art 'information' is the key factor" (`Directly stated`). Burnham is a **precursor**, not a synonym — his object-to-system migration runs alongside, and 1968-contemporaneous with, Lippard's idea-paramount/material-secondary axis; the interpretive lineage is held in the cross-book note [[Jack Burnham and Lucy Lippard]] (`Interpretive synthesis`).
+
+## Roy Ascott (Telematic Embrace)
+
+Roy Ascott carries dematerialization forward out of the 1960s conceptual moment and into the **data network**: where Lippard de-emphasized the material object in favour of the idea, Ascott's *telematic* art liberates the work from object and location altogether by lodging it in computer-mediated telecommunications. In his editor's introduction Edward Shanken glosses the gain precisely as Lippard's: "Telematics enables tremendous artistic freedom. It permits the artist to liberate art from its conventional embodiment in a physical object located in a unique geographic location" (`Directly stated` — Shanken). In Ascott's own 1984 manifesto "Art and Telematics," the dematerialized work is no longer a thing at all but a process in flux: "art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network" (`Directly stated`). This is dematerialization extended past the conceptual document into the networked, distributed, never-completed artwork — the immateriality not merely of the idea but of the transmissible signal.
+
+Ascott's late "Moist Manifesto" (2000) supplies the dialectical turn that distinguishes him from Lippard's one-directional de-emphasis. He explicitly inherits the same object-to-process history — "Just as the development of interactive media in the past century transformed the world of print and broadcasting, and replaced the cult of the objet d'art with a process-based culture, so, at the start of this century, we see a further artistic shift, as silicon and pixels merge with molecules and matter" — but then **re-materializes** the dematerialized digital into a third, "moist" register: "Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century, a transformative art concerned with the construction of a fluid reality" (`Directly stated`). Read against Lippard, Ascott is both the fulfilment of dematerialization — the artwork as weightless, authorless, networked information — and its reversal: the "dry" immateriality of digital culture folded back into "molecules and matter," confirming the [[The Materiality of Informatics]] and Art & Language "matter-state" rebuttals that the immaterial is only ever differently embodied. The interpretive lineage from Lippard's conceptual dematerialization to Ascott's networked-then-moist art is held in the cross-book note [[Roy Ascott and Lucy Lippard]] (`Interpretive synthesis`).
 
 ## Sources
 
@@ -194,3 +204,14 @@ Relevant passage:
 > It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
 
 Supports: The object-to-system / matter-to-information reweighting that parallels Lippard's idea-paramount/material-secondary axis — the same valuation of information over physical presence that "dematerialization" names in conceptual art. Speaker: Jack Burnham. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]] , [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]
+Relevant passage:
+
+> art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network.
+
+Supports: Ascott extends Lippard's dematerialization of the conceptual-art object into the data network — the telematic artwork as weightless, authorless, never-completed process rather than a material entity. The companion passages anchor the bracketing arc: "Telematics enables tremendous artistic freedom. It permits the artist to liberate art from its conventional embodiment in a physical object located in a unique geographic location" (ch. 04, Shanken's editorial framing of Ascott), and the late re-materializing reversal "Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century" (ch. 31) — the dry/immaterial digital folded back into "molecules and matter." Speaker: Roy Ascott (ch. 15, ch. 31); the ch. 04 framing is Edward Shanken (editor). Label: `Directly stated`.

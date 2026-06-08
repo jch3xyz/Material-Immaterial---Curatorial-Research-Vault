@@ -32,6 +32,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]]"
+  - "[[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -59,8 +62,9 @@ authors:
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Information
@@ -198,6 +202,14 @@ McLuhan extends this from media to the economy, anticipating the [[Immaterial La
 For [[Jack Burnham]] in *Beyond Modern Sculpture* (1968), "information" is neither a mode of language nor a reified Shannon-Wiener pattern but the defining property of an artwork once it ceases to be an *object* and becomes a *system*. The whole book turns on a single migration: "The two parts of this book divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity" (Introduction). At the book's climax Burnham names what changes when art crosses that threshold: where the object is defined by its material, place-bound presence, the system is defined by information. Reporting Robert Morris's practice of sending plans from which a museum's carpenters built the work, he draws the conclusion flatly: "It becomes clear that with Object Art physical presence is everything, while for Systems Art \"information\" is the key factor" (Ch. 8). `Directly stated`.
 
 Burnham's sense thus converges with the note's central thread from the side of *art history*: the shift from material object to information/system is, for him, the trajectory of modern sculpture itself. This makes his "information" the art-theoretic precursor to [[Lucy Lippard]]'s "primary information" (see [[#Information in Conceptual Art (Lippard)]]) — both describe a work that no longer depends on physical presence and so can be carried as plan, instruction, or document — while his object→system axis sits squarely on the vault's [[Material vs Immaterial]] tension. Written seventeen years before Haraway and decades before Hayles historicizes the cybernetic information-as-pattern thesis, Burnham already treats information as the unit of an art of "interacting" systems with lifelike properties, anticipating the [[Cybernetics|cybernetic]] and [[Systems Theory|systems]] vocabulary the later authors elaborate. `Interpretive synthesis` for the cross-author placement; `Directly stated` for the quoted claims.
+
+## Roy Ascott (Telematic Embrace)
+
+For [[Roy Ascott]] in *Telematic Embrace*, "information" is neither a mode of language nor a contested reification but the very *substance and medium of networked art* — the flowing data field in which the telematic artwork lives. Where [[Jack Burnham]] had named "information" the key factor of an art that becomes a *system*, Ascott pushes the same axis one stage further: the system becomes a planetary *network*, and the artwork becomes a flux of "creative data" rather than a discrete object. He grounds this in an explicit "physics of information" modeled on quantum physics: "The subject of quantum physics is the transformation of energy, and quanta are its object. The subject of computer science is the transformation of information, and data are its object. Data exist in streams; data flow is ephemeral, transient, shifting. Data is everywhere and nowhere" ("Gesamtdatenwerk," 1989). On this account the computer "is not primarily a thing, but a set of behaviours… the agent of the data field, a construct of data space" — the telematic recasting of Burnham's object→system thesis as object→behaviour→network. `Directly stated`.
+
+The keystone is the **Gesamtdatenwerk**, Ascott's coinage for the planet-scale, permanently open, reciprocal networked artwork: "We search, in short, for what I call, in German, Gesamtdatenwerk, or 'integrated data work,' echoing the Gesamtkunstwerk, or 'total artwork,' conceived by Richard Wagner. Whereas Wagner's Gesamtkunstwerk was performed in an opera house, however, the site of the Gesamtdatenwerk must be the planet as a whole, its data space, its electronic noosphere" ("Gesamtdatenwerk," 1989). Because this work is constituted by data in flux, it dissolves the discrete object and the solitary author alike: the artwork "becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable" ("Art and Telematics," 1984), and, networked, "intelligence is amplified, authorship is dispersed, and memory becomes time-free and global in its dimensions" ("Beyond Time-Based Art," 1990). Information here is thus the connective tissue of [[Network Consciousness|network consciousness]] and [[Distributed Authorship|distributed authorship]] — the unit by which dispersed minds "link," not (as for [[Donna Haraway]]) the unit of universal translation that "allows… unhindered instrumental power." `Directly stated`.
+
+Ascott's "information" converges with the note's central thread on the displacement of the object by weightless pattern, but inverts the usual evaluative charge. Where [[Byung-Chul Han]] indicts information for lacking negativity, [[N. Katherine Hayles]] contests its imagined disembodiment, and [[Meghan O'Gieblyn]] reads its weightlessness as a soul-substitute, Ascott *affirms* the dematerialized data-flow as the medium of a "radically constructive" art: telematic art "moving beyond object art and time-based art, uses simulation to render what is invisible visible, to bring the virtual, the potential, the unseen, and unrealised into view" ("Beyond Time-Based Art," 1990). His position is closest to that of [[Jack Burnham]] (the object→system art-historical lineage) and [[Lucy Lippard]] (information as a self-sufficient art-content freed from the object), and it places the dematerialized networked artwork — data "everywhere and nowhere," "time-free and global" — directly on the vault's [[Material vs Immaterial]] tension. `Directly stated` for the quotations; `Interpretive synthesis` for the cross-author placement.
 
 ## Sources
 
@@ -684,3 +696,18 @@ Relevant passage:
 > The two parts of this book divide modern sculpture respectively into object and system. The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) is the means by which sculpture gradually departs from its object state and assumes some measure of lifelike activity.
 
 Supports: Establishes Burnham's object→system axis — the structural premise behind "for Systems Art information is the key factor." Grounds the [[#Jack Burnham (Beyond Modern Sculpture)]] section and the placement of his information-sense on the [[Material vs Immaterial]] tension. Label: `Directly stated`.
+
+### Source 45
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]] , [[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]]
+Relevant passage:
+
+> The subject of quantum physics is the transformation of energy, and quanta are its object. The subject of computer science is the transformation of information, and data are its object. Data exist in streams; data flow is ephemeral, transient, shifting. Data is everywhere and nowhere. A physics of information would talk about the phase space, the virtual space that data occupy.
+
+> We search, in short, for what I call, in German, Gesamtdatenwerk, or "integrated data work," echoing the Gesamtkunstwerk, or "total artwork," conceived by Richard Wagner. Whereas Wagner's Gesamtkunstwerk was performed in an opera house, however, the site of the Gesamtdatenwerk must be the planet as a whole, its data space, its electronic noosphere.
+
+> Through telematic networks, intelligence is amplified, authorship is dispersed, and memory becomes time-free and global in its dimensions.
+
+Supports: Ascott's *networked / data-art* sense of information — the artwork as a flux of "creative data" in the telematic field, and the Gesamtdatenwerk as the planet-scale total data work. Grounds the [[#Roy Ascott (Telematic Embrace)]] section: the "physics of information" (data as the object whose transformation is the medium's subject), the dematerialized "everywhere and nowhere" / "time-free and global" data-flow, and the dissolution of the discrete object and solitary author into [[Network Consciousness|network consciousness]] and [[Distributed Authorship|distributed authorship]]. Extends [[Jack Burnham]]'s object→system "information is the key factor" to system→network, and ties the dematerialized networked artwork to the [[Material vs Immaterial]] tension. Label: `Directly stated` for the quotations; `Interpretive synthesis` for the cross-author placement.

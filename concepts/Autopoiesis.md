@@ -4,6 +4,8 @@ status: generated
 sources:
   - "[[raw/Hayles - How We Became Posthuman/08 The Second Wave of Cybernetics - From Reflexivity to Self-Organization]]"
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]]"
 related:
   - "[[Reflexivity]]"
   - "[[Systems Theory]]"
@@ -18,8 +20,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-08
 ---
 
 # Autopoiesis
@@ -38,11 +41,18 @@ Autopoiesis also reconstructs **autonomy** without grounding it in self-possessi
 
 Finally, autopoiesis "points toward the **posthuman** even as it reinscribes the autonomy and individuality of the liberal subject." It does this by **demoting consciousness**. Maturana treats thinking as a secondary effect that arises when an autopoietic system recursively interacts with its own representations, and self-consciousness as a still narrower, purely linguistic effect: "consciousness for him becomes a epiphenomenon rather than a defining characteristic of the human as an autopoietic entity." The theory thus quietly dethrones the rational mind as the seat of identity — in Hayles's image, "the liberal subject, although more than ever an autonomous individual, is literally losing its mind as the seat of identity." This is the hinge by which a theory rooted in liberal autonomy nonetheless opens onto [[Posthumanism|posthumanism]].
 
+## Roy Ascott (Telematic Embrace)
+
+Ascott never uses the word "autopoiesis," but his telematic network is described in unmistakably self-organizing, self-producing terms — a field whose product is its own continuously reconstituted organization. *(Interpretive synthesis.)* Where Maturana and Varela locate self-production in the closed circularity of a single living system, Ascott relocates it to the open, planetary network: meaning in telematic process is "not given but negotiated, endlessly reconstituted and redefined," and truth "does not lie in an absolute location but is embedded in process, is telematically inscribed in the networking that is human behaviour at its most liberated." The network does not represent a pre-existing reality so much as bring one into being through the act of participation — Ascott's constructivist echo of the autopoietic observer who "create[s] systems through the very act of observation." Drawing the parallel to quantum physics in "Gesamtdatenwerk," he insists that "reality is the production of observation," and that the realities networking lets us inhabit are "all of which are constructed—'virtual' in a sense— and dependent upon our active participation for their construction."
+
+Crucially for the autopoietic reading, Ascott's networked artwork **produces the very participants that produce it**: it "cannot differentiate between 'artist' and 'viewer,' producer and consumer," because "to participate in such a network is always to be involved in the creation of meaning and experience." The interface is not a boundary-membrane sealing a discrete system off from its outside but "a doorway into data space, a synaptic interval in a human-computer symbiosis" — a structural coupling rather than a representation — and "to be in or at any one interface is to be with all the interfaces throughout the network of which it is a part." The result is a system defined by its own recursive behaviour rather than by any object it contains: "The computer is not primarily a thing, but a set of behaviours... the agent of the data field, a construct of data space." Ascott thus offers a participatory, open-network counterpart to Maturana and Varela's closed living system — self-organizing and self-producing, but constituted *across* its couplings rather than sealed against them (see [[Reciprocal Communication]], [[Distributed Cognition]], [[Systems Theory]]).
+
 ## Authors and Variants
 
 - **[[Humberto Maturana]]** — originator of the theory (developed 1960–1968), insistent that everything be subordinated to autopoiesis: reproduction, evolution, and genetic code are all "logically and practically subordinate." He pushes the closure of the system to its limit ("we do not see what we do not see, and what we do not see does not exist"), and in Hayles's critique the closure that gives the theory its "epistemological muscle" also becomes its Achilles' heel — it struggles to account for transformation, language, and evolution, vaporizing historical contingency by "continuously circulating it within the space of its interlocking assumptions."
 - **[[Francisco Varela]]** — co-formulator who later diverges, restricting autopoiesis to "the domain of cells and animals" (refusing Maturana's extension to social systems), conceding a "non-naive" role for information, and moving toward *enaction* and embodied action — perception "constituted through perceptually guided actions" rather than mere triggering — and, drawing on Buddhist philosophy in *The Embodied Mind*, toward dissolving the self rather than fortifying its closure.
 - **[[N. Katherine Hayles]]** — reads autopoiesis as a pivotal but double-edged moment: it rescues embodiment and the observer that first-wave cybernetics obscured, yet its relentless circularity understates the transformative force of language and embodied action. She uses it to mark the shift in the grounding of subjectivity from self-possession to organizational closure.
+- **[[Roy Ascott]]** — *(interpretive synthesis — Ascott does not use the term.)* recasts self-organization as a property of the open planetary network rather than the closed living cell: a telematic field in which meaning is "endlessly reconstituted and redefined," reality is "the production of observation," and the work "cannot differentiate between 'artist' and 'viewer'" because participation itself produces the system. His "computer is not primarily a thing, but a set of behaviours" parallels the autopoietic demotion of object to process, while his interface-as-"doorway"/"synaptic interval" reframes the autopoietic boundary as a coupling rather than a seal.
 
 ## Related Concepts
 
@@ -64,6 +74,7 @@ Finally, autopoiesis "points toward the **posthuman** even as it reinscribes the
 - By demoting consciousness to an epiphenomenon, does autopoiesis liberate us from the [[Posthumanism|liberal humanist]] privileging of the rational mind, or does it merely substitute a new essence — the self-producing network — for the old one?
 - Hayles charges that autopoietic closure understates how language and the environment actively shape the embodied subject. Can a theory of the [[The Body as Data|body as information]] or of embodiment be both closed (autonomous) and open (transformable) at once?
 - Is organizational closure a feature of living systems "as such," or only "how a human observer perceives living systems, including itself"? The question "lies coiled around the brainstem of autopoietic theory" — and unresolved, it destabilizes the very embodiment it claims to secure.
+- Ascott's telematic network is self-producing yet radically *open* — constituted across its couplings, not sealed against them. Does his participatory, observation-produced field represent a genuine alternative to autopoietic closure, or does it simply relocate closure to the boundary of the whole planetary system?
 
 ## Sources
 
@@ -121,3 +132,18 @@ Relevant passage:
 > He went into the inner world and insisted that it can’t be turned inside out, that itis a metaphor for nothing other than its own creation of itself as a system. This is the theory of autopoiesis, which we will discuss in chapter 6.
 
 Supports: The lineage of autopoiesis from the Macy-era frog-vision work and its character as a system that creates itself — situating it as the second wave's resolution of problems "left hanging after the Macy Conferences ended," distinct from [[Reflexivity]] as its parent move. Label: `Directly stated`.
+
+### Source 6
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]] , [[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]]
+Relevant passage:
+
+> Since reciprocity and interaction are of its essence, such work cannot differentiate between "artist" and "viewer," producer and consumer. To participate in such a network is always to be involved in the creation of meaning and experience.
+
+> meaning is not given but negotiated, endlessly reconstituted and redefined; truth, always relative, does not lie in an absolute location but is embedded in process, is telematically inscribed in the networking that is human behaviour at its most liberated.
+
+> The computer is not primarily a thing, but a set of behaviours. Its purpose is not only computation but transformation; not only storage but dissemination. It is the agent of the data field, a construct of data space.
+
+Supports: The reading of Ascott's telematic network as a self-organizing, self-producing field — one whose product is its own continuously reconstituted organization, which produces the participants who produce it, and which is defined by recursive behaviour rather than by any object. Ascott does not use the term "autopoiesis"; the parallel is an **interpretive synthesis** (his open, participatory, observation-produced planetary network as a counterpart to Maturana and Varela's closed living system). Label: `Interpretive synthesis`.

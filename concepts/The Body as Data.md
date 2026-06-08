@@ -25,6 +25,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/29 Chapter 25 - Telegraph - The Social Hormone]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
+  - "[[raw/Ascott - Telematic Embrace/24 From Appearance to Apparition: Communication and Cultur]]"
 related:
   - "[[Posthumanism]]"
   - "[[Information (Hayles)]]"
@@ -43,8 +46,9 @@ authors:
   - "[[Ray Kurzweil]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # The Body as Data
@@ -157,6 +161,12 @@ What keeps McLuhan from being merely a celebrant of this transformation — and 
 Two decades before Haraway named the organism's translation into a "biotic component," **[[Jack Burnham]]** had already, in *Beyond Modern Sculpture* (1968), reached the body-as-data thesis from the side of art theory — by treating the cybernetic organism as the terminal stage of sculpture itself. For his "Cyborg Art" — "the cybernetic organism as an art form" — the organism is grasped as an information-processing system: where the older "Object Art physical presence is everything," in the new "Systems Art 'information' is the key factor." The body, in this frame, ceases to be palpable mass and becomes a node in an "interacting assembly," defined (like any system) by "input and output, kinetically sustained equilibrium and eventual death" rather than by matter. This is the same inversion the rest of the cluster names — physicality demoted, information installed as the operative reality — arrived at through the migration of sculpture from the object to the system. `Directly stated` (the cross-reading of Burnham's art-theoretical "information" against the body-as-data cluster is `Interpretive synthesis`).
 
 Burnham's most direct contribution to this note is his reconception of the body itself as something to be *re-created in information*. In the Introduction he frames modern sculpture as "a preparatory stage representing steps toward the simulation of biological life," whose telos is the machine as "the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts." The living body is thereby reconceived not as irreducible flesh but as an effect of organization that technology can re-instantiate — a "life-bearing artifact." His definition closes the circuit: "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." Where Hayles contests the reduction of the body to portable pattern and Harari and Kurzweil embrace it, Burnham occupies a distinct, earlier position — the body-as-data not as upload, dossier, or dogma, but as the engineering horizon of an art that aspires to make matter live. `Directly stated` (the positioning of Burnham as a 1968 art-theoretical precursor to the body-as-data cluster is `Interpretive synthesis`).
+
+## Roy Ascott (Telematic Embrace)
+
+Where the other authors debate whether the body *is* or *becomes* data, **[[Roy Ascott]]** describes a body already redistributed into the telematic field — rendered as data not by upload or dossier but by the fusion of the human sensorium with the network. In *Telematic Embrace* (the essays "The Architecture of Cyberception," 1994, and "From Appearance to Apparition," 1993) he names a new "post-biological faculty," **cyberception**, and the planetary substrate it runs on, the **cybernet** — "the sum of all the interactive computer-mediated systems and telematic networks in the world," which "is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole." On the holomatic principle, "to be in or at any one interface is to be in the virtual presence of all the other interfaces throughout the network," so that the bounded individual gives way to distributed [[Telepresence|telepresence]]: "human presence becomes virtualised and the individual self is distributed." This is Ascott's variant of the body-as-data — the self dispersed across "the connection matrix," "here and not here," "both here and elsewhere at the same time" — and where Hayles contests disembodiment and Kurzweil preaches it, Ascott reports it as the felt condition of network life: "We are all interface. We are computer-mediated and computer-enhanced." `Directly stated`
+
+What makes Ascott's contribution distinctive in this cluster is that his body-as-data is not the demotion of the material but its *convergence* with the immaterial. Cyberception, he argues, lets us "cyberceive transformative relationships and connectivity as immaterial process just as palpably and immediately as we commonly perceive material objects in material locations" — the immaterial made perceptible, not the body abstracted away. This is the apparition pole of his [[Material vs Immaterial]] thesis ("the inward and emergent processes of becoming" displacing "the outward and visible look of things"), and it forecasts a [[Material vs Immaterial|marriage of material and immaterial]]: as "the self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic," the virtualizing trajectory turns back toward "the reinstatement... of a natural materiality." Ascott names the body-as-interface directly — "the post-biological body as interface," with the systems interface moving "closer and closer to the body and into the brain" — but unlike the disembodiment cluster he treats this less as the flesh's erasure than as its re-enchanted extension into "another level of evolutionary development," art coming "to constitute a form of mediation between human and post-human consciousness." `Directly stated` (the verbatim formulations are exact; the positioning of Ascott as the cluster's moist-convergence / telepresence variant is `Interpretive synthesis`).
 
 ## Sources
 
@@ -423,3 +433,14 @@ Relevant passage:
 > The machine, he intuitively realized, as unsubtle and inefficient as it was, remained the only means by which man would eventually reconstruct intelligent life, or what might be called life-bearing artifacts.
 
 Supports: Burnham's reconception of the living body as an effect of organization that technology can re-instantiate — the body re-created as a "life-bearing artifact" — the 1968 art-theoretical precursor of the body-as-data thesis. Pairs with the Introduction's framing of modern sculpture as "a preparatory stage representing steps toward the simulation of biological life." Label: `Directly stated`.
+
+### Source 25
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]] , [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]] , [[raw/Ascott - Telematic Embrace/24 From Appearance to Apparition: Communication and Cultur]]
+Relevant passage:
+
+> The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole.
+
+Supports: Ascott's variant of the body-as-data — the individual body redefined and distributed across the telematic network ("the cybernet") as part of the sensory apparatus, rendering the bounded self into distributed telepresence ("We are all interface"). Pairs in the same chapter with "We cyberceive transformative relationships and connectivity as immaterial process just as palpably and immediately as we commonly perceive material objects in material locations" (cyberception makes the immaterial perceptible) and, in "Back to Nature II," with "The self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic" and the forecast "marriage of the immaterial and the material" — the moist convergence of data and biology. In "From Appearance to Apparition" the bodily corollary is named directly: "We want the systems interface set within our brain... This is to talk about the post-biological body as interface." Anchors the `## Roy Ascott (Telematic Embrace)` section. Label: `Directly stated`.

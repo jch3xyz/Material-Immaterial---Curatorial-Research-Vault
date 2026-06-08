@@ -8,6 +8,8 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/08 Ch4 - How to Reverse Engineer the Human Brain]]"
   - "[[raw/Kurzweil - The Singularity Is Near/07 Ch3 - Achieving the Computational Capacity of the Human Brain]]"
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
+  - "[[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
 related:
   - "[[The Body as Data]]"
   - "[[Posthumanism]]"
@@ -25,8 +27,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
   - "[[Marshall McLuhan]]"
+  - "[[Roy Ascott]]"
 confidence: medium
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Mind Uploading
@@ -67,11 +70,18 @@ From this it is, for McLuhan, only a short step to the upload. He frames it as a
 
 McLuhan's tone is neither the engineer's optimism nor the theologian's critique but the media analyst's ambivalence—which is why this note treats his sense as a *limit-case* rather than a goal. He sees a possible payoff ("Then, at least, we shall be able to program consciousness in such wise that it cannot be numbed nor distracted by the Narcissus illusions of the entertainment world that beset mankind when he encounters himself extended in his own gimmickry") and a planetary horizon (the question "might not our current translation of our entire lives into … the spiritual form of information seem to make of the entire globe, and of the human family, a single consciousness?"). The same passage warns of "utter human docility and quiescence" and the "servo-mechanistic fidelity" the electric demands of its servant. Unlike the Kurzweil-anchored sections above, there is no claim that subjective experience is *preserved* across the transfer; uploading appears as the logical endpoint of media-as-translation, registered with as much foreboding as promise. `Strongly implied` (McLuhan does not adjudicate the continuity-of-identity question the rest of this note turns on; he treats the transfer as a tendency to be understood, not a survival to be guaranteed).
 
+## Roy Ascott (Telematic Embrace)
+
+**[[Roy Ascott]]** does not propose mind uploading and never adjudicates the survival-of-the-self question this note turns on; what his telematic and cyberceptive writings supply is the *prior premise*—that mind is already, routinely, extended beyond the biological body by the network. In "Beyond Time-Based Art: ESP, PDP, and PU" (1990) he glosses "telematics" itself as "effectively out-of-body, out-of mind," i.e. "asynchronous connectivity," and reports that through telematic networks "intelligence is amplified, authorship is dispersed, and memory becomes time-free and global in its dimensions." Where uploading imagines a one-time *transfer* of mind to a digital substrate, Ascott describes a *continuous dispersal*: the perceiving system becomes "global in its gaze" once "our intelligence is dispersed." This is the same extension-of-mind-beyond-the-body logic the upload literalizes, arriving from the side of [[Distributed Cognition]] and [[Network Consciousness]] rather than personal immortality. `Interpretive synthesis` (Ascott is describing networked telepresence, not uploading; the connection to mind-transfer is the vault's).
+
+In "The Architecture of Cyberception" (1994) the extension is named a faculty. The "cybernet … is part of our sensory apparatus," Ascott argues; "it redefines our individual body, just as it connects all our bodies into a planetary whole," and "telepresence is the province of the distributed self … instant global interaction with a thousand communities, being in any one of them, or all of them, virtually at the same time." He pushes this toward a "post-biological faculty" and even to "our capacity to be out of body or in mind-to-mind symbiosis with others." This is the speculative neighbour of uploading—mind unmoored from the single body and distributed across the net—but it stops short of the transhumanist claim: Ascott offers no destructive scan, no copied pattern, no promise that subjective experience survives a substrate change. The "disseminated self" is *added to* the biological self, not extracted from it. Read against Kurzweil's engineered transfer and O'Gieblyn's resurrection critique, Ascott marks the threshold the upload would cross: he extends mind into the network (a [[Distributed Cognition]] and [[Network Consciousness]] claim) without ever proposing to leave the body behind. `Speculative connection`.
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — treats mind-uploading as a repetition, structurally, of the early Church's centuries-long problem of bodily continuity across death; reads it as transhumanism's literalized [[Mind as Machine]] metaphor and as a symptom of [[Posthumanism]]'s erasure of the body.
 - **[[Ray Kurzweil]]** — the "patternist" who frames consciousness as a transferable pattern of information ("I am rather like the pattern that water makes in a stream"); holds that an uploaded person with the same organization of information will have the same subjective experience, so "the scanned person's mind will exist in two places at once." *In his own voice* (*The Singularity Is Near*, primary source): defines uploading as "scanning all of its salient details and then reinstantiating those details into a suitably powerful computational substrate"; distinguishes [[Reverse-Engineering the Human Brain|functional emulation]] of human intelligence from the finer *personal upload* of a particular personality; answers the continuity problem with *gradual transfer* via [[Nanobots]] ("no 'old Ray' and 'new Ray,' just an increasingly capable Ray"); rebuts Penrose ("my quantum state has changed many times … and I still consider myself to be the same person") while granting Edelman's caveat that a description is not the capability.
 - **[[Marshall McLuhan]]** — the 1964 *precursor* (not advocate): in *Understanding Media* he reads the upload as the next "further stage" after the electric extension of the central nervous system, "it is but a further stage to transfer our consciousness to the computer world as well." Offered here as a limit-case—media-as-translation carried to its endpoint—rather than as a continuity-preserving promise; he raises neither the patternist guarantee nor the resurrection critique, registering the transfer with ambivalence ("a single consciousness," but also numbing "Narcissus illusions").
+- **[[Roy Ascott]]** — the *speculative neighbour* (not advocate, not critic): supplies the prior premise of mind extended beyond the body via the network, without ever proposing the transfer. "Telematics" is "out-of-body, out-of mind"; "intelligence is amplified, authorship is dispersed, and memory becomes time-free and global"; the cybernet is "part of our sensory apparatus" that "redefines our individual body," and "cyberception" is a "post-biological faculty" of the "distributed self." His dispersal of mind across the net (a [[Distributed Cognition]] / [[Network Consciousness]] claim) marks the threshold uploading would cross—an *addition to* the body rather than an *extraction from* it; he raises neither the continuity guarantee nor the survival critique.
 - **[[Hans Moravec]]** / **[[Norbert Wiener]]** — Wiener's cybernetic image that "we are not stuff that abides, but patterns that perpetuate themselves" supplies the patternist lineage; Moravec is the canonical transhumanist proponent of robotic mind-transfer in the surrounding [[The Three Waves of Cybernetics|cybernetics]] tradition.
 - **Susan Schneider** — the dissenting philosopher: even a behaviorally identical upload "will be a zombie with no subjective experience"; the most uploading can achieve is "functional similarity to the original."
 
@@ -87,6 +97,8 @@ McLuhan's tone is neither the engineer's optimism nor the theologian's critique 
 - [[Nanobots]] — the in-brain scanning technology Kurzweil projects for the late 2020s, the means by which the "gradual transfer" upload is to be carried out.
 - [[Patternism]] — Kurzweil's underlying metaphysics: identity is the transferable pattern, which is what licenses the upload in the first place.
 - [[The Singularity]] — uploading is one face of the "gradual but inexorable progression to vastly superior nonbiological thinking" Kurzweil places at the Singularity's core.
+- [[Distributed Cognition]] — Ascott's side-door to the upload's premise: mind "amplified" and "dispersed" across the telematic network, the "distributed self" of cyberception.
+- [[Network Consciousness]] — Ascott's dispersal of mind into a "global" perceiving system, the extension-of-mind-beyond-the-body that uploading would literalize as transfer.
 
 ## Opposing Concepts
 
@@ -99,6 +111,7 @@ McLuhan's tone is neither the engineer's optimism nor the theologian's critique 
 - When the self is reconceived as a transferable pattern (the body as data), what exactly is left behind in the discarded flesh—and is "different embodiment" the more honest description than "disembodiment"? (the body as data, technology and perception)
 - Does the ship-of-Theseus / gradual-replacement route dissolve the continuity problem or merely smear it across time, the way Origen's *eidos* dissolved—or deferred—the resurrection's problem of identity?
 - If the computer metaphor "returned to us" ancient religious hopes it was designed to banish, is mind-uploading a new technology or an old eschatology in a materialist guise—and what does its persistence say about the modern hunger for meaning? (meaning, posthumanism)
+- If, as Ascott holds, mind is already routinely extended beyond the body by the network—"out-of-body, out-of mind," memory "time-free and global"—is uploading a difference in kind from telepresence, or only the point at which the distributed self is asked to *leave the body behind* rather than merely reach past it? (distributed cognition, embodiment)
 
 ## Sources
 
@@ -266,3 +279,18 @@ Relevant passage:
 > Then, at least, we shall be able to program consciousness in such wise that it cannot be numbed nor distracted by the Narcissus illusions of the entertainment world that beset mankind when he encounters himself extended in his own gimmickry.
 
 Supports: McLuhan's ambivalent register—the upload as both a possible release from media-induced numbing and a horizon shadowed by "Narcissus illusions" and "utter human docility"—which warrants treating his sense as a limit-case rather than a goal. Label: `Strongly implied` (McLuhan states the prospect; the framing as ambivalence/limit-case is interpretive synthesis).
+
+### Source 16
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]] , [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]
+Relevant passage:
+
+> Through telematic networks, intelligence is amplified, authorship is dispersed, and memory becomes time-free and global in its dimensions.
+
+> The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole.
+
+> Telepresence is the province of the distributed self, of remote meetings in cyberspace, of on-line living. Telepresence means instant global interaction with a thousand communities, being in any one of them, or all of them, virtually at the same time.
+
+Supports: Ascott's "out-of-body, out-of mind" telematics and the cyberceptive "distributed self" supply the premise mind uploading literalizes—mind extended beyond the biological body by the network. But he proposes an *addition to* the body (telepresence / dispersed intelligence), not the *extraction* or transfer of self the upload requires, and never adjudicates whether subjective experience survives. The bridge to mind-uploading is the vault's, not Ascott's. Label: `Interpretive synthesis` / `Speculative connection`.

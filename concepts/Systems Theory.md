@@ -12,6 +12,9 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/07 Chapter 5 - Sculpture and Automata]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
 related:
   - "[[Cybernetics]]"
   - "[[Autopoiesis]]"
@@ -26,8 +29,9 @@ authors:
   - "[[Francisco Varela]]"
   - "[[Lucy Lippard]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: medium
-last_updated: 2026-06-01
+last_updated: 2026-06-08
 ---
 
 # Systems Theory
@@ -94,6 +98,14 @@ What is distinctive — and what makes Burnham *the* systems-art figure — is t
 - When the state becomes "the paradigmatic cyborg," is the body of the citizen modeled as data circulating within a social system ([[The Body as Data]]), and does that modeling repeat the very disembodiment of information Hayles sets out to contest ([[Material vs Immaterial]])?
 - Systems theory both recovers embodied process and demotes consciousness to "a epiphenomenon": does it therefore advance [[Posthumanism]] in the dangerous sense Hayles warns against (grafting closure onto liberal autonomy), or in the corrective sense (information has no existence apart from its medium)?
 - Varela restricts autopoiesis to "cells and animals" because social systems do not "physically produce the components that instantiate their organization" — so is the social-systems lineage (Luhmann) a legitimate extension of systems theory or a category error that treats an immaterial abstraction as if it were a living, material thing?
+
+## Roy Ascott (Telematic Embrace)
+
+If Hayles ports a biologist's systems theory onto society, Lippard records its art-world adoption, and Burnham makes the *system* the destiny sculpture must enter, Roy Ascott is the figure who reconceives the *artwork itself* as an open, behavioural, self-organizing system — and who, writing from 1966 onward, is chronologically the earliest of the vault's art-cluster voices to do so. From the start his "behaviourist art" rests on the systems-theoretic primitive of feedback: "The participational, inclusive form of art has as its basic principle 'feedback,' and it is this loop that makes an integral whole of the triad artist/artwork / observer." The artifact/observer dyad becomes precisely the kind of self-controlling, variety-generating system Hayles and Burnham describe — Ascott's own gloss is that "the artifact/observer system furnishes its own controlling energy: a function of an output variable (observer's response) is to act as an input variable, which introduces more variety into the system." Cybernetics for Ascott "concerns the idea of the perfectibility of systems" and "the procurement of effective action by means of self-organising systems," so the artwork is no longer a finished object but a system held perpetually in play. (Confidence: Directly stated.)
+
+Ascott pushes this further than the other authors in one direction: he imagines the artifact becoming, literally, a self-organizing organism. "There is no prior reason why the artifact should not be a self-organising system, an organism, as it were, which derives its initial programme or code from the artist's creative activity and then evolves its specific artistic identity and function in response to the environments it encounters." This is the same family of properties Burnham names (self-organization, growth, input/output, structural coupling to an environment) and the same observer-relative, world-constructing system Hayles tracks — but Ascott projects it forward into the design of growth systems and generative art, anchoring the participatory pole that complements Burnham's object→system [[Systems Esthetics]]. By his 1980 "field theory" essay the system has become the very ontology of the artwork: "Art does not reside in the artwork alone, nor in the activity of the artist alone, but is understood as a field of psychic probability, highly entropic, in which the viewer is actively involved." The viewer "must be a participator and is of operational importance in the total behaviour of the system," so a field theory of art is, in the end, a theory of a self-organizing system whose closure is completed by participation rather than by an organizational invariant. (Confidence: Directly stated; the cross-author convergence with Hayles/Burnham is Interpretive synthesis.)
+
+By 1985 Ascott extends the systems frame to the network: telematics is, for him, "the system of systems," in which the discrete object dissolves into process and "the work of art does not reside in the object alone, but in a system, a negotiation between artist and spectator in the creation of meaning." The Shannon sender/receiver model of [[Information]] is explicitly abandoned — "there are no 'senders' and 'receivers' (as in the old models of information theory) but only 'users,' whose intervention will be more or less creative depending on the degree of their participation in the system" — and Ascott traces "ideas of energy, information, transformation, and interconnectedness" directly to "cybernetics, systems theory, and, subsequently, telematic networks," naming the lineage this note carries. The networked system becomes a planetary one: an interconnected "cosmic web" in which meaning "is not given but negotiated, endlessly reconstituted and redefined." Ascott thus occupies a distinct station in the systems lineage — neither Maturana's self-enclosing biological closure nor Burnham's life-likeness of the object, but the artwork-as-open-system whose self-organization is realized through participation and, ultimately, through the network. (Confidence: Directly stated; "system of systems" / the cybernetics-and-systems-theory genealogy are Ascott's own words.)
 
 ## Sources
 
@@ -335,4 +347,20 @@ Relevant passage:
 > At its present stage emitted light best demonstrates one of the primary qualities of systems: the tendency to fuse art object and environment into a perceptual whole.
 
 Supports: Burnham's claim that a primary quality of systems is to dissolve the object into its environment as a perceptual whole — the endpoint of the object→system trajectory, where the discrete artwork becomes an environment-modulating system.
+Confidence: Directly stated
+
+### Source 21
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]] , [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]] , [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]
+Relevant passage:
+
+> There is no prior reason why the artifact should not be a self-organising system, an organism, as it were, which derives its initial programme or code from the artist's creative activity and then evolves its specific artistic identity and function in response to the environments it encounters.
+
+> Art does not reside in the artwork alone, nor in the activity of the artist alone, but is understood as a field of psychic probability, highly entropic, in which the viewer is actively involved
+
+> Many of the ideas that inform Lyotard's position—ideas of energy, information, transformation, and interconnectedness—spring from the ground that also shapes modern physics and, in fact, led to cybernetics, systems theory, and, subsequently, telematic networks.
+
+Supports: Anchors Ascott's reconception of the artwork as an open, behavioural, self-organizing system — from the 1966 self-organising "organism" artifact, through the 1980 "field theory" of art as a probabilistic field completed by the participator, to the 1985 telematic "system of systems" whose meaning is "negotiated, endlessly reconstituted and redefined." The final passage names the cybernetics→systems-theory→telematics lineage this note carries, placing Ascott as the participatory pole that complements Burnham's object→system thesis.
 Confidence: Directly stated

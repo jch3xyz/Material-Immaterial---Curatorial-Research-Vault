@@ -5,6 +5,9 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
   - "[[raw/Hayles - How We Became Posthuman/04 Virtual Bodies and Flickering Signifiers]]"
   - "[[raw/Hayles - How We Became Posthuman/13 Conclusion - What Does It Mean to be Posthuman?]]"
+  - "[[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
+  - "[[raw/Ascott - Telematic Embrace/24 From Appearance to Apparition: Communication and Cultur]]"
 related:
   - "[[Embodiment]]"
   - "[[Posthumanism]]"
@@ -17,8 +20,9 @@ opposes:
   - "[[The Body as Data]]"
 authors:
   - "[[N. Katherine Hayles]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-08
 ---
 
 # Virtuality
@@ -65,6 +69,14 @@ This makes virtuality an ambivalent term in Hayles's hands — a real and conseq
 - If virtual technologies extend embodied awareness "in highly specific, local, and material ways," what is the difference between a prosthesis that extends the body and one that substitutes for it ([[The Body as Data]])?
 - Does Hayles's "embodied virtuality" successfully separate the virtual from the dream of disembodiment, or does the cultural momentum of the "meat" model (Gibson, Moravec) keep reasserting itself?
 
+## Roy Ascott (Telematic Embrace)
+
+Where Hayles approaches virtuality defensively — as a cultural perception whose dominant disembodiment reading must be contested — [[Roy Ascott]] embraces the virtual as the very project of telematic art. For Ascott the virtual is the not-yet-actual that art exists to bring into view: "telematic art, moving beyond object art and time-based art, uses simulation to render what is invisible visible, to bring the virtual, the potential, the unseen, and unrealised into view." He grounds this in the many-worlds physics he abbreviates "PU" (parallel universes), the strand of the new physics that "resonate[s] most sympathetically with our current sensibilities" because "it is the observer who creates the reality of the act by observation." The networked user, inserted into the flow of data, becomes a quantum superposition of the actual and the virtual — "like Schrödinger's Cat, neither precisely here nor there, actual or virtual" — and the virtual is figured as the zero-time interval of the photon: "These zero time particles exist only in the gap between the tangible and the potential, the virtual."
+
+By the 1990s Ascott names the faculty that perceives this virtual the post-biological one of **cyberception**. Cyberception lets the immaterial be perceived as palpably as the material: "We cyberceive transformative relationships and connectivity as immaterial process just as palpably and immediately as we commonly perceive material objects in material locations." This recasts the twentieth-century project of art — "to make the invisible visible" — as fulfilled by a new perceptual organ fused to the "cybernet," delivering "X-ray vision and the optics of outer space." The accompanying **holomatic principle** makes virtual presence the default condition of the network: "to be in or at any one interface is to be in the virtual presence of all the other interfaces throughout the network," the substrate of a distributed [[Telepresence]] in which one can be "in any one of them, or all of them, virtually at the same time."
+
+Ascott's deepest reframing is the shift **from appearance to apparition**: "Art is no longer about appearance, and certainly not about representation, but is concerned with apparition, the coming into being of what has never before been seen or heard or experienced." Apparition is the virtual made operative — "the emergence of things as they could be" against appearance as "the face of reality, of things as they are" — and cyberspace is named outright as "the space of apparition, in which the virtual and real not only co-exist, but co-evolve in a cultural complexity." There is a strong resonance here with Hayles's "embodied virtuality": Ascott too refuses pure dematerialization, insisting the virtual co-evolves with the real and is grasped through an extended, post-biological body rather than a body left behind (Interpretive synthesis — Ascott names neither Hayles nor her terms).
+
 ## Sources
 
 ### Source 1
@@ -110,3 +122,18 @@ Relevant passage:
 > it is not a question of leaving the body behind but rather of extending embodied awareness in highly specific, local, and material ways that would be impossible without electronic prosthesis.
 
 Supports: Hayles's strategic reframing — virtuality as the prosthetic *extension* of embodied awareness, against Gibson's model of leaving the body behind; the basis for "embodied virtuality." Label: `Directly stated`.
+
+### Source 5
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/19 Beyond Time-Based Art: ESP, PDP, and PU]] , [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]] , [[raw/Ascott - Telematic Embrace/24 From Appearance to Apparition: Communication and Cultur]]
+Relevant passage:
+
+> Thus telematic art, moving beyond object art and time-based art, uses simulation to render what is invisible visible, to bring the virtual, the potential, the unseen, and unrealised into view.
+
+> We cyberceive transformative relationships and connectivity as immaterial process just as palpably and immediately as we commonly perceive material objects in material locations.
+
+> Cyberspace is the space of apparition, in which the virtual and real not only co-exist, but co-evolve in a cultural complexity.
+
+Supports: Ascott's affirmative telematic virtual — the virtual/potential/unseen as what simulation and apparition bring into view, and the immaterial perceived as palpably as the material through cyberception, with the virtual and real co-evolving rather than the body being left behind. The parallel to Hayles's "embodied virtuality" (a virtual that extends rather than escapes the body) is `Interpretive synthesis` — Ascott does not cite Hayles. The three quoted passages are `Directly stated`.

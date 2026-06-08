@@ -13,6 +13,7 @@ authors:
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -41,6 +42,9 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/03 Chapter 1 - Sculpture's Vanishing Base]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]"
+  - "[[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -51,7 +55,7 @@ related_concepts:
   - "[[Mechanical vs Electric]]"
   - "[[Explosion vs Implosion]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Material vs Immaterial
@@ -174,6 +178,14 @@ They differ in what they enlist *against* the immaterial. For **Hayles** the cou
 Burnham's sense of "immaterial" is thus neither Hayles's Shannon-Wiener pattern, nor Lippard's dematerialized object, nor Han's mode of production, nor Harari's ascendant fiction, nor Kurzweil's fundamental pattern, nor Haraway's microelectronic simulacrum, nor McLuhan's epochal information, but the **physical system of forces** that supersedes the formal object. The hinge is stated at the level of the sculpture base, whose disappearance Burnham reads as "symptomatic" of the whole transformation: once a sculpture is freed of its last physical support, "with sculpture completely liberated from its base it becomes a different animal! Its raison d'etre is no longer that it embodies formal qualities, but that it exists as a physical system including invisible forces. The duality between matter and energy enters a new phase." Where Lippard's conceptualists migrate the art *object* toward the *idea*, Burnham migrates it toward the *system* — toward energy, feedback, and "invisible forces" rather than toward dematerialized thought; the two are art-historical neighbors on the axis (Herbert Read's "tortuous dematerialization … scribble in the air," which Burnham quotes, is the milieu Lippard's 1968 dematerialization later names), but Burnham's terminus is the life-simulating machine, not the mailed catalogue. `Directly stated`; the placement of his object/system migration on the vault's material/immaterial axis is `Interpretive synthesis`.
 
 The axis is consummated in Burnham's final chapter, "Robot and Cyborg Art," where the immaterial pole is named outright as *information*: "It becomes clear that with Object Art physical presence is everything, while for Systems Art 'information' is the key factor." This is the cleanest convergence with the four-author core — Burnham, like Hayles and McLuhan, identifies the immaterial pole with information detaching from physical presence — yet his valence is closer to McLuhan's and Kurzweil's: he does not unmask the immaterial as parasitic but reads the shift as a *teleological* one, sculpture "moving toward a systems view of art" in which "the cultural obsession with the art object is slowly disappearing and being replaced by what might be called 'systems consciousness.'" That systems consciousness "shifts from the direct shaping of matter to a concern for organizing quantities of energy and information." Burnham is, with this, the vault's chronological precursor of the cyborg (his "Cyborg Art" of 1968 predates [[Donna Haraway]]'s by seventeen years) and a striking early statement of the systems/posthuman reading of the body that [[N. Katherine Hayles]] would later elaborate; on this axis his contribution is to date the dematerialization of the sculptural object into a system of energy and information, and to read that dematerialization not as loss but as the medium's approach to "lifelike activity." `Directly stated`; the cross-author bridges to Hayles, Haraway, and Lippard are `Interpretive synthesis`.
+
+## Roy Ascott (Telematic Embrace)
+
+[[Roy Ascott]]'s *[[Telematic Embrace]]* is the vault's *ninth* source on this axis, and it pushes the immaterial pole further than any other — first by making the artwork itself an immaterial flux of data, then, at the close of his career, by re-materializing that data in living biology. In the founding telematic essay "Art and Telematics" (1984) the art object dissolves into pure relation: with networking the work "becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network." This is the conceptual-art dematerialization of [[Lucy Lippard]] carried out of the gallery and onto the wire — the object migrated not toward the mailed catalogue (Lippard) nor the system of forces (Burnham) but toward the network's [[Distributed Cognition|distributed]], placeless "creative data" "in perpetual motion, an unending process." His immaterial pole is thus the *networked*: the artwork as [[Telematic Art|telematic]] flux, sited in "non-localised, timeless space" and authored by no one. `Directly stated`; the placement of Ascott's telematic dematerialization on the vault's material/immaterial axis is `Interpretive synthesis`.
+
+"Is There Love in the Telematic Embrace?" (1990) gives the immaterial pole its sharpest single Ascott formulation, and it is a near-verbatim echo of Hayles's "immateriality of information" with the valence reversed. For Ascott telematic "content is embodied in data that is itself immaterial, it is pure electronic *différance*, until it has been reconstituted at the interface as image, text, or sound." Where Hayles insists information must always be instantiated and re-grounds it in [[The Materiality of Informatics|its medium]], Ascott embraces the immaterial data as the *positive* condition of the new art — "the canon of the immaterial and participatory" — the interface, not the art object, becoming the locus of the aesthetic. His valence on the axis is therefore closer to McLuhan's and Burnham's than to Hayles's or Han's: he does not unmask the immaterial as parasitic but celebrates the dissolution of the discrete object into a participatory data-field. `Directly stated`.
+
+The reversal comes in the late "Moist Manifesto" — "Art @ the Edge of the NET: the Future Will Be Moist!" (2000) — where Ascott becomes the one source on this axis to fold the immaterial pole *back into* matter, dissolving the very opposition. "Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century." The immaterial "dry" digital and the material "wet" biological converge in a third, "moist" substrate; "MOIST ART is digitally dry, biologically wet, and spiritually numinous." This is neither a denial of the immaterial pole's autonomy (Hayles, Lippard, Han) nor its affirmation over matter (Kurzweil) nor a held tension (Haraway) nor a one-way dematerializing reversal (McLuhan, Burnham): it is a *re-materialization* of the dematerialized — the "immaterial" digital reabsorbed into molecules, atoms, neurons, and genes, so that the axis itself is named only to be synthesized. Ascott's contribution to this nine-author tension is therefore double: he carries the immaterial pole to its furthest reach (the artwork as placeless data flux) and then, alone among the sources, proposes its merger with the material pole in a single "moist" substrate. `Directly stated`; reading the dry/wet/moist tripartition as a re-materialization of the material/immaterial axis is `Interpretive synthesis`. (The dry→wet→moist convergence is treated in its own concept [[Moistmedia]]; the participatory data-flux thesis in [[Telematic Art]] and the systems-art cross-link [[Object vs System]].)
 
 ## Sources
 
@@ -594,3 +606,18 @@ Relevant passage:
 > It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
 
 Supports: The immaterial pole named outright as *information* — the convergence with Hayles and McLuhan (the immaterial as information detaching from physical presence), here as the contrast between Object Art (presence) and Systems Art (information). The culmination of Burnham's object→system reading of the axis. Label: `Directly stated`.
+
+### Source 39
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]] , [[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]
+Relevant passage:
+
+> art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network.
+
+> content is embodied in data that is itself immaterial, it is pure electronic différance, until it has been reconstituted at the interface as image, text, or sound.
+
+> Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century, a transformative art concerned with the construction of a fluid reality.
+
+Supports: Ascott's three-stage push of the immaterial pole — first the dematerialized telematic artwork as a placeless "web of relationships … in constant flux" with no single authorship (1984); then the content of telematic art as data "that is itself immaterial … pure electronic différance," celebrated as "the canon of the immaterial and participatory" rather than unmasked (1990); then, in the "Moist Manifesto" (2000), the re-materialization of that immaterial digital "dry" world back into matter — "bits, atoms, neurons, and genes" — in a third "moist" substrate that synthesizes the material and immaterial poles. The ninth author of the tension: the immaterial pole carried to its furthest reach (the artwork as data flux) and then proposed for merger with the material in a single moist domain. Label: `Directly stated` (for Ascott's claims); reading the telematic dematerialization and the dry/wet/moist tripartition as instances/synthesis of the vault's material/immaterial axis is `Interpretive synthesis`.

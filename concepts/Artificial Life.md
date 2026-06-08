@@ -7,6 +7,8 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
+  - "[[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]"
 related:
   - "[[The Three Waves of Cybernetics]]"
   - "[[Emergence]]"
@@ -25,8 +27,9 @@ authors:
   - "[[Christopher Langton]]"
   - "[[Francisco Varela]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Artificial Life
@@ -61,6 +64,7 @@ For Hayles, AL is therefore not a neutral science but a site where "life," "natu
 - **[[Francisco Varela]]** — bridge from the second to the third wave; carries autopoiesis into AL but insists on embodiment, resisting the disembodied default.
 - **Edward Fredkin** — radical informationalist; reality is a program run on a cosmic computer, and AL programs are alive "in precisely the same sense as biological life."
 - **[[Hans Moravec]]** vs **Rodney Brooks** — the consciousness-as-essence (AI-aligned, disembodied) versus locomotion-and-interaction-as-essence (AL-aligned, embodied) poles of the field.
+- **[[Roy Ascott]]** — takes AL not as a science to be assessed but as a *material and a model for art*: reads Langton's bottom-up, distributed AL directly as a definition of interactive/connectivist art ("For 'life,' read 'art'!"), and forecasts AL's convergence with digital virtuality into **moistmedia** — "a marriage of the immaterial and the material." His section follows below.
 
 ## Related Concepts
 
@@ -92,6 +96,12 @@ For **[[Jack Burnham]]** (*Beyond Modern Sculpture*, 1968) the artificial-life i
 In Chapter 2 ("The Biotic Sources of Modern Sculpture") Burnham makes that convergence explicit as a shared end, arguing that "the meaning of organicism for all three disciplines has already begun to converge toward a single end result — the understanding of living matter through its creation." Vitalism, the reigning aesthetic of modern sculpture, is for Burnham only "a transitional step in this process from inanimate object to system" — a metaphorical animation of inert mass that anticipates, but cannot accomplish, the literal making of life. `Directly stated`
 
 By Chapter 8 ("Robot and Cyborg Art") the endpoint arrives as **Cyborg Art**, "the cybernetic organism as an art form," where Burnham reports the bio-electronics consensus that "there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter," concluding that "organisms artificially created may possess consciousness." Burnham's 1968 "life-bearing artifacts" and the re-creation of life through the machine are thus an art-world precursor of the wetware/hardware/software AL program [[N. Katherine Hayles]] later maps: both site the redefinition of "life" in the privileging of organized form (or pattern) over matter, and Burnham anticipates Hayles's own embodied caution that the artificial creature is the literal making of a body, not a disembodied code. `Strongly implied`
+
+## Roy Ascott (Telematic Embrace)
+
+For **[[Roy Ascott]]** (*Telematic Embrace*, essays of 1995 and 2000) artificial life is neither a science to be epistemically assessed (Hayles) nor solely an art-historical telos (Burnham), but a working *material and model for art*. In "Back to Nature II" (1995) Ascott takes Christopher Langton's definition of AL and reads it straight across into a theory of interactive art: "For 'life,' read 'art'! By replacing the word 'life' with the word 'art' in the above passage, we can see the parallelism between AL and IA." What AL supplies to art is its method — "Telematic culture shares this bottom-up, distributed, local determination of its art, with no global controller responsible for the behaviour of every part" — so that the same self-organizing logic Hayles places at the heart of the third cybernetic wave becomes, for Ascott, the compositional principle of connectivist/telematic practice. This is a productive rather than critical appropriation: where Hayles asks whether AL's creatures are *really* alive, Ascott asks what art becomes once it is built like life, linking AL to [[Emergence]] and [[Distributed Cognition]]. `Directly stated`
+
+The same 1995 essay sites AL within Ascott's larger forecast of a **rematerialization** of art — "this creativity involving natural systems with artificial life" arriving as a convergence of the immaterial (electronic, virtual) and the material (biological, molecular) trajectories of technology: "A marriage of the immaterial and the material." This couples AL to the "new creativity whose 'engines of creation' will embrace artificial life," and it makes Ascott's relation to [[Material vs Immaterial]] distinctive — AL is not the reinscription of immaterial form over matter that Hayles diagnoses but the very ground on which the two poles are wed. `Directly stated` In the "Moist Manifesto" essay ("Art @ the Edge of the NET: the Future Will Be Moist!", 2000) that marriage is named **moistmedia** — the substrate where "dry pixels and wet molecules converge," "comprising bits, atoms, neurons, and genes" — and AL persists as its open horizon: "as multimedia give way to moistmedia, and interactive art takes on a more psychoactive complexion, consciousness remains the great mysterium, just as intelligent artificial life remains the great challenge." That artificial (dry/digital) and biological (wet) life converge into a third domain art will build in, and that AL is the still-unmet "great challenge" of that domain, is **Interpretive synthesis** of Ascott's speculative moist forecast, anchored on his verbatim claims. `Strongly implied`
 
 ## Sources
 
@@ -186,3 +196,22 @@ Relevant passage:
 > it is generally acknowledged by scientists working in the field of bio-electronics that there are no qualitative physical differences between living and nonliving matter; both groupings represent, simply, an ascending scale of complexity in the organization of matter. Therefore organisms artificially created may possess consciousness.
 
 Supports: Grounds the Burnham author-section — modern sculpture as a preparatory stage toward "the simulation of biological life" / "life-bearing artifacts" (02 Introduction), the converging goal of "understanding living matter through its creation" (04 Chapter 2), and the bio-electronics claim that artificially created organisms "may possess consciousness" (10 Chapter 8). The 1968 art-world precursor of the artificial-life convergence thesis Hayles later maps. Label: `Directly stated`
+
+### Source 9
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]] , [[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]
+Relevant passage:
+
+> For 'life,' read 'art'! By replacing the word 'life' with the word 'art' in the above passage, we can see the parallelism between AL and IA.
+
+> Telematic culture shares this bottom-up, distributed, local determination of its art, with no global controller responsible for the behaviour of every part.
+
+> This rematerialization of art, this creativity involving natural systems with artificial life, will come about as a convergence of the two apparently divergent trajectories of contemporary technology...
+
+> Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century, a transformative art concerned with the construction of a fluid reality.
+
+> So, as multimedia give way to moistmedia, and interactive art takes on a more psychoactive complexion, consciousness remains the great mysterium, just as intelligent artificial life remains the great challenge.
+
+Supports: Grounds the Ascott author-section — AL read directly as a model for interactive/connectivist art via the "For 'life,' read 'art'!" substitution and the "bottom-up, distributed... no global controller" parallel (ch. 28); artificial life as a material in the rematerialization / "marriage of the immaterial and the material" thesis (ch. 28) that becomes **moistmedia**, the convergence of dry-digital and wet-biological life, with "intelligent artificial life" as its "great challenge" (ch. 31). Ascott's productive use of AL as art material and model, distinct from Hayles's critique and Burnham's art-historical telos. Label: `Directly stated` (the moist convergence reading is `Interpretive synthesis` of Ascott's speculative forecast)

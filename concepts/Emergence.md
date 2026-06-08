@@ -12,6 +12,9 @@ sources:
   - "[[raw/Kurzweil - The Singularity Is Near/10 Ch6 - The Impact]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/04 Chapter 2 - The Biotic Sources of Modern Sculpture]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
 related:
   - "[[Artificial Life]]"
   - "[[Feedback Loops]]"
@@ -32,8 +35,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Ray Kurzweil]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Emergence
@@ -349,3 +353,47 @@ Relevant passage:
 > The modern meaning of the organic lies in the gradual moving away from biotic appearances toward biotic functioning via the machine; vitalism is a transitional step in this process from inanimate object to system.
 
 Supports: The object-to-system migration that frames Burnham's account of emergence — the emergent pole is the functioning system, not the vitalist metaphor of life-in-matter (cross-link [[Vitalism]]). Label: `Directly stated`.
+
+### Source 22
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/18 Gesamtdatenwerk: Connectivity, Transformation, and Tran]]
+Relevant passage:
+
+> To network is to be engaged with mind at large, to amplify individual thought and imagination through the dynamic interaction with others in the network. In this enterprise, "others" includes artificial intelligences, sensing systems, and memory stores, as well, of course, as human beings from an enormous diversity of personal and cultural contexts.
+
+Supports: Ascott's relocation of emergence from the single artwork to the planetary network — a higher-order collective field of mind ("mind at large") that emerges from the distributed interaction of many participators, human and artificial; the art-cluster's contribution to the "more real than its substrate" reading of [[Information]]. Cross-link [[Network Consciousness]], [[Distributed Cognition]]. Label: `Directly stated`.
+
+### Source 23
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]
+Relevant passage:
+
+> Connectivity is a principle of life, and the telematisation of consciousness on the planet is carrying us all forward to another level of evolutionary development.
+
+Supports: The emergent leap "into the new" relocated to the planetary scale — connectivity itself treated as a life-principle whose telematic intensification produces a new level of (collective, evolutionary) order; the networked-mind-that-exceeds-its-parts pole of Ascott's account, kept distinct from [[Vitalism]] (grounded in ascending connection, not a vital essence). Label: `Directly stated`.
+
+### Source 24
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]
+Relevant passage:
+
+> the metaphors of a new nature, second-order nature, emergent nature, Nature II, a new creativity whose 'engines of creation' will embrace artificial life.
+
+Supports: Ascott's explicit naming of "emergent nature" — emergence carried onto the convergence of telematics and molecular technology / [[Artificial Life]] (the AL↔IA parallel), the participatory-connectivist pole beside Burnham's cybernetic art object. Cross-link [[Reciprocal Communication]], [[Systems Esthetics]], [[New Media Art]]. Label: `Directly stated`.
+
+### Source 25
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]
+Relevant passage:
+
+> Telematic process involves ambiguity, uncertainty, and incompleteness; meaning is not given but negotiated, endlessly reconstituted and redefined; truth, always relative, does not lie in an absolute location but is embedded in process, is telematically inscribed in the networking that is human behaviour at its most liberated.
+
+Supports: Meaning itself as an emergent, processual property of the network — never given, "endlessly reconstituted," embedded in the [[Reciprocal Communication|networking]] of many participators rather than authored from a single source; the "nets and spurs" register in which mind and meaning emerge from the telematic field. Label: `Directly stated`.

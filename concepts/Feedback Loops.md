@@ -9,6 +9,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/07 Chapter 4 - The Gadget Lover - Narcissus as Narcosis]]"
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]"
+  - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
 related:
   - "[[Cybernetics]]"
   - "[[Embodiment]]"
@@ -22,8 +25,9 @@ authors:
   - "[[Norbert Wiener]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Feedback Loops
@@ -71,6 +75,7 @@ What makes negative feedback load-bearing for Burnham is that it is the principl
 - **Second-order / autopoietic variant (dissent)** — In the second wave, Maturana and Varela turn the loop "inside out": on the premise that systems are informationally closed, "no information crosses the boundary separating the system from its environment," so "the loop no longer functions to connect a system to its environment." This denies that messages circulate in feedback loops at all (see [[Systems Theory]]) and shifts attention from the observed system to the observer.
 - **[[Marshall McLuhan]]** — A physiological / homeostatic register. All extensions of the body are "attempts to maintain equilibrium"; pleasure (counter-irritation) and comfort (removal of irritants) are "strategies of equilibrium for the central nervous system." In the Automation chapter McLuhan also uses "feedback" in its cybernetic sense — "an information loop or circuit" that ends the "one-way flow" of mechanical and typographic linearity. The loop here is equilibrium-seeking and emphatically embodied (see [[Homeostasis]]).
 - **[[Jack Burnham]]** — The art-theoretical register. Negative feedback is the self-regulating principle of the cybernetic art system / servo-mechanism: "any number of coupled systems are designed to maintain a relatively constant input-output relationship," echoing Cannon's homeostasis. Its opposite, positive feedback, is runaway "hunting." Reciprocal, closed-loop feedback is Burnham's criterion separating the responsive [[Cyborg Art]] he forecasts ("any artificial system connected through reciprocal feedback to an organism") from the "one-way message" of all prior sculpture (see [[Negative Feedback (Burnham)]], [[Cybernetics]]).
+- **[[Roy Ascott]]** — The participatory / behavioural register (1964–1970, the earliest in this note and the precursor to Burnham). For Ascott feedback is "the basic principle" of *behaviourist art*: "this loop... makes an integral whole of the triad artist/artwork/observer." The spectator becomes a "decision maker" whose response re-enters as input, so "the artifact/observer system furnishes its own controlling energy." The same loop governs his Ealing pedagogy ("each feeding back to the other"). In "The Psibernetic Arch" (1970) he pushes the principle to a visionary limit, recasting ESP as a medialess "social feedback" — "ESP is instant, but sporadic. Cybernetics is universal, but entropic" (see [[Reciprocal Communication]], [[The Construction of Change]], [[Object vs System]], [[Material vs Immaterial]]).
 
 ## Related Concepts
 
@@ -92,6 +97,14 @@ What makes negative feedback load-bearing for Burnham is that it is the principl
 - When VR trains the user to feel boundaries "defined less by the skin than by the feedback loops," is the body being extended or erased — incorporated into the circuit, or reduced to [[The Body as Data]]?
 - Can the feedback loop link technology to discourse without dissolving materiality into information, given Hayles's claim that incorporation is the "crucial link"?
 - If autopoiesis is right that no information crosses the system boundary, is the entire posthuman picture of subject-environment feedback a category error — and what then becomes of the [[Material vs Immaterial]] distinction the loop was supposed to bridge?
+
+## Roy Ascott (Telematic Embrace)
+
+For Ascott — writing in 1964 and 1966–67, a year or two *before* Burnham — the feedback loop is not a property of the autonomous art object but the constitutive principle of **behaviourist art**: the participatory, two-way relation between artist, artwork, and spectator. Where Burnham reads the loop into the responsive sculptural system, Ascott reads it into the *behavioural* triad. "The participational, inclusive form of art has as its basic principle 'feedback,' and it is this loop that makes an integral whole of the triad artist/artwork/observer" (Source 11). The loop is what converts the spectator from a passive receptor of a finished message into a "decision maker" who completes the work: drawn "into active participation in the act of creation," the spectator establishes "a feedback loop" in which "the artifact/observer system furnishes its own controlling energy: a function of an output variable (observer's response) is to act as an input variable, which introduces more variety into the system" (Source 12). This is the participatory pole of 1960s cybernetic art — the complement to Burnham's object→system [[Systems Esthetics]] (see [[Reciprocal Communication]] and the [[Object vs System]] / [[Material vs Immaterial]] tensions) (`Directly stated`).
+
+Ascott's "Change Painting" (his teaching area at Ealing was literally titled "The Construction of Change") is the keystone of this loop: works "in which the relationships of parts are not fixed and may be changed by the intervention of the spectator," so that the participant "becomes responsible for the extension of the artwork's meaning." The same loop logic governs his pedagogy — in the Ealing Groundcourse the creative and pedagogic activities "interact, each feeding back to the other," and the artist's task is "to unravel the loops of creative activity" (Source 13). The loop is thus, for Ascott, simultaneously an aesthetic, a method, and a theory of education — see [[The Construction of Change]] (`Directly stated`).
+
+In "The Psibernetic Arch" (1970) Ascott pushes the feedback principle to a visionary limit. Extending McLuhan ("as with TV, so with ESP, the medium is the message," Source 14), he proposes that extrasensory perception is the asymptote of cybernetic feedback: telepathy and clairvoyance are "the most perfect form of communication and social feedback imaginable, although its manifestation is erratic" — "more instant than instant electronic communications, because it involves no media." Here the loop is recast as *psi* — a medialess social feedback he names psibernetics — and Ascott crisply opposes its two poles: "ESP is instant, but sporadic. Cybernetics is universal, but entropic" (Source 14). This register is firmly Ascott's own *visionary* mode and should be read as his prediction rather than as fact (`Speculative connection`).
 
 ## Sources
 
@@ -212,3 +225,67 @@ Relevant passage:
 > A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
 
 Supports: Burnham's keystone cyborg definition is itself a definition of a reciprocal feedback loop; establishes reciprocal, closed-loop coupling as the criterion separating responsive [[Cyborg Art]] from the "one-way message" of all prior sculpture. Label: `Directly stated`.
+
+### Source 11
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> The participational, inclusive form of art has as its basic principle 'feedback,' and it is this loop that makes an integral whole of the triad artist/artwork / observer.
+
+Supports: Anchors Ascott's participatory / behavioural feedback principle — the loop as the constitutive bond of the artist/artwork/observer triad, the participatory pole of 1960s cybernetic art complementary to Burnham's object→system systems esthetics. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> to draw the spectator into active participation in the act of creation; to extend him, via the artifact, the opportunity to become involved in creative behaviour on all levels of experience—physical, emotional, and conceptual. A feedback loop is established
+
+And:
+
+> the artifact/observer system furnishes its own controlling energy: a function of an output variable (observer's response) is to act as an input variable, which introduces more variety into the system
+
+Supports: Grounds the spectator-as-decision-maker reading — the observer's response re-enters as input, so the artifact/observer system becomes a self-controlling feedback loop. Establishes the participatory loop as the content of behaviourist art. Label: `Directly stated`.
+
+### Source 13
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]]
+Relevant passage:
+
+> I make structures in which the relationships of parts are not fixed and may be changed by the intervention of the spectator. As formal relationships are altered, so the ideas they stand for are extended.
+
+And:
+
+> To discuss what one is doing rather than the artwork that results, to attempt to unravel the loops of creative activity, is, in many ways, a behavioural problem.
+
+And:
+
+> The two activities, creative and pedagogic, interact, each feeding back to the other. Both, I believe, are enriched.
+
+Supports: Anchors the Change Painting as the keystone of the participatory loop (parts not fixed, alterable by the spectator) and extends the loop to Ascott's Ealing Groundcourse pedagogy ("each feeding back to the other"; "unravel the loops of creative activity") — feedback as simultaneously aesthetic, method, and theory of education (see [[The Construction of Change]]). Label: `Directly stated`.
+
+### Source 14
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]
+Relevant passage:
+
+> Extra-sensory perception, in so far is it has been shown to exist in terms of telepathy and clairvoyance, is the most perfect form of communication and social feedback imaginable, although its manifestation is erratic.
+
+And:
+
+> Art is concerned to give expression to process and system underlying technological culture, and it will be increasingly concerned to ally this with the expression of behaviour at the psychic level. It's worth noting that as with TV, so with ESP, the medium is the message.
+
+And:
+
+> ESP is instant, but sporadic. Cybernetics is universal, but entropic.
+
+Supports: Anchors Ascott's 1970 visionary extension of the feedback principle — ESP as a medialess "social feedback" (psibernetics), extending McLuhan's "the medium is the message" to ESP, with the crisp opposition of the two poles ("ESP is instant, but sporadic. Cybernetics is universal, but entropic"). To be read as Ascott's prediction, not as fact. Label: `Speculative connection`.

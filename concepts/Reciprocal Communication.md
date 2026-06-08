@@ -3,6 +3,9 @@ type: concept
 status: generated
 sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Cyborg Art]]"
@@ -13,8 +16,9 @@ opposes:
   - "[[One-Way Stimulation vs Two-Way Communication]]"
 authors:
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Reciprocal Communication
@@ -35,6 +39,7 @@ The concept therefore supplies the strongest conceptual ground in the chapter fo
 
 - **[[Jack Burnham]]** — reciprocal communication is the dividing criterion that distinguishes Cyborg (post-kinetic) art from the whole prior history of sculpture. Its precondition is intelligence in the work (negative feedback); without it, even participatory and kinetic art delivers only "one-way stimulation."
 - **Norbert Wiener** (cited by Burnham) — supplies the underlying claim that "the reciprocated message is the prime means by which intelligent beings communicate with one another," against the one-way message of the insensate music-box automata. (Wiener is a forward-stub author; *Cybernetics*, 1948, is not in `raw/`.)
+- **[[Roy Ascott]]** — telematic art is the fullest networked realization of reciprocal communication: the one-way Shannon–Weaver model of artist-as-sender and viewer-as-receiver is abolished into a "user" who produces meaning through interaction with the system. "There are no 'senders' and 'receivers' ... but only 'users'"; "meaning is the product of interaction between the observer and the system." This is the "telematic embrace" — the title figure of Ascott's book, which fulfills the Burnham-coined criterion at planetary scale.
 
 ## Related Concepts
 
@@ -54,6 +59,14 @@ The concept therefore supplies the strongest conceptual ground in the chapter fo
 - If reciprocal communication requires the work to "possess some degree of intelligence," at what threshold does an artwork stop being a stimulus and become a genuine interlocutor — and is that threshold aesthetic or technical?
 - Burnham locates the criterion in negative feedback. Does a contemporary interactive or AI-driven artwork satisfy his test, or does it still deliver "one-way stimulation" dressed as response?
 - Is reciprocity between viewer and intelligent artwork continuous with the [[The Cyborg|cyborg]] coupling ("the kind of interaction of two men talking"), or does the latter dissolve the viewer/work distinction reciprocal communication presupposes?
+
+## Roy Ascott (Telematic Embrace)
+
+Roy Ascott is the fullest realization of the criterion Burnham coined. Where Burnham located reciprocal communication in an intelligent object coupled to the viewer through [[Feedback Loops|feedback]], Ascott moves it onto the [[Distributed Cognition|network]]: telematic art abolishes the one-way broadcast model of communication altogether. He rejects "the old models of information theory" — the Shannon–Weaver dyad of source and receiver — and replaces it with participation: "Telematic networks can carry images and texts in new forms of conjunction, mediated by computer process in a flux of meanings in which there are no 'senders' and 'receivers' (as in the old models of information theory) but only 'users,' whose intervention will be more or less creative depending on the degree of their participation in the system" ([[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]). The viewer becomes "a participator who, in accessing the system, transforms it." *Directly stated.*
+
+This is exactly the two-way exchange Burnham held out as the horizon of art, now made networked and reciprocal in the strong sense. In Ascott's keystone essay the asymmetry of sender and receiver is not merely relaxed but mirrored: "This grand reciprocity, this symmetry of sender and receiver, is such that a mirror image is exchanged, in which sender is receiver and receiver sender," so that "the dichotomy of artist/viewer or sender/receiver of the earlier era is resolved into a unitary 'user' of the creative system" ([[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]). Networking is itself figured as a reciprocal bond — "a shared activity of mind and a form of behaviour that is both a dance and an embrace" — the "telematic embrace" of the book's title. *Directly stated.*
+
+Crucially, for Ascott reciprocity means meaning is no longer transmitted but co-produced: "In a telematic art, meaning is not created by the artist, distributed through the network, and received by the observer. Meaning is the product of interaction between the observer and the system, the content of which is in a state of flux, of endless change and transformation" ([[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]). Telematic networking "makes explicit in its technology and protocols what is implicit in all aesthetic experience, where that experience is seen as being as much creative in the act of the viewer's perception as it is in the artist's production." This is the same participatory-system thesis Burnham named through [[Art as Experiential Technology|experiential technology]] and [[Systems Esthetics]], carried from the intelligent object to the planetary [[Distributed Cognition|network]]. *Directly stated.*
 
 ## Sources
 
@@ -89,3 +102,18 @@ Relevant passage:
 > Still, the result in every case was not communication but one-way stimulation for the human party involved.
 
 Supports: Names the opposing pole — all prior art (inert object, mobile, kinetic system) yields "one-way stimulation," not communication; reciprocal communication is what separates Cyborg Art from this entire history. Label: `Directly stated`.
+
+### Source 4
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]] , [[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]
+Relevant passage:
+
+> Telematic networks can carry images and texts in new forms of conjunction, mediated by computer process in a flux of meanings in which there are no 'senders' and 'receivers' (as in the old models of information theory) but only 'users,' whose intervention will be more or less creative depending on the degree of their participation in the system.
+
+> In a telematic art, meaning is not created by the artist, distributed through the network, and received by the observer. Meaning is the product of interaction between the observer and the system, the content of which is in a state of flux, of endless change and transformation.
+
+> Networking is a shared activity of mind and a form of behaviour that is both a dance and an embrace.
+
+Supports: Ascott is the fullest networked realization of the Burnham-coined criterion — telematic art abolishes the one-way sender/receiver (Shannon–Weaver) model for a reciprocal "user" who produces meaning through interaction with the system; the "telematic embrace" is two-way communication at planetary scale. Label: `Directly stated`.

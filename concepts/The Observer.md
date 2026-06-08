@@ -6,6 +6,9 @@ sources:
   - "[[raw/Hayles - How We Became Posthuman/05 Contesting for the Body of Information - The Macy Conferences on Cybernetics]]"
   - "[[raw/Hayles - How We Became Posthuman/11 Narratives of Artificial Life]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
+  - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
+  - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
+  - "[[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]"
 related:
   - "[[Reflexivity]]"
   - "[[Autopoiesis]]"
@@ -17,8 +20,9 @@ authors:
   - "[[N. Katherine Hayles]]"
   - "[[Humberto Maturana]]"
   - "[[Heinz von Foerster]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-08
 ---
 
 # The Observer
@@ -62,6 +66,12 @@ In the **third wave** (Artificial Life) the observer "retreats to the periphery,
 - Maturana's observer is positional, not personal. What is lost for [[Posthumanism]] when the one who sees has "no psychological depth or specificity" — does the Einsteinian observer smuggle back the disembodied, view-from-nowhere subject the theory claims to refuse?
 - In the third wave the observer survives only as narrator/narratee of Artificial Life stories. If the observer's embodiment is what keeps "bodies from being made of information alone," does the peripheral third-wave observer have enough body left to do that work? (ties to [[Material vs Immaterial]])
 - How does the move from a single observer to [[Distributed Cognition]] reconfigure the boundary between the [[The Extrapolated Body|extrapolated body]] and the world it observes?
+
+## Roy Ascott (Telematic Embrace)
+
+Where Hayles tracks the cybernetic observer as an epistemological figure, Roy Ascott dissolves the *art* observer into action: the one who watches does not merely perceive a finished work but behaviourally completes it. From his earliest essay forward, the spectator is recast as a decision maker whose intervention extends the work's meaning — "In response to behavioural clues in a construction (to push, pull, slide back, open, peg in, for example), the participant becomes responsible for the extension of the artwork's meaning. He becomes a decision maker in the symbolic world that confronts him." The artwork is no longer an object addressed to a passive watcher but "a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer." This is Ascott's terminological hinge: the observer becomes the **participator** — "Thus the viewer/observer must be a participator and is of operational importance in the total behaviour of the system. A field theory of art must pay much attention to the participator." Crucially, the participator does not close a discrete message (a passive act) but works the work, "interrogating and interacting with the system 'artwork' to generate meaning." This converges directly with the second-wave figure Hayles describes: Ascott explicitly aligns his participator with the quantum and cybernetic observer — "In both physics and cybernetics, the importance of the observer as participator in creating meaning is recognized. The physicist knows that his observational behaviour and consciousness are a part of what he is observing."
+
+By 1992 Ascott pushes this into the digital image and toward what he calls the **double gaze** — the observing system itself becomes doubled by an artificial eye. The post-photographic viewer is no longer an absorber of a bounded image but an immersed, navigating co-producer: "For the viewer, it's the difference between absorption and immersion," and "the processes of transformation I have described are now in the hands of the viewer as much as the artist." The watcher's power becomes transformation rather than reception — "the repositioning of the viewer, to her empowerment as a manipulator of that image, as the one in whose hands the destiny of the image may lie." And the observing position is no longer exclusively human: "just around the corner… is the artificial observer, the eye of the neural net, the artificial intelligence that will surely become a part of the observing system." Ascott thus extends the cybernetic dissolution of the detached observer from epistemology (Hayles, [[Cybernetics]], [[Autopoiesis]]) into aesthetic practice — the observer folded into the system not as the one who *describes* it but as the one whose behaviour *constitutes* it (see [[Reciprocal Communication]], [[Material vs Immaterial]]).
 
 ## Sources
 
@@ -130,3 +140,36 @@ Relevant passage:
 > The second wave of cybernetics grew out of attempts to incorporate reflexivity into the cybernetic paradigm at a fundamental level. The key issue was how systems are constituted as such, and the key problem was how to redefine homeostatic systems so that the observer can be taken into account.
 
 Supports: The wave-structure framing — first wave excludes, second wave incorporates the observer; situates the observer as the hinge between [[Homeostasis]] and [[Autopoiesis]]. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]] , [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]] , [[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]
+Relevant passage:
+
+> Thus the viewer/observer must be a participator and is of operational importance in the total behaviour of the system. A field theory of art must pay much attention to the participator.
+
+Supports: Ascott's redefinition of the observer as the participator who is constitutive of the system rather than a detached watcher — the art-theoretic counterpart to the cybernetic dissolution of the external observer. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]] , [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]] , [[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]
+Relevant passage:
+
+> In both physics and cybernetics, the importance of the observer as participator in creating meaning is recognized. The physicist knows that his observational behaviour and consciousness are a part of what he is observing.
+
+Supports: Ascott explicitly identifies the art participator with the quantum/cybernetic observer whose consciousness is part of what is observed — the direct convergence with Hayles's second-wave observer. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]] , [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]] , [[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]
+Relevant passage:
+
+> just around the corner… is the artificial observer, the eye of the neural net, the artificial intelligence that will surely become a part of the observing system.
+
+Supports: The double gaze — the observing system doubled by an artificial eye; the observer is no longer exclusively human and is folded into, not separate from, the system. Label: `Directly stated`.

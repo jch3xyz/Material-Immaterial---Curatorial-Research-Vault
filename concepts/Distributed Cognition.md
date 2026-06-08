@@ -15,6 +15,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/37 Chapter 33 - Automation - Learning a Living]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/16 Concerning Nets and Spurs: Meaning, Mind, and Telematic]]"
+  - "[[raw/Ascott - Telematic Embrace/23 Telenoia]]"
 related:
   - "[[Posthumanism]]"
   - "[[Cybernetics]]"
@@ -29,8 +32,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Distributed Cognition

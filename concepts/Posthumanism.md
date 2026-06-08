@@ -20,6 +20,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
+  - "[[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]"
 related:
   - "[[Embodiment]]"
   - "[[Cybernetics]]"
@@ -43,8 +46,9 @@ authors:
   - "[[Yuval Noah Harari]]"
   - "[[Ray Kurzweil]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Posthumanism
@@ -169,6 +173,14 @@ Crucially, Kurzweil denies that any boundary survives at all. In "A Theory of Te
 Two decades before Hayles names the posthuman a point of view and seventeen years before Haraway's cyborg, the critic Jack Burnham's *Beyond Modern Sculpture* (1968) supplies the vault's **earliest, art-theoretic anticipation of the posthuman** — not a politics, diagnosis, eschatology, forecast, or affirmation of *subjectivity*, but a teleology of *art* whose terminus is the literal re-creation of intelligent life. Burnham reads the whole trajectory of modern sculpture as a "preparatory stage" pointed at the simulation of biological life, culminating in what he calls "Cyborg Art" (see [[Cyborg Art]]). His prediction is explicit: "the logical outcome of technology's influence on art before the end of this century should be a series of art forms that manifest true intelligence, but perhaps more meaningfully, with a capacity for reciprocal relationships with human beings (in this case the word viewer seems quite antiquated)" (`Directly stated`). Where the later authors describe the human becoming information, Burnham projects the *artwork* crossing into intelligent, responsive life — and in doing so dissolves the spectator into an interlocutor, the "viewer" rendered obsolete by an art that answers back.
 
 What makes this a posthuman anticipation rather than merely a forecast about machines is Burnham's claim about what abstraction has secretly been *for*. Departing from Worringer's thesis that abstraction relieves "cosmic anguish," Burnham argues that in an industrial-scientific society "the role of artistic abstraction is nothing less than psychic preparation for the entire re-creation of society, including remaking the biological composition of its inhabitants" (`Directly stated`). Modern formalism, on this reading, is the species rehearsing its own self-transformation — a reading he extends in the chapter "Robot and Cyborg Art," where sculpture becomes "a kind of psychical radar signal preparing the human race thousands (or now perhaps only scores) of years in advance" for self-inflicted evolution into a "post-human species." This is the same pattern-over-matter horizon the four later senses converge on — Hayles's "what kind of posthumans," Harari's retirement of *Homo sapiens*, Kurzweil's next evolutionary step — but arrived at from *aesthetics*: art as the early-warning organ of a species preparing to refashion its own biology (`Interpretive synthesis`). Burnham himself flags the teleological climax as speculative, so it is held here as anticipation, not doctrine (`Strongly implied`). His "Cyborg Art" predates Haraway's cyborg by seventeen years and grounds the vault's cybernetic-art thread (see [[Cyborg Art]], [[Systems Consciousness]], [[The Cyborg]]).
+
+## Roy Ascott (Telematic Embrace)
+
+Writing from the practice of telematic art across three essays (1994–2000), Roy Ascott supplies the vault's **post-biological, technoetic pole** of the posthuman — the version in which the human is neither retired (Harari) nor uploaded into a nonbiological substrate (Kurzweil) but *extended* through a new faculty and a new substrate, the bounded individual dissolving into the interface. In "The Architecture of Cyberception" he names the change "the post-biological faculty of 'cyberception'" — "a convergence of conceptual and perceptual processes in which the connectivity of telematic networks plays a formative role" — and grounds it in a body redefined by the network: "The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole." Where Hayles diagnoses the posthuman as a *point of view* and McLuhan projects consciousness "collectively and corporately extended," Ascott affirms the lived dissolution of the unitary subject: "the sense of the individual is giving way to the sense of the interface ... We are all interface. We are computer-mediated and computer-enhanced" — the [[Distributed Cognition|distributed self]] of "telepresence," "the collaborative mind and the connected consciousness replacing the unitary mind and solitary consciousness of the old order of Western thought" (the dissolution of [[The Liberal Humanist Subject]]).
+
+For Ascott this is a transformation we actively undertake: "Not only are we changing radically, body and mind, but we are becoming actively involved in our own transformation," and "the old debate about artificial and natural is no longer relevant. We are only interested in what can be made of ourselves, not what made us" — a refusal of the natural/artificial boundary that converges on Haraway's breached dualisms ("The self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic"). In "Back to Nature II" he sets the post-biological body explicitly alongside Moravec's evolving silicon descendants and reframes art's office in posthuman terms: "Art may come to constitute a form of mediation between human and post-human consciousness, just as, in past cultures, it has been used to mediate between mankind and the gods."
+
+What distinguishes Ascott from the other poles in this note is the *convergence* he forecasts rather than a one-directional escape from matter. Against the dematerializing/immaterializing vector, the late "Moist Manifesto" ("Art @ the Edge of the NET") proposes a third domain in which the digital, the biological, and the spiritual fuse: "Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century" — "MOIST ART is digitally dry, biologically wet, and spiritually numinous." The animating awareness is technoetic: "techne and gnōsis combined into a new knowledge of the world, a connective mind that is spawning new realities and new definitions of life and human identity. A mind that will seek new forms of embodiment." The post-biological attitude carries an imperative to refashion the body — "our frustration with the limitations of our own bodies will demand prostheses and genetic intervention of a high order. We realise that the body, like our own identity, can be transformed, indeed must become transformable" — resonant with Kurzweil's [[Transcending Biology]] but routed through art, shamanism, and the [[Re-enchantment]] of a sentient cosmos rather than engineering. Ascott's posthuman is thus the *affirmative, convergent, technoetic* variant: not pattern over matter (Hayles's premise carried to Harari's obsolescence or Kurzweil's upload), but the dry, the wet, and the numinous married in a "fluid reality" that "will seek new forms of embodiment" (`Directly stated`; the convergence framing `Interpretive synthesis`).
 
 ## Sources
 
@@ -534,3 +546,18 @@ Relevant passage:
 > Art, then, and the whole image-making drive may be means for preparing man for physical and mental changes which he will in time make upon himself. Sculpture, functioning so, becomes a kind of psychical radar signal preparing the human race thousands (or now perhaps only scores) of years in advance.
 
 Supports: The teleological climax of the cyborg-art chapter — sculpture as a "psychical radar signal" preparing the human race for self-inflicted evolution into a "post-human species"; the explicit 1968 figure of the posthuman, flagged by Burnham himself as speculative. Label: `Strongly implied`. Label: `Directly stated` (for the quoted prose).
+
+### Source 34
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]] , [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]] , [[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]
+Relevant passage:
+
+> Actually, the sense of the individual is giving way to the sense of the interface. ... We are all interface. We are computer-mediated and computer-enhanced.
+
+> Between the dry world of virtuality and the wet world of biology lies a moist domain, a new interspace of potentiality and promise. Moistmedia (comprising bits, atoms, neurons, and genes in every kind of combination) will constitute the substrate of the art of our new century, a transformative art concerned with the construction of a fluid reality.
+
+> This burgeoning awareness is technoetic: techne and gnōsis combined into a new knowledge of the world, a connective mind that is spawning new realities and new definitions of life and human identity. A mind that will seek new forms of embodiment.
+
+Supports: Ascott's **post-biological, technoetic pole** of the posthuman — cyberception as a "post-biological faculty," the individual dissolving into the interface and the distributed/connected self, and the *convergence* (rather than escape) of the dry digital, the wet biological, and the spiritually numinous in "moistmedia." Distinct from Hayles's diagnostic point of view, Harari's obsolescence, and Kurzweil's nonbiological upload: the posthuman as a transformable, network-extended being seeking "new forms of embodiment." Label: `Directly stated` (for the quoted prose); the dry/wet/spiritual convergence framing `Interpretive synthesis`.

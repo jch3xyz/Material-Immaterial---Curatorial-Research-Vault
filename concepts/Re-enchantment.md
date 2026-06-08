@@ -7,6 +7,9 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch05 [Network]]]"
   - "[[raw/OGieblyn - God Human Animal Machine/Ch09 [Metonymy]]]"
   - "[[raw/Kurzweil - The Singularity Is Near/11 Ch7 - Ich bin ein Singularitarian]]"
+  - "[[raw/Ascott - Telematic Embrace/30 Weaving the Shamantic Web: Art and Technologies in the ]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
+  - "[[raw/Ascott - Telematic Embrace/32 Technoetic Aesthetics: 100 Terms and Definitions for th]]"
 related:
   - "[[Transhumanism]]"
   - "[[Panpsychism]]"
@@ -21,8 +24,9 @@ authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Max Weber]]"
   - "[[Charles Taylor]]"
+  - "[[Roy Ascott]]"
 confidence: medium
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Re-enchantment
@@ -41,11 +45,18 @@ O'Gieblyn tracks the impulse across several distinct technological forms, each a
 
 Crucially, O'Gieblyn insists — following Charles Taylor — that "Reenchantment is never merely return." The modern person who practices a mystical ritual does not inhabit it as a medieval person did; "even the most regressive superstitions of our era are distinctly modern and encoded with the assumptions of disenchantment." This is what distinguishes re-enchantment from a simple revival of older [[The Computational Universe|enchanted cosmologies]]: it is always disenchantment turned inside out, carrying the categories of data, network, and information into the very gesture meant to escape them. Hence her closing unease about the networked re-enchantment that would dissolve individual minds into a single "mega-conscious" internet — a literal fulfillment of the noosphere prophecy that nonetheless "does not feel like the Kingdom of God."
 
+## Roy Ascott (Telematic Embrace)
+
+Where O'Gieblyn writes as the skeptical diagnostician of re-enchantment, [[Roy Ascott]] is its art-side practitioner and advocate — the figure whose late "technoetic" program enacts the very impulse she suspects (see [[Roy Ascott and Meghan O'Gieblyn]]). The word "re-enchantment" is not Ascott's term, but the move is unmistakable: against a disenchanted, reductive science that "is trying hard to explain consciousness, with distinctly limited success," he proposes that the proper field of art is consciousness itself, and that "technology plus mind" — his coinage *technoetics* — can re-ensoul the world that mechanization emptied. For the artist, he insists, "consciousness is more to be explored than to be explained, more to be transformed than understood, more to be reframed than reported." This is re-enchantment as a methodological wager: not the survival of pre-modern belief, but the deliberate reintegration of the sacred, the paranormal, and the visionary into the most advanced technical culture. His "Technoetic Aesthetics" lexicon makes the program explicit, defining the *technostic* as "having esoteric, occult, spiritual knowledge revealed through technology" and announcing that "Paranormal experience, suppressed in industrial society, is reintegrating into everyday life."
+
+The signature figure of this re-enchantment is the **shamantic web** — Ascott's portmanteau of *shamanic* and *semantic*. Reporting first-person fieldwork at both poles of consciousness-technology (VR research labs and the *ayahuasca* ritual of the Santo Daime, "the 'vine of the soul'"), he treats digital networks and the ancient "plant technology" of shamanism as parallel routes to a **double consciousness**, and writes: "It is as if, through our bio-telematic art, we are weaving what I would call a 'shamantic' web, combining the sense of shamanic and semantic, the navigation of consciousness and the construction of meaning." The artist becomes a re-contextualized shaman, and the "moist" convergence of dry digital and wet biological — the future "will be moist," emerging "from the biotechnology of artificial life" — is offered as a technological reanimation of nature, the dream O'Gieblyn diagnoses pursued in earnest rather than critiqued. As Ascott frames the closing register of "Back to Nature II," art "may come to constitute a form of mediation between human and post-human consciousness, just as, in past cultures, it has been used to mediate between mankind and the gods" — the sacred function transposed wholesale onto the telematic. He is, in O'Gieblyn's typology, an exemplary author of a "reenchantment cosmology"; the difference is one of stance, not structure (Strongly implied / Interpretive synthesis — Ascott does not use the word "re-enchantment").
+
 ## Authors and Variants
 
 - **[[Meghan O'Gieblyn]]** — treats re-enchantment as a suspicious diagnostic category: a family of "reenchantment narratives" (transhumanism, the re-enchanted network, emergentism, panpsychism) that promise to restore meaning through science yet reiterate disenchantment's central failure, the inability to account for mind. She is sympathetic to the longing and skeptical of every fulfillment offered.
 - **[[Max Weber]]** — the antecedent skeptic. In O'Gieblyn's reading of *Science as a Vocation*, Weber warned precisely against science taking up "the mantle of reenchantment, presenting itself as a new form of revelation, or what he called 'academic prophecy'"; he found "a retreat to traditional religions less objectionable than the impulse to find telos or purpose in empiricism." Forward-stub author; deepens when Weber enters `raw/`.
 - **[[Charles Taylor]]** — supplies the structural caveat O'Gieblyn leans on: re-enchantment "is never merely return," because the modern mystic operates inside a disenchanted frame. Forward-stub author.
+- **[[Roy Ascott]]** — the art-side enactor of re-enchantment rather than its critic. Through *technoetics* ("technology plus mind"), the *shamantic web*, *psibernetic phenomena* (telepathy, telekinesis, out-of-body experience folded into telematics), altered states (*ayahuasca* / the Santo Daime ritual), and the "moist" convergence of digital and biological, he reintegrates the shamanic, paranormal, and spiritual into advanced technical culture — re-ensouling the world that reductive science disenchanted. Exemplifies the "reenchantment cosmology" O'Gieblyn diagnoses, from the opposite stance (Strongly implied / Interpretive synthesis — the term "re-enchantment" is not Ascott's).
 - *Forward-reference:* the technology critic Abou Farman supplies the operative phrase "reenchantment cosmologies"; a dedicated section is open should his work be ingested.
 
 ## Related Concepts
@@ -69,6 +80,7 @@ Crucially, O'Gieblyn insists — following Charles Taylor — that "Reenchantmen
 - **Technology and perception:** When delivery robots, smart doorknobs, and home assistants are perceived as ensouled "electronic persons," is this genuine re-enchantment of perception, or — as O'Gieblyn's account of "Intelligence is in the eye of the observer" suggests — an anthropomorphic projection the network exploits?
 - **Meaning:** Can a re-enchantment conducted in the idiom of [[Information]] and network actually restore *intrinsic* meaning, or does it, as O'Gieblyn fears, leave us with "connection" and "sharing" already "coopted by the corporate giants of social platforms"?
 - If re-enchantment "is never merely return" (Taylor), is there any form of re-enchantment that escapes the disenchanted frame — or is every modern enchantment necessarily disenchantment wearing a sacred mask?
+- **The practitioner's wager:** Ascott pursues in earnest exactly what O'Gieblyn diagnoses with suspicion — does the technoetic re-enchantment of consciousness through shamanism and telematics escape her critique, or does it too, in the end, dissolve the mind it claims to restore into a "shamantic web" of distributed data?
 
 ## Sources
 
@@ -137,3 +149,18 @@ Relevant passage:
 > “Panpsychism,” writes Goff, “offers a way of ‘re-enchanting’ the universe. In the panpsychist view, the universe is like us; we belong in it.”
 
 Supports: Documents panpsychism as an explicit, self-described re-enchantment cosmology, grounding the link to [[Panpsychism]] and the claim that the impulse recurs across multiple technological and philosophical forms. Label: `Directly stated`
+
+### Source 7
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/30 Weaving the Shamantic Web: Art and Technologies in the ]] , [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]] , [[raw/Ascott - Telematic Embrace/32 Technoetic Aesthetics: 100 Terms and Definitions for th]]
+Relevant passage:
+
+> It is as if, through our bio-telematic art, we are weaving what I would call a 'shamantic' web, combining the sense of shamanic and semantic, the navigation of consciousness and the construction of meaning.
+
+> Art may come to constitute a form of mediation between human and post-human consciousness, just as, in past cultures, it has been used to mediate between mankind and the gods.
+
+> Having esoteric, occult, spiritual knowledge revealed through technology.
+
+Supports: Grounds the Ascott section as the art-side enactment of re-enchantment that O'Gieblyn diagnoses — technoetics, the shamantic web, altered states/psi, and the "moist" convergence reintegrate the shamanic, paranormal, and spiritual into advanced technology, transposing art's old mediating function with the gods onto the telematic. Supplies the cross-link to [[Roy Ascott and Meghan O'Gieblyn]]. Label: `Strongly implied / Interpretive synthesis` (the word "re-enchantment" does not appear in the chapters; the spiritual/technoetic claims it rests on — "technostic," the shamantic web, art as mediation to the post-human/gods — are directly stated).

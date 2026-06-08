@@ -5,6 +5,10 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]"
+  - "[[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]"
 related:
   - "[[Reciprocal Communication]]"
   - "[[Cyborg Art]]"
@@ -19,8 +23,9 @@ opposes:
   - "[[One-Way Stimulation vs Two-Way Communication]]"
 authors:
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: medium
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Art as Experiential Technology
@@ -44,7 +49,7 @@ Two through-lines bind this concept to the vault's titular axis. First, the expe
 ## Authors and Variants
 
 - **[[Jack Burnham]]** — the realizing primary source. Burnham grounds the concept across kinetic, light, and cybernetic art as the object-to-system migration, culminating in the demand that art move from one-way stimulation to "a sustained two-way experience" and, at the limit, to [[Cyborg Art]] — art with "a capacity" (his term: feedback-based interaction) for reciprocal relationship with the human participant. He frames it as a "potentially rich field of viewer-system interaction." This is the foundational text of [[Systems Esthetics]]. *(Directly stated.)*
-- **Roy Ascott** *(forward — to be added when Ascott is ingested)* — the committed second anchor of this cluster; his cybernetic/telematic art is the expected extension of the concept toward networked, communicative, behaviorist art. *(Not yet in `raw/` — declared, not asserted.)*
+- **[[Roy Ascott]]** *(realized — Telematic Embrace)* — the committed second anchor of this cluster, and chronologically its precursor (his 1966–67 "cybernetic vision" essays predate Burnham's 1968 book). Ascott stakes the participatory / behavioural pole: the artwork as matrix-and-catalyst, completed by the spectator's lived behaviour, extended by 1990 into the telematic embrace where meaning is produced through interaction. See the Roy Ascott section below. *(Directly stated.)*
 
 ## Related Concepts
 
@@ -142,3 +147,47 @@ Relevant passage:
 > A cyborg, then, is any artificial system connected through reciprocal feedback to an organism.
 
 Supports: Burnham's direct definition of the cyborg as reciprocal-feedback coupling supplies the technical ontology of the most advanced experiential art — responsive systems linked to the human through feedback. Label: `Directly stated`.
+
+### Source 7
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> the artifact functions as both matrix and catalyst. As matrix, it is the substance between two sets of behaviours; it exists neither for itself nor by itself. As a catalyst, it triggers changes in the spectator's total behaviour.
+
+Supports: Ascott's functional definition of the behaviourist artifact is the precise statement of art-as-experiential-technology — the work is not an object to contemplate but a device that triggers and structures the participant's lived behaviour. Label: `Directly stated`.
+
+### Source 8
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]]
+Relevant passage:
+
+> I make structures in which the relationships of parts are not fixed and may be changed by the intervention of the spectator. As formal relationships are altered, so the ideas they stand for are extended.
+
+Supports: The *Change-Painting* / *Groundcourse* practice ("The Construction of Change") makes the artwork an experiential device the spectator manipulates — the participant completes the work by behaving with it. Label: `Directly stated`.
+
+### Source 9
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]
+Relevant passage:
+
+> Meaning is the product of interaction between the observer and the system, the content of which is in a state of flux, of endless change and transformation.
+
+Supports: By 1990 Ascott radicalizes Burnham's "sustained two-way experience" into a thesis about meaning itself — the telematic experiential system does not transmit content but produces it through the participant's interaction, the experiential pole pushed to its constructivist limit. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]
+Relevant passage:
+
+> What has changed, though, from the old economy of the image is that the processes of transformation I have described are now in the hands of the viewer as much as the artist.
+
+Supports: Applied to the digital image, the experiential turn becomes co-production — authorship distributed to the participating viewer who transforms the work, the same behaving, completing spectator carried into post-photographic / hypermedia practice. Label: `Directly stated`.

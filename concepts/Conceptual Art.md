@@ -8,6 +8,8 @@ sources:
   - "[[raw/Lippard - Six Years/11 Postface]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/06 Chapter 4 - Form Exhaustion and the Rise of Phenomenalism]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
+  - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
 related:
   - "[[Dematerialization]]"
   - "[[Information]]"
@@ -22,8 +24,9 @@ authors:
   - "[[Sol LeWitt]]"
   - "[[Joseph Kosuth]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Conceptual Art
@@ -51,6 +54,7 @@ Lippard's verdict on the movement is deliberately dual, delivered in the Postfac
 - **[[Joseph Kosuth]]** — the strong, near-tautological pole: "the actual works of art are ideas," with the physical object reduced to a model. (Forward-stub.)
 - **[[Seth Siegelaub]]** — the dealer-as-distributor whose catalogue-as-medium and publication-as-exhibition strategies are the genre's circulatory system. (Forward-stub.)
 - **[[Hans Haacke]]** — exemplar of the systems/information strand and of the movement's political edge (the censored 1971 Guggenheim real-estate piece). (Forward-stub.)
+- **[[Roy Ascott]]** — the participatory/behavioural pole, parallel to and resonant with the conceptual-art turn: his "field theory of art" demotes form in favour of behaviour and makes the participator's idea-generation constitutive of the work. Shanken positions Ascott as proto-conceptual (Lippard quotes Ascott on the dedication page of *Six Years*); Ascott's "art is not... an object" reframing converges with Lippard's idea-over-material inversion from the cybernetic/systems side.
 
 ## Related Concepts
 
@@ -78,6 +82,12 @@ Lippard's verdict on the movement is deliberately dual, delivered in the Postfac
 Jack Burnham's *Beyond Modern Sculpture* (1968) supplies the sculptural counterpart to the conceptual-art turn Lippard charts: where Conceptual art demotes the object in favor of the idea, Burnham tracks an analogous migration in sculpture from the fixed *object* to the interacting *system*. His formula is exact — "It becomes clear that with Object Art physical presence is everything, while for Systems Art 'information' is the key factor" (`Directly stated`, Burnham). The two diagnoses run parallel: Lippard's "idea is paramount and the material form is secondary" and Burnham's relocation of the artwork from physical presence to information are the same de-emphasis of the durable object, reached from the sculptural and the conceptual side respectively. See [[Object and System]] for Burnham's master object→system distinction, and [[Jack Burnham and Lucy Lippard]] for the cross-book bridge.
 
 Burnham also pre-dates Lippard's vocabulary of "dematerialization." Already in the closing chapter of his book's Part I he names sculpture's "steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend" (`Directly stated`, Burnham). This is a systems/information orientation that anticipates the conceptual movement's refusal of the object: the burden of the work shifts from the made form toward the relations, energy, and information it organizes (`Strongly implied`). Burnham's object→system axis is thus a near-contemporaneous sibling of Lippard's idea→document axis — distinct theses (sculpture's immateriality vs. the conceptual-art document) that converge on the same waning of physical presence.
+
+## Roy Ascott (Telematic Embrace)
+
+Roy Ascott reaches the conceptual-art turn from the cybernetic and participatory side, and his editor Edward A. Shanken places him squarely in that lineage: Lippard "prominently quotes [Ascott's 'The Construction of Change'] on the dedication page of her seminal *Six Years*," and Shanken reads telematic art as "an extension of conceptual art" (`Directly stated`, Shanken, editorial introduction). Where Lippard's inversion is idea-over-material, Ascott's is behaviour-over-form. In "Towards a Field Theory for Postmodernist Art" (1980) he proposes "a field theory that would replace the formalist modernist aesthetic. It takes as its focus not form but behaviour" (`Directly stated`, Ascott). The artwork is no longer a discrete object holding a fixed message but "a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer" (`Directly stated`, Ascott) — a relocation of the work into the idea-generating participator that runs parallel to Lippard's relocation of the work into the concept.
+
+The convergence is sharpened by Ascott's 1967 manifesto line, that once "art is a form of behaviour, software predominates over hardware in the creative sphere. Process replaces product in importance, just as system supersedes structure" (`Directly stated`, Ascott, quoted by Shanken). This is the same de-emphasis of the made object that drives Conceptual art's idea→document axis, here reframed as an object→behaviour axis — a sibling, on the [[Material vs Immaterial]] and [[Object and System]] spines, of both Lippard's dematerialization and Burnham's object→system. (Provenance note: ch. 04 is Shanken's editor's introduction *about* Ascott; the field-theory passages are from Ascott's own 1980 essay in ch. 13.)
 
 ## Sources
 
@@ -181,3 +191,18 @@ Relevant passage:
 > This too has vanished and the dialectical tension within twentieth-century sculpture remains its steady gravitation toward seeming immateriality (through forms of attenuated and unstable materiality), while at the same time resisting this trend.
 
 Supports: Burnham's systems/information orientation as the sculptural counterpart to the conceptual-art turn — the object→system shift parallels Lippard's idea→document shift; both demote physical presence in favor of information. Anticipates Lippard's "dematerialization." Spoken by Burnham. Cross-link [[Object and System]], [[Jack Burnham and Lucy Lippard]]. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]], [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]
+Relevant passage:
+
+> I would like to look at the attributes of a paradigm for art, a field theory that would replace the formalist modernist aesthetic. It takes as its focus not form but behaviour
+
+> it looks at a system in which the artwork is a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer.
+
+> When art is a form of behaviour, software predominates over hardware in the creative sphere. Process replaces product in importance, just as system supersedes structure
+
+Supports: Ascott's behaviour-over-form field theory as the cybernetic/participatory counterpart to the conceptual-art turn — the object→behaviour shift parallels Lippard's idea→material inversion; the work is relocated into the idea-generating participator, demoting the durable object. Cross-link [[Material vs Immaterial]], [[Object and System]], [[New Media Art]], [[Art as Experiential Technology]]. The first two passages are Ascott's own words (ch. 13, "Towards a Field Theory for Postmodernist Art," 1980); the third is Ascott's 1967 "Behaviourables and Futuribles" line as quoted by editor Edward A. Shanken (ch. 04). Spoken by Ascott (Shanken-quoted in part). Label: `Directly stated`.

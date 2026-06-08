@@ -6,6 +6,9 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
+  - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
+  - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
 related:
   - "[[Systems Theory]]"
   - "[[Systems Esthetics]]"
@@ -15,8 +18,9 @@ opposes:
   - "[[Material vs Immaterial]]"
 authors:
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # Object and System
@@ -40,6 +44,15 @@ The opposition is ultimately one of ontology and value. "It becomes clear that w
 ## Authors and Variants
 
 - **[[Jack Burnham]]** — coins the pairing as the organizing axis of *Beyond Modern Sculpture* (1968). The object is the inert, place-bound result of the "formative urge"; the system is the mutually-dependent, life-property-bearing aggregate that supersedes it. The transition (object → system) is for Burnham the survival strategy of sculpture under the pressure of technics, and it culminates in [[Systems Esthetics]] and cybernetic/[[Cybernetics]] art. The vocabulary of mutually-dependent components, input/output, equilibrium, and feedback he draws explicitly from [[Systems Theory]] and from cybernetics (Wiener, Bertalanffy, Ashby, Grey Walter).
+- **[[Roy Ascott]]** — pushes the object→system axis fully into participation and the network. Writing in *Telematic Embrace* (essays of 1964, 1966–67, and 1980 that PREDATE or run alongside Burnham), Ascott locates the system not in the autonomous art object but in the behavioural loop the participant activates. The complement to this note below.
+
+## Roy Ascott (Telematic Embrace)
+
+Ascott takes the object→system shift that Burnham reads in the history of the sculptural object and relocates it into *behaviour* — the feedback loop between artist, artwork, and participating spectator. Where Burnham's system is an aggregate of mutually-dependent components that supersedes the inert object, Ascott's system is the participatory event the spectator completes: "The vision of art has shifted from the field of objects to the field of behaviour, and its function has become less descriptive and more purposive." The artwork ceases to be an end-object and becomes a relay: "The work of art occupies a pivotal point between two sets of behaviour, the artist's and the spectator's. It is essentially a matrix, the substance between. It exists neither for itself nor by itself." `Directly stated` This is the participatory pole of 1960s cybernetic art — chronologically the precursor and complement to Burnham's object→system systems esthetics (Ascott's 1964 and 1966–67 essays antedate *Beyond Modern Sculpture* of 1968). `Interpretive synthesis`
+
+For Ascott the move from object to system is also a *method* and an ontology of process: "Everything changes ceaselessly; we investigate our world best by first seeing the system or process before evaluating the 'thing.'" `Directly stated` Identity is relative and presupposes a whole; cybernetics, which "takes a dynamic view of life," supplies the frame in which "phenomena are studied in so far as they do something or are part of something that is being done." This is the same demotion of the discrete "thing" that Burnham names — value migrating from the object's physical presence to the system's organisation, process, and information — but argued from the participatory/behavioural side rather than from the history of sculpture. `Interpretive synthesis`
+
+By 1980 Ascott generalises this into a "field theory of art" in which the object dissolves entirely into a system the viewer interrogates: "it looks at a system in which the artwork is a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer." Art "does not reside in the artwork alone, nor in the activity of the artist alone, but is understood as a field of psychic probability, highly entropic, in which the viewer is actively involved." `Directly stated` The object→system spine of this note thus extends, through Ascott, into participation and ultimately the network: the system is no longer just the sculptural aggregate but the connective, viewer-completed event. `Interpretive synthesis`
 
 ## Related Concepts
 
@@ -158,3 +171,47 @@ Relevant passage:
 > Stated differently, the system becomes the unit by which all levels of fluid organization are analyzed up through and including living organisms.
 
 Supports: Establishes the system as the universal analytic unit, grounding Burnham's claim that systems can manifest the properties of life. Label: `Directly stated`
+
+### Source 10
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]
+Relevant passage:
+
+> The vision of art has shifted from the field of objects to the field of behaviour, and its function has become less descriptive and more purposive.
+
+Supports: Ascott relocates the object→system shift into behaviour — art moves from the object pole to the participatory/behavioural system. Label: `Directly stated`
+
+### Source 11
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]]
+Relevant passage:
+
+> Everything changes ceaselessly; we investigate our world best by first seeing the system or process before evaluating the "thing."
+
+Supports: Ascott's process-before-object method — the system/process is primary and the "thing" (object) is derivative; a 1964 precursor to Burnham's object→system thesis. Label: `Directly stated`
+
+### Source 12
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/05 The Construction of Change]]
+Relevant passage:
+
+> The work of art occupies a pivotal point between two sets of behaviour, the artist's and the spectator's. It is essentially a matrix, the substance between. It exists neither for itself nor by itself.
+
+Supports: The artwork is no longer an autonomous object but a matrix/system between artist and participant — the object demoted to a relay within a behavioural system. Label: `Directly stated`
+
+### Source 13
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]
+Relevant passage:
+
+> it looks at a system in which the artwork is a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer.
+
+Supports: By 1980 the object dissolves into a system/field the viewer completes — the object→system spine extended fully into participation and the network. Label: `Directly stated`

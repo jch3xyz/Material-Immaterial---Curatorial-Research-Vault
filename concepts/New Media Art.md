@@ -5,6 +5,10 @@ sources:
   - "[[raw/Burnham - Beyond Modern Sculpture/08 Chapter 6 - Kineticism - The Unrequited Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/09 Chapter 7 - Light as Sculpture Medium]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
+  - "[[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]]"
+  - "[[raw/Ascott - Telematic Embrace/17 Art and Education in the Telematic Culture]]"
+  - "[[raw/Ascott - Telematic Embrace/25 The ARS Electronica Center Datapool]]"
 related:
   - "[[Kinetic Art]]"
   - "[[Light as a Sculpture Medium]]"
@@ -16,8 +20,9 @@ opposes:
   - "[[Object Art]]"
 authors:
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: medium
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # New Media Art
@@ -39,6 +44,7 @@ These three technological lineages — kinetic, luminous, and cybernetic/respons
 ## Authors and Variants
 
 - **[[Jack Burnham]]** — primary anchor. In *Beyond Modern Sculpture* the ancestry of new media art is the object-to-system migration across kinetic, light, and cybernetic art: the work becomes a `systeme d'art`, then a responsive light environment, then a feedback-coupled cyborg system in which "information" supplants physical presence.
+- **[[Roy Ascott]]** — telematic extension. In *Telematic Embrace* Ascott carries the object→system spine into the networked/telematic phase: art "not as finite object but as process and system," "a web of relationships ... to which no single authorship is attributable," in which the spectator becomes a "participator who, in accessing the system, transforms it."
 - **[[Lucy Lippard]]** — conceptual-art precursor. Lippard's dematerialization of the art object (in *Six Years*) is the parallel/precursor lineage on the conceptual side; Burnham's technologically-driven immateriality and Lippard's dematerialization converge on the disappearance of the discrete material object. `Interpretive synthesis`.
 
 ## Related Concepts
@@ -59,6 +65,14 @@ These three technological lineages — kinetic, luminous, and cybernetic/respons
 - Does the artist–engineer symbiosis dilute or extend authorship, and does it produce a "technology gap" between subsidized and unsubsidized artists?
 - Is technologically-driven immateriality a genuine break from the art object, or — as Burnham hints — does the immaterial aspiration remain shackled to fragile material apparatus?
 - How does Burnham's 1968 ancestry (kinetic/light/cybernetic) extend to the telematic, networked art that Ascott will add to this note?
+
+## Roy Ascott (Telematic Embrace)
+
+If Burnham supplies the cybernetic-art ancestry of new media art (object → system, across kinetic, light, and cyborg art), Roy Ascott carries the same spine forward into its **networked, telematic** phase — the dimension this note was explicitly built to receive. In *Telematic Embrace*, Ascott names the convergence of computers and communications networks as a new artistic medium ("telematics," after Nora and Minc), in which the discrete art object dissolves into a participatory process: "art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network." `Directly stated` (Ch. 15, "Art and Telematics," 1984). The viewer is no longer a spectator before a finished thing but an agent inside a live system: "The observer of the 'artwork' is a participator who, in accessing the system, transforms it." `Directly stated` (Ch. 15). This is Burnham's two-way / cyborg-feedback move (the work as `systeme d'art`, the responsive light environment, the reciprocally communicating cyborg) pushed onto the network — the participatory pole of the systems turn. `Interpretive synthesis`.
+
+Ascott's 1988 statement makes the object-to-process migration explicit and total: "Art does not reside in the object alone, nor is meaning fixed or stable within the physical limits of the artist's work. Art is all process, all system." `Directly stated` (Ch. 17, "Art and Education in the Telematic Culture," 1988). Here the term "telematics" is sourced to its coinage — "the new electronic technology derived from the convergence of computers and telecommunications systems" — and interactivity is named "the essence of all telematic systems," collapsing the artist/viewer (producer/consumer) distinction into the "new composite role" of participant. `Directly stated` (Ch. 17). The networked artwork is never complete; it is, in Ascott's later formulation, "art not as finite object but as process and system, a fluid, moving stream of data configurations." `Directly stated` (Ch. 25, "The ARS Electronica Center Datapool," 1993).
+
+By 1993 Ascott condenses the medium into a canonical schema — "Connectivity, immersion, interaction, transformation, and emergence are the key elements of the electronic arts in the 1990s" — which gives new media art its mature working vocabulary: data flows ("the datapool") into which the public must "plunge" rather than contemplate from a distance, and from which new forms emerge. `Directly stated` (Ch. 25). Across these three decades Ascott extends new media art from Burnham's 1968 cybernetic object-system into the dematerialized, distributed, network-scaled condition of [[Telematic Art]] and [[Network Consciousness]] — the telematic dimension the Burnham-anchored note above does not yet cover. `Interpretive synthesis`. (Ch. 04, Shanken's editor's introduction, frames this lineage but is Shanken's prose, not Ascott's; the durable claims above are Ascott's own essays, chs. 15/17/25.)
 
 ## Sources
 
@@ -105,3 +119,20 @@ Relevant passage:
 > It becomes clear that with Object Art physical presence is everything, while for Systems Art "information" is the key factor.
 
 Supports: Names the decisive shift underlying new media art — from the material object's physical presence to information as the medium, linking the kinetic, light, and cybernetic lineages under one systemic logic. Label: `Directly stated`.
+
+### Source 5
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]] , [[raw/Ascott - Telematic Embrace/15 Art and Telematics: towards a Network Consciousness]] , [[raw/Ascott - Telematic Embrace/17 Art and Education in the Telematic Culture]] , [[raw/Ascott - Telematic Embrace/25 The ARS Electronica Center Datapool]]
+Relevant passage:
+
+> art itself becomes, not a discrete set of entities, but rather a web of relationships between ideas and images in constant flux, to which no single authorship is attributable, and whose meanings depend on the active participation of whoever enters the network.
+
+> The observer of the 'artwork' is a participator who, in accessing the system, transforms it.
+
+> Art does not reside in the object alone, nor is meaning fixed or stable within the physical limits of the artist's work. Art is all process, all system.
+
+> AEC is thus setting a new standard in public access to art, art not as finite object but as process and system, a fluid, moving stream of data configurations, embodied in networks, on screens, in material structures, in installations and environments, endlessly open to transformation and change.
+
+Supports: Extends new media art into its networked/telematic phase — the discrete object dissolves into a participatory, distributed process ("a web of relationships ... to which no single authorship is attributable"; the participator "who, in accessing the system, transforms it"; "Art is all process, all system"), carrying Burnham's object→system spine onto the network. Label: `Directly stated`. (Ch. 04 is Shanken's editorial introduction, not Ascott's prose; the verbatim claims here are from Ascott's own essays, chs. 15/17/25.)

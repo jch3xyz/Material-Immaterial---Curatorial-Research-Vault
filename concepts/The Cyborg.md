@@ -14,6 +14,9 @@ sources:
   - "[[raw/McLuhan - Understanding Media/09 Chapter 6 - Media as Translators]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
+  - "[[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]]"
+  - "[[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]]"
+  - "[[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]"
 related:
   - "[[Posthumanism]]"
   - "[[Embodiment]]"
@@ -34,8 +37,9 @@ authors:
   - "[[Donna Haraway]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Roy Ascott]]"
 confidence: high
-last_updated: 2026-06-05
+last_updated: 2026-06-08
 ---
 
 # The Cyborg
@@ -109,6 +113,14 @@ The point at which McLuhan stops short of the cyborg is precisely the one the Ge
 This is the figure's earliest primary-text appearance in the vault, and an *art-world* deployment of the term that predates Haraway (1985) and Hayles by some seventeen years. Writing in 1968, the critic [[Jack Burnham]] names the terminal stage of his book's object-to-system trajectory "Cyborg Art," which he glosses directly as "the cybernetic organism as an art form" — "the most exotic, if distant, goal" of sculpture and "very gradually becoming the next, and perhaps ultimate stage of sculpture." In the Introduction he announces it as the herald of "the sculpture of the future": "Nothing more spectacular heralds the beginnings of the sculpture of the future than the slow emergence of what is called \"Cyborg Art\" (the art of cybernetic organisms)." For Burnham this is distinct enough to warrant its own heading; in the vault it is cross-linked as [[Cyborg Art]] — the art form proper, as opposed to the cyborg as cultural and ontological figure tracked in the Hayles, Haraway, and McLuhan sections above. (Confidence: Directly stated for Burnham's coinage and definition of Cyborg Art; Interpretive synthesis on its precedence over Haraway and Hayles.)
 
 Burnham also supplies a compact, technical definition of the cyborg itself, grounded in cybernetics rather than in political myth (Haraway) or epistemology (Hayles): "A cyborg, then, is any artificial system connected through reciprocal feedback to an organism." What unifies organism and machine in his account is [[Feedback Loops|reciprocal feedback]] — the same two-way coupling that, for Burnham, separates genuine cyborg art from all prior, one-way sculpture. His criterion for the art form is that it possess "a capacity for reciprocal relationships with human beings," so that the cyborg is for him less a hybrid body than a *system of exchange* joining the human to the responsive artwork. This cybernetic, systems-theoretic framing is the through-line connecting Burnham to Hayles's later informatic cyborg, and the conceptual parallel with Haraway's organism-machine hybrid is developed in [[Jack Burnham and Donna Haraway]]. (Confidence: Directly stated for Burnham's definition and the reciprocal-feedback criterion; Interpretive synthesis on the lineage to Hayles and the parallel with Haraway.)
+
+## Roy Ascott (Telematic Embrace)
+
+[[Roy Ascott]] gives the cyborg a *telematic, networked, and ultimately moist* inflection that none of the prior authors anticipate: where Hayles splices the cyborg at the computer screen and McLuhan extends the nervous system through media, Ascott dissolves the bounded individual into the global network itself. In "The Architecture of Cyberception" (1994) the human sensorium is fused with the planetary net — "The cybernet, the sum of all the interactive computer-mediated systems and telematic networks in the world, is part of our sensory apparatus. It redefines our individual body, just as it connects all our bodies into a planetary whole" — so that "the sense of the individual is giving way to the sense of the interface. … We are all interface. We are computer-mediated and computer-enhanced." This is the cyborg pushed past McLuhan's intact "Man": Ascott's networked body is the heir of McLuhan's extended central nervous system, but it has no prior unextended self left over, and its new faculty of cyberception is named a "post-biological faculty." Cross-linked to [[Cyborg Art]] as the art-form correlate and to [[Roy Ascott and Donna Haraway]] for the organism-machine parallel. (Confidence: Directly stated for the quotations; Interpretive synthesis for reading the cybernet-fused interface as a telematic cyborg.)
+
+In "Back to Nature II" (1995) Ascott states the cyborg thesis directly and folds it into Haraway's breached natural/artificial boundary: "The self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic." The merger is not merely physical but cognitive — "Our prostheses not only amplify and extend the body and its five senses but also augment cognition and memory and subtly transform the personality" — a prosthetic argument that takes McLuhan's [[Media as Extensions of Man|extensions of man]] into Haraway's and Hayles's territory where the prosthesis is constitutive of the self rather than owned by it. (Confidence: Directly stated.)
+
+By the "Moist Manifesto" ("Art @ the Edge of the NET: the Future Will Be Moist!," 2000) the cyborg becomes explicitly *post-biological and transformable*: "Increasingly, the attitude of the mind towards the body is post-biological. Its view is cybernetic, seeking always the perfectibility of systems." Ascott's demand is for a body that is not just augmented but malleable at will — "our frustration with the limitations of our own bodies will demand prostheses and genetic intervention of a high order. We realise that the body, like our own identity, can be transformed, indeed must become transformable" — a register that converges with [[Posthumanism]] and the transhumanist body while retaining Ascott's distinctive spiritual-technoetic optimism. (Confidence: Directly stated.)
 
 ## Sources
 
@@ -362,4 +374,16 @@ Relevant passage:
 > Nothing more spectacular heralds the beginnings of the sculpture of the future than the slow emergence of what is called "Cyborg Art" (the art of cybernetic organisms).
 
 Supports: Burnham's coinage of "Cyborg Art" as the art of cybernetic organisms — the art-world deployment of the cyborg as a distinct art form, anchoring the cross-link to [[Cyborg Art]].
+Confidence: Directly stated
+
+### Source 22
+
+Book: *Telematic Embrace*
+Author: Roy Ascott
+Raw file: [[raw/Ascott - Telematic Embrace/27 The Architecture of Cyberception]] , [[raw/Ascott - Telematic Embrace/28 Back to Nature II: Art and Technology in the Twenty-Fir]] , [[raw/Ascott - Telematic Embrace/31 Art @ the Edge of the NET: the Future Will Be Moist!]]
+Relevant passage:
+
+> The self is a complex system that interconnects with all other systems in a way that renders the line between natural and artificial systems meaningless. We are all becoming, to a greater or lesser extent, bionic.
+
+Supports: Ascott's telematic, networked cyborg — the bionic self in which the natural/artificial line is dissolved (extending Haraway's breached boundary and McLuhan's prosthetic extensions); developed across "The Architecture of Cyberception" ("We are all interface… computer-mediated and computer-enhanced"), "Back to Nature II" (the bionic self; prostheses augmenting cognition), and the "Moist Manifesto" (the "post-biological," transformable body demanding "prostheses and genetic intervention").
 Confidence: Directly stated
