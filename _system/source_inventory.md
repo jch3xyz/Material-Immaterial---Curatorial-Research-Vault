@@ -8,7 +8,7 @@ last_updated: 2026-06-04
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 12 books** (was 27 → 16 → 12). On 2026-06-02 the user removed 11 books, then on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff) — see **Removed from corpus** below. The inventory now matches the disk exactly: all 12 books are present in `raw/`. Of the 12, **11 are ingested** and **1 remains (Ascott)**.
+> **Corpus size: 13 books** (was 27 → 16 → 12 → 13). On 2026-06-02 the user removed 11 books, on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff), then on **2026-06-08 RE-ADDED Zuboff** (*The Age of Surveillance Capitalism*) to the corpus — see **Removed from corpus** below. The inventory now matches the disk exactly: all 13 books are present in `raw/`. Of the 13, **11 are ingested** and **2 remain (Ascott, Zuboff)**.
 
 ## Books in `raw/`
 
@@ -26,8 +26,9 @@ The book corpus for the vault. Each book lives in its own folder under `raw/` an
 | 10  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | ingested |
 | 11  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | ingested |
 | 12  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | ingested |
+| 13  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | **TODO** |
 
-Total: 12 books, 217 raw markdown files (matches disk). 11 ingested (see `log.md`); 1 remains (Ascott).
+Total: 13 books, 242 raw markdown files (matches disk). 11 ingested (see `log.md`); 2 remain (Ascott, Zuboff). Zuboff was re-added 2026-06-08 (25 files: "The Definition" + Ch1-18 substantive = 19 chapters; a big book → use the chunked big-book workflow).
 
 ## Removed from corpus
 
@@ -38,9 +39,9 @@ Intentionally removed by the user after the Burnout Society ingest, trimming the
 - `Benjamin - Illuminations` (Walter Benjamin)
 - `Debord - The Society of the Spectacle` (Guy Debord)
 - `Donella Meadows - Thinking in Systems` (Donella Meadows)
-- `Zuboff - The Age of Surveillance Capitalism` (Shoshana Zuboff)
+- ~~`Zuboff - The Age of Surveillance Capitalism` (Shoshana Zuboff)~~ — **RE-ADDED 2026-06-08** (back in the corpus as book #13, TODO; see table above).
 
-> Note: forward-stub links to these authors/works (e.g. `[[Walter Benjamin]]`, `[[The Society of the Spectacle]]`, `[[Shoshana Zuboff]]`, `[[The Age of Surveillance Capitalism]]`) remain valid as forward-stubs per policy — they simply will not be realized from a primary source now.
+> Note: forward-stub links to the still-removed authors/works (e.g. `[[Walter Benjamin]]`, `[[The Society of the Spectacle]]`) remain valid as forward-stubs per policy — they simply will not be realized from a primary source now. Zuboff's stubs (`[[Shoshana Zuboff]]`, `[[The Age of Surveillance Capitalism]]`) WILL now be realized when she is ingested.
 
 ### Removed 2026-06-02 (11)
 
@@ -85,6 +86,7 @@ These files typically appear in each book folder and are skipped by analysis unl
 - **Lucy Lippard** — Six Years
 - **Marshall McLuhan** — Understanding Media
 - **Meghan O'Gieblyn** — God Human Animal Machine
+- **Shoshana Zuboff** — The Age of Surveillance Capitalism *(TODO; re-added 2026-06-08)*
 
 ## Prototype Book (Phase 3)
 
