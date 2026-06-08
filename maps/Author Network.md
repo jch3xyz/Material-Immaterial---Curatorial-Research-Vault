@@ -72,10 +72,20 @@ See [[_system/source_inventory|Source Inventory]] for the canonical list.
 - [[Jack Burnham and Donna Haraway]] — Cyborg Art (1968) and the Faustian urge to re-create life nonbiologically anticipate Haraway's cyborg (1985); cybernetic pseudo-organisms (interpretive synthesis)
 - [[Jack Burnham and N. Katherine Hayles]] — cybernetics, systems, negative feedback, and nervous-system models as a precursor to the posthuman body and the disembodiment debate (interpretive synthesis)
 - [[Jack Burnham and Marshall McLuhan]] — 1960s technology-and-culture contemporaries: society as one interconnected living system, the electric/cybernetic age, the light bulb as pure information (interpretive synthesis)
+- [[Roy Ascott and Jack Burnham]] — the keystone art-kin bridge: the two great 1960s theorists of cybernetic/systems art; behaviourist art and Cyborg Art / systems esthetics, the shared object → system → network migration; Ascott extends Burnham's deferred [[New Media Art]] and [[Art as Experiential Technology]] stubs
+- [[Roy Ascott and Marshall McLuhan]] — extensions of man / the global village as precursors to telematic networking and network consciousness; media as the reshaping of perception (interpretive synthesis)
+- [[Roy Ascott and N. Katherine Hayles]] — cybernetics, the observer, and the post-biological body: Ascott's affirmative network-consciousness/cyberception beside Hayles's embodiment critique; networking re-materialises rather than dematerialises the body
+- [[Roy Ascott and Lucy Lippard]] — the dematerialization of the art object beside Ascott's rematerialization-by-networking; two readings of the immaterial in art (interpretive synthesis)
+- [[Roy Ascott and Byung-Chul Han]] — the telematic embrace and connective network read against Han's hypercommunication and the digital panopticon; connection vs narcissism (interpretive synthesis)
+- [[Roy Ascott and Meghan O'Gieblyn]] — networking as a 'biotechnological theology' and technology that re-enchants nature, beside O'Gieblyn's disenchantment/re-enchantment frame (interpretive synthesis)
+- [[Roy Ascott and Donna Haraway]] — the post-biological, distributed, networked self beside the cyborg; the breached boundaries of human, machine, and nature (interpretive synthesis)
+- [[Roy Ascott and Hans Moravec]] — the post-biological body and the becoming of a new kind of being beside Moravec's downloading fantasy; the affirmative-vs-critical poles of the post-biological
+- [[Roy Ascott and Ray Kurzweil]] — the post-biological era and the technology of consciousness beside Kurzweil's Singularity; two affirmative visions of human transformation by technology
 
 ## Likely Affinities (to be verified)
 
-- ~~**Lippard ↔ Jack Burnham** *(forward-stub)*~~ — **NOW REALIZED** (see [[Jack Burnham and Lucy Lippard]] under Realized References). 'Systems aesthetics' in the art world; Burnham's *Beyond Modern Sculpture* (1968) is now ingested as the 11th book, the first art/systems-esthetics primary source after Lippard. **Ascott is the one book still to ingest.**
+- ~~**Lippard ↔ Jack Burnham** *(forward-stub)*~~ — **NOW REALIZED** (see [[Jack Burnham and Lucy Lippard]] under Realized References). 'Systems aesthetics' in the art world; Burnham's *Beyond Modern Sculpture* (1968) is now ingested as the 11th book, the first art/systems-esthetics primary source after Lippard.
+- ~~**Ascott** *(the one book still to ingest)*~~ — **NOW REALIZED**: Ascott's *Telematic Embrace* is ingested as the 12th book (10th author), realizing [[Roy Ascott]] as the vault's second art/systems-esthetics author after Burnham and adding nine references (Ascott ↔ Burnham, McLuhan, Hayles, Lippard, Han, O'Gieblyn, Haraway, Moravec, Kurzweil). Ascott extends Burnham's long-deferred [[New Media Art]] and [[Art as Experiential Technology]] stubs and makes [[Material vs Immaterial]] a nine-author tension.
 
 > Dropped when their source books were removed from the corpus: Han ↔ Marcuse and Turner ↔ Waldrop (2026-06-02); Meadows ↔ McLuhan and Zuboff ↔ Han (2026-06-04).
 

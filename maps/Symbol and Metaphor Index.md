@@ -91,6 +91,26 @@ All symbol and metaphor notes.
 - [[The Bicycle Wheel as a Turtle on Its Back]] — Duchamp's immobile wheel (Burnham, Ch6)
 - [[The Light Bulb as Pure Information]] — McLuhan/Piene: art as energy and information (Burnham, Ch7)
 - [[Technology as a Self-Propelled Time-Binding Web]] — autonomous technics (Burnham, Ch8)
+- [[The Artwork as Matrix and Catalyst]] — Ascott: the work not as object but as a generative matrix and catalyst of behaviour and meaning
+- [[The Thermodynamics of an Artwork]] — Ascott: the artwork as an energy/information system, read thermodynamically
+- [[The Psibernetic Arch]] — Ascott: the arch spanning the cybernetic and the psychic; the figure of psibernetics
+- [[Indra's Net]] — Ascott: the Buddhist net of jewels each reflecting all the others; the holomatic figure of network consciousness
+- [[The Invisible College and the Floating Museum]] — Ascott: the distributed, placeless institution of networked learning and exhibition
+- [[The Planet at the Mirror Stage]] — Ascott: the networked planet achieving self-recognition, as the infant before the mirror (via Lacan)
+- [[The Screen of Transformations vs the Mirror of Reflections]] — Ascott: the generative telematic screen against the passive reflecting mirror
+- [[Pollock's Arena as the Epitome of Telematic Networking]] — Ascott: the action-painting field reread as a precursor to the networked arena
+- [[The Window vs the Doorway]] — Ascott: the screen as a doorway to pass through, not a window to look through
+- [[The Seamless Universal Web of Mystics and Madmen]] — Ascott: the connective web that unites visionary states across mysticism and madness
+- [[The Mirror Always Lies]] — Ascott: representation/appearance as falsification; the case against the mirror of reflection
+- [[The Telematic Embrace]] — Ascott: the connective, loving embrace of the network (also a concept note)
+- [[The Wormhole]] — Ascott: the figure of instantaneous passage between distant points/realities through the network
+- [[The Biology of Building vs the Physics of Space]] — Ascott: architecture grown as biology against space conceived as physics
+- [[Growbag Culture]] — Ascott: culture cultivated and grown like a horticultural medium
+- [[Nature as the First Virtual Reality]] — Ascott: nature reread as the original VR, dissolving the natural/artificial divide
+- [[To See in the Mind's Eye Is to Realize in the Material World]] — Ascott: the constructive imagination that brings the envisioned into being
+- [[The Second Body of a Million Molecular Points of Light]] — Ascott: the distributed, luminous post-biological body of telepresence
+- [[Bye-Bye Baudrillard]] — Ascott: the dismissal of postmodern simulacral pessimism in favour of constructive participation
+- [[Hyperculture as Horticulture]] — Ascott: networked hyperculture figured as a cultivated, growing garden
 
 ## Symbols
 
@@ -125,3 +145,8 @@ All symbol and metaphor notes.
 - [[The Tortoise (Machina Speculatrix)]] — Grey Walter's Elmer & Elsie, the first cybernetic organisms (Burnham, Ch8)
 - [[Searcher (Seawright)]] — the patterned-personality cybernetic sculpture (Burnham, Ch8)
 - [[The Pieta Shipped Across the Ocean]] — the irreplaceable Object-Art emblem (Burnham, Ch8)
+- [[The Change Painting]] — Ascott: the early reconfigurable, viewer-altered panel painting; the seed-object of behaviourist art (Ascott)
+- [[The Table]] — Ascott: the diagrammatic table mapping the cybernetic/behaviourist field of art (Ascott)
+- [[The Large Glass]] — Ascott: Duchamp's Bride Stripped Bare reread as a precursor to telematic, observer-completed art (Ascott)
+- [[The Scanning Tunnelling Microscope]] — Ascott: the instrument that constructs what it images at the molecular scale; the prosthesis of vision (Ascott)
+- [[Ayahuasca, the Vine of the Soul]] — Ascott: the shamanic plant technology of consciousness, parallel to the digital web (Ascott)

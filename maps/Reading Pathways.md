@@ -542,3 +542,48 @@ A cross-book pathway placing Burnham's dematerialization of sculpture beside Lip
 - [[Embodiment]] — Hayles's instantiated particular against the disembodiment of information
 - [[Jack Burnham and Lucy Lippard]] — the keystone dematerialization / object-to-system bridge
 - [[Jack Burnham and N. Katherine Hayles]] — cybernetics and systems as a precursor to the posthuman body
+
+## Pathways through *Telematic Embrace* (Roy Ascott)
+
+### Pathway: From cybernetic art to telematics to cyberception
+
+Follows Ascott's five-decade arc, from 1960s behaviourist/cybernetic art through the telematic network to cyberception and the moist/technoetic domain. Useful for thinking art's migration from object to system to network, and the Material/Immaterial axis read into the post-biological.
+
+- [[Behaviourist Art]] — the founding 1960s programme: art as a behavioural feedback system
+- [[The Cybernetic Vision]] — the integrative cybernetic worldview the artist must adopt
+- [[Art has shifted from the field of objects to the field of behaviour]] — the founding thesis
+- [[The Participator]] — the spectator transformed into an active co-producer
+- [[Telematic Art]] — the master concept: art of networked computer-mediated interaction at a distance
+- [[Network as Artwork]] — the network itself, not the object, as the work of art
+- [[Cyberception]] — the augmented faculty that makes immaterial process palpable as material objects
+- [[Technoetics]] — the convergence of technology and consciousness
+- [[Moistmedia]] — the convergence of dry (digital) and wet (biological) into a third 'moist' domain
+- [[Cyberception makes immaterial process perceptible as palpably as material objects]] — the load-bearing argument on the Material/Immaterial axis
+
+### Pathway: The telematic embrace and network consciousness
+
+Traces Ascott's central, most curatorially load-bearing claim — that telematic networking brings a planetary, distributed consciousness into being, against narcissism and paranoia. Useful for thinking connectivity, distributed authorship, and the spiritual charge of the network.
+
+- [[The Telematic Embrace]] — the connective embrace of the network; 'Is there love in the telematic embrace?'
+- [[Network Consciousness]] — the planetary, distributed consciousness telematic networking brings into being
+- [[Telematic networks can create a consciousness greater than the sum of its parts]] — the emergent-network-consciousness claim
+- [[Distributed Authorship]] — authorship dispersed across the network; the work co-produced by many
+- [[Negotiated Meaning]] — meaning produced through interaction and negotiation, not transmitted
+- [[Telenoia]] — networked mind/empathy at a distance; the connective counter to paranoia
+- [[Connection vs Narcissism]] — the telematic embrace as connection vs the closed, mirror-bound self
+- [[Networking answers a desire for transcendence a biotechnological theology]] — the spiritual charge of the network
+- [[Indra's Net]] — the holomatic figure of network consciousness
+- [[Reality is constructed by participatory observation a repudiation of postmodern pessimism]] — observer-created reality against Baudrillardian despair
+
+### Pathway: The Burnham ↔ Ascott cybernetic-art pairing
+
+A cross-book pathway pairing the vault's two great theorists of cybernetic/systems art, from Burnham's object-to-system migration into Ascott's network and post-biological telos. Useful for reading the art/systems-esthetics lineage and the object → system → network spine.
+
+- [[Object and System]] — Burnham's structural axis; the art-historical instance of the Material/Immaterial axis
+- [[Cyborg Art]] — Burnham's 'cybernetic organism as an art form'; the vault's earliest cyborg (1968)
+- [[Behaviourist Art]] — Ascott's contemporaneous behavioural-systems programme
+- [[Art as a Form of Behaviour]] — the reversal of 'the behaviour of forms' into art as a mode of behaviour
+- [[Network as Artwork]] — the migration's endpoint: the network, not the object, as the work
+- [[The Post-Biological Body]] — the body transformed beyond its biological limits
+- [[Roy Ascott and Jack Burnham]] — the keystone art-kin bridge between the two cybernetic-art theorists
+- [[Material vs Immaterial]] — the vault's master axis, now spanning nine author sections
