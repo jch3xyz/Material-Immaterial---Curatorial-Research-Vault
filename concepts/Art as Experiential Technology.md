@@ -9,6 +9,7 @@ sources:
   - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
   - "[[raw/Ascott - Telematic Embrace/20 Is There Love in the Telematic Embrace?]]"
   - "[[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/19 Chapter 17 - The Right to Sanctuary]]"
 related:
   - "[[Reciprocal Communication]]"
   - "[[Cyborg Art]]"
@@ -24,6 +25,7 @@ opposes:
 authors:
   - "[[Jack Burnham]]"
   - "[[Roy Ascott]]"
+  - "[[Shoshana Zuboff]]"
 confidence: medium
 last_updated: 2026-06-08
 ---
@@ -50,6 +52,7 @@ Two through-lines bind this concept to the vault's titular axis. First, the expe
 
 - **[[Jack Burnham]]** — the realizing primary source. Burnham grounds the concept across kinetic, light, and cybernetic art as the object-to-system migration, culminating in the demand that art move from one-way stimulation to "a sustained two-way experience" and, at the limit, to [[Cyborg Art]] — art with "a capacity" (his term: feedback-based interaction) for reciprocal relationship with the human participant. He frames it as a "potentially rich field of viewer-system interaction." This is the foundational text of [[Systems Esthetics]]. *(Directly stated.)*
 - **[[Roy Ascott]]** *(realized — Telematic Embrace)* — the committed second anchor of this cluster, and chronologically its precursor (his 1966–67 "cybernetic vision" essays predate Burnham's 1968 book). Ascott stakes the participatory / behavioural pole: the artwork as matrix-and-catalyst, completed by the spectator's lived behaviour, extended by 1990 into the telematic embrace where meaning is produced through interaction. See the Roy Ascott section below. *(Directly stated.)*
+- **[[Shoshana Zuboff]]** *(The Age of Surveillance Capitalism)* — the inverted, late-modern case. Where Burnham and Ascott build experiential systems the participant *enters* and *completes*, Zuboff's surveillance capitalism turns experiential technology against the human: the ubiquitous sensate apparatus ([[Big Other]]) renders and actuates lived experience without consent. Against it she documents an "art and science of hiding" — a vanguard of artists whose anti-surveillance wearables, masks, and software make the experiential apparatus itself the medium and the adversary. See the Shoshana Zuboff section below. *(Directly stated.)*
 
 ## Related Concepts
 
@@ -73,12 +76,19 @@ Two through-lines bind this concept to the vault's titular axis. First, the expe
 - Does art-as-experiential-technology dissolve the artwork into information and infrastructure (E.A.T., the artist–engineer symbiosis) at the cost of the autonomous object — and is that loss or liberation?
 - Burnham warns of a "technology gap" between subsidized and unsubsidized artists; does experiential technology make art more participatory but less egalitarian to *make*?
 - How does the participant's "living" of the work in real time relate to later regimes of interactivity and self-exposure (the vault's [[Digital Panopticon]] / participation-as-data cluster)?
+- When the experiential apparatus belongs to capital rather than the artist (Zuboff's [[Big Other]]), does the "two-way" system invert into extraction — and is anti-surveillance art (the "art and science of hiding") a continuation of experiential art or its mournful refusal?
 
 ## Roy Ascott (Telematic Embrace)
 
 Roy Ascott is the committed second anchor of this cluster, and chronologically its precursor: his "cybernetic vision" essays (*Behaviourist Art and the Cybernetic Vision*, 1966–67) predate Burnham's *Beyond Modern Sculpture* (1968). Where Burnham reads sculpture's history as a drift from the object toward the responsive system, Ascott stakes out the **participatory / behavioural** pole — art as feedback technology whose value lies entirely in the experience the spectator has when *behaving* with it. His functional definition of the behaviourist artifact is the precise statement of art-as-experiential-technology: "the artifact functions as both matrix and catalyst. As matrix, it is the substance between two sets of behaviours; it exists neither for itself nor by itself. As a catalyst, it triggers changes in the spectator's total behaviour." *(Directly stated.)* The work is not an object to contemplate but a device for triggering and structuring lived behaviour — completed only by the participant, via the [[Feedback Loops|feedback]] triad of artist/artwork/observer. His own *Change-Painting* and the *Groundcourse* ("The Construction of Change") were exactly such experiential devices: interchangeable transparent panels the spectator manipulates, so that "the act of changing becomes a vital part of the total aesthetic experience." *(Directly stated.)*
 
 Ascott also supplies the digital-age version of the experiential apparatus. The computer, for him, is not an extension of physical power like welding gear but "a tool for the mind, an instrument for the magnification of thought, potentially an 'intelligence amplifier,' to use H. Ross Ashby's term" *(Directly stated; via Shanken's edition)* — the experiential system relocated into thought itself. By his 1993 telematic essays the interactive artwork has become "inherently cybernetic," an open-ended system "structurally coupled" to its user, such that "Art is no longer a window onto the world but a doorway through which the observer is invited to enter into a world of interaction and transformation." *(Directly stated.)* This is Burnham's "sustained two-way experience" radicalized into a thesis about reality construction: the experiential technology does not merely respond to the participant, it positions the observer "at the centre of the creative process" so that, in the cyberculture, "to construct art is to construct reality." *(Strongly implied — the experiential pole pushed to its constructivist limit.)* Ascott thus extends this concept from Burnham's kinetic/light/cybernetic sculpture toward the **participatory, interactive, immersive, networked** pole — the same object-to-system spine, read from the side of the behaving, completing spectator. *(Interpretive synthesis for the Ascott↔Burnham complementarity; the two do not cite each other and Ascott is the earlier source.)*
+
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Zuboff supplies the dark, inverted late-modern case of this concept — the chapter (ch. 17, "The Right to Sanctuary") where the vault's art/new-media cluster meets its surveillance cluster most directly. Burnham and Ascott imagine experiential technology as a system the participant freely *enters* and *completes*; Zuboff documents the same responsive, sensate, computational apparatus turned against the human and owned by capital. With [[Big Other]] — the ubiquitous sensate, networked apparatus that "extract[s] and render[s] our experience in order to actuate our behavior" — the "smart" home becomes a one-way extraction system, the precise negation of the two-way, participant-completing work. *(Directly stated.)* Against this, Zuboff names a contemporary artistic vanguard that takes the experiential apparatus *itself* as its medium and adversary: "a new generation of activists, artists, and inventors feels itself called to create the art and science of hiding." *(Directly stated.)* Adam Harvey's "Stealth Wear" garments "separate human experience from the powers that surveil"; his "Think Privacy Selfie Mirror" warns "Today's Selfie Is Tomorrow's Biometric Profile"; Leo Selvaggio's prosthetic masks, Benjamin Grosser's "demetricators," Trevor Paglen, and Ai Weiwei extend the project. *(Directly stated.)*
+
+This is art as experiential technology read against the grain. The anti-surveillance work is responsive, technical, and bodily — wearables, masks, makeup, and software designed to evade computer vision — and so belongs squarely to the lineage of [[New Media Art]] and the responsive system. But its experiential content is *refusal* rather than reciprocal embrace: where Burnham's participant "lives" the work and Ascott's observer enters "a world of interaction and transformation," Zuboff's artist builds a device to *escape* being lived-through by the machine. She is wary that this remains only a defensive gesture — "Our artists, like our young people, are canaries in the coal mine" — and warns that "hiding risks becomes an adaptation when it should be a rallying point for outrage." *(Directly stated.)* For the vault, Zuboff thus completes the arc of this concept: from Burnham's optimistic systems esthetics, through Ascott's networked telematic embrace, to the moment when the experiential apparatus belongs to [[Big Other]] and art's task becomes the recovery of a "proper realm of inaccessibility" against total rendition. *(Interpretive synthesis for the cross-cluster arc; verbatim-anchored on the "art and science of hiding" material.)*
 
 ## Sources
 
@@ -191,3 +201,14 @@ Relevant passage:
 > What has changed, though, from the old economy of the image is that the processes of transformation I have described are now in the hands of the viewer as much as the artist.
 
 Supports: Applied to the digital image, the experiential turn becomes co-production — authorship distributed to the participating viewer who transforms the work, the same behaving, completing spectator carried into post-photographic / hypermedia practice. Label: `Directly stated`.
+
+### Source 11
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/19 Chapter 17 - The Right to Sanctuary]]
+Relevant passage:
+
+> a new generation of activists, artists, and inventors feels itself called to create the art and science of hiding. The intolerable conditions of glass life compel these young artists to dedicate their genius to the prospects of human invisibility.
+
+Supports: Zuboff names a contemporary artistic vanguard that takes the surveillance apparatus itself as medium and adversary — anti-surveillance wearables, masks, and software (Harvey, Selvaggio, Grosser, Paglen, Ai Weiwei). This is art as experiential technology inverted: responsive, technical, bodily work whose experiential content is refusal of being lived-through by [[Big Other]] rather than reciprocal embrace, completing the vault's arc from Burnham's systems esthetics through Ascott's telematic embrace. Label: `Directly stated`.

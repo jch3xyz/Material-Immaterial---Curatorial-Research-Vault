@@ -7,6 +7,14 @@ sources:
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
   - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/07 Chapter 5 - The Elaboration of Surveillance Capitalism - Kidnap, Corner, Compete]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/17 Chapter 15 - The Instrumentarian Collective]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]]"
 related:
   - "[[Digital Panopticon]]"
   - "[[Aperspectival Panopticon (Han)]]"
@@ -21,8 +29,9 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Gilles Deleuze]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-06-08
 ---
 
 # Society of Control
@@ -59,10 +68,19 @@ The objection is precise and turns on Han's [[Positivity]]/[[Negativity]] axis. 
 
 This stands in **mild tension** with the rest of this note. In *Psychopolitics* ch.3 Han embraces Deleuze's "control society" as the regime succeeding discipline (the snake replacing the mole), and in chs.8 and 11 he speaks freely of "a new kind of control society" and "digital control society." In *The Burnout Society* he instead holds that the control-society concept "still contains too much negativity" and substitutes the achievement society. The two treatments are not contradictory in substance — both diagnose a positivized, self-exploiting, post-disciplinary subject — but they differ in which periodizing *name* Han endorses, and against which earlier theorist (Deleuze in *Psychopolitics*, Foucault and the control-society concept alike in *The Burnout Society*). The continuity Han himself stresses is the production drive: "On one level, continuity holds in the paradigm shift from disciplinary society to achievement society." (Interpretive synthesis — comparison across Han's books; the individual claims are each Directly stated in their source chapters.)
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Zuboff names the control regime from the side of the *economic logic and the apparatus* that drive it, where Han and Deleuze name it from the side of the modulated subject. Her successor concept to "control" is **instrumentarian power**, materialized in **Big Other** — "the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior." Modulation here is not metaphor but mechanism: the apparatus completes the move from merely knowing behavior to *acting on it*. In the **economies of action** phase, machine processes "nudge, tune, herd, manipulate, and modify behavior in specific directions by executing actions as subtle as inserting a specific phrase into your Facebook news feed, timing the appearance of a BUY button on your phone, or shutting down your car engine when an insurance payment is late." Where Deleuze figured open, continuous modulation and Han the voluntary self-exposure of the snake/achievement-subject, Zuboff supplies the surveillance-capitalist engine: control as *guaranteed outcomes* manufactured for profit. Crucially she stresses the *unilateral* character that Han's voluntary thesis softens — control reaches "from an online data source to a real-world monitor to an advisor to an active shepherd—from knowledge to influence to control" — and operates "outside the driver's awareness while she still thinks that she is free," the same felt-freedom-while-controlled paradox Han names but with the economic imperative made explicit. (Directly stated — *The Age of Surveillance Capitalism* chs.1, 5, 7, 10.)
+
+The continuous, real-time character of control-society modulation becomes concrete in Zuboff's **uncontract** and the three techniques of behavior modification — **tuning, herding, and conditioning**. Premiums "can now rise and fall from millisecond to millisecond"; the uncontract "desocializes the contract, manufacturing certainty through the substitution of automated procedures for promises, dialogue, shared meaning, problem solving, dispute resolution, and trust." This is "not the automation of society, as some might think, but rather the replacement of society with machine action dictated by economic imperatives." The shift Zuboff diagnoses — "We are learning how to write the music, and then we let the music make them dance" — is Deleuzian modulation realized as actuation: control no longer confines but composes the context within which behavior moves, "shifting the locus of control over the future tense from 'I will' to 'You will.'" Where Deleuze's control society still implied a society to modulate, Zuboff's endgame is the substitution of certainty *for* society itself: "instrumentarian power replaces social trust, Big Other substitutes certainty for social relations, and society as we know it shades into obsolescence." (Directly stated — *The Age of Surveillance Capitalism* chs.7, 10, 13, 14.)
+
+Zuboff's most pointed divergence from the control-society lineage is her insistence that her object is *not* totalitarianism and *not* the disciplinary gaze, but a third thing whose modulation does not even require conformity. "Totalitarianism was a transformation of the state into a project of total possession. Instrumentarianism and Big Other signal the transformation of the market into a project of total certainty." Its way of knowing is **radical indifference** — "a form of observation without witness" — and its social form is **the hive / confluence**, in which "the 'freedom' of each individual machine is surrendered to the knowledge that they share" and the human collective becomes "a population that ebbs and flows in perfect frictionless confluence, shaped by the means of behavioral modification that elude our awareness and thus can neither be mourned nor resisted." In the lived hive (Facebook as "a prototype of instrumentarian society, not a prophecy"), control is engineered as a condition of "no exit" in which "first we do not even have to look away, and later we cannot" — the terminal form of the frictionless, self-illuminating modulation the control society names, now run for surveillance revenues. (Directly stated — *The Age of Surveillance Capitalism* chs.13, 14, 16.)
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Reframes the society of control as the apotheosis of transparency and achievement: a decentered, aperspectival panopticon sustained by voluntary self-display, hypercommunication, and auto-exploitation, in which "communication and commerce, freedom and control, collapse into one." Its imperative is economic rather than the moral/biopolitical one Bentham envisaged. In *Psychopolitics* he adds the Deleuzian armature — the mole/snake, subject/project, body/soul, and debt — and names Deleuze directly, plus the claims that "communication and control have become one, without remainder" (ch.8) and that Web 3.0 completes the digital control society (ch.11). In *The Burnout Society*, by contrast, he **rejects** "control society" as the successor name — it "still contains too much negativity" — and substitutes [[Achievement Society]], a mild periodizing tension with the *Psychopolitics*-era treatment. (Directly stated.)
 - **[[Gilles Deleuze]]** — Originator of the phrase "societies of control" ("Postscript on the Societies of Control," 1990), describing the passage from Foucault's enclosed disciplinary milieus to continuous modulation. *Directly stated* — in *Psychopolitics* ch.3 Han names Deleuze and cites the "Postscript" three times, supplying the provenance the *Transparency Society* chapter left implicit. Forward-stub: Deleuze has no book in the library yet. (Directly stated — *Psychopolitics* ch.3.)
+- **[[Shoshana Zuboff]]** — Names the control regime from the side of its economic logic and apparatus: **instrumentarian power** materialized in **Big Other**, in which Deleuzian modulation becomes actuation through **economies of action** (tuning, herding, conditioning) and the **uncontract**. Control "make[s] them dance" to externally composed music, "shifting the locus of control over the future tense from 'I will' to 'You will,'" and operates beneath awareness while the subject "still thinks that she is free." She stresses the *unilateral* and *profit-driven* character Han's voluntary thesis softens, distinguishes instrumentarianism sharply from totalitarianism ("total possession" vs "total certainty"), and pushes the formation to its endgame — "the substitution of certainty for society," the frictionless **hive**, and the engineered "no exit." (Directly stated — chs.1, 5, 7, 10, 13, 14, 16.)
 
 ## Related Concepts
 
@@ -85,6 +103,7 @@ This stands in **mild tension** with the rest of this note. In *Psychopolitics* 
 - Han claims the society of control produces only "additive" gatherings and "brand communities" that "lack spirit" and "no longer constitute an outside that might question the systemic inside." What feedback would let a system saturated with hypercommunication generate genuine negativity rather than self-reinforcing modulation? (systems/feedback)
 - If "illumination is exploitation," is there a practice of opacity or distance that interrupts control without merely restoring the despotic concealment of power's arcana? (visibility vs understanding; desire)
 - Does Deleuze's vocabulary of continuous modulation describe something Han's panoptic framing misses — control as a flowing, feedback-tuned process rather than a generalized gaze? (systems/feedback)
+- If Zuboff is right that instrumentarian modulation "make[s] them dance" by actuating behavior rather than merely watching it, does "control" still name a relation of power, or has it become a relation of manufacture — and what would it mean to refuse to be made? (systems/feedback; desire)
 
 ## Sources
 
@@ -241,3 +260,20 @@ Relevant passage:
 > Disciplinary society is a society of negativity. It is defined by the negativity of prohibition. The negative modal verb that governs it is May Not. ... Unlimited Can is the positive modal verb of achievement society.
 
 Supports: Grounds the basis of Han's rejection — control society still carries the negativity of prohibition that defines discipline, whereas the achievement society is governed by positivity (the unlimited Can), the Positivity/Negativity axis on which the periodizing substitution turns. Label: `Directly stated`.
+
+### Source 15
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]] , [[raw/Zuboff - The Age of Surveillance Capitalism/07 Chapter 5 - The Elaboration of Surveillance Capitalism - Kidnap, Corner, Compete]] , [[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]] , [[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]] , [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]] , [[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]] , [[raw/Zuboff - The Age of Surveillance Capitalism/17 Chapter 15 - The Instrumentarian Collective]] , [[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]]
+Relevant passage:
+
+> These interventions are designed to enhance certainty by doing things: they nudge, tune, herd, manipulate, and modify behavior in specific directions by executing actions as subtle as inserting a specific phrase into your Facebook news feed, timing the appearance of a BUY button on your phone, or shutting down your car engine when an insurance payment is late.
+
+> This is not the automation of society, as some might think, but rather the replacement of society with machine action dictated by economic imperatives.
+
+> Totalitarianism was a transformation of the state into a project of total possession. Instrumentarianism and Big Other signal the transformation of the market into a project of total certainty…
+
+> We will all be safe as each organism hums in harmony with every other organism, less a society than a population that ebbs and flows in perfect frictionless confluence, shaped by the means of behavioral modification that elude our awareness and thus can neither be mourned nor resisted.
+
+Supports: Anchors the Zuboff section. Establishes the control-society successor as *instrumentarian power / Big Other*, in which Deleuzian continuous modulation becomes actuation (economies of action: tuning, herding, conditioning; the uncontract), distinguishes it from totalitarianism, and pushes the formation to its endgame — the substitution of certainty for society and the frictionless hive. Label: `Directly stated`.

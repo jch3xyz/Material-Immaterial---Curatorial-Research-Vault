@@ -5,6 +5,14 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/04 Biopolitics]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/05 Chapter 3 - The Discovery of Behavioral Surplus]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/11 Chapter 9 - Rendition from the Depths]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Psychopolitics]]"
   - "[[Dataism]]"
@@ -19,8 +27,9 @@ opposes:
   - "[[Narrativity]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Big Data
@@ -56,11 +65,20 @@ Han's critique is that Big Data is purely *additive* and therefore yields correl
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Big Data is the technical condition of possibility for psychopolitics: an aperspectival, never-forgetting, market-and-state apparatus that draws a collective psychogram of the unconscious, predicts and pre-empts behaviour through micro-targeting, sorts persons via the ban-opticon, and — being additive rather than narrative — produces correlation without Spirit, announcing "the end of the person who possesses free will."
+- **[[Shoshana Zuboff]]** — Big Data is the *supply side* of surveillance capitalism's logic of accumulation: human experience is unilaterally claimed as free raw material, refined by "machine intelligence" (the "ultimate tapeworm" that "reaches its full potential for quality only as it approximates totality") into prediction products traded in behavioral futures markets. Where Han diagnoses the apparatus from the subject's side, Zuboff supplies the *political economy* — behavioral surplus, the prediction imperative, and the digital dossiers of the "shadow text" that "evaluate, categorize, and predict our behavior in millions of ways that we can neither know nor combat." Its instrumentarian endpoint is "the substitution of certainty for society."
 - **[[Jeremy Bentham]]** — *Foil.* Han measures Big Data against Bentham's perspectival panopticon, which left blind spots and lacked an efficient recording system; Big Data is "Columbus's egg" for digital control society, more efficient than Bentham's design. (Directly stated — Ch11.)
 - **[[Walter Benjamin]]** — *Source of the analogy.* Han borrows Benjamin's "optical unconscious" from the artwork essay to coin the "digital unconscious." (Directly stated — Ch11.)
 - **[[Sigmund Freud]]** — *Source of the analogy.* The "id (Es)" supplies the model for the unconscious inclinations Big Data is said to access and exploit. (Directly stated — Ch11.)
 - **[[Hegel]]** — *Foil.* Hegel's Concept and syllogism furnish the standard against which Big Data's "absolute knowledge" is revealed as "absolute ignorance." (Directly stated — Ch11.)
 - **[[Michel Foucault]]** — Han builds the biopolitics/statistics contrast on Foucault's account of disciplinary and biopolitical power; Big Data marks the threshold biopolitics cannot cross. (Directly stated — Ch4.)
+
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+For Zuboff, Big Data is not the master term it is for Han — she subordinates it to the economic logic that *consumes* it. Big Data is the raw-material flow that surveillance capitalism turns into power. The pipeline begins with **behavioral surplus**: "These behavioral data available for uses beyond service improvement constituted a surplus, and it was on the strength of this behavioral surplus that the young company would find its way to the 'sustained and exponential profits' that would be necessary for survival." That surplus is refined by **machine intelligence**, whose appetite is total: "As the ultimate tapeworm, the machine's intelligence depends upon how much data it eats," and it "reaches its full potential for quality only as it approximates totality." The output is **prediction products** — "Machine intelligence processes behavioral surplus into prediction products designed to forecast what we will feel, think, and do: now, soon, and later" — sold "into a new kind of market that trades exclusively in future behavior." This is the *political economy* beneath the apparatus Han diagnoses: where Han stresses the subject's voluntary self-exposure, Zuboff stresses unilateral claiming and asymmetry — the data are accumulated "from us, but not for us." (Directly stated.)
+
+The accumulation of behavioral surplus reorganizes society around what Zuboff calls the **division of learning in society**, whose three questions — "Who knows? Who decides? Who decides who decides?" — are answered by surveillance capital. The surplus fills a hidden "shadow text": "a burgeoning accumulation of behavioral surplus and its analyses, and it says more about us than we can know about ourselves," and "the work of the shadow text is to evaluate, categorize, and predict our behavior in millions of ways that we can neither know nor combat—these are our digital dossiers." Big Data thus produces the same asymmetries of knowledge and power Han locates in the [[Digital Panopticon]], but Zuboff names their *ownership*: the apparatus is operated by "a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn." (Directly stated.)
+
+In its instrumentarian phase, the data project aims past prediction at modification — the dream that total knowledge will, as Han also argues, dissolve free will into calculability. Zuboff's verdict converges with Han's "end of the person who possesses free will" while routing it through the market: the apparatus pursues "a project of total certainty," "substituting machines for social relations, which amounts to the substitution of certainty for society," a "future of certainty accomplished without violence" in which "the price we pay is not with our bodies but with our freedom." Big Data, on this reading, is the engine of an [[Dataism]] turned into a logic of accumulation — and resonant with the surveillance-and-control cluster of [[Digital Panopticon]], [[Society of Control]], and [[Psychopolitics]]. (Directly stated.)
 
 ## Related Concepts
 
@@ -86,6 +104,7 @@ Han's critique is that Big Data is purely *additive* and therefore yields correl
 - Does Han's "digital unconscious" describe a real epistemic capacity of data-mining, or is it (like Benjamin's "optical unconscious") a metaphor whose literalization is itself part of the dataist faith?
 - Can the ban-opticon's sorting of persons into "waste" be resisted from within a regime where subjects voluntarily supply the data that classifies them?
 - If correlation without the Concept is "absolute ignorance," what would a *narrative* or *contemplative* counter-practice to Big Data look like?
+- Han and Zuboff both arrive at "the end of free will," one via the psyche and one via the market — is Big Data's threat to freedom essentially psychopolitical (an intervention in the subject) or essentially economic (a logic of accumulation), and does the difference change what resistance is possible?
 
 ## Sources
 
@@ -209,3 +228,20 @@ Relevant passage:
 > Not what is statistically likely, but what is unlikely - the singular, the event - will shape history, in other words, the future of mankind. Thus, Big Data is blind to the future too.
 
 Supports: Big Data's blindness to the event and the singular, tied to its homogenizing "hypertrophied sameness" ([[Gleichschaltung]] / [[Hell of the Same]]). Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]] , [[raw/Zuboff - The Age of Surveillance Capitalism/05 Chapter 3 - The Discovery of Behavioral Surplus]] , [[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]] , [[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]] , [[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]] , [[raw/Zuboff - The Age of Surveillance Capitalism/11 Chapter 9 - Rendition from the Depths]] , [[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]] , [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]
+Relevant passage:
+
+> As the ultimate tapeworm, the machine's intelligence depends upon how much data it eats.
+
+> Machine intelligence processes behavioral surplus into prediction products designed to forecast what we will feel, think, and do: now, soon, and later.
+
+> The shadow text is a burgeoning accumulation of behavioral surplus and its analyses, and it says more about us than we can know about ourselves.
+
+> In the age of surveillance capitalism it is instrumentarian power that fills the void, substituting machines for social relations, which amounts to the substitution of certainty for society.
+
+Supports: Establishes the Zuboff section — Big Data as the supply side (behavioral surplus) of surveillance capitalism's logic of accumulation: refined by an all-consuming machine intelligence into prediction products, accumulated in the asymmetric "shadow text," and aimed at "total certainty." The political-economy counterpart to Han's psychopolitical apparatus, converging on the dissolution of free will (Han) / freedom (Zuboff). Label: `Directly stated`.

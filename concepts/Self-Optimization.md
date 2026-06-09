@@ -5,6 +5,7 @@ sources:
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
   - "[[raw/Han - Psychopolitics/06 Healing as Killing]]"
   - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]"
 related:
   - "[[Auto-Exploitation]]"
   - "[[Achievement Society]]"
@@ -17,8 +18,9 @@ opposes:
   - "[[Positivity vs Negativity]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-06-08
 ---
 
 # Self-Optimization
@@ -57,9 +59,16 @@ The doping society gives self-optimization its purest emblem. The euphemism reve
 
 The cost is the one Han returns to across both books — the destruction of [[Negativity|negativity]]. The doping society's relentless performance-enhancement is generated within "a world that is poor in negativity and in turn dominated by excess positivity," and its "flipside" is mass exhaustion: "the society of achievement and activeness is generating excessive tiredness and exhaustion," and "The excessiveness of performance enhancement leads to psychic infarctions." `Directly stated`. The fuller treatment of the *Leistungsmaschine* and the neuroenhancement figure lives in [[Doping Society]]; its psychic culmination — the optimizing imperative that "is proving destructive" and "leading to mental collapse" — is carried by [[Healing as Killing]]. Self-optimization is the thread that binds them: technique, performance-machine, and the killing dressed as healing are three faces of one neoliberal drive. `Interpretive synthesis`.
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+[[Shoshana Zuboff]] approaches self-optimization from the other side of the ledger. Where Han reads the self-tracking, fitness-and-health subject as the agent of its own auto-exploitation, Zuboff exposes the third-party economic logic that the optimizing subject does not see: the apps and wearables through which one optimizes diet, sleep, mood, and movement are also instruments of **rendition** — "the concrete operational practices through which dispossession is accomplished, as human experience is claimed as raw material for datafication and all that follows, from manufacturing to sales." `Directly stated`. In Chapter 8 ("Rendition: From Experience to Data"), the self-quantifying body is precisely the new frontier: "Your body is reimagined as a behaving object to be tracked and calculated for indexing and search," and "There are many new territories of body rendition: organs, blood, eyes, brain waves, faces, gait, posture." `Directly stated`. The self that Han's subject works to optimize is, for Zuboff, simultaneously being mined as **behavioral surplus** for prediction and profit. `Strongly implied`.
+
+This sharpens the cross-author bridge. The very m-health and fitness economy that promises boundless self-improvement is, in Zuboff's reading, a surveillance economy whose disclosures are inverted: she finds that "privacy policies are more aptly referred to as surveillance policies, and that is what I suggest we call them." `Directly stated`. Where Han locates the destructiveness of self-optimization in the elimination of [[Negativity|negativity]] and the slide toward mental collapse, Zuboff locates it in the asymmetry of knowledge and power — rendition that is "unauthorized, unilateral, gluttonous, secret, and brazen." The two diagnoses are complementary: Han names the interiorized imperative that makes us *want* to self-optimize; Zuboff names the extractive apparatus that turns that wanting into raw material, so that the optimized, self-tracking body becomes a node in the [[Digital Panopticon]] and an engine of [[Dataism|dataist]] accumulation. `Interpretive synthesis`.
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Self-optimization is "the exemplary neoliberal technology of the self," a perpetual imperative that interiorizes domination as freedom, that has "no concern for the good life" and serves only "perfect functioning within the system," and that culminates in "total self-exploitation" and "mental collapse." It takes the twin forms of body-optimization (cosmetic surgery, the fitness studio, sexiness-and-fitness as economic resources) and mental optimization (neuro-enhancement, self-management seminars, the "healing" of self-help), and it carries "religious - indeed, fanatical - traits." `Directly stated`.
+- **[[Shoshana Zuboff]]** — Reframes the self-optimizing subject as a site of *rendition*: the fitness, diet, sleep, and biometric apps through which one optimizes the body are instruments by which "your body is reimagined as a behaving object to be tracked and calculated," its lived experience claimed as behavioral surplus for prediction and profit. The optimizing self is thus also the surveilled self; its "privacy policies are more aptly referred to as surveillance policies." Complements Han's interiorized imperative with the external extractive logic it feeds. `Directly stated`.
 
 ## Related Concepts
 
@@ -68,6 +77,8 @@ The cost is the one Han returns to across both books — the destruction of [[Ne
 - [[Exploitation of Freedom]] — the broader thesis that power consumes freedom as its resource; self-optimization is the mechanism by which "self-optimization and submission, freedom and exploitation, fall into one."
 - [[Negativity]] — what self-optimization works to "therapeutically eliminate"; for Han this elimination is what makes optimization destructive, since "without negativity, life degrades into 'something dead'."
 - [[Positivity]] — the regime self-optimization installs; Han warns that "the violence of positivity is just as destructive as the violence of negativity."
+- [[Digital Panopticon]] — for Zuboff, the self-tracking, self-optimizing body is rendered into behavioral data through the ubiquitous apparatus; the optimizing subject is simultaneously the surveilled subject.
+- [[Dataism]] — Zuboff's rendition of the optimizing body as a "behaving object to be tracked and calculated" is the operational underside of the dataist worldview.
 
 ## Opposing Concepts
 
@@ -81,6 +92,7 @@ The cost is the one Han returns to across both books — the destruction of [[Ne
 - **Healing as harm.** Han argues that "healing means killing." What distinguishes therapeutic self-care that genuinely heals from self-optimization that "coincides point-for-point with the optimization of the system"? Is the line drawable from inside the imperative, or only from the negativity it forecloses?
 - **Systems / feedback.** When the optimized self coincides "point-for-point" with the optimized system, the loop closes with no remainder. What, if anything, could interrupt a self-optimizing subject that experiences its own exhaustion as a further task to optimize?
 - **Religion.** Han reads self-optimization as a secularized Protestant technology of subjectivation — "hunting down negative thoughts" in place of sins. Does naming its "fanatical traits" expose self-optimization as belief, and would unmasking it as ideology be enough to loosen its grip?
+- **Self-tracking as surveillance.** If Zuboff is right that the apps through which one optimizes the body render it as "a behaving object to be tracked and calculated," does Han's auto-exploiting subject also become a producer of behavioral surplus for others? Is the optimizing self the agent of its own exploitation (Han) or the unwitting raw material of someone else's accumulation (Zuboff) — and can it be both at once?
 
 ## Sources
 
@@ -182,3 +194,14 @@ Relevant passage:
 > In the meanwhile, the negative expression “brain doping” has been replaced by “neuroenhancement.” Doping makes it possible to achieve without achieving, so to speak.
 
 Supports: Grounds the doping-society emblem of self-optimization — neuroenhancement as the optimization of the substrate of performance, decoupling achievement from effort ("achieve without achieving"). Cross-links to [[Doping Society]] and [[Healing as Killing]]. Label: `Directly stated`.
+
+### Source 10
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]
+Relevant passage:
+
+> Your body is reimagined as a behaving object to be tracked and calculated for indexing and search.
+
+Supports: Anchors the **Shoshana Zuboff** section. The self-tracking, self-optimizing body is, in Zuboff's account, rendered as "a behaving object to be tracked and calculated" — the extractive counterpart to Han's interiorized optimizing imperative, grounding the cross-links to [[Digital Panopticon]] and [[Dataism]]. Label: `Directly stated`.

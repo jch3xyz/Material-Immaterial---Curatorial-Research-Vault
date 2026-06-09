@@ -4,9 +4,11 @@ status: generated
 symbol: "The Transparent Customer"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/11 Ch8 - Unveiling]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/05 Chapter 3 - The Discovery of Behavioral Surplus]]"
 related:
   - "[[Digital Panopticon]]"
   - "[[Homo Sacer]]"
@@ -16,7 +18,7 @@ related:
   - "[[Society of Control]]"
   - "[[The Transparency Society]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-08
 ---
 
 # The Transparent Customer
@@ -61,6 +63,12 @@ Symbolically, the transparent customer also recurs (unnamed but operative) where
 - [[Moral vs Economic Telos of the Panopticon]] — the tension the transparent customer crystallizes
 - [[Trust]] vs [[Transparency]] — the social-epistemic tension into which the customer is inserted
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Where Han's transparent customer is illuminated *for* an economic purpose, [[Shoshana Zuboff]] supplies the political economy that names what that purpose is and how it works — and in doing so she sharply *inverts* the figure's optical geometry. For Han the customer bares himself voluntarily, an exhibitionist in a panoptic market. For Zuboff the rendering of human life into data proceeds beneath awareness, through "an automated architecture that operates as a one-way mirror irrespective of a person's awareness, knowledge, and consent." The transparency, in other words, runs only one way: the [[One-Way Mirror|one-way mirror]] "embodies the specific social relations of surveillance based on asymmetries of knowledge and power." The customer is rendered totally visible while the firm renders *itself* invisible — Schmidt's "hiding strategy," which "was not a post hoc strategy; it was baked into the cake that would become surveillance capitalism." This is the precise inversion of Han's [[Arcana of Power]]: in the old panopticon the watcher hid and the watched were exposed; here too the watcher hides, but the watched no longer even know they are exhibits (`Strongly implied`).
+
+Zuboff also recasts the *substance* of the customer's exposure. Han's customer surrenders to exploitation by "illuminating" himself; Zuboff specifies that the harm is not the surrendered private moment but the conversion of life into a raw material — "the essence of the exploitation here is the rendering of our lives as behavioral data for the sake of others' improved control of us." The transparent customer, in Zuboff's frame, is not even the customer of surveillance capitalism: the prediction products distilled from his behavioral surplus "are sold to its actual customers but not to us. We are the means to others' ends." The figure Han names a *prisoner* Zuboff redescribes as raw-material source — the object from which behavioral surplus is extracted and sold into [[Behavioral Futures Markets|behavioral futures markets]] (`Directly stated`).
+
 ## Sources
 
 ### Source 1
@@ -95,3 +103,15 @@ Relevant passage:
 > However, the digital net, even as the medium of transparency, is subject to no moral imperative. It so to speak lacks a heart—traditionally, the theological-metaphysical medium of truth. Digital transparency is not cardiographic but pornographic. Moreover, it brings forth economic panoptica. The goal is not moral purification of the heart, but maximal profit, maximal attention. Utter illumination [Ausleuchtung] promises maximal gains.
 
 Supports: This passage prepares the symbol of the transparent customer by establishing — one chapter earlier — that the digital order has no moral telos to inherit from Rousseau or the "transparent house"; its panoptica are *economic*. The transparent customer is the proper subject of such economic panoptica: a figure whose exposure aims at gain, not purification. Label: `Directly stated`.
+
+### Source 4
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/05 Chapter 3 - The Discovery of Behavioral Surplus]]
+Relevant passage:
+
+> A one-way mirror embodies the specific social relations of surveillance based on asymmetries of knowledge and power. [...] Once Google's leadership understood the commercial power of behavioral surplus, Schmidt instituted what he called the "hiding strategy." [...] Hiding was not a post hoc strategy; it was baked into the cake that would become surveillance capitalism.
+
+Supports: This passage anchors the Zuboff inversion of the symbol. Han's transparent customer bares himself voluntarily on the panoptic market; Zuboff specifies the *asymmetry* — a one-way mirror in which the watched are rendered visible while the watcher institutionalizes a "hiding strategy." The customer is transparent; the firm is not. This grounds the note's claim that surveillance capitalism reverses the optics of self-exposure and inverts Han's [[Arcana of Power]] (the watcher hides while the watched, unaware, become exhibits). Label: `Directly stated`.
+

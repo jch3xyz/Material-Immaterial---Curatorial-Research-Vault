@@ -10,6 +10,12 @@ sources:
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/13 Chapter 11 - The Right to the Future Tense]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/07 Chapter 5 - The Elaboration of Surveillance Capitalism - Kidnap, Corner, Compete]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/11 Chapter 9 - Rendition from the Depths]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/17 Chapter 15 - The Instrumentarian Collective]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/20 Chapter 18 - A Coup from Above]]"
 related:
   - "[[Information]]"
   - "[[Narrativity]]"
@@ -21,8 +27,9 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Dataism
@@ -55,20 +62,27 @@ The keystone inversion is Harari's reading of what Dataism does to humanism. Hum
 
 This is the productive contrast with Han. Both treat Dataism as a quasi-religion that subordinates the human, but their valences and registers differ. Han indicts it as **additive nihilism** — "Dataism is nihilism… Data and numbers are not narrative; they are additive" — and calls for a "third Enlightenment" against it. Harari, by contrast, *narrates the worldview from within*, mostly without polemic, as "a tremendous religious revolution" that may "sideline humans"; his closing critique is epistemic and tentative ("it's doubtful whether life can really be reduced to data flows"; "maybe we'll discover that organisms aren't algorithms after all"), not Han's charge that meaning is being voided. Han's [[Narrativity]] / [[Narration vs Addition]] objection is therefore the sharpest available counter to Harari's data-centric cosmology: where Harari measures a symphony by "the data it carries rather than… the experience it creates," Han would answer that "counting is not recounting" (`Interpretive synthesis`).
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+If Han diagnoses Dataism as ideology and Harari narrates it as cosmology, **Shoshana Zuboff** supplies its *political economy* — the institutional machinery and the form of power that turn the data-flow worldview into a going concern. For Zuboff the rendering of all experience into data is not a free-floating faith but the founding operation of a new "logic of accumulation": surveillance capitalism's "shadow text" is "a burgeoning accumulation of behavioral surplus and its analyses, and it says more about us than we can know about ourselves." Where Harari's Dataists declare that "the value of any phenomenon or entity is determined by its contribution to data processing," Zuboff names who profits from that valuation: the rendering of "both the world and our lives… pervasively rendered as information" is captured by "a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn." This "New Priesthood" is the concrete counterpart to Harari's "data religion" — a literal caste hoarding sacred knowledge, reverting "the pre-Gutenberg order" (`Directly stated`).
+
+Zuboff also gives the data-flow imperative its endgame: not merely the worship of data but a "market project of total certainty." Through the ubiquitous apparatus she calls **Big Other** — "the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior" — surveillance capital aims at "guaranteed outcomes," "the substitution of machines for social relations, which amounts to the substitution of certainty for society." This is the surveillance-economic face of what Harari calls the Internet-of-All-Things and of Han's warning that Big Data is "blind to the event": the dream of total prediction is here driven by competitive economic imperative rather than cosmic destiny. The productive contrast within this concept: Han indicts Dataism as additive nihilism, Harari narrates it as faith, and Zuboff exposes its *radical indifference* — instrumentarian power "reduces human experience to measurable observable behavior while remaining steadfastly indifferent to the meaning of that experience." All three converge on the voiding of meaning; Zuboff adds the ownership question — who commands the data flow, and for whose ends (`Directly stated`).
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Names dataism a "second Enlightenment" and unmasks it as ideology, "data totalitarianism," "the barbarism of data," "digital Dadaism," and ultimately "nihilism." For Han the decisive fault is formal: data are additive where meaning is narrative, so a totalized data-knowledge is a totalized ignorance — "the absolute zero of Spirit." He distinguishes dataism (the faith/ideology) from the apparatus that realizes it; the latter is treated under [[Digital Panopticon]] and Big Data as Big Business / micro-targeting. Han takes the *word* from Brooks/Anderson and turns it into a target of critique.
 - **[[Yuval Noah Harari]]** — The worldview-builder. Harari does not coin the term but elaborates it into a complete cosmology and "the data religion": "the universe consists of data flows," and value is contribution to data processing. Born of the post-Darwin (organisms-as-algorithms) and post-Turing (engineered algorithms) fusion, Dataism "collapses the barrier between animals and machines"; it then mutates "from a neutral scientific theory" into "a religion" whose "supreme value is 'information flow'." Its keystone is the inversion of humanism — "Listen to your feelings!" becomes "Listen to the algorithms!" — and its endpoint is the sidelining of humans: the Internet-of-All-Things, after which "Homo sapiens will vanish." Harari narrates from inside the worldview (mostly non-polemically); his own doubts are epistemic, not Han's charge of voided meaning.
+- **[[Shoshana Zuboff]]** — The political economist of Dataism. Zuboff supplies the institutional machinery behind the data-flow worldview: the rendering of all experience into "behavioral surplus," captured by a "narrow priesthood of privately employed computational specialists" who command the "division of learning in society." The data religion's dream of total prediction becomes, in her account, a "market project of total certainty" pursued through the apparatus of Big Other and the "radical indifference" of instrumentarian power — a "way of knowing" that registers measurable behavior while remaining "indifferent to the meaning of that experience." Zuboff's addition to the concept is the *ownership* and *power* question Han and Harari leave implicit: who profits from the worship of data.
 - **David Brooks** *(forward-stub — coiner of the term as Han cites him)* — Coined the *word* "Dataism," announcing it as "the rising philosophy of the day," whose creed is that "everything that can be measured should be measured" and that "data is a transparent and reliable lens." (Brooks coined the term; Harari built the worldview around it.)
 - **Chris Anderson** *(forward-stub)* — His "The End of Theory" supplies dataism's strongest claim: "With enough data, the numbers speak for themselves." Han reads this "end of theory" as "taking leave of Spirit."
 
 ## Related Concepts
 
-- [[Information]] — Dataism is the faith that the world dissolves without remainder into data and information ("everything must become data and information"); it is the ideology of data positivism.
+- [[Information]] — Dataism is the faith that the world dissolves without remainder into data and information ("everything must become data and information"); it is the ideology of data positivism. Zuboff's "both the world and our lives are pervasively rendered as information" is its surveillance-economic form.
 - [[Transparency]] — "transparency is the buzzword of the second Enlightenment"; dataism's "transparent and reliable lens" is, for Han, a renamed myth.
 - [[Positivity]] — Dataism's exclusive valuation of the measurable, the additive, the correlational is a positivism that purges negativity, intuition, and theory.
 - [[Narrativity]] — The pole dataism cannot supply: "Meaning… is based on narration." Self-knowledge "derives from giving an account," not from counting.
-- [[Digital Panopticon]] — The surveillance apparatus through which dataism is operationalized (the aperspectival, total-memory Big Data regime); Dataism is its governing ideology.
+- [[Digital Panopticon]] — The surveillance apparatus through which dataism is operationalized (the aperspectival, total-memory Big Data regime); Dataism is its governing ideology. Zuboff's Big Other is the economic-logic account of the same apparatus.
 
 ## Opposing Concepts
 
@@ -78,8 +92,9 @@ This is the productive contrast with Han. Both treat Dataism as a quasi-religion
 
 - If dataism is "blind to the event," can any data-driven practice (curatorial, political, scientific) anticipate the singular — or only the average?
 - Is Han's "third Enlightenment" a recoverable program, or only a negative gesture naming what dataism forecloses?
-- Where exactly is the line between dataism-as-ideology and the Big Data apparatus that enacts it — and does critiquing the faith leave the infrastructure untouched?
+- Where exactly is the line between dataism-as-ideology and the Big Data apparatus that enacts it — and does critiquing the faith leave the infrastructure untouched? (Zuboff's answer: the faith is downstream of ownership — to contest Dataism is to contest the political economy that profits from it.)
 - Does the claim that "data are additive, not narrative" hold for machine-learning models that generate narrative-like outputs, or does Han's distinction predate and elude them?
+- If Harari narrates Dataism as cosmic destiny and Zuboff exposes it as a "logic of accumulation," is the data religion inevitable or merely profitable?
 
 ## Sources
 
@@ -225,3 +240,22 @@ Relevant passage:
 > Religion is created by humans rather than by gods, and it is defined by its social function rather than by the existence of deities. Religion is anything that confers superhuman legitimacy on human social structures.
 
 Supports: Harari's functional definition of religion — the criterion under which Dataism qualifies as a religion (it confers superhuman legitimacy on information flow), grounding the "data religion" framing. Label: `Directly stated`.
+
+### Source 14
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]] , [[raw/Zuboff - The Age of Surveillance Capitalism/07 Chapter 5 - The Elaboration of Surveillance Capitalism - Kidnap, Corner, Compete]] , [[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]] , [[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]] , [[raw/Zuboff - The Age of Surveillance Capitalism/11 Chapter 9 - Rendition from the Depths]] , [[raw/Zuboff - The Age of Surveillance Capitalism/13 Chapter 11 - The Right to the Future Tense]] , [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]] , [[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]] , [[raw/Zuboff - The Age of Surveillance Capitalism/17 Chapter 15 - The Instrumentarian Collective]] , [[raw/Zuboff - The Age of Surveillance Capitalism/20 Chapter 18 - A Coup from Above]]
+Relevant passages:
+
+> The result is that both the world and our lives are pervasively rendered as information.
+
+> the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.
+
+> The shadow text is a burgeoning accumulation of behavioral surplus and its analyses, and it says more about us than we can know about ourselves.
+
+> instrumentarian power reduces human experience to measurable observable behavior while remaining steadfastly indifferent to the meaning of that experience. I call this new way of knowing radical indifference.
+
+> In the age of surveillance capitalism it is instrumentarian power that fills the void, substituting machines for social relations, which amounts to the substitution of certainty for society.
+
+Supports: Provides Dataism's political economy — the rendering of all experience into information/behavioral surplus is captured by a "New Priesthood" commanding the division of learning, and the data-flow worldview's dream of total prediction becomes a "market project of total certainty" pursued through Big Other and the "radical indifference" of instrumentarian power. Zuboff adds the ownership/power question Han (nihilism) and Harari (cosmology) leave implicit. Label: `Directly stated`.

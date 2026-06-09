@@ -6,6 +6,7 @@ poles:
   - "Control (total surveillance, panoptic illumination, auto-exploitation)"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/03 Preface]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]]"
@@ -14,6 +15,7 @@ sources:
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
   - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
   - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[Digital Panopticon]]"
@@ -24,7 +26,7 @@ related_concepts:
   - "[[Trust]]"
   - "[[Neoliberal Dispositive]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-06-08
 ---
 
 # Freedom vs Control
@@ -38,7 +40,7 @@ The peculiarity of Han's [[Freedom vs Control|Dialectic of Freedom]] is that the
 
 ## General Orientation
 
-This note currently tracks a single author, Byung-Chul Han, across three books, but the treatments are distinct enough to keep separate. In *The Transparency Society* (below, under "Why It Matters" and Sources 1–5), the switch is staged at the level of *communication and visibility*: freedom becomes control because unrestricted self-exposure perfects the [[Digital Panopticon]]. In *The Burnout Society* (the section below it) the dialectic is staged at the level of the *psyche of the achievement-subject*: the disappearance of domination "does not entail freedom" but "makes freedom and constraint coincide," and on the basis of that "paradoxical freedom" the subject becomes "simultaneously perpetrator and victim, master and slave" until "freedom and violence now coincide" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). In *Psychopolitics* (the last section) the switch is staged at the level of *power and the psyche*: the claim sharpens to an identity — "self-optimization and submission, freedom and exploitation, fall into one" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma|Foucault's Dilemma]]). Where the transparency account describes a dialectical *Umschlag* (freedom switching into control), *The Burnout Society* names the dialectic of freedom directly — freedom as the producer of its own constraint — and the psychopolitical account describes power that has *shed its negativity* altogether and "present[s] itself as freedom" ([[raw/Han - Psychopolitics/02 Smart Power|Smart Power]]). *The Burnout Society* is the earliest and most concentrated statement of the dialectic the other two sections track. Read the three as one continuous argument deepening from medium to subject-formation rather than as separate theses. `Interpretive synthesis`
+This note currently tracks a single author, Byung-Chul Han, across three books, but the treatments are distinct enough to keep separate. In *The Transparency Society* (below, under "Why It Matters" and Sources 1–5), the switch is staged at the level of *communication and visibility*: freedom becomes control because unrestricted self-exposure perfects the [[Digital Panopticon]]. In *The Burnout Society* (the section below it) the dialectic is staged at the level of the *psyche of the achievement-subject*: the disappearance of domination "does not entail freedom" but "makes freedom and constraint coincide," and on the basis of that "paradoxical freedom" the subject becomes "simultaneously perpetrator and victim, master and slave" until "freedom and violence now coincide" ([[raw/Han - The Burnout Society/09 Burnout Society|Burnout Society]]). In *Psychopolitics* (the last section) the switch is staged at the level of *power and the psyche*: the claim sharpens to an identity — "self-optimization and submission, freedom and exploitation, fall into one" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma|Foucault's Dilemma]]). Where the transparency account describes a dialectical *Umschlag* (freedom switching into control), *The Burnout Society* names the dialectic of freedom directly — freedom as the producer of its own constraint — and the psychopolitical account describes power that has *shed its negativity* altogether and "present[s] itself as freedom" ([[raw/Han - Psychopolitics/02 Smart Power|Smart Power]]). *The Burnout Society* is the earliest and most concentrated statement of the dialectic the other two sections track. Read the three as one continuous argument deepening from medium to subject-formation rather than as separate theses. A fourth author, Shoshana Zuboff, now extends the tension from Han's phenomenological-psychic register into the *economic-material* one (the final section): the apparatus that surveils while the subject "still thinks that she is free" gives the freedom-as-control paradox an infrastructural and commercial mechanism. `Interpretive synthesis`
 
 ## Why It Matters
 
@@ -51,6 +53,7 @@ The tension matters because it forecloses two intuitive escape routes at once: o
 - [[Byung-Chul Han]] in [[The Transparency Society]] — Stages the tension as a dialectic in which freedom *is* control's most efficient mode. The closing line of Ch9 — "Freedom turns out to be a form of control" — is the book's most compressed statement of the thesis.
 - [[Byung-Chul Han]] in *The Burnout Society* — Names the dialectic in the psyche of the achievement-subject: "the disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide," culminating in the formula "Freedom and violence now coincide." See the dedicated section below.
 - [[Byung-Chul Han]] in *Psychopolitics: Neoliberalism and New Technologies of Power* — Intensifies the tension to the point of identity. "Freedom itself, which is supposed to be the opposite of constraint, is producing coercion"; power "present[s] itself as freedom"; "self-optimization and submission, freedom and exploitation, fall into one." See the dedicated section below.
+- [[Shoshana Zuboff]] in *The Age of Surveillance Capitalism* — Gives the paradox an economic-material engine: the apparatus tracks behavior "outside the driver's awareness while she still thinks that she is free," and the surveilled human animal's "easy freedom" is recast as "friction on the path toward surveillance revenues." See the dedicated section below.
 - [[Jeremy Bentham]] (via Han's reading) — The original panopticon presupposed an isolated, silenced subject coerced from a central tower. Han uses Bentham as the *contrast* showing how thoroughly the digital case has shed external constraint.
 - [[Michel Foucault]] (implicit interlocutor) — Disciplinary power, which Han argues has been superseded by an aperspectival control that runs on freedom rather than discipline.
 - [[Jean Baudrillard]] — Quoted in Ch9 announcing "the end of 'the perspectival truth of the panoptic system'" — Han partially agrees (perspective is gone) and partially overturns him (the panopticon has not ended but mutated).
@@ -72,6 +75,14 @@ The political stakes are that this freedom-as-coercion is *invisible* power, not
 
 Han locates the theoretical root of the tension in what he calls Foucault's blind spot. Foucault's [[Michel Foucault|own]] late "technologies of the self" were read as standing in *opposition* to power; Han argues the opposite — that "the neoliberal regime utterly claims the technology of the self for its own purposes," so that "perpetual self-optimization [...] represents nothing so much as a highly efficient mode of domination and exploitation" ([[raw/Han - Psychopolitics/05 Foucault's Dilemma|Foucault's Dilemma]]). Power under neoliberalism "ensures that individuals act on themselves so that power relations are interiorized — and then interpreted as freedom." The culminating formula collapses the poles entirely: "Self-optimization and submission, freedom and exploitation, fall into one." This is the sharpest version of the tension in the vault: not freedom *switching into* control (the transparency thesis) but freedom and control revealed as a single operation — "Such engineering of freedom and exploitation, which occurs in order to effect self-exploitation, is what escaped Foucault." `Directly stated`
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism) — felt freedom as friction; control without the subject's awareness
+
+Where Han stages the freedom/control collapse in the psyche and the medium of communication, Zuboff supplies its *economic-material* mechanism. In Chapter 7, "The Reality Business," she describes the migration of surveillance capitalism from the screen into the physical world via "the everywhere, always-on instrumentation, datafication, connection, communication, and computation of all things" ([[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business|Chapter 7]]). The decisive twist on the freedom-versus-control pairing is that this apparatus does not announce itself as constraint: it operates beneath notice, so that the felt experience of freedom and the fact of control coincide exactly as in Han — but here the coincidence is engineered for revenue. The genealogy Zuboff traces makes the point literal: the methods of animal telemetry are "refurbished by surveillance capitalists," and "All that has changed is that now we are the animals." `Directly stated`
+
+The tension sharpens into a claim that *felt freedom is itself the obstacle to be overcome*. For surveillance capitalism, "the un-self-conscious, easy freedom enjoyed by the human animal—the sense of being unrestrained that thrives in the mystery of distant places and intimate spaces—is simply friction on the path toward surveillance revenues." This is the economic counterpart to Han's [[Auto-Exploitation]]: where Han's subject experiences self-imposed constraint *as* freedom, Zuboff's subject continues to feel free precisely while being tracked, nudged, and modified outside her awareness — the apparatus is "an actuating machine," not merely a knowing one, whose [[Economies of Action|economies of action]] "nudge, tune, herd, manipulate, and modify behavior in specific directions." Control no longer needs to defeat freedom; it harvests the behavioral surplus of a subject who "still thinks that she is free." `Directly stated`
+
+Zuboff's contribution extends the tension past Han's foreclosure of "the [[The Outside|outside]]." Her [[The Uncontract|uncontract]] performs at the level of the social contract what Han diagnosed at the level of the psyche: "the replacement of society with machine action dictated by economic imperatives," substituting "the determinism of programmed machine processes" for "the indeterminacy of social processes" — promises, dialogue, dispute, [[Trust|trust]]. And against the [[Inevitabilism|inevitabilist]] insistence that this control is fated, she reasserts agency in terms that re-open the political question Han leaves diagnosed-but-unresolved: "Men and women made it, and they can control it. They merely choose not to do so." This is the closest any author in the cluster comes to naming an exit from the freedom-as-control collapse — not a recovery of an "outside" but a refusal of inevitabilism. `Directly stated` / `Interpretive synthesis` (the Han parallel)
+
 ## Related Concepts
 
 - [[Transparency]] — the medium through which the switch occurs
@@ -83,12 +94,17 @@ Han locates the theoretical root of the tension in what he calls Foucault's blin
 - [[Homo Sacer]] — Han's appropriation of [[Giorgio Agamben]]'s term: "The transparent customer is the new prisoner — indeed, the homo sacer — of the digital panopticon"
 - [[Gleichschaltung]] — total control's terminal state
 - [[The Outside]] — what the tension destroys: "They no longer constitute an outside that might question the systemic inside"
+- [[Economies of Action]] — Zuboff's name for the machine interventions that modify behavior at its source while the subject feels free
+- [[The Uncontract]] — Zuboff's substitution of unilateral machine execution for the social processes (promise, dialogue, trust) that contract once institutionalized
+- [[Inevitabilism]] — the ideology that recasts engineered control as fated necessity, which Zuboff's "Men and women made it" rebuttal contests
 
 ## Possible Synthesis or Unresolved Status
 
 Han does not stage this as a productive tension to be held; he stages it as a **collapse**. The two poles do not balance — one folds into the other. "Communication and commerce, freedom and control, collapse into one" ([[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control|Ch9]]). This is closer to a Hegelian dialectic that has already completed its movement than to an open antinomy awaiting resolution.
 
 Han offers no positive synthesis within *The Transparency Society*. The chapter closes not with a programmatic exit but with a diagnosis: "Herein lies the dialectic of freedom. Freedom turns out to be a form of control." The implicit suggestions — that [[Trust]] requires "a state between knowing and not knowing," that "secrecy, foreignness, and otherness" are obstacles to total communication that ought to be preserved, that something like an [[Outside]] must be reinvented — read as gestures rather than solutions. The status of the tension in this book is therefore: **diagnosed, not resolved**. Whether it is in principle resolvable, Han does not say; whether his other writings (e.g., works on contemplation, eros, ritual) constitute attempts at the missing pole is an [[Interpretive synthesis]] for other notes to pursue.
+
+Zuboff is more willing than Han to name a way out, though not a recovered "outside." Her counter to the collapse is not a defence of freedom *against* control (she agrees that route is foreclosed) but a refusal of [[Inevitabilism|inevitabilism]] — the insistence that the apparatus is "handcrafted by men and women" and therefore controllable: "Men and women made it, and they can control it. They merely choose not to do so." This relocates the unresolved status from metaphysics (is freedom-as-control in principle reversible?) to politics (will it be reversed?). Read alongside Han, Zuboff's account both deepens the diagnosis (giving it an economic engine and the felt-freedom-as-friction figure) and refuses Han's quietism, leaving the tension **diagnosed and politically contestable** rather than simply completed. `Interpretive synthesis`
 
 ## Sources
 
@@ -246,4 +262,16 @@ Relevant passage:
 > Exploitation now occurs without domination. That is what makes self-exploitation so efficient. The capitalist system is switching from allo-exploitation to auto-exploitation in order to accelerate. On the basis of the paradoxical freedom it holds, the achievement-subject is simultaneously perpetrator and victim, master and slave. Freedom and violence now coincide. The achievement-subject that understands itself as its own master, as homo liber, turns out to be homo sacer.
 
 Supports: The terminal formula of the dialectic — "Freedom and violence now coincide" — and the collapse of master and slave, sovereign (homo liber) and homo sacer, into a single subject. This is *The Burnout Society*'s most compressed statement of the tension the Transparency and Psychopolitics sections also track, and it grounds the argument [[Freedom itself is producing coercion]] as the coincidence of freedom with its own violence.
+Label: `Directly stated`
+
+### Source 14
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]
+Relevant passage:
+
+> All that has changed is that now we are the animals [...] the un-self-conscious, easy freedom enjoyed by the human animal—the sense of being unrestrained that thrives in the mystery of distant places and intimate spaces—is simply friction on the path toward surveillance revenues.
+
+Supports: The economic-material version of the freedom/control collapse. Zuboff recasts the subject's *felt* freedom — the very "feeling of freedom" Han makes load-bearing — as the obstacle surveillance capitalism must overcome ("friction"). Like Han's digital panopticon, the apparatus surveils a subject who "still thinks that she is free," but Zuboff supplies the commercial motive (surveillance revenues) and the genealogy (animal telemetry, "now we are the animals"). Her [[The Uncontract|uncontract]] substitutes "the determinism of programmed machine processes" for "the indeterminacy of social processes," and her refusal of [[Inevitabilism|inevitabilism]] ("Men and women made it, and they can control it. They merely choose not to do so") re-opens the political exit Han leaves diagnosed-but-unresolved.
 Label: `Directly stated`

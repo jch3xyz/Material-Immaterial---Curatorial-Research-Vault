@@ -9,6 +9,8 @@ sources:
   - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
   - "[[raw/McLuhan - Understanding Media/34 Chapter 30 - Radio - The Tribal Drum]]"
   - "[[raw/McLuhan - Understanding Media/35 Chapter 31 - Television - The Timid Giant]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/20 Chapter 18 - A Coup from Above]]"
 related:
   - "[[Autoamputation]]"
   - "[[Narcissus as Narcosis]]"
@@ -19,8 +21,9 @@ opposes:
   - "[[Numbness vs Awareness]]"
 authors:
   - "[[Marshall McLuhan]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-08
 ---
 
 # Narcosis
@@ -45,6 +48,8 @@ So understood, narcosis is the body's defensive reflex turned into a cultural co
 
 - **[[Marshall McLuhan]]** — the originating use. Narcosis is the numbness inseparable from every [[Autoamputation|autoamputation]]/extension; it is the mechanism behind the [[Narcissus as Narcosis]] figure and the reason the user becomes a numbed [[Man as Servomechanism of His Extensions|servomechanism]] of his own technology. The numbing is structural (amplification of one function is bearable only by blocking perception), self-concealing ("self-amputation forbids self-recognition"), and recurs as the default reception of any new medium. It is broken only at the hybrid seam (Ch. 5) and is to be distinguished from the deliberate, awakened "suspended judgment" (Ch. 7).
 
+- **[[Shoshana Zuboff]]** — *narcosis as the engineered affective product of surveillance capitalism's apparatus.* Where McLuhan locates numbness in the nervous system's defensive reflex against its own extension, Zuboff locates it in the deliberate behavioral design of the hive: the casino-derived "machine zone" of self-forgetting and "psychic numbing" that Facebook's hand-and-glove reproduces, and — at the book's close — the cultural anaesthetic of "inevitability." The convergence runs in two registers. First, the **machine zone** is McLuhan's narcotic immersion in an extension made into a commercial design feature: a state "of self-forgetting in which one is carried along by an irresistible momentum that feels like one is 'played by the machine,'" the same closure of the senses by which "first we do not even have to look away, and later we cannot" — McLuhan's "ordinary 'closure' of the senses" turned into engineered no-exit fusion. Second, Zuboff names the **rejection of inevitability** in McLuhan's own vocabulary: "Technological 'inevitability' is the mantra on which we are trained, but it is an existential narcotic prescribed to induce resignation: a snuff dream of the spirit." Here the narcosis is not a side-effect of using a medium but a discourse manufactured to numb resistance — the "velvet-gloved right hand of power." The remedy she proposes, to "be the friction," is the surveillance-capitalist counterpart of McLuhan's "integral awareness": the deliberate recovery of perception against an imposed trance. `Interpretive synthesis`
+
 ## Related Concepts
 
 - [[Autoamputation]] — the paired concept; narcosis is the perceptual numbness that *necessarily accompanies* the body's self-amputation of an extended organ. Each new medium amputates and amplifies; narcosis is the anaesthetic that makes the amputation endurable and unnoticed.
@@ -55,7 +60,7 @@ So understood, narcosis is the body's defensive reflex turned into a cultural co
 
 ## Opposing Concepts
 
-- [[Numbness vs Awareness]] — narcosis is the numb pole of this axis; the exit McLuhan proposes (media study, the artist's "integral awareness," the hybrid moment of "release") is the recovery of the perception that narcosis suppresses. Russell's "technique of the suspended judgment" is the willed inverse of the medium's involuntary trance. `Interpretive synthesis`
+- [[Numbness vs Awareness]] — narcosis is the numb pole of this axis; the exit McLuhan proposes (media study, the artist's "integral awareness," the hybrid moment of "release") is the recovery of the perception that narcosis suppresses. Russell's "technique of the suspended judgment" is the willed inverse of the medium's involuntary trance. Zuboff's "be the friction" — refusing "the smooth flows of coercive confluence" — is the surveillance-capitalist version of the same awakened pole against the manufactured narcotic of "inevitability." `Interpretive synthesis`
 
 ## Questions It Raises
 
@@ -63,6 +68,7 @@ So understood, narcosis is the body's defensive reflex turned into a cultural co
 - McLuhan says the electric age extends the whole central nervous system; if every prior extension numbed the sense it amplified, what does the extension of the entire nervous system numb — consciousness itself?
 - Russell's "suspended judgment" is a chosen anaesthetic that *preserves* judgment, while media narcosis "slams the gates of judgment." Is the difference one of kind, or only of who controls the dose?
 - If "all technological extensions of ourselves must be numb and subliminal, else we could not endure the leverage," is awareness of a medium ever survivable at scale, or is narcosis the price of using the technology at all?
+- McLuhan's narcosis is the nervous system's *involuntary* defense; Zuboff's "machine zone" and "existential narcotic" are *engineered* by a commercial apparatus. Is the difference one of mechanism, or has surveillance capitalism simply learned to dose the trance McLuhan thought was automatic?
 
 ## Sources
 
@@ -175,3 +181,16 @@ Relevant passage:
 > It is the theme of this book that not even the most lucid understanding of the peculiar force of a medium can head off the ordinary "closure" of the senses that causes us to conform to the pattern of experience presented.
 
 Supports: McLuhan's strongest statement of narcosis as inescapable — even lucid understanding cannot prevent the sensory "closure," the numbing conformity, that a medium imposes. Label: `Directly stated`
+
+### Source 11
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]] , [[raw/Zuboff - The Age of Surveillance Capitalism/20 Chapter 18 - A Coup from Above]]
+Relevant passage:
+
+> pursuing an experiential state that Schüll calls the "machine zone," a state of self-forgetting in which one is carried along by an irresistible momentum that feels like one is "played by the machine."
+
+> Technological "inevitability" is the mantra on which we are trained, but it is an existential narcotic prescribed to induce resignation: a snuff dream of the spirit.
+
+Supports: Zuboff's "machine zone" is McLuhan's narcotic self-forgetting in an extension made into an engineered design feature of the hive, and her "existential narcotic" of "inevitability" names a manufactured cultural numbness that her remedy — "be the friction" — opposes, mirroring McLuhan's "integral awareness" against the involuntary trance. Label: `Interpretive synthesis`

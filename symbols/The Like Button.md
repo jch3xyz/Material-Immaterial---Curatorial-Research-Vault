@@ -4,12 +4,14 @@ status: generated
 symbol: "The Like Button"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/02 Smart Power]]"
   - "[[raw/Han - Psychopolitics/10 Gamification]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]]"
 related:
   - "Society of Positivity"
   - "[[Transparency]]"
@@ -19,7 +21,7 @@ related:
   - "The Same"
   - "Dislike Button"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # The Like Button
@@ -57,6 +59,12 @@ The button also carries a **theological charge**. Among the "devotional objects 
 
 Finally, in the chapter on **Gamification**, Han extends the metric beyond the single button to the full scorekeeping of social media. "Emotional capitalism is gamifying the life- and working world," and "the gamification logic of 'Likes', 'Friends' and 'Followers' means that social communication is also being plugged into and subordinated to game mode." The cost is explicit: "The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication." The Like button, in this register, is the entry point to a quantified, gamified, and ultimately self-defeating apparatus of communication. (This confirms the symbol's scope already covers gamified-communication metrics, so no near-duplicate symbol is minted. Label: `Directly stated`.)
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Where Han reads the "Like" button from the subject's side — as the devotional gesture of voluntary submission — Zuboff theorizes it from the apparatus/capital side. In *The Age of Surveillance Capitalism* (Chapter 16, "Of Life in the Hive") she calls it "Facebook's single most momentous innovation in behavioral engineering," "adopted in 2009." Crucially, Mark Zuckerberg embraced the button not as an affirmative-communication tool but only once data revealed it as a source of [[Behavioral Surplus]]: it is "a planet-size one-way mirror capable of exponentially increasing raw-material supplies." The button is thus the engineered instrument that converts the developmental "homing to the herd" into measurable surplus for prediction — a "universal reward system" operating by "variable reinforcement," the casino mechanism (Schüll's "machine zone") relocated to the social feed. (Label: `Directly stated`.)
+
+For Zuboff the button is the centerpiece of **the hand and the glove**: the precise fit between the natural psychological *hand* (the young's need for "the others") and the engineered *glove* of design tuned to "bite hard on the felt needs of this age and stage." It transformed Facebook, in the chapter's image, "from a book into a blizzard of mirrors," making "social comparison" — "the flywheel that powers the closed loop between the inclination toward the social mirror and its reinforcement" — the engine of a no-exit hive. This is the same compulsive, frictionless self-exposure Han diagnoses, now read as the operative interface of [[Instrumentarian Power]] and [[Big Other]]: the click is no longer only a "digital Amen" but a unit of rendition feeding the [[Digital Panopticon]] and the prediction economy. (Interpretive synthesis anchored to Ch.16's verbatim claims; the Han↔Zuboff convergence is editorial. Label: `Interpretive synthesis`.)
+
 ## Related Concepts, Metaphors, and Tensions
 
 - Society of Positivity
@@ -74,6 +82,12 @@ Finally, in the chapter on **Gamification**, Han extends the metric beyond the s
 - Dislike Button
 - [[Positivity vs Negativity]]
 - Exhibition vs Cult
+- Behavioral Surplus
+- Instrumentarian Power
+- Big Other
+- Social Comparison
+- The Machine Zone
+- The Hand and the Glove
 
 ## Sources
 
@@ -131,3 +145,16 @@ Relevant passage:
 > Today, the gamification logic of 'Likes', 'Friends' and 'Followers' means that social communication is also being plugged into and subordinated to game mode. The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication.
 
 Supports: Confirms that the symbol's scope covers the gamified-communication metric (Likes / Friends / Followers), and that this gamification commercializes and ultimately destroys human communication. Establishes the link to [[Gamification]] and [[Emotional Capitalism]]. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/18 Chapter 16 - Of Life in the Hive]]
+Relevant passage:
+
+> Facebook's single most momentous innovation in behavioral engineering is the now equally ubiquitous "Like" button, adopted in 2009.
+
+> the "Like" button was a planet-size one-way mirror capable of exponentially increasing raw-material supplies.
+
+Supports: Establishes Zuboff's apparatus/capital-side reading of the "Like" button as "Facebook's single most momentous innovation in behavioral engineering" and a "planet-size one-way mirror" engineered to expand the supply of [[Behavioral Surplus]] for the prediction economy. Recasts the button as the operative interface of [[Instrumentarian Power]] / [[Big Other]] and the engine of "social comparison" in the no-exit hive — the apparatus-side counterpart to Han's subject-side "digital Amen," converging on the [[Digital Panopticon]] of voluntary self-exposure. Label: `Directly stated`.

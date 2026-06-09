@@ -3,6 +3,8 @@ type: concept
 status: generated
 sources:
   - "[[raw/Han - Psychopolitics/10 Gamification]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]]"
 related:
   - "[[Emotional Capitalism]]"
   - "[[Exploitation of Freedom]]"
@@ -16,8 +18,9 @@ opposes:
   - "[[Freedom vs Control|The Other of Work]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Gamification
@@ -37,6 +40,7 @@ Gamification does not stop at the workplace. "Today, the gamification logic of '
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Gamification is a named affect-technology of [[Emotional Capitalism]] and a downstream application of the [[Exploitation of Freedom]]: by enlisting play, "the Other of Work," it makes the player self-subjugate through the pleasure of playing. Its corollary in the communicative sphere ("Likes, Friends, Followers") commercializes and destroys human communication.
+- **[[Shoshana Zuboff]]** — Gamification is one technique within the surveillance-capitalist [[The Means of Behavioral Modification|means of behavioral modification]]: game dynamics are repurposed for the automated modification of behavior at scale. Following Ian Bogost, Zuboff reframes these systems as "exploitationware… because their sole aim is behavior manipulation and modification," and reads Pokémon Go as the showcase — a "game about a game" that herds players through physical space toward "sponsored locations" that are "a euphemism for Niantic's behavioral futures markets."
 - **Industry/popular usage** — `Speculative connection`. In management and design discourse, "gamification" denotes the application of game mechanics (points, badges, leaderboards) to non-game contexts to drive engagement. Han inverts the optimistic register of that usage, reading the same mechanics as a domination that works precisely because it feels like freedom. Han does not cite this literature by name in the chapter.
 
 ## Related Concepts
@@ -62,6 +66,7 @@ Gamification does not stop at the workplace. "Today, the gamification logic of '
 - Does the temporal claim that "what matures over time cannot be gamified" describe a stable limit, or merely a frontier that further affect-technologies will cross?
 - How does the gamification of communication relate to the disappearance of the Other and of negativity that Han diagnoses elsewhere — is scored, metricized communication still communication at all?
 - `Speculative connection`. Does Han's reading converge with autonomist accounts of immaterial labour, where affect and sociality themselves become productive forces?
+- When game dynamics are repurposed as Bogost's "exploitationware," what (if anything) distinguishes Han's pleasurable self-subjugation through play from Zuboff's automated behavior modification — is the gamified subject still "playing," or already "danced"?
 
 ## Sources
 
@@ -97,3 +102,14 @@ Relevant passage:
 > Today, the gamification logic of 'Likes', 'Friends' and 'Followers' means that social communication is also being plugged into and subordinated to game mode. The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication.
 
 Supports: Extends gamification from work to communication: the "Likes / Friends / Followers" metric plugs communication into game-mode, commercializing and thereby destroying it. Grounds the cross-link to [[The Like Button]] and [[Hypercommunication]]. Label: `Directly stated`.
+
+### Source 4
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]] , [[raw/Zuboff - The Age of Surveillance Capitalism/12 Chapter 10 - Make Them Dance]]
+Relevant passage:
+
+> Ian Bogost... insists that these systems should be called "exploitationware" rather than games because their sole aim is behavior manipulation and modification.
+
+Supports: Anchors Zuboff's reading of gamification as a technique of the means of behavioral modification — game structures (dynamics, mechanics, components) repurposed for automated behavior change rather than play, of which Pokémon Go's herding of players to "sponsored locations" (Niantic's behavioral futures markets) is the chapter's showcase. Converges with Han's diagnosis that gamified play serves production while feeling like freedom. Label: `Directly stated`.

@@ -4,6 +4,9 @@ status: generated
 sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]"
 related:
   - "[[Byung-Chul Han and Walter Benjamin]]"
   - "[[Exploitation of Freedom]]"
@@ -13,8 +16,9 @@ opposes:
   - "[[Freedom vs Control]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 confidence: medium
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Capital as Religion
@@ -35,10 +39,19 @@ The German *Schuld* — at once "debt" and "guilt" — is the hinge of the conce
 
 In "The Mole and the Snake" the same *Schuld/Schulden* doubling is named as a technology of power. Describing the snake as the animal of the neoliberal [[Society of Control]], Han writes: "Above all, the snake embodies the guilt and debts (*die Schuld, die Schulden*) that the neoliberal regime employs as instruments of domination." Where the disciplinary mole was governed as a "body" through confinement, the neoliberal snake is governed as a "soul" through motivation, competition, and debt — psychopolitics rather than biopolitics. Capital-as-religion is therefore not metaphorical decoration but Han's account of how a debt-economy disciplines the psyche from within, without a visible master. (Label: `Directly stated`.)
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Zuboff does not write of capital as a *cult of guilt and debt*; her contribution to this concept is the parallel register in which surveillance capitalism takes on a theological and *world-making* form. Two figures stand out. First, the founders' appeal — like the Gilded Age robber barons before them — to a pseudoscientific *natural law* that sacralizes accumulation: "the Gilded Age industrialists cited Spencer's specious, pseudoscientific 'survival of the fittest' as proof of a divine plan intended to put society's wealth in the hands of its most aggressively competitive individuals." Where Han's Capital is a God that makes us guilty, Zuboff's "digital barons" invoke a divine plan that *exonerates* the powerful and "circumscribe[s] democracy." The shared thread is capitalism furnished with a transcendent, quasi-religious legitimation that places its laws of motion beyond political challenge. (Label: `Directly stated`.)
+
+Second, and more distinctively, Zuboff describes surveillance capitalism re-erecting a *priesthood*. In "Hijacked" she argues that the division of learning in society — "the axial principle of social order in an information civilization" — has been seized by surveillance capital, reverting the diffusion of knowledge "to the pre-Gutenberg order" as it is "captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn." Six hundred years after the printing press "put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood," that democratization is inverted: knowledge re-concentrates in a sacerdotal caste whose "shadow text" is "about us, but it is not for us." Here capital again acquires a cultic form — not a religion of debt but a religion of *secret knowledge*, an "internally consistent and successful logic of accumulation" that is "profoundly antidemocratic" and whose "power does not originate in the state." (Label: `Directly stated`.)
+
+Third, in "Rendition" the religious vocabulary becomes operational: every digital interface exacts "its continuous tithe of raw-material supplies," so that to encounter the apparatus is to be "rendering unto surveillance capitalism." Rendition runs on "the dictatorship of no alternatives" — "individuals do not render their experience out of choice or obligation but rather out of ignorance and the dictatorship of no alternatives" — a compulsion that, like Han's perpetual debt, forecloses freedom while wearing the form of consent. Read alongside Han, Zuboff supplies the surveillance-economic substrate of capital-as-religion: a cult of accumulation legitimated by a "divine plan," administered by a new priesthood, and funded by a tithe of behavioral surplus extracted under coercion. (Label: `Directly stated`.)
+
 ## Authors and Variants
 
 - **[[Walter Benjamin]]** — originator of the thesis in the fragment "Capitalism as Religion" (1921): capitalism is a cultic religion with no theology and no day of atonement, "the first case of a cult that creates guilt, not atonement," in which guilt accumulates without relief. Han cites this directly; the term and its formulation are Benjamin's. (Forward-stub — Benjamin's own text is not yet ingested in `raw/`.)
 - **[[Byung-Chul Han]]** — adopts Benjamin's thesis to diagnose neoliberal financial capitalism, fusing it with his own analysis: Capital as "a new transcendency" and "new master"; the *Schuld/Schulden* pun (guilt = debt) as an "instrument of domination" wielded by the neoliberal regime; perpetual indebtedness as the mechanism by which "the state of unfreedom perpetuates itself."
+- **[[Shoshana Zuboff]]** — supplies the surveillance-economic register: capital sacralized by a pseudoscientific "natural law" / "divine plan" (the robber-baron lineage), a "pre-Gutenberg" *priesthood* of computational specialists hoarding the "shadow text," and a "continuous tithe" of behavioral surplus exacted under "the dictatorship of no alternatives." Not a cult of guilt but a cult of secret knowledge and accumulation, "profoundly antidemocratic" and not originating in the state.
 
 ## Related Concepts
 
@@ -58,6 +71,7 @@ In "The Mole and the Snake" the same *Schuld/Schulden* doubling is named as a te
 - Does the *Schuld/Schulden* pun survive translation, or is the concept's force partly an artifact of German that English ("debt" / "guilt") can only gesture toward?
 - How does this theological framing of Capital relate to Han's claim that the contradiction between forces and relations of production "admits no dialectical *Aufhebung*" — is religion the form capitalism takes precisely because it cannot be sublated?
 - Is the smartphone-as-rosary and "Like is the digital Amen" passage a continuation of the same cult, relocating the religion of Capital into devotional digital objects?
+- Is Zuboff's "pre-Gutenberg" priesthood of computational specialists the same religion Han diagnoses, or a different cult — one of secret knowledge rather than of guilt — and what would atonement (or Reformation) look like for it?
 
 ## Sources
 
@@ -104,3 +118,20 @@ Relevant passage:
 > Above all, the snake embodies the guilt and debts (die Schuld, die Schulden) that the neoliberal regime employs as instruments of domination.
 
 Supports: Supplies the *Schuld/Schulden* pun (debt and guilt) explicitly named as instruments of domination, anchoring the concept in Ch.3 and linking it to the neoliberal control society. Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]] , [[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]] , [[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]
+Relevant passage:
+
+> the Gilded Age industrialists cited Spencer's specious, pseudoscientific "survival of the fittest" as proof of a divine plan intended to put society's wealth in the hands of its most aggressively competitive individuals.
+
+> In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.
+
+> every time we encounter a digital interface we make our experience available to "datafication," thus "rendering unto surveillance capitalism" its continuous tithe of raw-material supplies.
+
+> Under the regime of surveillance capitalism, individuals do not render their experience out of choice or obligation but rather out of ignorance and the dictatorship of no alternatives. The ubiquitous apparatus operates through coercion and stealth.
+
+Supports: Zuboff supplies a parallel theological/world-making register for capital — the "divine plan" / pseudoscientific natural law that sacralizes accumulation (the robber-baron lineage of the "digital barons"), the "pre-Gutenberg" *priesthood* of computational specialists who hoard the shadow text, and the "continuous tithe" of behavioral surplus exacted under "the dictatorship of no alternatives." A cult of secret knowledge and accumulation rather than Han's cult of guilt and debt. Label: `Directly stated`. (Connection of Zuboff to Han's "Capital as Religion" is a vault-internal conceptual parallel, not a citation Zuboff makes — confidence `medium`.)

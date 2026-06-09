@@ -3,6 +3,8 @@ type: concept
 status: generated
 sources:
   - "[[raw/Harari - Homo Deus/06 The Storytellers]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Distributed Cognition]]"
   - "[[Narrativity]]"
@@ -12,8 +14,9 @@ opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[Yuval Noah Harari]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Society as Algorithm
@@ -35,6 +38,7 @@ This is the **social** precursor to the biological thesis [[Organisms Are Algori
 ## Authors and Variants
 
 - **[[Yuval Noah Harari]]** — Applies *algorithm* to whole literate societies: writing turns a population into "a huge algorithm" in which each person is "only a small step," so that "the system" decides and the post-holder is interchangeable. His variant is historical-bureaucratic and substrate-agnostic about *people* (any nurse will do), anchored in concrete institutions — the hospital, the army, the school, the corporation, and ancient Egypt's papyrus bureaucracy. He calls this "the essence of bureaucracy" and treats it as old (Sumer, the Nile Valley) rather than a modern computing phenomenon.
+- **[[Shoshana Zuboff]]** — Gives the thesis its for-profit, computational, twenty-first-century form. Where Harari's bureaucratic algorithm ran on human steps linked by papyri, Zuboff's instrumentarian society runs on the machine hive: "Machine learning is rendered here as a collective mind—a hive mind—in which each element learns and operates in concert with every other element," and "the machine hive becomes the role model for a new human hive." The algorithmic principle is now explicitly normative — "we should be more like machines" — and the supra-personal "system" that decides is [[Big Other]], directing human and machine action toward "guaranteed outcomes." Harari's interchangeable, irrelevant post-holder becomes Zuboff's "individual freedom… forfeit to collective knowledge and action."
 
 ## Related Concepts
 
@@ -54,6 +58,7 @@ This is the **social** precursor to the biological thesis [[Organisms Are Algori
 - Is bureaucratic interchangeability a gain (your fate no longer hostage to one official's mood or prejudice) or a loss (no one is answerable, and "what's written on your form" outranks the truth)?
 - Where is the line between the *social* algorithm (people as steps) and the *biological* one (the person as an algorithm)? Does treating society as an algorithm make it easier to then treat its members as algorithms — and is that slide a discovery or a metaphor running ahead of itself?
 - If decisions migrate from heads into networks of inscription, what happens to embodiment and lived judgement — does the "algorithmic ideal" require the body and the person to be subtracted from decision?
+- When the algorithm's steps become machines rather than clerks, and the "system" becomes a sensate computational apparatus owned by a firm, does Harari's substrate-agnostic bureaucracy turn into Zuboff's instrumentarian power — and is the for-profit machine hive the same algorithmic society Harari describes, or a different and more total one?
 
 ## Sources
 
@@ -100,3 +105,19 @@ Relevant passage:
 > What’s true of hospitals is also true of armies, prisons, schools, corporations – and ancient kingdoms. Of course ancient Egypt was far less technologically sophisticated than a modern hospital, but the algorithmic principle was the same. In ancient Egypt too, most decisions were made not by a single wise person, but by a network of officials linked together through papyri and stone inscriptions.
 
 Supports: The scope of the thesis (hospital, army, prison, school, corporation, ancient kingdom) and the ancient-Egypt case — decisions made by a network of officials, not one person. Label: `Directly stated`
+
+### Source 5
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]] , [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]
+Relevant passage:
+
+> Machine learning is rendered here as a collective mind—a hive mind—in which each element learns and operates in concert with every other element, a model of collective action in which all the machines in a networked system move seamlessly toward confluence
+
+> In this way, the machine hive becomes the role model for a new human hive in which we march in peaceful unison toward the same direction based on the same “correct” understanding in order to construct a world free of mistakes, accidents, and random messes.
+
+> The essence of these facts is that first, machines are not individuals, and second, we should be more like machines.
+
+Supports: The computational, for-profit form of society-as-algorithm — the machine hive as the model for a human hive, in which collective action runs on the same shared "understanding" and individuals are enrolled as confluent steps; the explicit normative core ("we should be more like machines") that turns Harari's descriptive bureaucracy into surveillance capitalism's social vision. Label: `Directly stated`
+

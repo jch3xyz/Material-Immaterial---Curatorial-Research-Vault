@@ -5,6 +5,7 @@ sources:
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
   - "[[raw/Han - Psychopolitics/04 Biopolitics]]"
   - "[[raw/Han - Psychopolitics/05 Foucault's Dilemma]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Society of Control]]"
   - "[[Digital Panopticon]]"
@@ -13,8 +14,9 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Michel Foucault]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Biopolitics
@@ -37,6 +39,7 @@ This framing also drives Han's critique of Foucault himself. Foucault, turning t
 
 - **[[Michel Foucault]]** — origin of the concept (the "biopolitics of the population"), as the regime of "power over life" that "invests life through and through" and administers the body and population through discipline, demography, and the "calculated management of life." *Forward-stub:* Foucault has no book in the library yet; his usage here is mediated entirely through Han's quotation and paraphrase. This note is kept open for a future Foucault author-section. (`Directly stated`, via Han's citations)
 - **[[Byung-Chul Han]]** — adopts biopolitics only to bound it to disciplinary society and disqualify it for the present. For Han it is "a politics of the body in the fullest sense," tied to "the biological, the somatic, the corporal," and therefore structurally barred from the psyche — the negative foil that makes psychopolitics necessary. Han pointedly rejects re-housing psychopolitics *inside* biopolitics (criticizing Alexandra Rau and Thomas Lemke for treating it "as a biopolitical form of government"): for Han biopolitics is a superseded predecessor, not a genus of which psychopolitics is a species. (`Directly stated`)
+- **[[Shoshana Zuboff]]** — does not use the word "biopolitics," but Chapter 13's instrumentarian power is constructed as biopolitics' precise inversion. Where biopolitics is "a politics of the body in the fullest sense" that "invests life through and through" and administers the somatic, instrumentarian power leaves the body untouched and severs it from power entirely: "Instead of death, torture, reeducation, or conversion, instrumentarianism effectively exiles us from our own behavior. It severs our insides from our outsides, our subjectivity and interiority from our observable actions." The instrumentarian price "is not with our bodies but with our freedom." (`Interpretive synthesis` / `Directly stated`)
 
 ## Related Concepts
 
@@ -53,6 +56,7 @@ This framing also drives Han's critique of Foucault himself. Foucault, turning t
 - Does the body genuinely drop out under "immaterial production," or does Han's wager that biopolitics is obsolete obscure how psychic optimization (fitness, "sexiness," neuro-enhancement, cosmetic surgery) re-inscribes a governed, marketed body? (the body as data; embodiment; material vs immaterial)
 - Is the demography/psychography distinction stable, or does Big Data dissolve it — making the "psychogram of the population" a continuation of biopolitical population-management by other means rather than its supersession? (systems/feedback; the body as data)
 - Han insists psychopolitics is a *successor* to biopolitics, not a *form* of it (contra Rau and Lemke). What hangs on that distinction, and is the body really external to neoliberal power, or only displaced?
+- Han and Zuboff agree the body falls away — Han to the exploited psyche, Zuboff to the engineering of behavior indifferent to interiority. But if biopolitics "invests life through and through" while instrumentarianism "exiles us from our own behavior," is the somatic really released by both regimes, or does the rendition of the body as data (Fitbit, pacemaker, biometric ID) smuggle a renewed biopolitics back in under cover of behaviorism?
 
 ## Sources
 
@@ -110,3 +114,14 @@ Relevant passage:
 > According to Deleuze, the disciplinary regime organizes itself as a 'body'. It is a biopolitical regime.
 
 Supports: Identifies the biopolitical regime with the disciplinary "body" (the mole), establishing the body/soul opposition through which Han contrasts biopolitics with the neoliberal "soul"-regime of psychopolitics. Label: `Directly stated`
+
+### Source 6
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]
+Relevant passage:
+
+> Instead of death, torture, reeducation, or conversion, instrumentarianism effectively exiles us from our own behavior. It severs our insides from our outsides, our subjectivity and interiority from our observable actions.
+
+Supports: Marks the inversion of biopolitics. Where biopolitics is "a politics of the body in the fullest sense" that invests and administers the somatic, Zuboff's instrumentarian power leaves the body untouched and severs interiority from observable behavior — the price "is not with our bodies but with our freedom." Label: `Interpretive synthesis` (Zuboff does not use the term "biopolitics"; the contrast with Han/Foucault's corporeal power is interpretive, the quoted severing of insides from outsides `Directly stated`)
