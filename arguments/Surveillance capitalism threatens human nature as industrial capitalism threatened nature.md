@@ -59,7 +59,7 @@ This late-book material extends, rather than alters, the original claim. It (1) 
 
 ## Evidence Used by the Author
 
-- The eight-part definition of surveillance capitalism, whose fifth clause states the analogy directly — "[[02 The Definition|The Definition]]". `Directly stated`
+- The eight-part definition of surveillance capitalism, whose fifth clause states the analogy directly — "The Definition". `Directly stated`
 - The opening framing of Chapter 1, which fully develops the parallel ("Just as industrial civilization flourished at the expense of nature... an information civilization... will thrive at the expense of human nature"), invoking "the industrial legacy of climate chaos" and the "fresh legacy of damage and regret" to be "mourned by future generations." `Directly stated`
 - The yoking of the threat to the rise of [[Instrumentarian Power]], which makes the civilizational stakes a matter of power over society, not only of markets. `Directly stated`
 

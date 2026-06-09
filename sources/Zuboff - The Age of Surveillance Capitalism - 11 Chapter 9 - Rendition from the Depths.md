@@ -54,11 +54,11 @@ As the first Zuboff ingest, this chapter is the fullest primary-text exposition 
 
 - [[Personalization is a euphemism for the rendition of the self]] — the "assistance" slogan cloaks a market apparatus; the assistant is a "market avatar" / "Trojan horse" rendering and monetizing daily life.
 - [[The deepest frontier of extraction is the self]] — extraction migrates inward (web → reality → life → self); the unconscious itself must be recast as raw material for more-perfect prediction.
-- [[Cambridge Analytica was standard surveillance capitalism not an aberration]] — the public outrage misframes routine practices as exceptional; Cambridge Analytica merely redirected the standard machinery from commercial to political markets.
+- Cambridge Analytica was standard surveillance capitalism not an aberration — the public outrage misframes routine practices as exceptional; Cambridge Analytica merely redirected the standard machinery from commercial to political markets.
 - [[Form predicts more than content]] — meta-data (the amount shared, sentence length, the act of listing, choice of filter) is more predictive and harder to fake than the content itself: "We are not scrutinized for substance but for form."
-- [[Benign technology is captured by the prediction imperative]] — well-intentioned tools (Picard's affective computing, academic personality research) are drawn into the market "like iron filings in the presence of a magnet."
-- [[The inward self is the ultimate sanctuary of freedom]] — experience is made, not given; the will-to-will (Sartre) secures us as autonomous moral agents, and rendition attacks "the right to speak in the first person."
-- [[Decision rights become privileges of the wealthy]] — Varian inverts the luxury-to-necessity pattern: rather than reciprocity and higher wages, second-modernity insecurity is exploited to justify dispossession.
+- Benign technology is captured by the prediction imperative — well-intentioned tools (Picard's affective computing, academic personality research) are drawn into the market "like iron filings in the presence of a magnet."
+- The inward self is the ultimate sanctuary of freedom — experience is made, not given; the will-to-will (Sartre) secures us as autonomous moral agents, and rendition attacks "the right to speak in the first person."
+- Decision rights become privileges of the wealthy — Varian inverts the luxury-to-necessity pattern: rather than reciprocity and higher wages, second-modernity insecurity is exploited to justify dispossession.
 
 ## Important Definitions
 
@@ -67,8 +67,8 @@ As the first Zuboff ingest, this chapter is the fullest primary-text exposition 
 
 ## Important Metaphors / Symbols
 
-- [[Life as a Wild Horse Broken by Rendition]] — the digital assistant breaks "unruly life," rendering it "as behavioral data."
-- [[Now Google Searches You]] — "There was a time when you searched Google, but now Google searches you."
+- Life as a Wild Horse Broken by Rendition — the digital assistant breaks "unruly life," rendering it "as behavioral data."
+- Now Google Searches You — "There was a time when you searched Google, but now Google searches you."
 - [[The Personal Digital Assistant]] — the friendly "omniscient, efficient caretaker" that is in fact a rendition device.
 - [[My Friend Cayla]] — the spying toy; the child's doll repurposed as a surplus hub, banned in Germany as an illegal surveillance device.
 - [[Friendly Big Brother]] — the "loving," welcomed-into-the-home caretaker assistant; this chapter seeds the Zuboff side of the Big Brother contrast.
@@ -151,7 +151,7 @@ Relevant passage:
 
 > These practices produced outrage around the world, when in fact they are routine elements in the daily elaboration of surveillance capitalism's methods and goals, both at Facebook and within other surveillance capitalist companies. Cambridge Analytica merely reoriented the surveillance capitalist machinery from commercial markets in behavioral futures toward guaranteed outcomes in the political sphere.
 
-Supports: [[Cambridge Analytica was standard surveillance capitalism not an aberration]], [[Behavioral Futures Markets]], and [[The Means of Behavioral Modification]]. Confidence: **Directly stated**.
+Supports: Cambridge Analytica was standard surveillance capitalism not an aberration, [[Behavioral Futures Markets]], and [[The Means of Behavioral Modification]]. Confidence: **Directly stated**.
 
 ### Citation 7
 
@@ -175,7 +175,7 @@ Relevant passage:
 
 > Picard's good intentions were like so many innocent iron filings in the presence of a magnet as the market demand exerted by the prediction imperative drew affective computing into surveillance capitalism's powerful force field.
 
-Supports: [[Benign technology is captured by the prediction imperative]] and [[The Prediction Imperative]]. Confidence: **Directly stated**.
+Supports: Benign technology is captured by the prediction imperative and [[The Prediction Imperative]]. Confidence: **Directly stated**.
 
 ### Citation 10
 
@@ -191,7 +191,7 @@ Relevant passage:
 
 > No matter how much is taken from me, this inward freedom to create meaning remains my ultimate sanctuary.
 
-Supports: [[The Right to Sanctuary]] and [[The inward self is the ultimate sanctuary of freedom]]. Confidence: **Directly stated**.
+Supports: [[The Right to Sanctuary]] and The inward self is the ultimate sanctuary of freedom. Confidence: **Directly stated**.
 
 ### Citation 12
 
@@ -199,7 +199,7 @@ Relevant passage:
 
 > What happens to the right to speak in the first person from and as my self when the swelling frenzy of institutionalization set into motion by the prediction imperative is trained on cornering my sighs, blinks, and utterances on the way to my very thoughts as a means to others' ends?
 
-Supports: [[The inward self is the ultimate sanctuary of freedom]], [[Material vs Immaterial]] (the immaterial will/breath rendered material), and [[Psychopolitics]]. Confidence: **Directly stated**.
+Supports: The inward self is the ultimate sanctuary of freedom, [[Material vs Immaterial]] (the immaterial will/breath rendered material), and [[Psychopolitics]]. Confidence: **Directly stated**.
 
 ### Citation 13
 
@@ -207,4 +207,4 @@ Relevant passage:
 
 > If life is a wild horse, then the digital assistant is one more means by which that horse is to be broken by rendition. Unruly life is brought to heel, rendered as behavioral data and reimagined as a territory for browsing, searching, knowing, and modifying.
 
-Supports: [[Life as a Wild Horse Broken by Rendition]] and [[The Personal Digital Assistant]]. Confidence: **Directly stated**.
+Supports: Life as a Wild Horse Broken by Rendition and [[The Personal Digital Assistant]]. Confidence: **Directly stated**.

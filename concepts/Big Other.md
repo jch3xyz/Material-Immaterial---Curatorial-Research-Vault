@@ -8,7 +8,7 @@ sources:
 related:
   - "[[Instrumentarian Power]]"
   - "[[Surveillance Capitalism]]"
-  - "[[Behavioral Modification]]"
+  - "[[The Means of Behavioral Modification]]"
   - "[[Surveillance]]"
   - "[[Digital Panopticon]]"
   - "[[Big Data]]"
@@ -48,7 +48,7 @@ Finally, Zuboff argues that Big Other has no stable scale: it is structurally dr
 
 - [[Instrumentarian Power]] — the power Big Other materializes; Big Other is its "expression" and "materialization."
 - [[Surveillance Capitalism]] — the economic logic that owns and directs Big Other; surveillance capitalism is the "puppet master," Big Other the "connected puppet."
-- [[Behavioral Modification]] — the operation Big Other performs; ownership of its "means" is Zuboff's revised definition of power.
+- [[The Means of Behavioral Modification]] — the operation Big Other performs; ownership of its "means" is Zuboff's revised definition of power.
 - [[Surveillance]] — Big Other is the infrastructure that makes ubiquitous surveillance economically productive; this book realizes the long-committed surveillance forward-stub.
 - [[Digital Panopticon]] (Han) — adjacent but distinct: Han's panopticon describes the *subject's* internalized, self-illuminating condition; Big Other describes the *infrastructure* itself. Cross-linked, not merged.
 - [[Big Data]] / [[Dataism]] — Big Other is the apparatus that renders the world into the behavioral data these notes concern.

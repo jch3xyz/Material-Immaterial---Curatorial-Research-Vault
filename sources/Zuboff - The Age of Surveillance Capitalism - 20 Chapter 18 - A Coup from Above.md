@@ -48,7 +48,7 @@ This is a SYNTHESIS chapter: it names few new mechanisms but reframes the whole 
 ## Key Arguments
 
 - [[Surveillance capitalism is not classical capitalism it unites freedom with knowledge]] — classical theory twins freedom with ignorance (the unknowable market); surveillance capitalism replaces mystery with certainty, so "surveillance capitalists know too much to qualify for freedom."
-- [[Surveillance capitalism abandons the reciprocities that bound capitalism to democracy]] — consumer reciprocities (the American Revolution) and employee reciprocities (Britain's franchise) translated economic power into democracy; hyperscale + after-reciprocity sever both, breeding "exclusion rather than inclusion."
+- Surveillance capitalism abandons the reciprocities that bound capitalism to democracy — consumer reciprocities (the American Revolution) and employee reciprocities (Britain's franchise) translated economic power into democracy; hyperscale + after-reciprocity sever both, breeding "exclusion rather than inclusion."
 - [[Radical indifference is a permanent invitation to the corruption of public knowledge]] — judging content by engagement-equivalence makes content moderation merely "defensive"; disinformation thrives because it fulfills economic imperatives.
 - [[Surveillance capitalism is a coup from above an overthrow of popular sovereignty]] — the antidemocratic, antiegalitarian juggernaut as a coup de gens, "a form of tyranny that feeds on people but is not of the people."
 - [[Surveillance capitalism threatens human nature as industrial capitalism threatened nature]] — information civilization aims to dominate human nature and will, just as unintentionally, extinguish the will to will, the sanctity of the individual, intimacy, sociality, and trust.

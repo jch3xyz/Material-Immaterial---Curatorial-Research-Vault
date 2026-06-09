@@ -58,9 +58,9 @@ Symbolically, the transparent customer also recurs (unnamed but operative) where
 - [[Auto-Exploitation]] — the mechanism by which the customer "illuminates" himself
 - [[Pornographic Display]] / [[Exhibitionism and Voyeurism]] — the affective regime in which transparent customers volunteer their data
 - [[Brand Communities]] — the additive, spiritless gatherings transparent customers form
-- [[Illumination is Exploitation]] — the argument the symbol embodies
+- Illumination is Exploitation — the argument the symbol embodies
 - [[Freedom vs Control|Freedom as Control]] — the master tension Han names ("Freedom turns out to be a form of control")
-- [[Moral vs Economic Telos of the Panopticon]] — the tension the transparent customer crystallizes
+- Moral vs Economic Telos of the Panopticon — the tension the transparent customer crystallizes
 - [[Trust]] vs [[Transparency]] — the social-epistemic tension into which the customer is inserted
 
 ## Shoshana Zuboff (The Age of Surveillance Capitalism)

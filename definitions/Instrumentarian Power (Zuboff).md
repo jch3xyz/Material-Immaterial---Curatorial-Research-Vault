@@ -14,7 +14,7 @@ related_concepts:
   - "[[Instrumentarian Power]]"
   - "[[Surveillance Capitalism]]"
   - "[[Big Other]]"
-  - "[[Behavioral Modification]]"
+  - "[[The Means of Behavioral Modification]]"
   - "[[Radical Indifference]]"
   - "[[Behavioral Surplus]]"
 confidence: high
@@ -57,7 +57,7 @@ This is the vault's first named *species of power* defined as **behavioral modif
 - [[Instrumentarian Power]]
 - [[Surveillance Capitalism]]
 - [[Big Other]]
-- [[Behavioral Modification]]
+- [[The Means of Behavioral Modification]]
 - [[Radical Indifference]]
 - [[Behavioral Surplus]]
 - [[Digital Panopticon]]

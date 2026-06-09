@@ -23,21 +23,21 @@ Chapter 4 is the chapter on *how surveillance capitalism got away with it*. Wher
 
 The chapter opens by grounding surveillance capitalism in capitalism's deep logic of taking what lives outside the market and reselling it as a commodity. Zuboff draws on Karl Polanyi's three "commodity fictions" (labor, land, money) and declares that surveillance capitalists have created a fourth fictional commodity — human experience, "expropriated from the experiential realities of human beings," reborn as "behavior," rendered into data, and queued for "fabrication into predictions and eventual exchange in the new behavioral futures markets." Enlisting Marx's "primitive accumulation," Arendt's correction (a recurring cycle, not a one-time event), and David Harvey's "accumulation by dispossession," she names the founding operation [[Digital Dispossession]], recasting us as "human natural resources," "exiles from our own behavior," "the native peoples now."
 
-The argumentative spine is then a three-part account of the protective habitat: (1) the [[Lawlessness as a Natural Right|Cry Freedom strategy]] — dual-class share structures giving Page, Brin, and Zuckerberg absolute corporate control, plus an ideology of lawlessness and the claim to "ungoverned" cyberspace, explicitly compared to the Gilded Age robber barons; (2) the neoliberal shelter — the capture of the regulatory state, the [[Self-Regulation]] doctrine, conservative-libertarian First Amendment "[[Free Speech Fundamentalism|free speech fundamentalism]]," and Section 230 of the Communications Decency Act; and (3) [[Surveillance Exceptionalism]] — the post-9/11 "state of exception" that converted Google's surveillance capabilities from a legislative target into a coveted national-security asset through an "elective affinity" (Weber) between Google and the intelligence community. The chapter closes on its democratic indictment: two men at Google and one at Facebook, with no vote and no oversight, control the world's information and means of social connection — foreshadowing the later "coup from above."
+The argumentative spine is then a three-part account of the protective habitat: (1) the Cry Freedom strategy — dual-class share structures giving Page, Brin, and Zuckerberg absolute corporate control, plus an ideology of lawlessness and the claim to "ungoverned" cyberspace, explicitly compared to the Gilded Age robber barons; (2) the neoliberal shelter — the capture of the regulatory state, the [[Self-Regulation]] doctrine, conservative-libertarian First Amendment "[[Free Speech Fundamentalism|free speech fundamentalism]]," and Section 230 of the Communications Decency Act; and (3) [[Surveillance Exceptionalism]] — the post-9/11 "state of exception" that converted Google's surveillance capabilities from a legislative target into a coveted national-security asset through an "elective affinity" (Weber) between Google and the intelligence community. The chapter closes on its democratic indictment: two men at Google and one at Facebook, with no vote and no oversight, control the world's information and means of social connection — foreshadowing the later "coup from above."
 
 ## Key Concepts
 
 - [[Surveillance Capitalism]] — the master concept, here developed through its origin in dispossession and its self-defense; "Surveillance capitalism originates in this act of digital dispossession."
 - [[Digital Dispossession]] — the founding extractive act: human experience claimed as virgin "free raw material," rendered as behavior/data; the fourth fictional commodity; "not a wave but the tide itself."
-- [[Human Natural Resources]] — Zuboff's name for what we are reduced to under dispossession: not customers, not users, but extractable resource; "We are the native peoples now."
+- Human Natural Resources — Zuboff's name for what we are reduced to under dispossession: not customers, not users, but extractable resource; "We are the native peoples now."
 - [[Surveillance Exceptionalism]] — Zuboff's coinage for the post-9/11 "unique historical deformity" in which Google's surveillance practices, days from legislative restriction, were "coveted rather than contested."
-- [[Lawlessness as a Natural Right]] — the founders' twin pursuit of freedom: absolute corporate control plus the claim to lawless, ungoverned operational space; "Code is law for Google now."
+- Lawlessness as a Natural Right — the founders' twin pursuit of freedom: absolute corporate control plus the claim to lawless, ungoverned operational space; "Code is law for Google now."
 - [[Fortifications (Zuboff)]] — the chapter's organizing concept of proactive self-defense across four arenas (electoral demonstration, public/private blurring + lobbying, the revolving door, academic/cultural capture).
 - [[Self-Regulation]] — the neoliberal "antidote to collectivism": firms set, monitor, and judge their own standards; "a windfall for the new surveillance capitalists."
 - [[Free Speech Fundamentalism]] — Pasquale's term (via Zuboff) for the "cyberlibertarian" weaponization of the First Amendment to shield "algorithmic orderings of information" from oversight.
 - [[Section 230 (The Intermediary Shield)]] — the CDA 1996 statute treating websites as neutral "intermediaries"; its logic "collapses once surveillance capitalism enters the scene."
 - [[Behavioral Surplus]] — the data exhaust the fortifications protect; here catalogued vividly (content, the behavior of content providers, patterns of connection, "their thoughts and feelings, and the meta-data expressed in their emoticons, exclamation points, lists, contractions, and salutations").
-- [[Extraction Imperative]] — the law of motion compelling integration of surplus flows (the WhatsApp/Oculus acquisitions arms race, the integration of data the EU thought would stay separate, the refusal to moderate content).
+- [[The Extraction Imperative]] — the law of motion compelling integration of surplus flows (the WhatsApp/Oculus acquisitions arms race, the integration of data the EU thought would stay separate, the refusal to moderate content).
 - [[Behavioral Futures Markets]] — the markets where predictions are traded; named here as the endpoint of the dispossession pipeline and an "institutional fact" that normalized surveillance capitalism.
 - [[Prediction Products]] — the output sold in those markets; the "quest for better prediction products" driving surplus integration.
 - [[Surveillance]] — the cross-book research focus this whole book realizes; chapter 4 supplies its political/legal/historical-defense dimension (lawlessness, the neoliberal shelter, surveillance exceptionalism, the public-private elective affinity).
@@ -49,13 +49,13 @@ The argumentative spine is then a three-part account of the protective habitat: 
 
 ## Key Arguments
 
-- [[Surveillance capitalism originates in an act of digital dispossession]] — a recurring "repetitive sin" of capitalism, not a one-time event (Polanyi's commodity fictions, Marx's primitive accumulation, Arendt's cycle, Harvey's dispossession).
-- [[Surveillance capitalists must keep democracy at bay to protect free behavioral surplus]] — because frictionless surplus is the necessary input, any law that could outlaw extraction is an existential threat; lawlessness is structural necessity, not mere greed.
-- [[The digital barons revive the robber barons' strategy of circumscribing democracy]] — pseudoscientific "natural law" (network effects / winner-take-all ↔ survival of the fittest) legitimates concentrated wealth while exploiting the very law it despises.
-- [[Section 230's intermediary logic collapses under surveillance capitalism]] — the platform is no longer a neutral library but an extractive operation; the content (and the record of everyone who touched it) is "the diamond mine ready for excavation and plunder."
-- [[Surveillance exceptionalism after 9-11 sheltered the surveillance mutation]] — a "state of exception" converted Google's capabilities from a legislative target into a coveted national-security asset; without it, foundational practices "might have been... plainly illegal" and the data "would not even exist."
+- Surveillance capitalism originates in an act of digital dispossession — a recurring "repetitive sin" of capitalism, not a one-time event (Polanyi's commodity fictions, Marx's primitive accumulation, Arendt's cycle, Harvey's dispossession).
+- Surveillance capitalists must keep democracy at bay to protect free behavioral surplus — because frictionless surplus is the necessary input, any law that could outlaw extraction is an existential threat; lawlessness is structural necessity, not mere greed.
+- The digital barons revive the robber barons' strategy of circumscribing democracy — pseudoscientific "natural law" (network effects / winner-take-all ↔ survival of the fittest) legitimates concentrated wealth while exploiting the very law it despises.
+- Section 230's intermediary logic collapses under surveillance capitalism — the platform is no longer a neutral library but an extractive operation; the content (and the record of everyone who touched it) is "the diamond mine ready for excavation and plunder."
+- Surveillance exceptionalism after 9-11 sheltered the surveillance mutation — a "state of exception" converted Google's capabilities from a legislative target into a coveted national-security asset; without it, foundational practices "might have been... plainly illegal" and the data "would not even exist."
 - [[The state outsources surveillance to private firms to evade constitutional constraints]] — the Constitution slows government surveillance, so agencies rely on firms' lawlessness, "orchestrated around handshakes rather than legal formalities."
-- [[Surveillance capitalism concentrates unaccountable sovereign power in a few unelected men]] — the closing indictment: two men at Google and one at Facebook, lacking the legitimacy of the vote, control the world's information and means of social connection.
+- Surveillance capitalism concentrates unaccountable sovereign power in a few unelected men — the closing indictment: two men at Google and one at Facebook, lacking the legitimacy of the vote, control the world's information and means of social connection.
 
 ## Important Definitions
 
@@ -66,10 +66,10 @@ The argumentative spine is then a three-part account of the protective habitat: 
 ## Important Metaphors / Symbols
 
 - [[The Moat Around the Castle]] — the chapter title and organizing image: "market power is protected by moats of secrecy, indecipherability, and expertise."
-- [[Human Experience as Virgin Wood]] — extraction-frontier imagery: bodies, thoughts, and feelings "as virgin and blameless as nature's once-plentiful meadows and forests before they fell to the market dynamic."
+- Human Experience as Virgin Wood — extraction-frontier imagery: bodies, thoughts, and feelings "as virgin and blameless as nature's once-plentiful meadows and forests before they fell to the market dynamic."
 - [[We Are the Native Peoples Now]] — the colonial-dispossession figure: users as a conquered indigenous population whose self-determination has "vanished from the maps of our own experience."
 - [[Code Is Law (Zuboff)]] — Google's effective sovereignty over its territories.
-- [[The Diamond Mine (Behavioral Surplus)]] — the content, and the record of everyone who touched it, as "the diamond mine ready for excavation and plunder."
+- The Diamond Mine (Behavioral Surplus) — the content, and the record of everyone who touched it, as "the diamond mine ready for excavation and plunder."
 - [[Dual-Class Shares]] — the corporate-governance symbol of absolute founder control (B-class super-voting, "neutered" C-class zero-vote shares); insulation from democratic and market accountability.
 - [[The Revolving Door]] — the migration of personnel between "the Googlesphere" and government (197 in, 61 out) as the symbol of public/private capture.
 
@@ -124,7 +124,7 @@ Relevant passage:
 
 > Knowledge, authority, and power rest with surveillance capital, for which we are merely “human natural resources.” We are the native peoples now whose tacit claims to self-determination have vanished from the maps of our own experience.
 
-Supports: [[Human Natural Resources]] and the colonial-dispossession metaphor [[We Are the Native Peoples Now]] — the reduction of persons to extractable resource. Confidence: **Directly stated**.
+Supports: Human Natural Resources and the colonial-dispossession metaphor [[We Are the Native Peoples Now]] — the reduction of persons to extractable resource. Confidence: **Directly stated**.
 
 ### Citation 4
 
@@ -132,7 +132,7 @@ Relevant passage:
 
 > In order for them to assert and exploit their freedom, democracy would have to be kept at bay.
 
-Supports: [[Surveillance capitalists must keep democracy at bay to protect free behavioral surplus]] and the tension [[Freedom vs Control]] — the founders' freedom is freedom from democratic law. Confidence: **Directly stated**.
+Supports: Surveillance capitalists must keep democracy at bay to protect free behavioral surplus and the tension [[Freedom vs Control]] — the founders' freedom is freedom from democratic law. Confidence: **Directly stated**.
 
 ### Citation 5
 
@@ -140,7 +140,7 @@ Relevant passage:
 
 > Extraction quarry must be both unprotected and available at zero cost if this logic of accumulation is to succeed. These requirements are also an Achilles heel.
 
-Supports: The structural-necessity argument linking the [[Extraction Imperative]] to lawlessness — and its vulnerability ("Achilles heel") to any law that would outlaw extraction. Confidence: **Directly stated**.
+Supports: The structural-necessity argument linking the [[The Extraction Imperative]] to lawlessness — and its vulnerability ("Achilles heel") to any law that would outlaw extraction. Confidence: **Directly stated**.
 
 ### Citation 6
 
@@ -148,7 +148,7 @@ Relevant passage:
 
 > Code is law for Google now, but the risk of new laws in its established and anticipated territories remains a persistent danger to surveillance capitalism.
 
-Supports: [[Lawlessness as a Natural Right]] and the metaphor [[Code Is Law (Zuboff)]] — Google's effective sovereignty alongside its persistent fear of regulation. Confidence: **Directly stated**.
+Supports: Lawlessness as a Natural Right and the metaphor [[Code Is Law (Zuboff)]] — Google's effective sovereignty alongside its persistent fear of regulation. Confidence: **Directly stated**.
 
 ### Citation 7
 
@@ -156,7 +156,7 @@ Relevant passage:
 
 > the Gilded Age industrialists cited Spencer’s specious, pseudoscientific “survival of the fittest” as proof of a divine plan intended to put society’s wealth in the hands of its most aggressively competitive individuals.
 
-Supports: [[The digital barons revive the robber barons' strategy of circumscribing democracy]] and cross-link to [[Capital as Religion]] — pseudoscientific natural law as legitimation of concentrated wealth. Confidence: **Directly stated**.
+Supports: The digital barons revive the robber barons' strategy of circumscribing democracy and cross-link to [[Capital as Religion]] — pseudoscientific natural law as legitimation of concentrated wealth. Confidence: **Directly stated**.
 
 ### Citation 8
 
@@ -164,7 +164,7 @@ Relevant passage:
 
 > Under the regime of surveillance capitalism, content is a source of behavioral surplus, as is the behavior of the people who provide the content, as are their patterns of connection, communication, and mobility, their thoughts and feelings, and the meta-data expressed in their emoticons, exclamation points, lists, contractions, and salutations.
 
-Supports: The ch.4 catalogue extending [[Behavioral Surplus]] and the collapse argument [[Section 230's intermediary logic collapses under surveillance capitalism]]. Confidence: **Directly stated**.
+Supports: The ch.4 catalogue extending [[Behavioral Surplus]] and the collapse argument Section 230's intermediary logic collapses under surveillance capitalism. Confidence: **Directly stated**.
 
 ### Citation 9
 
@@ -188,7 +188,7 @@ Relevant passage:
 
 > In this environment of trauma and anxiety, a “state of exception” was invoked to legitimate a new imperative: speed at any cost.
 
-Supports: [[Surveillance exceptionalism after 9-11 sheltered the surveillance mutation]], the link to [[State of Exception]] (via Lyon), and the [[Acceleration]] / [[Privacy vs Security]] tensions. Confidence: **Directly stated**.
+Supports: Surveillance exceptionalism after 9-11 sheltered the surveillance mutation, the link to [[State of Exception]] (via Lyon), and the [[Acceleration]] / [[Privacy vs Security]] tensions. Confidence: **Directly stated**.
 
 ### Citation 12
 
@@ -212,4 +212,4 @@ Relevant passage:
 
 > Two men at Google who do not enjoy the legitimacy of the vote, democratic oversight, or the demands of shareholder governance exercise control over the organization and presentation of the world’s information.
 
-Supports: [[Surveillance capitalism concentrates unaccountable sovereign power in a few unelected men]] — the chapter's closing democratic indictment. Confidence: **Directly stated**.
+Supports: Surveillance capitalism concentrates unaccountable sovereign power in a few unelected men — the chapter's closing democratic indictment. Confidence: **Directly stated**.

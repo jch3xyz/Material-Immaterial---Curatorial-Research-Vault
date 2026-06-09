@@ -37,7 +37,7 @@ The patent appears in Chapter 3, "The Discovery of Behavioral Surplus," in the s
 
 Zuboff returns to the patent's own language to show that secrecy was structural, not incidental: when Schmidt later instituted the "hiding strategy," employees were told not to speak about what "the patent had referred to as its 'novel methods, apparatus, message formats and/or data structures.'" The symbol therefore frames the larger argument that [[Surveillance]] here is not a side effect but a designed and patented capability — and that our failure to be astonished by it is itself a symptom of [[Psychic Numbing]].
 
-The patent's method also seeds the [[The Quantified Self|Quantified Self]] horizon Zuboff develops later: the deduction of "the thoughts, feelings, intentions, and interests of individuals and groups" from online traces, irrespective of the person's awareness. (`Interpretive synthesis`)
+The patent's method also seeds the [[Quantified Self|Quantified Self]] horizon Zuboff develops later: the deduction of "the thoughts, feelings, intentions, and interests of individuals and groups" from online traces, irrespective of the person's awareness. (`Interpretive synthesis`)
 
 ## Related Concepts, Metaphors, and Tensions
 
@@ -54,7 +54,7 @@ The patent's method also seeds the [[The Quantified Self|Quantified Self]] horiz
 - [[Euphemism and secrecy are structural to surveillance capitalism not incidental]]
 - [[The Transparent Customer]]
 - [[Surveillance]]
-- [[The Quantified Self|Quantified Self]]
+- [[Quantified Self|Quantified Self]]
 
 ## Sources
 

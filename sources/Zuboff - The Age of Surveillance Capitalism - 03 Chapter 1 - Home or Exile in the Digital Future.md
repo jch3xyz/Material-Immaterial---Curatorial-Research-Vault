@@ -55,12 +55,12 @@ For the vault this chapter is the keystone of the surveillance research focus an
 
 - [[Surveillance capitalism is a logic not a technology]] — the same "digital" produced the sovereign Aware Home AND the extractive Nest; we hunt the puppet master, not the puppet.
 - [[We are not the product but the raw material of surveillance capitalism]] — services are "hooks," not value exchanges; the actual customers trade in behavioral futures markets.
-- [[The goal is no longer to know us but to automate us]] — the reorientation "from knowledge to power" drives intervention from prediction to behavior shaping.
-- [[The unprecedented eludes contest because old categories make it invisible]] — familiar lenses (monopoly, privacy) fall short; new naming is the prelude to effective contest.
-- [[Antitrust against monopoly does not interrupt surveillance capitalism]] — breaking up Google or Facebook could simply multiply surveillance-capitalist firms at smaller scale.
+- The goal is no longer to know us but to automate us — the reorientation "from knowledge to power" drives intervention from prediction to behavior shaping.
+- The unprecedented eludes contest because old categories make it invisible — familiar lenses (monopoly, privacy) fall short; new naming is the prelude to effective contest.
+- Antitrust against monopoly does not interrupt surveillance capitalism — breaking up Google or Facebook could simply multiply surveillance-capitalist firms at smaller scale.
 - [[Instrumentarianism is a new species of power not a form of totalitarianism]] — totalitarianism transformed the state into total possession; instrumentarianism transforms the market into total certainty.
 - [[Surveillance capitalism threatens human nature as industrial capitalism threatened nature]] — its externality is humanity itself, as industrialism's was the Earth.
-- [[Surveillance capitalism is a coup from above]] — an antidemocratic overthrow of the people's sovereignty.
+- Surveillance capitalism is a coup from above — an antidemocratic overthrow of the people's sovereignty.
 
 ## Important Definitions
 
@@ -73,9 +73,9 @@ For the vault this chapter is the keystone of the surveillance research focus an
 
 - [[The Puppet Master Not the Puppet]]
 - [[The Horseless Carriage]]
-- [[Closing Doors to Rooms That Will No Longer Exist]]
+- Closing Doors to Rooms That Will No Longer Exist
 - [[The Vampire That Feeds on Experience]]
-- [[The Faustian Compact (Singing in Our Chains)]]
+- The Faustian Compact (Singing in Our Chains)
 - [[The Aware Home]]
 - [[The Nest Thermostat]]
 - [[Home (Sanctuary)]]
@@ -129,7 +129,7 @@ Relevant passage:
 
 > With this reorientation from knowledge to power, it is no longer enough to automate information flows about us; the goal now is to automate us. In this phase of surveillance capitalism’s evolution, the means of production are subordinated to an increasingly complex and comprehensive “means of behavioral modification.” In this way, surveillance capitalism births a new species of power that I call instrumentarianism. Instrumentarian power knows and shapes human behavior toward others’ ends. Instead of armaments and armies, it works its will through the automated medium of an increasingly ubiquitous computational architecture of “smart” networked devices, things, and spaces.
 
-Supports: [[The goal is no longer to know us but to automate us]], [[The Means of Behavioral Modification]] (the Marx echo), and the introduction of [[Instrumentarian Power]] / [[Instrumentarian Power (Zuboff)]]; grounds the [[Knowledge vs Power]] tension. Confidence: Directly stated.
+Supports: The goal is no longer to know us but to automate us, [[The Means of Behavioral Modification]] (the Marx echo), and the introduction of [[Instrumentarian Power]] / [[Instrumentarian Power (Zuboff)]]; grounds the [[Knowledge vs Power]] tension. Confidence: Directly stated.
 
 ### Citation 3
 
@@ -161,7 +161,7 @@ Relevant passage:
 
 > The unprecedented is necessarily unrecognizable. When we encounter something unprecedented, we automatically interpret it through the lenses of familiar categories, thereby rendering invisible precisely that which is unprecedented. A classic example is the notion of the “horseless carriage” to which people reverted when confronted with the unprecedented facts of the automobile.
 
-Supports: [[The Unprecedented]], [[The unprecedented eludes contest because old categories make it invisible]], and the [[The Horseless Carriage]] metaphor. Confidence: Directly stated.
+Supports: [[The Unprecedented]], The unprecedented eludes contest because old categories make it invisible, and the [[The Horseless Carriage]] metaphor. Confidence: Directly stated.
 
 ### Citation 7
 
@@ -193,7 +193,7 @@ Relevant passage:
 
 > surveillance capitalism is best described as a coup from above, not an overthrow of the state but rather an overthrow of the people’s sovereignty and a prominent force in the perilous drift toward democratic deconsolidation that now threatens Western liberal democracies.
 
-Supports: [[The Coup from Above]] and [[Surveillance capitalism is a coup from above]]. Confidence: Directly stated.
+Supports: [[The Coup from Above]] and Surveillance capitalism is a coup from above. Confidence: Directly stated.
 
 ### Citation 11
 
@@ -209,4 +209,4 @@ Relevant passage:
 
 > This conflict produces a psychic numbing that inures us to the realities of being tracked, parsed, mined, and modified. It disposes us to rationalize the situation in resigned cynicism, create excuses that operate like defense mechanisms (“I have nothing to hide”), or find other ways to stick our heads in the sand, choosing ignorance out of frustration and helplessness.
 
-Supports: [[Psychic Numbing]] and the [[The Faustian Compact (Singing in Our Chains)]] metaphor; resonant with Han's voluntary self-exposure ([[Auto-Exploitation]]). Confidence: Directly stated.
+Supports: [[Psychic Numbing]] and the The Faustian Compact (Singing in Our Chains) metaphor; resonant with Han's voluntary self-exposure ([[Auto-Exploitation]]). Confidence: Directly stated.
