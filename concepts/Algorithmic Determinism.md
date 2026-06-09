@@ -6,6 +6,8 @@ sources:
   - "[[raw/OGieblyn - God Human Animal Machine/Ch12 [Algorithm]]]"
   - "[[raw/Harari - Homo Deus/11 The Time Bomb in the Laboratory]]"
   - "[[raw/Harari - Homo Deus/12 The Great Decoupling]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
 related:
   - "[[Feedback Loops]]"
   - "[[The Body as Data]]"
@@ -15,13 +17,15 @@ related:
   - "[[Mind as Machine]]"
   - "[[The Liberal Humanist Subject]]"
   - "[[Posthumanism]]"
+  - "[[Inevitabilism]]"
 opposes:
   - "[[The Liberal Humanist Subject]]"
 authors:
   - "[[Meghan O'Gieblyn]]"
   - "[[Yuval Noah Harari]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Algorithmic Determinism
@@ -48,7 +52,7 @@ Algorithmic determinism is therefore best read as the *social-political* express
 
 - **[[Meghan O'Gieblyn]]** — adopts Polonski's term and gives it her signature formulation ("To what extent does the act of prediction enact the very fate it foresees?"), reading it as the contemporary, secular reincarnation of the predestination problem (Calvin, Weber) and as the political face of disenchantment. For her the danger is not chiefly inaccuracy but the loop: prediction "actively modifies real behavior."
 - **Vyacheslav Polonski** — the Google researcher credited with coining "algorithmic determinism" to name the process by which people "become trapped within the mirror of their digital reflection." (Forward-reference; O'Gieblyn cites him rather than developing his account at length.)
-- *Adjacent framings O'Gieblyn marshals:* Shoshana Zuboff's "behavioral futures" and surveillance capitalism (prediction as a market in "raw material" extracted from behavior); Yuval Noah Harari's "Dataism" ("Listen to the algorithms! They know how you feel"), which O'Gieblyn reads as the explicit announcement of the end of liberal humanism. These are cross-author forward-references; Harari's own treatment now appears below and in [[Organisms Are Algorithms]] and [[Dataism]].
+- *Adjacent framings O'Gieblyn marshals:* Shoshana Zuboff's "behavioral futures" and surveillance capitalism (prediction as a market in "raw material" extracted from behavior); Yuval Noah Harari's "Dataism" ("Listen to the algorithms! They know how you feel"), which O'Gieblyn reads as the explicit announcement of the end of liberal humanism. These are cross-author forward-references; Harari's own treatment now appears below and in [[Organisms Are Algorithms]] and [[Dataism]]; Zuboff's appears below.
 
 ## Organisms Are Algorithms (Harari)
 
@@ -58,8 +62,15 @@ The decisive consequence for determinism is engineerability. Because the desire 
 
 This biological determinism is also what licenses the *external algorithm that knows me better than I know myself* — the precise hinge O'Gieblyn names via "Dataism." On Harari's account, since "the algorithms constituting a human are not free" but "shaped by genes and environmental pressures," it follows "that an external algorithm could theoretically know me much better than I can ever know myself," until "the algorithm will know best, the algorithm will always be right." Liberalism's collapse arrives "on the day the system knows me better than I know myself." Here Harari and O'Gieblyn meet on the same ground from opposite directions: he derives the predictability from the firing neuron, she from the profiled population — but both end at the dissolution of [[The Liberal Humanist Subject|the autonomous chooser]] and the relocation of authority to networked algorithms (`Strongly implied` for the synthesis; the component quotations are `Directly stated`).
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+[[Shoshana Zuboff]] enters this note from the side O'Gieblyn and Harari leave implicit: she rejects the determinism as an *ideology* before she analyses its mechanism. Where O'Gieblyn fears the predictive loop *produces* the appearance of determinism and Harari finds it already written into the biochemistry, Zuboff insists the apparatus is "always economic means, not ends in themselves" — a logic that "imbues technology and commands it into action," not a fate flowing autonomously from the machine. Her flat denial is the load-bearing statement: "This means that technological inevitability does not exist. Technologies are always economic means, not ends in themselves: in modern times, technology's DNA comes already patterned by what the sociologist Max Weber called the 'economic orientation.'" This is anti-determinism at the level of the *narrative* about technology — the "inevitabilism" she anatomizes at length in Chapter 7 and which the vault tracks under [[Inevitabilism]] (`Directly stated`).
+
+Yet Zuboff also names the operational mechanism that makes O'Gieblyn's algorithmic determinism real once surveillance capitalism is in motion. In her account of the "uncontract" — the unilateral machine execution that forecloses alternatives — the goal is to leverage behavioral surplus "to preempt and foreclose action alternatives, thus replacing the indeterminacy of social processes with the determinism of programmed machine processes." This is the *engineered* determinism O'Gieblyn worries about ("the act of prediction enact[s] the very fate it foresees") restated as a deliberate economic operation: not a metaphysical condition discovered in the world but a substitution manufactured by the means of behavioral modification, "the replacement of society with machine action dictated by economic imperatives." The crucial Zuboffian wrinkle is that this determinism is *contingent* — "Men and women made it, and they can control it. They merely choose not to do so" — so the determinism O'Gieblyn dreads is, for Zuboff, a choice masquerading as a law (`Directly stated` for the quotations; `Interpretive synthesis` for the bridge to O'Gieblyn's loop).
+
 ## Related Concepts
 
+- [[Inevitabilism]] — Zuboff's name for the determinist ideology of technology ("the rhetoric of inevitability… a full-blown ideology of inevitabilism") that this note's other authors describe at the level of mechanism. Algorithmic determinism is what the predictive apparatus *does*; inevitabilism is the *story* that naturalizes it as fated and so disarms resistance. Cross-linked, not merged.
 - [[Feedback Loops]] — the underlying cybernetic mechanism (Hayles's sense). Algorithmic determinism is what that loop *does socially* when one of its arms is a profiled population and the other is an institution acting on the profile. Cross-linked, not merged: the loop is the device; algorithmic determinism is the political-existential predicament it produces.
 - [[The Body as Data]] — the precondition: the person must first be reduced to "the shell of human experience," external states without interiority, before the digital reflection can be fed back as a constraint.
 - [[Information]] — the form to which the predicted subject is reduced; the content-free, interiority-free description that prediction operates on.
@@ -78,6 +89,7 @@ This biological determinism is also what licenses the *external algorithm that k
 - **Technology and perception:** does the red box change what the officer *perceives* — manufacturing the crime it predicts through confirmation bias — and if so, can any prediction built on past behavior ever be a neutral "forecast" rather than a self-confirming intervention?
 - **Posthumanism:** if "Dataism" can "know the customer better than she knows herself," and we "defer to machine wisdom" on whom to marry or vote for, is the resulting subject still human in the liberal sense — or a node whose preferences are read off the clickstream? (See [[Posthumanism]], [[The Liberal Humanist Subject]].)
 - **The free-will problem, socialized:** O'Gieblyn ties this to predestination (Calvin, Weber). Is algorithmic determinism a genuinely new condition, or the predestination anxiety "repeating a historical pattern" — fate relocated from God's decree to the proprietary model?
+- **Determinism as ideology vs. as mechanism:** if Zuboff is right that "technological inevitability does not exist" and the determinism is an economic *choice* rather than a law of the machine, does naming it as algorithmic *determinism* concede too much — mistaking a contingent business strategy for a metaphysical fate? (See [[Inevitabilism]].)
 
 ## Sources
 
@@ -234,3 +246,25 @@ Relevant passage:
 > It follows that an external algorithm could theoretically know me much better than I can ever know myself. An algorithm that monitors each of the systems that comprise my body and my brain could know exactly who I am, how I feel and what I want. Once developed, such an algorithm could replace the voter, the customer and the beholder. Then the algorithm will know best, the algorithm will always be right, and beauty will be in the calculations of the algorithm.
 
 Supports: The hinge from biological determinism to the predictive sovereign — the same "knows me better than I know myself" condition O'Gieblyn names via Dataism, here derived from the unfree biochemical algorithm. Grounds the convergence between the two authors. Label: `Directly stated`.
+
+### Source 15
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]
+Relevant passage:
+
+> This means that technological inevitability does not exist. Technologies are always economic means, not ends in themselves: in modern times, technology’s DNA comes already patterned by what the sociologist Max Weber called the “economic orientation.”
+
+Supports: Zuboff's anti-inevitabilism — she rejects the determinist, neutral-instrument view of technology that O'Gieblyn and Harari describe as a *condition*, treating it instead as an *ideology* concealing economic ends. Grounds the section's contrast (determinism as contingent economic choice, not machine fate) and the cross-link to [[Inevitabilism]]. Label: `Directly stated`.
+
+### Source 16
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]
+Relevant passage:
+
+> thus replacing the indeterminacy of social processes with the determinism of programmed machine processes.
+
+Supports: Zuboff's operational account of the engineered determinism O'Gieblyn fears — the "uncontract" forecloses action alternatives, substituting programmed machine determinism for the open-endedness of social life. The mechanism behind "the act of prediction enact[s] the very fate it foresees," restated as a deliberate economic operation. Label: `Directly stated`.

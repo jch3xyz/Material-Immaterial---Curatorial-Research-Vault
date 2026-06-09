@@ -6,6 +6,10 @@ sources:
   - "[[raw/Harari - Homo Deus/14 The Data Religion]]"
   - "[[raw/Harari - Homo Deus/13 The Ocean of Consciousness]]"
   - "[[raw/Harari - Homo Deus/07 The Odd Couple]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/09 Chapter 7 - The Reality Business]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/13 Chapter 11 - The Right to the Future Tense]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Information]]"
   - "[[Narrativity]]"

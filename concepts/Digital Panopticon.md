@@ -9,6 +9,8 @@ sources:
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
   - "[[raw/McLuhan - Understanding Media/08 Chapter 5 - Hybrid Energy - Les Liaisons Dangereuses]]"
   - "[[raw/McLuhan - Understanding Media/10 Chapter 7 - Challenge and Collapse - The Nemesis of Creativity]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -17,14 +19,17 @@ related:
   - "[[Auto-Exploitation]]"
   - "[[Self-Exposure]]"
   - "[[Society of Control]]"
+  - "[[Big Other]]"
+  - "[[Surveillance]]"
 opposes:
   - "[[Disciplinary Panopticon]]"
   - "[[Trust]]"
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Marshall McLuhan]]"
+  - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-08
 ---
 
 # Digital Panopticon
@@ -41,6 +46,7 @@ Han's reworking of the Benthamian and Foucauldian panopticon as an aperspectival
 - **The disciplinary predecessor** — Bentham's [[The Panopticon|panopticon]] and the Foucauldian disciplinary apparatus it emblematizes: a centered, perspectival machine built around one hidden inspector who "sees without being seen," with isolated, silenced inmates who *know* they are watched and interiorize the gaze. This is the foil Han argues *against*, not his own concept.
 - **Han in *The Transparency Society*** — the digital panopticon as an *aperspectival*, decentered regime sustained by [[Hypercommunication]] and voluntary self-exposure, where "hypercommunication guarantees [[Transparency]]" and the "transparent customer" becomes its homo sacer. (See *Longer Explanation* and *Authors and Variants* below.)
 - **Han in *Psychopolitics*** — the same structure radicalized along three further axes: surveillance is *outsourced to the inmates* and offered "out of an inner need"; Big Brother "now wears a friendly face" so that the watching goes *unfelt* ("everyone feels free"); and Big Data makes the apparatus *aperspectival without blind spots*, able to "peer into the human soul itself," until "everyone is his or her own panopticon." (See *Psychopolitics (Han)* below.)
+- **The political-economic counterpart — Zuboff (2019)** — Zuboff names the same ubiquitous apparatus from the *capital* side rather than the subject side: [[Big Other]], "a ubiquitous sensate, networked, computational infrastructure," is the materialization of [[Instrumentarian Power]], the means by which [[Surveillance Capitalism]] knows and modifies behavior. Where Han stresses the inmate's *voluntary* self-illumination, Zuboff stresses the *unilateral* claiming of experience and the knowledge asymmetry that follows — "surveillance capitalists know everything about us, whereas their operations are designed to be unknowable to us." (See *Shoshana Zuboff (The Age of Surveillance Capitalism)* below.)
 
 The aperspectival/geometric facet of the concept is treated in detail in the definition note [[Aperspectival Panopticon (Han)]]; this concept note carries the broader social, economic, and affective senses.
 
@@ -68,10 +74,19 @@ In "Challenge and Collapse: The Nemesis of Creativity" (ch. 7) McLuhan turns thi
 
 The convergence should not be overstated. McLuhan's diagnosis is media-ecological — his real worry is the numbing "Narcissus-narcosis" by which we fail to perceive our own extensions — and his proposed remedy is the artist's "integral awareness," not a politics of opacity or [[Negativity]]. He does not name surveillance, voluntary self-illumination, or the collapse of guard and inmate; reading him as an early theorist of the digital panopticon is an interpretive bridge, not his own claim. What is verbatim and load-bearing is the leasing metaphor and the "acutely noted by some computer" passage, which place the externalized, corporately captured, data-translated body on the timeline well before Han and Harari. (Interpretive synthesis — for the bridge to Han's digital panopticon and to [[Dataism]]; the McLuhan passages themselves are `Directly stated`.)
 
+## Shoshana Zuboff (The Age of Surveillance Capitalism) — Big Other as the political-economic counterpart of the digital panopticon
+
+Where Han describes the digital panopticon from the *subject's* side — the inmate who illuminates and exploits itself — Zuboff names the same ubiquitous apparatus from the side of *capital* and *power*. The apparatus is [[Big Other]]: in the book's opening frame, [[Instrumentarian Power]] finds "its expression in a ubiquitous sensate, networked, computational infrastructure that I call Big Other," and in the Part III definition Zuboff names it again — "Big Other: it is the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior." This is the apparatus-side counterpart to Han's panopticon: both describe a frictionless, ambient, smartphone-borne surveillance that feels less like a prison than a service. But Zuboff's stress falls on the *economic logic* that animates it — surveillance capital "is the puppet master that imposes its will through the medium of the ubiquitous digital apparatus" — and on ownership: "Power was once identified with the ownership of the means of production, but it is now identified with ownership of the means of behavioral modification that is Big Other." (Directly stated — Ch1, Ch13.)
+
+The decisive shift Zuboff adds to the concept is the *knowledge asymmetry*. Han's inmate believes itself free and supplies its data "out of an inner need"; Zuboff agrees that the watching is unfelt but reframes the surveillance as *unilateral* rather than voluntary, defined by a one-way flow of knowledge: "Surveillance capitalists know everything about us, whereas their operations are designed to be unknowable to us. They accumulate vast domains of new knowledge from us, but not for us. They predict our futures for the sake of others' gain, not ours." This is the political-economic core of what Han diagnoses affectively — the apparatus that "can peer into the human soul itself" is, on Zuboff's account, a one-way mirror owned and operated for profit, and the [[Surveillance]] it performs is therefore an asymmetry of knowledge and power, not merely a collapse of the inside and the outside. (Directly stated — Ch1, Ch3, Ch8.)
+
+Big Other also lets Zuboff and Han converge on, and then diverge over, the Orwell figure. Han keeps the *Brother*: in *Psychopolitics*, "Big Brother now wears a friendly face" (the vault's [[Friendly Big Brother]]). Zuboff dissolves the relationship altogether — "There is no brother here of any kind, big or little, evil or good; there are no family ties, however grim" — because instrumentarian power is morally agnostic and *radically indifferent*: it does not want the soul, only the behavior. So while Han's friendly Big Brother still cares to be liked, Zuboff's Big Other does not care at all. The two figures are in productive dialogue but must not be merged: Han's [[Friendly Big Brother]] is a benevolent-seeming watcher; Zuboff's [[Big Other]] is a relationless apparatus of capture and modification. Reading the two notes together is the keystone of the vault's surveillance merge — same apparatus, two vantage points (the felt freedom of the inmate; the indifferent ownership of the puppet master). (Directly stated for the Zuboff passages; the bridge to Han is `Interpretive synthesis`.)
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Reworks Bentham and (implicitly) Foucault. The panopticon becomes aperspectival, voluntary, communicative, and economic rather than centered, coercive, silent, and disciplinary. Its perfection is reached when subjects expose themselves "not through outer constraint but through self-generated need."
 - **[[Marshall McLuhan]]** — Media-historical precursor (1964). No term "digital panopticon"; his frame is media ownership, not surveillance. But he describes the externalized, corporately leased, data-translated body that Han's panopticon and [[Dataism]] presuppose: "we have leased our central nervous systems to various corporations," and "each stick of chewing gum we reach for is acutely noted by some computer." (Directly stated for the passages; the bridge to Han is interpretive.)
+- **[[Shoshana Zuboff]]** — Political-economic counterpart (2019). Names the apparatus [[Big Other]] — "a ubiquitous sensate, networked, computational infrastructure" / "the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior" — as the materialization of [[Instrumentarian Power]] and the "means of behavioral modification." Stresses *unilateral* claiming and knowledge asymmetry ("know everything about us … unknowable to us") rather than voluntary self-exposure, and dissolves Orwell's Big Brother into a relationless Big Other (vs Han's [[Friendly Big Brother]]). (Directly stated for the passages; the bridge to Han is interpretive.)
 - **[[Jeremy Bentham]]** — Original architect of the panopticon as moral-reform machine; cited by Han as the disciplinary foil. (Directly stated in Ch9 via Bentham's own line about "seeing without being seen.")
 - **[[Jean Baudrillard]]** — Han cites Baudrillard's 1978 claim that we are witnessing "the end of 'the perspectival truth of the panoptic system'"; Han partly inverts this by arguing the panopticon has not ended but become aperspectival. (Directly stated — Ch9.)
 - **[[David Brin]]** — Han cites Brin's call for "the surveillance of all by all" as the futurological alibi of the digital panopticon's "transparent society." (Directly stated — Ch9.)
@@ -86,6 +101,9 @@ The convergence should not be overstated. McLuhan's diagnosis is media-ecologica
 - [[Auto-Exploitation]] — the structural correlate of auto-illumination; perpetrator and victim collapse into one.
 - [[Society of Control]] — Han's broader name for the political form of which the digital panopticon is the surveillance apparatus.
 - [[Positivity]] — the smoothing, otherness-eliminating tendency that transparency and the digital panopticon share.
+- [[Big Other]] — Zuboff's name for the ubiquitous computational apparatus; the political-economic, capital-side counterpart of Han's subject-side panopticon.
+- [[Surveillance]] — the broader research focus this note anchors with Han and Zuboff; Zuboff reframes it as an asymmetry of knowledge and power ("know everything about us … unknowable to us").
+- [[Friendly Big Brother]] — Han's benevolent-seeming watcher; the bridge figure to (and foil for) Zuboff's relationless Big Other.
 
 ## Opposing Concepts
 
@@ -100,6 +118,7 @@ The convergence should not be overstated. McLuhan's diagnosis is media-ecologica
 - How does Han's aperspectival panopticon relate to (and depart from) Foucault's disciplinary panopticism, given that Foucault is not named in these chapters?
 - Is "auto-illumination" reversible — is there a practice of opacity, secrecy, or [[Negativity]] that could puncture the digital panopticon without merely reinstating despotic concealment?
 - If the "transparent customer" is the homo sacer of the digital panopticon, what would a non-exploitative form of digital visibility even look like?
+- Is Han's "voluntary self-exposure" compatible with Zuboff's "unilateral claiming," or do the two accounts contest each other — does the inmate really supply the apparatus "out of an inner need," or is the data taken whether or not it is felt as freely given?
 
 ## Sources
 
@@ -278,3 +297,25 @@ Relevant passage:
 > Once we have surrendered our senses and nervous systems to the private manipulation of those who would try to benefit from taking a lease on our eyes and ears and nerves, we don't really have any rights left.
 
 Supports: Grounds McLuhan's media-ownership warning — the loss of autonomy that follows from surrendering the externalized senses to corporate lessees ("we have leased our central nervous systems to various corporations"), a historical antecedent of Han's voluntary-self-exposure [[Digital Panopticon]]. Label: `Directly stated` (for McLuhan's passage); the bridge to Han is `Interpretive synthesis`.
+
+### Source 17
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]
+Relevant passage:
+
+> I now name the apparatus Big Other: it is the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior.
+
+Supports: Names [[Big Other]] — the ubiquitous computational apparatus — as the political-economic, capital-side counterpart of Han's subject-side digital panopticon: the same frictionless surveillance described from the side of [[Instrumentarian Power]] and ownership ("the means of behavioral modification") rather than the inmate's felt freedom. Label: `Directly stated`.
+
+### Source 18
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]
+Relevant passage:
+
+> Surveillance capitalists know everything about us, whereas their operations are designed to be unknowable to us. They accumulate vast domains of new knowledge from us, but not for us. They predict our futures for the sake of others' gain, not ours.
+
+Supports: Anchors the knowledge asymmetry that Zuboff adds to the concept — the digital panopticon reframed as a *unilateral* one-way mirror ("know everything about us … unknowable to us") rather than Han's voluntary self-exposure, grounding [[Surveillance]] as an asymmetry of knowledge and power. Label: `Directly stated` (for the Zuboff passage); the bridge to Han's digital panopticon is `Interpretive synthesis`.

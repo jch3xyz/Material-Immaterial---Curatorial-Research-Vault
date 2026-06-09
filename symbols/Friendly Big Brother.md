@@ -4,14 +4,18 @@ status: generated
 symbol: "Friendly Big Brother"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Shoshana Zuboff]]"
 sources:
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/14 Chapter 12 - Two Species of Power]]"
+  - "[[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]"
 related:
   - "[[Smart Power]]"
   - "[[Digital Panopticon]]"
   - "[[The Panopticon]]"
+  - "[[Big Other]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-08
 ---
 
 # Friendly Big Brother
@@ -40,6 +44,13 @@ The figure recurs implicitly across the book wherever Han argues that the survei
 - [[Smart Power]]
 - [[Digital Panopticon]]
 - [[The Panopticon]]
+- [[Big Other]]
+
+## Shoshana Zuboff (The Age of Surveillance Capitalism)
+
+Zuboff performs the same Orwell-inversion as Han, but pushes it one step further: she does not give the watcher a friendlier face — she dissolves the *figure of the watcher altogether*. Where Han keeps the kinship metaphor and softens it (a *Brother*, now smiling), Zuboff renames the apparatus [[Big Other]] precisely to break the family resemblance. The two figures meet at the surface — both diagnose a surveillance that is welcomed rather than feared — but Zuboff theorizes the economic logic beneath the smile, and on her account there is no relation, friendly or otherwise, to be had at all. Her Google Home advertisement is the cousin of Han's "friendly face": "Advertisements for Google Home feature loving families leading busy, intricate lives but visibly relieved to return home and fall into the arms of this omniscient, efficient caretaker" (`Directly stated`). The caretaker is welcomed exactly as Han's friendly watcher is — but Zuboff's point is that the warmth is a one-way mirror, and the caretaking is indifferent to the cared-for.
+
+The decisive divergence is figural. For Zuboff, [[Big Other]] is "best understood as the precise antithesis of Orwell's Big Brother" (`Directly stated`). Big Brother is the *state* turned into "a project of total possession" — it wants the soul, claims each inner life "from the inside out," and rules through terror; Big Other is the *market* turned into "a project of total certainty" — it wants only behavior, is "profoundly and infinitely indifferent to our meanings and motives," and rules through guaranteed outcomes (`Directly stated`). The 2018 frame she chooses is the home itself: "Part III examines the rise of instrumentarian power; its expression in a ubiquitous sensate, networked, computational infrastructure that I call Big Other… Totalitarianism was a transformation of the state into a project of total possession. Instrumentarianism and its materialization in Big Other signal the transformation of the market into a project of total certainty, an undertaking that is unimaginable outside the digital milieu and the logic of surveillance capitalism" (`Directly stated`). Han's friendly *Brother* still implies a relationship — a perverse intimacy of the welcomed watcher; Zuboff's *Other* refuses even that: "There is no brother here of any kind, big or little, evil or good; there are no family ties, however grim. There is no relationship between Big Other and its otherized objects" (`Directly stated`). Keep the three distinct: Orwell's Big Brother (the possessive, terrorizing state), Han's Friendly Big Brother (the permissive, caring surveillance we welcome), and Zuboff's Big Other (the indifferent instrumentarian apparatus that does not care to be loved) name three different solutions to the same twentieth-century nightmare of control — cross-linked here, not merged (`Interpretive synthesis`).
 
 ## Sources
 
@@ -64,3 +75,25 @@ Relevant passage:
 > Now, communication and control have become one, without remainder. Now, everyone is his or her own panopticon.
 
 Supports: Provides the chapter's culmination — the external friendly watcher dissolves into each subject, so that the Digital Panopticon needs no separate Big Brother. Grounds the reading that the symbol consumes itself at its limit. Label: `Directly stated`.
+
+### Source 3
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/14 Chapter 12 - Two Species of Power]]
+Relevant passage:
+
+> surveillance capital's instrumentarian power is best understood as the precise antithesis of Orwell's Big Brother.
+
+Supports: Zuboff names her counter-figure to Big Brother. The Orwellian lens is exactly the wrong one — establishing Big Other as the antithesis (not a continuation) of Big Brother, which keeps it distinct from Han's Friendly Big Brother while marking their shared inversion of Orwell. Label: `Directly stated`.
+
+### Source 4
+
+Book: *The Age of Surveillance Capitalism*
+Author: Shoshana Zuboff
+Raw file: [[raw/Zuboff - The Age of Surveillance Capitalism/15 Chapter 13 - Big Other and the Rise of Instrumentarian Power]]
+Relevant passage:
+
+> There is no brother here of any kind, big or little, evil or good; there are no family ties, however grim.
+
+Supports: The decisive figural divergence from Han — where Han keeps the (now friendly) Brother, Zuboff dissolves the kinship metaphor entirely into indifferent Otherness, marking Big Other as a distinct figure, not a friendlier Big Brother. Grounds the keep-distinct, cross-link-not-merge reading. Label: `Directly stated`.
