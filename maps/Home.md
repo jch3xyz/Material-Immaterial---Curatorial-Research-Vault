@@ -17,7 +17,8 @@ Central dashboard for the Material/Immaterial curatorial research vault. Source-
 - [[Concept Index]] — recurring ideas, terms of art
 - [[Argument Index]] — claims and theses, grouped
 - [[Tension Index]] — oppositions, paradoxes, unresolved problems
-- [[Symbol and Metaphor Index]] — figures and motifs
+- [[Symbol Index]] — recurring symbols, emblems, cases
+- [[Metaphor Index]] — figures, images, and motifs
 - [[Author Network]] — relationships between authors
 - [[Reading Pathways]] — nonlinear paths through the vault
 

@@ -1,137 +1,24 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-05
+last_updated: 2026-06-09
 ---
 
 # Tension Index
 
-All tension notes in `tensions/`.
+All ~116 tension notes in `tensions/`, organized by theme. Each theme has its own page.
 
-## Recurring Tensions (commitments)
+## By Theme
 
-- [[Visibility vs Understanding]] — hyperinformation does not converge on truth (realized via Han)
-- [[Embodiment vs Information]] — disembodied informational pattern vs enacted, instantiated embodiment (realized via Hayles)
-- [[Transparency vs Opacity]] — Han's core opposition across eros, hermeneutics, the holy (realized via Han)
-- [[Freedom vs Control]] — the dialectic of freedom in the digital panopticon; now extended by Psychopolitics — freedom itself producing coercion (realized via Han)
-- [[System vs Subject]] — now realized via Han's [[Subject vs Project]]: the cast-down subject vs the self-fashioning project
-- [[Desire vs Danger]] — eros vs pornography; veil vs total exposure (realized via Han)
-- [[Material vs Immaterial]] — now realized across ten author sections: Han (transparency/information; immaterial labour), Hayles, Lippard's art-historical dematerialization, O'Gieblyn, Kurzweil, Haraway (the cyborg as a condensed image of both imagination and material reality), McLuhan (money's commodity→information arc; mechanical explosion vs electric implosion), Burnham (sculpture's migration from object to system; the [[Object vs System]] axis), Ascott (cyberception making immaterial process palpable; the rematerialization of the body by networking; the prosthesis of vision dissolving the material/immaterial divide), and Zuboff (the rendition of lived experience into behavioral data; human experience claimed as the fourth fictional commodity)
-
-Links above may resolve to existing notes or stubs.
-
-## Realized Notes
-
-- [[Transparency vs Opacity]] — Han's core opposition across eros, hermeneutics, the holy
-- [[Freedom vs Control]] — the dialectic of freedom in the digital panopticon; extended in Psychopolitics to freedom itself producing coercion
-- [[Positivity vs Negativity]] — the master conceptual pair across two Han books; positivity vs negativity as a theory of power (Psychopolitics) and as the pathology/diagnosis register of excess positivity (The Burnout Society)
-- [[Visibility vs Understanding]] — hyperinformation does not converge on truth
-- [[Desire vs Danger]] — eros vs pornography; veil vs total exposure
-- [[Narration vs Addition]] — narrative gravity vs additive accumulation; counting is not recounting (Psychopolitics)
-- [[Biopolitics vs Psychopolitics]] — power over the body and population vs power over the psyche (Han, Psychopolitics)
-- [[Discipline vs Control]] — confinement and the mole vs modulation and the snake (Han via Deleuze, Psychopolitics)
-- [[Subject vs Project]] — the cast-down subject vs the self-fashioning project that re-subjugates itself (Han, Psychopolitics)
-- [[Counting vs Recounting]] — additive data vs narrative meaning (Han, Psychopolitics)
-- [[Vita Activa vs Vita Contemplativa]] — the book-defining opposition: hyperactive laboring vs the contemplative life as sovereign saying-no; the Action-vs-Laboring distinction folded inside (Han, The Burnout Society)
-- [[Deep Attention vs Hyperattention]] — the attention-regime opposition: immersive lingering attention vs the scattered, broad-but-flat regime of multitasking (Han, The Burnout Society)
-- [[I-Tiredness vs We-Tiredness]] — the exhausting, isolating tiredness vs the healing, reconciling tiredness; the two poles of Fundamental Tiredness (Han, The Burnout Society)
-- [[Discipline vs Achievement]] — confinement, prohibition, and the should vs auto-exploitation, permission, and the can; realizes the dangling author-note link, distinct from Discipline vs Control (Han, The Burnout Society)
-- [[Positive Potency vs Negative Potency]] — the faculty-level pair: the power to do vs the power not to do (the power to say no); distinct from Positivity vs Negativity (Han, The Burnout Society)
-- [[Embodiment vs Information]] — the book's master opposition: disembodied informational pattern vs enacted, instantiated embodiment (Hayles)
-- [[Presence Absence vs Pattern Randomness]] — the epistemic shift displacing the Western presence/absence dialectic with pattern/randomness (Hayles)
-- [[Liberal Humanist Subject vs Posthuman]] — autonomous self-possession vs distributed-cognition amalgam; lethal only when one is grafted onto the other (Hayles)
-- [[Homeostasis vs Reflexivity]] — man as self-regulating mechanism vs man spliced into a reflexive informational circuit (the Macy contest) (Hayles)
-- [[Material vs Immaterial]] — the vault's master axis, now spanning ten author sections: Han (transparency/information, and Psychopolitics' immaterial labour that releases the body from production), Hayles (embodiment/disembodiment), Lippard's 'Dematerialization in Conceptual Art' (the art-historical instance and its internal matter-state rebuttals), O'Gieblyn, Kurzweil (the body as obsolescent hardware), Haraway (the cyborg as 'a condensed image of both imagination and material reality'), McLuhan (money's arc from commodity to credit-information, and the mechanical-explosion / electric-implosion opposition), Burnham (sculpture's dematerialization from the bounded object to the cybernetic system, condensed in the [[Object vs System]] axis), Ascott (cyberception making immaterial process as palpable as material objects, networking that re-materialises rather than dematerialises the body, and the prosthesis of vision that dissolves the material/immaterial distinction), and Zuboff (rendition translating lived experience into behavioral data, and human experience claimed as the fourth fictional commodity after land, labor, and money)
-- [[Disenchantment vs Re-enchantment]] — the meaningless mechanistic cosmos vs. the persistent drive to re-enchant it by scientific means; O'Gieblyn's master axis (transhumanism, the re-enchanted network, panpsychism)
-- [[Free Will vs Determinism]] — spontaneous volition vs. the deterministic algorithm/predestination; foresight-vs-freedom, prediction-vs-control (O'Gieblyn)
-- [[Metaphor vs Literalism]] — the acknowledged analogy vs. its literalization ('the universe is like a computer' vs. 'is in fact a computer') (O'Gieblyn)
-- [[Subject vs Object]] — the irreducible first-person vantage vs. the god's-eye 'view from nowhere' (Bohr vs. the multiverse) (O'Gieblyn)
-- [[Human Exceptionalism vs Ontological Equality]] — privileging the human subject (imago dei) vs. dethroning it (deep ecology, the human as virus/glitch/error) (O'Gieblyn); Haraway author-section added — the affirmatively breached human/animal boundary
-- [[Intelligence vs Consciousness]] — the decoupling opposition; the book's closing question of whether intelligence can sever from awareness (Harari)
-- [[Meaning vs Power]] — the structuring opposition of the modern covenant: modernity trades meaning for power (Harari)
-- [[Objective vs Subjective vs Intersubjective]] — Harari's three-pole ontology; the intersubjective fictions more powerful than material things (Harari)
-- [[Healing vs Upgrading]] — egalitarian medicine that heals the sick vs elitist medicine that upgrades the healthy into biological castes (Harari)
-- [[Religion vs Spirituality]] — religion as a deal that legitimates a social order vs spirituality as an open-ended journey (Harari)
-- [[Truth vs Cooperative Power]] — accurate world views vs the fictions that enable large-scale cooperation; truth is not what gives sapiens mastery (Harari)
-- [[Distributed vs Centralised Processing]] — the Cold War reread as a contest of data architectures (capitalism vs communism) (Harari)
-- [[Homo-Centric vs Data-Centric]] — humanism's worship of human experience vs Dataism's worship of information flow (Harari)
-- [[Exponential vs Linear]] — the historically-grounded exponential reality of accelerating returns vs the intuitive-linear perception that blinds forecasters to it; the epistemic axis the whole Singularity forecast hangs on (Kurzweil)
-- [[Biology vs Technology]] — slow, frail, fixed-capacity 'version 1.0' biological intelligence vs fast, designable, double-exponential nonbiological intelligence that predominates yet stays 'human' (Kurzweil)
-- [[Domination vs Possibility]] — Haraway's double vision: the cyborg world as a grid of control AND the ground of emancipatory kinship, held without synthesis (Haraway)
-- [[Cyborg vs Goddess]] — the technological/ironic/partial cyborg against the organic/holistic/reproductive goddess; 'I would rather be a cyborg than a goddess' (Haraway)
-- [[Regeneration vs Rebirth]] — monstrous, potent reconstitution after injury (the salamander) against the reproductive return to wholeness (Haraway)
-- [[Mechanical vs Electric]] — McLuhan's master historical opposition: fragmenting mechanical explosion vs contracting electric implosion (McLuhan, Understanding Media)
-- [[Fragmentation vs Wholeness]] — the literate/print self vs the electric integral self (McLuhan)
-- [[Detachment vs Participation]] — literate noninvolvement vs electric depth participation; print detachment vs cool-media participation (McLuhan)
-- [[Hot vs Cool Media]] — the hot form excludes and detribalizes, the cool form includes and retribalizes (McLuhan)
-- [[Numbness vs Awareness]] — the necessary narcosis of extension against the awareness that breaks the media-trance (McLuhan)
-- [[Liberty vs Capture]] — the self's rights over its senses against the leased, corporately manipulated nervous system (McLuhan)
-- [[Center vs Margin]] — centralization vs decentralization read off media speed; electric speed dissolves the margin (McLuhan)
-- [[Job vs Role]] — the delegated specialist job of mechanical/print culture vs the collective nonvisual role restored by electric media (McLuhan)
-- [[Object vs System]] — Burnham's framing of the canonical [[Material vs Immaterial]] axis; the bounded sculptural object vs the system of forces/energy/information (also gathers Matter vs Energy) (Burnham, Beyond Modern Sculpture)
-- [[Mechanism vs Vitalism]] — the centuries-long biological dispute carried into sculpture (Burnham)
-- [[Organic vs Geometric]] — the Worringer/Hauser polarity dissolved in vitalist art and fusible by technology (Burnham)
-- [[Vitalism vs Organicism]] — poetic life-essence vs the utilitarian evolution of systems (Burnham)
-- [[Gravity vs Mobility]] — the base as anchorage vs the will to flight/levitation (Burnham, Ch1)
-- [[Form vs Light]] — solid form/mass vs surface optics and light as the determinant of perception (Burnham)
-- [[Idealism vs Phenomenalism]] — transcendent idealism (icon/object) vs transcendent phenomenalism (perceptual situation); folds Object vs Experience (Burnham)
-- [[Apollonian vs Faustian]] — static sculpture's quietude vs automata's drive to transcend natural limits (Spengler via Burnham)
-- [[Anthropomorphic vs Non-Anthropomorphic Logic Machine]] — copying human form vs modeling thought (Pascal/Leibniz, pseudo-organisms) (Burnham)
-- [[Determinism vs Randomness]] — programmed vs aleatoric/statistical motion (Burnham, Ch6–7)
-- [[Art vs Technics]] — irrationality/madness vs the self-augmenting ethos of technics (Burnham, Ch6)
-- [[One-Way Stimulation vs Two-Way Communication]] — the cybernetic criterion separating sculpture from system (Burnham, Ch8)
-- [[Living vs Nonliving Matter]] — the boundary Burnham collapses into a scale of complexity (Burnham, Ch8)
-- [[Magical vs Scientific Imitation of Life]] — Grey Walter's appearance-vs-behavior distinction (Burnham, Ch8)
-- [[Objecthood vs Theatre]] — Burnham's inversion of Fried toward a systems perspective (Burnham, Ch8)
-- [[Process vs Product]] — the behaviourist/telematic core opposition: art as ongoing process vs the finished object (Ascott, Telematic Embrace)
-- [[Connection vs Narcissism]] — the telematic embrace as loving connection vs the closed, mirror-bound self; 'Is there love in the telematic embrace?' (Ascott)
-- [[Liberation vs Control (Telematics)]] — the network's emancipatory potential vs its capture by corporate and military power (Ascott)
-- [[Cyb vs Psi]] — the cybernetic and the psychic/parapsychological poles fused in psibernetics (Ascott)
-- [[Horizontal vs Vertical]] — the decentralized, lateral network vs the hierarchical, top-down structure (Ascott)
-- [[Isolation vs Convergence]] — the disconnected individual vs the convergent, connective field of network consciousness (Ascott)
-- [[Creativity vs Production]] — generative, emergent creativity vs the logic of industrial production (Ascott)
-- [[Representation vs Simulation]] — picturing the world vs modelling/making it; the turn telematic art performs (Ascott)
-- [[Observer vs Participator]] — the detached spectator vs the active co-producer of the work (Ascott)
-- [[Absorption vs Immersion]] — passive absorption in an image vs active immersion in a system (Ascott)
-- [[Verisimilitude vs Modeling]] — lifelike resemblance vs the construction of a model/world (Ascott)
-- [[Telenoia vs Paranoia]] — networked empathy/mind-at-a-distance vs the closed paranoid self (Ascott)
-- [[Appearance vs Apparition]] — representation/appearance vs the coming-into-being of the new (Ascott)
-- [[Surface and Structure vs Living System]] — the static formalist object vs the dynamic living system (Ascott)
-- [[Bottom-up vs Top-down]] — emergent, artificial-life processes vs imposed, hierarchical design (Ascott)
-- [[Individual vs Interface]] — the unified individual vs the distributed self constituted at the interface (Ascott)
-- [[Natural vs Artificial]] — the dichotomy dissolved in Nature II, where the most artificial returns us to a new nature (Ascott)
-- [[Art vs Commerce]] — the creative network vs its colonisation by the market (Ascott)
-- [[Representation vs Virtualisation]] — depicting the given vs generating the virtual (Ascott)
-- [[Reductionism vs Holism]] — the analytic part vs the connective whole; networking as the antithesis of reductionism (Ascott)
-- [[Explanation vs Transformation]] — explaining consciousness vs transforming it; the artist's transformative vocation (Ascott)
-- [[Performance vs Enactment]] — staged performance vs the participatory enactment of meaning (Ascott)
-- [[Dry vs Wet vs Moist]] — the digital (dry) and biological (wet) converging into the third, moist domain (Ascott)
-- [[Being vs Becoming]] — fixed being vs the processual becoming of the post-biological self (Ascott)
-- [[Trivial vs Nontrivial Interactivity]] — predetermined response vs genuinely generative, open interaction (Ascott)
-- [[Knowledge vs Power]] — the radical asymmetry: surveillance capital knows everything about us while we know almost nothing about it (Zuboff, The Age of Surveillance Capitalism)
-- [[Instrumentarian Power vs Totalitarianism]] — the new species of power that knows and shapes behavior to others' ends, distinct from the violent ideological state (Zuboff)
-- [[Big Brother vs Big Other]] — the central periodizing distinction: the totalitarian state's violent terror vs the ubiquitous, indifferent computational architecture that renders and modifies behavior; cross-links the symbol [[Friendly Big Brother]] (Han) and the concept [[Big Other]] (Zuboff)
-- [[Home vs Exile]] — dwelling in inviolable sanctuary vs the homelessness of glass life (Zuboff)
-- [[Inevitability vs Contingency]] — the ideological fraud of autonomous technological destiny vs the human authorship of the future (Zuboff)
-- [[The Individual vs The Hive]] — the autonomous self vs the confluent, totally connected collective instrumentarianism engineers (Zuboff)
-- [[Empowerment vs Diminishment]] — the promise of the digital advocacy vs the dispossession surveillance capitalism delivered (Zuboff)
-- [[Individualization vs Individualism]] — the second-modern social fact of the self-determining individual vs the market ideology of individualism (Zuboff)
-- [[Production vs Extraction]] — the constructive reciprocities of classical capitalism vs the one-way extraction of behavioral surplus (Zuboff)
-- [[Privacy vs Decision Rights]] — privacy reframed not as a thing eroded but as decision rights redistributed to surveillance capital (Zuboff)
-- [[Transparency of the Watched vs Secrecy of the Watcher]] — the glass life of the user vs the structural hiding strategy of the apparatus (Zuboff)
-- [[Freedom vs Democracy]] — the neoliberal elevation of market freedom against the claims of collective self-rule (Zuboff)
-- [[Citizen vs User]] — the bearer of political rights vs the rendered subject of the apparatus (Zuboff)
-- [[Division of Labor vs Division of Learning]] — the old axial principle of industrial society vs the new axial principle of who knows, who decides, who decides who decides (Zuboff)
-- [[Determinism vs Indeterminacy]] — guaranteed outcomes engineered through actuation vs the open, indeterminate future the will to will requires (Zuboff)
-- [[Consent vs Coercion]] — manufactured agreement via contracts of adhesion vs the coercion of the uncontract; consent is coercion (Zuboff)
-- [[Awareness vs Evasion]] — human consciousness as friction to be engineered away vs the art and science of hiding (Zuboff)
-- [[Certainty vs Uncertainty]] — instrumentarianism's utopia of certainty vs the freedom that requires uncertainty (Zuboff)
-- [[Autonomy vs Heteronomy]] — the self-authored will to will vs behavior steered to others' ends (Zuboff)
-- [[Content vs Form]] — what we say vs the predictive surplus in how we say it; form predicts more than content (Zuboff)
-- [[Soul vs Behavior]] — the inner person of meaning vs the behaving object viewed under radical indifference (Zuboff)
-- [[Theory vs Practice]] — applied utopistics: utopias realized in practice without an explicit, contestable theory (Zuboff)
-- [[Sanctuary vs Glass Life]] — the right to inviolable space vs the totally exposed existence Big Other produces (Zuboff)
-- [[Nature vs Human Nature]] — industrial capitalism's exploitation of nature vs surveillance capitalism's exploitation of human nature (Zuboff)
-- [[Fusion vs Autonomy]] — homing to the herd and the death of individuality vs the autonomous self (Zuboff)
-- [[Equivalence vs Equality]] — the hive's leveling sameness that imposes confluence without equal standing (Zuboff)
-- [[Market vs Democracy]] — the unaccountable sovereign power of behavioral futures markets vs popular sovereignty (Zuboff)
+- [[Material & Immaterial (Tensions)|Material & Immaterial]] — The vault's master axis and its art-historical and economic instances: matter against information, the bounded object against the system, the dematerialized and the rendered. Where substance gives way to pattern, energy, and data.
+- [[Transparency, Visibility & Surveillance (Tensions)|Transparency, Visibility & Surveillance]] — Han's diagnosis of the transparency society meeting Zuboff's anatomy of the watching apparatus: total exposure, the asymmetry of the seer and the seen, and the glass life under Big Other.
+- [[Freedom, Power & Control (Tensions)|Freedom, Power & Control]] — Han's periodization of power and the dialectic of freedom that produces its own coercion: discipline modulating into control, biopolitics into psychopolitics, the subject re-subjugating itself as project.
+- [[Positivity, Burnout & the Contemplative Cure (Tensions)|Positivity, Burnout & the Contemplative Cure]] — Han's achievement-society diagnosis and its affirmative remedy: excess positivity and auto-exploitation against the negativity, narrative gravity, and contemplative repose that resist them.
+- [[The Subject, Self & Posthuman (Tensions)|The Subject, Self & Posthuman]] — Hayles's and Haraway's reckoning with the liberal humanist subject as it dissolves into distributed cognition, breached boundaries, and the cyborg. Autonomy against the informational and reflexive circuit.
+- [[Mind, Meaning & Disenchantment (Tensions)|Mind, Meaning & Disenchantment]] — O'Gieblyn's interrogation of the disenchanted, computational cosmos and the drive to re-enchant it by scientific means: literalized metaphor, decoupled intelligence, and the search for meaning.
+- [[Dataism, Humanism & Value (Tensions)|Dataism, Humanism & Value]] — Harari's grand oppositions: the modern covenant trading meaning for power, the rival data architectures of the Cold War, and humanism's worship of experience giving way to the worship of information flow.
+- [[Acceleration, Biology & Technology (Tensions)|Acceleration, Biology & Technology]] — Kurzweil's affirmative cosmology of exponential progress and the obsolescence of the biological substrate: the epistemic axis the Singularity forecast hangs on, and frail version-1.0 flesh against designable machine intelligence.
+- [[Media History & the Senses (Tensions)|Media History & the Senses]] — McLuhan's media ecology: mechanical explosion reversing into electric implosion, and the reorganization of the sensorium, attention, and the self by media that extend and numb us.
+- [[Sculpture from Object to System (Tensions)|Sculpture from Object to System]] — Burnham's reading of modern sculpture's migration from the bounded object toward the cybernetic system: the life/machine dispute, perceptual phenomenalism, and the criteria that separate sculpture from a living system.
+- [[Telematic Art, Network & Cyberception (Tensions)|Telematic Art, Network & Cyberception]] — Ascott's cybernetic and telematic art: process over product, the participatory network over the spectator's image, and the convergence of dry, wet, and moist into a post-biological, transformative practice.
+- [[Surveillance Capitalism's Oppositions (Tensions)|Surveillance Capitalism's Oppositions]] — Zuboff's anatomy of instrumentarian power and behavioral-futures markets: the new axial division of learning, the manufacture of consent and certainty, and the autonomous self against the confluent hive.

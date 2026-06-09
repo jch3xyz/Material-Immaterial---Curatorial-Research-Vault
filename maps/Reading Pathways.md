@@ -1,666 +1,106 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-05
+last_updated: 2026-06-09
 ---
 
 # Reading Pathways
 
-Nonlinear suggested paths through the vault. Each pathway is a sequence of notes (or raw chapters) chosen to develop a particular question.
+Nonlinear suggested paths through the vault. Each pathway is a sequence of notes chosen to develop a particular question. Every pathway now has its own page.
 
-## Suggested Pathways (to be populated)
+## Vault-wide pathways
 
-### Pathway: From visibility to understanding
+Cross-cutting paths that run a single thread through the whole corpus.
 
-- (start point) → … → (end point)
+- [[The Material and Immaterial axis end to end (Pathway)|The Material and Immaterial axis end to end]] — The vault's titular axis runs from the solidity of the made object to its dissolution into information, fiction, data, and behavioral surplus. This ma…
+- [[Surveillance from the panopticon to Big Other (Pathway)|Surveillance from the panopticon to Big Other]] — The surveillance thread runs the length of the vault, and this pathway follows it as a single argument about who watches, why, and to what end. It ope…
+- [[The posthuman body (Pathway)|The posthuman body]] — This pathway traces embodiment through its successive disavowals and recoveries: it begins where Hayles re-grounds the posthuman in the lived, instant…
+- [[Cybernetics and systems across the vault (Pathway)|Cybernetics and systems across the vault]] — The vault's systems lineage runs from the postwar science of cybernetics through three successive reconceptions of what a system *is*, and out into th…
+- [[Art from object to system to network (Pathway)|Art from object to system to network]] — The art spine runs from object to system to network. Burnham watches modern sculpture leave the pedestal and become a system; Lippard watches the art …
+- [[The religious afterlife of technology (Pathway)|The religious afterlife of technology]] — This pathway reads three of the vault's authors as theologians in disguise. O'Gieblyn's *God, Human, Animal, Machine* supplies the master diagnosis — …
+- [[Attention, perception, and the senses (Pathway)|Attention, perception, and the senses]] — This pathway follows a single claim across two thinkers: that media and social regimes reshape perception *beneath* the level of opinion or content — …
+- [[The self, individualism, and its dissolution (Pathway)|The self, individualism, and its dissolution]] — This pathway traces the slow unmaking of the autonomous individual — the bounded, self-possessing, free-willing subject that liberal modernity took as…
+- [[Acceleration and time (Pathway)|Acceleration and time]] — This pathway sets two valences of speed against each other and follows both into the question of time. Kurzweil reads acceleration as double-exponenti…
+- [[Information, the contested concept (Pathway)|Information, the contested concept]] — "Information" is the vault's most contested word: every author in the corpus uses it, and every one means something different. This pathway reads that…
+- [[Freedom, control, and power (Pathway)|Freedom, control, and power]] — This pathway traces the genealogy of power as a single migrating argument: from the enclosed, body-disciplining institutions Foucault diagnosed, throu…
+- [[The cyborg across the vault (Pathway)|The cyborg across the vault]] — The cyborg is the vault's most-traveled figure: a "cybernetic organism" that recurs across four authors and four decades, each reframing what it means…
+- [[Re-enchantment, consciousness, and the hard problem (Pathway)|Re-enchantment, consciousness, and the hard problem]] — The journey traces how the loss of intrinsic meaning under a mechanistic, computational cosmos reopens the oldest question — whether consciousness can…
+- [[Money, value, and the commodity (Pathway)|Money, value, and the commodity]] — This pathway traces how *value* detaches from material substance across the vault — from the art object to attention, from coin to credit-information,…
+- [[Determinism, prediction, and the future (Pathway)|Determinism, prediction, and the future]] — This pathway traces prediction as the capture of the future — the moment when computation stops describing tomorrow and starts producing it. It runs f…
 
-### Pathway: The body as data, from inside out
+## Pathways by book
 
-- …
+### *The Transparency Society* (Byung-Chul Han)
 
-### Pathway: Desire under positive power
+- [[From visibility to control (Pathway)|From visibility to control]]
+- [[Positivity and the disappearance of the negative (Pathway)|Positivity and the disappearance of the negative]]
+- [[The exhibited body (Pathway)|The exhibited body]]
 
-- …
+### *How We Became Posthuman* (N. Katherine Hayles)
 
-### Pathway: Systems as conditions of perception
+- [[How information lost its body (Pathway)|How information lost its body]]
+- [[The three waves of cybernetics (Pathway)|The three waves of cybernetics]]
+- [[From the liberal subject to the posthuman (Pathway)|From the liberal subject to the posthuman]]
 
-- …
+### *Six Years* (Lucy Lippard)
 
-### Pathway: The spectacle and the transparent
+- [[The dematerialization of the art object (Pathway)|The dematerialization of the art object]]
+- [[Conceptual art and the system (Pathway)|Conceptual art and the system]]
+- [[Art, idea, and the failure to escape the market (Pathway)|Art, idea, and the failure to escape the market]]
 
-- …
+### *God Human Animal Machine* (Meghan O'Gieblyn)
 
-<!-- Generation pass appends pathways here -->
+- [[Transhumanism as secular religion (Pathway)|Transhumanism as secular religion]]
+- [[The computational metaphor of mind (Pathway)|The computational metaphor of mind]]
+- [[Disenchantment and the search for meaning (Pathway)|Disenchantment and the search for meaning]]
+- [[The algorithm as God (Pathway)|The algorithm as God]]
 
-## Pathways through *The Transparency Society* (Byung-Chul Han)
+### *Psychopolitics* (Byung-Chul Han)
 
-### Pathway: From visibility to control
+- [[The diagnosis of neoliberal power (Pathway)|The diagnosis of neoliberal power]]
+- [[The periodization of power — from biopolitics to psychopolitics (Pathway)|The periodization of power — from biopolitics to psychopolitics]]
+- [[Digital psychopolitics and the emancipatory turn (Pathway)|Digital psychopolitics and the emancipatory turn]]
 
-Traces how Han's diagnosis moves from surface appearance to the operational panopticon of late neoliberalism. Useful for thinking exhibition, surveillance, and the audience as datum.
+### *Homo Deus* (Yuval Noah Harari)
 
-- [[Transparency]] — neoliberal dispositive that converts negativity into circulable information
-- [[Exhibition Value]] — value generated by attention alone
-- [[The Panopticon]] — architectural figure that becomes distributed and voluntary
-- [[Digital Panopticon]] — aperspectival, penetrating illumination
-- [[The Transparent Customer]] — the homo sacer of the economic panopticon
-- [[The digital panopticon runs on voluntary self-exposure]] — control via auto-illumination
-- [[Freedom vs Control]] — the political dialectic the book closes on
+- [[The rise of Dataism (Pathway)|The rise of Dataism]]
+- [[Fictions that bind the world (Pathway)|Fictions that bind the world]]
+- [[Humanism and its self-undermining (Pathway)|Humanism and its self-undermining]]
 
-### Pathway: Positivity and the disappearance of the negative
+### *The Singularity Is Near* (Ray Kurzweil)
 
-Follows Han's master conceptual move. Useful for thinking what is lost when friction, secret, veil, and the Other are leveled into smooth equivalence.
+- [[The affirmative cosmology of information (Pathway)|The affirmative cosmology of information]]
+- [[Disembodiment, from inside and out (Pathway)|Disembodiment, from inside and out]]
 
-- [[Positivity]] — the regime of additive, same-only experience
-- [[Negativity]] — secret, distinction, Other; condition of thinking
-- [[Smoothness]] — the surface property of transparency
-- [[Hell of the Same]] — equivalence as monocultural inferno
-- [[Acceleration]] — speed as corollary of dismantled negativity
-- [[Narration vs Addition]] — narrative gravity vs additive accumulation
-- [[The crisis is not acceleration but loss of narrativity]] — the diagnostic stake
-- [[Byung-Chul Han and Hegel]] — tarrying with the negative
+### *A Cyborg Manifesto* (Donna Haraway)
 
-### Pathway: The exhibited body
+- [[The cyborg and the breached boundaries (Pathway)|The cyborg and the breached boundaries]]
+- [[Cyborg feminism and fractured identity (Pathway)|Cyborg feminism and fractured identity]]
 
-Han's libidinal-political diagnosis: the body laid bare as the affective formula of control. Useful for thinking embodiment, eros, intimacy, and exposure.
+### *Understanding Media* (Marshall McLuhan)
 
-- [[Pornography (Han)]] — structural form of total exposure
-- [[The Veil]] — figure of negativity that makes eros possible
-- [[Exhibition Value]] — attention as new value form
-- [[Intimacy as Psychological Formula of Transparency]] — confessional self-exposure
-- [[Desire vs Danger]] — eros vs pornography
-- [[There is no erotics of transparency]] — the libidinal verdict
-- [[Byung-Chul Han and Walter Benjamin]] — cult vs exhibition value, aura, the veil
+- [[McLuhan's Part I apparatus (Pathway)|McLuhan's Part I apparatus]]
+- [[Extension, autoamputation, and numbness (Pathway)|Extension, autoamputation, and numbness]]
 
-## Pathways through *How We Became Posthuman* (N. Katherine Hayles)
+### *The Burnout Society* (Byung-Chul Han)
 
-### Pathway: How information lost its body
+- [[The diagnosis of the achievement society (Pathway)|The diagnosis of the achievement society]]
+- [[The periodization — from discipline to achievement (Pathway)|The periodization — from discipline to achievement]]
+- [[The contemplative cure — Han's affirmative turn (Pathway)|The contemplative cure — Han's affirmative turn]]
 
-Follows the book's first story: how information came to be defined as a disembodied pattern, and why that erasure was contingent rather than necessary. Useful for thinking materiality, immateriality, and the politics of definition.
+### *Beyond Modern Sculpture* (Jack Burnham)
 
-- [[Information Lost Its Body]] — the governing metaphor: information as a bodiless fluid between substrates
-- [[Information]] — the Hayles section: information as pattern rather than presence
-- [[The disembodiment of information was contingent not inevitable]] — reification won through situated debate at the Macy Conferences
-- [[Janet Freed]] — the erased transcriptionist who shows information is never disembodied
-- [[The Materiality of Informatics]] — the counter-thesis: the immaterial is materially produced
-- [[Embodiment vs Information]] — the book's master opposition
+- [[From object to system — Part One → Part Two (Pathway)|From object to system (Part One → Part Two)]]
+- [[Vitalism and the death of the scientific model (Pathway)|Vitalism and the death of the scientific model]]
+- [[The cybernetic climax — toward Cyborg Art (Pathway)|The cybernetic climax — toward Cyborg Art]]
 
-### Pathway: The three waves of cybernetics
+### *Telematic Embrace* (Roy Ascott)
 
-Traces Hayles's seriated history of cybernetics from steady-state regulation to reflexivity to self-organizing virtuality. Useful for thinking systems, feedback, and the figure of the observer.
+- [[From cybernetic art to telematics to cyberception (Pathway)|From cybernetic art to telematics to cyberception]]
+- [[The telematic embrace and network consciousness (Pathway)|The telematic embrace and network consciousness]]
 
-- [[Cybernetics]] — the postwar synthesis of information, control, and communication
-- [[The Three Waves of Cybernetics]] — homeostasis, reflexivity, virtuality as seriated transitions
-- [[Homeostasis]] — first-wave steady-state self-regulation
-- [[Reflexivity]] — second-wave folding of the observer into the system
-- [[The Observer]] — the figure whose inclusion is cybernetics' central issue
-- [[Autopoiesis]] — self-making organization that resists disembodiment
-- [[Artificial Life]] — the third wave; the strong claim that codes are alive
-- [[Emergence]] — properties arising from simple rules and recursive feedback
+### *The Age of Surveillance Capitalism* (Shoshana Zuboff)
 
-### Pathway: From the liberal subject to the posthuman
-
-Charts how the autonomous Enlightenment subject gives way to a distributed-cognition amalgam, and why the posthuman is benign except when grafted back onto liberal humanism. Useful for thinking embodiment, agency, and subjectivity.
-
-- [[The Liberal Humanist Subject]] — the autonomous self-possessing subject (Macpherson's possessive individualism)
-- [[The liberal subject and the posthuman both erase embodiment]] — both privilege mind over body
-- [[Posthumanism]] — the posthuman as point of view, not the end of humanity
-- [[The posthuman is lethal only when grafted onto liberal humanism]] — Moravec's downloading fantasy expands the autonomous subject
-- [[Conscious agency has never been in control]] — mastery as a story consciousness tells itself
-- [[Distributed Cognition]] — cognition spread across human and nonhuman actors
-- [[Liberal Humanist Subject vs Posthuman]] — the organizing tension
-
-### Pathway: Material/Immaterial across the vault
-
-A cross-book pathway placing Hayles's recovery of embodiment beside Han's diagnosis of information. Useful for the vault's central Material/Immaterial axis.
-
-- [[The Body as Data]] — the body recoded as downloadable informational pattern
-- [[Embodiment]] — the instantiated, non-replicable particular against 'the body' as abstraction
-- [[Material vs Immaterial]] — the vault's master axis
-- [[N. Katherine Hayles and Byung-Chul Han]] — two distinct senses of 'information' on the embodiment axis
-- [[Information]] — where the two diagnoses meet and diverge
-
-## Pathways through *Six Years* (Lucy Lippard)
-
-### Pathway: The dematerialization of the art object
-
-Follows the book's titular arc, from the idea-as-art to the document that survives it to the exhibition reinvented as medium. Useful for thinking immateriality, the art object, and the medium of distribution.
-
-- [[Dematerialization]] — the titular concept: idea paramount, material form ephemeral, cheap, or absent
-- [[Conceptual Art]] — 'idea art'; the idea supersedes the visual/material result
-- [[The Document (Conceptual Art)]] — the xerox/photo/map/certificate as the work's material residue
-- [[Exhibition as Medium]] — Siegelaub's exhibition/catalogue/magazine as the artwork's primary site
-- [[Dematerialization failed to escape the market]] — the closing self-critique: non-object art recuperated
-
-### Pathway: Conceptual art and the system
-
-Traces the art-world 'systems aesthetic' beside the vault's cybernetic lineage, and the information aesthetic of the document and the catalogue. Useful for thinking systems, information, and the related-but-distinct genealogies.
-
-- [[Systems Theory]] — the art-world 'systems aesthetics' (Haacke, LeWitt, Burnham) beside cybernetic systems theory
-- [[Information]] — conceptual art's 'information aesthetic'; Siegelaub's 'primary information'
-- [[Lucy Lippard and Hans Haacke]] — systems aesthetics + art and politics (the Guggenheim affair)
-- [[Lucy Lippard and Sol LeWitt]] — 'the idea becomes a machine that makes the art'; the idea/execution split
-- [[Exhibition as Medium]] — primary vs secondary information; the catalogue as the work
-
-### Pathway: Art, idea, and the failure to escape the market
-
-Charts the book's signature political self-critique: where the politics actually lived, what distribution achieved, and why the escape attempt was recuperated. Useful for thinking art and politics, commodification, and access.
-
-- [[In conceptual art the form not the content carried the politics]] — politics in de-commodifying form, not subject matter
-- [[Lucy Lippard and Hans Haacke]] — art and politics; the Guggenheim affair
-- [[Conceptual art achieved distribution but not accessibility]] — 'communication but not community'
-- [[Dematerialization failed to escape the market]] — art and artist remain luxuries under capitalism
-
-### Pathway: Material/Immaterial across art history and cybernetics
-
-A cross-book pathway bridging Lippard's dematerialization of the art object to Hayles's disembodiment of information on the vault's central axis. Useful for reading the Material/Immaterial tension across three authors.
-
-- [[Material vs Immaterial]] — the vault's master axis, now spanning Han, Hayles, and Lippard
-- [[Dematerialization]] — the art-historical instance of the immaterial
-- [[Lucy Lippard and N. Katherine Hayles]] — dematerialization of the art object ↔ disembodiment of information
-- [[The Materiality of Informatics]] — the counter-thesis that the immaterial is materially produced
-
-## Pathways through *God Human Animal Machine* (Meghan O'Gieblyn)
-
-### Pathway: Transhumanism as secular religion
-
-Follows the book's genealogical argument that the eschatological program of mind-uploading and the Singularity is secularized Christian resurrection theology. Useful for thinking the posthuman, immortality, and the religious afterlife of disenchantment.
-
-- [[Technology as Metaphor]] — each era understands self and cosmos through its dominant machine
-- [[Transhumanism]] — the eschatological program read as posthumanism's religious double
-- [[Transhumanism is secularized Christian eschatology]] — resurrection theology in technical dress (Bacon→Fedorov→Teilhard→Huxley→Kurzweil)
-- [[Mind Uploading]] — transferring a mind to a digital medium; the continuity-of-identity problem
-- [[The mind-uploading problem is the resurrection problem in technical dress]] — Origen's eidos = Kurzweil's pattern
-- [[Patternism]] — the self as a substrate-independent pattern of information
-- [[The Pattern in the Stream]] — Kurzweil's whirlpool/stream figure of the persisting self
-- [[Meghan O'Gieblyn and Ray Kurzweil]] — the chief transhumanist antagonist
-- [[Meghan O'Gieblyn and N. Katherine Hayles]] — the religious double of the posthuman; the cross-book bridge
-
-### Pathway: The computational metaphor of mind
-
-Traces O'Gieblyn's central method through the mind-as-machine metaphor: how the computer metaphor covertly re-inscribes Cartesian dualism, runs aground on the hard problem, and slides from analogy into literalism. Useful for thinking the mind-body problem, consciousness, and metaphor's two-way street.
-
-- [[Mind as Machine]] — the mind/brain as the era's dominant machine; brain as hardware running the software of mind
-- [[Metaphors are two-way streets so we made God in our image]] — the reversibility of source and target
-- [[The Mind-Body Problem]] — immaterial mind and material body; Descartes's res extensa/res cogitans
-- [[The computer metaphor reintroduces the disembodied soul it was built to abolish]] — mind-as-software as crypto-Cartesianism
-- [[The computer metaphor has not solved the mind-body problem only transferred it to a new substrate]] — Papert: the old problems recur 'in equivalent form'
-- [[The Hard Problem of Consciousness]] — why physical processes are accompanied by subjective experience
-- [[Eliminativism]] — the denial that consciousness exists; itself crypto-Cartesian
-- [[Metaphor vs Literalism]] — 'the universe is like a computer' vs. 'is in fact a computer'
-
-### Pathway: Disenchantment and the search for meaning
-
-Charts the book's master frame: Weber's disenchanted, mechanistic cosmos and the recurring drive to re-enchant it through panpsychism, idealism, and the simulation hypothesis. Useful for thinking meaning, the consciousness debates, and re-enchantment cosmologies.
-
-- [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos
-- [[The true trauma of disenchantment is the loss of intrinsic meaning]] — against the re-enchantment objection
-- [[Re-enchantment]] — the counter-movement that restores through science what science obliterated
-- [[Science succeeded by bracketing consciousness then denied it exists]] — the Cartesian split behind the hard problem and the measurement problem
-- [[Panpsychism]] — consciousness as the fundamental nature of all matter
-- [[Panpsychism dissolves the hard problem by making consciousness fundamental]] — the Russell/Eddington re-enchantment move
-- [[Idealism]] — consciousness, not matter, as fundamental; the return of God
-- [[The Simulation Hypothesis]] — the universe-as-program read as a secularized argument from design
-- [[Disenchantment vs Re-enchantment]] — the book's master axis
-
-### Pathway: The algorithm as God
-
-Follows the theological reading of opaque AI: the predictive, inscrutable algorithm as the modern reincarnation of the Calvinist God, with prediction enacting predestination and surveillance reproducing salvation anxiety. Useful for thinking determinism, theodicy, and providence.
-
-- [[The Black Box]] — opaque models delivering knowledge at the price of comprehension
-- [[The Algorithm as Providence]] — the predictive algorithm as the inscrutable nominalist God
-- [[The algorithmic God is the modern God of Calvin and Luther]] — the opaque AI deity as voluntarist
-- [[Algorithmic Determinism]] — prediction as a behavior-modifying feedback loop
-- [[Prediction enacts the very fate it foresees]] — predestination by algorithm
-- [[Theodicy]] — the problem of evil transposed onto AI: the citizen as Job
-- [[Job and the Algorithm]] — submission to the inscrutable algorithmic sovereign
-- [[Surveillance reproduces Protestant salvation anxiety]] — the Weberian, not Orwellian, power of surveillance
-- [[Free Will vs Determinism]] — spontaneous volition vs. the deterministic algorithm
-
-## Pathways through *Psychopolitics* (Byung-Chul Han)
-
-### Pathway: The diagnosis of neoliberal power
-
-Follows Han's central thesis that neoliberal power no longer disciplines the body but steers the psyche, so that freedom itself becomes the medium of coercion. Useful for thinking surveillance, the self as enterprise, and control under the sign of freedom.
-
-- [[Psychopolitics]] — neoliberal power that steers the psyche
-- [[Smart Power]] — permissive, seductive power that presents itself as freedom
-- [[Exploitation of Freedom]] — freedom itself producing coercion
-- [[Auto-Exploitation]] — the entrepreneur of himself as the panopticon of himself
-- [[Self-Optimization]] — perpetual self-optimization as a mode of domination
-- [[Healing as Killing]] — therapeutic self-optimization that destroys the soul
-- [[Freedom itself is producing coercion]] — the book's central thesis
-
-### Pathway: The periodization of power — from biopolitics to psychopolitics
-
-Traces Han's immanent critique of Foucault: how disciplinary biopolitics gives way to the modulating society of control, figured by Deleuze's mole and snake. Useful for thinking the genealogy of power, discipline vs control, and the limits of Foucault.
-
-- [[Biopolitics]] — disciplinary power over the body and population
-- [[Biopolitics vs Psychopolitics]] — power over the body vs power over the psyche
-- [[The Mole and the Snake]] — Deleuze's paired animals: enclosure vs modulation
-- [[Society of Control]] — continuous modulation rather than disciplinary enclosure
-- [[Foucault failed to make the turn to psychopolitics]] — the hinge of the critique
-
-### Pathway: Digital psychopolitics and the emancipatory turn
-
-Moves from the data-driven surveillance that pre-empts free will to Han's tentative figures of resistance: the event, the idiot, and the plane of immanence on which no domination can be built. Useful for thinking Big Data, the future, and what escapes prediction.
-
-- [[Digital Panopticon]] — the friendly, internal panopticon
-- [[Friendly Big Brother]] — the benevolent-faced watcher who is loved, not feared
-- [[Big Data]] — the aperspectival instrument that pre-empts free will
-- [[Dataism]] — data-positivism as a 'second Enlightenment' and its nihilism
-- [[Big Data is blind to the event and so blind to the future]] — the limit of predictive dataism
-- [[The Event]] — the incalculable rupture that wrests the subject from subjection
-- [[Idiotism]] — the idiot as figure of resistance against total communication
-- [[Immanence and A Life]] — Deleuze's plane on which no domination can be erected
-
-### Pathway: Immaterial labour across the vault (Han ↔ Hayles ↔ Lippard)
-
-A cross-book pathway placing Han's neoliberal immaterial production beside Hayles's disembodiment of information and Lippard's dematerialized art object, on the vault's central Material/Immaterial axis. Useful for reading the material/immaterial tension across philosophy, cybernetics, and art history.
-
-- [[Immaterial Labour]] — neoliberal immaterial production that releases the body from production
-- [[Material vs Immaterial]] — the vault's master axis, now spanning four author sections
-- [[The Body as Data]] — the body recoded as data; the digital habitus as a likeness of the soul
-- [[N. Katherine Hayles and Byung-Chul Han]] — two distinct senses of 'information' on the embodiment axis
-
-## Pathways through *Homo Deus* (Yuval Noah Harari)
-
-### Pathway: The rise of Dataism
-
-Follows the book's culminating arc, from the new human agenda to the keystone thesis that organisms are algorithms, through the decoupling of intelligence from consciousness, to the data-religion that would retire humanity. Useful for thinking the posthuman, automation, and the worship of information flow.
-
-- [[The New Human Agenda]] — immortality, happiness, and divinity as humanity's next projects
-- [[Organisms Are Algorithms]] — the keystone biological thesis; cross-links Patternism and The Body as Data
-- [[The Decoupling of Intelligence from Consciousness]] — intelligence mandatory, consciousness optional
-- [[The Useless Class]] — the superfluous people produced by automation
-- [[Dataism]] — data-positivism as the new universal religion
-- [[The Internet-of-All-Things]] — Dataism's eschaton
-- [[Homo-Centric vs Data-Centric]] — humanism vs Dataism
-- [[Yuval Noah Harari and Byung-Chul Han]] — the keystone-merge interlocutor on Dataism and growth-as-religion
-
-### Pathway: Fictions that bind the world
-
-Traces Harari's three-level ontology and his account of large-scale cooperation: how money, gods, and nations — fictions that pass the reality test only as shared imagination — organise society algorithmically and ultimately recast the self as a story. Useful for thinking the immaterial, intersubjectivity, and the self as construct.
-
-- [[Intersubjective Reality]] — the third level of reality (money, gods, nations)
-- [[Large-Scale Flexible Cooperation]] — the real 'human spark'
-- [[Society as Algorithm]] — writing organises society algorithmically (bureaucracy)
-- [[Writing Reshapes Reality]] — text forcing reality to conform
-- [[Can It Suffer (The Reality Test)]] — the criterion for the real vs the fictional
-- [[The self is an imaginary story like nations gods and money]] — the self bound to the order of fictions
-- [[The Experiencing Self vs The Narrating Self]] — Harari via Kahneman
-
-### Pathway: Humanism and its self-undermining
-
-Charts the book's central historical argument: humanism as the dominant modern religion, the modern covenant that trades meaning for power, and the 'gun in Act I' by which fulfilling humanism destroys it. Useful for thinking modernity, value, and the techno-religions that succeed it.
-
-- [[Humanism (Harari)]] — humanism as the worship of humankind
-- [[The Modern Covenant]] — modernity as trading meaning for power
-- [[Liberal Humanism (Harari)]] — the orthodox humanist sect that won 1914–1989
-- [[Free Will as Fiction (Harari)]] — free will an empty word like 'soul'
-- [[Fulfilling humanism will destroy it by making humans irrelevant]] — the 'gun in Act I'
-- [[Technology not philosophy will break liberalism]] — biotech and AI dissolve liberal individualism
-- [[Techno-Humanism]] — the conservative techno-religion that succeeds humanism
-- [[Homo-Centric vs Data-Centric]] — the closing opposition
-
-### Pathway: Material/Immaterial across the vault (Harari)
-
-A cross-book pathway placing Harari's intersubjective fictions and freedom of information beside the body recoded as data, on the vault's central Material/Immaterial axis. Useful for reading the immaterial as the order of fictions more powerful than material things.
-
-- [[Material vs Immaterial]] — the vault's master axis
-- [[Intersubjective Reality]] — money, gods, nations: immaterial fictions more powerful than material things
-- [[The Body as Data]] — the body recoded as informational pattern
-- [[Freedom of Information]] — Dataism's supreme value, prizing flow over substrate
-- [[Yuval Noah Harari and N. Katherine Hayles]] — the species recast as a data-processing system
-
-## Pathways through *The Singularity Is Near* (Ray Kurzweil)
-
-### Pathway: The affirmative cosmology of information
-
-Follows Kurzweil's vision in his own voice, from the computational universe through the Six Epochs and the Law of Accelerating Returns to the claim that intelligence is the purposeful organization of computation matter already performs. Useful for reading the proponent's position the vault's critics (Hayles, O'Gieblyn, Han) write against.
-
-- [[The Computational Universe]] — the worldview in which humans, machines, and cosmos alike process information
-- [[The Six Epochs]] — cosmic evolution as six paradigms of patterns of information, ending with 'the Universe Wakes Up'
-- [[The Law of Accelerating Returns]] — evolution and technology grow double-exponentially; the engine of the Singularity
-- [[How Smart Is a Rock]] — a kilogram of matter already computes ~10^42 cps; intelligence as the organization of computation
-- [[The Singularity]] — the merger of biological and nonbiological intelligence that irreversibly transforms human life
-- [[Ray Kurzweil and Yuval Noah Harari]] — the two affirmative cosmologists of information
-
-### Pathway: Disembodiment, from inside and out
-
-Charts Kurzweil's celebratory pole — the self as a substrate-independent pattern, the body as 'version 1.0' hardware, uploading as a gradual unnoticed merger — read directly against Hayles's recovery of embodiment. Useful for the vault's central Material/Immaterial axis at its sharpest point of disagreement.
-
-- [[Patternism]] — the self as a persisting, substrate-independent pattern of information
-- [[We are not our bodies but a pattern of information that persists through material turnover]] — patternism in the proponent's own voice
-- [[Transcending Biology]] — the 'version 1.0' bodies premise and the immortality claim
-- [[Reverse-Engineering the Human Brain]] — re-instantiating the brain's software of intelligence on faster substrates
-- [[Mind Uploading]] — transferring a mind to a digital medium
-- [[Uploading is a gradual unnoticed merger not a sudden scan and copy]] — Kurzweil's answer to the continuity-of-identity objection
-- [[Embodiment vs Information]] — the master tension
-- [[Ray Kurzweil and N. Katherine Hayles]] — the keystone disagreement on disembodiment
-
-### Pathway: Acceleration, two valences
-
-A cross-book pathway juxtaposing Kurzweil's celebration of exponential progress with Han's critique of speed stripped of sense — one of the vault's most productive contrasts for the material/immaterial theme. Useful for thinking what 'acceleration' affirms and what it costs.
-
-- [[The Law of Accelerating Returns]] — Kurzweil's celebration of double-exponential progress
-- [[Exponential vs Linear]] — the epistemic axis the whole Singularity forecast hangs on
-- [[Paradigm Shift and the S-Curve]] — the exponential as a cascade of S-curves
-- [[The Lily Pads on the Lake]] — the parable of exponential onset
-- [[Acceleration]] — Han's critique of speed stripped of sense, narrative, and the Other
-- [[Narration vs Addition]] — the deceleration counter-figure to additive accumulation
-
-## Pathways through *A Cyborg Manifesto* (Donna Haraway)
-
-### Pathway: The cyborg and the breached boundaries
-
-Follows the manifesto's opening move, from the ironic political myth of the cyborg through the three boundary breakdowns to the refusal of innocent origins. Useful for thinking the figure of the cyborg, the human/animal/machine boundary, and the lineage that runs into Hayles's posthuman.
-
-- [[The Cyborg]] — Haraway's hybrid of machine and organism; 'our ontology' that 'gives us our politics'
-- [[The cyborg is our ontology and it gives us our politics]] — the manifesto's keystone claim
-- [[The Breached Boundaries]] — the three breakdowns (human/animal, organism/machine, physical/nonphysical)
-- [[The machine is us an aspect of our embodiment]] — the organism/machine boundary affirmatively breached
-- [[The Refusal of Innocence]] — the rejection of origin myths, organic wholeness, and the Garden
-- [[The cyborg has no origin story in the Western sense]] — the refusal of original unity
-- [[Take pleasure in the confusion of boundaries and responsibility for their construction]] — the ethical imperative
-- [[Posthumanism]] — the lineage the cyborg feeds into; the end of the liberal human
-
-### Pathway: Cyborg feminism and fractured identity
-
-Traces Haraway's anti-essentialist politics, from the dissolution of 'woman' through affinity and oppositional consciousness to women of color as a cyborg identity and the survival-strategy of cyborg writing. Useful for thinking identity, coalition, and writing as resistance.
-
-- [[Fractured Identities]] — identities as contradictory, partial, strategic; 'woman disintegrates into women'
-- [[There is no natural basis for the unity of women]] — coalition by affinity, not by nature
-- [[Affinity Not Identity]] — political coalition by chosen affinity rather than essential identity
-- [[Oppositional Consciousness]] — identity born of reading webs of power from refused category-membership
-- [[Women of Color as a Cyborg Identity]] — the exemplary coalitional affinity-identity
-- [[Cyborg Writing]] — seizing the tools of signification; noise and pollution against perfect communication
-
-### Pathway: The informatics of domination across the vault
-
-A cross-book pathway following Haraway's coded command-control grid and its material substrate into Hayles's pattern thesis, Harari's organisms-as-algorithms, and Han's immaterial labour. Useful for the vault's Material/Immaterial axis and the world recoded as information.
-
-- [[The Informatics of Domination]] — the shift from organic hierarchical dominations to coded control networks
-- [[The World as a Problem of Coding]] — the common move of communications sciences and modern biologies
-- [[The world is being translated into a problem of coding]] — the argument in Haraway's own voice
-- [[Informatics]] — Hayles's term taken from Haraway; the network of information technologies
-- [[Pattern and Randomness]] — the master dialectic the coding move feeds into (Hayles)
-- [[Organisms Are Algorithms]] — Harari's keystone biological version of the coding thesis
-- [[The Homework Economy]] — the feminization of work; the material substrate of the informatics of domination
-- [[Women in the Integrated Circuit]] — women's dispersed positions across the microelectronic world-system
-- [[Immaterial Labour]] — Han's neoliberal immaterial production; the downstream of the homework economy
-- [[Material vs Immaterial]] — the vault's master axis, now spanning six author sections
-- [[N. Katherine Hayles and Donna Haraway]] — the cross-book bridge on informatics and the cyborg
-
-## Pathways through *Understanding Media* (Marshall McLuhan)
-
-### Pathway: McLuhan's Part I apparatus
-
-Follows the conceptual machinery McLuhan builds in the book's first chapters before turning it loose on individual media: the thesis that the medium is the message, the extension/autoamputation physiology, the hot/cool typology, and the law of reversal. Useful for thinking media as form rather than content, and perception beneath opinion.
-
-- [[The Medium Is the Message]] — the form and scale of a medium, not its content, is the message
-- [[Media as Extensions of Man]] — every medium an extension of a sense, organ, or faculty
-- [[The Content of Any Medium Is Another Medium]] — media nest recursively; content masks the medium
-- [[Sense Ratios]] — media alter the ratios and patterns of perception beneath opinion
-- [[Media Hot and Cold]] — media classified by data-density and inverse participation
-- [[Reversal of the Overheated Medium]] — any medium intensified past a threshold reverses into its opposite
-- [[The Break Boundary]] — Boulding's point of no return at which a system changes into another
-- [[The medium not its content is the message]] — the signature argument in its own note
-- [[Mechanical vs Electric]] — the master historical opposition the apparatus serves
-
-### Pathway: Extension, autoamputation, and numbness
-
-Traces the book's physiological core: the extension of man as a self-amputation that numbs the extended organ, the Narcissus-narcosis of the media trance, and the artist as the one awareness that breaks it. Useful for thinking the body extended, surveillance, and technological capture.
-
-- [[Autoamputation]] — every technology a defensive self-amputation of an over-stressed organ
-- [[Narcosis]] — the constitutive numbness accompanying every extension
-- [[Narcissus as Narcosis]] — the figure of technological numbness, not vanity
-- [[Man as Servomechanism of His Extensions]] — the Gadget Lover who serves his own extensions
-- [[The Electric Age as Extension of the Central Nervous System]] — electric technology as a live model of the CNS set outside us
-- [[Leasing the Central Nervous System]] — we have leased our eyes, ears, and nerves to private corporations
-- [[Numbness vs Awareness]] — the necessary narcosis against the awareness that breaks the trance
-- [[The Artist as Integral Awareness]] — the artist as the culture's immune system against media shock
-- [[We have leased our central nervous systems to private corporations]] — the capture argument in its own note
-
-### Pathway: The electric reversal — explosion into implosion across the vault
-
-A cross-book pathway following McLuhan's master historical claim — mechanical explosion contracting into electric implosion and the global village — into the vault's information, acceleration, and material/immaterial threads. Useful for reading media speed against Han, Hayles, Harari, and Kurzweil.
-
-- [[Explosion vs Implosion]] — mechanical explosion reversing into electric implosion
-- [[The Global Village]] — electric speed contracting the planet to a single participatory community
-- [[Transportation as Communication]] — physical transport and information movement as one continuous 'communication'
-- [[Money as a Medium]] — money's arc from commodity to credit-information
-- [[The Credit Card]] — money as pure credit-information; the electric reversal toward 'tribal money'
-- [[Material vs Immaterial]] — the vault's master axis, now spanning seven author sections
-- [[Information]] — where McLuhan's electric-information thread meets Hayles, Lippard, and Harari
-- [[Acceleration]] — Han's critique of speed, the productive contrast to McLuhan's 'electric speed'
-- [[Marshall McLuhan and Byung-Chul Han]] — electric speed and the leased nervous system read against Han
-- [[Marshall McLuhan and N. Katherine Hayles]] — the senses as substrate and consciousness translated into information
-
-## Pathways through *The Burnout Society* (Byung-Chul Han)
-
-### Pathway: The diagnosis of the achievement society
-
-Follows Han's clinical core, from the epochal shift into the achievement society through auto-exploitation to burnout and its intensification in the doping society. Useful for thinking self-coercion, exhaustion, and the pathologies of excess positivity.
-
-- [[Achievement Society]] — the neoliberal regime of auto-exploitation at book length
-- [[Auto-Exploitation]] — the internal work camp; predator and prey at once
-- [[Burnout]] — the title malady of excess positivity that eludes psychoanalysis
-- [[The pathologies of the present are infarctions not infections]] — the epochal positivity thesis
-- [[Doping Society]] — the achievement society intensified into a performance-machine; 'Health is the new goddess'
-- [[The Internal Work Camp]] — everyone carries a work camp inside
-- [[Depression is caused by the imperative to achieve not the failure to become oneself]] — the Ehrenberg polemic
-
-### Pathway: The periodization — from discipline to achievement
-
-Traces Han's historical argument: the immunological age of negativity and infection gives way to the neuronal age of positivity and infarction, and the disciplinary society of the should to the achievement society of the can. Useful for thinking the genealogy of power and how it sits beside (and apart from) the Psychopolitics periodization.
-
-- [[Immunological Age]] — the immunological → neuronal epochal shift
-- [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence'
-- [[Can vs Should]] — the Should → Can modal shift
-- [[The achievement society supersedes the disciplinary society]] — the periodizing thesis
-- [[Discipline vs Achievement]] — confinement and the should vs auto-exploitation and the can; distinct from Discipline vs Control
-
-### Pathway: The contemplative cure — Han's affirmative turn
-
-Moves from Han's diagnosis to his counter-program: the recovery of negative potency, profound boredom, and the contemplative life, ending in the healing tiredness of a community of singularities. Useful for thinking attention, rest, and what resists the achievement-principle.
-
-- [[Negative Potency]] — the 'power not to do' / the power to say no
-- [[Profound Boredom]] — the dream bird that hatches the egg of experience
-- [[Vita Contemplativa]] — the contemplative life as sovereign saying-no, against Arendt
-- [[The contemplative life is more active than hyperactivity]] — the pedagogy-of-seeing thesis
-- [[Fundamental Tiredness]] — the healing we-tiredness
-- [[Community of Singularities]] — the 'friendly and,' the redemptive inverse of the Hell of the Same
-- [[The society to come is a society of tiredness]] — the affirmative closing thesis
-
-### Pathway: Attention and the senses (a bridge to McLuhan)
-
-A cross-book pathway placing Han's attention-regime diagnosis beside McLuhan's account of media reshaping the ratios of perception. Useful for thinking deep vs scattered attention, multitasking, and perception beneath opinion.
-
-- [[Deep Contemplative Attention]] — the immersive lingering attention that is the precondition of culture
-- [[Hyperattention]] — the scattered, broad-but-flat attention-regime that displaces deep reflection
-- [[Multitasking]] — regression to the divided vigilance of wild animals, not progress
-- [[Deep Attention vs Hyperattention]] — the attention-regime opposition
-- [[Sense Ratios]] — McLuhan: media alter the ratios and patterns of perception beneath opinion
-- [[Marshall McLuhan and Byung-Chul Han]] — the media-ecology precursor to Han's attention diagnosis
-
-## Pathways through *Beyond Modern Sculpture* (Jack Burnham)
-
-### Pathway: From object to system (Part One → Part Two)
-
-Follows the book's structural spine, from the exhausted formal vocabulary of the sculptural object through phenomenalism and automata to the cybernetic system. Useful for thinking dematerialization as an art-historical process and the Material/Immaterial axis read across the two parts of the book.
-
-- [[Object and System]] — the structural axis titling the book's two parts
-- [[The Vanishing Base]] — the withering of the base; the secularization of sculpture
-- [[Form Exhaustion]] — sculptural form as a finite grouping; how the vitalist idiom died
-- [[Object Art]] — 'sculpture de-idealized'; the obligation to vitalize shifted onto perception
-- [[Phenomenalism (Burnham)]] — art whose subject is the experience of perception
-- [[Automata]] — self-propelled images; the bridge from the object to the cybernetic system
-- [[The Faustian Urge to Re-create Life Nonbiologically]] — the desire-engine of the migration
-- [[Systems Esthetics]] — the founding object-to-system thesis
-- [[Object vs System]] — the organizing tension
-- [[Modern sculpture is not dying of formal exhaustion but achieving its oldest goal the simulation of life]] — the keystone thesis
-
-### Pathway: Vitalism and the death of the scientific model
-
-Traces Burnham's biological core: the rise and fall of vitalism, the mechanist-vitalist dispute, and the obsolescence of the visual scientific model that drove dematerialization. Useful for thinking the life-essence aesthetic and the invisibility of scientific reality.
-
-- [[Vitalism]] — the non-material life-essence aesthetic that reigned in modern sculpture
-- [[Mechanism vs Vitalism]] — the centuries-long biological dispute carried into sculpture
-- [[Organicism]] — the systems-interrelation creed, polar to vitalism
-- [[The Hooded Machine]] — sculpture as a black box hiding a supposed inner life force
-- [[The Scientific Model]] — the sculptor's reservoir of pure form, whose obsolescence drove dematerialization
-- [[The Transistor Radio vs the Watch]] — the visible-to-invisible shift in the scientific form-world
-- [[Topology as the New Formalism]] — form migrating to the innate spatial properties of objects
-- [[Light as a Sculpture Medium]] — light, not form, determines perception
-- [[Vitalism is the transitional step from the sculptural object to the system]] — the hinge of the narrative
-- [[The obsolescence of the visual scientific model drove the dematerialization of sculpture]] — the engine of dematerialization
-
-### Pathway: The cybernetic climax — toward Cyborg Art
-
-Moves through the kinetic and luminous experiments to Burnham's speculative endpoint: the cyborg as an art form and sculpture seeking its own obliteration by becoming the life it imitates. Useful for the vault's earliest cyborg and its lineage into the posthuman.
-
-- [[Kinetic Art]] — the first 'sculpture as system'
-- [[The Unrequited Art]] — kineticism as heroic productive failure
-- [[Luminosity]] — emitted light as the basis of Light Art
-- [[Systems Consciousness]] — the post-object aesthetic awareness
-- [[Cyborg Art]] — 'the cybernetic organism as an art form,' the ultimate stage of sculpture
-- [[Reciprocal Communication]] — sustained two-way exchange as the criterion of Cyborg Art
-- [[The Tortoise (Machina Speculatrix)]] — Grey Walter's first cybernetic organisms
-- [[Sculpture as Biological Signal]] — the speculative teleological theory of art preparing the post-human
-- [[The Cyborg]] — the figure the cluster runs into; Haraway's hybrid of machine and organism
-- [[Posthumanism]] — the lineage the cyborg feeds into
-- [[Jack Burnham and Donna Haraway]] — Cyborg Art 1968 anticipating the 1985 cyborg
-
-### Pathway: The dematerialization lineage across the vault (Burnham ↔ Lippard ↔ Hayles)
-
-A cross-book pathway placing Burnham's dematerialization of sculpture beside Lippard's dematerialization of the art object and Hayles's disembodiment of information, on the vault's central Material/Immaterial axis. Useful for reading dematerialization across art history and cybernetics.
-
-- [[Material vs Immaterial]] — the vault's master axis, now spanning eight author sections
-- [[Object and System]] — Burnham's art-historical instance of the axis
-- [[Dematerialization]] — Lippard's titular concept; the conceptual-art instance
-- [[A Scribble in the Air]] — Read via Burnham: the dematerialization of postwar sculpture
-- [[Embodiment]] — Hayles's instantiated particular against the disembodiment of information
-- [[Jack Burnham and Lucy Lippard]] — the keystone dematerialization / object-to-system bridge
-- [[Jack Burnham and N. Katherine Hayles]] — cybernetics and systems as a precursor to the posthuman body
-
-## Pathways through *Telematic Embrace* (Roy Ascott)
-
-### Pathway: From cybernetic art to telematics to cyberception
-
-Follows Ascott's five-decade arc, from 1960s behaviourist/cybernetic art through the telematic network to cyberception and the moist/technoetic domain. Useful for thinking art's migration from object to system to network, and the Material/Immaterial axis read into the post-biological.
-
-- [[Behaviourist Art]] — the founding 1960s programme: art as a behavioural feedback system
-- [[The Cybernetic Vision]] — the integrative cybernetic worldview the artist must adopt
-- [[Art has shifted from the field of objects to the field of behaviour]] — the founding thesis
-- [[The Participator]] — the spectator transformed into an active co-producer
-- [[Telematic Art]] — the master concept: art of networked computer-mediated interaction at a distance
-- [[Network as Artwork]] — the network itself, not the object, as the work of art
-- [[Cyberception]] — the augmented faculty that makes immaterial process palpable as material objects
-- [[Technoetics]] — the convergence of technology and consciousness
-- [[Moistmedia]] — the convergence of dry (digital) and wet (biological) into a third 'moist' domain
-- [[Cyberception makes immaterial process perceptible as palpably as material objects]] — the load-bearing argument on the Material/Immaterial axis
-
-### Pathway: The telematic embrace and network consciousness
-
-Traces Ascott's central, most curatorially load-bearing claim — that telematic networking brings a planetary, distributed consciousness into being, against narcissism and paranoia. Useful for thinking connectivity, distributed authorship, and the spiritual charge of the network.
-
-- [[The Telematic Embrace]] — the connective embrace of the network; 'Is there love in the telematic embrace?'
-- [[Network Consciousness]] — the planetary, distributed consciousness telematic networking brings into being
-- [[Telematic networks can create a consciousness greater than the sum of its parts]] — the emergent-network-consciousness claim
-- [[Distributed Authorship]] — authorship dispersed across the network; the work co-produced by many
-- [[Negotiated Meaning]] — meaning produced through interaction and negotiation, not transmitted
-- [[Telenoia]] — networked mind/empathy at a distance; the connective counter to paranoia
-- [[Connection vs Narcissism]] — the telematic embrace as connection vs the closed, mirror-bound self
-- [[Networking answers a desire for transcendence a biotechnological theology]] — the spiritual charge of the network
-- [[Indra's Net]] — the holomatic figure of network consciousness
-- [[Reality is constructed by participatory observation a repudiation of postmodern pessimism]] — observer-created reality against Baudrillardian despair
-
-### Pathway: The Burnham ↔ Ascott cybernetic-art pairing
-
-A cross-book pathway pairing the vault's two great theorists of cybernetic/systems art, from Burnham's object-to-system migration into Ascott's network and post-biological telos. Useful for reading the art/systems-esthetics lineage and the object → system → network spine.
-
-- [[Object and System]] — Burnham's structural axis; the art-historical instance of the Material/Immaterial axis
-- [[Cyborg Art]] — Burnham's 'cybernetic organism as an art form'; the vault's earliest cyborg (1968)
-- [[Behaviourist Art]] — Ascott's contemporaneous behavioural-systems programme
-- [[Art as a Form of Behaviour]] — the reversal of 'the behaviour of forms' into art as a mode of behaviour
-- [[Network as Artwork]] — the migration's endpoint: the network, not the object, as the work
-- [[The Post-Biological Body]] — the body transformed beyond its biological limits
-- [[Roy Ascott and Jack Burnham]] — the keystone art-kin bridge between the two cybernetic-art theorists
-- [[Material vs Immaterial]] — the vault's master axis, now spanning nine author sections
-
-## Pathways through *The Age of Surveillance Capitalism* (Shoshana Zuboff)
-
-### Pathway: The discovery and the mechanics of surveillance capitalism
-
-Follows the book's foundational arc, from the discovery of behavioral surplus through prediction products and behavioral futures markets to the extraction and prediction imperatives that drive the logic toward totality. Useful for thinking the economic logic that claims human experience as free raw material.
-
-- [[Surveillance Capitalism]] — the master concept: the economic logic that claims human experience as free raw material
-- [[Behavioral Surplus]] — the foundational discovery: data beyond service improvement
-- [[The Behavioral Value Reinvestment Cycle]] — the original benign cycle the discovery broke
-- [[Prediction Products]] — forecasts of human behavior fabricated from behavioral surplus
-- [[Behavioral Futures Markets]] — the markets that trade in predictions of human behavior
-- [[The Extraction Imperative]] — the compulsion to capture ever more behavioral surplus
-- [[Surveillance capitalism is a logic not a technology]] — the foundational distinction
-- [[We are not the product but the raw material of surveillance capitalism]] — human experience as the free raw material
-
-### Pathway: Big Other and instrumentarian power
-
-Traces the book's second great theme: the rise of Big Other and instrumentarian power, distinct from totalitarianism, completing Skinner's radical behaviorism with big-data instruments to engineer the hive and a utopia of certainty. Useful for thinking a new species of power and the death of individuality.
-
-- [[Big Other]] — the ubiquitous sensate computational architecture that renders and modifies behavior
-- [[Instrumentarian Power]] — the unprecedented species of power that knows and shapes behavior to others' ends
-- [[Instrumentarianism is a new species of power not a form of totalitarianism]] — the Big Other / Big Brother distinction
-- [[Big Brother vs Big Other]] — the periodizing tension between violent terror and indifferent computation
-- [[Radical Behaviorism]] — Skinner's behavioral engineering completed by big-data instruments
-- [[Social Physics]] — Pentland's program to govern society through behavioral data
-- [[Economies of Action]] — the move from predicting behavior to actuating it
-- [[Tuning, Herding, and Conditioning]] — the three modes of actuation
-- [[The Hive]] — the confluent, totally connected collective instrumentarianism engineers
-- [[A Utopia of Certainty]] — the guaranteed-outcomes ideal, computation replacing society
-- [[The goal is no longer to know our behavior but to automate us]] — the shift from prediction to actuation
-
-### Pathway: Naming the unprecedented and the right to the future tense
-
-Charts the book's political and ethical stakes: why the unprecedented eludes contest, why dispossession is structural, and why the right to the future tense and the right to sanctuary are the elemental rights at risk. Useful for thinking resistance, recognition, and the autonomous self.
-
-- [[The Unprecedented]] — the new that eludes recognition because existing categories make it invisible
-- [[The Horseless Carriage]] — the misreading of the unprecedented through obsolete categories
-- [[Inevitabilism]] — the ideological fraud of autonomous technological destiny
-- [[The Dispossession Cycle]] — the four-stage sequence that normalizes the unthinkable as inevitable
-- [[The Right to the Future Tense]] — the elemental right to act free of others' will
-- [[The Right to Sanctuary]] — the right to inviolable space that Big Other destroys
-- [[Glass Life]] — the totally exposed existence the destruction of sanctuary produces
-- [[There is no freedom without uncertainty]] — the will to will requires the open future
-- [[Taming surveillance capitalism must begin with careful naming]] — naming as the first act of resistance
-- [[Be the Friction]] — the closing imperative of resistance
-- [[Inevitability is an illusion and resistance is possible]] — the closing affirmation
-
-### Pathway: The surveillance arc across the vault (Han → Harari → Zuboff)
-
-A cross-book pathway following the vault's surveillance thread from Han's diagnosis of the friendly, voluntary digital panopticon, through Harari's Dataism and the recasting of the human as a data source, to Zuboff's full anatomy of surveillance capitalism and Big Other — with Kurzweil and Ascott as the embracing counterpoint that affirms the merger the others diagnose. Useful for reading surveillance, prediction, and the future of the self across philosophy, history, and political economy.
-
-- [[Digital Panopticon]] — Han's friendly, internal panopticon running on voluntary self-exposure
-- [[Friendly Big Brother]] — Han's benevolent-faced watcher who is loved, not feared
-- [[Big Data]] — Han's aperspectival instrument that pre-empts free will
-- [[Dataism]] — Harari's data-religion that would retire humanity
-- [[Organisms Are Algorithms]] — Harari's keystone thesis recasting the human as a data source
-- [[Surveillance Capitalism]] — Zuboff's economic logic that claims human experience as raw material
-- [[Big Other]] — Zuboff's ubiquitous computational architecture, the successor to the panopticon
-- [[Instrumentarian Power]] — Zuboff's new species of power that knows and shapes behavior
-- [[Big Brother vs Big Other]] — the tension that distinguishes Zuboff's apparatus from totalitarian terror
-- [[The Singularity]] — Kurzweil's embraced merger of human and machine intelligence; the affirmative counterpoint
-- [[Network Consciousness]] — Ascott's affirmative vision of the planetary networked mind
-- [[Shoshana Zuboff and Byung-Chul Han]] — the keystone surveillance kin-pairing
-- [[Shoshana Zuboff and Yuval Noah Harari]] — rendition beside Dataism
-- [[Shoshana Zuboff and Ray Kurzweil]] — the critical-vs-affirmative pole of the data future
-
-### Pathway: Material/Immaterial across the vault (Zuboff)
-
-A cross-book pathway placing Zuboff's rendition of lived experience into behavioral data, and human experience claimed as the fourth fictional commodity, on the vault's central Material/Immaterial axis — the tenth and final author section. Useful for reading the immaterial as the extracted, commodified residue of material life.
-
-- [[Material vs Immaterial]] — the vault's master axis, now spanning ten author sections
-- [[Rendition]] — the operations that translate lived experience into behavioral data
-- [[The Fourth Fictional Commodity]] — human experience claimed as a commodity, after land, labor, and money
-- [[Behavioral Surplus]] — the immaterial surplus extracted from material life
-- [[The Body as Data]] — the body recoded as informational pattern; the thread Zuboff's rendition extends
-- [[Shoshana Zuboff and Byung-Chul Han]] — Big Other and rendition beside the digital panopticon
+- [[The discovery and the mechanics of surveillance capitalism (Pathway)|The discovery and the mechanics of surveillance capitalism]]
+- [[Big Other and instrumentarian power (Pathway)|Big Other and instrumentarian power]]
+- [[Naming the unprecedented and the right to the future tense (Pathway)|Naming the unprecedented and the right to the future tense]]
