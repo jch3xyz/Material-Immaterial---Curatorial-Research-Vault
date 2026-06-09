@@ -18,7 +18,7 @@ TODAY = "2026-06-09"
 INTRO   = {"Brief Definition", "General Orientation", "Longer Explanation", "Why It Matters", "The Poles"}
 ROSTER  = {"Authors and Variants", "Authors and Books That Discuss It"}
 CLOSERS = {"Related Concepts", "Opposing Concepts", "Questions It Raises", "Possible Synthesis or Unresolved Status"}
-FRAMING = INTRO | ROSTER          # only these section bodies may be swapped
+SWAPPABLE = INTRO | ROSTER | {"Possible Synthesis or Unresolved Status"}  # framing bodies that may be rewritten (tension synthesis included)
 def title(sec): return sec.splitlines()[0].lstrip('#').strip()
 def role(t):
     if t in INTRO: return 'intro'
@@ -102,7 +102,7 @@ def swap_bodies(parts, framing, errors):
         nb = re.sub(r'^\s*#{1,6}\s+.*\n', '', nb) if nb.lstrip().startswith('#') and nb.lstrip().split('\n',1)[0].strip().lstrip('#').strip()==h.lstrip('#').strip() else nb
         if h not in by_head:
             errors.append(f"heading not found for swap: {h!r}"); continue
-        if role(title(parts[by_head[h]])) not in ('intro', 'roster'):
+        if title(parts[by_head[h]]) not in SWAPPABLE:
             errors.append(f"refused non-framing swap: {h!r}"); continue   # never overwrite a quote-bearing section
         parts[by_head[h]] = h + "\n\n" + nb + "\n\n"
     return parts
@@ -112,7 +112,8 @@ def bump_date(head):
         return re.sub(r'^last_updated:.*$', f'last_updated: {TODAY}', head, count=1, flags=re.M)
     return head
 
-def quoteset(t): return sorted(l for l in t.splitlines() if l.startswith('> '))
+_EDITORIAL = ('> Note:', '> Provenance note:', '> Provenance:')   # vault-internal annotations, not source quotes
+def quoteset(t): return sorted(l for l in t.splitlines() if l.startswith('> ') and not l.startswith(_EDITORIAL))
 def links(t): return [m.strip() for m in re.findall(r'\[\[([^\]|#]+)', t) if m.strip()]
 def sources_body(t):
     h, parts = split_sections(t)

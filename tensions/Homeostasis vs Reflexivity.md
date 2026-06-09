@@ -23,7 +23,7 @@ related_concepts:
   - "[[The Three Waves of Cybernetics]]"
   - "[[The Materiality of Informatics]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-09
 ---
 
 # Homeostasis vs Reflexivity
@@ -47,11 +47,27 @@ The information-as-thing / information-as-action distinction is the exact pivot 
 
 ## Authors and Books That Discuss It
 
-- [[N. Katherine Hayles]] in [[How We Became Posthuman]] — Stages the tension as the organizing drama of the Macy Conferences and the engine of the first-to-second-wave transition; reads the victory of homeostasis as contingent and quantification-driven, not inevitable, and recovers reflexivity as the relegated road later rebuilt by Bateson and von Foerster.
-- [[Claude Shannon]] and [[Norbert Wiener]] — Define information "in terms of what it is": a probability function divorced from meaning, decontextualized so it holds "a stable value as it moved from one context to another." This is the constellation of homeostasis — information-as-thing, signal over noise. (`Directly stated`)
-- [[Donald MacKay]] — The chief dissenter, defines information "in terms of what it does": "structural information" calculated "through changes brought about in the receiver's mind," which "triangulated between reflexivity, information, and meaning" and concluded that "subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected." His theory lost out because the changes a message triggers in a mind resisted quantification. (`Directly stated`)
-- [[Warren McCulloch]] — Holds the tension *inside* a single body of work: committed to "an empirical epistemology" that binds logical form to "a setting in the flesh," yet repeatedly performing the "Platonic backhand" that makes embodiment "a blurred and messy instantiation of the clean abstractions of logical forms." His exorcism of reflexivity (the 1953 attack on psychoanalysis, "The Past of a Delusion") is the tension's sharpest enactment. (`Directly stated` / see [[The Platonic Backhand and Forehand]])
-- *(interpretive)* [[Byung-Chul Han]] in [[The Transparency Society]] — A thematic, cross-author resonance, not a claim Hayles makes: Han's [[Hyperinformation]] treats information as a positivized *mass* or thing that "proliferates and propagates" without yielding sense — "Further information—or simply an accumulation of information— produces no truth." Read alongside this tension, Han's information-as-accumulating-thing echoes the homeostatic pole's reification of information, while his demand for negativity and the [[The Other|Other]] gestures toward what the reflexive pole would have preserved. (`Speculative connection` — the two authors are not in dialogue; the contrast is interpretive.)
+The sources sort by where they stand in the contest rather than by when they entered it. One author narrates the whole drama; the rest are the Macy figures whose competing definitions of information *are* the two poles, and they fall into the camp each one's theory of information installs.
+
+**The historian of the contest.**
+
+- [[N. Katherine Hayles]] in [[How We Became Posthuman]] — Stages the tension as the organizing drama of the Macy Conferences and the engine of the first-to-second-wave transition in [[The Three Waves of Cybernetics|cybernetics]]. She reads the victory of homeostasis as contingent and quantification-driven, not inevitable — "Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project." — and recovers reflexivity as the relegated road later rebuilt by Bateson and von Foerster. Hers is the frame within which the other figures' positions become legible as poles. (`Directly stated`)
+
+**The homeostatic pole — information defined by what it *is*.**
+
+- [[Claude Shannon]] and [[Norbert Wiener]] — Define information "in terms of what it is": a probability function divorced from meaning, decontextualized so that it holds "a stable value as it moved from one context to another." This is the constellation of homeostasis — information-as-thing, signal over noise, a quantity that "can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies." On this side stand instrumental language, predictability, and the man-in-the-middle as a black-boxed input/output device. (`Directly stated`)
+
+**The reflexive pole — information defined by what it *does*.**
+
+- [[Donald MacKay]] — Defines information "in terms of what it does": "structural information" calculated "through changes brought about in the receiver's mind," which "triangulated between reflexivity, information, and meaning" and concluded that "subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected." When information is made representational this way it "becomes a process that someone enacts, and thus it necessarily implies context and embodiment." His model lost out because the changes a message triggers in a mind resisted quantification — the price of embodiment is "difficulty of quantification and loss of universality." (`Directly stated`)
+
+**The tension held inside one body of work.**
+
+- [[Warren McCulloch]] — Does not sit on one side but carries the contest within himself: committed to "an empirical epistemology" that binds logical form to "a setting in the flesh," yet repeatedly performing the "Platonic backhand" that makes embodiment "a blurred and messy instantiation of the clean abstractions of logical forms" (see [[The Platonic Backhand and Forehand]]). His exorcism of reflexivity — the 1953 attack on psychoanalysis, "The Past of a Delusion" — is the tension's sharpest single enactment, a thinker drawn toward embodiment policing the boundary that would readmit it. (`Directly stated`)
+
+**A thematic resonance from outside the Macy frame.**
+
+- *(interpretive)* [[Byung-Chul Han]] in [[The Transparency Society]] — A cross-author resonance, not a claim Hayles makes: Han's [[Hyperinformation]] treats information as a positivized *mass* or thing that "proliferates and propagates" without yielding sense — "Further information—or simply an accumulation of information— produces no truth." Read alongside this tension, Han's information-as-accumulating-thing echoes the homeostatic pole's reification of information, while his demand for negativity and the [[The Other|Other]] gestures toward what the reflexive pole would have preserved. (`Speculative connection` — the two authors are not in dialogue; the contrast is interpretive.)
 
 ## Related Concepts
 
@@ -67,9 +83,11 @@ The information-as-thing / information-as-action distinction is the exact pivot 
 
 ## Possible Synthesis or Unresolved Status
 
-Hayles does not dissolve the tension; she *historicizes* it and then reopens it. Within the Macy period the contest was decided — homeostasis "won," reflexivity "lost" — but the loss was a relegation, not a refutation: "even as one version of reflexivity fizzled out, other versions were being constructed in terms that made them more productive." Reflexivity was rehabilitated in the second wave by [[Gregory Bateson]] and [[Heinz von Foerster]] precisely by being "insulated against subjectivity," and matured in [[Humberto Maturana|Maturana]]'s [[Autopoiesis|autopoiesis]]. The poles are therefore not symmetric opposites that cancel; one displaces the other in sequence, and each survives the other's ascendancy as a *skeuomorph* — homeostasis "performed the work of a gesture or an allusion used to authenticate new elements in the emerging constellation of reflexivity."
+Hayles does not dissolve the tension; she *historicizes* it and then reopens it. Within the Macy period the contest was decided — homeostasis "won," reflexivity "lost" — but the loss was a relegation, not a refutation: "even as one version of reflexivity fizzled out, other versions were being constructed in terms that made them more productive." The decision was contingent, "not an arbitrary decision, but neither was it inevitable," turning on tractability rather than truth.
 
-The tension is best held *open*, as the marker of a contingent and reversible choice. Hayles's own position sides with neither reification nor disembodied reflexivity but with the body the contest tried to abstract away — figured in the chapter's closing image of Janet Freed, who "on a level beyond words... knows that information is never disembodied, that messages don't flow by themselves." The unresolved residue is exactly the question [[Embodiment vs Information]] keeps alive: whether information ever was, or can be, the thing the homeostatic pole needed it to be.
+Each figure's position survives that decision in altered form. The homeostatic definition of information that [[Claude Shannon]] and [[Norbert Wiener]] installed — information "in terms of what it is" — became the science that prevailed, but it prevailed because it was "more manageable quantitatively," not because it was truer; its stability is the stability of what can be quantified, and Hayles holds it open to the very re-embodiment it bracketed. [[Donald MacKay]]'s reflexive alternative — information "in terms of what it does" — was relegated to "nonscience" through its "chain of associations" with subjectivity, yet it was not refuted so much as deferred: reflexivity was rehabilitated in the second wave by [[Gregory Bateson]] and [[Heinz von Foerster]] precisely by being "insulated against subjectivity," and matured in [[Humberto Maturana|Maturana]]'s [[Autopoiesis|autopoiesis]]. [[Warren McCulloch]]'s case shows that the contest was never cleanly between persons: the same thinker could bind logic to "a setting in the flesh" and then perform the "Platonic backhand" that demotes the flesh, so that the seam between the poles runs *through* a single body of work as much as between camps. The poles are therefore not symmetric opposites that cancel; one displaces the other in sequence, and each survives the other's ascendancy as a *skeuomorph* — homeostasis "performed the work of a gesture or an allusion used to authenticate new elements in the emerging constellation of reflexivity."
+
+The tension is best held *open*, as the marker of a contingent and reversible choice. Hayles's own position sides with neither reification nor disembodied reflexivity but with the body the contest tried to abstract away — figured in the chapter's closing image of Janet Freed, who "on a level beyond words... knows that information is never disembodied, that messages don't flow by themselves." Read against the present, even [[Byung-Chul Han]]'s much later treatment of accumulating information echoes the unsettled residue: the homeostatic reification of information as a transportable thing keeps recurring, and with it the reflexive question it suppressed. The unresolved residue is exactly the question [[Embodiment vs Information]] keeps alive: whether information ever was, or can be, the thing the homeostatic pole needed it to be.
 
 ## Sources
 

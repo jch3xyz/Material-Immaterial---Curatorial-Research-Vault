@@ -21,16 +21,18 @@ authors:
   - "[[Walter Benjamin]]"
   - "[[Marshall McLuhan]]"
 confidence: high
-last_updated: 2026-06-03
+last_updated: 2026-06-09
 ---
 
 # Exhibition Value
 
 ## General Orientation
 
-This note holds two distinct but resonant senses of the term, separated by some thirty years. The primary sense is **[[Byung-Chul Han]]'s** (after [[Walter Benjamin]]): exhibition value is a *value form* — the value a thing accrues solely through the attention its display generates, a third term beyond the Marxian use/exchange pair, which in the Society of Transparency liquidates [[Cult Value]] and tips into [[Pornography (Han)]]. Han names an economic-aesthetic logic and gives it a concept.
+Exhibition value names the value a thing accrues solely through the attention its display generates. The corpus holds two registers of the term — a fully theorized *value-form* and an earlier *medial mechanism* that describes the same logic without naming it.
 
-The second sense is a **precursor diagnosis** in **[[Marshall McLuhan]]** (*Understanding Media*, 1964): not the named value-form but the underlying *mechanism* of the self-as-display. McLuhan describes how the photograph, by mass-producing and multiplying the human image, turns persons into purchasable merchandise — the world remade as a "Brothel-without-Walls." McLuhan predates Han and does not theorize "exhibition value" as such; the connection below is interpretive synthesis, reading McLuhan's photographic logic as an early description of the display-economy Han would later formalize.
+The theorized register is **[[Byung-Chul Han]]'s** (after **Walter Benjamin**, from whom Han takes the cult-value/exhibition-value distinction and radicalizes it). For Han, exhibition value is a third term beyond the Marxian use/exchange pair — value that "exists thanks only to the attention it produces" — and in the [[Transparency|Society of Transparency]] it does not merely coexist with [[Cult Value]] but liquidates it: "things become commodities; they must be displayed in order to be; cult value disappears in favor of exhibition value." Han turns this economic-aesthetic logic into a concept that anchors his theory of [[Exhibition Value|Attention Capital]] and slides, at its limit, into [[Pornography (Han)]]: "The face loaded with exhibition value to the point of bursting is pornographic."
+
+The medial register is **[[Marshall McLuhan]]'s** (*Understanding Media*, 1964). McLuhan does not use the term, but his account of the photograph describes the underlying *mechanism* of the self-as-display: the camera "tends to turn people into things" and "extends and multiplies the human image to the proportions of mass-produced merchandise," remaking the world as a "Brothel-without-Walls." Where Han locates the cause in political economy and the metaphysics of [[Positivity]], McLuhan locates it in the medium itself. Reading McLuhan's photographic logic as an early description of the display-economy Han later formalizes is `Interpretive synthesis` — neither makes the link explicit, and McLuhan never theorizes "exhibition value" as such — but the two converge sharply on the same passage from singular existence to displayed, purchasable merchandise. Each register is developed in its section below.
 
 ## Brief Definition
 
@@ -54,11 +56,8 @@ The convergence is sharpest around the **self-as-display**. McLuhan observes tha
 
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — exhibition value is the form of value proper to the [[Transparency|Society of Transparency]]: attention-generated, irreducible to use or exchange, and pornographic in tendency. It displaces [[Cult Value]] entirely and underwrites [[Operation Schönheit]] — the compulsion to be beautiful, fit, displayable.
-- **[[Walter Benjamin]]** — original source of the cult value / exhibition value distinction. For Benjamin the two stand in tension; cult value finds its "last refuge" in the human countenance and in portrait photography. Han reads Benjamin as describing a *threshold* that the digital age has now crossed.
-- **[[Marshall McLuhan]]** — Interpretive synthesis. Does not name "exhibition value," but his 1964 account of the photograph as turning people into things and multiplying "the human image to the proportions of mass-produced merchandise" — the world as a "Brothel-without-Walls" — is a precursor diagnosis of the self-as-display logic Han later theorizes. McLuhan locates the cause in the medium (the camera, mass reproduction); Han in political economy and the metaphysics of [[Positivity]]. See [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]].
-- **[[Giorgio Agamben]]** — Speculative connection. Agamben celebrates a "pure exhibition value" that, by emptying the face of expression, could open a new erotic communication. Han explicitly opposes this reading: for Han, Agamben mistakes the pornographic for the profane. See [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]].
-- **[[Guy Debord]]** — Speculative connection. Han ends the pornography chapter with "The society of pornography is a society of the spectacle," suggesting an unstated rhyme between exhibition value and the spectacle's logic of separated, mediated visibility. The link is not theorized in *The Transparency Society* itself.
+- **[[Byung-Chul Han]]** — exhibition value is the form of value proper to the [[Transparency|Society of Transparency]]: attention-generated, irreducible to use or exchange ("It exists thanks only to the attention it produces"), and pornographic in tendency. It displaces [[Cult Value]] entirely ("cult value disappears in favor of exhibition value") and underwrites [[Operation Schönheit]] — the compulsion to be beautiful, fit, displayable. See [[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]] and [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]].
+- **[[Marshall McLuhan]]** — `Interpretive synthesis.` Does not name "exhibition value," but his 1964 account of the photograph as turning people into things and multiplying "the human image to the proportions of mass-produced merchandise" — the world as a "Brothel-without-Walls" — is a precursor diagnosis of the self-as-display logic Han later theorizes. McLuhan locates the cause in the medium (the camera, mass reproduction); Han in political economy and the metaphysics of [[Positivity]]. See [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]].
 
 ## Related Concepts
 

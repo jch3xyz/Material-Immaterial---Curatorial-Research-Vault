@@ -24,7 +24,7 @@ authors:
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-06-09
 ---
 
 # The Three Waves of Cybernetics
@@ -47,9 +47,10 @@ Crucially, Hayles insists the waves do not supersede one another by clean break.
 
 ## Authors and Variants
 
-- **[[N. Katherine Hayles]]** — author of the periodization; treats the three waves as a seriated history (homeostasis → reflexivity → virtuality/emergence) whose purpose is to show "the complex interplays between embodied forms of subjectivity and arguments for disembodiment throughout the cybernetic tradition," and to make visible how much "had to be erased to arrive at such abstractions as bodiless information."
-- **[[Norbert Wiener]]** — the figure of the first wave; coined "cybernetics" and presided over the Macy synthesis, yet "did not intend to dismantle the liberal humanist subject."
-- **[[Humberto Maturana]]** and **[[Francisco Varela]]** — authors of the second-wave epistemology of autopoiesis; Varela then "bridges the transition between the second and third waves," carrying autopoiesis toward enaction, embodiment, and the self-evolving systems of artificial life.
+- **[[N. Katherine Hayles]]** — author of the periodization; treats the three waves as a [[Seriation|seriated]] history (homeostasis → reflexivity → virtuality/emergence) whose purpose is to show "the complex interplays between embodied forms of subjectivity and arguments for disembodiment throughout the cybernetic tradition," and to make visible how much "had to be erased to arrive at such abstractions as bodiless information."
+- **[[Norbert Wiener]]** — the figure of the first wave; coined "cybernetics" and presided over the Macy synthesis that fixed [[Homeostasis|homeostasis]] as its organizing concept, yet "did not intend to dismantle the liberal humanist subject."
+- **[[Humberto Maturana]]** — co-author of the second-wave epistemology of [[Autopoiesis|autopoiesis]], the theory that "turns the cybernetic paradigm inside out" by treating the system as informationally closed, so "no information crosses the boundary separating the system from its environment." His circular processes of self-production give the second wave its defining figure—the circle, against which Hayles sets the third wave's spiral.
+- **[[Francisco Varela]]** — co-author of autopoiesis whose late turn toward self-evolving dynamics carries the second wave's epistemology toward enaction, embodiment, and the [[Artificial Life|artificial life]] of the third; in this turn "autopoietic theory begins to look less like the homeostasis of the first wave and more like the self-evolving programs" of third-wave cybernetics, making him the seriated hinge between the second and third waves.
 
 ## Related Concepts
 
