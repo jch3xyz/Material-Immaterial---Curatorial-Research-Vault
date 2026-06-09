@@ -320,6 +320,94 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Trance and Automatism]] — Ascott: altered states and automatic process as routes to the technoetic and the connective
 - [[Triangulation (Ascott)]] — Ascott: the three-way relation (e.g. artist–system–participant) that structures telematic meaning
 - [[Visionary Pragmatism]] — Ascott: the pairing of spiritual/visionary ambition with practical, technological realization
+- [[Surveillance Capitalism]] — Zuboff's master concept: the rogue economic logic that claims human experience as free raw material for behavioral data
+- [[Instrumentarian Power]] — Zuboff: the unprecedented species of power that knows and shapes behavior to others' ends; distinct from totalitarianism
+- [[Big Other]] — Zuboff: the ubiquitous sensate computational architecture that renders, monitors, and modifies behavior; the apparatus of instrumentarian power
+- [[Behavioral Surplus]] — Zuboff: the surplus behavioral data beyond service improvement, the foundational discovery of surveillance capitalism
+- [[Prediction Products]] — Zuboff: the manufactured forecasts of human behavior fabricated from behavioral surplus
+- [[Behavioral Futures Markets]] — Zuboff: the new markets that trade in predictions of human behavior
+- [[The Means of Behavioral Modification]] — Zuboff: Big Other repurposed from knowing behavior to actuating it; the instruments that tune, herd, and condition
+- [[The Division of Learning in Society]] — Zuboff: the axial principle of social order succeeding the division of labor; who knows, who decides, who decides who decides
+- [[The Right to the Future Tense]] — Zuboff: the elemental right to act free of others' will; the will to will that surveillance capitalism annexes
+- [[The Right to Sanctuary]] — Zuboff: the right to inviolable space that Big Other destroys
+- [[The Hive]] — Zuboff: the confluent, totally connected human collective instrumentarianism engineers
+- [[A Utopia of Certainty]] — Zuboff: instrumentarianism's guaranteed-outcomes ideal, the replacement of society by computation
+- [[The Coup from Above]] — Zuboff: surveillance capitalism as an overthrow of popular sovereignty, not of the state
+- [[The Unprecedented]] — Zuboff: the new that eludes recognition because existing categories make it invisible
+- [[Inevitabilism]] — Zuboff: the ideology that technological development is autonomous and unstoppable; an ideological fraud
+- [[Information Civilization]] — Zuboff: the emerging civilization whose character surveillance capitalism is capturing
+- [[The Reality Business]] — Zuboff: the extension of rendition from the online world to the real world
+- [[Psychic Numbing]] — Zuboff: the habituation that lets the unprecedented pass as inevitable
+- [[Second Modernity]] — Zuboff: the late-modern condition of individualized lives and thwarted needs surveillance capitalism exploits
+- [[Individualization]] — Zuboff: the second-modern social fact of the self-determining individual (distinct from the ideology of individualism)
+- [[The Collision]] — Zuboff: the clash between second-modern needs and surveillance capitalism's antidemocratic logic
+- [[Conditions of Existence]] — Zuboff: the historical conditions, not a drive to produce more, that summon a form of capitalism
+- [[The Apple Inversion]] — Zuboff: the promise of an advocacy-oriented digital capitalism that surveillance capitalism betrayed
+- [[Neoliberalism]] — Zuboff: the ideological habitat in which surveillance capitalism could flourish
+- [[The Double Movement]] — Zuboff via Polanyi: the countervailing social protection that must cook raw capitalism
+- [[The Shareholder Value Movement]] — Zuboff: the doctrine that licensed the antisocial turn of late capitalism
+- [[Economic Mutation]] — Zuboff: surveillance capitalism as a mutation of capitalism, not its essence
+- [[The Right to Be Forgotten]] — Zuboff: the European decision that asserted decision rights against dispossession
+- [[Contracts of Adhesion]] — Zuboff: the take-it-or-leave-it terms-of-service that manufacture coerced consent
+- [[The Extraction Imperative]] — Zuboff: the economic compulsion to capture ever more behavioral surplus at scale
+- [[Machine Intelligence]] — Zuboff: the means of production of surveillance capitalism, reaching quality only as it approximates totality
+- [[The Behavioral Value Reinvestment Cycle]] — Zuboff: the original benign cycle in which data improved the service for the user
+- [[Decision Rights]] — Zuboff: the rights over one's own life and future that surveillance capitalism usurps
+- [[The Hiding Strategy]] — Zuboff: the structural secrecy that conceals surveillance operations from their subjects
+- [[Digital Dispossession]] — Zuboff: the seizure of human experience as raw material; the four-stage dispossession cycle
+- [[Surveillance Exceptionalism]] — Zuboff: the post-9/11 suspension of privacy concern that gave surveillance capitalism cover to grow
+- [[Fortifications]] — Zuboff: the political, cultural, and rhetorical defenses that protected the new logic from scrutiny
+- [[Free Speech Fundamentalism]] — Zuboff: the doctrine (Section 230) that shielded surveillance capitalists from accountability
+- [[Self-Regulation]] — Zuboff: the industry's preferred non-governance that left dispossession unconstrained
+- [[The Dispossession Cycle]] — Zuboff: the predictable four-stage sequence (incursion, habituation, adaptation, redirection) that normalizes the unthinkable
+- [[Cornering]] — Zuboff: the kidnap-corner-compete pattern by which surveillance supply is locked in
+- [[Surveillance as a Service]] — Zuboff: the spread of the surveillance model as a sellable capability
+- [[The Two Texts]] — Zuboff: the public-facing text we author and the shadow text about us but not for us
+- [[Conquest by Declaration]] — Zuboff: the founding move that fabricates legitimacy by simply asserting it, like the Requirimiento
+- [[The New Priesthood]] — Zuboff: the data scientists and owners who monopolize the new means of knowledge
+- [[Asymmetries of Knowledge and Power]] — Zuboff: the radical, unprecedented gap between what they know about us and what we can know
+- [[The Prediction Imperative]] — Zuboff: the compulsion to improve predictions, driving toward totality and actuation
+- [[Economies of Scope]] — Zuboff: extraction widening (variety) and deepening (intimacy) into the real world and the self
+- [[Economies of Action]] — Zuboff: the move from predicting behavior to intervening in and actuating it
+- [[The Uncontract]] — Zuboff: the automated, guaranteed execution that voids the human reciprocities of the contract
+- [[Rendition]] — Zuboff: the operations that translate experience into behavioral data; there is no surveillance capitalism without it
+- [[The Dictatorship of No Alternatives]] — Zuboff: the foreclosure of exit and choice that presents surveillance capitalism as the only option
+- [[Databases of Ruin]] — Zuboff: the comprehensive dossiers whose exposure can destroy a life
+- [[Smart as a Euphemism for Rendition]] — Zuboff: 'smart' devices as instruments that render experience into data
+- [[The One Voice]] — Zuboff: the single, ubiquitous, unanswerable apparatus addressing the hive
+- [[Affective Computing]] — Zuboff: the rendition of emotion; the deepest reach of extraction into the self
+- [[Tuning, Herding, and Conditioning]] — Zuboff: the three modes by which economies of action actuate behavior
+- [[Telestimulation]] — Zuboff: remote, automated triggering of behavior at scale
+- [[The Will to Will]] — Zuboff: the autonomous self-authorship that the right to the future tense protects
+- [[The Counter-Declaration and the Synthetic Declaration]] — Zuboff: defensive hiding (counter-declaration) vs the affirmative synthetic declaration that can transform the field
+- [[The Ideology of Human Frailty]] — Zuboff: Pentland's premise that human judgment must be replaced by computation
+- [[Radical Indifference]] — Zuboff: the observational stance that treats people as objects, indifferent to meaning; the corruption of public knowledge
+- [[The Other-One]] — Zuboff: the reduction of the person to a behaving object viewed from radical indifference
+- [[Radical Behaviorism]] — Zuboff: Skinner's behavioral engineering completed by big-data instruments
+- [[Freedom Is Ignorance]] — Zuboff via Skinner: the doctrine that freedom is merely the not-yet-known
+- [[Guaranteed Outcomes]] — Zuboff: the certainty instrumentarianism promises its customers by actuating behavior
+- [[Applied Utopistics]] — Zuboff: utopias realized in practice without an explicit, contestable theory
+- [[Equivalence Without Equality]] — Zuboff: the hive's leveling sameness that imposes confluence without equal standing
+- [[Anticipatory Conformity]] — Zuboff: the self-censoring adaptation produced under instrumentarian observation
+- [[The Horseless Carriage]] — Zuboff: the misreading of the unprecedented through obsolete categories
+- [[Social Physics]] — Zuboff: Pentland's program to govern society through behavioral data and computation
+- [[The God View]] — Zuboff: the total, panoptic vantage of the surveillance apparatus
+- [[Reality Mining]] — Zuboff: the extraction of behavioral data from the patterns of everyday life
+- [[The Death of Individuality]] — Zuboff: the dissolution of the autonomous self in the engineered hive
+- [[The Sociometric Badge]] — Zuboff: Pentland's wearable sensor; the instrument of total behavioral measurement
+- [[Homing to the Herd]] — Zuboff: the pull of social pressure toward the confluent collective
+- [[The Machine Zone]] — Zuboff: the engineered state of compulsive, self-forgetting absorption
+- [[Social Comparison]] — Zuboff: the leveraged social-psychological mechanism that herds behavior
+- [[No Exit]] — Zuboff: the foreclosure of escape from the apparatus; the dictatorship of no alternatives in lived form
+- [[The Backstage]] — Zuboff via Goffman: the vanishing private region the self needs to develop
+- [[Glass Life]] — Zuboff: the totally exposed existence that the destruction of sanctuary produces
+- [[The Art and Science of Hiding]] — Zuboff: the counter-practices of evasion against ubiquitous rendition
+- [[Hyperscale]] — Zuboff: the planetary scale of the surveillance apparatus and its operations
+- [[Organic Reciprocities]] — Zuboff: the mutual obligations between firm and people that surveillance capitalism severs
+- [[The Seventh Extinction]] — Zuboff: the threatened extinction of the will to will and the autonomous self
+- [[Be the Friction]] — Zuboff: the closing imperative of resistance against frictionless dispossession
+- [[The Fourth Fictional Commodity]] — Zuboff via Polanyi: human experience claimed as a commodity, after land, labor, and money
+- [[The Syndrome of the Horseless Carriage]] — Zuboff: the systematic failure to perceive the unprecedented as unprecedented
 
 ## Thematic Clusters
 
@@ -746,3 +834,56 @@ Ascott's arc from 1960s behaviourist/cybernetic art through telematics and netwo
 - [[The Planetary Collegium]] — the networked institution of research that must succeed the university
 - [[Formalist Modernism (Ascott)]] — the Greenbergian object/appearance paradigm telematic art supersedes
 - [[Postmodernist Art (Ascott)]] — the poststructuralist, networked art telematic technology makes its correlative
+
+### Surveillance capitalism / instrumentarian power (Zuboff)
+
+Zuboff's anatomy of the rogue economic logic that claims human experience as free raw material: the discovery of behavioral surplus, the manufacture of prediction products for behavioral futures markets, the rise of Big Other and instrumentarian power, and the threat to the right to the future tense. The vault's keystone surveillance source, realizing the long-deferred Surveillance / Quantified Self stubs.
+
+- [[Surveillance Capitalism]] — the master concept: the economic logic that claims human experience as free raw material
+- [[Behavioral Surplus]] — the foundational discovery: data beyond service improvement, claimed as surplus
+- [[Prediction Products]] — forecasts of human behavior fabricated from behavioral surplus
+- [[Behavioral Futures Markets]] — the markets that trade in predictions of human behavior
+- [[The Extraction Imperative]] — the compulsion to capture ever more behavioral surplus at scale
+- [[The Prediction Imperative]] — the compulsion toward totality and actuation that improves predictions
+- [[Economies of Scope]] — extraction widening (variety) and deepening (intimacy) into the real world and the self
+- [[Economies of Action]] — the move from predicting behavior to intervening in and actuating it
+- [[Rendition]] — the operations that translate experience into behavioral data; there is no surveillance capitalism without it
+- [[The Reality Business]] — the extension of rendition from the online world to the real world
+- [[Machine Intelligence]] — the means of production, reaching quality only as it approximates totality
+- [[The Two Texts]] — the public text we author and the shadow text about us but not for us
+- [[The Division of Learning in Society]] — the axial principle of social order succeeding the division of labor
+- [[Asymmetries of Knowledge and Power]] — the radical gap between what they know about us and what we can know
+- [[Instrumentarian Power]] — the unprecedented species of power that knows and shapes behavior to others' ends
+- [[Big Other]] — the ubiquitous sensate computational architecture of instrumentarian power
+- [[The Means of Behavioral Modification]] — Big Other repurposed from knowing behavior to actuating it
+- [[Tuning, Herding, and Conditioning]] — the three modes by which economies of action actuate behavior
+- [[Telestimulation]] — remote, automated triggering of behavior at scale
+- [[Radical Behaviorism]] — Skinner's behavioral engineering completed by big-data instruments
+- [[Social Physics]] — Pentland's program to govern society through behavioral data and computation
+- [[The Hive]] — the confluent, totally connected human collective instrumentarianism engineers
+- [[A Utopia of Certainty]] — the guaranteed-outcomes ideal, the replacement of society by computation
+- [[Guaranteed Outcomes]] — the certainty instrumentarianism promises by actuating behavior
+- [[The Coup from Above]] — surveillance capitalism as an overthrow of popular sovereignty
+- [[The Right to the Future Tense]] — the elemental right to act free of others' will, annexed by surveillance capitalism
+- [[The Right to Sanctuary]] — the right to inviolable space that Big Other destroys
+- [[Glass Life]] — the totally exposed existence the destruction of sanctuary produces
+- [[Decision Rights]] — the rights over one's own life and future surveillance capitalism usurps
+- [[The Will to Will]] — the autonomous self-authorship the right to the future tense protects
+- [[The Seventh Extinction]] — the threatened extinction of the will to will and the autonomous self
+- [[The Unprecedented]] — the new that eludes recognition because existing categories make it invisible
+- [[The Horseless Carriage]] — the misreading of the unprecedented through obsolete categories
+- [[Inevitabilism]] — the ideology that technological development is autonomous and unstoppable; an ideological fraud
+- [[The Dispossession Cycle]] — the four-stage sequence that normalizes the unthinkable as inevitable
+- [[Digital Dispossession]] — the seizure of human experience as raw material
+- [[Cornering]] — the kidnap-corner-compete pattern by which surveillance supply is locked in
+- [[Conquest by Declaration]] — the founding move that fabricates legitimacy by simply asserting it
+- [[Radical Indifference]] — the observational stance that treats people as objects, indifferent to meaning
+- [[The Counter-Declaration and the Synthetic Declaration]] — defensive hiding vs the synthetic declaration that can transform the field
+- [[Be the Friction]] — the closing imperative of resistance against frictionless dispossession
+- [[The Art and Science of Hiding]] — the counter-practices of evasion against ubiquitous rendition
+- [[The Fourth Fictional Commodity]] — human experience claimed as a commodity, after land, labor, and money (via Polanyi)
+- [[Conditions of Existence]] — the historical conditions, not a drive to produce more, that summon a form of capitalism
+- [[The Double Movement]] — the countervailing social protection that must cook raw capitalism (via Polanyi)
+- [[Neoliberalism]] — the ideological habitat in which surveillance capitalism could flourish
+- [[Second Modernity]] — the late-modern condition of individualized lives surveillance capitalism exploits
+- [[The Collision]] — the clash between second-modern needs and surveillance capitalism's antidemocratic logic

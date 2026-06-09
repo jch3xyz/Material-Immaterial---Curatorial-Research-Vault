@@ -587,3 +587,80 @@ A cross-book pathway pairing the vault's two great theorists of cybernetic/syste
 - [[The Post-Biological Body]] — the body transformed beyond its biological limits
 - [[Roy Ascott and Jack Burnham]] — the keystone art-kin bridge between the two cybernetic-art theorists
 - [[Material vs Immaterial]] — the vault's master axis, now spanning nine author sections
+
+## Pathways through *The Age of Surveillance Capitalism* (Shoshana Zuboff)
+
+### Pathway: The discovery and the mechanics of surveillance capitalism
+
+Follows the book's foundational arc, from the discovery of behavioral surplus through prediction products and behavioral futures markets to the extraction and prediction imperatives that drive the logic toward totality. Useful for thinking the economic logic that claims human experience as free raw material.
+
+- [[Surveillance Capitalism]] — the master concept: the economic logic that claims human experience as free raw material
+- [[Behavioral Surplus]] — the foundational discovery: data beyond service improvement
+- [[The Behavioral Value Reinvestment Cycle]] — the original benign cycle the discovery broke
+- [[Prediction Products]] — forecasts of human behavior fabricated from behavioral surplus
+- [[Behavioral Futures Markets]] — the markets that trade in predictions of human behavior
+- [[The Extraction Imperative]] — the compulsion to capture ever more behavioral surplus
+- [[Surveillance capitalism is a logic not a technology]] — the foundational distinction
+- [[We are not the product but the raw material of surveillance capitalism]] — human experience as the free raw material
+
+### Pathway: Big Other and instrumentarian power
+
+Traces the book's second great theme: the rise of Big Other and instrumentarian power, distinct from totalitarianism, completing Skinner's radical behaviorism with big-data instruments to engineer the hive and a utopia of certainty. Useful for thinking a new species of power and the death of individuality.
+
+- [[Big Other]] — the ubiquitous sensate computational architecture that renders and modifies behavior
+- [[Instrumentarian Power]] — the unprecedented species of power that knows and shapes behavior to others' ends
+- [[Instrumentarianism is a new species of power not a form of totalitarianism]] — the Big Other / Big Brother distinction
+- [[Big Brother vs Big Other]] — the periodizing tension between violent terror and indifferent computation
+- [[Radical Behaviorism]] — Skinner's behavioral engineering completed by big-data instruments
+- [[Social Physics]] — Pentland's program to govern society through behavioral data
+- [[Economies of Action]] — the move from predicting behavior to actuating it
+- [[Tuning, Herding, and Conditioning]] — the three modes of actuation
+- [[The Hive]] — the confluent, totally connected collective instrumentarianism engineers
+- [[A Utopia of Certainty]] — the guaranteed-outcomes ideal, computation replacing society
+- [[The goal is no longer to know our behavior but to automate us]] — the shift from prediction to actuation
+
+### Pathway: Naming the unprecedented and the right to the future tense
+
+Charts the book's political and ethical stakes: why the unprecedented eludes contest, why dispossession is structural, and why the right to the future tense and the right to sanctuary are the elemental rights at risk. Useful for thinking resistance, recognition, and the autonomous self.
+
+- [[The Unprecedented]] — the new that eludes recognition because existing categories make it invisible
+- [[The Horseless Carriage]] — the misreading of the unprecedented through obsolete categories
+- [[Inevitabilism]] — the ideological fraud of autonomous technological destiny
+- [[The Dispossession Cycle]] — the four-stage sequence that normalizes the unthinkable as inevitable
+- [[The Right to the Future Tense]] — the elemental right to act free of others' will
+- [[The Right to Sanctuary]] — the right to inviolable space that Big Other destroys
+- [[Glass Life]] — the totally exposed existence the destruction of sanctuary produces
+- [[There is no freedom without uncertainty]] — the will to will requires the open future
+- [[Taming surveillance capitalism must begin with careful naming]] — naming as the first act of resistance
+- [[Be the Friction]] — the closing imperative of resistance
+- [[Inevitability is an illusion and resistance is possible]] — the closing affirmation
+
+### Pathway: The surveillance arc across the vault (Han → Harari → Zuboff)
+
+A cross-book pathway following the vault's surveillance thread from Han's diagnosis of the friendly, voluntary digital panopticon, through Harari's Dataism and the recasting of the human as a data source, to Zuboff's full anatomy of surveillance capitalism and Big Other — with Kurzweil and Ascott as the embracing counterpoint that affirms the merger the others diagnose. Useful for reading surveillance, prediction, and the future of the self across philosophy, history, and political economy.
+
+- [[Digital Panopticon]] — Han's friendly, internal panopticon running on voluntary self-exposure
+- [[Friendly Big Brother]] — Han's benevolent-faced watcher who is loved, not feared
+- [[Big Data]] — Han's aperspectival instrument that pre-empts free will
+- [[Dataism]] — Harari's data-religion that would retire humanity
+- [[Organisms Are Algorithms]] — Harari's keystone thesis recasting the human as a data source
+- [[Surveillance Capitalism]] — Zuboff's economic logic that claims human experience as raw material
+- [[Big Other]] — Zuboff's ubiquitous computational architecture, the successor to the panopticon
+- [[Instrumentarian Power]] — Zuboff's new species of power that knows and shapes behavior
+- [[Big Brother vs Big Other]] — the tension that distinguishes Zuboff's apparatus from totalitarian terror
+- [[The Singularity]] — Kurzweil's embraced merger of human and machine intelligence; the affirmative counterpoint
+- [[Network Consciousness]] — Ascott's affirmative vision of the planetary networked mind
+- [[Shoshana Zuboff and Byung-Chul Han]] — the keystone surveillance kin-pairing
+- [[Shoshana Zuboff and Yuval Noah Harari]] — rendition beside Dataism
+- [[Shoshana Zuboff and Ray Kurzweil]] — the critical-vs-affirmative pole of the data future
+
+### Pathway: Material/Immaterial across the vault (Zuboff)
+
+A cross-book pathway placing Zuboff's rendition of lived experience into behavioral data, and human experience claimed as the fourth fictional commodity, on the vault's central Material/Immaterial axis — the tenth and final author section. Useful for reading the immaterial as the extracted, commodified residue of material life.
+
+- [[Material vs Immaterial]] — the vault's master axis, now spanning ten author sections
+- [[Rendition]] — the operations that translate lived experience into behavioral data
+- [[The Fourth Fictional Commodity]] — human experience claimed as a commodity, after land, labor, and money
+- [[Behavioral Surplus]] — the immaterial surplus extracted from material life
+- [[The Body as Data]] — the body recoded as informational pattern; the thread Zuboff's rendition extends
+- [[Shoshana Zuboff and Byung-Chul Han]] — Big Other and rendition beside the digital panopticon

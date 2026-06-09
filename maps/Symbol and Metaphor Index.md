@@ -111,8 +111,33 @@ All symbol and metaphor notes.
 - [[The Second Body of a Million Molecular Points of Light]] — Ascott: the distributed, luminous post-biological body of telepresence
 - [[Bye-Bye Baudrillard]] — Ascott: the dismissal of postmodern simulacral pessimism in favour of constructive participation
 - [[Hyperculture as Horticulture]] — Ascott: networked hyperculture figured as a cultivated, growing garden
-
-## Symbols
+- [[The Puppet Master Not the Puppet]] — Zuboff: surveillance capitalism is the puppet master pulling the strings, not the puppet (the technology); the logic, not the tool
+- [[The Horseless Carriage]] — Zuboff: the new perceived through obsolete categories; the syndrome of failing to see the unprecedented as unprecedented
+- [[The Vampire That Feeds on Experience]] — Zuboff: surveillance capitalism as a parasite living off the human experience it renders into data
+- [[Capitalism Should Not Be Eaten Raw]] — Zuboff via Polanyi: raw capitalism as antisocial, to be cooked by democratic institutions
+- [[The One-Way Mirror]] — Zuboff: the asymmetry of knowledge and power; they see us, we cannot see them
+- [[The Ultimate Tapeworm]] — Zuboff: surveillance capitalism as a parasite embedded in the host of human life
+- [[The Moat Around the Castle]] — Zuboff: the fortifications of secrecy, rhetoric, and politics that protect the new logic from scrutiny
+- [[We Are the Native Peoples Now]] — Zuboff: conquest by declaration figured as the dispossession of indigenous peoples; we are the dispossessed
+- [[The Bug Was a Feature]] — Zuboff: the pattern of privacy violations as structural design, not accident
+- [[The Copilot for Life Itself]] — Zuboff: the apparatus reframed as an indispensable guide to living, masking dispossession as service
+- [[A Thing That Has Us]] — Zuboff: the inversion of mastery; we do not have the apparatus, it has us
+- [[Now We Are the Animals]] — Zuboff: the animal-telemetry template turned on human beings; we are the herded, tracked creatures
+- [[The Net and the Submarines]] — Zuboff: the surveillance net cast over a world of behaving objects to be captured
+- [[All That Is Moist and Alive Must Hand Over Its Facts]] — Zuboff: the rendition imperative reaching into every living thing
+- [[Render Unto Caesar]] — Zuboff: rendition as the surrender of experience to the surveillance sovereign
+- [[Asking a Giraffe to Shorten Its Neck]] — Zuboff: expecting surveillance capitalists to self-regulate against their own extraction imperative
+- [[Iron Filings in the Presence of a Magnet]] — Zuboff: benign technology aligning to surveillance capitalism's force field
+- [[Make Them Dance]] — Zuboff: economies of action figured as choreographing behavior toward guaranteed outcomes
+- [[A Game About a Game]] — Zuboff: Pokemon Go as a real-world behavioral futures market disguised as play
+- [[The Invasive Species That Creates Its Own Food Supply]] — Zuboff: surveillance capitalism manufacturing the behavioral surplus it feeds on
+- [[The Inchworm in the Future Tense]] — Zuboff: the apparatus creeping forward to colonize the future and the will to will
+- [[The Abandoned Carcass]] — Zuboff: the depleted self left behind once its behavioral surplus has been extracted
+- [[The Machine Hive Becomes the Human Hive]] — Zuboff: the confluence of machines as the template imposed on the human collective
+- [[The Sorcerer's Apprentice]] — Zuboff: the apparatus loosed beyond its makers' control
+- [[The Hand and the Glove]] — Zuboff: natural psychological need (the hand) engineered into compulsion by the apparatus (the glove)
+- [[The Technological Trojan Horse]] — Zuboff: benign devices that smuggle the rendition apparatus into the home and the self
+- [[Inevitability as an Existential Narcotic]] — Zuboff: inevitabilism as a sedative that numbs resistance to the unprecedented
 
 - [[The Like Button]] — emblem of consensus-positivity; the capitalism of Like, Like as the digital Amen (Psychopolitics)
 - [[Friendly Big Brother]] — the benevolent-faced watcher who is loved, not feared; the digital panopticon's affable sovereign (Han, Psychopolitics)
@@ -150,3 +175,16 @@ All symbol and metaphor notes.
 - [[The Large Glass]] — Ascott: Duchamp's Bride Stripped Bare reread as a precursor to telematic, observer-completed art (Ascott)
 - [[The Scanning Tunnelling Microscope]] — Ascott: the instrument that constructs what it images at the molecular scale; the prosthesis of vision (Ascott)
 - [[Ayahuasca, the Vine of the Soul]] — Ascott: the shamanic plant technology of consciousness, parallel to the digital web (Ascott)
+- [[The Aware Home and the Nest Thermostat]] — Zuboff: the book's opening case; the smart home that inverts into a node of rendition and dispossession (Zuboff)
+- [[Science Finds Industry Applies Man Conforms]] — Zuboff: the 1933 Century of Progress motto as the creed of behavioral conditioning and instrumentarian order (Zuboff)
+- [[August 9, 2011]] — Zuboff: the date that crystallizes the rise of surveillance capitalism and the foreclosure of alternatives (Zuboff)
+- [[The Montes Bakery]] — Zuboff: the Spanish bakery's right-to-be-forgotten case as the assertion of decision rights against dispossession (Zuboff)
+- [[The 2003 Targeted Advertising Patent]] — Zuboff: Google's patent as the documentary origin of the behavioral-surplus logic (Zuboff)
+- [[Google Street View]] — Zuboff: the dispossession cycle in action; incursion into public and private space normalized as inevitable (Zuboff)
+- [[The Requirimiento]] — Zuboff: the Spanish conquistadors' declaration read aloud to the uncomprehending; the template for conquest by declaration (Zuboff)
+- [[The Remotely Disabled Car]] — Zuboff: the uncontract in action; the car that will not start, automated execution voiding human reciprocity (Zuboff)
+- [[Toys That Spy]] — Zuboff: the rendition of childhood; smart toys as instruments of extraction in the home (Zuboff)
+- [[The Opened Berlin Wall]] — Zuboff: the fall of one form of total control as the foil to the rise of a new, frictionless one (Zuboff)
+- [[Walden Two and 1984]] — Zuboff: Skinner's behaviorist utopia beside Orwell's dystopia; the two poles framing instrumentarian power (Zuboff)
+- [[Todays Selfie Is Tomorrows Biometric Profile]] — Zuboff: the rendition of the face; voluntary self-exposure becoming permanent surveillance data (Zuboff)
+- [[The Bosworth Memo]] — Zuboff: the leaked Facebook memo affirming growth at any cost; the candid internal voice of radical indifference (Zuboff)
