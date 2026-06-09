@@ -608,7 +608,10 @@
     "Nature vs Human Nature",
     "Fusion vs Autonomy",
     "Equivalence vs Equality",
-    "Market vs Democracy"
+    "Market vs Democracy",
+    "Privacy vs Security",
+    "Promise vs Peril",
+    "Relinquishment vs Development"
   ],
   "symbols": [
     "Aaron Swartz, Dataism's First Martyr",
@@ -907,7 +910,10 @@
     "Nature vs Human Nature": " — industrial capitalism's exploitation of nature vs surveillance capitalism's exploitation of human nature (Zuboff)",
     "Fusion vs Autonomy": " — homing to the herd and the death of individuality vs the autonomous self (Zuboff)",
     "Equivalence vs Equality": " — the hive's leveling sameness that imposes confluence without equal standing (Zuboff)",
-    "Market vs Democracy": " — the unaccountable sovereign power of behavioral futures markets vs popular sovereignty (Zuboff)"
+    "Market vs Democracy": " — the unaccountable sovereign power of behavioral futures markets vs popular sovereignty (Zuboff)",
+    "Privacy vs Security": " — Kurzweil's GNR framework makes this tension structurally inescapable rather than merely political. The same distributed-sensor architectures — smart d… (Kurzweil)",
+    "Promise vs Peril": " — This is Kurzweil's master opposition for the second half of *[[The Singularity Is Near]]* — the risk-and-ethics counterweight to a book otherwise devo… (Kurzweil)",
+    "Relinquishment vs Development": " — This is the policy fork forced by [[Promise vs Peril]]: because the GNR technologies (genetics, nanotechnology, robotics) are \"deeply intertwined\" — t… (Kurzweil)"
   },
   "gloss_symbols": {
     "Aaron Swartz, Dataism's First Martyr": " — the open-access activist as the symbol of the freedom-of-information creed (Harari)",
