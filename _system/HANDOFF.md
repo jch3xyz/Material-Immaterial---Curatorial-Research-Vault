@@ -34,20 +34,22 @@ page is the operating manual.
 1. **Pick a book** not yet in the cache. (As of 2026-06-05: Han–Transparency, Hayles–Posthuman,
    Lippard–Six Years, O'Gieblyn–God Human Animal Machine, Han–Psychopolitics, Harari–Homo Deus,
    Kurzweil–The Singularity Is Near, Haraway–A Cyborg Manifesto, McLuhan–Understanding Media,
-   Han–*The Burnout Society*, Burnham–*Beyond Modern Sculpture*, Ascott–*Telematic Embrace* are DONE (12 of 13).
-   1 remains. NOTE: the corpus is now **13 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
+   Han–*The Burnout Society*, Burnham–*Beyond Modern Sculpture*, Ascott–*Telematic Embrace*, Zuboff–*The Age of
+   Surveillance Capitalism* are DONE — **all 13 of 13 ingested; the planned corpus is COMPLETE (0 remain) as of
+   2026-06-08.** NOTE: the corpus is **13 books** (matches `raw/` on disk exactly) — on 2026-06-02 the user
    intentionally removed 11 books from the plan (Acemoglu, Harari–Nexus, Shiner, Turner, Kurzweil–*Age of
    Spiritual Machines*, Marcuse, Norman, Price, Soni & Goodman, Vierkant, Waldrop), and on 2026-06-04 removed
    4 more (Benjamin–*Illuminations*, Debord–*Society of the Spectacle*, Meadows–*Thinking in Systems*,
    Zuboff–*Age of Surveillance Capitalism*) — but on **2026-06-08 the user RE-ADDED Zuboff** (so Benjamin,
    Debord, Meadows stay removed; Zuboff is back); see `source_inventory.md` → Removed from corpus. Do not treat
-   Benjamin/Debord/Meadows as pending ingests. **The 1 remaining: Zuboff** (*The Age of Surveillance Capitalism*,
-   25 files / 19 substantive chapters: "The Definition" + Ch1-18 — a big book; use the chunked big-book
-   workflow `_run_burnham.js`/`_run_ascott.js` as a template; it will realize the surveillance cluster, e.g.
-   `Surveillance`, `Quantified Self`, instrumentarian power / "Big Other", and resonate strongly with
-   `Digital Panopticon` / `Dataism` / `Big Data` and the Han + Harari surveillance arc). Ascott (book 12,
-   2026-06-08) realized the last forward-stub author and EXTENDED the Burnham art stubs `New Media Art` /
-   `Art as Experiential Technology` / `Cyborg Art` / `Systems Esthetics` / `Reciprocal Communication`.)
+   Benjamin/Debord/Meadows as pending ingests — they remain removed from the corpus. **There is NO book left to
+   ingest** unless the user re-expands the corpus (as they did with Zuboff on 2026-06-08). Zuboff (book 13,
+   2026-06-08) realized the surveillance cluster (`Surveillance`, `Quantified Self`, Instrumentarian Power,
+   `Big Other`) and made `Material vs Immaterial` a TEN-author tension; Ascott (book 12) realized the telematic-art
+   cluster and EXTENDED the Burnham art stubs (`New Media Art` is now a three-author note). **With the corpus
+   complete, the natural next phase is Phase 6 synthesis essays** (see the latest `log.md` entry for candidates),
+   or an orphan-generation pass to realize the heaviest remaining forward-stubs (Foucault, Deleuze, Skinner,
+   Arendt now carry many inbound refs).)
    **Repeat-author note:** the workflow's author task and create tasks are now **create-or-extend**
    (they read the target and extend it if it exists), so a second book by an already-ingested author
    (e.g. Han's *Burnout Society*, which extends the existing Byung-Chul Han note) extends the
@@ -99,6 +101,16 @@ page is the operating manual.
    Source entry + frontmatter) landed **30/30 with 0 content loss**. VERIFY the Write didn't truncate: compare
    each repaired file's byte length to its committed `HEAD` version — none should shrink (`git show HEAD:<path>`).
    (`_system/workflows/_run_ascott_fix.js` v2 is the atomic-Write template.)
+   **ZUBOFF REINFORCEMENT (2026-06-08): updates flake even with atomic-Write when run INSIDE the giant generation
+   wave.** The Zuboff workflow baked atomic-Write into the in-workflow update path, yet still only 4/27 genuine
+   cross-book updates landed — the update agents were starved running concurrently with 264 creates + 19 sources
+   in one parallel wave. A SMALL dedicated atomic-Write repair wave (`_run_zuboff_fix.js`, ~25 agents) then landed
+   them cleanly. So: **expect to run a dedicated repair pass for cross-book updates after every big-book ingest**
+   (or, better, split the generation phase so updates run in their own wave after creates). Also: planners may
+   DOUBLE-LIST the book's own concepts as both create_notes and update_notes — harmless (creates handle them) but
+   it inflates the reported `updated` count, so when verifying separate self-notes (target ∈ create_plan) from
+   genuine cross-book updates. And a 4-note "partial" may actually be a COMPLETE merge done via the concept
+   template's native `## Authors and Variants` bullet + a Sources entry — accept that form, don't force a heading.
    **DON'T `git add -A` / `git add .` after an ingest; stage note folders explicitly:**
    `git add books authors sources concepts definitions arguments tensions metaphors symbols references maps overview.md _system/analysis`.
    A blanket add sweeps in unrelated working-tree state (`.obsidian/` UI churn, `.DS_Store`) and, more

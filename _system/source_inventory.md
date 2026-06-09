@@ -8,7 +8,7 @@ last_updated: 2026-06-04
 
 The book corpus for the vault. Each book lives in its own folder under `raw/` and contains one markdown file per chapter or section. File counts include all front matter, contents, chapters, notes, indexes, etc. — not all are substantive for ingest.
 
-> **Corpus size: 13 books** (was 27 → 16 → 12 → 13). On 2026-06-02 the user removed 11 books, on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff), then on **2026-06-08 RE-ADDED Zuboff** (*The Age of Surveillance Capitalism*) to the corpus — see **Removed from corpus** below. The inventory now matches the disk exactly: all 13 books are present in `raw/`. Of the 13, **12 are ingested** and **1 remains (Zuboff)**.
+> **Corpus size: 13 books** (was 27 → 16 → 12 → 13). On 2026-06-02 the user removed 11 books, on 2026-06-04 removed 4 more (Benjamin, Debord, Meadows, Zuboff), then on **2026-06-08 RE-ADDED Zuboff** (*The Age of Surveillance Capitalism*) to the corpus — see **Removed from corpus** below. The inventory now matches the disk exactly: all 13 books are present in `raw/`. **All 13 are ingested — the planned corpus is COMPLETE (0 remain)** as of 2026-06-08.
 
 ## Books in `raw/`
 
@@ -26,9 +26,9 @@ The book corpus for the vault. Each book lives in its own folder under `raw/` an
 | 10  | `Lippard - Six Years`                          | 13    | Lucy Lippard        | ingested |
 | 11  | `McLuhan - Understanding Media`                | 38    | Marshall McLuhan    | ingested |
 | 12  | `OGieblyn - God Human Animal Machine`          | 16    | Meghan O'Gieblyn    | ingested |
-| 13  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | **TODO** |
+| 13  | `Zuboff - The Age of Surveillance Capitalism`  | 25    | Shoshana Zuboff     | ingested |
 
-Total: 13 books, 242 raw markdown files (matches disk). 12 ingested (see `log.md`); 1 remains (Zuboff). Zuboff was re-added 2026-06-08 (25 files: "The Definition" + Ch1-18 substantive = 19 chapters; a big book → use the chunked big-book workflow).
+Total: 13 books, 242 raw markdown files (matches disk). **All 13 ingested (see `log.md`); the planned corpus is COMPLETE.**
 
 ## Removed from corpus
 
@@ -86,7 +86,7 @@ These files typically appear in each book folder and are skipped by analysis unl
 - **Lucy Lippard** — Six Years
 - **Marshall McLuhan** — Understanding Media
 - **Meghan O'Gieblyn** — God Human Animal Machine
-- **Shoshana Zuboff** — The Age of Surveillance Capitalism *(TODO; re-added 2026-06-08)*
+- **Shoshana Zuboff** — The Age of Surveillance Capitalism
 
 ## Prototype Book (Phase 3)
 

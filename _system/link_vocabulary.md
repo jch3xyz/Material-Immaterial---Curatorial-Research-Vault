@@ -529,6 +529,49 @@ Verified alias-preserving rewrites (chunked-planner naming divergence + source-s
 
 ---
 
+## Canonical Note Names — Zuboff *The Age of Surveillance Capitalism* ingest (2026-06-08)
+
+Added by *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (Shoshana Zuboff, 2019) — **the 13th and FINAL book; completes the planned corpus** and realizes the vault's **surveillance research focus**. Book: `The Age of Surveillance Capitalism`. Author: **`Shoshana Zuboff` (new — the corpus's 11th and last author)**. Source summaries: `Zuboff - The Age of Surveillance Capitalism - <NN Chapter>` (19: "The Definition" + Ch1-18). Ingested via the custom big-book chunked workflow (`_system/workflows/_run_zuboff.js`): 19 parallel analyses → 6 sequential chunked planners (Foundations / Advance / Instrumentarian Power — the book's 3-part structure) → single generation + index. 264 interpretive notes + book + author + 19 sources (285 new); 27 genuine cross-book updates (the planner also double-listed 26 of Zuboff's own concepts as "updates" — handled by the create path). The cross-book updates + 2 creates under-persisted in the generation wave even with the atomic-Write update path; a dedicated atomic-Write repair (`_run_zuboff_fix.js`) landed them. See `log.md`.
+
+**New concepts/** (87): Surveillance Capitalism · Behavioral Surplus · Instrumentarian Power · Big Other · Prediction Products · Behavioral Futures Markets · The Means of Behavioral Modification · The Division of Learning in Society · Rendition · The Reality Business · The Right to the Future Tense · The Right to Sanctuary · The Hive · A Utopia of Certainty · The Coup from Above · Radical Indifference · Guaranteed Outcomes · Anticipatory Conformity · Tuning, Herding, and Conditioning · Telestimulation · The Will to Will · The Extraction Imperative · The Prediction Imperative · Economies of Action · Economies of Scope · The Uncontract · Inevitabilism · The Unprecedented · Second Modernity · Digital Dispossession · The Dispossession Cycle · Asymmetries of Knowledge and Power · Radical Behaviorism · Social Physics · Reality Mining · The Machine Zone · Glass Life · The Art and Science of Hiding · Be the Friction · The Other-One · The One Voice · Affective Computing · Machine Intelligence · Surveillance Exceptionalism · The Two Texts · Conquest by Declaration · The Hiding Strategy · The Behavioral Value Reinvestment Cycle · Databases of Ruin · The God View · Homing to the Herd · No Exit · The Fourth Fictional Commodity · The Horseless Carriage · The Syndrome of the Horseless Carriage · … (see `maps/Concept Index.md` for the full list + clustering).
+
+**New definitions/** (31, all `(Zuboff)` or `(X via Zuboff)`): incl. Surveillance Capitalism (Zuboff) *(her 8-part dictionary definition)* · Instrumentarian Power (Zuboff) · Big Other (Zuboff) · Behavioral Surplus (Zuboff) · Rendition (Zuboff). **New arguments/** (67), **metaphors/** (27), **symbols/** (13, incl. The Aware Home · The Nest Thermostat), **tensions/** (27, incl. Knowledge vs Power · Inevitability vs Contingency · The Individual vs The Hive · Market Power vs Popular Sovereignty).
+
+**New references/** (12): `Shoshana Zuboff and {Byung-Chul Han, Yuval Noah Harari, Ray Kurzweil, Meghan O'Gieblyn, Donna Haraway, …}`. The **Zuboff ↔ Han** note is the keystone (Big Other ↔ the digital panopticon; surveillance capitalism ↔ psychopolitics); the **Zuboff ↔ Kurzweil** note is the standout "surveillance embraced vs diagnosed" pairing (Kurzweil celebrates the ubiquitous computing Zuboff indicts).
+
+**Cross-book UPDATES** (27 existing notes gained a `## Shoshana Zuboff (...)` section or an Authors-and-Variants Zuboff bullet — do NOT duplicate): the keystones are `Digital Panopticon` (Big Other), `Big Data` (behavioral surplus), `Dataism` (the data economy) · plus `Society of Control` · `Smart Power` · `Psychopolitics` · `Biopolitics` · `The Body as Data` · `Information` · `The Algorithm as Providence` · `Society as Algorithm` · `Gamification` · `Self-Optimization` · `Capital as Religion` · `Auto-Exploitation` · `Narcosis` · `New Media Art` *(now a THREE-author note — Burnham + Ascott + Zuboff's anti-surveillance art)* · `Art as Experiential Technology` · the tensions `Material vs Immaterial` *(now a **TEN-author** tension)* · `Free Will vs Determinism` · the symbols `Friendly Big Brother` · `The Mole and the Snake` · `The Transparent Customer` · `The Like Button`. **REALIZED the long-committed forward-stubs `Surveillance` and `Quantified Self`** (Zuboff-anchored, open to other authors).
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `B. F. Skinner` *(radical behaviorism — already a stub)* · `Hannah Arendt` · `Émile Durkheim` · `Hal Varian` · `Alex Pentland` · `Karl Polanyi` · `Zygmunt Bauman` · `David Brin`. Reused existing stubs: `Karl Marx`, `Max Weber`, `Michel Foucault`, `Gilles Deleuze`, `Hannah Arendt`, `Giorgio Agamben`, `Norbert Wiener`, `George Orwell`. Companies/executives (Google, Facebook, Eric Schmidt, Larry Page, Mark Zuckerberg) render as plain text.
+
+### Distinctions enforced (NOT errors)
+
+- `Surveillance Capitalism` (concept) ≠ `Surveillance Capitalism (Zuboff)` (the 8-part definition). `Big Other` (concept) ≠ `Big Other (Zuboff)` (def); Big Other is contrasted with — not merged into — Orwell's Big Brother / `Friendly Big Brother`.
+- `Instrumentarian Power` is kept distinct from totalitarianism (the `Two Species of Power` argument) and from Han's `Psychopolitics` / Deleuze's `Society of Control` (cross-linked, not merged).
+- `The Horseless Carriage` (concept — the metaphor of misreading the new through the old) ≠ `The Syndrome of the Horseless Carriage` (the specific ch.12 syndrome). Both kept.
+- `Quantified Self` and `Surveillance` realized Zuboff-anchored but explicitly open to other authors (cross-author concepts).
+
+### Zuboff-pass variant/dangling fixes (applied 2026-06-08, finalize)
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Behavioral Modification` | `The Means of Behavioral Modification` |
+| `Tuning`, `Herding`, `Conditioning` | `Tuning, Herding, and Conditioning` |
+| `The Quantified Self` | `Quantified Self` |
+| `Extraction Imperative` | `The Extraction Imperative` |
+| `Prediction Imperative` | `The Prediction Imperative` |
+| `Economies of Scale Scope and Action` | `Economies of Action` |
+| `Contract vs Uncontract` | `The Uncontract` |
+| `Knowledge vs Power (Zuboff)` | `Knowledge vs Power` |
+| `Inevitability vs Agency` | `Inevitability vs Contingency` |
+| `The Instrumentarian Collective` | `Instrumentarian Power` |
+| `A Coup from Above` | `The Coup from Above` |
+| `Right to Sanctuary` | `The Right to Sanctuary` |
+| `The Discovery of Behavioral Surplus` | `Behavioral Surplus` |
+
+**Unlinked to plain text** (~68 occurrences — paraphrased argument sentences + one-off metaphor/example phrases, e.g. "Surveillance capitalism is a coup from above", "The Diamond Mine (Behavioral Surplus)", "The Shark Circling the Depths", "Invisible Ribbons of Scent", "The Montes Bakery (La Dulce)", "02 The Definition", and the stray confidence-label link "Interpretive synthesis"). Entity-like Zuboff stubs (`The Aware Home`, `The Nest Thermostat`, `Market Power vs Popular Sovereignty`, `Section 230 (The Intermediary Shield)`, `Elective Affinity (Zuboff via Weber)`) left as legitimate forward-stubs.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
