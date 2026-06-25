@@ -192,7 +192,7 @@ Supports: The core claim that cybernetics makes the boundaries of the human subj
 
 Book: *How We Became Posthuman*
 Author: N. Katherine Hayles
-Raw file: [[raw/Hayles - How We Became Posthuman/06 Liberal Subjectivity Imperiled - Norbert Wiener and Cybernetic Anxiety]]
+Raw file: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]
 Relevant passage:
 
 > For Wiencr, cybernetics was a means to extend liberal humanism, not subvert it.
