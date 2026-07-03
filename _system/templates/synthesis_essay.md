@@ -1,146 +1,159 @@
 ---
 type: template_doc
 status: reference
-last_updated: 2026-06-17
+last_updated: 2026-07-03
 ---
 
-# Synthesis Essay — Template & Craft Brief
+# Synthesis Essay — Charter
 
-A synthesis essay is the vault's only **finished, publishable** artifact — a piece you could
-print in *October*, *Artforum*, *e-flux journal*, *n+1*, the *LRB*, or *Aeon*, that thinks
-across several books in the vault and arrives somewhere. It is **not** a notes page, a summary,
-or an outline. It must read as continuous, argued prose from the first sentence to the last.
+*Supersedes the 2026-06-17 craft brief. That version produced nine structurally identical
+essays; this revision exists to break the mold. What changed and why is logged in
+`_system/log.md` (2026-07-03).*
 
-The vault's provenance rules are non-negotiable and survive in full here — verbatim quotation, a
-confidence label on every load-bearing claim, reversible compression down to the raw chapter, no
-invented citations. The upgrade is only about **where the apparatus sits**: not threaded through
-the prose as labels and tags, but set below the essay as endnotes and a method note — exactly the
-way a journal prints its footnotes and acknowledgments *after* the piece. The read stays clean;
-the provenance stays total.
+A synthesis essay is a finished piece of intellectual writing — the long-form article a serious
+journal publishes, or a chapter a university press binds into a book. Its job is to think across
+primary sources and arrive at something true. Its deeper job is to carry the primary sources
+themselves to the reader: someone who reads these essays over the years should end up having
+absorbed the books — their actual arguments, in their actual words — not summaries of them. The essay is a delivery system for the sources as much as an argument in its own right. It succeeds completely when a reader puts it down to go open one of the originals.
+
+Everything below is seed instruction, not structure. Nothing here is a section to fill in, and
+there is no skeleton to copy. If two essays written from this charter come out shaped alike, at
+least one of them took the shape from habit rather than from its material.
 
 ---
 
-## The one rule that does the most work
+## The standalone rule
 
-**Nothing in the reading layer announces its own function.** Never write a heading or a sentence
-that names the part it belongs to — no `Central Question`, no `Thesis`, no `Section 1`, no "this
-essay will argue," no "in conclusion." The essay *has* a question, a thesis, and movements; the
-reader should *feel* them, never *see them labelled*. State the thesis as a sentence, in prose,
-where it lands hardest — usually at the close of the opening, sometimes withheld and paid off at
-the end.
+The essay must be publishable as-is, to a stranger, with nothing attached. Concretely:
 
-If a sentence reads like a label for the paragraph beneath it, cut it and let the paragraph speak.
+- **No self-reference to the note system.** The words "the vault" never appear; no note, map, or
+  companion essay is mentioned; no essay knows any other essay exists. Where the apparatus must own a construction, it says "this essay's synthesis" — the essay is the author.
+- **No reader in particular.** No "you," no "for a curator," no exhibitions to build, no practice
+  to serve, no payoff section aimed at anyone. If the argument has implications, state them as
+  claims about the world and let whoever reads them do with them what they will.
+- **No trace of the commission.** The prompt, the conversation that occasioned the piece, and any prior piece are invisible. Phrases like "as the commission asked" or "as you said" are defects, including in footnotes and the method note.
+- **Nothing announces its own function.** No `Thesis:`, no "this essay will argue," no "in
+  conclusion," no heading that names the part it labels. The essay has a question, a thesis, and
+  movements; the reader feels them and never sees them tagged.
 
-## Shape (felt, not labelled)
+## The research comes first
 
-- **Opening.** Drop the reader into the problem in concrete terms — an image, a pairing, a
-  question made of things, not of abstractions. Establish what is at stake in the first few
-  sentences. Close the opening by stating the thesis plainly (or seed it and pay it off later).
-- **Movements.** Each develops one turn of the argument: it opens with its own claim and earns it
-  with evidence before handing off to the next. Separate movements with an **evocative,
-  sentence-case subhead** (`## Two flights, one hierarchy`) **or** a plain break (`* * *`) — never
-  a number, never a functional name.
-- **Close.** Land the argument, then — for this vault specifically — name the curatorial or
-  research payoff: what can now be *made*, *curated*, or *written* because the argument holds. A
-  titled `## Coda` is fine; `Conclusion` is not.
+The prompt that occasions an essay is a research question, not a design brief. Treat it the way
+a researcher treats a hypothesis: something to test against the sources, not something to
+decorate with them.
 
-## Voice and evidence
+- **Read before arguing.** Gather the evidence on the question — including the passages that cut against the expected answer. Find the strongest available counter-reading and metabolize it.
+- **The thesis is a finding.** Formulate it after the evidence is in. If the material leads
+  somewhere other than where the question pointed, follow the material — an essay that overturns its own starting premise is also a success, not a failure of obedience.
+- **Disagreement is not a house style either.** If the sources confirm the initial hunch, that is just as successful as overturning it. The discipline of rigor is a thumb on neither pan.
+- **A genuine tension between authors is often the finding itself.** Do not resolve in the last
+  paragraph what the sources genuinely leave open; precision about where an opposition actually sits is worth more than a synthesis that dissolves it.
+- **Write the deck last.** The standfirst reports what the essay found; it is not a target the
+  essay was built to hit.
 
-- **Quote verbatim, always**, and weave the quotation into your own sentence with in-text
-  attribution ("as Hayles puts it," "in Lippard's own concession"). The prose carries the
-  citation; the bracketed tag does not.
-- **Every load-bearing quote or claim takes one Obsidian footnote `[^n]`.** That marker is the
-  *only* apparatus the reader meets mid-sentence. The raw-chapter link, the verbatim check, and
-  the confidence label all live in the **Notes** below the rule.
-- Present tense for arguments ("Hayles insists…"); past tense only for historical events.
-- First person is allowed but disciplined — the essayist's *I* of judgment, not the diarist's.
-- Earn every adjective. Prefer the exact verb to the intensifier. One controlling idea, pursued —
-  not a survey of everything the notes contain.
-- Length: roughly **1,200–3,000 words**. Dense but readable; semi-academic.
+## Quotation is the spine
 
-## Provenance, relocated (how the hard rules survive a clean read)
+The essays exist to transmit the primary sources. Compression that loses the author's own
+reasoning defeats the purpose.
 
-- Each `[^n]` note carries three things: the `[[raw/Author - Book/Chapter]]` link, the verbatim
-  passage (if it isn't already quoted in full in the body), and a compact provenance tag pairing a
-  **status** with a **confidence**:
-  `Directly stated, high` / `Strongly implied, medium` / `Interpretive synthesis, medium` /
-  `Speculative connection, low`. (Status vocabulary and the high/medium/low scale are vault canon —
-  see `_system/schemas.md`.)
-- **The notes *are* the claim audit.** A standalone audit table is optional — add a
-  `## Claim ledger` table only if a dense essay genuinely needs a scannable QA pass; otherwise the
-  footnotes carry it.
-- **Reserve the construction.** Where a connection is the vault's own — authors who never cited
-  each other — say so: in the body where it bears on the argument, and always in the method note.
-  A reader must never mistake an `Interpretive synthesis` for a historical fact. This honesty is
-  not a disclaimer bolted on; at its best it is part of the argument.
-- **A note on method** (the closing apparatus): one or two honest paragraphs — the essay's overall
-  confidence; which links rest on citation and which the vault constructs; any speaker or
-  attribution ambiguity in the sources; confirmation that every quotation was checked
-  character-for-character against the raw chapters (only curly→straight quote normalization
-  applied, the vault convention); and the scope — which notes and authors are deliberately in play
-  and which are set aside.
+- **Reconstruct arguments; do not cite conclusions.** When a source matters, walk the reader
+  through how the author gets there — the premises, the turn, the consequence — in the author's own words. A block quotation read closely is worth more than five clipped clauses stitched into the essay's voice. If an author's position arrives as a single decorative fragment, either develop it or cut the author.
+- **Quote at length, wherever possible.** Long quotations and block quotes are welcome; they are the point. Paraphrase is connective tissue, a last resort — never the vehicle for a
+  load-bearing claim when the author's sentence exists.
+- **Depth beats coverage.** Three authors read deeply serve the reader better than eight
+  name-checked. There is no obligation to use every relevant author in the corpus, and no credit for breadth. Set authors aside openly in the method note, and state the reasoning.
+- **Surface the source in the prose.** Name the book, and the chapter where it helps, so the
+  reader knows exactly what to open next: "In the opening pages of *The Burnout Society*, Han
+  announces…" — the essay doubles as a map of where to read.
+- **Let authors disagree in their own words.** When two sources conflict, stage the conflict as
+  quotation against quotation, not as the essay's summary of both.
+
+## Form follows the material
+
+- **There is no default shape.** Section count, subheads versus unbroken prose versus `* * *`
+  breaks, whether anything coda-like exists — decided by the argument, essay by essay. A
+  dialectical argument might move in short, aphoristic sections; a historical one might want a
+  single long narrative arc; an essayistic one might circle its object and return. The old shape
+  (deck → four to six evocative subheads → coda → method) is not a default. Ask what this
+  argument's natural skeleton is, and only then whether headings serve it.
+- **Length is a consequence, not a target.** Chapter scale is the natural register — many essays
+  will run 6,000–15,000 words, some longer — because reconstructing arguments takes room. But no essay should be long because padding filled it or short because a template capped it. The test for every paragraph: does it add evidence or move the argument? Established concepts are not re-established; three authors saying the same thing collapse to the best statement plus a footnote, unless the convergence itself is the point — in which case say that it is.
+- **End where the argument ends.** No obligatory payoff, no summarizing final paragraph that
+  restates what the reader just read. The last sentence should still be doing work.
+
+## Voice
+
+Three writers in the corpus set the register: rigorous but accessible, academic but engaging.
+Their complete prose sits in `raw/` — study it there, not from secondhand descriptions.
+
+- **Harari** (`raw/Harari - Homo Deus/`) argues concept-first, then floods the claim with
+  concrete evidence — statistics, historical vignettes, one vivid primary voice doing the work of
+  a bibliography. Long builds broken by short deflating sentences ("Sugar is now more dangerous than gunpowder"). Constant shifts of scale: the individual story, the global pattern, the cosmic frame, and back.
+- **O'Gieblyn** (`raw/OGieblyn - God Human Animal Machine/`) opens inside lived experience and lets theory arrive the way it does in life — mid-thought, half-remembered, troubling. Doubt is the method: paradoxes are inhabited rather than resolved, and a short sentence more often deepens uncertainty than settles it. Theory is tried on against experience, never surveyed.
+- **Han** (`raw/Byung-Chul Han - The Transparency Society/`, `raw/Han - Psychopolitics/`, `raw/Han - The Burnout Society/`) opens with pronouncement ("Freedom will prove to have been merely an interlude") and proceeds by dialectical inversion — the accepted value flipped to expose the coercion it conceals. Short declarative sentences, lapidary finish, repetition with sharpening variation, relentless precision about terms. Citations are deployed, not explained — Marx quoted to argue against Marx.
+
+These are registers to choose among as the material demands, not a blend to strike in every
+paragraph. What they share is the floor: a concrete anchor for every abstraction; authority
+earned by evidence, honesty, or logic rather than by jargon or hedging; present tense for
+arguments ("Hayles insists"), past tense for events; the exact verb over the intensifier; no
+academic throat-clearing. First person is available where the register calls for it — the
+essayist's *I* of judgment or O'Gieblyn's *I* of doubt, not the diarist's.
+
+## Sources beyond the corpus
+
+Essays may draw on sources outside `raw/` wherever the argument needs them — the corpus has edges and honest scholarship does not stop at them.
+
+- **The corpus comes first.** The books in `raw/` are the primary texts these essays exist to
+  transmit; outside material contextualizes, corroborates, or complicates them, and should not
+  displace them at the center of an essay.
+- **Identical rigor.** Verbatim quotations verified character-for-character against an accessible
+  text — a stable URL, or edition and page — with the full citation in the footnote. A passage
+  that cannot be verified is not quoted.
+- **No borrowed provenance labels.** The status/confidence vocabulary is reserved for corpus
+  provenance; external citations carry the full bibliographic reference and, where relevant, a
+  note on how the quotation was verified.
+
+## Provenance — unchanged, and non-negotiable
+
+The apparatus survives in full, below a horizontal rule at the end of the file, the way a
+journal prints its notes after the piece. The read stays clean; the provenance stays total.
+
+- **Every load-bearing quotation or claim carries one Obsidian footnote `[^n]`** — the only
+  apparatus the reader meets mid-sentence. The footnote holds the `[[raw/Author - Book/Chapter]]` link (or the external citation), the verbatim passage if the body trims it, and the canonical status/confidence pair: `Directly stated` / `Strongly implied` / `Interpretive synthesis` / `Speculative connection` × `high` / `medium` / `low` (vault canon — `_system/schemas.md`).
+- **Reserve the construction.** Where a connection is the essay's own — authors who never cited
+  each other — the method note always says so. 
+- **A note on method closes the file**, written as scholarly disclosure, not defense: the
+  research question investigated, and where the evidence resisted, surprised, or overturned the initial framing; which links rest on documented citation and which are this essay's own
+  construction; any speaker or attribution ambiguity in the sources; confirmation that every
+  corpus quotation was checked character-for-character against the raw chapters (curly→straight quote normalization only) and how external quotations were verified; and the scope — which authors and sources were in play, which were consulted and set aside, and why.
 
 ## Frontmatter
 
-Keep it machine-clean. `confidence` is the essay's overall evidentiary footing, not any single
-claim's. `sources_used` lists the **vault notes** the essay draws on (books, concepts, references),
-not raw files — the raw files are reached through the footnotes.
+Machine-clean, and the only fixed furniture besides the apparatus:
 
----
-
-## Skeleton — copy from inside the block below
-
-```markdown
----
+```yaml
 type: synthesis_essay
 status: draft            # draft | generated | final
-deck: "One sentence that frames the stakes — the standfirst a journal runs under the title."
+question: "The research question investigated — written before the essay."
+deck: "One- or two-sentence standfirst reporting the finding — written after."
 sources_used:
   - "[[Book or Concept Note]]"
-  - "[[Author and Author]]"   # a vault reference note, where the link is the vault's own
 authors:
   - "[[Author One]]"
-  - "[[Author Two]]"
+external_sources: true   # include only when sources beyond raw/ are cited
 claims_audited: true
 confidence: medium       # high | medium | low — the essay's overall footing
 last_updated: YYYY-MM-DD
----
+```
 
-# Essay Title
+## Footnote form
 
-*Deck: the one-line standfirst from the frontmatter, set in italics under the title.*
-
-Open on the problem itself — a concrete image or pairing, not an abstraction. Pose the driving
-question without ever naming it as a question. By the end of this opening movement, state the
-thesis in a single plain sentence the rest of the essay will earn.[^1]
-
-## An evocative subhead — or delete it and use a plain break
-
-Open the movement with its own claim, then earn it. Quote verbatim, woven into your sentence with
-attribution: as the author puts it, "…the exact words…".[^2] Keep moving; one idea per movement.
-
-* * *
-
-The next movement. Where a connection is the vault's own construction rather than a citation, say
-so in the prose when it matters to the argument.[^3]
-
-## Coda: the curatorial / research payoff
-
-Land it. What can now be made, curated, or written because this argument holds?
-
----
-
-## A note on method
-
-The essay's overall confidence, in prose. Which links rest on citation and which the vault
-constructs. Any speaker or attribution ambiguity in the sources, named honestly. Confirmation that
-every quotation was verified character-for-character against the raw chapters (only curly→straight
-quote normalization applied). Scope: which notes and authors are in play, and which are
-deliberately set aside.
-
-## Notes
-
-[^1]: Thesis claim — if it is the vault's own synthesis, label it here. [[Author One and Author Two]] — Interpretive synthesis, medium.
-[^2]: [[raw/Author - Book/Chapter]] — "verbatim passage if not fully quoted in the body." Directly stated, high.
-[^3]: [[raw/Author - Book/Chapter]] — Strongly implied, medium.
+```markdown
+[^1]: [[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]] — "verbatim passage
+  if the body trims it." Directly stated, high.
+[^2]: [[raw/Han - The Burnout Society/02 Neuronal Power]] — Strongly implied, medium.
+[^3]: The bridge between X and Y is this essay's own synthesis; neither author cites the other.
+  Interpretive synthesis, medium.
+[^4]: Norbert Wiener, *The Human Use of Human Beings* (1950; Da Capo, 1988), p. 96 — "verbatim
+  external passage." Verified against the Internet Archive scan; not corpus provenance.
 ```

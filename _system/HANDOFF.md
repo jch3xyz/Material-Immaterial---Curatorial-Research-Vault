@@ -1,7 +1,7 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-02
+last_updated: 2026-07-03
 ---
 
 # Handoff — continuing the vault in a fresh chat
@@ -186,3 +186,27 @@ page is the operating manual.
 - Every claim source-linked + confidence-labelled. Verbatim quotes only. `raw/` never edited.
 - Cross-book overlap → extend the existing note with an author-section, never a duplicate.
 - One source summary per ingested chapter (the template enforces this).
+
+## Phase 6 — synthesis essays (the current phase)
+
+The corpus is complete; the work now is essays. **Read the charter first:**
+`_system/templates/synthesis_essay.md` (rewritten 2026-07-03 — it supersedes the 2026-06-17
+craft brief and the shape of the nine essays written under it; do NOT pattern-match new essays
+on the old ones in `essays/`). The short version of the charter:
+
+- **Journal/chapter grade, standalone.** No "the vault," no other essays, no reader address, no
+  curatorial-payoff coda, no trace of the prompt — anywhere, including footnotes and method note
+  (the apparatus says "this essay's synthesis," never "the vault's").
+- **Research-first, bottom-up.** The user's essay prompt is a research question to test, not a
+  design brief to satisfy. Gather evidence including counter-readings BEFORE forming the thesis;
+  a conclusion that overturns the prompt's premise is a good outcome; confirming it plainly is
+  too. No thumb on either pan.
+- **Quotation is the spine.** Reconstruct each source's internal argument at length (block
+  quotes welcome); depth over author-coverage; surface book/chapter names in prose so the reader
+  goes to the original — transmitting the primary sources is the essays' purpose.
+- **No fixed shape, no length target.** Structure per argument; chapter scale (often
+  6,000–15,000+ words) is normal; padding and re-establishment are defects.
+- **Provenance unchanged.** `[^n]` endnotes with raw links + status/confidence, method note,
+  character-for-character verification (external sources allowed at identical rigor, full
+  citation, no status labels). Post-draft adversarial verification workflow (one agent per cited
+  chapter + attribution critic) still applies — see log entries from 2026-06-18 on.

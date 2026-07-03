@@ -1,7 +1,7 @@
 ---
 type: system_doc
 status: generated
-last_updated: 2026-06-01
+last_updated: 2026-07-03
 ---
 
 # Wiki Schemas
@@ -21,7 +21,7 @@ This file defines the YAML frontmatter and structural conventions used across th
 | `symbol` | `symbols/` | Symbols, motifs, archetypal images |
 | `tension` | `tensions/` | Oppositions, contradictions, paradoxes |
 | `reference` | `references/` | Cross-author relationships |
-| `synthesis_essay` | `essays/` | Generated synthesis essays |
+| `synthesis_essay` | `essays/` | Long-form synthesis essays, journal/chapter grade (see charter in `_system/templates/`) |
 | `audit` | `audits/` | Audits of user's own writing in `inbox/` |
 | `source_summary` | `sources/` | Per-raw-file orientation and citations |
 | `analysis` | `_system/analysis/` | Intermediate analysis scaffolding (step 1 of ingest) |
@@ -171,13 +171,20 @@ last_updated: YYYY-MM-DD
 
 ## Frontmatter — Synthesis Essay
 
+(Charter and craft rules: `_system/templates/synthesis_essay.md`, rewritten 2026-07-03.)
+
 ```yaml
 type: synthesis_essay
-status: generated
+status: draft             # draft | generated | final
+question: "The research question investigated — written before the essay."
+deck: "One- or two-sentence standfirst reporting the finding — written after."
 sources_used:
   - "[[Book A]]"
   - "[[Book B]]"
   - "[[Concept X]]"
+authors:
+  - "[[Author One]]"
+external_sources: true    # include only when sources beyond raw/ are cited
 claims_audited: true
 confidence: medium
 last_updated: YYYY-MM-DD
