@@ -104,6 +104,13 @@ Meadows's real-world cases in *Thinking in Systems*: visible feedback made high-
 - [[The GNP]] — the fever chart of consumption; the wrong-goal emblem (Meadows, Ch5)
 - [[Pyramids and Skyscrapers]] — the material apparatus as the clothing of a paradigm (Meadows, Ch6)
 
+## The Spectacle (Debord)
+
+Debord's emblems in *The Society of the Spectacle*: the automobile as the sovereign agent of separation, and the museum as the memorial of a decomposed art.
+
+- [[The Dictatorship of the Automobile]] — the car as the sovereign agent of the collapse of city and country and the seizure of space (Ch7)
+- [[The Age of Museums]] — art's terminal decomposition; culture surviving only as its own memorial (Ch8, th.189)
+
 ## Related
 
 - [[Home]]

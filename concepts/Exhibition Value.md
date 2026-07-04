@@ -5,6 +5,9 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]"
   - "[[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]]"
+  - "[[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]"
+  - "[[raw/Debord - The Society of the Spectacle/05 Ch2 - The Commodity as Spectacle]]"
+  - "[[raw/Debord - The Society of the Spectacle/11 Ch8 - Negation and Consumption Within Culture]]"
 related:
   - "[[Exhibition Value|Attention Capital]]"
   - "[[Positivity]]"
@@ -20,8 +23,9 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Walter Benjamin]]"
   - "[[Marshall McLuhan]]"
+  - "[[Guy Debord]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Exhibition Value
@@ -54,10 +58,19 @@ McLuhan pushes the point to its commercial limit: the mass-reproduced image is n
 
 The convergence is sharpest around the **self-as-display**. McLuhan observes that the photograph reaches inward as well as outward — "the complete transformation of human sense-awareness by this form involves a development of self-consciousness that alters facial expression and cosmetic makeup as immediately as it does our bodily stance, in public or in private." The photographic regime thus produces a subject perpetually composing itself *for the image*, a "tidying-up of our inner lives" disciplined by the picture. This anticipates Han's diagnosis that under exhibition value "every subject is also its own advertising object," with [[The Face]] retooled as a surface for display. McLuhan supplies the medial genealogy; Han supplies the value-theoretic and erotic critique. The link is not made by either author — McLuhan never read Han, and Han does not cite this chapter — so it is offered here as interpretive synthesis, not as a claim either thinker advances.
 
+## Guy Debord (The Society of the Spectacle)
+
+`Interpretive synthesis.` The society of exhibition descends, economically, from what [[Guy Debord]] had already diagnosed in 1967 as the [[Spectacle]]'s affirmation of appearance. Han's exhibition value — the aesthetic value-form proper to [[Transparency|the Society of Transparency]] — is the descendant of Debord's *economics of appearance*: the historical shift Debord names as the movement [[From Being to Having to Appearing]]. In thesis 17, Debord periodizes the economy's domination of social life in three stages: the "degradation of being into having," followed by "a general shift from having to appearing—all 'having' must now derive its immediate prestige and its ultimate purpose from appearances" (see [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]). Where Han's exhibition value strips [[Cult Value]] until things "must be displayed in order to be," Debord had already located the same reduction one stage upstream, in the economic law by which possession itself derives its purpose from display. Han's value that "exists thanks only to the attention it produces" is the fully aestheticized form of Debord's appearance-that-has-swallowed-having.
+
+Debord fixes the terminal figure of this reduction in thesis 49: once use value has been fully absorbed, "The spectacle is money one can only look at, because in it all use has already been exchanged for the totality of abstract representation" (see [[raw/Debord - The Society of the Spectacle/05 Ch2 - The Commodity as Spectacle]]). This is the economic template for Han's third value-form. Just as Han's exhibition value "is not use value because it stands removed from the sphere of utility" and "is not exchange value because it does not reflect any labor," Debord's spectacle is value that has left utility behind entirely, dissolved into pure abstract representation and left only to be looked at. Han's exhibition value (via Benjamin) is the *aesthetic* descendant of this Debordian economics of appearance — the moment when Debord's "money one can only look at" is re-described as the attention-value radiated by a face, a body, a commodity on total display. The link is not drawn by Debord, who never uses Benjamin's cult-value/exhibition-value vocabulary; it is offered here as interpretive synthesis, though Han himself explicitly makes his society of exhibition a society of the [[Spectacle]] (see [[Byung-Chul Han and Guy Debord]]).
+
+The genealogy extends to Debord's account of culture. In the "age of museums" (thesis 189), the end of the history of art plays out as culture's "preservation as a dead object for spectacular contemplation" (thesis 184; see [[raw/Debord - The Society of the Spectacle/11 Ch8 - Negation and Consumption Within Culture]]). The museum that consumes all past art equally — where "artistic communication is no longer possible" and works survive only to be contemplated — is the institutional form of an object whose value has migrated entirely to its displayed appearance. Debord's dead object for contemplation is the culture-industry ancestor of the Han/Benjamin exhibition object: a thing that has surrendered cult value and use alike, and now exists only to be seen. On the [[Star (Debord)|star]] as the human face fully converted into spectacular appearance, and on the broader descent of Han's diagnosis from Debord's, see [[Byung-Chul Han and Guy Debord]].
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — exhibition value is the form of value proper to the [[Transparency|Society of Transparency]]: attention-generated, irreducible to use or exchange ("It exists thanks only to the attention it produces"), and pornographic in tendency. It displaces [[Cult Value]] entirely ("cult value disappears in favor of exhibition value") and underwrites [[Operation Schönheit]] — the compulsion to be beautiful, fit, displayable. See [[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]] and [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]].
 - **[[Marshall McLuhan]]** — `Interpretive synthesis.` Does not name "exhibition value," but his 1964 account of the photograph as turning people into things and multiplying "the human image to the proportions of mass-produced merchandise" — the world as a "Brothel-without-Walls" — is a precursor diagnosis of the self-as-display logic Han later theorizes. McLuhan locates the cause in the medium (the camera, mass reproduction); Han in political economy and the metaphysics of [[Positivity]]. See [[raw/McLuhan - Understanding Media/24 Chapter 20 - The Photograph - The Brothel-without-Walls]].
+- **[[Guy Debord]]** — `Interpretive synthesis.` Does not use Benjamin's cult-value/exhibition-value vocabulary, but his 1967 economics of appearance is the ancestor of the value-form: the shift [[From Being to Having to Appearing]] whereby "all 'having' must now derive its immediate prestige and its ultimate purpose from appearances" (th.17), use value dissolved into "the totality of abstract representation" so that "The spectacle is money one can only look at" (th.49), and culture "preserv[ed] as a dead object for spectacular contemplation" in the age of museums (th.184). Han's exhibition value is the aesthetic descendant of Debord's [[Spectacle]]; Han himself makes the society of exhibition a society of the spectacle (see [[Byung-Chul Han and Guy Debord]]). See [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]], [[raw/Debord - The Society of the Spectacle/05 Ch2 - The Commodity as Spectacle]], [[raw/Debord - The Society of the Spectacle/11 Ch8 - Negation and Consumption Within Culture]].
 
 ## Related Concepts
 
@@ -68,6 +81,8 @@ The convergence is sharpest around the **self-as-display**. McLuhan observes tha
 - [[The Face]] — Han's privileged site for tracking the loss of countenance into pure exhibition.
 - [[Pornography (Han)]] — the limit-form of exhibition value: display without secret, without veil.
 - [[Operation Schönheit]] — the disciplinary regime that maximizes a body's exhibition value.
+- [[Spectacle]] — Debord's regime of the affirmation of appearance, from which Han's society of exhibition descends; exhibition value is the aesthetic form of spectacular appearance.
+- [[From Being to Having to Appearing]] — Debord's three-stage economics of appearance (th.17), the economic ancestor of the display-value Han theorizes.
 
 ## Opposing Concepts
 
@@ -81,7 +96,7 @@ The convergence is sharpest around the **self-as-display**. McLuhan observes tha
 - If exhibition value cannot be derived from use or exchange value, what *kind* of value is it — and does Han's claim that it "signals the fulfillment of capitalism" mean capitalism has surpassed Marx, or that Marx's categories were always incomplete?
 - Is the displacement of cult value by exhibition value reversible? Han describes it as a completion, but Benjamin saw the two as coexisting tensely. Does anything still hold a refuge for cult value?
 - Does Han's identification of exhibition value with pornography depend on a specifically theological residue (the "veil," "grace," the secret) that he, like Agamben, is trying to think after?
-- How does exhibition value relate to curatorial practice itself — to the museum, the gallery, the exhibition as institution? Han does not address this directly, but the term invites the question.
+- How does exhibition value relate to curatorial practice itself — to the museum, the gallery, the exhibition as institution? Han does not address this directly, but Debord's "age of museums" (th.189) and "preservation as a dead object for spectacular contemplation" (th.184) supply the spectacle-side genealogy the term invites.
 - Can a contemporary artwork be made *against* exhibition value, or is the very act of showing it already complicit?
 
 ## Sources
@@ -173,3 +188,36 @@ Relevant passage:
 > By the same token, the complete transformation of human sense-awareness by this form involves a development of self-consciousness that alters facial expression and cosmetic makeup as immediately as it does our bodily stance, in public or in private.
 
 Supports: Anchors the convergence on the *self-as-display*: the photographic regime produces a subject that composes itself for the image, anticipating Han's "every subject is also its own advertising object" and the retooling of [[The Face]] as a surface. Label: `Directly stated` for the passage; the link to Han's exhibition-value subject is `Interpretive synthesis`.
+
+### Source 9
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]
+Relevant passage (thesis 17):
+
+> The present stage, in which social life has become completely occupied by the accumulated productions of the economy, is bringing about a general shift from having to appearing-all "having" must now derive its immediate prestige and its ultimate purpose from appearances.
+
+Supports: The economic ancestor of the value-form. Debord's shift [[From Being to Having to Appearing]] locates one stage upstream of Han's exhibition value the same reduction of a thing's purpose to its display. Grounds the reading of Han's society of exhibition as the aesthetic descendant of Debord's [[Spectacle]]. Label: `Directly stated` for the passage; the descent to Han's exhibition value is `Interpretive synthesis`.
+
+### Source 10
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/05 Ch2 - The Commodity as Spectacle]]
+Relevant passage (thesis 49):
+
+> The spectacle is money one can only look at, because in it all use has already been exchanged for the totality of abstract representation.
+
+Supports: The terminal figure of Debord's economics of appearance — value from which use has been fully subtracted, dissolved into abstract representation and left only to be looked at. This is the economic template for Han's third value-form, which likewise "stands removed from the sphere of utility." Label: `Directly stated` for the passage; the template-relation to Han's exhibition value is `Interpretive synthesis`.
+
+### Source 11
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/11 Ch8 - Negation and Consumption Within Culture]]
+Relevant passage (thesis 184):
+
+> The end of the history of culture manifests itself in two opposing forms: the project of culture's self-transcendence within total history, and its preservation as a dead object for spectacular contemplation.
+
+Supports: The culture-industry face of the genealogy. Debord's "dead object for spectacular contemplation" — realized institutionally in the "age of museums" (th.189) where "artistic communication is no longer possible" — is the spectacle-side ancestor of the Han/Benjamin exhibition object: a thing that has surrendered cult value and use alike and exists only to be seen. Label: `Directly stated` for the passage; the descent to exhibition value is `Interpretive synthesis`.

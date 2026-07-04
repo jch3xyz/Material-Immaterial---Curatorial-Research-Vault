@@ -7,6 +7,7 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/06 Ch3 - Evidence]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]"
 related:
   - "[[The Transparency Society]]"
   - "[[Exhibition Value]]"
@@ -25,8 +26,9 @@ opposes:
   - "[[The Veil|Veil]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Guy Debord]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-07-04
 ---
 
 # Pornography (Han)
@@ -49,20 +51,26 @@ In *Psychopolitics*, Han carries the structural-formal sense of "pornographic" f
 
 This is the same pornography Han defined in *The Transparency Society* — a regime of total exposure stripped of [[Secrecy|Secret]], [[The Veil|Veil]], and narrative detour — relocated to the order of data. Just as the pornographic image is "additive," "unary," and "post-hermeneutic," so dataism is "purely additive," gives "up on any and all meaning," and substitutes counting for the recounting from which a sense of self derives: "Counting is not recounting." The pornographic trait of dataism is thus the libidinal face of the same elimination of [[Narrativity|narration]] in favor of [[Information|addition]] that drives Han's critique of Big Data; the datasexual's "mating" with data is, formally, the porno-society's "unmediated contact" displaced from eye and image onto the [[The Body as Data|self-measuring subject]] and its datastream. (Label: Interpretive synthesis, anchored to the verbatim quotations above and to the cross-text continuity of Han's definition.)
 
+## Guy Debord (The Society of the Spectacle)
+
+Han's closing move — "The society of pornography is a society of the spectacle" — routes his whole diagnosis back to Guy Debord, and the ground it descends from is laid in the opening chapter of *The Society of the Spectacle* (1967, "Separation Perfected," theses 1–34). Debord fixes the [[Spectacle]] not as a mass of pictures but as a social form: "The spectacle is not a collection of images; it is a social relation between people that is mediated by images" (th. 4). And considered in its own terms, the spectacle "is an affirmation of appearances and an identification of all human social life with appearances" (th. 10) — a total identification of the lived with the visible that is the structural parent of Han's porno-society. Where Han's pornographic image is "post-hermeneutic," offering "nothing to read," Debord's spectacle "is the opposite of dialogue" and "whatever escapes people's activity, whatever eludes their practical reconsideration and correction" (th. 18): both name a regime of appearance that admits no reply, no interval, no reading. (Label: Directly stated for Debord's theses; Interpretive synthesis for the structural descent of Han's pornography from Debord's spectacle.)
+
+The two critics differ in register — Han's is libidinal-aesthetic (veil, eros, punctum, smoothness), Debord's is politico-economic (separation, alienation, "capital accumulated to the point that it becomes images," th. 34) — but they converge on a single mechanism: the eclipse of directly lived experience by its own exhibited representation. Han's "unmediated contact between the image and the eye" is the pornographic close-up of what Debord describes at the scale of a whole society, where "everything that was directly lived has receded into a representation" (th. 1). Han's structural pornography is thus best read as the transparency-society's inheritance of the spectacle: the same "affirmation of appearances," intensified into total exposure and stripped of the last veil. (Label: Interpretive synthesis.)
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Pornography is a structural-formal condition of any image, body, or relation stripped of veil, secret, distance, and hermeneutic depth; it names the visibility-regime of the [[The Transparency Society|Transparency Society]] and is coextensive with [[Exhibition Value]], [[Smoothness]], and the [[Spectacle]].
 - **[[Giorgio Agamben]]** — Han reads against Agamben, who finds in pornographic nudity a "profanatory potential" and the basis for a "new form of erotic communication"; Han rejects this, arguing that "Agamben fails to recognize that exposure per se is pornographic" ([[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]). (Label: Directly stated.)
 - **[[Jean Baudrillard]]** — Han mobilizes Baudrillard's account of obscenity and seduction ("More generally things visible do not come to an end in obscurity and silence — instead they fade into the more visible than visible: obscenity"; the "total promiscuity of the look with what it sees") as a precursor diagnosis of the pornographic regime. (Label: Strongly implied.)
 - **[[Roland Barthes]]** — Han uses Barthes's distinction between [[Punctum]] and [[Studium]] to define the pornographic image as "unary," "smooth and transparent," lacking rift, ambiguity, or wounding intensity. (Label: Directly stated.)
-- **[[Guy Debord]]** in *[[The Society of the Spectacle]]* — Han ends the pornography chapter by binding his concept to Debord's: "Pornographic, deculturalized images … empty out into spectacle. The society of pornography is a society of the spectacle" ([[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]). The link is forward-stubbed here pending ingest of *The Society of the Spectacle*; expect Han's structural pornography and Debord's spectacle to share the diagnosis of total mediation and the eclipse of lived experience by representation, while differing on register (Han's libidinal-aesthetic vs. Debord's politico-economic). (Label: Directly stated for Han's citation; Interpretive synthesis for the conceptual alignment.)
+- **[[Guy Debord]]** in *[[The Society of the Spectacle]]* — Han ends the pornography chapter by binding his concept to Debord's: "Pornographic, deculturalized images … empty out into spectacle. The society of pornography is a society of the spectacle" ([[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]). Debord's Chapter 1 grounds that descent: the [[Spectacle]] is "a social relation between people that is mediated by images" (th. 4) and "an affirmation of appearances and an identification of all human social life with appearances" (th. 10) — the total-exposure, anti-hermeneutic regime of representation from which Han's structural pornography derives ([[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]). They differ on register (Han's libidinal-aesthetic vs. Debord's politico-economic) but share the diagnosis of total mediation and the eclipse of lived experience by representation. (Label: Directly stated for Han's citation of Debord; Interpretive synthesis for the conceptual alignment.)
 - **[[Walter Benjamin]]** — Speculative connection: Han's pornography is the inverse of Benjamin's beauty, in which "the beautiful is neither the veil nor the veiled object but rather the object in its veil." Benjamin himself does not use "pornography" as a category, but Han frames it as the structural negation of veiled beauty. (Label: Interpretive synthesis.)
 
 ## Related Concepts
 
 - [[Exhibition Value]] — the economic-aesthetic logic whose generalization Han names "the society of pornography."
 - [[Smoothness]] — the surface-property of the pornographic image; "the pornographic body is smooth. Nothing interrupts it."
-- [[Spectacle]] — Han's chapter closes by binding pornography to Debord's category.
+- [[Spectacle]] — Han's chapter closes by binding pornography to Debord's category; Debord defines the spectacle as "a social relation between people that is mediated by images" (th. 4).
 - [[The Transparency Society]] — the broader diagnosis of which the porno-society is the libidinal-visual face.
 - [[Positivity]] — pornography is characterized by "penetrating, intrusive positivity."
 - [[Hypervisibility]] — "hypervisibility is obscene; it lacks the negativity of what is hidden, inaccessible, and secret."
@@ -208,3 +216,25 @@ Relevant passage:
 > They are 'relentlessly digital' and consider data 'sexy'. The digitus is starling to play the part of the phallus.
 
 Supports: The "datasexual" (borrowed via Morozov) figure in which the digit/click usurps the place of desire — the clearest formulation of dataism's pornographic-phallic substitution. ("starling" reproduces the raw source's OCR spelling.) Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]
+Relevant passage:
+
+> The spectacle is not a collection of images; it is a social relation between people that is mediated by images.
+
+Supports: Grounds the Debord pole of Han's closing thesis "The society of pornography is a society of the spectacle." Debord fixes the [[Spectacle]] as a social form — a relation mediated by images — not a mass of pictures; this is the structural parent of Han's porno-society (thesis 4). Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]
+Relevant passage:
+
+> Considered in its own terms, the spectacle is an affirmation of appearances and an identification of all human social life with appearances.
+
+Supports: Anchors the interpretive descent of Han's structural pornography from Debord's spectacle — the total-exposure, appearance-affirming, anti-hermeneutic regime of representation that Han intensifies into the porno-society (thesis 10). Supports the cross-links [[Spectacle]] and [[Byung-Chul Han and Guy Debord]]. Label: `Directly stated` for Debord's thesis; `Interpretive synthesis` for the structural alignment with Han.

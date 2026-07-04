@@ -6,9 +6,11 @@ source_domain: "Fragrance — the slow exhalation of scent from compound, ripene
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Marshall McLuhan]]"
+  - "[[Guy Debord]]"
 sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/McLuhan - Understanding Media/19 Chapter 15 - Clocks - The Scent of Time]]"
+  - "[[raw/Debord - The Society of the Spectacle/09 Ch6 - Spectacular Time]]"
 related:
   - "Phosphorescence of Time"
   - "Atoms vs Fragrant Molecules"
@@ -19,7 +21,7 @@ related:
   - "Beauty as Late Bloomer"
   - "[[Marcel Proust]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-07-04
 ---
 
 # Fragrance of Time
@@ -63,6 +65,10 @@ The resonance with Han is close enough to be more than coincidence: both oppose 
 
 That McLuhan's Ch. 15 is the *historical source* behind Han's "fragrance / scent of time" is plausible but unproven: Han is nowhere shown to cite McLuhan, and the image of scent as memory and ripening also reaches Han through [[Marcel Proust]]. The claim of direct influence is therefore an `Interpretive synthesis` (Han is not shown to cite McLuhan), not a documented lineage. McLuhan's version is given its own note, [[The Scent of Time (McLuhan)]], to keep the primary text intact and to avoid folding it into the Han metaphor; this section records only the cross-author resonance.
 
+## Guy Debord (The Society of the Spectacle)
+
+Where Han names the *redemptive* form of thick, narrated, lingering time, **Guy Debord** — a generation earlier, in *The Society of the Spectacle* (1967), Ch. 6, "Spectacular Time" — names precisely the regime that destroys it. Debord's [[Spectacle|spectacular]] time is a false, consumable temporality: "Spectacular time is the illusorily lived time of a constantly changi ng reality" (thesis 155), set against the "really lived time of unchanging illusions" of ancient cyclical societies. Its most exact anticipation of Han is the pseudo-festival diagnosis: an age that stages "frequently recurring festivities" but "knows nothing of real festivals," in which "the reality of time has been replaced by the publicity of time" (thesis 154). Debord's *publicity of time* is the ancestor of Han's *odorless time* — time drained of use-value and narrative substance, kept in circulation only as its own advertised image. Han's fragrant, ripened duration is the positive name for exactly the "reality of time" that Debord's spectacle has swapped out for publicity; his loss of [[Narrativity|narrativity]] and his critique of [[Acceleration]] descend from Debord's pseudo-cyclical, constantly-changing spectacular time (the lineage is developed in [[Byung-Chul Han and Guy Debord]]). The two are opposed poles of one temporal analysis: Debord anatomizes the counterfeit, Han holds out the fragrant original. `Interpretive synthesis`
+
 ## Related Symbols and Concepts
 
 - Phosphorescence of Time — the paired *visual* figure: the "quiet afterglow" of belated beauty.
@@ -77,6 +83,8 @@ That McLuhan's Ch. 15 is the *historical source* behind Han's "fragrance / scent
 - The Scent of Time — Han's later book extending this image into a full temporal philosophy.
 - [[The Scent of Time (McLuhan)]] — McLuhan's incense-clock figure (1964), the likely originating source behind Han's image; cross-author resonance, not a documented citation.
 - [[Sense Ratios]] / [[Acoustic vs Visual Space]] — McLuhan's frame for why scent (acoustic-tactile, integral) opposes the visual, uniform fragmentation of clock-time.
+- [[Spectacle]] — Debord's regime of spectacular / pseudo-cyclical time, which replaces "the reality of time" with "the publicity of time"; the negative counterpart to Han's fragrant duration.
+- [[Byung-Chul Han and Guy Debord]] — the reference note tracing Han's odorless / accelerated time back to Debord's spectacular time.
 - [[Marcel Proust]] — the cited authority for belated beauty and reminiscence.
 - Storage vs Memory — odorless accumulation vs fragrant rearrangement.
 
@@ -158,3 +166,16 @@ Relevant passage:
 > The sense of smell is not only the most subtle and delicate of the human senses; it is, also, the most iconic in that it involves the entire human sensorium more fully than any other sense.
 
 Supports: McLuhan's sensory thesis — why *smell* is the privileged figure for an integral, non-fragmented temporality, the "most iconic" sense engaging "the entire human sensorium." Underwrites the claim that McLuhan and Han share a structure (scent = the integral against the atomized). Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/09 Ch6 - Spectacular Time]]
+Relevant passage:
+
+> The less use value is present in the time of modern survival, the more highly it is exalted in the spectacle. The reality of time has been replaced by the publicity of time.
+
+> Cyclical time was the really lived time of unchanging illusions. Spectacular time is the illusorily lived time of a constantly changi ng reality.
+
+Supports: Debord (theses 154–155) names the regime Han's metaphor answers: spectacular / pseudo-cyclical time that replaces "the reality of time" — the use-value-bearing, really-lived duration that Han calls fragrant — with "the publicity of time," the constantly-changing image of a life not actually lived. Grounds the cross-author lineage from Debord's spectacular time to Han's odorless / accelerated time (see [[Byung-Chul Han and Guy Debord]]). Label: `Directly stated` (for Debord's theses); the descent to Han's fragrance metaphor is `Interpretive synthesis`. (The OCR artifact "changi ng" is preserved verbatim from the raw chapter.)

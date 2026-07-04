@@ -16,6 +16,8 @@ sources:
   - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/02 Introduction]]"
   - "[[raw/Burnham - Beyond Modern Sculpture/10 Chapter 8 - Robot and Cyborg Art]]"
+  - "[[raw/Debord - The Society of the Spectacle/08 Ch5 - Time and History]]"
+  - "[[raw/Debord - The Society of the Spectacle/09 Ch6 - Spectacular Time]]"
 related:
   - "[[Transparency]]"
   - "[[Positivity]]"
@@ -40,8 +42,9 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
+  - "[[Guy Debord]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Acceleration
@@ -135,6 +138,12 @@ The bridge to Han is a curatorial join, not a claim either author makes. Burnham
 - How does Han's claim that "only additive processes admit acceleration" relate to [[Marshall McLuhan|McLuhan]]'s account of electric speed? Do their causal arrows run in opposite directions?
 - If [[Ritual]] resists acceleration by virtue of its narrativity, what happens when rituals are *imitated* in accelerated form (e.g., online ceremonies)? Are they still rituals, or already processors?
 - Is "dis-synchrony" a temporal claim, a social claim, or both — and what would re-synchronization even look like for Han?
+
+## Guy Debord (The Society of the Spectacle)
+
+Debord's *The Society of the Spectacle* (1967) is the ancestor of Han's temporal diagnosis: the claim that a specifically *modern* time — the abstract, exchangeable time of commodity production — actively hollows out and eliminates *lived* duration. In Chapter 5, "Time and History," Debord narrates the historical passage from cyclical time (the recurring, myth-governed time of pre-industrial societies) to the irreversible, linear time first monopolized by the ruling class and then generalized by the bourgeoisie as labor time. The bourgeoisie's victory is "the victory of a profoundly historical time" (thesis 141), but its triumph is also its metamorphosis "into a time of things": "The main product that economic development has transformed from a luxurious rarity to a commonly consumed item is thus history itself-but only in the form of the history of the abstract movement of things that dominates all qualitative aspects oflife. While the earlier cyclical time had supported an increasing degree of historical time lived by individuals and groups, the irreversible time of production tends to socially eliminate such lived time" (thesis 142). The abstract movement of commodities does not merely *fill* time faster; it *displaces* qualitative, lived duration — the precise operation Han will later name the atrophy of narrated, contemplative time (`Directly stated` for the quotation; `Interpretive synthesis` for reading it as the forerunner of Han's account — Han does not cite Debord in the vault's Han material).
+
+Chapter 6, "Spectacular Time," supplies the mechanism the Han cluster inherits: the reduction of time to homogeneous, interchangeable, quantity-only units. "The time of production-commodified time-is an infinite accumulation of equivalent intervals. It is irreversible time made abstract, in which each segment need only demonstrate by the clock its purely quantitative equality with all the others. It has no reality apart from its exchangeability" (thesis 147). This is time stripped of tact, threshold, and qualitative dimension — time as pure additive equivalence, "an infinite accumulation of equivalent intervals" whose only meaning is exchange. Han's structural claim that "only a process that is additive and not narrative admits acceleration," and that the crisis of our age is "the scattering and dissociation of temporality" rather than speed as such, descends directly from this reduction of duration to abstract, exchangeable intervals. Where Debord names the *falsification* of time by the commodity, Han names its *acceleration* into a "protracted present" (see [[#The Burnout Society (Han) — the abolition of the interval; the protracted present]]); the two are one lineage, the pathology Han diagnoses being the maturation of the commodified, spectacular time Debord anatomized (`Directly stated` for the quotation; `Interpretive synthesis` for the Debord→Han descent, which is a curatorial join, not a claim either author makes about the other).
 
 ## Sources
 
@@ -335,3 +344,14 @@ Relevant passage:
 > The fearful quality about technology is that it is self-aggrandizing; it moves almost as if men were not its instigators; a self-propelled force, it evolves oblivious of the ambitions and contentments of the human race.
 
 Supports: Anchors the *self-augmenting / irreversible* reading of technics in the [[#Jack Burnham (Beyond Modern Sculpture)]] section (Ch. 8, via Ellul's *la technique*) — acceleration as a property the technical system has of itself, the curatorial bridge to (and distinction from) Han's pathological temporal acceleration. Label: `Directly stated`.
+
+### Source 19
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/08 Ch5 - Time and History]]
+Relevant passage:
+
+> While the earlier cyclical time had supported an increasing degree of historical time lived by individuals and groups, the irreversible time of production tends to socially eliminate such lived time.
+
+Supports: Grounds the [[#Guy Debord (The Society of the Spectacle)]] section — the 1967 forerunner of Han's temporal diagnosis: the abstract time of commodity production actively displaces lived, qualitative duration (thesis 142). The Debord→Han descent is the curatorial join anchored via [[Byung-Chul Han and Guy Debord]]. Companion quote (Ch. 6, thesis 147): "The time of production-commodified time-is an infinite accumulation of equivalent intervals. It is irreversible time made abstract, in which each segment need only demonstrate by the clock its purely quantitative equality with all the others. It has no reality apart from its exchangeability." Label: `Interpretive synthesis` (for the Debord→Han descent; `Directly stated` for the verbatim quotations — Han does not cite Debord here).

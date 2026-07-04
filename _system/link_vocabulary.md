@@ -612,6 +612,47 @@ Hygiene: 0 invented prefix links · 0 bracket mismatches · 0 `Donella Meadows` 
 
 ---
 
+## Canonical Note Names — Debord *The Society of the Spectacle* ingest (2026-07-04)
+
+Added by *The Society of the Spectacle* (*La société du spectacle*, Guy Debord, 1967; Ken Knabb translation) — 221 numbered theses in 9 chapters; the founding Situationist text and a **foundational cross-vault node** (the ancestor of Han's whole diagnosis). **CORPUS RE-EXPANSION:** the user re-added Debord 2026-07-04 (same day as Meadows). Book: `The Society of the Spectacle`. Author: **`Guy Debord` (new — the corpus's 13th author)**. Source summaries: `Debord - The Society of the Spectacle - <NN Chapter>` (9: Ch1-9). Ingested via the custom big-book chunked workflow (`_system/workflows/_run_debord.js`): 9 parallel analyses → 4 sequential chunked planners (**Ch4 isolated — a 68KB giant**) → single generation with updates in a post-create wave → one index pass. 98 new notes (book + author + 9 sources + 87 interpretive) + 9 cross-book updates. Another clean big-book run — 0 create stragglers, all 9 updates landed first pass.
+
+**Realized four long-committed forward-stubs at their EXISTING canonical names** (live inbound links preserved): the concept `Spectacle` *(bare — 9 inbound; NOT "The Spectacle")*, the book `The Society of the Spectacle` *(22 inbound)*, the author `Guy Debord` *(25 inbound)*, and the reference `Byung-Chul Han and Guy Debord` *(Han-FIRST — the existing stub name; the keystone ancestor→descendant edge)*.
+
+**New concepts/** (26): Spectacle · Separation · Representation · From Being to Having to Appearing · Spectacular Alienation · Commodity as Spectacle · Pseudo-needs · Pseudo-community · Concentrated Spectacle · Diffuse Spectacle · The Star (Debord) · Cyclical Time · Irreversible Time · Pseudo-cyclical Time · Spectacular Time · Territorial Management · The Collapse of City and Country · The Neopeasantry · Détournement · Recuperation · Banalization · Ideology Materialized · The End of Art · The Proletariat as Subject and Representation · Workers' Councils · The Ideology-Schizophrenia Parallel.
+
+**New definitions/** (8, all `(Debord)`): Détournement · Spectacular Time · Cyclical Time · Irreversible Time · Pseudo-cyclical Time · Urbanism · Fascism · The Style of Negation.
+
+**New arguments/** (24): incl. The spectacle is a social relation mediated by images not a collection of images *(th.4)* · The spectacle is capital accumulated to the point that it becomes images *(th.34)* · The spectacle is the material reconstruction of the religious illusion *(th.20)* · The more the spectator contemplates the less he lives · Spectacular oppositions conceal the unity of the capitalist system · Irreversible time originates as the private property of the ruling class · The triumph of irreversible time is its metamorphosis into a time of things that eliminates lived time · Urbanism is the technology of separation · The abolition and realization of art are inseparable aspects of a single transcendence of art · Workers councils are the only undefeated form and negate the spectacle · Bolshevism directs the proletariat from outside and becomes totalitarian domination · (see `maps/Argument Index.md` for all 24).
+
+**New metaphors/** (8): The Map Identical to the Territory · The Screen of the Spectacle · The Spectacle as a Permanent Opium War · Money as the Life of What Is Dead · The Carcass of Time · The Publicity of Time · The Communication of the Incommunicable · The Heavy Artillery That Battered Down the Walls of China. **New symbols/** (2): The Age of Museums · The Dictatorship of the Automobile.
+
+**New tensions/** (15): Reality vs Appearance · Unity vs Separation · Use Value vs Exchange Value · Concentrated vs Diffuse Spectacle · Cyclical vs Irreversible Time · Lived Time vs the Time of Things · The Reality of Time vs the Publicity of Time · Councils vs Party · Abolition vs Realization of Art · Détournement vs Quotation · Encounter vs Isolation · Isolation vs Reintegration · Space vs Time (Debord) · Theory vs Practice (Debord) · True vs False (Debord).
+
+**New references/** (4): `Byung-Chul Han and Guy Debord` *(the KEYSTONE — realized the existing stub; Han's transparency/pornography/exhibition-value diagnosis descends from Debord's spectacle; Han cites Debord directly on pornography=spectacle)* · `Guy Debord and Marshall McLuhan` *(same 1964-67 media moment, inverted valence — global village vs spectacle)* · `Guy Debord and Shoshana Zuboff` *(the spectacle as ancestor of surveillance capitalism / instrumentarian power)* · `Guy Debord and Jean Baudrillard` *(simulation/hyperreality descends from the spectacle; Baudrillard a forward-stub)*.
+
+**Cross-book UPDATES** (9 existing notes gained a Debord section — do NOT duplicate): `Reification` *(THE keystone concept-merge — was Burnham's affirmative Verdinglichung; Debord restores the critical Lukácsian valence, the spectacle as reification perfected. Integrated via the concept's native `## Authors and Variants` bullet + extended Brief Definition/Longer Explanation + 3 new Sources — the accepted two-author-concept form, NOT a bolt-on `## Guy Debord` heading)* · `Material vs Immaterial` *(now a **TWELVE-author** tension — "capital accumulated to the point that it becomes image"; being→having→appearing)* · `Capital as Religion` *(th.20)* · `Pornography (Han)` *(Han: pornography = spectacle — primary-text grounded)* · `Transparency` · `Exhibition Value` · `Acceleration` · `Narrativity` · `Fragrance of Time` *(metaphor — spectacular/pseudo-cyclical time vs Han's fragrance of time)*.
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Georg Lukács` *(reification — History and Class Consciousness, the Ch2 epigraph)* · `Ludwig Feuerbach` *(the book's epigraph — sign/thing, appearance/essence)* · `Henri Lefebvre` *(everyday life)*. Reused existing stubs: `Karl Marx`, `Hegel`, `Jean Baudrillard`, `Herbert Marcuse`. Historical figures (Lenin, Bakunin, Machiavelli, Bossuet, etc.) render as plain text.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- `Spectacle` (concept — the central category) ≠ `The Society of the Spectacle` (the book note). Link `[[Spectacle]]` for the concept.
+- The FOUR time concepts are distinct and cross-linked: `Cyclical Time` · `Irreversible Time` · `Pseudo-cyclical Time` · `Spectacular Time` (each also has a `(Debord)` definition; plus the tensions `Cyclical vs Irreversible Time`, `Lived Time vs the Time of Things`, `The Reality of Time vs the Publicity of Time`).
+- `Concentrated Spectacle` and `Diffuse Spectacle` are distinct concepts (the two poles) beside the tension `Concentrated vs Diffuse Spectacle`.
+- `The Star (Debord)` is disambiguated with `(Debord)` (the spectacular celebrity — reserved suffix, no bare `The Star`).
+- `Reification` is now a genuine TWO-VALENCE, two-author note (Burnham affirmative / Debord critical) — do not split.
+
+### Debord-pass variant/dangling fixes (applied 2026-07-04, finalize)
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `The Spectacle`, `the Spectacle` | `Spectacle` *(2 pre-existing Han-note forward-stubs, now realized — fixed alias-preserving)* |
+| `Media as Extensions` | `Media as Extensions of Man` *(1 pre-existing McLuhan variant fixed in passing while editing `Information (Han)`)* |
+
+The committed argument stub `The society of transparency is a society of the spectacle` (2 inbound Han links) was left as a forward-stub — it is Han's claim, better realized in a future Han re-pass. Hygiene: 0 invented prefix links · 0 bracket mismatches · 0 `Debord` surname fragmentation · 0 remaining `The Spectacle` variants.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
@@ -643,6 +684,7 @@ These are **verified** pure format/article/qualifier variants that must be rewri
 | `Telematic Love`, `telematic embrace`, `Telematic Culture` | `The Telematic Embrace` / `Telematic Art` *(Ascott)* |
 | `Global Village` | `The Global Village` |
 | `Holism vs Reductionism` | `Reductionism vs Holism` *(Ascott + Meadows tension)* |
+| `The Spectacle`, `the Spectacle` | `Spectacle` *(Debord concept; the book is `The Society of the Spectacle`)* |
 
 ### Synonym consolidations (2026-06-01 within-Han pass)
 

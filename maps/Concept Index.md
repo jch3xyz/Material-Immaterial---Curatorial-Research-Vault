@@ -453,6 +453,32 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Be the Friction]] — Zuboff: the closing imperative of resistance against frictionless dispossession
 - [[The Fourth Fictional Commodity]] — Zuboff via Polanyi: human experience claimed as a commodity, after land, labor, and money
 - [[The Syndrome of the Horseless Carriage]] — Zuboff: the systematic failure to perceive the unprecedented as unprecedented
+- [[Spectacle]] — Debord's master concept (realized from a 9-inbound forward-stub): a social relation mediated by images / capital become image (SotS Ch1–3)
+- [[Separation]] — Debord: the alpha and omega of the spectacle; the split of social praxis into reality and image (SotS Ch1)
+- [[Representation]] — Debord: directly-lived life become image/appearance, the opposite of dialogue (SotS Ch1)
+- [[From Being to Having to Appearing]] — Debord: the periodization of the economy's domination of social life (SotS Ch1)
+- [[Spectacular Alienation]] — Debord: the contemplating spectator; 'the more he contemplates, the less he lives' (SotS Ch1–2)
+- [[Commodity as Spectacle]] — Debord: the commodity totally colonizing social life; money one can only look at (SotS Ch2)
+- [[Pseudo-needs]] — Debord: needs fabricated to maintain the autonomous economy; no authentic outside (SotS Ch2–3)
+- [[Concentrated Spectacle]] — Debord: the bureaucratic/totalitarian pole; a single individual, a police state (SotS Ch3)
+- [[Diffuse Spectacle]] — Debord: the abundant/consumerist pole; the laudatory catalog of commodities (SotS Ch3)
+- [[The Star (Debord)]] — Debord: the celebrity as human agent of the spectacle who renounces all autonomous qualities (SotS Ch3)
+- [[The Proletariat as Subject and Representation]] — Debord: the self-producing subject of history vs its defeat into a representation that becomes its enemy (SotS Ch4)
+- [[Workers' Councils]] — Debord: revocable, federated, delegate-based self-organization; the anti-spectacular form (SotS Ch4)
+- [[Cyclical Time]] — Debord: the eternal-return time of static, myth-governed agrarian societies (SotS Ch5–6)
+- [[Irreversible Time]] — Debord: linear historical time born as the private property of the masters, generalized as labor time (SotS Ch5–6)
+- [[Spectacular Time]] — Debord: the consumable falsified time of the spectacle; time spent consuming images (SotS Ch6)
+- [[Pseudo-cyclical Time]] — Debord: the consumable disguise of commodified time, imitating natural rhythms (SotS Ch6)
+- [[Territorial Management]] — Debord: urbanism as capitalism's method of seizing space, 'the very technology of separation' (SotS Ch7)
+- [[Banalization]] — Debord: the capitalist unification of space toward motionless monotony; tourism as its by-product (SotS Ch7)
+- [[Pseudo-community]] — Debord: the controlled reintegration of atomized workers as isolated individuals (SotS Ch7)
+- [[The Collapse of City and Country]] — Debord: the simultaneous collapse (not transcendence) of the city/country opposition under the automobile (SotS Ch7)
+- [[The Neopeasantry]] — Debord: the artificial pseudo-peasantry whose apathy is historically manufactured (SotS Ch7)
+- [[Détournement]] — Debord: the Situationist method of reversal/hijacking, 'the opposite of quotation' (SotS Ch8)
+- [[Recuperation]] — Debord: the spectacle's re-absorption of its own critique; the inverse of détournement (SotS Ch8)
+- [[The End of Art]] — Debord: art's terminal decomposition into 'the age of museums' (SotS Ch8)
+- [[Ideology Materialized]] — Debord: the spectacle as ideology become concrete; 'Society has become what ideology already was' (SotS Ch9)
+- [[The Ideology-Schizophrenia Parallel]] — Debord via Gabel: the destroyed faculty of encounter, universal autism; the keystone bridge to Han (SotS Ch9)
 
 ## Thematic Clusters
 
@@ -478,3 +504,4 @@ Each cluster now has its own page. The full alphabetical list is above.
 - [[Intersubjective Reality, Fictions & Cooperation — Harari (Concepts)|Intersubjective Reality / Fictions / Cooperation (Harari)]] — - [[Intersubjective Reality]] — the third level of reality (money, gods, nations) enabling large-scale cooperation
 - [[Telematic art, cybernetic art, cyberception & technoetics — Ascott (Concepts)|Telematic art / cybernetic art / cyberception / technoetics (Ascott)]] — Ascott's arc from 1960s behaviourist/cybernetic art through telematics and network consciousness to cyberception, the post-biological body, and the moist/technoetic domai…
 - [[Surveillance capitalism & instrumentarian power — Zuboff (Concepts)|Surveillance capitalism / instrumentarian power (Zuboff)]] — Zuboff's anatomy of the rogue economic logic that claims human experience as free raw material: the discovery of behavioral surplus, the manufacture of prediction product…
+- [[The Spectacle — Debord, The Society of the Spectacle (Concepts)|The Spectacle (Debord, The Society of the Spectacle)]] — Debord's 1967 anatomy of the spectacle — capital become image, social life become appearance: [[Spectacle]], [[Separation]], [[Representation]], [[Commodity as Spectacle]], [[Spectacular Time]], and the [[Détournement]] / [[Recuperation]] method; the vault's ancestor-text for the transparency/surveillance thread

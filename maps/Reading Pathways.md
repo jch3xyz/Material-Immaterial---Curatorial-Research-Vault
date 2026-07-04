@@ -27,6 +27,7 @@ Cross-cutting paths that run a single thread through the whole corpus.
 - [[Re-enchantment, consciousness, and the hard problem (Pathway)|Re-enchantment, consciousness, and the hard problem]] — The journey traces how the loss of intrinsic meaning under a mechanistic, computational cosmos reopens the oldest question — whether consciousness can…
 - [[Money, value, and the commodity (Pathway)|Money, value, and the commodity]] — This pathway traces how *value* detaches from material substance across the vault — from the art object to attention, from coin to credit-information,…
 - [[Determinism, prediction, and the future (Pathway)|Determinism, prediction, and the future]] — This pathway traces prediction as the capture of the future — the moment when computation stops describing tomorrow and starts producing it. It runs f…
+- [[From the spectacle to transparency to surveillance capitalism (Pathway)|From the spectacle to transparency to surveillance capitalism]] — The vault's ancestor→descendant spine: Debord's 1967 spectacle as the source text from which Han's transparency society and Zuboff's surveillance capitalism both descend. Debord spectacle → Han transparency/pornography → Zuboff surveillance capitalism.
 
 ## Pathways by book
 
@@ -110,3 +111,9 @@ Cross-cutting paths that run a single thread through the whole corpus.
 - [[The systems primer — a system, stocks, flows, and feedback (Pathway)|The systems primer — a system, stocks, flows, and feedback]]
 - [[Why systems surprise us — the epistemic spine (Pathway)|Why systems surprise us — the epistemic spine]]
 - [[System traps and leverage points (Pathway)|System traps and leverage points]]
+
+### *The Society of the Spectacle* (Guy Debord)
+
+- [[The failed revolution as the genealogy of the spectacle (Pathway)|The failed revolution as the genealogy of the spectacle]]
+- [[Debord's genealogy of time and space (Pathway)|Debord's genealogy of time and space]]
+- [[From the spectacle to transparency to surveillance capitalism (Pathway)|From the spectacle to transparency to surveillance capitalism]]

@@ -121,4 +121,4 @@ Relevant passage:
 
 > Pornographic images turn everything outward and expose it. Pornography has no interiority, hiddenness, or mystery . . . Today all media images are more or less pornographic. Because of their obligingness, they lack any punctum, all semiotic intensity . . . They empty out into spectacle. The society of pornography is a society of the spectacle.
 
-Supports: Completes the chain transparency → pornography → spectacle. Connects Han's argument to Barthes's [[Punctum|punctum]] / [[studium]] distinction and to Debord's category of [[the Spectacle]], grounding step 6 and the closing identity in the reasoning structure. Label: `Directly stated`.
+Supports: Completes the chain transparency → pornography → spectacle. Connects Han's argument to Barthes's [[Punctum|punctum]] / [[studium]] distinction and to Debord's category of [[Spectacle|the Spectacle]], grounding step 6 and the closing identity in the reasoning structure. Label: `Directly stated`.

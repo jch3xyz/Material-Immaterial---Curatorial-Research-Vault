@@ -8,6 +8,8 @@ sources:
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
   - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
   - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
+  - "[[raw/Debord - The Society of the Spectacle/08 Ch5 - Time and History]]"
+  - "[[raw/Debord - The Society of the Spectacle/09 Ch6 - Spectacular Time]]"
 related:
   - "[[Negativity]]"
   - "[[Ritual]]"
@@ -22,8 +24,9 @@ opposes:
   - "[[Storage]]"
 authors:
   - "[[Byung-Chul Han]]"
+  - "[[Guy Debord]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-07-04
 ---
 
 # Narrativity
@@ -56,10 +59,16 @@ This is the seam to Han's reworking of Agamben. Because "a narrative thanatotech
 
 The "Burnout Society" chapter completes the argument at the level of value. "The capitalist economy absolutizes survival. It is not concerned with the good life. … The reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity. It takes livingness from life, which is much more complex than simple vitality and health." The result is Han's flattest image of the denarrativized life: "The mania for health emerges when life has become as flat as a coin and stripped of all narrative content, all value" (Source 7). With "the loss of ideal values" there remains "only health value" beside "the exhibition value of the ego," and "bare life makes all teleology vanish — every in-order-to [jedes Umzu]." The inner logic of achievement society then "dictates its evolution into a [[Doping Society|doping society]]." This is the register in which the vault argument [[The crisis is not acceleration but loss of narrativity]] reaches its limit case: it is not speed that hollows life but denarrativization, which here does not merely scatter temporality (the Transparency-society claim) but voids life of all narrative content and value — leaving only the holy, undead, "as flat as a coin" survival of bare life (`Interpretive synthesis`).
 
+## Guy Debord (The Society of the Spectacle)
+
+Han's diagnosis of a lost, narrated, remembered history has a forerunner in [[Guy Debord]]'s account of *spectacular time* in *[[The Society of the Spectacle]]* (1967). Debord's Chapter 5 delivers the structural premise on which Han's denarrativization later rests: once the bourgeoisie generalizes irreversible time as the abstract "time of things," "The history that is present in all the depths ofsociety tends to become invisible at the surface" (thesis 142; Source 8). History does not stop occurring — it is produced everywhere, at the base — but its narrative, lived form withdraws from the surface of experience, leaving only "the history of the abstract movement of things that dominates all qualitative aspects oflife." The commodity's victory over lived time is precisely the eclipse of the *told* by the merely *accumulated* — Debord's temporal-political version of the [[Addition]] / narration wedge Han will later draw between the *processor* that counts and the *procession* that recounts (`Interpretive synthesis`).
+
+Chapter 6, "Spectacular Time," carries the point into the register of memory that is closest to Han's. Debord names the [[Spectacle]] "the reigning society's method for paralyzing history and memory and for suppressing any history based on historical time," so that it "represents a false consciousness oftime" (thesis 158; Source 9). Under this regime "individual life as yet has no history": lived experience "remains without language, without concepts, and without critical access to its own past, which has no where been recorded," and is finally "smothered by the spectacle's false mem ory of the unmemorable" (thesis 157). Debord's paralyzed history, his false consciousness of time, and his false memory of the unmemorable are the ancestor of Han's loss-of-narrativity diagnosis — the [[Memory]] / [[Storage]] distinction and the claim that "digital memory … lacks the extended horizon constituting the temporality of the living" are, in this reading, the descendants of Debord's spectacular time. The keystone descent is elaborated in the reference note [[Byung-Chul Han and Guy Debord]]; the two accounts differ in valence (Debord's is a class-analytic reification of *labor time*, Han's a phenomenology of *narrated time*) but converge on the same loss (`Interpretive synthesis`).
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Narrativity is a normative-ontological feature of processes that have direction, scenography, selection, and tension. Its erosion (*denarrativization*) is one face of [[Transparency]], alongside deritualization, depersonalization, and the eclipse of [[Negativity]].
-- **[[Guy Debord]]** *(Speculative connection)* — In *[[The Society of the Spectacle]]*, the spectacle's frozen, separated time may overlap with what Han calls the loss of narrative gravity; the resonance is plausible but not asserted by Han here.
+- **[[Guy Debord]]** *(Interpretive synthesis)* — In *[[The Society of the Spectacle]]*, a history "present in all the depths ofsociety" becomes "invisible at the surface" (thesis 142), and the [[Spectacle]] paralyzes history and memory as "a false consciousness oftime" (thesis 158). This spectacular eclipse of lived, narrated, remembered time is the forerunner of Han's loss-of-narrativity diagnosis; see [[Byung-Chul Han and Guy Debord]].
 - **[[Marshall McLuhan]]** *(Speculative connection)* — McLuhan's contrast between the linear/typographic and the mosaic/electric could be cross-read against Han's narration/addition pair, though the valences differ.
 - **[[Donella Meadows]]** *(Speculative connection)* — A possible structural parallel: Meadows' systems thinking foregrounds direction, feedback, and selection over additive accumulation, but this connection is not made by Han.
 
@@ -75,6 +84,7 @@ The "Burnout Society" chapter completes the argument at the level of value. "The
 - [[Fragrance of Time]] — What "narrative gravity" produces and what transparency annihilates.
 - [[Dataism]] — In *Psychopolitics*, the ideology that absolutizes additive data; its nihilism follows precisely from the fact that "Meaning … is based on narration" while "data … are additive."
 - [[Counting vs Recounting]] — The *Psychopolitics* tension that isolates narrativity's epistemic-ethical claim: "Counting is not recounting"; numbers can be counted but a self, a meaning, and a memory can only be recounted.
+- [[Spectacle]] — Debord's forerunner concept: the spectacle "paralyz[es] history and memory" as "a false consciousness of time," the ancestor of Han's denarrativized time.
 
 ## Opposing Concepts
 
@@ -92,6 +102,7 @@ The "Burnout Society" chapter completes the argument at the level of value. "The
 - How does narrativity relate to [[Aura]] and [[Cult Value]]? Both seem to depend on a withheld, non-exhibited dimension, but Han does not explicitly identify them.
 - Is the opposition narration / addition stable, or does any sufficiently long act of addition (a chronicle, a database, an archive) eventually generate narrative effects against its own logic?
 - What is the curatorial cost of denarrativization specifically — does an exhibition stripped of scenography become, in Han's terms, "obscene"?
+- If Debord's spectacular time already "paralyz[es] history and memory," is Han's later denarrativization a genuinely new phase or the same eclipse re-described — and does the digital archive intensify the "false memory of the unmemorable" or, by recording everything, contradict it?
 
 ## Sources
 
@@ -187,3 +198,29 @@ Relevant passage:
 > The capitalist economy absolutizes survival. It is not concerned with the good life. … The reduction of life to biological, vital processes makes life itself bare and strips it of all narrativity. It takes livingness from life, which is much more complex than simple vitality and health. The mania for health emerges when life has become as flat as a coin and stripped of all narrative content, all value.
 
 Supports: Grounds the value-register claim that the absolutization of survival strips life of all narrative content and value ("as flat as a coin"), leaving only health value beside [[Exhibition Value|the exhibition value of the ego]], and that achievement society's inner logic "dictates its evolution into a [[Doping Society|doping society]]." The limit case of [[The crisis is not acceleration but loss of narrativity]]. Label: `Directly stated`.
+
+### Source 8
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/08 Ch5 - Time and History]]
+Relevant passage:
+
+> The history that is present in all the depths ofsociety tends to become invisible at the surface. The triumph of irreversible time is also its metamorphosis into a time of things, because its victory was brought about by the mass production of objects in accordance with the laws of the commodity. … While the earlier cyclical time had supported an increasing degree of historical time lived by individuals and groups, the irreversible time of production tends to socially eliminate such lived time.
+
+Supports: Anchors the Debord-ancestor reading — with the bourgeois generalization of irreversible time as the abstract "time of things," lived, narrated history withdraws from the surface of experience even as it is produced everywhere at the base (thesis 142). The forerunner of Han's denarrativization: the eclipse of the *told* by the merely *accumulated*, and the "social elimination" of lived time that Han later re-describes as the loss of narrative gravity. Verbatim including the OCR artifact "ofsociety." Label: `Interpretive synthesis`.
+
+### Source 9
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/09 Ch6 - Spectacular Time]]
+Relevant passage:
+
+> The spectacle, considered as the reigning society's method for paralyzing history and memory and for suppressing any history based on historical time, represents a false consciousness oftime.
+
+And:
+
+> This individual experience of a disconnected everyday life remains without language, without concepts, and without critical access to its own past, which has no where been recorded. Uncommunicated, misunderstood and forgotten, it is smothered by the spectacle's false mem ory of the unmemorable.
+
+Supports: Grounds the memory-register of the Debord ancestry — the [[Spectacle]] as "a false consciousness of time" that "paralyz[es] history and memory" (thesis 158) and leaves individual experience "without … critical access to its own past," "smothered by the spectacle's false memory of the unmemorable" (thesis 157). The forerunner of Han's [[Memory]] / [[Storage]] distinction and the loss-of-narrativity diagnosis; the descent is elaborated in [[Byung-Chul Han and Guy Debord]]. Verbatim including the OCR artifacts "consciousness oftime," "no where," and "false mem ory." Label: `Interpretive synthesis`.

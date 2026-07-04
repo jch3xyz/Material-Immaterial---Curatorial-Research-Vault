@@ -7,6 +7,8 @@ sources:
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/08 Chapter 6 - Hijacked - The Division of Learning in Society]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]"
+  - "[[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]"
+  - "[[raw/Debord - The Society of the Spectacle/06 Ch3 - Unity and Division Within Appearances]]"
 related:
   - "[[Byung-Chul Han and Walter Benjamin]]"
   - "[[Exploitation of Freedom]]"
@@ -17,8 +19,9 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
   - "[[Shoshana Zuboff]]"
+  - "[[Guy Debord]]"
 confidence: medium
-last_updated: 2026-06-08
+last_updated: 2026-07-04
 ---
 
 # Capital as Religion
@@ -47,15 +50,25 @@ Second, and more distinctively, Zuboff describes surveillance capitalism re-erec
 
 Third, in "Rendition" the religious vocabulary becomes operational: every digital interface exacts "its continuous tithe of raw-material supplies," so that to encounter the apparatus is to be "rendering unto surveillance capitalism." Rendition runs on "the dictatorship of no alternatives" — "individuals do not render their experience out of choice or obligation but rather out of ignorance and the dictatorship of no alternatives" — a compulsion that, like Han's perpetual debt, forecloses freedom while wearing the form of consent. Read alongside Han, Zuboff supplies the surveillance-economic substrate of capital-as-religion: a cult of accumulation legitimated by a "divine plan," administered by a new priesthood, and funded by a tithe of behavioral surplus extracted under coercion. (Label: `Directly stated`.)
 
+## Guy Debord (The Society of the Spectacle)
+
+Debord supplies the genealogical ground beneath the Han/Benjamin reading: capital-as-religion is not merely analogized to a cult but is the *materialization* of religion itself. In *The Society of the Spectacle* (1967), thesis 20, he writes that "The spectacle is the material reconstruction of the religious illusion. Spectacular technology has not dispersed the religious mists into which human beings had projected their own alienated powers, it has merely brought those mists down to earth." The spectacle does not abolish religion by secular enlightenment; it secularizes and materializes it — inheriting religion's function of exiling human powers into a "world beyond" and reinstalling that beyond within earthly life. This is the precise move Han and Harari later restate: capitalism as the modern form the sacred takes, rather than the force that dispels it. Because Debord roots the illusion in [[the spectacle is the material reconstruction of the religious illusion]] as the descendant of Marx's commodity fetishism, capital-as-religion is here grounded in the [[Spectacle]] and in [[Reification]], not in a theology of guilt. (Label: `Directly stated`.)
+
+In Chapter 3 ("Unity and Division Within Appearances") the cult becomes explicitly commodity-form. Debord argues that "the fetishism of commodities generates its own moments of fervent arousal," so that "Consumers are filled with religious fervor for the sovereign freedom of commodities whose use has become an end in itself" (thesis 67). Collecting acquires a sacramental structure: "Those who collect the trinkets that have been manufactured for the sole purpose of being collected are accumulating commodity indulgences-glorious tokens of the commodity's real pres ence among the faithful" (thesis 67). The vocabulary is exact and literal — *indulgences*, *the faithful*, *real presence*, "a mystical self abandonment to commodity transcendence" — the eucharistic and penitential apparatus of the Church transposed onto the commodity. Where Han's Capital is a God that *makes us guilty*, Debord's commodity is a God that *makes us worship*: the same secularized-religion diagnosis approached from consumption's rapture rather than debt's guilt. Together they give the concept its two poles — the cult of debt (Han/Benjamin) and the cult of fervent consumption (Debord) — both cases of religion brought "down to earth" rather than dispersed. (Label: `Directly stated`; the Debord→Han descent is `Interpretive synthesis` / `Conceptual parallel`.)
+
 ## Authors and Variants
 
 - **[[Walter Benjamin]]** — originator of the thesis in the fragment "Capitalism as Religion" (1921): capitalism is a cultic religion with no theology and no day of atonement, "the first case of a cult that creates guilt, not atonement," in which guilt accumulates without relief. Han cites this directly; the term and its formulation are Benjamin's. (Forward-stub — Benjamin's own text is not yet ingested in `raw/`.)
 - **[[Byung-Chul Han]]** — adopts Benjamin's thesis to diagnose neoliberal financial capitalism, fusing it with his own analysis: Capital as "a new transcendency" and "new master"; the *Schuld/Schulden* pun (guilt = debt) as an "instrument of domination" wielded by the neoliberal regime; perpetual indebtedness as the mechanism by which "the state of unfreedom perpetuates itself."
 - **[[Shoshana Zuboff]]** — supplies the surveillance-economic register: capital sacralized by a pseudoscientific "natural law" / "divine plan" (the robber-baron lineage), a "pre-Gutenberg" *priesthood* of computational specialists hoarding the "shadow text," and a "continuous tithe" of behavioral surplus exacted under "the dictatorship of no alternatives." Not a cult of guilt but a cult of secret knowledge and accumulation, "profoundly antidemocratic" and not originating in the state.
+- **[[Guy Debord]]** — supplies the genealogical ground: the spectacle as "the material reconstruction of the religious illusion" (th.20), religion not dispersed but "brought down to earth"; and the commodity-cult of consumption, where the fetishism of commodities generates "religious fervor," collectors accumulate "commodity indulgences-glorious tokens of the commodity's real presence among the faithful" (th.67). Where Han's Capital makes us guilty, Debord's commodity makes us worship — the same secularization of religion approached through consumption's rapture rather than debt's guilt.
 
 ## Related Concepts
 
 - [[Byung-Chul Han and Walter Benjamin]] — the reference note that carries the citation lineage; this concept extends that relationship from *The Transparency Society* into *Psychopolitics*.
+- [[Byung-Chul Han and Guy Debord]] — the keystone Han↔Debord reference; Han's diagnosis of transparency/spectacle descends from Debord, and the capital-as-secularized-religion figure is one of the inherited threads.
+- [[Spectacle]] — Debord's central concept; capital-as-religion is here grounded in the spectacle as "the material reconstruction of the religious illusion."
+- [[Reification]] — the commodity fetishism (Marx/Lukács, extended by Debord) that supplies the commodity-cult of "the faithful" and "commodity transcendence."
 - [[Exploitation of Freedom]] — debt is the theological face of self-exploitation: freedom is surrendered voluntarily through perpetual indebtedness.
 - [[Auto-Exploitation]] — the debtor is "master and slave in one"; Capital-as-religion is the cult under which the self-exploiting subject worships and is made guilty.
 - [[Society of Control]] — in "The Mole and the Snake," guilt and debt are named as the control society's instruments of domination.
@@ -72,6 +85,7 @@ Third, in "Rendition" the religious vocabulary becomes operational: every digita
 - How does this theological framing of Capital relate to Han's claim that the contradiction between forces and relations of production "admits no dialectical *Aufhebung*" — is religion the form capitalism takes precisely because it cannot be sublated?
 - Is the smartphone-as-rosary and "Like is the digital Amen" passage a continuation of the same cult, relocating the religion of Capital into devotional digital objects?
 - Is Zuboff's "pre-Gutenberg" priesthood of computational specialists the same religion Han diagnoses, or a different cult — one of secret knowledge rather than of guilt — and what would atonement (or Reformation) look like for it?
+- If Debord is right that the spectacle merely brings the religious mists "down to earth" rather than dispersing them, is Han's cult of debt and Debord's cult of consumption two faces of one secularized religion — and does either the guilt-pole or the worship-pole admit an exit the other forecloses?
 
 ## Sources
 
@@ -135,3 +149,18 @@ Relevant passage:
 > Under the regime of surveillance capitalism, individuals do not render their experience out of choice or obligation but rather out of ignorance and the dictatorship of no alternatives. The ubiquitous apparatus operates through coercion and stealth.
 
 Supports: Zuboff supplies a parallel theological/world-making register for capital — the "divine plan" / pseudoscientific natural law that sacralizes accumulation (the robber-baron lineage of the "digital barons"), the "pre-Gutenberg" *priesthood* of computational specialists who hoard the shadow text, and the "continuous tithe" of behavioral surplus exacted under "the dictatorship of no alternatives." A cult of secret knowledge and accumulation rather than Han's cult of guilt and debt. Label: `Directly stated`. (Connection of Zuboff to Han's "Capital as Religion" is a vault-internal conceptual parallel, not a citation Zuboff makes — confidence `medium`.)
+
+### Source 6
+
+Book: *The Society of the Spectacle*
+Author: Guy Debord
+Raw file: [[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]] , [[raw/Debord - The Society of the Spectacle/06 Ch3 - Unity and Division Within Appearances]]
+Relevant passage:
+
+> The spectacle is the material reconstruction of the religious illusion. Spectacular technology has not dispersed the religious mists into which human beings had projected their own alienated powers, it has merely brought those mists down to earth (thesis 20)
+
+> Consumers are filled with religious fervor for the sovereign freedom of commodities whose use has become an end in itself. (thesis 67)
+
+> Those who collect the trinkets that have been manufactured for the sole purpose of being collected are accumulating commodity indulgences-glorious tokens of the commodity's real pres ence among the faithful. (thesis 67)
+
+Supports: Debord grounds the capital-as-secularized-religion reading that Han and Harari inherit: the spectacle *materializes* rather than disperses religion (th.20), bringing the "religious mists down to earth"; and the commodity-cult of consumption — "religious fervor," "commodity indulgences," "the faithful," "the commodity's real presence" (th.67) — the eucharistic/penitential apparatus transposed onto the commodity. Where Han's Capital makes us guilty (the cult of debt), Debord's commodity makes us worship (the cult of consumption), both cases of religion brought down to earth. Label: `Directly stated` (Debord's own claims); the Debord→Han descent is `Interpretive synthesis` / `Conceptual parallel`.
