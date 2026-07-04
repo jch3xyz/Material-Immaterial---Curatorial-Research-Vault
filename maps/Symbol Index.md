@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Symbol Index
@@ -93,6 +93,16 @@ Han's and Hayles's figures of positivity and negativity: the like-button as digi
 - [[The Like Button]] — emblem of consensus-positivity; the capitalism of Like, Like as the digital Amen (Psychopolitics)
 - [[The Mask]] — persona, Schein, symbolic appearance transparency wars against
 - [[The Mole and the Snake]] — Deleuze's paired animals: the disciplinary mole of enclosure vs the neoliberal snake of modulation (Han, Psychopolitics)
+
+## Systems, Feedback & the Leverage Point
+
+Meadows's real-world cases in *Thinking in Systems*: visible feedback made high-leverage, decades-long ecological oscillation, the shared resource ruined by weak feedback, the fever chart of the wrong goal, and the material apparatus as the clothing of a paradigm.
+
+- [[The Electric Meter]] — visible feedback (the Dutch houses) as an immaterial high-leverage intervention (Meadows, Ch4)
+- [[The Spruce Budworm]] — decades-long oscillation, ecologically stable yet economically unstable (Meadows, Ch4)
+- [[The Commons]] — Hardin's shared pasture ruined by rational herdsmen (Meadows, Ch5)
+- [[The GNP]] — the fever chart of consumption; the wrong-goal emblem (Meadows, Ch5)
+- [[Pyramids and Skyscrapers]] — the material apparatus as the clothing of a paradigm (Meadows, Ch6)
 
 ## Related
 

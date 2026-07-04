@@ -12,12 +12,20 @@ sources:
   - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
   - "[[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]"
   - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
+  - "[[raw/Meadows - Thinking in Systems/04 Introduction - The Systems Lens]]"
+  - "[[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]"
+  - "[[raw/Meadows - Thinking in Systems/06 Chapter 2 - A Brief Visit to the Systems Zoo]]"
+  - "[[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]"
 related:
   - "[[Cybernetics]]"
   - "[[Embodiment]]"
   - "[[Posthumanism]]"
   - "[[The Extrapolated Body]]"
   - "[[Systems Theory]]"
+  - "[[Balancing Feedback Loop]]"
+  - "[[Reinforcing Feedback Loop]]"
+  - "[[Shifting Dominance]]"
+  - "[[Delays]]"
 opposes:
   - "[[Embodiment vs Information]]"
 authors:
@@ -26,8 +34,9 @@ authors:
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
   - "[[Roy Ascott]]"
+  - "[[Donella Meadows]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Feedback Loops
@@ -43,6 +52,8 @@ The feedback loop is the cybernetic mechanism by which information circulates be
 **Read the loop as connective — the circuit that couples a system to what lies outside it, dissolving the boundary it crosses.** This is the dominant register, and it runs from control theory into a theory of subjectivity. **[[Norbert Wiener]]** is the originating figure: confronted with a probabilistic universe, he requires "a flexible, self-regulating system of control based on feedback from the system itself," and redefines purposive behavior as "behavior controlled by negative feedback." **[[N. Katherine Hayles]]** turns that engineering idea diagnostic: because "feedback loops can flow not only within the subject but also between the subject and the environment," the loop makes the body's boundary porous and underwrites the deconstruction of [[The Liberal Humanist Subject|the liberal humanist subject]] (`Directly stated`). This is the register the Longer Explanation develops at length, and it is the technical ground for [[Posthumanism|the posthuman]] continuity of human, animal, and machine.
 
 **Read the loop as participatory or homeostatic — equilibrium-seeking, and emphatically embodied.** Here the loop is still self-regulating, but it runs through a body or a triad rather than over a channel of measurable information. **[[Marshall McLuhan]]** supplies the physiological register: every medium is an extension of the body and every extension is "an attempt to maintain equilibrium" for the overstressed central nervous system, with autoamputation, counter-irritation, and comfort as its tactics; in the Automation chapter he also uses "feedback" in its explicit cybernetic sense — "an information loop or circuit" that ends the "one-way flow" of mechanical and typographic linearity (see [[Homeostasis]]). **[[Jack Burnham]]** supplies the art-theoretical register: negative feedback is the self-regulating principle of the cybernetic art *system* — coupled systems "designed to maintain a relatively constant input-output relationship," echoing Cannon's homeostasis — and reciprocal, closed-loop coupling is his criterion separating the responsive [[Cyborg Art]] he forecasts from the "one-way message" of all prior sculpture (see [[Negative Feedback (Burnham)]], [[Object vs System]]). **[[Roy Ascott]]** supplies the participatory register: feedback is "the basic principle" of behaviourist art, "this loop" that "makes an integral whole of the triad artist/artwork/observer," converting the spectator into a "decision maker" whose response re-enters the work as input (see [[Reciprocal Communication]]). The three share Wiener's equilibrium vocabulary while keeping the loop in the body, the object-as-system, and the participatory relation.
+
+**Ground the loop in its native discipline — the basic operating unit of a system.** Where the four accounts above carry feedback secondhand through cybernetics and art, **[[Donella Meadows]]** supplies the primary-source, system-dynamics definition: the loop is "the basic operating unit of a system," formed when "changes in a stock affect the flows into or out of that same stock," and it splits cleanly into *balancing* (stabilizing, goal-seeking) and *reinforcing* (amplifying, runaway) kinds. When several loops act on one stock, the *dominant* loop sets the behavior — growth, equilibrium, or decline — and complex behavior arises as dominance shifts. Meadows also states the loop's inherent limit: feedback "can only affect future behavior." Her account is the native-discipline anchor the note has otherwise lacked (see [[Balancing Feedback Loop]], [[Reinforcing Feedback Loop]], [[Shifting Dominance]], [[Delays]]).
 
 **Deny that the loop connects at all.** Against the connective reading, second-order cybernetics — Maturana and Varela, as Hayles reports them — turns the loop "inside out": on the premise that systems are informationally closed, "no information crosses the boundary," so "the loop no longer functions to connect a system to its environment" (see [[Systems Theory]]). This dissent is what makes the loop a genuinely contested concept rather than a settled definition, and it sharpens the [[Embodiment vs Information]] question the connective readings raise: if the loop both crosses the skin (Hayles, VR) and, on the autopoietic premise, crosses nothing, then where the material substrate sits in the circuit is exactly what is at stake (see [[Material vs Immaterial]]).
 
@@ -76,6 +87,14 @@ Ascott's "Change Painting" (his teaching area at Ealing was literally titled "Th
 
 In "The Psibernetic Arch" (1970) Ascott pushes the feedback principle to a visionary limit. Extending McLuhan ("as with TV, so with ESP, the medium is the message," Source 14), he proposes that extrasensory perception is the asymptote of cybernetic feedback: telepathy and clairvoyance are "the most perfect form of communication and social feedback imaginable, although its manifestation is erratic" — "more instant than instant electronic communications, because it involves no media." Here the loop is recast as *psi* — a medialess social feedback he names psibernetics — and Ascott crisply opposes its two poles: "ESP is instant, but sporadic. Cybernetics is universal, but entropic" (Source 14). This register is firmly Ascott's own *visionary* mode and should be read as his prediction rather than as fact (`Speculative connection`).
 
+## Donella Meadows (Thinking in Systems)
+
+Meadows is the vault's clearest *primary* source on feedback: where Hayles, McLuhan, Burnham, and Ascott carry the concept secondhand through cybernetics and art, Meadows — a system-dynamics scientist trained under Jay Forrester at MIT — defines it in its native discipline. In her Introduction she names it the elemental building block: reassembling the parts of a system, she writes, she "put the parts back together to show how they interconnect to make the basic operating unit of a system: the feedback loop" (Source 15). The formal definition follows in "The Basics," and it is stated in the vocabulary of *stocks* (accumulations) and *flows* (the rates that fill and drain them): "A feedback loop is formed when changes in a stock affect the flows into or out of that same stock" (Source 16). The loop is thus a closed causal chain running from a stock, through decisions or physical laws that depend on the stock's level, and back through a flow to change the stock — the mechanism by which, as Meadows puts it elsewhere, "a system can cause its own behavior." This grounds in system dynamics exactly the self-regulating circuit the corpus's other authors invoke, and it cross-links directly to [[Homeostasis]], [[Cybernetics]], and [[Systems Theory]] (`Directly stated`).
+
+Meadows's decisive move is to split the loop into two kinds, the polarity Burnham and Wiener also drew but which she treats as the discipline's founding distinction. **Balancing** loops are "equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change" (Source 16) — the stabilizing, homing behavior of a thermostat or a cooling cup of coffee. **Reinforcing** loops are their runaway opposite: "Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself" (Source 16). In the Leverage Points chapter she compresses the contrast to an axiom — "A balancing feedback loop is self-correcting; a reinforcing feedback loop is self-reinforcing. The more it works, the more it gains power to work some more, driving system behavior in one direction" (Source 18) — and warns that "a system with an unchecked reinforcing loop ultimately will destroy itself." This is the native-discipline parent of two vault threads the loop has otherwise carried by analogy: the balancing loop grounds [[Homeostasis]] (see [[Balancing Feedback Loop]]), while the reinforcing loop is the value-neutral structure beneath both Han's pathologized [[Acceleration]] and Kurzweil's celebrated [[The Law of Accelerating Returns]] (see [[Reinforcing Feedback Loop]]) (`Directly stated`).
+
+The last piece Meadows adds is what happens when *coupled* loops act on a single stock — the case that makes systems interesting. "A stock governed by linked reinforcing and balancing loops will grow exponentially if the reinforcing loop dominates the balancing one. It will die off if the balancing loop dominates the reinforcing one. It will level off if the two loops are of equal strength" (Source 17). Behavior is therefore a question of *dominance*, and complex behavior arises "as the relative strengths of feedback loops shift, causing first one loop and then another to" dominate — Meadows names this an "important concept in systems thinking" (see [[Shifting Dominance]]). Finally, she states the loop's built-in temporal limit, a constraint the corpus's other authors leave implicit: "The information delivered by a feedback loop can only affect future behavior; it can't deliver the information, and so can't have an impact fast enough to correct behavior that drove the current feedback" (Source 17). Because flows take time to flow, delays are intrinsic to feedback and are, in Meadows's phrase, "strong determinants of behavior" — a delay in a balancing loop makes a system prone to oscillate (see [[Delays]]). This temporal register — the loop as something that reaches only forward, never back — is Meadows's native-discipline sharpening of the equilibrium vocabulary the whole note shares (`Directly stated`).
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — Uses the feedback loop diagnostically: as the cybernetic mechanism that erodes liberal autonomy, defines the technobio-integrated circuit of VR, and links technology to discourse via incorporation. She insists the loop runs through material, embodied processes, so it is for her a hinge against the disembodiment of information rather than evidence for it.
@@ -83,6 +102,7 @@ In "The Psibernetic Arch" (1970) Ascott pushes the feedback principle to a visio
 - **[[Marshall McLuhan]]** — The physiological / homeostatic register. All extensions of the body are "attempts to maintain equilibrium"; pleasure (counter-irritation) and comfort (removal of irritants) are "strategies of equilibrium for the central nervous system." In the Automation chapter he also uses "feedback" in its cybernetic sense — "an information loop or circuit" that ends the "one-way flow" of mechanical and typographic linearity. The loop here is equilibrium-seeking and emphatically embodied (see [[Homeostasis]]).
 - **[[Jack Burnham]]** — The art-theoretical register. Negative feedback is the self-regulating principle of the cybernetic art system / servo-mechanism: "any number of coupled systems are designed to maintain a relatively constant input-output relationship," echoing Cannon's homeostasis. Its opposite, positive feedback, is runaway "hunting." Reciprocal, closed-loop feedback is Burnham's criterion separating the responsive [[Cyborg Art]] he forecasts ("any artificial system connected through reciprocal feedback to an organism") from the "one-way message" of all prior sculpture (see [[Negative Feedback (Burnham)]], [[Cybernetics]]).
 - **[[Roy Ascott]]** — The participatory / behavioural register. For Ascott feedback is "the basic principle" of *behaviourist art*: "this loop... makes an integral whole of the triad artist/artwork/observer." The spectator becomes a "decision maker" whose response re-enters as input, so "the artifact/observer system furnishes its own controlling energy." The same loop governs his Ealing pedagogy ("each feeding back to the other"). In "The Psibernetic Arch" (1970) he pushes the principle to a visionary limit, recasting ESP as a medialess "social feedback" — "ESP is instant, but sporadic. Cybernetics is universal, but entropic" (see [[Reciprocal Communication]], The Construction of Change, [[Object vs System]], [[Material vs Immaterial]]).
+- **[[Donella Meadows]]** — The native-discipline (system-dynamics) register, and the vault's clearest primary source on feedback. The loop is "the basic operating unit of a system," formed "when changes in a stock affect the flows into or out of that same stock." It splits into *balancing* (stabilizing, goal-seeking — "sources of stability and sources of resistance to change") and *reinforcing* (amplifying, runaway — "self-enhancing, leading to exponential growth or to runaway collapses") kinds. Coupled loops on one stock produce growth, equilibrium, or decline by shifting dominance, and feedback "can only affect future behavior" (see [[Balancing Feedback Loop]], [[Reinforcing Feedback Loop]], [[Shifting Dominance]], [[Delays]]).
 - **Second-order / autopoietic variant (dissent)** — In the second wave, Maturana and Varela turn the loop "inside out": on the premise that systems are informationally closed, "no information crosses the boundary separating the system from its environment," so "the loop no longer functions to connect a system to its environment." This denies that messages circulate in feedback loops at all (see [[Systems Theory]]) and shifts attention from the observed system to the observer.
 
 ## Related Concepts
@@ -93,6 +113,10 @@ In "The Psibernetic Arch" (1970) Ascott pushes the feedback principle to a visio
 - [[The Extrapolated Body]] — the cyborg/prosthetic extension realized by informational pathways and feedback couplings.
 - [[Systems Theory]] — second-order cybernetics and autopoiesis reinterpret (and partly deny) the loop's function.
 - [[The Body as Data]] — feedback presupposes a body legible as information flowing through the circuit.
+- [[Balancing Feedback Loop]] — Meadows's stabilizing, goal-seeking loop; the native-discipline parent of homeostasis/negative feedback.
+- [[Reinforcing Feedback Loop]] — Meadows's amplifying, runaway loop; the value-neutral structure beneath acceleration and exponential growth.
+- [[Shifting Dominance]] — which coupled loop dominates a stock sets the behavior; complex behavior arises as dominance shifts.
+- [[Delays]] — feedback can only affect future behavior; delays are intrinsic to loops and prone to induce oscillation.
 
 ## Opposing Concepts
 
@@ -105,6 +129,7 @@ In "The Psibernetic Arch" (1970) Ascott pushes the feedback principle to a visio
 - When VR trains the user to feel boundaries "defined less by the skin than by the feedback loops," is the body being extended or erased — incorporated into the circuit, or reduced to [[The Body as Data]]?
 - Can the feedback loop link technology to discourse without dissolving materiality into information, given Hayles's claim that incorporation is the "crucial link"?
 - If autopoiesis is right that no information crosses the system boundary, is the entire posthuman picture of subject-environment feedback a category error — and what then becomes of the [[Material vs Immaterial]] distinction the loop was supposed to bridge?
+- If, as Meadows insists, feedback "can only affect future behavior," is the equilibrium the other authors credit to the loop always achieved *late* — and does that intrinsic delay reframe the cybernetic dream of real-time self-regulation as structurally impossible? (ties to [[Delays]])
 
 ## Sources
 
@@ -289,3 +314,67 @@ And:
 > ESP is instant, but sporadic. Cybernetics is universal, but entropic.
 
 Supports: Anchors Ascott's 1970 visionary extension of the feedback principle — ESP as a medialess "social feedback" (psibernetics), extending McLuhan's "the medium is the message" to ESP, with the crisp opposition of the two poles ("ESP is instant, but sporadic. Cybernetics is universal, but entropic"). To be read as Ascott's prediction, not as fact. Label: `Speculative connection`.
+
+### Source 15
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/04 Introduction - The Systems Lens]]
+Relevant passage:
+
+> Then I put the parts back together to show how they interconnect to make the basic operating unit of a system: the feedback loop.
+
+Supports: Grounds the Meadows section's opening claim — the feedback loop is the native-discipline "basic operating unit of a system," the elemental building block from which all system behavior is assembled. Label: `Directly stated`.
+
+### Source 16
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]
+Relevant passage:
+
+> A feedback loop is formed when changes in a stock affect the flows into or out of that same stock.
+
+And:
+
+> Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change.
+
+And:
+
+> Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself.
+
+Supports: The keystone native-discipline definition — the loop formed when a stock's changes affect its own flows — plus the founding split into balancing (stabilizing, goal-seeking) and reinforcing (amplifying, runaway) kinds. Grounds [[Balancing Feedback Loop]] and [[Reinforcing Feedback Loop]]. Label: `Directly stated`.
+
+### Source 17
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/06 Chapter 2 - A Brief Visit to the Systems Zoo]]
+Relevant passage:
+
+> A stock governed by linked reinforcing and balancing loops will grow exponentially if the reinforcing loop dominates the balancing one. It will die off if the balancing loop dominates the reinforcing one. It will level off if the two loops are of equal strength
+
+And:
+
+> Dominance is an important concept in systems thinking. When one loop dominates another, it has a stronger impact on behavior.
+
+And:
+
+> The information delivered by a feedback loop can only affect future behavior; it can’t deliver the information, and so can’t have an impact fast enough to correct behavior that drove the current feedback.
+
+Supports: Anchors the coupled-loops account (growth, equilibrium, or decline depending on which loop dominates a single stock), the concept of dominance ([[Shifting Dominance]]), and the loop's intrinsic temporal limit — feedback can only affect future behavior, so delays are structural ([[Delays]]). Label: `Directly stated`.
+
+### Source 18
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]
+Relevant passage:
+
+> A balancing feedback loop is self-correcting; a reinforcing feedback loop is self-reinforcing. The more it works, the more it gains power to work some more, driving system behavior in one direction.
+
+And:
+
+> Reinforcing feedback loops are sources of growth, explosion, erosion, and collapse in systems. A system with an unchecked reinforcing loop ultimately will destroy itself.
+
+Supports: The compressed axiom contrasting the two loop kinds (self-correcting vs self-reinforcing) and the warning that an unchecked reinforcing loop destroys its system — the value-neutral structure beneath Han's [[Acceleration]] and Kurzweil's [[The Law of Accelerating Returns]]. Label: `Directly stated`.

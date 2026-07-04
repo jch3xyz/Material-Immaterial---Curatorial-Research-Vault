@@ -18,6 +18,8 @@ sources:
   - "[[raw/Ascott - Telematic Embrace/04 From Cybernetics to Telematics]]"
   - "[[raw/Ascott - Telematic Embrace/07 Behaviourist Art and the Cybernetic Vision]]"
   - "[[raw/Ascott - Telematic Embrace/09 The Psibernetic Arch]]"
+  - "[[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]"
+  - "[[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]"
 related:
   - "[[Feedback Loops]]"
   - "[[Homeostasis]]"
@@ -36,8 +38,9 @@ authors:
   - "[[Marshall McLuhan]]"
   - "[[Jack Burnham]]"
   - "[[Roy Ascott]]"
+  - "[[Donella Meadows]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Cybernetics
@@ -106,6 +109,7 @@ By 1970, in "The Psibernetic Arch," Ascott pushes the discipline toward its seco
 - **[[Marshall McLuhan]]** — reads cybernetics (his term: "cybernation") physiologically and medially: electric media "outer" the central nervous system, extending it "in a global embrace" so that the planet becomes a single nervous system, and the human couples to its media with "servo-mechanistic fidelity." Cybernation supersedes the discrete machine with "an integrated system of information handling" and is defined by the separation of energy from the "translation of information." The fuller autoamputation/servo-mechanism material is developed in Ch. 4 ("The Gadget Lover") and treated in [[Autoamputation]] and [[Man as Servomechanism of His Extensions]].
 - **[[Jack Burnham]]** — reads cybernetics as the art-theoretical engine of sculpture's migration from object to system: "cybernetics is preeminently the science of organization," the kybernetes/steersman become "a new and even more effective prime mover" in place of vitalism's *élan vital*. It grounds [[Cyborg Art]] and [[Systems Esthetics]], lets the inert object become "an interacting assembly," and frames technics as "pockets of decreasing entropy" against rising global entropy.
 - **[[Roy Ascott]]** — reads cybernetics as a *spirit* (*l'esprit cybernétique*) and a "stance" rather than a method or "robot art," the participatory pole complementing Burnham's object→system esthetics: "cybernetics… concerns the idea of the perfectibility of systems" and "the perfectibility of man." Its principle is the [[Feedback Loops|feedback loop]] that makes "an integral whole of the triad artist/artwork/observer," scaling in his [[Cybernetic Art Matrix]] to a networked institution and, by 1970, arched toward second-order, ESP-and-consciousness horizons ("ESP is instant, but sporadic. Cybernetics is universal, but entropic").
+- **[[Donella Meadows]]** — supplies the discipline in its *native* home: where the vault's other authors carry the feedback-control vocabulary secondhand, Meadows (a system-dynamics scientist trained under [[Jay Forrester]] at MIT) practices it directly. Her governing figure is the thermostat, the goal-seeking control emblem of cybernetics — "A thermostat loop is the classic example," needing "a goal (the thermostat setting), a monitoring and signaling device to detect deviation from the goal (the thermostat), and a response mechanism." Cybernetics for her is what lets a system regulate itself: "The concept of feedback opens up the idea that a system can cause its own behavior." She anchors the lineage to its source in a Forrester epigraph, the field's programmatic creed — "Systems of information-feedback control are fundamental to all life and human endeavor."
 
 ## Related Concepts
 
@@ -130,6 +134,12 @@ By 1970, in "The Psibernetic Arch," Ascott pushes the discipline toward its seco
 - Can the cybernetic reconception of humans, animals, and machines as information-processing systems be held without the "leap from embodied reality to abstract information" Hayles contests? (ties to [[Embodiment vs Information]])
 - Is the disembodiment cybernetics produced an "inexorable logic" of the field, or a contingent outcome that an embodied cybernetics could undo? (ties to [[Embodiment]], [[Posthumanism]])
 - Does Wiener's intent to *extend* liberal humanism through cybernetics survive the discipline's own pressure toward dissolving the autonomous subject? (ties to [[Posthumanism]], [[Norbert Wiener]])
+
+## Donella Meadows (Thinking in Systems)
+
+Where every other author in this note receives cybernetics at one remove — Hayles historically, Haraway politically, McLuhan medially, Burnham and Ascott into art — [[Donella Meadows]] writes from *inside* the discipline. A system-dynamics scientist trained by [[Jay Forrester]] at MIT and lead author of *The Limits to Growth*, she practices the feedback-control tradition the others narrate, and her *Thinking in Systems* is the vault's first native-discipline articulation of the [[Feedback Loops|feedback loop]] that cybernetics theorizes. Her keystone claim gives the discipline its distinctive causal reach: "The concept of feedback opens up the idea that a system can cause its own behavior." `Directly stated` A system, on this account, is not driven by external events but generates its own trajectory through the loops that couple a stock back to the flows that fill or drain it — the same self-regulating closure Wiener's steersman names.
+
+Meadows's governing figure is the **thermostat**, the goal-seeking control emblem cybernetics has carried since its founding — here restored to its home ground rather than borrowed as an analogy. "A thermostat loop is the classic example," she writes of the balancing feedback loop; "Any balancing feedback loop needs a goal (the thermostat setting), a monitoring and signaling device to detect deviation from the goal (the thermostat), and a response mechanism (the furnace and/or air conditioner, fans, pumps, pipes, fuel, etc.)." `Directly stated` This is the native-discipline parent of the [[Homeostasis|homeostatic]] regulation the vault has otherwise met only through Hayles's account of first-wave cybernetics. Meadows anchors the whole lineage to its source in an epigraph from her teacher — the discipline's programmatic creed, and the reason cybernetics claims to describe animals, humans, and machines alike: "Systems of information-feedback control are fundamental to all life and human endeavor, from the slow pace of biological evolution to the launching of the latest space satellite.... Everything we do as individuals, as an industry, or as a society is done in the context of an information-feedback system." `Directly stated` (a direct citation of Jay W. Forrester, the founder of system dynamics and Meadows's mentor; see [[Feedback Loops]] for the fuller Meadows treatment of the balancing/reinforcing distinction.)
 
 ## Sources
 
@@ -396,3 +406,36 @@ Relevant passage:
 > ESP is instant, but sporadic. Cybernetics is universal, but entropic.
 
 Supports: Ascott's crisp characterisation of cybernetics' limits (universal but entropic) as one pole of his "psibernetic arch" wedding cybernetics to parapsychology and pushing feedback toward its second-order/visionary limit. Label: `Directly stated`
+
+### Source 25
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]
+Relevant passage:
+
+> The concept of feedback opens up the idea that a system can cause its own behavior.
+
+Supports: The Meadows section's keystone claim—cybernetics' goal-seeking feedback loop gives a system the power to generate its own behavior (the self-regulating closure at the heart of the discipline). Label: `Directly stated`
+
+### Source 26
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]
+Relevant passage:
+
+> A thermostat loop is the classic example. Its purpose is to keep the system stock called "temperature of the room" fairly constant near a desired level. Any balancing feedback loop needs a goal (the thermostat setting), a monitoring and signaling device to detect deviation from the goal (the thermostat), and a response mechanism (the furnace and/or air conditioner, fans, pumps, pipes, fuel, etc.).
+
+Supports: The thermostat as cybernetics' goal-seeking control emblem in its native discipline—the balancing/goal-seeking loop restored to its home ground (parent of the vault's secondhand homeostasis). Label: `Directly stated`
+
+### Source 27
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]
+Relevant passage:
+
+> Systems of information-feedback control are fundamental to all life and human endeavor, from the slow pace of biological evolution to the launching of the latest space satellite.... Everything we do as individuals, as an industry, or as a society is done in the context of an information-feedback system.
+
+Supports: Meadows's Forrester epigraph—a direct citation of Jay W. Forrester (founder of system dynamics, her MIT teacher and a new author forward-stub) grounding the field's dictum that information-feedback control is fundamental to all life and human endeavor. Label: `Directly stated` (a direct citation of Forrester within Meadows's text).

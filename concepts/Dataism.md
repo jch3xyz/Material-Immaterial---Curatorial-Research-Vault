@@ -16,6 +16,7 @@ sources:
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/16 Chapter 14 - A Utopia of Certainty]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/17 Chapter 15 - The Instrumentarian Collective]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/20 Chapter 18 - A Coup from Above]]"
+  - "[[raw/Meadows - Thinking in Systems/12 Chapter 7 - Living in a World of Systems]]"
 related:
   - "[[Information]]"
   - "[[Narrativity]]"
@@ -28,8 +29,9 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Yuval Noah Harari]]"
   - "[[Shoshana Zuboff]]"
+  - "[[Donella Meadows]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Dataism
@@ -76,12 +78,19 @@ If Han diagnoses Dataism as ideology and Harari narrates it as cosmology, **Shos
 
 Zuboff also gives the data-flow imperative its endgame: not merely the worship of data but a "market project of total certainty." Through the ubiquitous apparatus she calls **Big Other** — "the sensate, computational, connected puppet that renders, monitors, computes, and modifies human behavior" — surveillance capital aims at "guaranteed outcomes," "the substitution of machines for social relations, which amounts to the substitution of certainty for society." This is the surveillance-economic face of what Harari calls the Internet-of-All-Things and of Han's warning that Big Data is "blind to the event": the dream of total prediction is here driven by competitive economic imperative rather than cosmic destiny. The productive contrast within this concept: Han indicts Dataism as additive nihilism, Harari narrates it as faith, and Zuboff exposes its *radical indifference* — instrumentarian power "reduces human experience to measurable observable behavior while remaining steadfastly indifferent to the meaning of that experience." All three converge on the voiding of meaning; Zuboff adds the ownership question — who commands the data flow, and for whose ends (`Directly stated`).
 
+## Donella Meadows (Thinking in Systems)
+
+Where Han, Harari, and Zuboff all approach Dataism as a *new* condition — an ideology, a cosmology, a logic of accumulation — [[Donella Meadows]] supplies the anti-quantification critique in its *native systems-discipline* form, and dates it not to Big Data but to a much older cultural habit. In her closing "systems wisdom" she names the measurement-worship that Dataism raises to a creed as a plain distortion of judgment: "Our culture, obsessed with numbers, has given us the idea that what we can measure is more important than what we can't measure." The systems consequence is precise and mechanical rather than merely moral: because the quantifiable is what gets built into the goals of feedback loops, a numbers-obsessed culture will "make quantity more important than quality," and the goals set around what can be counted will yield quantity at the expense of the values that cannot. This is, in effect, the [[What we can measure is not what is important]] argument stated from inside cybernetics — the discipline Dataism claims as its own — turned back against the reduction of value to measurable data (`Directly stated`).
+
+Meadows's sharpest point is the fate of the unmeasurable. Against the "if you can't define it and measure it, I don't have to pay attention to it" ploy, she insists that the values that matter most are exactly the ones no metric captures — and that this immunity to measurement is not their weakness but the reason they need active defenders: "No one can define or measure any value. But if no one speaks up for them, if systems aren't designed to produce them, if we don't speak about them and point toward their presence or absence, they will cease to exist." Read beside Dataism, this is the systems-native counterpart to Han's charge that data "fills up the senseless void" and to Harari's account of a worldview that measures a symphony by "the data it carries" rather than the experience it creates: the very measurement-worship Dataism celebrates is, for Meadows, the mechanism by which a system quietly extinguishes what it cannot quantify. The bridge from her feedback-loop critique to the vault's Dataism / [[Quantified Self]] / [[Big Data]] / [[The Body as Data]] cluster is drawn here as `Interpretive synthesis`; Meadows's own claims are `Directly stated`.
+
 ## Authors and Variants
 
 - **[[Byung-Chul Han]]** — Names dataism a "second Enlightenment" and unmasks it as ideology, "data totalitarianism," "the barbarism of data," "digital Dadaism," and ultimately "nihilism." For Han the decisive fault is formal: data are additive where meaning is narrative, so a totalized data-knowledge is a totalized ignorance — "the absolute zero of Spirit." He distinguishes dataism (the faith/ideology) from the apparatus that realizes it; the latter is treated under [[Digital Panopticon]] and Big Data as Big Business / micro-targeting. Han takes the *word* from Brooks/Anderson and turns it into a target of critique, calling for a "third Enlightenment" against it.
 - **[[Yuval Noah Harari]]** — The worldview-builder. Harari does not coin the term but elaborates it into a complete cosmology and "the data religion": "the universe consists of data flows," and value is contribution to data processing. Born of the post-Darwin (organisms-as-algorithms) and post-Turing (engineered algorithms) fusion, Dataism "collapses the barrier between animals and machines"; it then mutates "from a neutral scientific theory" into "a religion" whose "supreme value is 'information flow'." Its keystone is the inversion of humanism — "Listen to your feelings!" becomes "Listen to the algorithms!" — and its endpoint is the sidelining of humans: the Internet-of-All-Things, after which "Homo sapiens will vanish." Harari narrates from inside the worldview (mostly non-polemically); his doubts are epistemic, not the charge of voided meaning.
 - **[[Shoshana Zuboff]]** — The political economist of Dataism. Zuboff supplies the institutional machinery behind the data-flow worldview: the rendering of all experience into "behavioral surplus," captured by a "narrow priesthood of privately employed computational specialists" who command the "division of learning in society." The data religion's dream of total prediction becomes, in her account, a "market project of total certainty" pursued through the apparatus of Big Other and the "radical indifference" of instrumentarian power — a "way of knowing" that registers measurable behavior while remaining "indifferent to the meaning of that experience." Zuboff's contribution to the concept is the *ownership* and *power* question Han and Harari leave implicit: who profits from the worship of data.
-- **David Brooks** *(forward-stub — coiner of the term as Han cites him)* — Coined the *word* "Dataism," announcing it as "the rising philosophy of the day," whose creed is that "everything that can be measured should be measured" and that "data is a transparent and reliable lens." (Brooks coined the term; Harari built the worldview around it.)
+- **[[Donella Meadows]]** — The native-systems counterpoint. Meadows supplies the anti-quantification critique from inside cybernetics itself, the discipline Dataism claims: our numbers-obsessed culture "has given us the idea that what we can measure is more important than what we can't measure," so goals set around the quantifiable make "quantity more important than quality" and produce quantity at the expense of value. Her sharpest move concerns the unmeasurable — "No one can define or measure any value" — and its consequence: values not spoken for and not designed into systems "will cease to exist." Where Han, Harari, and Zuboff diagnose Dataism as new, Meadows shows the measurement-worship it celebrates to be a long-standing systems pathology.
+- **David Brooks** *(forward-stub — coiner of the term as Han cites him)* — Coined the *word* "Dataism," announcing it as "the rising philosophy of the day," whose creed is that "everything that can be measured should be measured" and that "data is a transparent and reliable lens." (Brooks coined the term; Harari built the worldview.)
 - **Chris Anderson** *(forward-stub)* — His "The End of Theory" supplies dataism's strongest claim: "With enough data, the numbers speak for themselves." Han reads this "end of theory" as "taking leave of Spirit."
 
 ## Related Concepts
@@ -91,6 +100,7 @@ Zuboff also gives the data-flow imperative its endgame: not merely the worship o
 - [[Positivity]] — Dataism's exclusive valuation of the measurable, the additive, the correlational is a positivism that purges negativity, intuition, and theory.
 - [[Narrativity]] — The pole dataism cannot supply: "Meaning… is based on narration." Self-knowledge "derives from giving an account," not from counting.
 - [[Digital Panopticon]] — The surveillance apparatus through which dataism is operationalized (the aperspectival, total-memory Big Data regime); Dataism is its governing ideology. Zuboff's Big Other is the economic-logic account of the same apparatus.
+- [[What we can measure is not what is important]] — Meadows's systems-discipline statement of the anti-quantification critique: goals set around the quantifiable yield quantity at the expense of value, and unmeasured values "cease to exist." The native counter to Dataism's reduction of worth to data.
 
 ## Opposing Concepts
 
@@ -103,6 +113,7 @@ Zuboff also gives the data-flow imperative its endgame: not merely the worship o
 - Where exactly is the line between dataism-as-ideology and the Big Data apparatus that enacts it — and does critiquing the faith leave the infrastructure untouched? (Zuboff's answer: the faith is downstream of ownership — to contest Dataism is to contest the political economy that profits from it.)
 - Does the claim that "data are additive, not narrative" hold for machine-learning models that generate narrative-like outputs, or does Han's distinction predate and elude them?
 - If Harari narrates Dataism as cosmic destiny and Zuboff exposes it as a "logic of accumulation," is the data religion inevitable or merely profitable?
+- If, as Meadows warns, values not designed into systems "will cease to exist," does a culture that has made data its faith foreclose the quality it can no longer measure — and can a curatorial or political practice "speak up for" the unquantifiable inside a Dataist infrastructure?
 
 ## Sources
 
@@ -267,3 +278,16 @@ Relevant passages:
 > In the age of surveillance capitalism it is instrumentarian power that fills the void, substituting machines for social relations, which amounts to the substitution of certainty for society.
 
 Supports: Provides Dataism's political economy — the rendering of all experience into information/behavioral surplus is captured by a "New Priesthood" commanding the division of learning, and the data-flow worldview's dream of total prediction becomes a "market project of total certainty" pursued through Big Other and the "radical indifference" of instrumentarian power. Zuboff adds the ownership/power question Han (nihilism) and Harari (cosmology) leave implicit. Label: `Directly stated`.
+
+### Source 15
+
+Book: *Thinking in Systems: A Primer*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/12 Chapter 7 - Living in a World of Systems]]
+Relevant passages:
+
+> Our culture, obsessed with numbers, has given us the idea that what we can measure is more important than what we can’t measure.
+
+> No one can define or measure any value. But if no one speaks up for them, if systems aren't designed to produce them, if we don’t speak about them and point toward their presence or absence, they will cease to exist.
+
+Supports: Grounds the native-systems anti-quantification counterpoint to Dataism — a numbers-obsessed culture treats the measurable as more important than the unmeasurable, so goals built around the quantifiable produce quantity at the expense of value, and values not spoken for or designed into systems "cease to exist." The bridge to Dataism / [[Quantified Self]] / [[Big Data]] / [[The Body as Data]] is `Interpretive synthesis`; Meadows's claims are `Directly stated`.

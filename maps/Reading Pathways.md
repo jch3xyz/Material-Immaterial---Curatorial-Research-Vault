@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Reading Pathways
@@ -15,7 +15,7 @@ Cross-cutting paths that run a single thread through the whole corpus.
 - [[The Material and Immaterial axis end to end (Pathway)|The Material and Immaterial axis end to end]] — The vault's titular axis runs from the solidity of the made object to its dissolution into information, fiction, data, and behavioral surplus. This ma…
 - [[Surveillance from the panopticon to Big Other (Pathway)|Surveillance from the panopticon to Big Other]] — The surveillance thread runs the length of the vault, and this pathway follows it as a single argument about who watches, why, and to what end. It ope…
 - [[The posthuman body (Pathway)|The posthuman body]] — This pathway traces embodiment through its successive disavowals and recoveries: it begins where Hayles re-grounds the posthuman in the lived, instant…
-- [[Cybernetics and systems across the vault (Pathway)|Cybernetics and systems across the vault]] — The vault's systems lineage runs from the postwar science of cybernetics through three successive reconceptions of what a system *is*, and out into th…
+- [[Cybernetics and systems across the vault (Pathway)|Cybernetics and systems across the vault]] — The vault's systems lineage now begins in the native discipline — Meadows's *Thinking in Systems* — before running through Hayles's cybernetics historiography, Burnham's systems esthetics, and Ascott's telematic art. Meadows systems primer → Hayles cybernetics → Burnham systems esthetics → Ascott cybernetic/telematic art.
 - [[Art from object to system to network (Pathway)|Art from object to system to network]] — The art spine runs from object to system to network. Burnham watches modern sculpture leave the pedestal and become a system; Lippard watches the art …
 - [[The religious afterlife of technology (Pathway)|The religious afterlife of technology]] — This pathway reads three of the vault's authors as theologians in disguise. O'Gieblyn's *God, Human, Animal, Machine* supplies the master diagnosis — …
 - [[Attention, perception, and the senses (Pathway)|Attention, perception, and the senses]] — This pathway follows a single claim across two thinkers: that media and social regimes reshape perception *beneath* the level of opinion or content — …
@@ -104,3 +104,9 @@ Cross-cutting paths that run a single thread through the whole corpus.
 - [[The discovery and the mechanics of surveillance capitalism (Pathway)|The discovery and the mechanics of surveillance capitalism]]
 - [[Big Other and instrumentarian power (Pathway)|Big Other and instrumentarian power]]
 - [[Naming the unprecedented and the right to the future tense (Pathway)|Naming the unprecedented and the right to the future tense]]
+
+### *Thinking in Systems* (Donella Meadows)
+
+- [[The systems primer — a system, stocks, flows, and feedback (Pathway)|The systems primer — a system, stocks, flows, and feedback]]
+- [[Why systems surprise us — the epistemic spine (Pathway)|Why systems surprise us — the epistemic spine]]
+- [[System traps and leverage points (Pathway)|System traps and leverage points]]

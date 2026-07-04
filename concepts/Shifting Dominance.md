@@ -1,0 +1,83 @@
+---
+type: concept
+status: generated
+sources:
+  - "[[raw/Meadows - Thinking in Systems/06 Chapter 2 - A Brief Visit to the Systems Zoo]]"
+  - "[[raw/Meadows - Thinking in Systems/08 Chapter 4 - Why Systems Surprise Us]]"
+related:
+  - "[[Feedback Loops]]"
+  - "[[Balancing Feedback Loop]]"
+  - "[[Reinforcing Feedback Loop]]"
+  - "[[The Limits-to-Growth Archetype]]"
+  - "[[Homeostasis]]"
+  - "[[Systems Theory]]"
+opposes:
+  - "[[Systems Theory]]"
+authors:
+  - "[[Donella Meadows]]"
+confidence: high
+last_updated: 2026-07-04
+---
+
+# Shifting Dominance
+
+## Brief Definition
+
+When several feedback loops act on the same stock, the loop with the stronger current impact sets the system's behavior; as the loops change relative strength over time, dominance passes from one to another and the system's mode of behavior changes — from growth to equilibrium to decline.
+
+## Longer Explanation
+
+For Donella Meadows, *dominance* names the fact that a system rarely runs on a single feedback loop. Most systems carry "several competing feedback loops operating simultaneously," and at any given moment the loop that "has a stronger impact on behavior" is the one that dictates what the whole system does. Meadows is explicit about the term's standing: "Dominance is an important concept in systems thinking." It is the hinge that lets a small, fixed set of loops produce a wide range of observed behaviors, because which loop is in charge is not fixed — it *shifts*. (Directly stated.)
+
+Her running example is a population governed by two coupled loops — a [[Reinforcing Feedback Loop]] of fertility driving exponential growth and a [[Balancing Feedback Loop]] of mortality pulling toward stability. When fertility exceeds mortality, "the reinforcing growth loop dominates the system and the resulting behavior is exponential growth." As fertility falls, that loop "is gradually weakened" until it "exactly equals the strength of the balancing loop of mortality," at which point "neither loop dominates, and we have dynamic equilibrium." The behavior mode did not change because the *structure* changed — the same two loops remained wired to the same stock throughout — but because their *relative strength* changed. Meadows generalizes: a stock under linked loops "will grow exponentially if the reinforcing loop dominates," "will die off if the balancing loop dominates," and "will level off if the two loops are of equal strength," or run through a *sequence* of these if the strengths change over time. (Directly stated.)
+
+The deeper cause of shifting dominance, developed in "Why Systems Surprise Us," is *nonlinearity*. Meadows argues that nonlinearities matter "not only because they confound our expectations about the relationship between action and response," but "even more" because "they change the relative strengths of feedback loops. They can flip a system from one mode of behavior to another." Nonlinearities are, she writes, "the chief cause of the shifting dominance that characterizes several of the systems in the zoo" — the "sudden swing between exponential growth caused by a dominant reinforcing loop, say, and then decline caused by a suddenly dominant balancing loop." Dominance thus explains why systems surprise us: a loop that seemed negligible can, past some threshold, quietly take over and reverse the system's trajectory. (Directly stated.)
+
+Shifting dominance is the mechanism underneath many of Meadows's structural stories, including the growth-then-overshoot pattern of the [[The Limits-to-Growth Archetype|limits-to-growth archetype]], where a dominant reinforcing loop of expansion eventually yields to a balancing loop imposed by a constraining resource. It also recasts stability — Meadows notes you can see shifting dominance "in the thermostat system," a canonical case of [[Homeostasis]] — as something dynamic rather than static: equilibrium is not the absence of loops but the balance of competing ones. (Interpretive synthesis, grounded in Meadows's thermostat and population examples.)
+
+## Authors and Variants
+
+- **[[Donella Meadows]]** *(Directly stated)* — Dominance is "an important concept in systems thinking": when one loop "dominates another, it has a stronger impact on behavior," and because systems have several competing loops running at once, the dominant ones "determine the behavior." Dominance *shifts* as the loops' relative strengths change — driven above all by nonlinearity — flipping the system between exponential growth, dynamic equilibrium, and decline.
+
+## Related Concepts
+
+- [[Feedback Loops]] — the substrate of the concept; shifting dominance is a relationship *among* the loops acting on a single stock.
+- [[Reinforcing Feedback Loop]] — the growth-driving loop whose dominance produces exponential behavior.
+- [[Balancing Feedback Loop]] — the stabilizing loop whose dominance produces leveling-off or decline.
+- [[The Limits-to-Growth Archetype]] — a structural pattern generated by dominance shifting from a reinforcing growth loop to a balancing constraint loop.
+- [[Homeostasis]] — Meadows reframes equilibrium (the thermostat) as balanced competing loops, i.e. a state where neither loop dominates.
+- [[Systems Theory]] — dominance is one of the core explanatory ideas of the systems view of behavior over time.
+
+## Opposing Concepts
+
+- [[Systems Theory]] — not an opponent so much as the frame that contains it; shifting dominance opposes the *intuitive* expectation of a single stable cause. Meadows uses it to show why "reasonable expectations" about linear cause and effect "produce classic mistakes" — the system's controlling loop is not fixed, so no one cause reliably explains behavior.
+
+## Questions It Raises
+
+- If which loop dominates can flip without any change in a system's structure, how can we anticipate a shift in advance rather than only diagnose it after the mode of behavior has already changed?
+- How does one identify, at a given moment, *which* loop is currently dominant in a real system with many interacting loops and delays?
+- Does the primacy of nonlinearity in causing shifting dominance mean that stable, predictable behavior is the exception rather than the rule in complex systems?
+
+## Sources
+
+### Source 1
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/06 Chapter 2 - A Brief Visit to the Systems Zoo]]
+Relevant passage:
+
+> This behavior is an example of shifting dominance of feedback loops. Dominance is an important concept in systems thinking. When one loop dominates another, it has a stronger impact on behavior. Because systems often have several competing feedback loops operating simultaneously, those loops that dominate the system will determine the behavior.
+
+Supports: Establishes the definition — dominance is the stronger current impact of one loop among several competing loops on the same stock, and it "will determine the behavior" of the system. Meadows's own framing that it is "an important concept in systems thinking." Label: `Directly stated`.
+
+### Source 2
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/08 Chapter 4 - Why Systems Surprise Us]]
+Relevant passage:
+
+> They are even more important because they change the relative strengths of feedback loops. They can flip a system from one mode of behavior to another. Nonlinearities are the chief cause of the shifting dominance that characterizes several of the systems in the zoo—the sudden swing between exponential growth caused by a dominant reinforcing loop, say, and then decline caused by a suddenly dominant balancing loop.
+
+Supports: Grounds the "shifting" half of the concept — changing relative strengths of loops flip the system between behavior modes (growth to decline) — and identifies nonlinearity as the chief cause. Label: `Directly stated`.

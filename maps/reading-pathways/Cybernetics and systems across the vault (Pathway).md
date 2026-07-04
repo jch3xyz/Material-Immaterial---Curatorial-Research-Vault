@@ -1,12 +1,23 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Cybernetics and systems across the vault
 
-The vault's systems lineage runs from the postwar science of cybernetics through three successive reconceptions of what a system *is*, and out into the art that took the system — not the object — as its medium. This pathway threads Hayles's seriated history (homeostatic regulation giving way to reflexivity, then to autopoiesis and the strong claim of artificial life) into Haraway's "informatics of domination," and from there into Burnham's migration of sculpture from object to system and Ascott's dissolution of the artwork into the telematic network. It is the route to take when you want to read cybernetics not as a single doctrine but as a moving target — and to see how the same coding logic that promises emancipatory networked consciousness also underwrites a grid of command and control. Curatorially, it supplies the deep genealogy behind any show concerned with feedback, networks, generative or "living" systems, and art that is enacted rather than displayed.
+The vault's systems lineage runs from the postwar science of cybernetics through three successive reconceptions of what a system *is*, and out into the art that took the system — not the object — as its medium. This pathway begins in the native discipline itself — Meadows's *Thinking in Systems*, the primer the art/cybernetics books carry secondhand — then threads Hayles's seriated history (homeostatic regulation giving way to reflexivity, then to autopoiesis and the strong claim of artificial life) into Haraway's "informatics of domination," and from there into Burnham's migration of sculpture from object to system and Ascott's dissolution of the artwork into the telematic network. It is the route to take when you want to read cybernetics not as a single doctrine but as a moving target — grounded first in the plain machinery of stocks, flows, and feedback — and to see how the same coding logic that promises emancipatory networked consciousness also underwrites a grid of command and control. Curatorially, it supplies the deep genealogy behind any show concerned with feedback, networks, generative or "living" systems, and art that is enacted rather than displayed.
+
+**The native-discipline primer (Meadows):**
+
+- [[A System]] — Meadows's ground-floor definition: interconnected things producing their own pattern of behavior over time
+- [[Stocks and Flows]] — the stock-and-flow primitive (the bathtub) beneath every feedback diagram
+- [[Feedback Loops]] — the mechanism itself, split by Meadows into [[Balancing Feedback Loop|balancing]] and [[Reinforcing Feedback Loop|reinforcing]] loops
+- [[Resilience]] and [[Self-Organization]] — why systems persist and grow their own complexity; the science under the "living" system
+- [[Leverage Points]] — where a small immaterial change moves the whole; Meadows's spine into the Material/Immaterial axis
+- [[Dancing with Systems]] — the participatory ethic that answers systems' unpredictability; science-side counterpart to Burnham's [[Systems Consciousness]]
+
+**Into the vault's cybernetics historiography and art (Hayles → Haraway → Burnham → Ascott):**
 
 - [[Cybernetics]] — the framing concept: the postwar synthesis of information, control, and communication that every later stage inherits or revises
 - [[The Three Waves of Cybernetics]] — Hayles's seriated map of the journey ahead: homeostasis, reflexivity, virtuality as successive transitions rather than clean breaks
@@ -29,6 +40,7 @@ The vault's systems lineage runs from the postwar science of cybernetics through
 - [[Network Consciousness]] — the affirmative telos: the planetary networked mind, the emancipatory promise set against Haraway's domination grid
 - [[Material vs Immaterial]] — the vault's master axis, the destination the whole systems lineage feeds into
 - [[Roy Ascott and Jack Burnham]] — the keystone cross-author bridge that closes the loop: the two great theorists of cybernetic/systems art, object → system → network
+- [[Donella Meadows and N. Katherine Hayles]] — the bridge back to the head of the pathway: the native discipline (Meadows) beside its historiography (Hayles), applied second-wave cybernetics and its chronicle
 
 ## Related
 

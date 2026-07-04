@@ -9,11 +9,16 @@ sources:
   - "[[raw/Ascott - Telematic Embrace/05 The Construction of Change]]"
   - "[[raw/Ascott - Telematic Embrace/13 Towards a Field Theory for Postmodernist Art]]"
   - "[[raw/Ascott - Telematic Embrace/21 Photography at the Interface]]"
+  - "[[raw/Meadows - Thinking in Systems/08 Chapter 4 - Why Systems Surprise Us]]"
+  - "[[raw/Meadows - Thinking in Systems/13 Appendix]]"
+  - "[[raw/Meadows - Thinking in Systems/12 Chapter 7 - Living in a World of Systems]]"
 related:
   - "[[Reflexivity]]"
   - "[[Autopoiesis]]"
   - "[[Cybernetics]]"
   - "[[The Liberal Humanist Subject]]"
+  - "[[No Separate Systems]]"
+  - "[[Mental Models]]"
 opposes:
   - "[[Distributed Cognition]]"
 authors:
@@ -21,15 +26,16 @@ authors:
   - "[[Humberto Maturana]]"
   - "[[Heinz von Foerster]]"
   - "[[Roy Ascott]]"
+  - "[[Donella Meadows]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # The Observer
 
 ## Brief Definition
 
-The figure of the one who watches a system — and the question of whether that watcher stands outside the system being described or is folded into it. For the cyberneticians the observer is an epistemological problem: [[Heinz von Foerster]] named its inclusion the central issue of [[Cybernetics]], [[Humberto Maturana]] made it the condition of cognition in [[Autopoiesis]], and [[N. Katherine Hayles]] tracks the figure's migration from outside to inside the system as the plot that carries science from objectivism toward the embodied posthuman. For [[Roy Ascott]] the same dissolution becomes an aesthetic principle: the art observer is recast as a participator whose behaviour does not merely perceive the work but constitutes it.
+The figure of the one who watches a system — and the question of whether that watcher stands outside the system being described or is folded into it. For the cyberneticians the observer is an epistemological problem: [[Heinz von Foerster]] named its inclusion the central issue of [[Cybernetics]], [[Humberto Maturana]] made it the condition of cognition in [[Autopoiesis]], and [[N. Katherine Hayles]] tracks the figure's migration from outside to inside the system as the plot that carries science from objectivism toward the embodied posthuman. For [[Roy Ascott]] the same dissolution becomes an aesthetic principle: the art observer is recast as a participator whose behaviour does not merely perceive the work but constitutes it. For [[Donella Meadows]] the observer arrives from system dynamics: the boundaries that make a "system" a system are not features of the world but constructions of the one who draws them — "there are no separate systems," only boundaries of word, thought, and social agreement.
 
 ## Longer Explanation
 
@@ -45,12 +51,15 @@ In the **third wave** (Artificial Life) the observer "retreats to the periphery,
 
 [[Roy Ascott]] takes the same dissolution out of epistemology and into aesthetic practice. Where the cyberneticians ask where the one who *describes* a system stands, Ascott dissolves the *art* observer into action: the watcher does not perceive a finished work but behaviourally completes it, becoming the **participator** who is "of operational importance in the total behaviour of the system." He grounds this convergence explicitly in the second-wave figure — "In both physics and cybernetics, the importance of the observer as participator in creating meaning is recognized" — and pushes it toward the **double gaze**, where the observing position is no longer exclusively human but doubled by "the artificial observer, the eye of the neural net." The detached observer is folded into the system not as the one who describes it but as the one whose behaviour constitutes it (see [[Reciprocal Communication]], [[Material vs Immaterial]]).
 
+[[Donella Meadows]] arrives at the same insight from system dynamics, and states it about the *system itself* rather than the self that observes. Where the cyberneticians dissolve the boundary between watcher and watched, Meadows dissolves the boundary that made a "system" a discrete object in the first place: the boundaries are not out there in the world, they are drawn by the observer for the purpose of a discussion (see [[No Separate Systems]], [[Mental Models]]).
+
 ## Authors and Variants
 
 - **[[N. Katherine Hayles]]** — uses the observer as the connective figure across the three waves of cybernetics; its inclusion is the lever by which she pries information back toward [[Embodiment]] and the [[Material vs Immaterial]] body.
 - **[[Heinz von Foerster]]** — second-order cybernetics: "the observer of systems can himself be constituted as a system to be observed"; the punning title *Observing Systems* announces reflexivity as theme. He named the inclusion of the observer the central problem of cybernetics.
 - **[[Humberto Maturana]]** — "Everything said is said by an observer"; the observer as a living, structurally coupled system whose "fundamental cognitive operation" is "the operation of distinction." His observer is Einsteinian/positional, explicitly *not* the depth-psychological self of psychoanalysis.
 - **[[Roy Ascott]]** — recasts the art observer as the **participator** who behaviourally constitutes the work rather than passively receiving it ("the viewer/observer must be a participator and is of operational importance in the total behaviour of the system"); aligns this figure with the quantum/cybernetic observer and extends it through the **double gaze** to the artificial, non-human observing eye.
+- **[[Donella Meadows]]** — the systems-dynamics grounding: a system's boundaries are not real features of the world but constructions of the observer, drawn for the purpose of a discussion — "there are no separate systems," only "boundaries of word, thought, perception, and social agreement." Everything we think we know about the world is a model, never the world itself (see [[No Separate Systems]], [[Mental Models]]).
 
 ## Related Concepts
 
@@ -59,6 +68,8 @@ In the **third wave** (Artificial Life) the observer "retreats to the periphery,
 - [[Cybernetics]] — the field whose central issue von Foerster located precisely in the observer.
 - [[The Liberal Humanist Subject]] — Maturana's positional observer both reinscribes liberal autonomy and dethrones consciousness, pushing toward the posthuman.
 - [[Homeostasis]] — the first-wave constellation that depended on keeping the observer outside the loop.
+- [[No Separate Systems]] — Meadows's systems-dynamics counterpart: the boundary around a "system" is drawn by the observer for a purpose, not given by the world.
+- [[Mental Models]] — everything we think we know about the world is a model, congruent with the world yet never the world itself — the observer's model stands between the watcher and what is watched.
 
 ## Opposing Concepts
 
@@ -71,12 +82,19 @@ In the **third wave** (Artificial Life) the observer "retreats to the periphery,
 - Maturana's observer is positional, not personal. What is lost for [[Posthumanism]] when the one who sees has "no psychological depth or specificity" — does the Einsteinian observer smuggle back the disembodied, view-from-nowhere subject the theory claims to refuse?
 - In the third wave the observer survives only as narrator/narratee of Artificial Life stories. If the observer's embodiment is what keeps "bodies from being made of information alone," does the peripheral third-wave observer have enough body left to do that work? (ties to [[Material vs Immaterial]])
 - How does the move from a single observer to [[Distributed Cognition]] reconfigure the boundary between the [[The Extrapolated Body|extrapolated body]] and the world it observes?
+- If Meadows is right that "there are no separate systems" and every boundary is drawn by the observer for a purpose, is the observer's independence from the system it describes an illusion produced by its own boundary-drawing — the same illusion the second-wave cyberneticians exposed from the other direction? (ties to [[No Separate Systems]], [[Mental Models]])
 
 ## Roy Ascott (Telematic Embrace)
 
 Where Hayles tracks the cybernetic observer as an epistemological figure, Roy Ascott dissolves the *art* observer into action: the one who watches does not merely perceive a finished work but behaviourally completes it. From his earliest essay forward, the spectator is recast as a decision maker whose intervention extends the work's meaning — "In response to behavioural clues in a construction (to push, pull, slide back, open, peg in, for example), the participant becomes responsible for the extension of the artwork's meaning. He becomes a decision maker in the symbolic world that confronts him." The artwork is no longer an object addressed to a passive watcher but "a matrix between two sets of behaviours (the artist and the observer), providing for a field of psychic interplay that can be generative of multiple meanings, where the final responsibility for meaning lies with the viewer." This is Ascott's terminological hinge: the observer becomes the **participator** — "Thus the viewer/observer must be a participator and is of operational importance in the total behaviour of the system. A field theory of art must pay much attention to the participator." Crucially, the participator does not close a discrete message (a passive act) but works the work, "interrogating and interacting with the system 'artwork' to generate meaning." This converges directly with the second-wave figure Hayles describes: Ascott explicitly aligns his participator with the quantum and cybernetic observer — "In both physics and cybernetics, the importance of the observer as participator in creating meaning is recognized. The physicist knows that his observational behaviour and consciousness are a part of what he is observing."
 
 By 1992 Ascott pushes this into the digital image and toward what he calls the **double gaze** — the observing system itself becomes doubled by an artificial eye. The post-photographic viewer is no longer an absorber of a bounded image but an immersed, navigating co-producer: "For the viewer, it's the difference between absorption and immersion," and "the processes of transformation I have described are now in the hands of the viewer as much as the artist." The watcher's power becomes transformation rather than reception — "the repositioning of the viewer, to her empowerment as a manipulator of that image, as the one in whose hands the destiny of the image may lie." And the observing position is no longer exclusively human: "just around the corner… is the artificial observer, the eye of the neural net, the artificial intelligence that will surely become a part of the observing system." Ascott thus extends the cybernetic dissolution of the detached observer from epistemology (Hayles, [[Cybernetics]], [[Autopoiesis]]) into aesthetic practice — the observer folded into the system not as the one who *describes* it but as the one whose behaviour *constitutes* it (see [[Reciprocal Communication]], [[Material vs Immaterial]]).
+
+## Donella Meadows (Thinking in Systems)
+
+Where the cyberneticians fold the observer *into* the system it watches, Meadows arrives at the observer from system dynamics and makes the complementary move: the "system" the observer watches is not a discrete object waiting out in the world to be described, but a region the observer has fenced off for a purpose. Systems "rarely have real boundaries"; the boundary of any system diagram is drawn where it is only "for the purposes of simplifying the present discussion." The categories that seem to carve the world at its joints turn out to be the watcher's own: "There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries." From this follows the maxim that anchors the vault's second-order-cybernetics thread in its native discipline — "There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion." The observer does not discover the boundary; the observer draws it, and the drawing is provisional, purpose-relative, and revisable. Meadows even dissolves the temporal boundary the same way: "In a strict systems sense, there is no long-term, short-term distinction. Phenomena at different time-scales are nested within each other." What the cyberneticians establish about the seer — that "everything said is said by an observer" — Meadows establishes about the seen: the very edges that make a system a system are observer-made (see [[No Separate Systems]]).
+
+Beneath the boundary thesis lies a deeper observer-dependence: for Meadows the object of knowledge is never the world itself but a *model* of it. "Everything we think we know about the world is a model," and while our models are "strongly congruent with the world," they "fall far short of representing the world fully." The observer, in other words, never stands face to face with a perceiver-independent reality; the observer stands before a model of its own making, which is precisely why systems "surprise us." This is the systems-dynamics root of the constructivist observer Hayles and Ascott carry: where Maturana's observer *constructs* the reality it perceives and Ascott's participator *constitutes* the work by acting on it, Meadows's observer *invents the boundaries* through which any system can be seen at all — arriving at observer-created reality not from autopoiesis or aesthetics but from the working practice of a systems scientist (see [[Mental Models]]).
 
 ## Sources
 
@@ -178,3 +196,36 @@ Relevant passage:
 > just around the corner… is the artificial observer, the eye of the neural net, the artificial intelligence that will surely become a part of the observing system.
 
 Supports: The double gaze — the observing system doubled by an artificial eye; the observer is no longer exclusively human and is folded into, not separate from, the system. Label: `Directly stated`.
+
+### Source 10
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/13 Appendix]] , [[raw/Meadows - Thinking in Systems/08 Chapter 4 - Why Systems Surprise Us]]
+Relevant passage:
+
+> There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion.
+
+Supports: The systems-dynamics grounding of the observer-drawn boundary — a "system" has no real boundary given by the world; the boundary is drawn by the observer for the purpose of a discussion. (The same maxim appears in Chapter 4's margin sidebar, extending "the questions we want to ask.") Label: `Directly stated`.
+
+### Source 11
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/08 Chapter 4 - Why Systems Surprise Us]]
+Relevant passage:
+
+> There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries. The greatest complexities arise exactly at boundaries.
+
+Supports: That system boundaries are not features of the world but constructions of word, thought, and social agreement — the observer's mental-model boundaries, not real ones. Cross-links to [[No Separate Systems]] and [[Mental Models]]. Label: `Directly stated`.
+
+### Source 12
+
+Book: *Thinking in Systems*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/12 Chapter 7 - Living in a World of Systems]]
+Relevant passage:
+
+> In a strict systems sense, there is no long-term, short-term distinction. Phenomena at different time-scales are nested within each other.
+
+Supports: Meadows dissolves even the temporal boundary as observer-drawn — the long/short-term distinction is a convenience, not a feature of the system; phenomena at different time-scales are nested. Label: `Directly stated`.

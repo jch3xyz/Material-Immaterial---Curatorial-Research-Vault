@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-05
+last_updated: 2026-07-04
 ---
 
 # Concept Index
@@ -12,6 +12,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 
 - [[Acceleration]] — speed stripped of sense; only additive processes admit it; immunosuppression is the price of acceleration
 - [[Achievement Society]] — neoliberal regime of auto-exploitation through self-mastery and entrepreneurship of the self; the achievement-subject as absolute slave
+- [[A System]] — Meadows's core native-discipline unit: interconnected things producing their own pattern of behavior over time (distinct from [[Systems Theory]] the field and [[Object and System|System]] (Burnham))
 - [[Affinity Not Identity]] — Haraway: political coalition by chosen affinity rather than essential/natural identity ('related not by blood but by choice')
 - [[Algorithmic Determinism]] — prediction as behavior-modifying feedback loop trapping people in their digital reflection; prediction enacts the fate it foresees
 - [[Algorithms That Know Us Better Than We Know Ourselves]] — Harari: the dissolution of liberal individualism as external algorithms gain authority over the self
@@ -28,6 +29,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Authority of Knowledge]] — McLuhan: electric speed dissolves delegated lineal/visual/hierarchical authority and substitutes an inclusive, nonlineal authority of knowledge
 - [[Auto-Exploitation]] — self-coercion under the sign of freedom; control internalized as self-optimization; the entrepreneur of himself as the panopticon of himself (Han)
 - [[Autopoiesis]] — Maturana & Varela's self-making circular organization; resists the disembodiment of information
+- [[Balancing Feedback Loop]] — Meadows: the stabilizing, goal-seeking loop (the thermostat); native-discipline parent of [[Homeostasis]]
 - [[Bare Life]] — Han re-reads Agamben: bare life as the un-killable, holy, undead residue of denarrativized existence (Burnout Society)
 - [[Autoamputation]] — McLuhan's keystone: every technology is a defensive self-amputation of an over-stressed organ by the central nervous system
 - [[Automation as Learning a Living]] — McLuhan: 'automation is information'; work, consumption, and learning fuse into one process; man as a nomadic gatherer of knowledge
@@ -37,6 +39,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Breached Boundaries]] — Haraway's three boundary breakdowns (human/animal, organism/machine, physical/nonphysical), introduced in section 01 and declared dissolved in section 06
 - [[The Break Boundary]] — McLuhan (via Boulding): the point of no return at which a system changes into another
 - [[Biopolitics]] — the governmental technology of disciplinary power over the body and population; foil to psychopolitics (Han, realized from forward-stub)
+- [[Bounded Rationality]] — Meadows (after Simon): reasonable decisions on incomplete, delayed information yield aggregate outcomes no one wants (Ch4)
 - [[Burnout]] — the title malady of excess positivity that eludes psychoanalysis; auto-aggressive self-exhaustion, distinct from melancholy (Burnout Society)
 - [[Can It Suffer (The Reality Test)]] — Harari's criterion separating the real (suffering subjects) from the fictional (money, gods, nations)
 - [[Can vs Should]] — the limitless freedom of Can versus the limited disciplinary Should; the neoliberal passage from prohibition to permission (Han)
@@ -51,9 +54,11 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Cybernetics]] — the postwar synthesis of information, control, and communication that makes the subject's boundaries constructed rather than given
 - [[Cyborg Art]] — Burnham: 'the cybernetic organism as an art form,' the ultimate stage of sculpture (Ch8); the vault's earliest cyborg
 - [[Cyborg Writing]] — Haraway: survival by seizing the tools of signification that marked the othered as other; noise and pollution against perfect communication
+- [[Dancing with Systems]] — Meadows's governing concept: since systems are unpredictable and uncontrollable, engage participatively ('dance') rather than command-and-control; gathers the fourteen systems wisdoms (Ch7); science-side counterpart to Burnham's [[Systems Consciousness]]
 - [[Dataism]] — the data-positivist ideology / 'second Enlightenment' Han diagnoses as nihilism
 - [[The Decoupling of Intelligence from Consciousness]] — Harari: intelligence becoming mandatory while consciousness becomes optional
 - [[Deep Contemplative Attention]] — the immersive, lingering attention that is the precondition of culture and philosophy; displaced by hyperattention (Burnout Society)
+- [[Delays]] — Meadows: pervasive strong determinants of behavior; a delay in a balancing loop causes oscillation (Ch2)
 - [[Dematerialization]] — Lippard's titular concept (Six Years); the art-historical instance of [[Material vs Immaterial]]: idea paramount, material form ephemeral/cheap/absent, conceded to be an 'inaccurate term'
 - [[Depth as Insight Not Point of View]] — McLuhan: depth experience dissolves highbrow/lowbrow because consciousness is an inclusive process not dependent on content
 - [[Detribalization and Retribalization]] — McLuhan: hot/mechanical media detribalize; electric media retribalize
@@ -63,6 +68,9 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Disenchantment]] — Weber's draining of intrinsic meaning from a mechanistic cosmos; O'Gieblyn's master frame (Weber forward-stub)
 - [[Distributed Cognition]] — cognition residing across human and nonhuman actors (Hutchins; the Chinese Room); replaces autonomous will
 - [[Doping Society]] — achievement society intensified into a performance-machine: neuroenhancement, doping, 'Health is the new goddess' (Burnout Society)
+- [[Drift to Low Performance]] — Meadows: the eroding-goals / boiled-frog archetype; a reinforcing loop overwhelms a balancing loop (Ch5)
+- [[Dynamic Equilibrium]] — Meadows: the balanced-flow steady state (inflow equals outflow); distinct from [[Homeostasis]] (Ch1)
+- [[Elements Interconnections and Purpose]] — Meadows: the three constituents of a system, ranked — elements (least defining) < interconnections (information) < purpose (most crucial) (Ch1)
 - [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
 - [[The Electric Age as Extension of the Central Nervous System]] — McLuhan: electric technology as a live model of the central nervous system set outside us
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
@@ -71,6 +79,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Faustian Urge to Re-create Life Nonbiologically]] — Burnham: the desire-engine of the object-to-system migration; anticipates Haraway and Hayles
 - [[Emergence]] — properties appearing spontaneously from simple rules and recursive feedback; replaces teleology in the benign posthuman
 - [[Emotional Capitalism]] — capitalism that exploits the performativity of emotion (Han; term from Illouz)
+- [[Escalation]] — Meadows: a reinforcing loop between competitors, 'I'll raise you one,' building exponentially to collapse (Ch5)
+- [[Event Behavior Structure]] — Meadows: the three tiers of understanding a system; events explain nothing, structure is the source (Ch4)
 - [[Evolutionary Humanism]] — Harari: the natural-selection sect of humanism (Nazism its extreme)
 - [[The Experiencing Self vs The Narrating Self]] — Harari via Kahneman: the moment-to-moment self vs the story-telling self that authors memory and meaning
 - [[Exhibition as Medium]] — Siegelaub's reinvention of the exhibition/catalogue/magazine as the artwork's primary site (primary vs secondary information)
@@ -78,6 +88,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Exploitation of Freedom]] — control via voluntary self-illumination rather than external coercion; the book's central title-thesis — freedom itself is producing coercion (Han, Psychopolitics)
 - [[Explosion vs Implosion]] — McLuhan: mechanical explosion (fragmentation, space) reversing into electric implosion (contraction, nervous system)
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
+- [[Feedback Policy]] — Meadows: 'make feedback policies for feedback systems' — dynamic systems need meta-feedback loops that alter, correct, and expand loops, not static rules (Ch7)
 - [[Flickering Signifier]] — Hayles's figure for signification under conditions of code and mutation, the informatic successor to the floating signifier
 - [[Fractured Identities]] — Haraway: identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
 - [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
@@ -92,6 +103,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Healing as Killing]] — therapeutic self-optimization that destroys the soul; the positivity of self-improvement as a mode of domination (Han)
 - [[Healing vs Upgrading]] — Harari: egalitarian medicine that heals the sick vs elitist medicine that upgrades the healthy
 - [[Hell of the Same]] — Han's figure for the monocultural inferno produced by equivalence; the Inferno of the Same and Big-Data sameness
+- [[Hierarchy (Systems)]] — Meadows: nested subsystems that grant stability/resilience and reduce information load; disambiguated from power-hierarchy senses (Ch3)
 - [[Homeostasis]] — the first-wave constellation of steady-state self-regulation, allying information-as-thing with stability
 - [[The Homework Economy]] — Haraway (after Richard Gordon): the worldwide feminization of work; precursor to Han's immaterial labour
 - [[Homo Deus]] — Harari: the upgraded human-as-god via the three paths of bioengineering, cyborg engineering, and inorganic life (distinct from the book note)
@@ -112,17 +124,22 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Information]] — positivized, operationalized language without the negativity of insight; data positivism and the end of theory
 - [[Informatics]] — the whole network of information technologies plus the changes that accompany them (Hayles's term, taken from Haraway; kept distinct from [[The Informatics of Domination]])
 - [[The Informatics of Domination]] — Haraway's coinage for the shift from organic hierarchical dominations to coded command-control-communication networks; the source of Hayles's 'informatics'
+- [[Information Flows]] — Meadows: leverage point #6; the structure of who has access to information; missing flows cause malfunction (Ch6)
 - [[Inscription vs Incorporation]] — abstract transportable sign-systems vs embodied habitual practice; 'as the body is to embodiment, so inscription is to incorporation'
 - [[Integrated Information Theory]] — Tononi and Koch's theory that consciousness is integrated information, quantified by phi; atoms, bacteria, even the internet may be conscious
 - [[The Internet-of-All-Things]] — Harari: Dataism's eschaton, the cosmic data-processing system humanity is destined to feed and merge into
 - [[Intersubjective Reality]] — Harari: the third level of reality (money, gods, nations) existing in shared imagination and enabling large-scale cooperation
 - [[Intimacy as Psychological Formula of Transparency]] — the affective mode of transparency: laying the soul bare
+- [[Intrinsic Responsibility]] — Meadows: a system-design property (not a moral exhortation) — consequences feed back to decision-makers directly, quickly, compellingly (the pilot in the front of the plane) (Ch7)
 - [[Kinetic Art]] — Burnham: nonrepresentational art using real time and motion, the first 'sculpture as system' (Ch6)
 - [[Knowledge = Experiences × Sensitivity]] — Harari: humanism's epistemology, locating authority in lived, cultivated experience
 - [[Large-Scale Flexible Cooperation]] — Harari: the real 'human spark' that gives Homo sapiens mastery over the planet
+- [[Layers of Limits]] — Meadows: every physical entity is surrounded by limits; perpetual growth in a finite environment is impossible (Ch4)
 - [[Leasing the Central Nervous System]] — McLuhan: we have leased our eyes, ears, and nerves to private corporations
+- [[Leverage Points]] — Meadows: places where a small change produces a large shift in behavior; the book's keystone concept (Ch6)
 - [[Liberal Humanism (Harari)]] — Harari: the orthodox humanist sect that defeated its rivals 1914–1989
 - [[Light as a Sculpture Medium]] — Burnham: light, not form, determines perception; sculpture as a modulator of emitted/responsive light (Ch7)
+- [[Limiting Factor]] — Meadows (Liebig's law of the minimum): the most limiting input is the most important, and growth changes it (Ch4)
 - [[Luminosity]] — Burnham: emitted light defined perceptually as the basis of Light Art (Ch7)
 - [[Man as Servomechanism of His Extensions]] — McLuhan, the Gadget Lover: man serves his technologies as gods, the sex organs of the machine world
 - [[Media as Extensions of Man]] — McLuhan: every medium is an extension of a body part, sense, or faculty; the electric age extends the central nervous system
@@ -130,6 +147,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Media Change as Collective Surgery]] — McLuhan: a new medium operates on the whole social body while the incised area is numb
 - [[Media Hot and Cold]] — McLuhan: media classified by definition (data-density) and inverse participation; the hot form excludes, the cool form includes
 - [[The Medium Is the Message]] — McLuhan's signature thesis: the form/scale of a medium, not its content, restructures human affairs
+- [[Mental Models]] — Meadows: everything we know is a model, strongly congruent with yet never the real world (Ch4)
 - [[Mind Uploading]] — transferring a mind to a digital medium and the continuity-of-identity problem; structurally the early Church's resurrection problem
 - [[The Modern Covenant]] — Harari: modernity as a deal trading meaning for power
 - [[Money as a Medium]] — McLuhan: money as extension, storehouse, and translator of communal work; its commodity→credit/information arc and electric reversal into the credit card
@@ -144,6 +162,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Neuromorphic Modeling]] — functionally-equivalent simulation of a brain region rather than a neuron-by-neuron copy (Kurzweil)
 - [[Neuronal Violence]] — the system-immanent violence of positivity; a 'terror of immanence' that needs no enemy or negativity (Burnout Society)
 - [[The New Tendency and Field Kinetics]] — Burnham: the c.1955–65 immateriality/raster/active-spectator revival (Ch6)
+- [[No Separate Systems]] — Meadows: boundaries are observer-drawn, not real; the world is a continuum (Ch4)
+- [[Nonlinearity]] — Meadows: cause not proportional to effect; shifts feedback-loop dominance and flips behavior modes; distinct from Kurzweil's exponential-vs-linear (Ch4)
 - [[Number as the Extension of Touch]] — McLuhan: number as a bodily extension of the haptic sense, paired against writing as the extension of sight
 - [[Object and System]] — Burnham's structural axis titling the book's two parts; the art-historical instance of [[Material vs Immaterial]]
 - [[Object Art]] — Burnham's name for Minimal/Object sculpture; 'sculpture de-idealized'
@@ -153,13 +173,17 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Oppositional Consciousness]] — Sandoval's model (via Haraway): identity born of reading webs of power from refused category-membership
 - [[Order as Information That Fits a Purpose]] — Kurzweil's metaphysical hinge: order (not mere complexity) is what evolution increases; the ground of LOAR and patternism
 - [[Organisms Are Algorithms]] — Harari's keystone biological thesis; cross-links Patternism, Algorithmic Determinism, and The Body as Data
+- [[Oscillation]] — Meadows: the overshoot/undershoot a delay imposes on a balancing loop (inventory, the long-pipe shower) (Ch2)
+- [[Overshoot and Collapse]] — Meadows: the behavior modes of a growth system that overruns a limit (equilibrium / oscillation / collapse; 'classic dynamics of depletion') (Ch4)
 - [[Panpsychism]] — consciousness as the fundamental nature of all matter; O'Gieblyn's leading route to re-enchanting materialism; inverts The Computational Universe
 - [[Paradigm Shift and the S-Curve]] — the shape of accelerating change: each paradigm an S-curve, the overall exponential a cascade of S-curves (Kurzweil)
+- [[Paradigms]] — Meadows: leverage point #2; the shared social mind-set that is the source of systems; Kuhnian, distinct from Kurzweil's usage (Ch6)
 - [[Pathos of Distance]] — the valuing of separation and interval against compulsive proximity (Han via Nietzsche)
 - [[Phenomenalism (Burnham)]] — Burnham: art whose subject is the experience of perception (distinct from sense-data phenomenalism)
 - [[The Phonetic Alphabet]] — McLuhan: the one writing system that maps meaningless letters to meaningful sounds, detribalizing its user and installing visual uniformity ('an eye for an ear')
 - [[Pattern and Randomness]] — the master dialectic in which information is pattern paradoxically equated with randomness; noise as creative ground
 - [[Patternism]] — Kurzweil's doctrine of the self as a persisting, substrate-independent pattern of information; immortalist inverse of Hayles's pattern/randomness
+- [[Policy Resistance]] — Meadows: the fixes-that-fail archetype; actors pulling a stock toward incompatible goals; the way out is to let go / align goals (Ch5)
 - [[Pornography (Han)]] — structural form of total exposure: smooth, post-hermeneutic, infectious; datasexuality and the pornographic traits of dataism
 - [[Positivity]] — the regime of additive, smooth same-only experience that follows from dismantled negativity; positivity as a theory of power
 - [[Posthumanism]] — the posthuman as a point of view, not the end of humanity but of the liberal conception of the human; benign when grounded in embodiment
@@ -170,21 +194,29 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Readymade]] — Burnham: Duchamp's 'all idea' object; 'a Goedel's Theorem of aesthetics' (Ch1)
 - [[Reciprocal Communication]] — Burnham: sustained two-way exchange as the criterion of Cyborg Art (Ch8)
 - [[Reification]] — Burnham: Marx's Verdinglichung redefined as re-synchronization of art with the scientific form-world
+- [[Reinforcing Feedback Loop]] — Meadows: the amplifying, runaway loop (compound interest); structural parent of [[Acceleration]] and [[The Law of Accelerating Returns]]
 - [[Reflexivity]] — the second-wave movement folding the observer into the system; relegated to 'nonscience' at Macy, later rehabilitated
 - [[The Restoration of the Role]] — McLuhan: electric media restore the collective, nonvisual role (king/emperor; the movie star as 'jobless image') in place of the delegated specialist job
 - [[Reversal of the Overheated Medium]] — McLuhan: any medium intensified past a threshold reverses into its opposite
 - [[The Refusal of Innocence]] — Haraway: the cyborg's rejection of origin myths, organic wholeness, the Garden, and victimhood-as-insight
 - [[Religion as Social Order]] — Harari's functional redefinition of religion as any system legitimating a social order
 - [[Reverse-Engineering the Human Brain]] — scanning, modeling, and re-instantiating the brain's 'software of intelligence' on faster substrates; the software complement to the hardware-capacity argument (Kurzweil)
+- [[Resilience]] — Meadows: a system's capacity to survive, persist, and bounce back within a variable environment, arising from a rich structure of many feedback loops; distinct from static stability (Ch3)
 - [[The Robot]] — Burnham: the non-anthropomorphic mechanical man (Capek) and the clanking stainless-steel folklore figure of the automatic age
+- [[Rule Beating]] — Meadows: evasive action honoring the letter not the spirit of a rule; a self-organizing response to bad rules (Ch5)
+- [[Rules (Systems)]] — Meadows: leverage point #5; incentives, punishments, constraints; 'power over the rules is real power' (Ch6)
 - [[Self-Optimization]] — perpetual self-optimization as a highly efficient mode of domination (Han)
 - [[Scientific Idealism]] — Burnham: viewing essential reality through provisional scientific models (distinct from Idealism)
 - [[The Scientific Demiurge]] — Burnham: the impersonal irreversible force that abolishes stylistic cycles
 - [[The Scientific Model]] — Burnham: the scientist's model as the sculptor's reservoir of pure form, whose obsolescence drove dematerialization
 - [[The Sculpture Base]] — Burnham: the base/pedestal/plinth as physical-and-psychic, biological-orientational device (Ch1)
 - [[Sculpture as Biological Signal]] — Burnham: the speculative teleological theory of art preparing the post-human (Ch8)
+- [[Seeking the Wrong Goal]] — Meadows: a badly-defined goal makes the system produce the wrong result; the GNP as paradigm case (Ch5)
+- [[Self-Organization]] — Meadows: the capacity of a system to make its own structure more complex; kept distinct from [[Emergence]] and [[Autopoiesis]] (Ch3)
 - [[Sense Ratios]] — McLuhan: media alter sense ratios/patterns of perception beneath opinion
 - [[Seriation]] — Hayles's historiographic method-concept: overlapping replication and innovation, against paradigm shift and epistemic break
+- [[Shifting Dominance]] — Meadows: when several loops act on one stock, the strongest sets behavior; dominance shifts, changing the behavior mode (Ch2)
+- [[Shifting the Burden to the Intervenor]] — Meadows: addiction/dependence; the intervention atrophies the system's self-maintaining capacity (Ch5)
 - [[Skeuomorph]] — a once-functional feature surviving as reference; a Janus-faced device that smooths conceptual transitions
 - [[Smart Power]] — permissive, seductive, psyche-targeting neoliberal power that presents itself as freedom (Han)
 - [[The Social Hormone]] — McLuhan: electric media producing organic interdependence; instant information as the social body's chemical messenger
@@ -193,16 +225,25 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Society of Control]] — power as continuous modulation and voluntary self-exposure rather than enclosure (Han via Deleuze); the mole/snake, debt
 - [[Specialism as Counter-Irritant]] — McLuhan: fragmentation as the compensation of the enslaved; perfect adaptation as a fatal static terminus
 - [[Statement Without Syntax]] — McLuhan: the photograph as a nonverbal medium of statement by gesture, mime, and gestalt that restores what the alphabet severed
+- [[Stock-Limited vs Flow-Limited Resources]] — Meadows: nonrenewable (extract at any rate) vs renewable (harvest only at regeneration rate) (Ch2)
+- [[Stocks and Flows]] — Meadows: the stock-and-flow primitive (the bathtub); a stock is the memory of the history of changing flows (Ch1)
+- [[Structure Determines Behavior]] — Meadows: the Slinky thesis — behavior is latent in structure, so a system causes its own behavior (Intro/Ch1)
+- [[Suboptimization]] — Meadows: a subsystem's goals dominating at the expense of the whole; the characteristic failure of a hierarchy (Ch3)
 - [[Subsculpture]] — Burnham: images ranked below fine-art sculpture (dolls, manikins, automata) migrating into art
+- [[Success to the Successful]] — Meadows: competitive exclusion; winners rewarded with the means to win more; the rich-get-richer engine (Ch5)
+- [[System Goals]] — Meadows: leverage point #3; the purpose that twists everything lower to conform to it (Ch6)
+- [[System Traps]] — Meadows: the umbrella for the eight archetypes; recurrent problematic system structures that are both traps and opportunities (Ch5)
 - [[Systems Consciousness]] — Burnham's coinage for the post-object aesthetic awareness (Ch8)
 - [[Systems Esthetics]] — Burnham's founding object-to-system thesis (American spelling; distinct from and cross-linked to [[Systems Theory]])
 - [[Systems Theory]] — autopoiesis as the theory of the living, extended to social systems (the state as the paradigmatic cyborg)
+- [[Systems Thinking]] — Meadows's name for the systems lens, complementary to (not better than) reductionist analysis (Intro)
 - [[Techno-Humanism]] — Harari: the conservative techno-religion that upgrades humans while keeping them the source of meaning; distinct from Transhumanism
 - [[Techno-Religion]] — Harari: salvation through technology and economics (the umbrella over Techno-Humanism and Dataism)
 - [[Technics]] — Burnham: science and technology fused; coercive, irreversible (distinct from Technology as Metaphor)
 - [[Technology as Metaphor]] — O'Gieblyn's central method: each era understands self and cosmos through its dominant machine; truth-seeking must work within those metaphors, which become dangerous when literalized
 - [[The Technological Extension of Consciousness]] — McLuhan: the electric age translates us into information, toward transferring consciousness to the computer
 - [[Transcending Biology]] — Kurzweil's 'version 1.0' bodies premise and the immortality claim ('mortality will be in our own hands'); the strongest celebratory body-as-replaceable-hardware statement in the vault
+- [[Transcending Paradigms]] — Meadows: leverage point #1; unattachment / letting go into not-knowing; radical empowerment (Ch6)
 - [[Transportation as Communication]] — McLuhan: physical transport and information movement as one continuous 'communication,' the electric age being the transition from transport to information
 - [[Typographic Man]] — McLuhan: print culture as uniformity, lineality, individualism, nationalism; the archetype of mechanization
 - [[The Algorithm as Providence]] — the predictive algorithm as the modern reincarnation of the inscrutable Calvinist/nominalist God of predestination
@@ -216,6 +257,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Hard Problem of Consciousness]] — Chalmers's problem of why physical processes are accompanied by subjective experience; 'quantities could not generate qualities'
 - [[The Law of Accelerating Returns]] — Kurzweil's master mechanism: evolution and technology grow double-exponentially; the engine of the Singularity, set as a deliberate CONTRAST to Han's [[Acceleration]] (do not merge)
 - [[The Liberal Humanist Subject]] — the autonomous, self-possessing Enlightenment subject the posthuman supersedes (Macpherson's possessive individualism)
+- [[The Limits-to-Growth Archetype]] — Meadows: growth in a constrained environment; no physical system grows forever in a finite environment (Ch2)
 - [[The Materiality of Informatics]] — Hayles's counter-thesis that the immaterial realm of information is materially produced; the illusion of erasure as object of inquiry
 - [[The Measurement Problem]] — the quantum observer effect; the paradigm case where the perceiving subject cannot be eliminated
 - [[The Mind-Body Problem]] — the dilemma of immaterial mind and material body (Descartes's res extensa/res cogitans); the computer metaphor covertly re-inscribes it
@@ -226,7 +268,10 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Simulation Hypothesis]] — Bostrom's universe-as-computer-program, read as a secularized argument from design
 - [[The Singularity]] — Kurzweil's title concept in his own voice: the future period when the merger of biological and nonbiological intelligence irreversibly transforms human life (dated 2045); the primary-source proponent's note, distinct from definitions/The Singularity (O'Gieblyn) and books/The Singularity Is Near
 - [[The Six Epochs]] — cosmic evolution as six paradigms of patterns of information, from Physics/Chemistry to 'the Universe Wakes Up'; the affirmative cosmology paralleling Harari's Dataism
+- [[The Systems Zoo]] — Meadows's menagerie of simple stock-and-flow systems demonstrating that behavior comes from feedback structure, not appearance (Ch2)
 - [[The Three Waves of Cybernetics]] — homeostasis, reflexivity, virtuality/self-organization; seriated transitions, not Kuhnian ruptures
+- [[The Tragedy of the Commons]] — Meadows (after Hardin): a shared erodable resource with missing/weak feedback; exits educate, privatize, regulate (Ch5)
+- [[The Twelve Leverage Points]] — Meadows's ranked list from 12 (parameters) to 1 (transcending paradigms) (Ch6)
 - [[The Useless Class]] — Harari: the superfluous people produced by automation, economically and militarily redundant
 - [[Theatrum Mundi]] — the world-as-theater of masks and roles that the tyranny of intimacy dismantles (Han via Sennett)
 - [[Theodicy]] — the problem of evil transposed onto AI: evil as bugs in the code; the citizen as Job before the inscrutable algorithm
@@ -416,6 +461,7 @@ Each cluster now has its own page. The full alphabetical list is above.
 - [[Material & Immaterial (Concepts)|Material / Immaterial]] — - [[Dematerialization]] — Lippard's titular concept: idea paramount, material form ephemeral/cheap/absent
 - [[Embodiment & Posthuman (Concepts)|Embodiment / Posthuman]] — - [[Pornography (Han)]] — the body rendered totally exposed, post-hermeneutic
 - [[Systems, Cybernetics & Feedback (Concepts)|Systems / Cybernetics / Feedback]] — - [[Positivity]] — additive, same-only processes amenable to acceleration
+- [[Systems Thinking — Meadows, Thinking in Systems (Concepts)|Systems Thinking (Meadows, Thinking in Systems)]] — the native-discipline systems-dynamics cluster grounding the cybernetics the art/cybernetics books carry secondhand: [[A System]], [[Stocks and Flows]], [[Balancing Feedback Loop]] / [[Reinforcing Feedback Loop]], [[Shifting Dominance]], [[Resilience]], [[Self-Organization]], [[Hierarchy (Systems)]], [[System Traps]], [[Leverage Points]], and [[Dancing with Systems]]
 - [[Cyborg Feminism — Haraway (Concepts)|Cyborg Feminism (Haraway)]] — - [[The Cyborg]] — the hybrid of machine and organism; 'our ontology' that 'gives us our politics'
 - [[The Affirmative Cosmology of Information — Kurzweil (Concepts)|The Affirmative Cosmology of Information (Kurzweil)]] — - [[The Singularity]] — the merger of biological and nonbiological intelligence that irreversibly transforms human life (dated 2045); the proponent's note in his own voic…
 - [[Visibility, Transparency & Surveillance (Concepts)|Visibility / Transparency / Surveillance]] — - [[Transparency]] — neoliberal dispositive converting negativity into smooth positivity; steering the future

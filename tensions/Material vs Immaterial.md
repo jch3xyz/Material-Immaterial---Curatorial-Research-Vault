@@ -15,6 +15,7 @@ authors:
   - "[[Jack Burnham]]"
   - "[[Roy Ascott]]"
   - "[[Shoshana Zuboff]]"
+  - "[[Donella Meadows]]"
 sources:
   - "[[raw/Hayles - How We Became Posthuman/10 The Materiality of Informatics]]"
   - "[[raw/Hayles - How We Became Posthuman/03 Toward Embodied Virtuality]]"
@@ -52,6 +53,8 @@ sources:
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/11 Chapter 9 - Rendition from the Depths]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/13 Chapter 11 - The Right to the Future Tense]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/19 Chapter 17 - The Right to Sanctuary]]"
+  - "[[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]]"
+  - "[[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]"
 related_concepts:
   - "[[The Materiality of Informatics]]"
   - "[[Virtuality]]"
@@ -62,7 +65,7 @@ related_concepts:
   - "[[Mechanical vs Electric]]"
   - "[[Explosion vs Implosion]]"
 confidence: high
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Material vs Immaterial
@@ -223,6 +226,14 @@ Against the deniers stand the **affirmer and the inverter**. **Kurzweil** is the
 A third group **historicizes or dissolves** the opposition rather than taking a side within it. **McLuhan** and **Burnham** *date* the crossing — the mechanical giving way to the electric, the sculptural object to the system — reading dematerialization not as illusion or loss but as an epochal reversal in which information becomes the substance of an age. **Ascott** goes furthest in both directions at once: he carries the immaterial pole to its limit (the placeless telematic data-flux) and then *re-materializes* it in a "moist" substrate of bits, atoms, neurons, and genes, dissolving the very axis it took ten sources to draw.
 
 The tension stays open because each move is answerable by another — re-embodiment by patternism, unmasking by inversion, ranking by the held tension, and the whole opposition by Ascott's moist synthesis. That irreducible plurality of stances is exactly why "material vs immaterial" *organizes* the vault rather than being settled within it.
+
+## Donella Meadows (Thinking in Systems)
+
+[[Donella Meadows]]'s *Thinking in Systems* is the vault's *eleventh* source on this axis, and it is the one that grounds it in its native discipline — [[Systems Theory|systems dynamics]] — rather than in art, media, philosophy, or surveillance. Alone among the eleven, Meadows ranks the immaterial over the material not as ontology (Kurzweil), inversion (Harari), held tension (Haraway), or expropriation (Zuboff), but as a claim about *what defines and drives a system's behavior*. Decomposing any system into three constituents — elements, interconnections, and a function or purpose — she finds the visible, tangible pole to be the least consequential one: "The elements, the parts of systems we are most likely to notice, are often (not always) least important in defining the unique characteristics of the system." The immaterial constituents outrank the material precisely because they are harder to see. The interconnections that bind a system are largely informational — "Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate" (see [[Information]]) — and above even information sits the function or purpose, in the chapter's keystone formulation: "The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system's behavior." This is the material/immaterial hierarchy stated as a law of *causal weight*: the more immaterial the constituent, the more it governs the whole. `Directly stated`.
+
+Chapter 6, "[[Leverage Points]]," turns that ordering into a ranked hierarchy of *intervention* and makes the immaterial-over-material claim explicit and quantitative (see [[The Twelve Leverage Points]]). Meadows's twelve places to intervene in a system are ordered by increasing power, and the ascent is a passage from the material to the immaterial: the tangible parameters, buffers, and physical stock-and-flow structures at the bottom are the *weakest* points of leverage, while information flows, rules, goals, [[Self-Organization|self-organization]], and shared paradigms at the top are the *strongest*. The transition is named at the eighth rung — "Now we're beginning to move from the physical part of the system to the information and control parts, where more leverage can be found" — and the dismissal of the material pole is her most-quoted line: "Probably 90—no 95, no 99 percent—of our attention goes to parameters, but there's not a lot of leverage in them." The immaterial pole, by contrast, is where transformation actually happens, and it is weightless: a paradigm — the second-highest leverage point of all — costs nothing to change. "But there's nothing physical or expensive or even slow in the process of paradigm change. In a single individual it can happen in a millisecond. All it takes is a click in the mind, a falling of scales from the eyes, a new way of seeing." Where Kurzweil ranks the immaterial *pattern* above the material *substrate* as a metaphysics, Meadows ranks the immaterial *purpose, rule, and mindset* above the material *parameter, buffer, and physical stock* as a matter of causal efficacy — the immaterial is not what a thing most fundamentally *is*, but where a system's behavior is most powerfully *decided*. `Directly stated`; placing the leverage-points hierarchy and the elements/purpose ordering on the vault's material/immaterial axis is `Interpretive synthesis`.
+
+Meadows's contribution is therefore *cross-linked, not merged* with the ten senses above, and it stands closest to Burnham's [[Object vs System|object→system]] migration — she is the native-discipline grounding for the systems-esthetics move Burnham and Ascott make in art (her "system" is the primitive their sculpture and telematic networks depart the object toward). But her valence is distinctive: she neither unmasks the immaterial as parasitic (Hayles, Lippard, Han, Zuboff), nor affirms it as the more fundamental reality (Kurzweil), nor dates its rise as an epochal reversal (McLuhan, Burnham). She *ranks* the immaterial above the material as the more determining register of any system, and prescribes acting on it — the counsel of a working scientist, not a diagnosis or a metaphysics. The convergence with the vault's core is that the immaterial pole (information, purpose, paradigm) does the decisive work the visible material pole only appears to; the divergence is that for Meadows this is cause for *intervention* at the immaterial level, not suspicion of it. `Interpretive synthesis` for the cross-author placement; the leverage ordering and the primacy-of-purpose thesis are `Directly stated`.
 
 ## Sources
 
@@ -679,3 +690,24 @@ Relevant passage:
 > Both alternatives rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines. This is the well from which we draw the capacities to promise and to love.
 
 Supports: The tenth-author grounding of the axis. Fito Montes (Ch.2) names the "immaterial" from the material pole's side — the "elusive … inexpressible" lived residue that the "mechanical and soulless" digital project would extinguish, inverting the Hayles/Kurzweil usage in which "immaterial" is the disembodied information that escapes the body. Rendition (Ch.8) is Zuboff's name for the operation that crosses the axis — lived material experience claimed as "raw material for datafication"; the flatness-of-the-flow passage (Ch.7) reduces the rendered material world to immaterial data stripped of all context. The body-rendering (Ch.8) and depth-rendering (Ch.9) passages carry the axis to its furthest material reach — the embodied, pre-verbal interior (the unconscious, emotion) converted into extractable surplus. The sanctuary passage (Ch.17) names the material/lived pole Zuboff defends against rendition — "the life-sustaining inwardness … that finally distinguishes us from the machines." Distinguishes Zuboff's sense (the immaterial as expropriated commodity, the material lived self plundered to produce it) from the ontological (Hayles), art-historical (Lippard), mode-of-production (Han), ascendant-fiction (Harari), patternist (Kurzweil), held-tension (Haraway), media-historical (McLuhan), object→system (Burnham), and moist-synthesis (Ascott) senses. Label: `Directly stated` (for Zuboff's claims); placing rendition and the dispossession of lived experience on the vault's material/immaterial axis is `Interpretive synthesis`.
+
+### Source 41
+
+Book: *Thinking in Systems: A Primer*
+Author: Donella Meadows
+Raw file: [[raw/Meadows - Thinking in Systems/05 Chapter 1 - The Basics]] , [[raw/Meadows - Thinking in Systems/11 Chapter 6 - Leverage Points]]
+Relevant passage:
+
+> The elements, the parts of systems we are most likely to notice, are often (not always) least important in defining the unique characteristics of the system
+
+> Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate.
+
+> The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior.
+
+> Now we're beginning to move from the physical part of the system to the information and control parts, where more leverage can be found.
+
+> Probably 90—no 95, no 99 percent—of our attention goes to parameters, but there's not a lot of leverage in them.
+
+> But there's nothing physical or expensive or even slow in the process of paradigm change. In a single individual it can happen in a millisecond. All it takes is a click in the mind, a falling of scales from the eyes, a new way of seeing.
+
+Supports: The eleventh-author grounding of the axis, in its native discipline (systems dynamics). Ch.1 ranks the three constituents of any system by causal weight — the visible/material elements least important, the informational interconnections more so, and the least-visible function or purpose most — so the material/immaterial hierarchy is stated as a law of determining power. Ch.6 formalizes this as the twelve leverage points ordered from the weakest (tangible parameters, buffers, physical stock-and-flow structure) to the strongest (immaterial information flows, rules, self-organization, goals, paradigms): "Now we're beginning to move from the physical part of the system to the information and control parts, where more leverage can be found." The parameter-dismissal ("99 percent … of our attention goes to parameters, but there's not a lot of leverage in them") and the weightlessness of paradigm change ("nothing physical or expensive or even slow … a click in the mind") give the immaterial pole its causal-efficacy sense. Distinguishes Meadows (the immaterial as the more *determining* and higher-*leverage* register of any system, prescribing intervention there) from the ontological (Hayles), art-historical (Lippard), mode-of-production (Han), ascendant-fiction (Harari), patternist (Kurzweil), held-tension (Haraway), media-historical (McLuhan), object→system (Burnham), moist-synthesis (Ascott), and rendition (Zuboff) senses; native-discipline grounding for the Burnham/Ascott object→system move. Label: `Directly stated` (for Meadows's leverage ordering and primacy-of-purpose thesis); placing the leverage-points hierarchy and the elements/purpose ordering on the vault's material/immaterial axis is `Interpretive synthesis`.

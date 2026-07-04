@@ -572,6 +572,46 @@ New **author forward-stubs** (cited substantively, no book in `raw/`): `B. F. Sk
 
 ---
 
+## Canonical Note Names — Meadows *Thinking in Systems* ingest (2026-07-04)
+
+Added by *Thinking in Systems: A Primer* (Donella H. Meadows, drafted 1993, ed. Diana Wright, pub. posthumously 2008) — the vault's PRIMARY, native-discipline source for **systems theory** (system dynamics; Meadows was a student of Jay Forrester and lead author of *The Limits to Growth*). **CORPUS RE-EXPANSION:** Meadows was removed 2026-06-04 and RE-ADDED by the user 2026-07-04 (same pattern as the Zuboff re-add). Book: `Thinking in Systems`. Author: **`Donella Meadows` (new — the corpus's 12th author)**. Source summaries: `Meadows - Thinking in Systems - <NN Chapter>` (9: Introduction + Ch1-7 + Appendix). Ingested via the custom big-book chunked workflow (`_system/workflows/_run_meadows.js`): 9 parallel analyses → 4 sequential chunked planners (System Structure & Behavior / Systems & Us / Change & Leverage / Living-with-Systems & Appendix) → single generation with updates in a SEPARATE post-create wave → one index pass. 154 new notes (book + author + 9 sources + 143 interpretive) + 11 cross-book updates. **The cleanest big-book run to date** — 0 create stragglers, all 11 updates landed with a `## Donella Meadows` section on the first pass (the split-wave + atomic-Write update path worked).
+
+**New concepts/** (45): A System · Elements Interconnections and Purpose · Structure Determines Behavior · Systems Thinking · Stocks and Flows · Balancing Feedback Loop · Reinforcing Feedback Loop · Dynamic Equilibrium · Shifting Dominance · Delays · Oscillation · Overshoot and Collapse · The Limits-to-Growth Archetype · Stock-Limited vs Flow-Limited Resources · The Systems Zoo · Event Behavior Structure · Feedback Policy · Limiting Factor · Layers of Limits · Resilience · Self-Organization *(kept DISTINCT from `Emergence` and `Autopoiesis`)* · Hierarchy (Systems) · Bounded Rationality · Nonlinearity · No Separate Systems · System Traps · Policy Resistance · Drift to Low Performance · Escalation · Success to the Successful · Shifting the Burden to the Intervenor · Rule Beating · Seeking the Wrong Goal · The Tragedy of the Commons · Leverage Points · The Twelve Leverage Points · Information Flows · Rules (Systems) · System Goals · Paradigms · Transcending Paradigms · Suboptimization · Mental Models · Intrinsic Responsibility · Dancing with Systems.
+
+**New definitions/** (23, all `(Meadows)` or `(X via Meadows)`): System · Stock · Flow · Feedback Loop · Balancing Feedback Loop · Reinforcing Feedback Loop · Dynamic Equilibrium · Nonlinear Relationship · Limiting Factor · Buffer · Resilience · Self-Organization · Hierarchy · Bounded Rationality (Simon via Meadows) · Leverage Points · Paradigm · Suboptimization · Rule Beating · Intrinsic Responsibility · Archetypes · Behavior and Structure of a System · Function vs Purpose · Nonrenewable and Renewable Resources — all suffixed `(Meadows)`.
+
+**New arguments/** (37): incl. A system causes its own behavior through its structure · Structure Determines Behavior / Events explain nothing only structure explains behavior · The purpose of a system is the most crucial determinant of its behavior · A systems purpose is deduced from its behavior not its stated goals · The behavior of a system cannot be known from its parts alone · **Leverage rises as the intervention point becomes more immaterial** *(the keystone `Material vs Immaterial` argument)* · Paradigms are the sources of systems · The highest leverage point is to transcend paradigms · People intuit leverage points but push them in the wrong direction · The tragedy of the commons is a failure of feedback not of morality · Resilience is invisible until it fails so we sacrifice it for legible stability and productivity · We cannot control systems but we can dance with them · There are no separate systems boundaries are drawn by the observer · Most of what goes wrong in systems goes wrong because of missing information · The systems lens is complementary to reductionist analysis not superior · (see `maps/Argument Index.md` for all 37).
+
+**New metaphors/** (14): The Slinky · The Bathtub · The Systems Lens · The Blind Men and the Elephant · The Boiled Frog · The Black Box (Boulding) *(kept DISTINCT from the O'Gieblyn concept `The Black Box`)* · The Two Watchmakers *(Herbert Simon's parable)* · The Koch Snowflake · The Tip of the Iceberg · Dancing with the System · The Over-Optimized Racing Yacht · The Resilience Plateau · Arranging the Deck Chairs on the Titanic · The Three Wishes. **New symbols/** (5): The Commons · The Spruce Budworm · The GNP · The Electric Meter · Pyramids and Skyscrapers.
+
+**New tensions/** (16): Balancing vs Reinforcing Feedback · Stability vs Resilience · Optimization vs Resilience · Growth vs Limits · Individual Rationality vs System Welfare · Central Control vs Autonomy · Model vs Reality · Prediction vs Exploration · Internal Structure vs External Event · Understanding vs Implementation · Leverage vs Resistance · Trap vs Opportunity · Letter vs Spirit of the Law · Effort vs Result · Quantity vs Quality · Ecologically Stable vs Economically Unstable.
+
+**New references/** (3 — all vault-internal interpretive bridges labelled interpretive synthesis): `Donella Meadows and {N. Katherine Hayles, Jack Burnham, Roy Ascott}`. The **Meadows ↔ Hayles** note is the KEYSTONE (cybernetics / feedback / homeostasis / self-organization — the second-wave cybernetics Hayles chronicles is Meadows's native ground); **Meadows ↔ Burnham** (systems esthetics: Burnham's object→system and Meadows's systems primer are the art and the science of the same systems moment); **Meadows ↔ Ascott** (cybernetic/networked systems, feedback, connectivism). Han/Zuboff/Harari resonances deliberately kept interpretive-only — NO reference notes minted (the planner correctly deferred).
+
+**Cross-book UPDATES** (11 existing notes gained a `## Donella Meadows (Thinking in Systems)` section — do NOT duplicate; Meadows GROUNDS these in their native discipline): `Feedback Loops` *(THE keystone — balancing vs reinforcing, Meadows is the clearest primary source; Hayles/Burnham/Ascott held it secondhand)* · `Systems Theory` · `Homeostasis` · `Cybernetics` · `Emergence` · `Information` · `The Observer` · `Systems Consciousness` · `Dataism` · `Material vs Immaterial` *(now an **ELEVEN-author** tension — the leverage-points hierarchy ranks immaterial paradigms/goals/information/rules ABOVE material parameters/stocks)* · `Reductionism vs Holism` *(was an Ascott tension; now Ascott + Meadows — the planner labelled it `Holism vs Reductionism` but generation correctly merged into the existing reversed-order canonical note)*.
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Jay Forrester` *(system dynamics; Meadows's mentor)* · `Herbert Simon` *(bounded rationality; the two-watchmakers parable)* · `Ludwig von Bertalanffy` *(general systems theory)* · `Garrett Hardin` *(tragedy of the commons)* · `Aldo Leopold` · `Wendell Berry`. Reused existing stubs: `Kenneth Boulding` *(the "Black Box" metaphor; the spendthrift-artist universe)* · `Gregory Bateson` · `Norbert Wiener`. One-off figures (Russell Ackoff, Einstein, Forrester's specific models) and the Sufi teaching stories render as plain text.
+
+### Distinctions enforced / coexisting base names (NOT errors)
+
+- FOUR distinct "systems" notes: `A System` (concept — the noun/object) · `Systems Theory` (the cross-author field) · `Systems Thinking` (Meadows's method/practice) · `Systems Consciousness` (Ascott). All cross-linked, none merged.
+- `Self-Organization` (Meadows — a system's capacity to complexify its own structure) kept DISTINCT from `Emergence` (bottom-up behavior) and `Autopoiesis` (Maturana/Varela self-production). Cross-linked.
+- `Dynamic Equilibrium` (a stock held steady by balanced flows) kept DISTINCT from `Homeostasis` (the balancing-feedback mechanism); cross-linked.
+- `Nonlinearity` (Meadows) kept DISTINCT from Kurzweil's `Exponential vs Linear` tension.
+- `The Black Box (Boulding)` (metaphor) ≠ `The Black Box` (O'Gieblyn concept) — different folders, Obsidian disambiguates by path.
+- Concept/definition pairs (same base name, different folders): `Balancing Feedback Loop` / `Reinforcing Feedback Loop` / `Resilience` / `Self-Organization` / `Leverage Points` / `Suboptimization` / `Rule Beating` / `Intrinsic Responsibility` each exist as a concept AND a `(Meadows)` definition; `Hierarchy (Systems)` (concept) beside `Hierarchy (Meadows)` (def). Link the bare concept title by default.
+- The leverage rungs #1-#12 are folded into `Leverage Points` / `The Twelve Leverage Points`; the four with the most cross-vault weight got their own notes (`Paradigms`, `Transcending Paradigms`, `Information Flows`, `Rules (Systems)`, `System Goals`) — the rest are covered inside `The Twelve Leverage Points`.
+
+### Meadows-pass variant/dangling fixes (applied 2026-07-04, finalize)
+
+| Variant (as written) | Canonical note |
+|---|---|
+| `Holism vs Reductionism` *(planner label)* | `Reductionism vs Holism` *(the existing Ascott+Meadows tension; generation merged correctly, 0 dangling `[[Holism vs Reductionism]]` links)* |
+
+Hygiene: 0 invented prefix links · 0 bracket mismatches · 0 `Donella Meadows` surname fragmentation (no bare `[[Meadows]]`). No unlinked-to-plain-text cleanup needed this pass.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.
@@ -602,6 +642,7 @@ These are **verified** pure format/article/qualifier variants that must be rewri
 | `Cybernetic Art` | `The Cybernetic Vision` *(Ascott; cross-linked to Burnham's `Cyborg Art`)* |
 | `Telematic Love`, `telematic embrace`, `Telematic Culture` | `The Telematic Embrace` / `Telematic Art` *(Ascott)* |
 | `Global Village` | `The Global Village` |
+| `Holism vs Reductionism` | `Reductionism vs Holism` *(Ascott + Meadows tension)* |
 
 ### Synonym consolidations (2026-06-01 within-Han pass)
 
