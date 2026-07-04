@@ -210,3 +210,12 @@ on the old ones in `essays/`). The short version of the charter:
   character-for-character verification (external sources allowed at identical rigor, full
   citation, no status labels). Post-draft adversarial verification workflow (one agent per cited
   chapter + attribution critic) still applies — see log entries from 2026-06-18 on.
+- **How to run the pipeline:** `_system/essay_pipeline.md` — the four-stage process (harvest →
+  critique → write → verify) and the routing/efficiency rule (index with `sources/`+`analysis/`,
+  scaled to the question's breadth; harvest verbatim and verify character-for-character from
+  `raw/`, which is irreducible). Read it before spinning up an essay workflow.
+- **Feedback loop:** John's quality notes accumulate in `_system/essay_feedback.md` (raw, per
+  essay, never read as rules) and are distilled — agent proposes, John ratifies — into
+  `_system/essay_principles.md` (the slow layer that steers generation). **Before generating a new
+  essay, run the distillation step; after one lands, add its feedback header.** Full protocol at
+  the top of `essay_principles.md`.

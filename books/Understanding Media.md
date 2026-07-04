@@ -204,7 +204,7 @@ For this vault the book is a keystone upstream source. Its claim that "we have e
 - [[Every American Home Has Its Berlin Wall]]
 - [[The A Bomb and the H Bomb]]
 - [[The Earth as a Map of Itself]]
-- [[An Eye for an Ear]]
+- [[essays/Old Essays/An Eye for an Ear]]
 - [[The Dragon's Teeth (Cadmus)]]
 - [[The Gift of Gutenberg]]
 - [[Listening with the Entire Epidermis]]

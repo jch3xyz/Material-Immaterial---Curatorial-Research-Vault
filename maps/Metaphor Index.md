@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-09
+last_updated: 2026-07-04
 ---
 
 # Metaphor Index
@@ -74,7 +74,7 @@ The disenchanted world and the drive to re-enchant it by technical means — ido
 
 McLuhan's figures for media as extensions of the body that reshape the ratios of perception — the global village, electric implosion, numbness, and the trade of the ear for the eye.
 
-- [[An Eye for an Ear]] — the alphabet's trade of the auditory tribal world for the visual civilized one (McLuhan)
+- [[essays/Old Essays/An Eye for an Ear]] — the alphabet's trade of the auditory tribal world for the visual civilized one (McLuhan)
 - [[Babel vs Pentecost]] — language as division (Babel) vs computer-mediated universal understanding (Pentecost) (McLuhan)
 - [[Consciousness Without Walls]] — the cosmic endpoint where electric collective consciousness obsolesces housing and language (McLuhan)
 - [[Every American Home Has Its Berlin Wall]] — electric retribalization figured as generational conflict (McLuhan)
@@ -173,6 +173,38 @@ The material/immaterial axis across cybernetics, art history, and transhumanism 
 - [[The Transistor Radio vs the Watch]] — the visible-to-invisible shift in the scientific form-world (Burnham)
 - [[The Word as Virus]] — Burroughs's figure (via Hayles): language as a literal corporeal parasite; the body materializes discourse
 - [[Version 1.0 Biological Bodies]] — the body as obsolescent hardware; the counter-figure to Hayles's 'data made flesh' (Kurzweil)
+
+## Systems, Structure and Feedback
+
+Meadows's teaching figures for the systems lens in *Thinking in Systems* — the spring whose behavior is latent in its structure, the parable of parts perceived wrongly, the bathtub of stocks and flows, and the traps and low-leverage tinkering that keep systems misbehaving. The immaterial machinery of feedback made visible.
+
+- [[The Slinky]] — behavior latent in a spring's structure; the emblem of Structure Determines Behavior (Meadows)
+- [[The Blind Men and the Elephant]] — the Sufi parable of parts perceived wrongly; the anti-reductionist figure (Meadows)
+- [[The Systems Lens]] — eye / microscope / telescope / systems theory, each showing part of a real whole (Meadows)
+- [[The Bathtub]] — the teaching emblem of stock-and-flow dynamics (Meadows)
+- [[The Resilience Plateau]] — a playing field with elastic walls; play vs playing space (Meadows, Ch3)
+- [[The Two Watchmakers]] — Hora and Tempus; modular assembly survives interruption (Simon via Meadows, Ch3)
+- [[The Koch Snowflake]] — an intricate fractal from a few simple decision rules (Meadows, Ch3)
+- [[The Tip of the Iceberg]] — events visible above a submerged complex of behavior and structure (Meadows, Ch4)
+- [[The Black Box (Boulding)]] — a system known only by inputs and outputs; distinct from O'Gieblyn's ML The Black Box (Meadows/Boulding, Ch4)
+- [[The Boiled Frog]] — the eroding-goals perceptual failure (Meadows, Ch5)
+- [[The Three Wishes]] — the genie of Seeking the Wrong Goal (Meadows, Ch5)
+- [[The Over-Optimized Racing Yacht]] — America's Cup boats that lost all resilience (Meadows, Ch5)
+- [[Arranging the Deck Chairs on the Titanic]] — the futility of low-leverage parameter tinkering (Meadows, Ch6)
+- [[Dancing with the System]] — mastery as letting go rather than pushing levers (Meadows, Ch6)
+
+## The Spectacle (Debord)
+
+Debord's figures for the spectacle in *The Society of the Spectacle* — the map that becomes identical to its territory, the permanent opium war of augmented survival, the reified carcass of time, and the screen on which the illusion of encounter is projected. The 1967 ancestor-images of the transparency and surveillance thread.
+
+- [[The Map Identical to the Territory]] — the spectacle as a map identical to the territory it represents; prefigures Baudrillard (Ch1, th.31)
+- [[The Spectacle as a Permanent Opium War]] — the compulsion to equate satisfaction with expanding survival; gilds but cannot transcend poverty (Ch2, th.44)
+- [[The Publicity of Time]] — the spectacle replacing the reality of time with its advertised image (Ch6)
+- [[The Carcass of Time]] — the dead, reified time capital leaves behind (via Marx, Ch6)
+- [[The Heavy Artillery That Battered Down the Walls of China]] — commodity circulation and the automobile dissolving all fixed places (Ch7)
+- [[The Communication of the Incommunicable]] — art's terminal message; the spectacle's one-way monologue (Ch8, th.192)
+- [[The Screen of the Spectacle]] — the surface on which the illusion of encounter is projected (Ch9, th.218)
+- [[Money as the Life of What Is Dead]] — the spectacle as money one can only look at; détourned Hegel (Ch9, th.215)
 
 ## Related
 

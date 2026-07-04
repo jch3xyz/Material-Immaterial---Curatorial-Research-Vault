@@ -1,7 +1,7 @@
 ---
 type: map
 status: generated
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Symbol and Metaphor Index
@@ -54,7 +54,7 @@ All symbol and metaphor notes.
 - [[Every American Home Has Its Berlin Wall]] — electric retribalization figured as generational conflict (McLuhan)
 - [[The A Bomb and the H Bomb]] — literate fission vs electric fusion (McLuhan)
 - [[The Earth as a Map of Itself]] — total data gathering as the corollary of the outered central nervous system (McLuhan)
-- [[An Eye for an Ear]] — the alphabet's trade of the auditory tribal world for the visual civilized one (McLuhan)
+- [[essays/Old Essays/An Eye for an Ear]] — the alphabet's trade of the auditory tribal world for the visual civilized one (McLuhan)
 - [[The Dragon's Teeth (Cadmus)]] — letters as agents of aggressive martial order, via Canetti (McLuhan)
 - [[The Gift of Gutenberg]] — print's exact repeatability transforming the medieval zero into Renaissance infinity (McLuhan)
 - [[Listening with the Entire Epidermis]] — the electric-age return to whole-sensorium tactile life (McLuhan)
@@ -77,6 +77,28 @@ All symbol and metaphor notes.
 - [[The Machine of Positivity]] — the computer / positivized mind as Positivmaschine: a calculating apparatus with no negativity, no hesitation, no no (Han, The Burnout Society)
 - [[The Pentecostal Company]] — Handke's society of inspired not-doing; a community gathered in tiredness rather than performance (Han, The Burnout Society)
 - [[The Internal Work Camp]] — everyone carries a work camp inside; the achievement-subject as guard and inmate at once (Han, The Burnout Society)
+- [[The Slinky]] — behavior latent in a spring's structure; the emblem of [[Structure Determines Behavior]] (Meadows)
+- [[The Blind Men and the Elephant]] — the Sufi parable of parts perceived wrongly; the anti-reductionist figure (Meadows)
+- [[The Systems Lens]] — eye / microscope / telescope / systems theory, each showing part of a real whole (Meadows)
+- [[The Bathtub]] — the teaching emblem of stock-and-flow dynamics (Meadows)
+- [[The Resilience Plateau]] — a playing field with elastic walls; play vs playing space (Meadows, Ch3)
+- [[The Two Watchmakers]] — Hora and Tempus; modular assembly survives interruption (Simon via Meadows, Ch3)
+- [[The Koch Snowflake]] — an intricate fractal from a few simple decision rules (Meadows, Ch3)
+- [[The Tip of the Iceberg]] — events visible above a submerged complex of behavior and structure (Meadows, Ch4)
+- [[The Black Box (Boulding)]] — a system known only by inputs and outputs; distinct from O'Gieblyn's ML [[The Black Box]] (Meadows/Boulding, Ch4)
+- [[The Boiled Frog]] — the eroding-goals perceptual failure (Meadows, Ch5)
+- [[The Three Wishes]] — the genie of [[Seeking the Wrong Goal]] (Meadows, Ch5)
+- [[The Over-Optimized Racing Yacht]] — America's Cup boats that lost all resilience (Meadows, Ch5)
+- [[Arranging the Deck Chairs on the Titanic]] — the futility of low-leverage parameter tinkering (Meadows, Ch6)
+- [[Dancing with the System]] — mastery as letting go rather than pushing levers (Meadows, Ch6)
+- [[The Map Identical to the Territory]] — the spectacle as a map identical to the territory it represents; prefigures Baudrillard (Debord, Ch1, th.31)
+- [[The Spectacle as a Permanent Opium War]] — the compulsion to equate satisfaction with expanding survival; gilds but cannot transcend poverty (Debord, Ch2, th.44)
+- [[The Publicity of Time]] — the spectacle replacing the reality of time with its advertised image (Debord, Ch6)
+- [[The Carcass of Time]] — the dead, reified time capital leaves behind (Debord via Marx, Ch6)
+- [[The Heavy Artillery That Battered Down the Walls of China]] — commodity circulation and the automobile dissolving all fixed places (Debord, Ch7)
+- [[The Communication of the Incommunicable]] — art's terminal message; the spectacle's one-way monologue (Debord, Ch8, th.192)
+- [[The Screen of the Spectacle]] — the surface on which the illusion of encounter is projected (Debord, Ch9, th.218)
+- [[Money as the Life of What Is Dead]] — the spectacle as money one can only look at; détourned Hegel (Debord, Ch9, th.215)
 
 ## Symbols
 
@@ -102,3 +124,10 @@ All symbol and metaphor notes.
 - [[The Forest of Arden]] — Shakespeare's golden world as an advance model of the automation age (McLuhan)
 - [[The Credit Card]] — money as pure credit-information; the electric reversal toward 'tribal money' (McLuhan)
 - [[Canned Dreams]] — film as the most magical of consumer commodities, the American way of life exported 'in cans' (McLuhan)
+- [[The Electric Meter]] — visible feedback (the Dutch houses) as an immaterial high-leverage intervention (Meadows, Ch4)
+- [[The Spruce Budworm]] — decades-long oscillation, ecologically stable yet economically unstable (Meadows, Ch4)
+- [[The Commons]] — Hardin's shared pasture ruined by rational herdsmen (Meadows, Ch5)
+- [[The GNP]] — the fever chart of consumption; the wrong-goal emblem (Meadows, Ch5)
+- [[Pyramids and Skyscrapers]] — the material apparatus as the clothing of a paradigm (Meadows, Ch6)
+- [[The Dictatorship of the Automobile]] — the car as the sovereign agent of the collapse of city and country and the seizure of space (Debord, Ch7)
+- [[The Age of Museums]] — art's terminal decomposition; culture surviving only as its own memorial (Debord, Ch8, th.189)

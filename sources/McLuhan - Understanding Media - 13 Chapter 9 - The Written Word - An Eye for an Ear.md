@@ -49,7 +49,7 @@ The chapter reinforces the Part I apparatus. The alphabet is [[Media as Extensio
 
 ## Important Metaphors / Symbols
 
-- [[An Eye for an Ear]] — the title figure: the phonetic alphabet trades the auditory for the visual sense.
+- [[essays/Old Essays/An Eye for an Ear]] — the title figure: the phonetic alphabet trades the auditory for the visual sense.
 - [[The Dragon's Teeth (Cadmus)]] — Cadmus sows the dragon's teeth and armed men spring up; letters as agents of "aggressive order and precision" (via Canetti, teeth as an "agent of power").
 
 ## Major Tensions
@@ -92,7 +92,7 @@ Relevant passage:
 
 > Only the phonetic alphabet makes such a sharp division in experience, giving to its user an eye for an ear, and freeing him from the tribal trance of resonating word magic and the web of kinship.
 
-Supports: Grounds [[The Phonetic Alphabet]] and the title metaphor [[An Eye for an Ear]] — the alphabet as the unique technology that splits the visual from the auditory and detribalizes its user.
+Supports: Grounds [[The Phonetic Alphabet]] and the title metaphor [[essays/Old Essays/An Eye for an Ear]] — the alphabet as the unique technology that splits the visual from the auditory and detribalizes its user.
 Label: Directly stated
 
 ### Citation 2
