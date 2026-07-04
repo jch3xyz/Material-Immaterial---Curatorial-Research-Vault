@@ -112,6 +112,14 @@ Cross-cutting paths that run a single thread through the whole corpus.
 - [[Why systems surprise us — the epistemic spine (Pathway)|Why systems surprise us — the epistemic spine]]
 - [[System traps and leverage points (Pathway)|System traps and leverage points]]
 
+### *The Agony of Eros* (Byung-Chul Han)
+
+Han's fourth book has no dedicated `(Pathway)` pages yet; these are inline note-sequences through concepts, tensions, and arguments that already exist.
+
+- **The agony-of-eros spine** — how the inferno of the Same abolishes the Other: [[Eros]] → [[The Other]] → [[Atopia]] → [[Eros vs Sexuality]] → [[Pornography (Han)]] → [[Fantasy]] → [[The Politics of Eros]] → [[Theory in the emphatic sense is erotic]].
+- **The anti-Dataism bridge** (*The Agony of Eros* ↔ *Psychopolitics*) — the ch8 end-of-theory argument read into the digital diagnosis: [[Theory in the emphatic sense is erotic]] → [[Big Data is blind to the event and so blind to the future]] → [[The Event]] → [[Dataism]] → [[Information]] → [[Narrativity]].
+- **The negativity spine** — negativity as the condition eros and thinking share, and its erosion into transparency: [[Negativity]] → [[Positivity]] → [[Positivity vs Negativity]] → [[Hell of the Same]] → [[Transparency]].
+
 ### *The Society of the Spectacle* (Guy Debord)
 
 - [[The failed revolution as the genealogy of the spectacle (Pathway)|The failed revolution as the genealogy of the spectacle]]

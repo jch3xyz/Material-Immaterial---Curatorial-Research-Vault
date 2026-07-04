@@ -10,7 +10,7 @@ All argument notes in `arguments/`, split into dedicated pages.
 
 ## By Author
 
-- [[Byung-Chul Han (Arguments)|Byung-Chul Han]] — 22 arguments
+- [[Byung-Chul Han (Arguments)|Byung-Chul Han]] — 25 arguments
 - [[N. Katherine Hayles (Arguments)|N. Katherine Hayles]] — 8 arguments
 - [[Lucy Lippard (Arguments)|Lucy Lippard]] — 4 arguments
 - [[Meghan O'Gieblyn (Arguments)|Meghan O'Gieblyn]] — 22 arguments
@@ -40,6 +40,16 @@ All argument notes in `arguments/`, split into dedicated pages.
 - [[On the art object, the system, and the re-creation of life — Burnham (Arguments)|On the art object, the system, and the re-creation of life (Burnham)]] — 9 arguments
 
 ## By Book
+
+### Byung-Chul Han — The Agony of Eros
+
+Han's fourth book in the vault (a repeat author, no new node): the crisis of love as the erosion of the Other under the achievement-subject's positivity. Its arguments run from the coercive freedom of Can, through the definitional antithesis of eros and depression, to the erotic ground of theory and Big Data's blindness to the event. See [[Byung-Chul Han (Arguments)]] for the full cluster page.
+
+- [[The freedom of Can is more coercive than the disciplinary Should]] — realizes the long-committed argument stub; the achievement-subject's limitless Can as a subtler coercion than the disciplinary Should (ch3)
+- [[Eros and depression are opposites the achievement-subject cannot love]] — the book's definitional antithesis: eros pulls the subject toward the Other, depression plunges it into the self; the ch4 slave who can no longer love
+- [[The achievement-subject is master and slave at once so there is no end of history]] — the enslaved master forecloses the Kojèvian end of history (extended by the Agony-of-Eros register)
+- [[Theory in the emphatic sense is erotic]] — thinking needs the negativity of the atopic Other; Google science ends emphatic theory; the Heidegger → Plato → Deleuze/Guattari genealogy (ch8)
+- [[Big Data is blind to the event and so blind to the future]] — extended with ch8's refutation of Anderson's 'End of Theory'
 
 ### Donella Meadows — Thinking in Systems
 

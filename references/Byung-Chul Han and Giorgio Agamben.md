@@ -9,8 +9,9 @@ sources:
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
   - "[[raw/Han - The Burnout Society/07 The Bartleby Case]]"
   - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Byung-Chul Han and Giorgio Agamben
@@ -30,6 +31,14 @@ Han's critique of Agamben runs along three fronts, all driven by the same thesis
 **(3) The vanishing state of exception (Ch. 6, "The Pedagogy of Seeing").** Here Han contradicts the keystone of Agamben's *State of Exception* directly. "Agamben overlooks this growing positivity. Counter to his diagnosis — that the state of exception is undergoing expansion and turning into the state of normality — general social positivization now is absorbing every state of exception." For Han the very prominence of the concept is evidence of its *disappearance*, not its triumph: "[b]ecause the world is being increasingly positivized, more attention is paid to concepts such as 'the state of exception' or 'immunitas.' However, such attention offers no proof for their actuality; rather, it shows that they are vanishing." Where Agamben sees the exception becoming the rule, Han sees normality being *totalized* so that no exception (and no rage, dread, or mourning — all "negative feelings") can arise. (`Directly stated` — Ch. 6)
 
 **The shared instrument Han keeps while turning it.** Notably, Han does not simply reject Agamben; he **adopts** Agamben's *potenza di non* (negative potency, the Aristotelian "potential not to," *adynamia*) as a genuine and valuable category — it is the active core of his own *vita contemplativa* — and *then* reads it pathologically against him. Agamben supplies the vocabulary of the *not-to*; Han uses that vocabulary to convict Agamben of misreading Bartleby, insisting that Bartleby exhibits apathy and impotence ("the inability to act," "tied to something" it cannot do), not the sovereign power of the *not-to*. The conceptual home of this borrowing-and-inversion is [[Negative Potency]]; the dispute over its application to Bartleby lives here. (`Interpretive synthesis`)
+
+## The Agony of Eros — profanation and pornography
+
+*The Agony of Eros* (2012), Ch. 5 "Porn," opens a **second, distinct front** in Han's disagreement with Agamben — no longer over *homo sacer* and the state of exception but over Agamben's concept of **profanation** (from *Profanations*, "In Praise of Profanation," and *Nudities*). As in *The Burnout Society*, Han grants Agamben's descriptive frame and then denies his redemptive conclusion. He takes over Agamben's own definition — "'[p]rofanation' means using things that have been set aside for the gods through consecration (*sacrare*) and stand removed from regular contact," a "special form of negligence" that returns the consecrated to common use — but rejects Agamben's claim that the exhibition of nudity (the fashion model's, the porn star's face) *profanes* it into "a new form of erotic communication," a "new collective use of sexuality." For Han, "Agamben's thesis of secularization blinds him to the particularity of a phenomenon that can no longer be traced back to religious practice and even stands opposed to it." (`Directly stated` — *Agony of Eros*, Ch. 5)
+
+The mechanism of the disagreement is Benjaminian. Setting a thing "at a remove" is not, as Agamben supposes, a bracketing that can be liberated into "means without ends"; it is the very ground of its cult value, and **exhibition destroys that value rather than freeing it**: "[i]t may well be that in a museum objects stand 'at a remove,' as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value" (see [[Exhibition Value]], [[Cult Value vs Exhibition Value (Han via Benjamin)]]). Applied to nudity, this means the exhibited, secret-less face — for Agamben the site of a new erotics — is for Han the very type of the obscene: it "says nothing," "has no expressivity or mystery," and so "[c]ontra Agamben, a face loaded with exhibition-value to the point of bursting promises no 'new collective use of sexuality.' Indeed, exhibition destroys any and all possibilities for erotic communication." Where Agamben would profane, Han finds only [[Pornography (Han)|pornography]]: the erotic, by contrast, "is never free of secrecy" (see [[The Veil]]), and profanation strips exactly the veil, distance, and setting-apart on which [[Eros|eros]] and [[The Other|the Other]] depend. Han's verdict is dismissive: "On this score, Agamben's 'profanation' amounts to just so much profanity." (`Directly stated` — *Agony of Eros*, Ch. 5)
+
+The final and sharpest charge reverses Agamben's redemptive intent into complicity. Profanation, Han argues, "is unfolding as deritualization and desacralization" — the disappearance of the ritual spaces, festivals, and "places at a remove" (Bataille's "holy eroticism," Baudrillard's ritualized seduction) that eros requires — so that "[p]ornography completes the deritualization of love. Agamben's profanation even promotes the deritualization and pornographication of the world in that it suspects ritual spaces of constituting compulsive forms of sequestration." Agamben's gesture of liberation, meant to free things for a new use, thus becomes for Han an accomplice of the pornographication it should resist; capitalism aggravates the same process, "[k]nowing no other use for sexuality, it profanes eros—into porn." The fuller polemic (porn as bare-life-on-display, the antagonist of eros; the pornographic face; deritualization) lives in [[Pornography (Han)]]; recorded here is the cross-book fact that Han's quarrel with Agamben is **two-book and two-headed** — negativity/positivity in *The Burnout Society*, profanation/exhibition-value in *The Agony of Eros* — the same immanent-critique structure (adopt the frame, invert the conclusion) each time. (`Directly stated` for the profanation-abets-pornographication claim; `Interpretive synthesis` for the two-book continuity.)
 
 ## Source Passages
 
@@ -59,9 +68,17 @@ The vanishing state of exception — positivization absorbs the exception rather
 
 > Agamben overlooks this growing positivity. Counter to his diagnosis—that the state of exception is undergoing expansion and turning into the state of normality— general social positivization now is absorbing every state of exception. That is, conditions of normality are being totalized.
 
+Profanation and exhibition-value (*The Agony of Eros*, Ch. 5) — the second front:
+
+> It may well be that in a museum objects stand "at a remove," as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value.
+
+> Contra Agamben, a face loaded with exhibition-value to the point of bursting promises no "new collective use of sexuality." Indeed, exhibition destroys any and all possibilities for erotic communication.
+
+> Pornography completes the deritualization of love. Agamben's profanation even promotes the deritualization and pornographication of the world in that it suspects ritual spaces of constituting compulsive forms of sequestration.
+
 ## Confidence
 
-**High** for the disagreement itself and for all three fronts: Agamben is named in every relevant chapter, quoted verbatim (the "philosophical constellation" / "pure, absolute potentiality" passage on Bartleby, plus Han's summaries of *Homo Sacer* and *State of Exception*), and explicitly contradicted ("Agamben overlooks," "Agamben utterly fails to notice," "founders on the facts of the narrative," "anachronism"). High, too, for the borrowing-and-inversion structure: Han demonstrably keeps the *homo sacer* / bare-life couple and the *potenza di non* while reversing their predicates and their application. **Medium** for any claim about Agamben's own position beyond what Han reports: because *Giorgio Agamben has no book in the library*, his views (the ontotheological Bartleby, *potentia absoluta*, the exception-becoming-rule thesis) are known here only through Han's citation and paraphrase. Whether Han's universalization of bare life ("all of us, without exception") is in fact *closer* to Agamben's own "the exception has become the rule" than his polemic admits is left open — it awaits a future [[Giorgio Agamben]] author-section to adjudicate. **Forward-stubs preserved per policy:** [[Giorgio Agamben]] (author, no book in `raw/`), [[Homo Sacer]] and [[State of Exception]] (Agamben-owned concepts), [[Bartleby]] and [[Herman Melville]] (the tale and its author, no source in `raw/`).
+**High** for the disagreement itself and for all three *Burnout Society* fronts: Agamben is named in every relevant chapter, quoted verbatim (the "philosophical constellation" / "pure, absolute potentiality" passage on Bartleby, plus Han's summaries of *Homo Sacer* and *State of Exception*), and explicitly contradicted ("Agamben overlooks," "Agamben utterly fails to notice," "founders on the facts of the narrative," "anachronism"). High, too, for the *Agony of Eros* profanation front: Agamben's *Profanations* and *Nudities* are named and quoted, and Han contradicts him head-on ("Contra Agamben," "Agamben's thesis of secularization blinds him," "amounts to just so much profanity," "even promotes the deritualization and pornographication of the world"). High for the borrowing-and-inversion structure across both books: Han demonstrably keeps the *homo sacer* / bare-life couple, the *potenza di non*, and Agamben's own definition of profanation while reversing their predicates and conclusions. **Medium** for any claim about Agamben's own position beyond what Han reports: because *Giorgio Agamben has no book in the library*, his views (the ontotheological Bartleby, *potentia absoluta*, the exception-becoming-rule thesis, the redemptive reading of profanation and exhibited nudity) are known here only through Han's citation and paraphrase. **Forward-stubs preserved per policy:** [[Giorgio Agamben]] (author, no book in `raw/`), [[Homo Sacer]] and [[State of Exception]] (Agamben-owned concepts), [[Bartleby]] and [[Herman Melville]] (the tale and its author, no source in `raw/`).
 
 ## Sources
 
@@ -108,3 +125,18 @@ Relevant passage:
 > The sovereign of achievement society, then, is the homo sacer of his own self.
 
 Supports: The culmination of front (2) — under the "injunction to achieve [*Bann der Leistung*]" the sovereign/homo-sacer distinction Agamben keeps "topologically" clean collapses into a single self-exploiting subject; supports Han's charge of "anachronism" against Agamben and the argument [[The achievement-subject is the homo sacer of its own self]]. Label: `Directly stated`.
+
+### Source 5
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]
+Relevant passage:
+
+> It may well be that in a museum objects stand "at a remove," as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value.
+
+> Contra Agamben, a face loaded with exhibition-value to the point of bursting promises no "new collective use of sexuality." Indeed, exhibition destroys any and all possibilities for erotic communication.
+
+> Pornography completes the deritualization of love. Agamben's profanation even promotes the deritualization and pornographication of the world in that it suspects ritual spaces of constituting compulsive forms of sequestration.
+
+Supports: The **second front** of the disagreement (Ch. 5, "Porn") — Han adopts Agamben's concept of profanation (from *Profanations* / *Nudities*) and then denies its redemptive conclusion: exhibition does not free things for "a new use" but destroys [[Cult Value vs Exhibition Value (Han via Benjamin)|cult value]] and replaces it with [[Exhibition Value|exhibition value]]; the secret-less exhibited face is "obscene and pornographic," not erotic; "Agamben's 'profanation' amounts to just so much profanity" and even "promotes the deritualization and pornographication of the world." The fuller polemic lives in [[Pornography (Han)]]; this entry records the cross-book, two-headed structure of Han's quarrel with Agamben. Label: `Directly stated`.

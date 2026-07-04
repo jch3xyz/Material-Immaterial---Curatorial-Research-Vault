@@ -5084,5 +5084,173 @@
       "tensions/Theory vs Practice (Debord).md",
       "tensions/True vs False (Debord).md"
     ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/01 Foreword - The Reinvention of Love.md": {
+    "sha256": "5d9f8e9d02feb8e1cab603c9bbf2c29205e408a7d579205af2ecfa70e311a9b0",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 01 Foreword - The Reinvention of Love.md.analysis.md",
+    "generated_files": [
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Eros.md",
+      "concepts/The Other.md",
+      "references/Byung-Chul Han and Alain Badiou.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 01 Foreword - The Reinvention of Love.md",
+      "tensions/Eros vs Depression.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/02 Melancholia.md": {
+    "sha256": "98a1521325ca1bd5b503616336b27cab2177a3d44bcbeb8a1f424ef0c4e64836",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 02 Melancholia.md.analysis.md",
+    "generated_files": [
+      "arguments/Eros and depression are opposites the achievement-subject cannot love.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Achievement Society.md",
+      "concepts/Atopia.md",
+      "concepts/Eros.md",
+      "concepts/Hell of the Same.md",
+      "concepts/Melancholia (Han).md",
+      "concepts/Narcissism (Han).md",
+      "concepts/Negativity.md",
+      "concepts/Positivity.md",
+      "concepts/The Other.md",
+      "references/Byung-Chul Han and Eva Illouz.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 02 Melancholia.md",
+      "tensions/Eros vs Depression.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able.md": {
+    "sha256": "56f4f86e51a1c8c9a9c412ea696c1418741eb87af14133d257e1deba80c720b8",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 03 Being Able Not to Be Able.md.analysis.md",
+    "generated_files": [
+      "arguments/The freedom of Can is more coercive than the disciplinary Should.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Achievement Society.md",
+      "concepts/Atopia.md",
+      "concepts/Auto-Exploitation.md",
+      "concepts/Capital as Religion.md",
+      "concepts/Eros.md",
+      "concepts/Negative Potency.md",
+      "concepts/Positivity.md",
+      "concepts/Primal Distance (Urdistanz).md",
+      "concepts/The Other.md",
+      "references/Byung-Chul Han and Emmanuel Levinas.md",
+      "references/Byung-Chul Han and Michel Foucault.md",
+      "references/Byung-Chul Han and Walter Benjamin.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 03 Being Able Not to Be Able.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/04 Bare Life.md": {
+    "sha256": "ea9c79f69780294c20441b182eab9a995e692653f35bb700d987b9eaae001cca",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 04 Bare Life.md.analysis.md",
+    "generated_files": [
+      "arguments/Eros and depression are opposites the achievement-subject cannot love.md",
+      "arguments/The achievement-subject is master and slave at once so there is no end of history.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Auto-Exploitation.md",
+      "concepts/Bare Life.md",
+      "concepts/Capital as Religion.md",
+      "concepts/Eros.md",
+      "concepts/Negativity.md",
+      "concepts/Positivity.md",
+      "concepts/The Other.md",
+      "references/Byung-Chul Han and Alain Badiou.md",
+      "references/Byung-Chul Han and Eva Illouz.md",
+      "references/Byung-Chul Han and Hegel.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 04 Bare Life.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/05 Porn.md": {
+    "sha256": "2d7c3679f06a984681906dd0eb38197021d78c350f1dbe2212431f7844662e51",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 05 Porn.md.analysis.md",
+    "generated_files": [
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Pornography (Han).md",
+      "definitions/Cult Value vs Exhibition Value (Han via Benjamin).md",
+      "references/Byung-Chul Han and Georges Bataille.md",
+      "references/Byung-Chul Han and Giorgio Agamben.md",
+      "references/Byung-Chul Han and Jean Baudrillard.md",
+      "references/Byung-Chul Han and Martin Heidegger.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 05 Porn.md",
+      "tensions/Eros vs Sexuality.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/06 Fantasy.md": {
+    "sha256": "72f48afd81fb07e243769e61b0035ae0f85282dc4e1caaa778a7cef9e8df6dc8",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 06 Fantasy.md.analysis.md",
+    "generated_files": [
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Achievement Society.md",
+      "concepts/Atopia.md",
+      "concepts/Eros.md",
+      "concepts/Fantasy.md",
+      "concepts/Hell of the Same.md",
+      "concepts/Information.md",
+      "concepts/Negativity.md",
+      "concepts/Positivity.md",
+      "concepts/The Other.md",
+      "concepts/Transparency.md",
+      "references/Byung-Chul Han and Eva Illouz.md",
+      "references/Byung-Chul Han and Georges Bataille.md",
+      "references/Byung-Chul Han and Slavoj Žižek.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 06 Fantasy.md",
+      "tensions/Fantasy vs Information.md",
+      "tensions/Positivity vs Negativity.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros.md": {
+    "sha256": "f66338d33fb27232b104285fb728591cf3da0bfe7882ad7adc021d823d8f7bdd",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 07 The Politics of Eros.md.analysis.md",
+    "generated_files": [
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Achievement Society.md",
+      "concepts/Pornography (Han).md",
+      "concepts/The Event.md",
+      "concepts/The Other.md",
+      "concepts/The Politics of Eros.md",
+      "references/Byung-Chul Han and Alain Badiou.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 07 The Politics of Eros.md",
+      "tensions/Eros vs Sexuality.md"
+    ]
+  },
+  "raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory.md": {
+    "sha256": "14936289c898be56f1fef764d54068323e3e936509437c711281fcd45ad06ae3",
+    "last_ingested": "2026-07-04",
+    "analysis_file": "_system/analysis/Byung-Chul Han - The Agony of Eros - 08 The End of Theory.md.analysis.md",
+    "generated_files": [
+      "arguments/Big Data is blind to the event and so blind to the future.md",
+      "arguments/Theory in the emphatic sense is erotic.md",
+      "authors/Byung-Chul Han.md",
+      "books/The Agony of Eros.md",
+      "concepts/Atopia.md",
+      "concepts/Big Data.md",
+      "concepts/Dataism.md",
+      "concepts/Hell of the Same.md",
+      "concepts/Information.md",
+      "concepts/Narrativity.md",
+      "concepts/Negativity.md",
+      "concepts/Positivity.md",
+      "concepts/The Event.md",
+      "concepts/The Other.md",
+      "concepts/Transparency.md",
+      "definitions/Erfahrung vs Erlebnis (Han).md",
+      "definitions/Information (Han).md",
+      "references/Byung-Chul Han and Gilles Deleuze.md",
+      "references/Byung-Chul Han and Martin Heidegger.md",
+      "sources/Byung-Chul Han - The Agony of Eros - 08 The End of Theory.md",
+      "tensions/Positivity vs Negativity.md"
+    ]
   }
 }

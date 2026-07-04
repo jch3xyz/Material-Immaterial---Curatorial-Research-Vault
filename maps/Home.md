@@ -6,13 +6,13 @@ last_updated: 2026-07-04
 
 # Vault Home
 
-The navigation entry point for the **Material / Immaterial** curatorial research vault — a cross-referenced web of concepts, arguments, tensions, symbols, metaphors, and reading pathways drawn from **15 books by 13 authors**. The source of truth is the full original books under `raw/`; everything here is the interpretive layer.
+The navigation entry point for the **Material / Immaterial** curatorial research vault — a cross-referenced web of concepts, arguments, tensions, symbols, metaphors, and reading pathways drawn from **16 books by 13 authors**. The source of truth is the full original books under `raw/`; everything here is the interpretive layer.
 
 ## Browse the interpretive layer
 
-- [[Concept Index]] — ~481 concepts: an alphabetical master list **+ 21 thematic cluster pages**
+- [[Concept Index]] — ~489 concepts: an alphabetical master list **+ 21 thematic cluster pages**
 - [[Argument Index]] — claims and theses, **by author (13) and by theme (12)**
-- [[Tension Index]] — ~147 oppositions and paradoxes, organized into **13 themes**
+- [[Tension Index]] — ~150 oppositions and paradoxes, organized into **13 themes**
 - [[Symbol Index]] — 58 emblems, cases, and figures, **by theme**
 - [[Metaphor Index]] — 148 images and motifs, **by theme**
 - [[Author Network]] — the thirteen authors and how they connect
@@ -42,12 +42,12 @@ Concepts the vault is built to be particularly useful for:
 - [[Spectacle]] · [[Transparency]] · [[Visibility vs Understanding]] · [[Surveillance]] · [[Surveillance Capitalism]] · [[Big Other]]
 - [[Systems Theory]] · [[Cybernetics]] · [[Feedback Loops]] · [[A System]] · [[Stocks and Flows]] · [[Resilience]] · [[Leverage Points]] (Meadows's native systems primer)
 - [[Posthumanism]] · Technology and Perception · [[Art as Experiential Technology]] · [[New Media Art]]
-- [[Desire]] · [[Interiority]] · [[Psychoanalysis]]
+- [[Desire]] · [[Interiority]] · [[Psychoanalysis]] · [[Eros]] · [[The Other]] · [[Atopia]] · [[Negativity]] (Han's *Agony of Eros*)
 
 (Some links above are commitment-stubs that mark research foci, not yet realized notes.)
 
 ## The corpus & system
 
-- **15 books, 13 authors** — Debord's *The Society of the Spectacle* re-added and ingested 2026-07-04 (after Meadows the same day), realizing [[Guy Debord]] as the 13th author; **more raw books are queued for future ingests (Benjamin's *Illuminations* next).** Full list: [[_system/source_inventory|Source Inventory]]
+- **16 books, 13 authors** — Han's *The Agony of Eros* ingested 2026-07-04 (his **fourth** book — a repeat author, no new node), after Meadows and Debord the same day; it realizes the long-committed Han-anchored [[Eros]] and [[The Other]] forward-stubs. **More raw books are queued for future ingests (Benjamin's *Illuminations* next).** Full list: [[_system/source_inventory|Source Inventory]]
 - [[_system/log|Processing Log]] — the full build history · [[_system/schemas|Schemas]] · [[_system/review_items|Review Items]]
 - `inbox/` — drop drafts for auditing · `audits/` — generated audits

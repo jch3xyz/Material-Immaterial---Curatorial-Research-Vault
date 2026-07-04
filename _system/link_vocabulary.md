@@ -653,6 +653,36 @@ The committed argument stub `The society of transparency is a society of the spe
 
 ---
 
+## Canonical Note Names — Han *The Agony of Eros* ingest (2026-07-04)
+
+Added by *The Agony of Eros* (*Agonie des Eros*, Byung-Chul Han, 2012; foreword by Alain Badiou). **Byung-Chul Han's FOURTH book in the vault** (after The Transparency Society, Psychopolitics, The Burnout Society) — a REPEAT-AUTHOR ingest: the `Byung-Chul Han` author note was **EXTENDED, not duplicated** (all three prior book sections preserved; now ~111KB). **CORPUS RE-EXPANSION:** re-added 2026-07-04. Source summaries: `Han - The Agony of Eros - <NN Chapter>` (8: Foreword + 7 chapters). Ingested via the chunked workflow (`_system/workflows/_run_agony.js`, 2 chunks). 29 new notes (book + author-extend + 8 sources + 19 interpretive) + **28 cross-book Han-cluster updates** — the heaviest cross-book merge since Psychopolitics, and a completely clean run (0 create stragglers, all 28 updates + author-extend landed first pass, none truncated). **The Foreword is by Alain Badiou — its quotes are attributed to Badiou, not Han** (same handling as the Shanken intro in the Ascott ingest).
+
+**Realized two long-committed forward-stubs Han-anchored** (open to other authors): the concept `Eros` *(the relation to the atopic Other; open to a future Marcuse section)* and the concept `The Other` *(the atopos; Levinas/Buber lineage — canonical name is `The Other`, NOT `The Other (Han)`)*.
+
+**New concepts/** (8): Eros · The Other · Atopia *(the Other as atopos, without place)* · Narcissism (Han) · Melancholia (Han) *(the depression of the achievement-subject who cannot reach the Other)* · Primal Distance (Urdistanz) *(Buber via Han)* · Fantasy · The Politics of Eros.
+
+**New arguments/** (4): Eros and depression are opposites the achievement-subject cannot love · The achievement-subject is master and slave at once so there is no end of history · **The freedom of Can is more coercive than the disciplinary Should** *(realized — was a committed Psychopolitics-internal argument stub)* · Theory in the emphatic sense is erotic *(ch8 "The End of Theory")*.
+
+**New tensions/** (3): Eros vs Depression · Eros vs Sexuality · Fantasy vs Information. **No new definitions/metaphors/symbols** — the short dense book favored EXTENDING existing Han notes over minting thin new ones (per plan instruction).
+
+**New references/** (4): `Byung-Chul Han and {Alain Badiou (the Foreword — love as "the scene of the Two"), Emmanuel Levinas (the Other / the face), Georges Bataille (eroticism / the little death), Slavoj Žižek (fantasy, ch6)}`.
+
+**Cross-book UPDATES** (28 existing notes gained an Agony-of-Eros section or Authors-and-Variants bullet — do NOT duplicate; this book is the PRIMARY source for Han's negative concepts): concepts `Negative Potency` *(ch3 "Being Able Not to Be Able" — the fullest statement of the power not-to)* · `Bare Life` *(ch4 — loss of death, the Liebestod, health as goddess)* · `Pornography (Han)` *(ch5 — porn as the destruction of eros; cross-linked to Debord's `Spectacle`)* · `Hell of the Same` *(the keystone framing — eros dies as the Other is leveled into the Same)* · `Achievement Society` · `Positivity` · `Negativity` · `Transparency` · `Auto-Exploitation` · `Big Data` · `Dataism` · `The Event` · `Capital as Religion` · `Information` · `Narrativity` · definitions `Information (Han)` *(ch8 — cognition vs recognition)* · `Erfahrung vs Erlebnis (Han)` · `Cult Value vs Exhibition Value (Han via Benjamin)` · the argument `Big Data is blind to the event and so blind to the future` · the tension `Positivity vs Negativity` · and 8 reference notes `Byung-Chul Han and {Eva Illouz, Gilles Deleuze, Giorgio Agamben, Hegel, Jean Baudrillard, Martin Heidegger, Michel Foucault, Walter Benjamin}`.
+
+New **author forward-stubs** (cited substantively, no book in `raw/`): `Alain Badiou`, `Emmanuel Levinas`, `Georges Bataille`, `Slavoj Žižek`. Reused existing stubs: `Eva Illouz`, `Roland Barthes`, `Herbert Marcuse`, `Sigmund Freud`, `Giorgio Agamben`, `Hegel`, `Martin Heidegger`. One-off figures (Lars von Trier, Proust, Erich Fromm, Lacan, Flaubert) render as plain text.
+
+### Distinctions enforced (NOT errors)
+
+- `The Other` (concept — the atopos) is the canonical name; NEVER `The Other (Han)` (a known variant). Definitions may use `(Han)` but never for the Other.
+- `Eros` is realized Han-anchored (open to a future Marcuse `Eros and Civilization` section) — the `Biopolitics`/`Disciplinary Society` precedent.
+- `Melancholia (Han)` and `Narcissism (Han)` are suffixed to reserve the bare names for any future cross-author treatment.
+- `Fantasy` is Han's concept (ch6) — bare name (no prior `Fantasy` note).
+- `Negative Potency` was EXTENDED (not re-created) though ch3 is its fullest statement — it remains the single canonical name (NOT "Being Able Not to Be Able", which is the chapter title / a realized argument-adjacent idea folded into the note).
+
+Hygiene: 0 invented prefix links · 0 bracket mismatches · 0 new-author surname fragmentation (`Alain Badiou`/`Emmanuel Levinas`/`Georges Bataille`/`Slavoj Žižek` full-name throughout) · 0 dangling `The Other (Han)`.
+
+---
+
 ## Variant → Canonical Normalization Table
 
 These are **verified** pure format/article/qualifier variants that must be rewritten to the canonical name. Apply by exact match (full `[[Variant]]` and piped `[[Variant|alias]]` forms), preserving any alias text. Do NOT prefix-match where it risks corrupting a longer canonical name.

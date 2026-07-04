@@ -8,6 +8,8 @@ sources:
     passage: "The society of transparency is the society of information. Information is a phenomenon as such insofar as it lacks all negativity. It amounts to positivized, operationalized language."
   - source_file: "raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration.md"
     passage: "A single insight can put all that exists, everything as an entirety, into question and change it. Information lacks such negativity."
+  - source_file: "raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory.md"
+    passage: "Information is only cognized. But cognition is not yet recognition—that is, insight. Because of its positivity, it is additive and cumulative. As positivity, information changes nothing and announces nothing. It is utterly inconsequential."
 related_concepts:
   - "[[The Transparency Society]]"
   - "[[Negativity]]"
@@ -20,7 +22,7 @@ related_concepts:
   - "[[Hypercommunication]]"
   - "[[Information vs Truth]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-07-04
 ---
 
 # Information — Byung-Chul Han
@@ -52,6 +54,18 @@ The definition therefore does double duty. Negatively, it specifies what informa
 - In Shannon-derived information theory, "information" is a quantitative measure of uncertainty reduction in a signal. Han's usage is not technical in this sense; he co-opts the term to name a *condition of language* under transparency. Where information theory is indifferent to meaning, Han defines information precisely by the *absence* of the dimensions (negativity, transformation, transcendence) that, on his account, make meaning possible.
 - Where many contemporary critics treat "too much information" as a problem of volume or attention, Han makes it a problem of ontological *kind*: even a single bit of information differs in nature from a single insight, because the former lacks negativity by definition. Quantity is a symptom; the lack of negativity is the essence. (`Directly stated`)
 - Other authors in this vault who treat related territory — for instance Debord on [[Spectacle|The Spectacle]], McLuhan on [[Media as Extensions of Man|Media as Extensions]], or Marcuse on [[One-Dimensional Thought]] — converge with Han on the diagnosis that something in modern mediation flattens thought, but they do not define "information" as a category in Han's strict sense. Han's move is unusual in that he uses "information" as a *definitional* term for a positivized form of language, not merely a name for content circulated by media. (`Interpretive synthesis`)
+
+## Byung-Chul Han (The Agony of Eros)
+
+In the final chapter of *The Agony of Eros* — "The End of Theory," Han's inversion of Chris Anderson's 2008 *Wired* essay of the same name — the definition is carried from *language under transparency* into *thought itself*. Here Han sharpens the "lacks all negativity" formula into a distinction between two cognitive events: information is merely **cognized**, whereas insight is **recognized**. Cognition is the flat, additive registering of the positive; recognition is a negativity that transforms:
+
+> Data-driven, positive science produces neither insight nor truth. Information is only cognized. But cognition is not yet recognition—that is, insight. Because of its positivity, it is additive and cumulative. As positivity, information changes nothing and announces nothing. It is utterly inconsequential. In contrast, insight is a negativity. It is exclusive, exquisite, and executive.
+
+The consequence sharpens the [[Negativity|negativity]]/[[Positivity|positivity]] axis that already grounds the *Transparency Society* definition. Because information is pure [[Positivity|positivity]], it can only accumulate; it "changes nothing and announces nothing," which is why Han calls it "utterly inconsequential." [[Erkenntnis (Insight)|Insight]], by contrast, is a [[Negativity|negativity]] — "exclusive, exquisite, and executive" — able to break with the existing order and let something wholly [[The Other|Other]] begin:
+
+> An insight preceded by experience is capable of shaking up the status quo in its entirety and allowing something wholly Other to begin. But excessive cognition prevents recognition from taking place.
+
+The last sentence is the pointed diagnosis: information does not merely fall short of insight, it *crowds it out*. An "excess of positivity" — the flood of cognized data in the "society of transparency and information" — blocks the negativity on which recognition depends. This aligns information with [[Erfahrung vs Erlebnis (Han)|Erlebnis]] (additive experiencing) rather than [[Erfahrung vs Erlebnis (Han)|Erfahrung]] (the once-occurring transformative experience), and, on Han's account, deprives the information society of access to the wholly Other — because it "lacks [[Eros|eros]]—which transforms." The *Agony of Eros* gloss thus supplies the noological stakes only implied in *The Transparency Society*: information's lack of negativity is not a stylistic flaw but the reason "[[The End of Theory|Google science]]" — the mere balancing and comparison of data — cannot produce theory of the emphatic sort. (`Directly stated`)
 
 ## Related Concepts
 
@@ -105,5 +119,18 @@ Relevant passage:
 > The society of transparency not only lacks truth; it also lacks symbolic appearance. Neither truth nor symbolic appearance are see-through. Only emptiness is entirely transparent. To avert this emptiness, a mass of information is brought into circulation. The mass of information and imagery offers fullness in which emptiness is still noticeable. More information and communication alone do not illuminate the world. Transparency also does not entail clairvoyance. The mass of information produces no truth.
 
 Supports: Establishes the function of information in the transparency society — it is mobilized to fill the emptiness left by the withdrawal of truth and symbolic appearance, without itself producing truth. This grounds the broader [[Information vs Truth|information-vs-truth opposition]] that the strict definition makes possible.
+
+Label: `Directly stated`
+
+### Source 4
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Data-driven, positive science produces neither insight nor truth. Information is only cognized. But cognition is not yet recognition—that is, insight. Because of its positivity, it is additive and cumulative. As positivity, information changes nothing and announces nothing. It is utterly inconsequential. In contrast, insight is a negativity. It is exclusive, exquisite, and executive. An insight preceded by experience is capable of shaking up the status quo in its entirety and allowing something wholly Other to begin. But excessive cognition prevents recognition from taking place.
+
+Supports: Extends the *Transparency Society* definition from language into thought. Han now names the cognitive form of information's lack of negativity: information is *cognized* but not *recognized*; because it is pure positivity it is additive, cumulative, and "utterly inconsequential" — it "changes nothing and announces nothing." Insight, by contrast, is a *negativity* ("exclusive, exquisite, and executive") capable of "shaking up the status quo in its entirety" and letting "something wholly Other to begin." The final sentence gives the causal diagnosis — "excessive cognition prevents recognition from taking place" — so information does not merely differ from insight but actively crowds it out. This grounds Han's inversion of Anderson's "End of Theory": positive, additive information cannot produce theory of the emphatic sort.
 
 Label: `Directly stated`

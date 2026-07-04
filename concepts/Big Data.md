@@ -5,6 +5,7 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/04 Biopolitics]]"
   - "[[raw/Han - Psychopolitics/11 Big Data]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/03 Chapter 1 - Home or Exile in the Digital Future]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/05 Chapter 3 - The Discovery of Behavioral Surplus]]"
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/06 Chapter 4 - The Moat Around the Castle]]"
@@ -29,7 +30,7 @@ authors:
   - "[[Byung-Chul Han]]"
   - "[[Shoshana Zuboff]]"
 confidence: high
-last_updated: 2026-06-08
+last_updated: 2026-07-04
 ---
 
 # Big Data
@@ -64,7 +65,7 @@ Han's critique is that Big Data is purely *additive* and therefore yields correl
 
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Big Data is the technical condition of possibility for psychopolitics: an aperspectival, never-forgetting, market-and-state apparatus that draws a collective psychogram of the unconscious, predicts and pre-empts behaviour through micro-targeting, sorts persons via the ban-opticon, and — being additive rather than narrative — produces correlation without Spirit, announcing "the end of the person who possesses free will."
+- **[[Byung-Chul Han]]** — Big Data is the technical condition of possibility for psychopolitics: an aperspectival, never-forgetting, market-and-state apparatus that draws a collective psychogram of the unconscious, predicts and pre-empts behaviour through micro-targeting, sorts persons via the ban-opticon, and — being additive rather than narrative — produces correlation without Spirit, announcing "the end of the person who possesses free will." In *The Agony of Eros* (ch. 8, "The End of Theory") Han restates the same additive-blindness critique at the level of thought itself: the data deluge is "pulling science away from thought on a massive scale," and "Google science" — the mere balancing and comparing of data — "is putting an end to theory of the emphatic sort." Because it is "additive or detective—not narrative or hermeneutic," Big Data is the calculating pole opposed to genuine thinking, which requires the negativity of the incalculable — the [[The Event|event]] and the [[The Other|atopic Other]] that no correlation can register. (See [[Dataism]] for the fuller treatment.) (Directly stated — *Agony of Eros* Ch8.)
 - **[[Shoshana Zuboff]]** — Big Data is the *supply side* of surveillance capitalism's logic of accumulation: human experience is unilaterally claimed as free raw material, refined by "machine intelligence" (the "ultimate tapeworm" that "reaches its full potential for quality only as it approximates totality") into prediction products traded in behavioral futures markets. Where Han diagnoses the apparatus from the subject's side, Zuboff supplies the *political economy* — behavioral surplus, the prediction imperative, and the digital dossiers of the "shadow text" that "evaluate, categorize, and predict our behavior in millions of ways that we can neither know nor combat." Its instrumentarian endpoint is "the substitution of certainty for society."
 - **[[Jeremy Bentham]]** — *Foil.* Han measures Big Data against Bentham's perspectival panopticon, which left blind spots and lacked an efficient recording system; Big Data is "Columbus's egg" for digital control society, more efficient than Bentham's design. (Directly stated — Ch11.)
 - **[[Walter Benjamin]]** — *Source of the analogy.* Han borrows Benjamin's "optical unconscious" from the artwork essay to coin the "digital unconscious." (Directly stated — Ch11.)
@@ -83,7 +84,7 @@ In its instrumentarian phase, the data project aims past prediction at modificat
 ## Related Concepts
 
 - [[Psychopolitics]] — Big Data is its instrument; micro-targeting *is* "data-driven psychopolitics."
-- [[Dataism]] — the *ideology* (the "second Enlightenment," "data totalitarianism") that absolutizes Big Data; distinct from the apparatus itself.
+- [[Dataism]] — the *ideology* (the "second Enlightenment," "data totalitarianism") that absolutizes Big Data; distinct from the apparatus itself. In *The Agony of Eros* this becomes the "Google science" that ends theory of the emphatic sort — the fuller Agony-of-Eros treatment lives there.
 - [[Digital Panopticon]] — Big Data supplies its aperspectival, never-forgetting optics; the apparatus's aperspectival update.
 - [[Biopolitics]] — the prior, statistical-demographic technology Big Data supersedes; "demography is not the same thing as psych-ography."
 - [[Auto-Exploitation]] — the self-tracking, self-surveilling subject ("Quantified Self") feeds Big Data its own data, becoming "a panopticon of itself."
@@ -245,3 +246,14 @@ Relevant passage:
 > In the age of surveillance capitalism it is instrumentarian power that fills the void, substituting machines for social relations, which amounts to the substitution of certainty for society.
 
 Supports: Establishes the Zuboff section — Big Data as the supply side (behavioral surplus) of surveillance capitalism's logic of accumulation: refined by an all-consuming machine intelligence into prediction products, accumulated in the asymmetric "shadow text," and aimed at "total certainty." The political-economy counterpart to Han's psychopolitical apparatus, converging on the dissolution of free will (Han) / freedom (Zuboff). Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Today, the volume of data and information, proliferating without end, is pulling science away from thought on a massive scale. Information is inherently positive. Data-based, positive science ("Google science"), which amounts to merely balancing out and comparing data, is putting an end to theory of the emphatic sort. It is additive or detective—not narrative or hermeneutic.
+
+Supports: The Agony-of-Eros cross-link in the Han "Authors and Variants" bullet — Big Data as the "Google science" pole of Han's end-of-theory thesis: purely additive, non-narrative data-comparison that pulls science away from thought and is blind to the incalculable event and the atopic Other. The substantive treatment lives in [[Dataism]]. Label: `Directly stated`.

@@ -10,6 +10,8 @@ sources:
   - "[[raw/Han - Psychopolitics/01 The Crisis of Freedom]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
   - "[[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 related:
   - "[[Positivity]]"
   - "[[Society of Control]]"
@@ -48,7 +50,7 @@ This note develops a single author's concept across two of Han's books in the va
 - **Transparency as aesthetic-communicative dispositive** (*The Transparency Society*) — transparency as a *systemic compulsion* that operationalizes social processes by dismantling [[Negativity]], [[Secrecy]], and the [[The Other|Other]]: symmetry, smoothness, [[Lightless Radiation]], [[Pornography (Han)]], and the [[Hell of the Same]]. This is the cluster developed in the Longer Explanation below.
 - **Transparency as psychopolitical dispositive** (*Psychopolitics*) — the *same* dispositive read through neoliberal power and Big Data: transparency as a technique that forces interiority outward, "promot[es] total conformity," and lets a "friendly" [[Digital Panopticon]] *steer the future* rather than control the past. This is the sense developed in the Psychopolitics section.
 
-The two are continuous, not rival: *Psychopolitics* restates and extends the dispositive thesis, shifting the emphasis from the aesthetic logic of the Same to the governmental logic of pre-emptive steering. `Interpretive synthesis`.
+The two are continuous, not rival: *Psychopolitics* restates and extends the dispositive thesis, shifting the emphasis from the aesthetic logic of the Same to the governmental logic of pre-emptive steering. *The Agony of Eros* then supplies a third facet — transparency as **hypervisibility** (the maximization of visual information) and as the epistemic condition of a data-flooded, high-noise world hostile to fantasy and to theory. `Interpretive synthesis`.
 
 ## Longer Explanation
 
@@ -68,6 +70,12 @@ The political payload of the dispositive is conformity. "The dispositive of tran
 
 Finally, *Psychopolitics* supplies the temporal-governmental twist that the earlier book only implied. In the "Friendly Big Brother" chapter Han contrasts the [[Digital Panopticon]] with Orwell's surveillance state: there is "no mysterious 'Ministry of Truth,'" because "[t]ransparency and information have taken the place of truth. The new conception of power does not involve controlling the past, but steering the future psychopolitically." Where Orwellian power revised the past through negation and force, neoliberal power runs on [[Positivity]] — it "prospects, permits and projects" — and uses Big Data to make the future "calculable and controllable," "transform[ing] the negativity of freely made decisions into the positivity of factual states." Transparency is thus the epistemic regime ("transparency and information" in the place of "truth") of a power that no longer needs to repress because it can *steer*; "Big Brother now wears a friendly face," and "[h]is friendliness is what makes surveillance so efficient." `Directly stated`.
 
+## Byung-Chul Han (The Agony of Eros)
+
+*The Agony of Eros* extends the transparency thesis in two directions that the earlier books left implicit: transparency as **hypervisibility** — the spatial-perceptual telos of the dispositive — and transparency as the **epistemic condition of a high-noise, data-flooded world** in which theory and thought are drowned out. In the "Fantasy" chapter (ch.6) Han names hypervisibility as the destination toward which the whole apparatus tends: "The corollary of hypervisibility is the dismantling of thresholds and borders. Hypervisibility is the telos of the society of transparency. Space becomes transparent when it is smoothed out and leveled." This is the same leveling of [[Negativity]] and [[Smoothness]] developed in Chapter 1 of *The Transparency Society* ("smoothed out and leveled"), but restated as a claim about *visual saturation* and *space*: transparency is achieved by the maximization of visual information, which dismantles the thresholds and "zones of mystery and riddle" where "the atopic Other begins." When those borders vanish, "fantasies of the Other disappear too" — so hypervisibility is the point at which transparency's abolition of the [[The Other|Other]] becomes total, and the point Han names "the agony of eros." (The vault has no standalone Hypervisibility note; this section carries that material.) `Directly stated`.
+
+The closing chapter, "The End of Theory" (ch.8), gives transparency an epistemic-noological corollary. The deluge of positive [[Information]] does not clarify the world but deforms it into disorder: "Massive information massively heightens the entropy of the world; it raises the level of noise. Thinking demands calm. Thinking is an expedition into quietness." Han diagnoses the transparency regime as an environment of pure racket — "Rampant, massive information — an excess of positivity — makes a racket. Today's society of transparency and information has an extremely high noise level" — against which what is needed is not more data but *theory*, the form-conferring, entropy-reducing "primary, primordial decision" that "clarifies the world before it elucidates it." Because transparency runs on [[Positivity]] and additive information, "without negativity, only the Same exists"; the same leveling that abolishes the Other in space (hypervisibility) abolishes thought in time (calculation displacing thinking). This is the primary-source bridge between Han's transparency vocabulary and his [[Dataism]] / Big Data critique: the society of transparency is also the society of Google science, where the noise of information forecloses the negativity that both eros and theory require. `Directly stated` (hypervisibility, entropy, noise); `Interpretive synthesis` (the bridge to Dataism / theory).
+
 ## Guy Debord (The Society of the Spectacle)
 
 Han's society of transparency is, at root, the society of the [[Spectacle]] intensified — and grounding Han's diagnosis in [[Guy Debord]]'s founding text upgrades what was a speculative note into an [[Byung-Chul Han and Guy Debord|interpretive]] one. In "Separation Perfected" (theses 1–34) Debord defines the spectacle not as a mass of images but, in thesis 6, as "the omnipresent affirmation of the choices that have already been made in the sphere of production and in the consumption implied by that production." What Han calls the compulsion to make everything visible, circulable, and operational, Debord already reads as a regime that presents "a vast inaccessible reality that can never be questioned" — the spectacle "is an affirmation of appearances and an identification of all human social life with appearances" (thesis 10). Both thinkers locate a totalizing exposure that forecloses interiority, negativity, and the possibility of refusal. `Interpretive synthesis`.
@@ -76,7 +84,7 @@ The sharpest continuity is the eclipse of dialogue. Debord's spectacle demands "
 
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Transparency is simultaneously a neoliberal dispositive, a systemic compulsion, a condition of symmetry, a medium of lightless radiation, and the psychological formula of voluntary self-exposure in the [[Digital Panopticon]]. All other Han concepts in this book ([[Positivity]], [[Hypercommunication]], [[Pornography (Han)]], [[Society of Control]], [[Auto-Exploitation]]) hang off this master node.
+- **[[Byung-Chul Han]]** — Transparency is simultaneously a neoliberal dispositive, a systemic compulsion, a condition of symmetry, a medium of lightless radiation, the psychological formula of voluntary self-exposure in the [[Digital Panopticon]], and — in *The Agony of Eros* — **hypervisibility** ("the telos of the society of transparency") and the high-noise, entropy-raising deluge of positive [[Information]] against which form-conferring theory is needed. All other Han concepts in these books ([[Positivity]], [[Hypercommunication]], [[Pornography (Han)]], [[Society of Control]], [[Auto-Exploitation]], [[Dataism]]) hang off this master node.
 - **[[Guy Debord]]** — `Interpretive synthesis`. Han's society of transparency is the society of the [[Spectacle]] intensified: Debord's spectacle is "the omnipresent affirmation of the choices that have already been made" (th.6) and "an affirmation of appearances" (th.10), a regime that operates "by appearing without allowing any reply" (th.12). The register distinction holds — Debord locates the mechanism in image-mediated *separation* (the spectacle as "a social relation between people that is mediated by images"), whereas Han locates it in *symmetry and self-illumination*, voluntary panoptic self-exposure. Developed further in [[Byung-Chul Han and Guy Debord]].
 - **[[Michel Foucault]]** — `Speculative connection`. Han explicitly extends and inverts Foucault's panopticon (Ch.9): the disciplinary panopticon presupposed isolation and an invisible inspector, whereas Han's transparent panopticon runs on [[Hypercommunication]] and voluntary self-exhibition. Useful to cross-reference with any Foucault notes once added.
 - **[[Herbert Marcuse]]** — `Speculative connection`. Possible resonance with [[Eros and Civilization]]: Han's claim that transparency "annihilates room for the play [Spiel-Räume] of pleasure and desire" parallels Marcuse's worry that performance-principle societies suppress the erotic. Mark as speculative until cross-checked.
@@ -84,34 +92,37 @@ The sharpest continuity is the eclipse of dialogue. Debord's spectacle demands "
 ## Related Concepts
 
 - [[Positivity]] — Transparency's mode: only what sheds negativity can become transparent.
-- [[Information]] — What transparency converts everything inward *into* ("forces everything inward in order to transform it into information").
+- [[Information]] — What transparency converts everything inward *into* ("forces everything inward in order to transform it into information"); in *The Agony of Eros*, the "massive information" whose "excess of positivity" raises the noise level of the transparency society.
 - [[Hypercommunication]] — The operational form transparency takes once secrecy is dismantled.
 - [[Digital Panopticon]] — The institutional shape of transparency; "aperspectival, penetrating illumination."
 - [[Society of Control]] — Transparency is its logic; control "achieves perfection" when self-exposure is freely willed.
 - [[Auto-Exploitation]] — The subjective correlate: "Illumination is exploitation."
 - [[Lightless Radiation]] — Transparency's medium, distinguished from metaphysical light.
-- [[Pornography (Han)]] — What transparency does to images, love, and the body when ambiguity is removed.
-- [[Hell of the Same]] — The social outcome of eliminating the [[The Other|Other]].
+- [[Pornography (Han)]] — What transparency does to images, love, and the body when ambiguity is removed; in *The Agony of Eros*, pornography "maximizes visual information" and so is the limit case of hypervisibility.
+- [[Hell of the Same]] — The social outcome of eliminating the [[The Other|Other]]; "without negativity, only the Same exists."
+- [[Smoothness]] — "Space becomes transparent when it is smoothed out and leveled" — transparency as the smoothing of thresholds and borders.
+- [[Dataism]] — The epistemic regime of transparency in *The Agony of Eros*: "Google science," data replacing theory, calculation displacing thinking.
 - [[Evidence]] — Transparency's epistemic mode; "Evidence admits deduction, not seduction."
 - [[Spectacle]] — Debord's ancestor concept; transparency is the society of the spectacle intensified into symmetry and self-illumination.
 
 ## Opposing Concepts
 
-- [[Negativity]] — Transparency is "inherently positive"; it cannot tolerate the gap, the secret, the dialectical pause.
+- [[Negativity]] — Transparency is "inherently positive"; it cannot tolerate the gap, the secret, the dialectical pause; "without negativity, only the Same exists."
 - [[Secrecy]] — "To every great politics belongs the 'arcanum'"; transparency dismantles the arcane sphere of power.
-- [[The Other|Otherness]] — Transparent communication "eliminates Otherness."
+- [[The Other|Otherness]] — Transparent communication "eliminates Otherness"; under hypervisibility "fantasies of the Other disappear too."
 - [[Trust]] — "Transparency dismantles trust"; the demand for transparency surfaces precisely when trust fails.
 - [[Seduction]] — Symmetry, transparency's condition, is the death of the seducer's play with ambiguity.
-- [[Eros]] — Without veil and concealment, desire collapses into [[Pornography (Han)]].
+- [[Eros]] — Without veil and concealment, desire collapses into [[Pornography (Han)]]; hypervisibility is "the agony of eros."
 
 ## Questions It Raises
 
 - If transparency is not opposed to freedom but is its very form (auto-illumination), what counter-practice could resist it without simply re-installing the [[Disciplinary Society]] it replaced?
 - Han claims transparency is "an ideology" with a "positive core that has been mystified and made absolute" — what is the salvageable core, and is curatorial practice (which traffics in visibility) implicated in its ideologization?
-- How does the move from "light" to "lightless radiation" change the politics of [[Visibility]] for art and exhibition — is the white-cube gallery a transparency apparatus?
+- How does the move from "light" to "lightless radiation" — and further to "hypervisibility" — change the politics of [[Visibility]] for art and exhibition; is the high-definition, high-noise gallery a transparency apparatus that "stifles fantasy"?
 - If "the transparent customer is the new prisoner — indeed, the homo sacer — of the digital panopticon," what is the curatorial responsibility toward audiences whose attention is being illuminated?
-- Does Han's account collapse genuinely distinct phenomena (financial disclosure, FOIA, social-media exhibitionism, algorithmic surveillance) into a single dispositive, and does that synthesis hold up under closer examination?
+- Does Han's account collapse genuinely distinct phenomena (financial disclosure, FOIA, social-media exhibitionism, algorithmic surveillance, Big Data) into a single dispositive, and does that synthesis hold up under closer examination?
 - If Han's transparency is Debord's [[Spectacle]] intensified, what has changed between image-mediated *separation* (the spectator contemplating from a distance) and self-illuminating *symmetry* (the subject exhibiting itself without shame) — is the difference one of degree or of kind?
+- If the transparency society "has an extremely high noise level" that forecloses the "quietness" thinking demands, what does it mean to make *theory* (the form-conferring, entropy-reducing decision) a mode of resistance — and can an exhibition be a form of theory in that emphatic sense?
 
 ## Sources
 
@@ -246,3 +257,25 @@ Relevant passage:
 > The spectacle presents itself as a vast inaccessible reality that can never be questioned. Its sole message is: "What appears is good; what is good appears." The passive acceptance it demands is already effectively imposed by its monopoly of appearances, its manner of appearing without allowing any reply.
 
 Supports: Grounds the Debord section — the spectacle as a unilateral regime of appearances that forecloses reply, the ancestor of Han's self-illuminating [[Transparency]] and its abolition of the [[The Other|Other]]. Read alongside thesis 6 ("the omnipresent affirmation of the choices that have already been made in the sphere of production and in the consumption implied by that production") and thesis 10 ("an affirmation of appearances and an identification of all human social life with appearances"). Anchors upgrading the [[Guy Debord]] variant from `Speculative connection` to `Interpretive synthesis`. Label: `Interpretive synthesis`.
+
+### Source 13
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]
+Relevant passage:
+
+> The corollary of hypervisibility is the dismantling of thresholds and borders. Hypervisibility is the telos of the society of transparency. Space becomes transparent when it is smoothed out and leveled.
+
+Supports: Grounds the *hypervisibility* facet — transparency's spatial-perceptual telos, achieved by the maximization of visual information and the smoothing of thresholds and borders (links [[Smoothness]], and the abolition of the [[The Other|Other]]). The vault carries no standalone Hypervisibility note; this note holds the material. Label: `Directly stated`.
+
+### Source 14
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Massive information massively heightens the entropy of the world; it raises the level of noise. Thinking demands calm. Thinking is an expedition into quietness.
+
+Supports: Grounds the epistemic-noological facet — the deluge of positive [[Information]] deforms the world into entropy/noise ("Today's society of transparency and information has an extremely high noise level"), against which form-conferring theory is needed; the primary-source bridge from transparency to Han's [[Dataism]] / Big Data critique. Label: `Directly stated`.

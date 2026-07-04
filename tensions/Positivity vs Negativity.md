@@ -18,6 +18,8 @@ sources:
   - "[[raw/Han - The Burnout Society/02 Neuronal Power]]"
   - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 related_concepts:
   - "[[Transparency]]"
   - "[[The Same]]"
@@ -36,7 +38,7 @@ related_concepts:
   - "[[Psychopolitics]]"
   - "[[Digital Panopticon]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Positivity vs Negativity
@@ -92,6 +94,7 @@ The book's normative ground — why "poor in negativity" is a diagnosis and not 
 - [[Byung-Chul Han]] in [[The Transparency Society]] — frames the entire book as the diagnosis of a "society of negativity . . . yielding to a society that progressively dismantles negativity in favor of positivity" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Byung-Chul Han]] in [[Psychopolitics]] — transposes the opposition into a typology of power: disciplinary "negativity" (prohibition, threat, shock) versus the neoliberal "positivity" of [[Smart Power|smart power]] (permission, stimulus, Liking, seduction), with the thesis that "the violence of positivity is just as destructive as the violence of negativity" ([[raw/Han - Psychopolitics/06 Healing as Killing]]).
 - [[Byung-Chul Han]] in [[The Burnout Society]] — develops the opposition as a *pathology/diagnosis* axis: the neuronal illnesses of the present "are not infections, but infarctions" deriving "from an excess of positivity" and following "not the dialectic of negativity, but that of positivity" ([[raw/Han - The Burnout Society/02 Neuronal Power]]); the historical engine is the shift to an [[Achievement Society|achievement society]] — "Disciplinary society is still governed by no. … achievement society creates depressives and losers" ([[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]); the Hegelian ground is that "negativity is precisely what keeps existence [Dasein] alive" against "the total positivization of the world" ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]).
+- [[Byung-Chul Han]] in [[The Agony of Eros]] — carries the opposition into the *erotic* and *noological* registers: [[Fantasy|fantasy]], desire, and [[The Other|the atopic Other]] live in the negativity of withdrawal, which the positivity of [[Information|information]] and hypervisibility dismantles — "Information, as such, is positivity that leads to a dismantling of the Other's negativity" ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]); extended to thinking itself, data-driven "work on the positive" "always reproduces the Same," so "without negativity, only the Same exists" ([[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]).
 - [[Hegel|G. W. F. Hegel]] (cited by Han) — supplies the dialectical concept of negativity Han defends: Spirit has "power . . . only by looking the negative in the face and tarrying with it" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Friedrich Nietzsche]] (cited by Han) — supplies the claim that depth, "profundity, secret, mask, spirit, cunning, greatness" are granted "through suffering, through the discipline of great suffering" ([[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]).
 - [[Walter Benjamin]] (cited by Han) — supplies the cult-value/exhibition-value distinction and the claim that beauty requires the secret of the veil ([[raw/Byung-Chul Han - The Transparency Society/05 Ch2 - Exhibition]], [[raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography]]).
@@ -148,6 +151,14 @@ Two readings of resolvability:
 2. **Systemically self-reinforcing.** Positivity is not merely a cultural preference but a systemic compulsion that "stabilizes the existing system most effectively" because "it does not harbor negativity that might radically question the political-economic system as it stands" (`Directly stated`, [[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]]). On this reading the tension is not held but foreclosed: the system has learned to eat its own negation. Recovery would require something the system structurally cannot generate.
 
 Han leaves both readings live. The book ends not in synthesis but in the claim that "hyperinformation and hypercommunication bring no light into darkness" ([[raw/Byung-Chul Han - The Transparency Society/10 Ch7 - Information]]) — i.e., that the accumulation of positivity does not, of itself, reverse into its opposite. The dialectical hope of negation-of-negation is precisely what the society of transparency has dismantled. The tension is, in Han's diagnosis, **structurally unresolved and asymmetrically threatened**.
+
+## Byung-Chul Han (The Agony of Eros) — positivity that dismantles the Other, negativity that grounds fantasy and thought
+
+*[[The Agony of Eros]]* carries the master opposition into two registers the earlier books only gesture toward: the **erotic** and the **noological** (the register of thinking). The through-line is a single thesis that reformulates the spine pair in its most compressed form — **"without negativity, only the Same exists"** (`Directly stated`, [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]). Positivity here is not first of all appearance (as in *[[The Transparency Society]]*), power (as in *[[Psychopolitics]]*), or pathology (as in *[[The Burnout Society]]*), but the *dismantling of the Other* — and with the Other, of the [[Fantasy|fantasy]], desire, and thinking that the Other's negativity alone makes possible.
+
+In the **erotic register** (the "Fantasy" chapter), Han opposes fantasy to information as "opposing forces." What constructs [[The Other|the Other]] is not a quantity of information but "the negativity of withdrawal," which "brings forth the Other in its atopic otherness" — so "there is no such thing as an 'information-thick' imagination incapable of 'idealizing' the Other." Against this negativity stands the positivity of the informational-pornographic image: **"Information, as such, is positivity that leads to a dismantling of the Other's negativity"** (`Directly stated`, [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]). Hypervisibility — "the telos of the society of transparency" — "stifles fantasy," so that as thresholds, borders, and zones of mystery are "smoothed out and leveled" ([[Smoothness]]), the atopic Other and the fantasy that constructs it vanish. Desire, too, is a negativity: "the negativity of privation and absence nourishes it," and "as the object of desire, the Other escapes the positivity of choice." This is the erotic form of the same asymmetry the whole vault-note tracks: positivity accumulates and levels; negativity withdraws, distinguishes, and so keeps [[Eros|eros]] alive.
+
+In the **noological register** (the "End of Theory" chapter, Han's inversion of Chris Anderson's Big-Data manifesto of the same title), the opposition governs *thinking* itself. "Calculating thought lacks the negativity of atopia. It is work on the positive," which "always reproduces the Same"; "there is no such thing as data-driven thinking. Only calculation is data driven. The negativity of the incalculable is inscribed in thinking" (`Directly stated`, [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]). "Data-based, positive science ('Google science')" is "additive or detective — not narrative or hermeneutic," and so "is putting an end to theory of the emphatic sort." This is the register in which Han states the spine pair at its barest: because "information is inherently positive" and data-driven work merely reproduces the Same, only the negativity of the atopic Other — of the incalculable — can make "something wholly Other" begin. The register connects directly to the vault's [[Dataism]] / [[Big Data is blind to the event and so blind to the future]] cluster and to [[Counting vs Recounting]] and [[Narration vs Addition]], and it supplies the strongest single-line formulation of why, for Han across all four books, positivity is not the absence of harm but the loss of the very negativity on which meaning, desire, and thought depend. (`Interpretive synthesis` for the cross-book placement; `Directly stated` for the quoted claims, [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]] and [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]].)
 
 ## Sources
 
@@ -348,3 +359,25 @@ Relevant passage:
 > If man were a being of negativity [Negativitätswesen], the total positivization of the world would prove more than a little dangerous. According to Hegel, negativity is precisely what keeps existence [Dasein] alive.
 
 Supports: Supplies the Hegelian normative ground — negativity as the condition of life and thought against "total positivization" — and introduces the faculty-level distinction tracked separately in [[Positive Potency vs Negative Potency]]. Label: `Directly stated`.
+
+### Source 19
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]
+Relevant passage:
+
+> Today's computerized high-definition imagery eliminates vagueness and ambiguity. Yet fantasy inhabits space that is undefined. Information and fantasy are opposing forces. Consequently, there is no such thing as an "information-thick" imagination incapable of "idealizing" the Other. The construction of the Other does not depend on whether more or less information is available. Only the negativity of withdrawal brings forth the Other in its atopic otherness. It lends the Other a higher plane of being beyond "idealization" or "overvaluation." Information, as such, is positivity that leads to a dismantling of the Other's negativity.
+
+Supports: Grounds the erotic register of the tension under "[[#Byung-Chul Han (The Agony of Eros) — positivity that dismantles the Other, negativity that grounds fantasy and thought]]": positivity (information, hypervisibility) dismantles the negativity of withdrawal on which [[Fantasy|fantasy]], desire, and [[The Other|the atopic Other]] depend — the canonical line "Information, as such, is positivity that leads to a dismantling of the Other's negativity." Label: `Directly stated`.
+
+### Source 20
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Rampant, massive information—an excess of positivity—makes a racket. Today's society of transparency and information has an extremely high noise level. But without negativity, only the Same exists. Spirit—which originally meant unrest—owes its spiritedness, its animacy, to negativity.
+
+Supports: Grounds the noological register — the master opposition transposed onto thinking itself. Supplies the tension's most compressed formulation ("without negativity, only the Same exists") and ties data-driven "work on the positive" to the reproduction of the Same, linking to [[Dataism]], [[Big Data is blind to the event and so blind to the future]], [[Counting vs Recounting]], and [[Narration vs Addition]]. Label: `Directly stated`.

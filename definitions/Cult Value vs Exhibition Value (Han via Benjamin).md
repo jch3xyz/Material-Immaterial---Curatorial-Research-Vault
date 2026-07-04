@@ -8,6 +8,8 @@ sources:
     passage: "'Cult value' depends on existence, not on exhibition. The practice of locking sacred items in an inaccessible room, and thereby withdrawing them from visibility, heightens their cult value."
   - source_file: "raw/Byung-Chul Han - The Transparency Society/07 Ch4 - Pornography.md"
     passage: "The sublime, against which Benjamin sets the beautiful appearance, lacks all exhibition value. It is precisely exhibition that destroys creaturely sublimity. The sublime generates cult value."
+  - source_file: "raw/Byung-Chul Han - The Agony of Eros/05 Porn.md"
+    passage: "It may well be that in a museum objects stand 'at a remove,' as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value."
 related_concepts:
   - "[[Aura]]"
   - "[[The Transparency Society]]"
@@ -18,7 +20,7 @@ related_concepts:
   - "[[Negativity]]"
   - "[[Exhibition Value|Attention Capital]]"
 confidence: high
-last_updated: 2026-06-01
+last_updated: 2026-07-04
 ---
 
 # Cult Value vs Exhibition Value — Byung-Chul Han (via [[Walter Benjamin]])
@@ -54,11 +56,23 @@ Two argumentative jobs the distinction performs in Han:
 
 The distinction therefore functions, downstream, as the hinge of several Han arguments: [[Exhibition Is Exploitation]], the [[Exhibition Value|Society of Exhibition]] as a [[The Society of the Spectacle]] by way of pornography, and the diagnosis that [[Transparency Destroys Aura]].
 
+## The Agony of Eros — musealization destroys cult value
+
+Han restates the same Benjaminian opposition in the "Porn" chapter of *[[The Agony of Eros]]*, where it does polemical work against [[Giorgio Agamben]]. Agamben, in "In Praise of Profanation," reads exhibition as a *profanation* that liberates consecrated things back into common use. Han grants that exhibited and sacred objects both stand at a distance, but denies that display can profane in Agamben's redemptive sense: exhibition does not free things for a new use, it converts them from one value-regime into another, and in doing so it liquidates the very value — cult value — that made them worth setting apart. The counter-example is the museum:
+
+> It may well be that in a museum objects stand "at a remove," as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value.
+
+Han generalizes the same logic from objects to places. Just as musealization strips the temple's cult value, tourism strips the pilgrimage-site of its place-bound sacredness, replacing constituted places with what (following Marc Augé) he calls "non-sites":
+
+> Likewise, tourism and pilgrimage stand in opposition to each other. Tourism creates "non-sites," whereas pilgrimage is tied to places.
+
+This reinforces the definition already established from *The Transparency Society*: cult value depends on what is withdrawn, set apart, and bound to place (temple, pilgrimage), while exhibition value is the value of the on-display, the placeless, the commodity. Here the pair also grounds Han's verdict on [[Pornography (Han)|pornography]] as the antagonist of [[Eros]] — the pornographic face is "loaded with exhibition-value to the point of bursting" yet, stripped of secret and mystery, has surrendered its cult value entirely. (Directly stated, *The Agony of Eros*, ch. 5.)
+
 ## Differences from Other Uses
 
 - **Versus [[Walter Benjamin]].** Benjamin formulates cult value vs exhibition value as a historical-medial distinction tied to the work of art under technological reproducibility, with a residual hope located in the "human countenance." Han follows Benjamin's wording closely (he quotes the passage on the "cult of remembrance" and "fleeting expression of a human countenance" in the *Exhibition* chapter) but radicalizes the diagnosis: "The 'human countenance' has long since disappeared from photography — along with the cult value it held." For Han the residual refuge Benjamin found in the portrait has collapsed; under [[Facebook|Facebook and Photoshop]] the countenance becomes a face on display, "strip[ped] of its aura." (Directly stated, *Exhibition*.)
 - **Versus a Marxian reading of value.** Han explicitly distinguishes exhibition value from both *use value* and *exchange value*: it is neither utility nor congealed labor but attention. This separates Han's diagnosis from a classical critique-of-political-economy frame and pushes it toward an attention-economy register. See [[Exhibition Value|Attention Capital]]. (Directly stated, *Exhibition*.)
-- **Versus [[Giorgio Agamben]] on nudity.** In the *Pornography* chapter, Han contests Agamben's attempt to retrieve a "profanatory" nudity "freed of any theological signature" and characterized by "pure exhibition value." Where Agamben hears, in the face "loaded with exhibition value to the point of bursting," the promise of "a new form of erotic communication," Han hears only pornography. The polemic turns on the cult/exhibition distinction: Agamben treats pure exhibition value as a site of profanation; Han treats it as the very mechanism by which the sublime, and with it cult value, is destroyed. (Directly stated, *Pornography*.)
+- **Versus [[Giorgio Agamben]] on nudity.** In the *Pornography* chapter, Han contests Agamben's attempt to retrieve a "profanatory" nudity "freed of any theological signature" and characterized by "pure exhibition value." Where Agamben hears, in the face "loaded with exhibition value to the point of bursting," the promise of "a new form of erotic communication," Han hears only pornography. The polemic turns on the cult/exhibition distinction: Agamben treats pure exhibition value as a site of profanation; Han treats it as the very mechanism by which the sublime, and with it cult value, is destroyed. This same Agamben polemic recurs, more fully, in the "Porn" chapter of *[[The Agony of Eros]]* (via Agamben's *Profanations* and *Nudities*), where Han presses the museum/temple and tourism/pilgrimage counter-examples: "musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value." (Directly stated, *Pornography* and *The Agony of Eros*.)
 - **Adjacent vault uses.** The same conceptual neighborhood is in play, under different vocabulary, in Guy Debord's [[The Society of the Spectacle]] (Han closes the *Pornography* chapter by collapsing the two: "The society of pornography is a society of the spectacle"). See also [[Aura]] for the Benjaminian background that both authors are negotiating.
 
 ## Related Concepts
@@ -66,8 +80,10 @@ The distinction therefore functions, downstream, as the hinge of several Han arg
 - [[Aura]]
 - [[Walter Benjamin]]
 - [[The Transparency Society]]
+- [[The Agony of Eros]]
 - [[Exhibition Value|Society of Exhibition]]
 - [[Pornography (Han)]]
+- [[Eros]]
 - [[The Sublime]]
 - [[The Veil|Veil and Veiling]]
 - [[Negativity]]
@@ -125,4 +141,16 @@ Relevant passage:
 > Agamben sees here a singular appeal, a "particular allure," that derives from "pure exhibition value." Exhibition empties the face into a site preceding expression. Agamben wants such practices of exhibition-thatempties to yield a new form of erotic communication
 
 Supports: Marks the polemical contrast with [[Giorgio Agamben]]: where Agamben locates an emancipatory "pure exhibition value" in the exposed face, Han reads the same condition as pornographic — exhibition value at the expense of cult value. Supports the "Differences from Other Uses" section.
+Label: Directly stated
+
+### Source 5
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]
+Relevant passage:
+
+> It may well be that in a museum objects stand "at a remove," as they do in a temple. However, musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value. Likewise, tourism and pilgrimage stand in opposition to each other. Tourism creates "non-sites," whereas pilgrimage is tied to places.
+
+Supports: Reinforces the definition with the Benjaminian core of Han's rebuttal of [[Giorgio Agamben]] in *The Agony of Eros*: exhibition does not profane objects into a new use but destroys their cult value and replaces it with exhibition value. Extends the object-level distinction to places (temple/pilgrimage vs museum/tourism's "non-sites"), grounding the cross-links to [[Exhibition Value]] and [[Pornography (Han)]].
 Label: Directly stated

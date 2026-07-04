@@ -6,6 +6,7 @@ books:
   - "[[The Transparency Society]]"
   - "[[The Burnout Society]]"
   - "[[Psychopolitics]]"
+  - "[[The Agony of Eros]]"
 related_authors:
   - "[[Hegel|G.W.F. Hegel]]"
   - "[[Martin Heidegger]]"
@@ -19,6 +20,7 @@ related_authors:
   - "[[Georg Simmel]]"
   - "[[Sigmund Freud]]"
   - "[[Alain Badiou]]"
+  - "[[Emmanuel Levinas]]"
   - "[[Gilles Deleuze]]"
   - "[[Karl Marx]]"
   - "[[Giorgio Agamben]]"
@@ -27,18 +29,19 @@ related_authors:
   - "[[Eva Illouz]]"
   - "[[George Orwell]]"
   - "[[Antonio Negri]]"
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Byung-Chul Han
 
-Korean-German philosopher and cultural critic working out of the German philosophical tradition. Han writes short, aphoristic books that diagnose the affective and informational pathologies of late neoliberal capitalism by appropriating and re-tuning a fixed canon of interlocutors — Hegel on the negative, Heidegger on dwelling and *Erfahrung*, Benjamin on aura and storytelling, Baudrillard on the obscene and the end of the panoptic gaze, Foucault on discipline and biopolitics, Sennett on opacity and autonomy, Nietzsche on suffering and the will to ignorance. Within the vault he is represented by [[The Transparency Society]], [[Psychopolitics]], and [[The Burnout Society]]. The three ingested books are continuous, and *The Burnout Society* (*Müdigkeitsgesellschaft*, 2010) is in fact the **earliest** and the **primary source** for much of the Han vocabulary the vault first grounded secondhand in the two later books: it is where [[Achievement Society|achievement society]], [[Auto-Exploitation|auto-exploitation]], the [[Can vs Should|Should→Can shift]], and the [[Positivity]]/[[Negativity]] diagnosis are first and most fully argued. *Psychopolitics* carries the [[Positivity]]/[[Negativity]], [[Digital Panopticon]], [[Transparency]], and [[Auto-Exploitation]] vocabulary of *The Transparency Society* into an explicit theory of neoliberal power — the regime that no longer disciplines the body but steers the [[Psychopolitics|psyche]] — while *The Burnout Society* supplies the underlying pathological diagnosis: the [[Achievement Society|achievement society]] of self-exploiting subjects burning out under an **excess of positivity**.
+Korean-German philosopher and cultural critic working out of the German philosophical tradition. Han writes short, aphoristic books that diagnose the affective and informational pathologies of late neoliberal capitalism by appropriating and re-tuning a fixed canon of interlocutors — Hegel on the negative, Heidegger on dwelling and *Erfahrung*, Benjamin on aura and storytelling, Baudrillard on the obscene and the end of the panoptic gaze, Foucault on discipline and biopolitics, Sennett on opacity and autonomy, Nietzsche on suffering and the will to ignorance. Within the vault he is represented by [[The Transparency Society]], [[Psychopolitics]], [[The Burnout Society]], and [[The Agony of Eros]]. The four ingested books are continuous, and *The Burnout Society* (*Müdigkeitsgesellschaft*, 2010) is in fact the **earliest** and the **primary source** for much of the Han vocabulary the vault first grounded secondhand in the two later books: it is where [[Achievement Society|achievement society]], [[Auto-Exploitation|auto-exploitation]], the [[Can vs Should|Should→Can shift]], and the [[Positivity]]/[[Negativity]] diagnosis are first and most fully argued. *Psychopolitics* carries the [[Positivity]]/[[Negativity]], [[Digital Panopticon]], [[Transparency]], and [[Auto-Exploitation]] vocabulary of *The Transparency Society* into an explicit theory of neoliberal power — the regime that no longer disciplines the body but steers the [[Psychopolitics|psyche]] — while *The Burnout Society* supplies the underlying pathological diagnosis: the [[Achievement Society|achievement society]] of self-exploiting subjects burning out under an **excess of positivity**. *The Agony of Eros* (*Agonie des Eros*, 2012) turns the same excess-of-positivity diagnosis onto love: eros is the relation to the [[The Other|atopic Other]], and its agony is the erosion of that Other into the [[Hell of the Same|Same]] under narcissism, the achievement-imperative, pornography, and the informational flattening of [[Fantasy]].
 
 ## Books in the Vault
 
 - [[The Transparency Society]] — ingested. See [[raw/Byung-Chul Han - The Transparency Society/03 Preface]], [[raw/Byung-Chul Han - The Transparency Society/04 Ch1 - Positivity]], [[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]].
 - [[The Burnout Society]] — ingested (2026-06-04). Chapters: [[raw/Han - The Burnout Society/02 Neuronal Power]] · [[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]] · [[raw/Han - The Burnout Society/04 Profound Boredom]] · [[raw/Han - The Burnout Society/05 Vita Activa]] · [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]] · [[raw/Han - The Burnout Society/07 The Bartleby Case]] · [[raw/Han - The Burnout Society/08 The Society of Tiredness]] · [[raw/Han - The Burnout Society/09 Burnout Society]].
 - [[Psychopolitics]] — ingested (2026-06-02). Chapters: [[raw/Han - Psychopolitics/01 The Crisis of Freedom.md]] · [[raw/Han - Psychopolitics/02 Smart Power.md]] · [[raw/Han - Psychopolitics/03 The Mole and the Snake.md]] · [[raw/Han - Psychopolitics/04 Biopolitics.md]] · [[raw/Han - Psychopolitics/05 Foucault's Dilemma.md]] · [[raw/Han - Psychopolitics/06 Healing as Killing.md]] · [[raw/Han - Psychopolitics/07 Shock.md]] · [[raw/Han - Psychopolitics/08 Friendly Big Brother.md]] · [[raw/Han - Psychopolitics/09 Emotional Capitalism.md]] · [[raw/Han - Psychopolitics/10 Gamification.md]] · [[raw/Han - Psychopolitics/11 Big Data.md]] · [[raw/Han - Psychopolitics/12 Beyond the Subject.md]] · [[raw/Han - Psychopolitics/13 Idiotism.md]].
+- [[The Agony of Eros]] — ingested (2026-07-04). Chapters: [[raw/Byung-Chul Han - The Agony of Eros/01 Foreword - The Reinvention of Love]] *(Foreword by [[Alain Badiou]])* · [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]] · [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]] · [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]] · [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]] · [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]] · [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]] · [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]].
 
 ## Central Concerns
 
@@ -254,6 +257,71 @@ The periodization of the **immunological → neuronal** age, where harm comes "n
 - **Vita Activa vs Vita Contemplativa** — Han contra Arendt: the contemplative life defended as the *more* active, sovereign "mode of saying no"; the "dialectic of being-active" collapsing into [[Hyperactivity as Hyperpassivity|hyperpassivity]] ([[raw/Han - The Burnout Society/05 Vita Activa|Vita Activa]], [[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]]).
 - **I-Tiredness vs We-Tiredness** — the closing opposition: solitary, divisive, world-destroying tiredness of the exhausted ego vs the healing [[Fundamental Tiredness|we-tiredness]] that trusts in the world ([[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]).
 - **Positive Potency vs Negative Potency** — the Agambenian faculty distinction (the power-to vs the power-not-to) underlying the book's positive program ([[raw/Han - The Burnout Society/06 The Pedagogy of Seeing|The Pedagogy of Seeing]], [[raw/Han - The Burnout Society/08 The Society of Tiredness|The Society of Tiredness]]); cross-linked to [[Can vs Should]].
+
+---
+
+## The Agony of Eros (2026-07-04 ingest)
+
+*The Agony of Eros* (*Agonie des Eros*, 2012; trans. Erik Butler; MIT Press *Untimely Meditations* 1, with a Foreword by [[Alain Badiou]]) is Han's slim, dense phenomenology of love, and it turns the excess-of-positivity diagnosis of *The Burnout Society* and *Psychopolitics* directly onto eros. Its thesis: love in the strong sense presupposes [[The Other|the atopic Other]] — "what cannot be encompassed by the regime of the ego" — but contemporary culture is dismantling that Other. "The crisis of love does not derive from too many others so much as from the erosion of the Other. This erosion is occurring in all spheres of life; its corollary is the mounting narcissification of the Self" (`Directly stated`, [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). In the [[Hell of the Same|inferno of the same]], where everything is flattened into a consumable object, [[Eros|erotic experience]] — which "presumes the asymmetry and exteriority of the Other" — cannot exist. Depression is its inverse: "Eros pulls the subject out of itself, toward the Other. Depression, in contrast, plunges the subject into itself." Against this, the book affirms [[Eros]] as the negativity that wounds, dispossesses, and transforms the ego — the condition not only of love but of political community ([[The Politics of Eros]]) and of thought itself ([[Theory in the emphatic sense is erotic]]).
+
+The [[The Other|Other]] here is the long-committed forward-stub `The Other` realized Han-anchored (open to a future Levinas/Buber/Marcuse section) — NOT a Han-suffixed variant. Likewise the book realizes the committed concept `Eros`. Badiou's Foreword (ch.01) is by [[Alain Badiou]], not Han; its quotes are attributed to Badiou.
+
+### Central concerns this book adds
+
+The definition of [[Eros]] as the relation to [[The Other|the atopic Other]] "beyond achievement, performance, and Can," constitutively bound to a [[Negative Potency|"being able not to be able" (Nicht-Können-Können)]]; the erosion of the Other into the [[Hell of the Same|Same]] under a rising [[Narcissism (Han)|narcissism]] and the resulting [[Melancholia (Han)|success-induced depression]] of the achievement-subject who "cannot love"; the loss of [[Primal Distance (Urdistanz)|primal distance (Urdistanz)]] as the Other is sexualized into a consumable part-object; the positivization of love into risk-free [[Eros vs Sexuality|sexuality]] and the destruction of eros by [[Pornography (Han)|pornography]] (the profanation and "bare life on display"); the informational flattening of [[Fantasy]] by hypervisibility ([[Fantasy vs Information]]); the political power of eros (the Badiouian "Two scene," [[The Politics of Eros]]); and, finally, the claim that theory in the emphatic sense is erotic — "to be able to think, one must first have been a friend, a lover."
+
+### Major concepts introduced or realized this book
+
+- [[Eros]] — **realized** (committed forward-stub, Han-anchored). "Eros concerns the Other in the strong sense, namely, what cannot be encompassed by the regime of the ego." It "pulls the subject out of itself, toward the Other," setting into motion "freely willed self-renunciation, freely willed self-evacuation" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). `Directly stated`.
+- [[The Other]] — **realized** (committed forward-stub, Han-anchored — NOT `The Other (Han)`). The atopic, asymmetrical, non-consumable Other whose "negativity" is "constitutive of erotic experience"; its erosion into the Same is the book's central diagnosis ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]], [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]). `Directly stated`.
+- [[Atopia]] — *new*: the placelessness of the Other, after Barthes's *atopos*. "It is not by chance that Socrates the lover is called atopos… Being atopic, the Other makes language indecisive." "The negativity of the atopic Other refuses consumption" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). `Directly stated`.
+- [[Narcissism (Han)]] — *new*: "Narcissism is not the same as self-love… the narcissistic subject… never manages to set any clear boundaries." The world "appears only as adumbrations of the narcissist's self," which "wallows in its own shadow everywhere until it drowns — in itself" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). `Directly stated`.
+- [[Melancholia (Han)]] — *new*: depression as "a narcissistic malady" derived "from overwrought, pathologically distorted self-reference"; the film *Melancholia* read as the atopic planet that "tears Justine out of the swamp of narcissism," so that "the atopia of the Other turns out to be the utopia of eros" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). `Directly stated`.
+- [[Primal Distance (Urdistanz)]] — *new* (via Buber): the distance that "prevents the Other from being reified into an object, an 'it'." "The Other as sexual object is no longer a 'Thou.'" The countenance "at once gives and conceals the Other," against the pornographic "face" of total visibility ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]). `Directly stated`.
+- [[Fantasy]] — *new*: fantasy "inhabits space that is undefined," and "information and fantasy are opposing forces." "New communications media… stifle fantasy… pornography — which maximizes visual information — destroys erotic fantasy"; the crisis of art and literature is "a crisis of fantasy: the disappearance of the Other" ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]). `Directly stated`.
+- [[The Politics of Eros]] — *new*: eros as "a source of energy for political revolt and engagement"; love as the Badiouian "Two scene" that "makes the world arise anew from the vantage point of the Other." "Eros manifests itself as the revolutionary yearning for an entirely different way of loving and another kind of society" ([[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros|The Politics of Eros]]). `Directly stated`.
+- [[Bare Life]] — **extended** (Han-anchored via Hegel/Bataille here, beside the Burnout-Society Agamben section): the Hegelian slave "clings to bare life"; capitalism "absolutizes bare life," whose "telos is not the good life." "A survivor is like the undead: too dead to live, and too alive to die" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]). `Directly stated`.
+- [[Pornography (Han)]] — **extended**: "Porn is a matter of bare life on display. The antagonist of eros, it annihilates even sexuality." "What is obscene about pornography is not an excess of sex, but the fact that it contains no sex at all." Capitalism "profanes eros — into porn" ([[raw/Byung-Chul Han - The Agony of Eros/05 Porn|Porn]]). `Directly stated`.
+- [[Hell of the Same]] / [[Negativity]] / [[Positivity]] / [[Transparency]] / [[Dataism]] / [[Achievement Society]] / [[Erfahrung vs Erlebnis (Han)]] / [[Negative Potency]] — carried over and **extended** with *Agony of Eros* sections (the erosion of the Other into the inferno of the same; the disappearance of erotic negativity under love's positivization; hypervisibility as "the telos of the society of transparency"; "there is no such thing as data-driven thinking"; the achievement-subject who cannot love; the additive *Erlebnis* of information vs the transformative *Erfahrung* of eros; "being able not to be able" as the erotic form of the power-not-to).
+
+### Major arguments introduced
+
+- [[The freedom of Can is more coercive than the disciplinary Should]] — **extended**: "You can produces massive compulsion, on which the achievement-subject dashes him-or herself to pieces… You can exercises even greater constraint than You should. Auto-compulsion proves more fatal than allo-compulsion, because there is no way to resist oneself" ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]). `Directly stated`.
+- [[The achievement-subject is master and slave at once so there is no end of history]] — *new*: "As an entrepreneur of the self, he is master and slave at once… If we understand the dialectic of master and slave as the history of freedom, there can be no talk of the 'end of history,' for we are still far from being truly free" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]). `Directly stated`.
+- [[Eros and depression are opposites the achievement-subject cannot love]] — *new*: "Eros and depression are opposites. Eros pulls the subject out of itself, toward the Other. Depression, in contrast, plunges the subject into itself"; the narcissistic achievement-subject robs the Other of otherness and "degrades [it] into a mirror of the One," ending in "success-induced depression" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]). `Directly stated`.
+- [[Theory in the emphatic sense is erotic]] — *new*: "Without seduction by the atopic Other… thinking withers into mere work, which always reproduces the Same"; "To be able to think, one must first have been a friend, a lover"; Anderson's "End of Theory" rests on "a weak and simplistic conception of theory," since "there is no such thing as data-driven thinking" ([[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory|The End of Theory]]). `Directly stated`.
+
+### Characteristic metaphors and figures introduced
+
+- **The atopic planet Melancholia** — von Trier's death-bringing planet as the atopic Other breaking into the inferno of the same, healing narcissistic depression: "She experiences a veritable blossoming under the influence of the death-bringing planet" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]).
+- **The eroticized teeth / the eroticized eye** — Ficino's account of love as wounding transfusion, "the most serious disease of all," where "blood serves as the medium of erotic communication" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]).
+- **The Flying Dutchman** — the undead, aimless ship "flying like an arrow without aim, without rest, without peace" as an analogy to burnout society's "exhausted and depressive achievement-subject" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]).
+- **The coach ride in *Madame Bovary*** — "the most erotic scene… offers practically nothing to see"; Flaubert "exploits the negativity of visual privation in order to rouse erotic fantasy" ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]).
+- **Shutting your eyes (Kafka)** — "The inner music of things sounds only when you close your eyes… 'My stories are a way of shutting my eyes'"; contemplation as "a form of closure" against hypervisibility ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]).
+- **Socrates as satyr Marsyas** — the atopic lover-philosopher who "seduces and intoxicates by means of words alone," so that "logos and eros entered into such an intimate relation" ([[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory|The End of Theory]]).
+
+### Related authors realized or deepened by this book
+
+- [[Alain Badiou]] — **deepened and realized as a reference** ([[Byung-Chul Han and Alain Badiou]]). Badiou writes the book's Foreword; Han draws on *In Praise of Love* for love as fidelity and the "Two scene" — "Love is a 'Two scene'… Interrupting the isolated perspective of the One, it makes the world arise anew from the vantage point of the Other" ([[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros|The Politics of Eros]], [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]). Direct citation.
+- [[Emmanuel Levinas]] — *new* central interlocutor (forward-stub author), see [[Byung-Chul Han and Emmanuel Levinas]]. Levinas's ethics of eros grounds the atopia of the Other, the caress and pleasure as "a game with something slipping away," and "the negativity of absence": "The other bears alterity as an essence… a relationship that is impossible to translate into powers" ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]). Direct citation with qualification (Levinas "does not glimpse the erotic abysses").
+- [[Georges Bataille]] — *new* (forward-stub author), see [[Byung-Chul Han and Georges Bataille]]. Bataille's erotics of transgression and expenditure: "Eroticism, it may be said, is assenting to life up to the point of death"; eros as "a partial dissolution of the person" and "continuity of being"; *Fifty Shades of Grey* faulted for lacking "the negativity of overstepping" ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]], [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]], [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]). Direct citation.
+- [[Slavoj Žižek]] — *new* (forward-stub author), see [[Byung-Chul Han and Slavoj Žižek]]. Han disputes Žižek's Platonic-idealist reading of Ballard's "The Gioconda of the Twilight Noon": Žižek "mistakenly claims that Maitland stares into the sun," whereas Maitland "is following an anti-Platonic dispositive," retreating "into the cave — a twilight space of dreams and desire" ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]). Direct citation with disagreement.
+- [[Eva Illouz]] — **deepened** (see [[Byung-Chul Han and Eva Illouz]]): a running polemical target across three chapters. Han rejects her account of the crisis of love as "rationalization" and "endless freedom of choice" (*Why Love Hurts*, *Consuming the Romantic Utopia*) — "counter to Illouz's diagnosis, love is not simply being 'feminized'"; and against her "information-thin imagination," "information and fantasy are opposing forces" ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]], [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]], [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]). Direct citation with disagreement.
+- [[Giorgio Agamben]] — **deepened** (see [[Byung-Chul Han and Giorgio Agamben]]): Han turns from the Burnout-Society homo-sacer polemic to a critique of Agamben's "In Praise of Profanation" — "Agamben's thesis of secularization blinds him to the particularity of a phenomenon"; a face "loaded with exhibition-value to the point of bursting promises no 'new collective use of sexuality'"; "Agamben's 'profanation' amounts to just so much profanity" ([[raw/Byung-Chul Han - The Agony of Eros/05 Porn|Porn]]). Direct citation with disagreement.
+- [[Jean Baudrillard]] — **deepened** (see [[Byung-Chul Han and Jean Baudrillard]]): the "anticipation of dead sex in living sexuality," porn as "the more sexual than sex," and seduction-vs-love — "Love is born from the destruction of ritual forms" ([[raw/Byung-Chul Han - The Agony of Eros/05 Porn|Porn]]). Direct citation.
+- [[Hegel]] — **deepened** (see [[Byung-Chul Han and Hegel]]): the master–slave dialectic and the "ability to die" re-read as an ethics of eros — "the 'life of Spirit'… endures [devastation] and maintains itself in it"; "the true essence of love consists in giving up the consciousness of oneself, forgetting oneself in another self." "Hegel is receptive to the Other like no other thinker" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]). Direct citation.
+- [[Martin Heidegger]] — **deepened** (see [[Byung-Chul Han and Martin Heidegger]]): the letter to his wife on Eros — "the oldest of the gods according to Parmenides" — whose "beat of that god's wings" moves thinking "onto untrodden paths"; faithfulness as a "clearing" that "introduces an eternity into time" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]], [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory|The End of Theory]]). Direct citation.
+- [[Michel Foucault]] — **deepened** (see [[Byung-Chul Han and Michel Foucault]]): a "severe critique" (Badiou's phrase) — Foucault "adopts a positive attitude toward neoliberalism," valorizing ability and "power," and "fails to notice that this entrepreneur of the self is not truly free" ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]). Direct citation with disagreement.
+- [[Gilles Deleuze]] — **deepened** (see [[Byung-Chul Han and Gilles Deleuze]]): the book closes with Deleuze and Guattari's *What Is Philosophy?* on the friend/lover as "a condition for the exercise of thought" — "Does not the friend reintroduce into thought a vital relationship with the Other?" ([[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory|The End of Theory]]). Direct citation.
+- [[Friedrich Nietzsche]] — **deepened** (see [[Byung-Chul Han and Friedrich Nietzsche]]): the "last human beings" for whom health is "the great goddess" — "'We invented happiness,' say the last human beings, and they blink" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]]). Direct citation.
+- **Roland Barthes**, **Maurice Blanchot**, **Marsilio Ficino**, **Plato**, **Martin Buber** — direct citations rendered as plain text (one-off figures / classical sources): Barthes's *A Lover's Discourse* (the atopic Other) and Kafka-via-Barthes on shutting one's eyes; Blanchot's *The Writing of the Disaster* (the empty sky, "the disaster as withdrawal"); Ficino's Symposium-commentary (love as dying in the Other); Plato's doctrine of eros and the tripartite soul; Buber's "primal distance."
+
+### Disagreements or tensions introduced
+
+- [[Eros vs Depression]] — *new*: the book's governing opposition — "Eros and depression are opposites"; eros as centrifugal (toward the Other) vs depression as centripetal (into the self) ([[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia|Melancholia]]).
+- [[Eros vs Sexuality]] — *new*: "love is being positivized into sexuality, and, by the same token, subjected to a commandment to perform… When otherness is stripped from the Other, one cannot love — one can only consume"; "There is no such thing as a sexual personality" ([[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]], [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros|The Politics of Eros]]).
+- [[Fantasy vs Information]] — *new*: "Information and fantasy are opposing forces"; "Information, as such, is positivity that leads to a dismantling of the Other's negativity"; against Illouz's "information-thin imagination" ([[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy|Fantasy]]).
+- [[Positivity vs Negativity]] / [[Hell of the Same]] — **extended**: the erotic form of the master opposition — "the desire for the Other is giving way to the comfort of the Same"; "Where the purely positive — positivity to excess — prevails, no Spirit exists" ([[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life|Bare Life]], [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able|Being Able Not to Be Able]]).
 
 ---
 
@@ -785,4 +853,184 @@ Relevant passage:
 > Today violence issues more readily from the conformism of consensus than from the antagonism of dissent. In this sense—contra Habermas—one might speak of the violence of consensus.
 
 Supports: The "violence of consensus" extending [[Gleichschaltung]] and [[Positivity]] (violence from positivity, not only conflict).
+Label: Directly stated
+
+### Source 45
+
+Book: *The Agony of Eros*
+Author: Alain Badiou (Foreword; trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/01 Foreword - The Reinvention of Love]]
+Relevant passage:
+
+> What escapes Foucault entirely, and Levinas merely touches on, is, in fact, a central argument of the book: "The negativity of Otherness—that is, the atopia of the Other, which eludes all ability—is constitutive of erotic experience." This striking formulation represents, as it were, the matrix of the work as a whole: "Only by way of being able not to be able does the Other appear." The experience of love, then, is shot through with powerlessness—the price to be paid for all revelation of the Other.
+
+Supports: Badiou's Foreword naming the book's "matrix" — the atopia of [[The Other]], [[Negative Potency|"being able not to be able"]], and [[Eros]] as powerlessness before the Other. **Attributed to Badiou (Foreword author), not Han.** Grounds [[Byung-Chul Han and Alain Badiou]], [[Byung-Chul Han and Emmanuel Levinas]], [[Byung-Chul Han and Michel Foucault]].
+Label: Directly stated
+
+### Source 46
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]
+Relevant passage:
+
+> The crisis of love does not derive from too many others so much as from the erosion of the Other. This erosion is occurring in all spheres of life; its corollary is the mounting narcissification of the Self. In fact, the vanishing of the Other is a dramatic process—even though, fatefully enough, it largely escapes notice.
+
+Supports: The book's thesis — the erosion of [[The Other]] and the [[Narcissism (Han)|narcissification]] of the self; against [[Eva Illouz]]'s freedom-of-choice diagnosis ([[Byung-Chul Han and Eva Illouz]]).
+Label: Directly stated
+
+### Source 47
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]
+Relevant passage:
+
+> Eros concerns the Other in the strong sense, namely, what cannot be encompassed by the regime of the ego. Therefore, in the inferno of the same, which contemporary society is increasingly becoming, erotic experience does not exist. Erotic experience presumes the asymmetry and exteriority of the Other. It is not by chance that Socrates the lover is called atopos.
+
+Supports: The canonical definition of [[Eros]] and [[The Other]]; the [[Atopia|atopos]] of the Other; the [[Hell of the Same|inferno of the same]] as the space in which erotic experience cannot exist.
+Label: Directly stated
+
+### Source 48
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]
+Relevant passage:
+
+> Eros and depression are opposites. Eros pulls the subject out of itself, toward the Other. Depression, in contrast, plunges the subject into itself. Today's narcissistic "achievement-subject" seeks out success above all. Finding success validates the One through the Other. Thereby, the Other is robbed of otherness and degrades into a mirror of the One—a mirror affirming the latter's image.
+
+Supports: [[Eros vs Depression]] and [[Eros and depression are opposites the achievement-subject cannot love]]; [[Melancholia (Han)]] as success-induced, narcissistic depression.
+Label: Directly stated
+
+### Source 49
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]
+Relevant passage:
+
+> Eros is a relationship to the Other situated beyond achievement, performance, and ability. Being able not to be able (Nicht-Können-Können) represents its negative counterpart. The negativity of otherness—that is, the atopia of the Other, which eludes all ability—is constitutive of erotic experience.
+
+Supports: [[Eros]] as beyond the [[Can vs Should|Can]]; "being able not to be able" as the erotic form of [[Negative Potency]]; grounds [[Byung-Chul Han and Emmanuel Levinas]].
+Label: Directly stated
+
+### Source 50
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]
+Relevant passage:
+
+> Today, love is being positivized into sexuality, and, by the same token, subjected to a commandment to perform. Sex means achievement and performance. And sexiness represents capital to be increased. The body—with its display value—has become a commodity. At the same time, the Other is being sexualized into an object for procuring arousal. When otherness is stripped from the Other, one cannot love—one can only consume.
+
+Supports: [[Eros vs Sexuality]] and the positivization of love; the achievement/performance principle colonizing love ([[Achievement Society]]).
+Label: Directly stated
+
+### Source 51
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]
+Relevant passage:
+
+> When the Other is perceived as a sexual object, "primal distance" (Urdistanz) erodes; Martin Buber claims that such distance serves as the very "principle of being-human" and constitutes the transcendental condition for any alterity existing at all. "Primal distantiation" prevents the Other from being reified into an object, an "it." The Other as sexual object is no longer a "Thou."
+
+Supports: [[Primal Distance (Urdistanz)]] (via Buber) as the transcendental condition of alterity; the reification of [[The Other]] into an "it."
+Label: Directly stated
+
+### Source 52
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]
+Relevant passage:
+
+> You can produces massive compulsion, on which the achievement-subject dashes him-or herself to pieces. Because it appears as freedom, self-generated compulsion is not recognized as such. You can exercises even greater constraint than You should. Auto-compulsion proves more fatal than allo-compulsion, because there is no way to resist oneself.
+
+Supports: Extends [[The freedom of Can is more coercive than the disciplinary Should]] into the domain of eros ([[Auto-Exploitation]], [[Achievement Society]]).
+Label: Directly stated
+
+### Source 53
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]
+Relevant passage:
+
+> As an entrepreneur of the self, he is master and slave at once. The issue here concerns a fateful unity that Hegel did not consider in his dialectic of master and slave. The subject of auto-exploitation is just as unfree as the subject of allo-exploitation. If we understand the dialectic of master and slave as the history of freedom, there can be no talk of the "end of history," for we are still far from being truly free.
+
+Supports: [[The achievement-subject is master and slave at once so there is no end of history]]; extends [[Bare Life]], [[Auto-Exploitation]], and [[Byung-Chul Han and Hegel]].
+Label: Directly stated
+
+### Source 54
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]
+Relevant passage:
+
+> Bataille begins his discussion of eroticism as follows: "Eroticism, it may be said, is assenting to life up to the point of death." What is affirmed here is not bare life—which flees the negativity of death. Instead, the impulse to live, heightened to the utmost and affirmed, approaches the impulse to die. Eros is the medium for intensifying life to the point of death.
+
+Supports: [[Bare Life]] as the negation of eros; Bataille's erotics of transgression ([[Byung-Chul Han and Georges Bataille]]); the negativity of death as constitutive of [[Eros]].
+Label: Directly stated
+
+### Source 55
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]
+Relevant passage:
+
+> Porn is a matter of bare life on display. The antagonist of eros, it annihilates even sexuality. ... What is obscene about pornography is not an excess of sex, but the fact that it contains no sex at all. ... Capitalism is aggravating the pornographication of society by making everything a commodity and putting it on display. Knowing no other use for sexuality, it profanes eros—into porn.
+
+Supports: Extends [[Pornography (Han)]] — porn as the profanation of [[Eros]] and "bare life on display" ([[Bare Life]]); the critique of [[Giorgio Agamben|Agamben]]'s profanation ([[Byung-Chul Han and Giorgio Agamben]]) and citation of [[Jean Baudrillard]] ([[Byung-Chul Han and Jean Baudrillard]]).
+Label: Directly stated
+
+### Source 56
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]
+Relevant passage:
+
+> Today's computerized high-definition imagery eliminates vagueness and ambiguity. Yet fantasy inhabits space that is undefined. Information and fantasy are opposing forces. ... Information, as such, is positivity that leads to a dismantling of the Other's negativity.
+
+Supports: [[Fantasy]] and [[Fantasy vs Information]] — the informational flattening of the Other; against [[Eva Illouz]]'s "information-thin imagination" ([[Byung-Chul Han and Eva Illouz]]); links to [[Dataism]] and [[Positivity]].
+Label: Directly stated
+
+### Source 57
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]
+Relevant passage:
+
+> In his reading, Slavoj Žižek assumes that Maitland's actions unfold in an idealist, Platonic dispositive ... Žižek mistakenly claims that Maitland stares into the sun hoping "to view the scene in its entirety." In truth, however, Maitland is following an anti-Platonic dispositive. By destroying his eyes, he has made bold to withdraw from the world of truth and hypervisibility, to retreat into the cave—a twilight space of dreams and desire.
+
+Supports: [[Byung-Chul Han and Slavoj Žižek]] — Han's disagreement with Žižek's Platonic-idealist reading of Ballard; hypervisibility ([[Transparency]]) vs the twilight space of [[Fantasy]].
+Label: Directly stated
+
+### Source 58
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]
+Relevant passage:
+
+> Political action is mutual desire for another way of living—a more just world aligned with eros on every register. Eros represents a source of energy for political revolt and engagement. ... Eros manifests itself as the revolutionary yearning for an entirely different way of loving and another kind of society. Thereby, it remains faithful to what is yet to come.
+
+Supports: [[The Politics of Eros]] — eros as the energy of political community and the Badiouian "Two scene" ([[Byung-Chul Han and Alain Badiou]]); [[Eros vs Sexuality]] (the depoliticizing replacement of eros by sexuality).
+Label: Directly stated
+
+### Source 59
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han (trans. Erik Butler)
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Without seduction by the atopic Other, which sparks erotic desire, thinking withers into mere work, which always reproduces the Same. ... There is no such thing as data-driven thinking. Only calculation is data driven. ... Thinking, in the strong sense, begins with eros. To be able to think, one must first have been a friend, a lover.
+
+Supports: [[Theory in the emphatic sense is erotic]] — the atopic Other as the condition of thought; the rebuttal of Anderson's "End of Theory" ([[Dataism]], [[The End of Theory]]); the closing citation of Deleuze and Guattari ([[Byung-Chul Han and Gilles Deleuze]]).
 Label: Directly stated

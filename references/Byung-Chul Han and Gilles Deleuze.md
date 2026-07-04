@@ -8,8 +8,9 @@ sources:
   - "[[raw/Han - Psychopolitics/03 The Mole and the Snake]]"
   - "[[raw/Han - Psychopolitics/13 Idiotism]]"
   - "[[raw/Han - Psychopolitics/08 Friendly Big Brother]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-07-04
 ---
 
 # Byung-Chul Han ↔ Gilles Deleuze
@@ -35,6 +36,12 @@ The load-bearing moments are: (1) Ch. 3's naming and triple citation of the ‘P
 ## Confidence
 
 **High.** Ch. 3 names Deleuze and cites the ‘Postscript on Control Societies’ three times in its notes; Ch. 13 quotes *Pure Immanence* and the "Mediators" interview verbatim with full citations. The reference is unambiguously a direct citation. The Ch. 8 connection is **medium-confidence** — the control-society thesis is plainly Deleuzian but Deleuze is not named in that chapter; flagged as `Strongly implied` below.
+
+## Byung-Chul Han (The Agony of Eros)
+
+**Relationship: affirmative-adoption.** Han's fourth book in the vault cites Deleuze a fourth time — now not the Deleuze of the control society but the Deleuze (with Félix Guattari) of *What Is Philosophy?*, deployed as a positive resource for a philosophy of thinking. The final chapter, ‘The End of Theory’ ([[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory|The End of Theory]]), extends Han's [[Eros|eros]] thesis from love and politics into thought itself: "Thinking, in the strong sense, begins with eros. To be able to think, one must first have been a friend, a lover." Against the Dataist fantasy that "the numbers speak for themselves," Han argues that genuine thinking requires the negativity and resistance of [[The Other|the atopic Other]] — and he recruits Deleuze and Guattari as the modern witnesses to this ancient claim, following the same Platonic lineage (Eros as *philosophos*, the "friend of wisdom") that runs through the chapter.
+
+Here Deleuze and Guattari supply the crucial formula that the friend/lover is not "an empirical circumstance" but "a presence that is intrinsic to thought, a condition of possibility of thought itself." Han glosses their position directly: "In *What Is Philosophy?* Deleuze and Guattari extol eros as the transcendental condition for the possibility of thinking." The mode is pure affirmation — where *Psychopolitics* both borrowed and *redirected* Deleuze (accepting the mole→snake periodization while insisting control is capitalism's intensification, not its supersession), here Han adopts Deleuze and Guattari *without qualification*: their claim that "the friend reintroduce[s] into thought a vital relationship with the Other that was supposed to have been excluded from pure thought" is precisely Han's own thesis that data-driven calculation, lacking the Other, "always reproduces the Same." Deleuze thus appears across the two books in three registers — diagnostic (the control society), resistant (pure immanence, the politics of silence), and now affirmative-adoptive (eros as the condition of thought). (Guattari, co-author of the cited work, has no vault note; he is credited here as its co-author.) `Directly stated`.
 
 ## Sources
 
@@ -103,3 +110,14 @@ Relevant passage:
 > But despite Apple’s message, 1984 did not signal the end of the surveillance state so much as the inception of a new kind of control society - one whose operations surpass the Orwellian state by leaps and bounds. Now, communication and control have become one, without remainder. Now, everyone is his or her own panopticon.
 
 Supports: The Deleuzian control-society thesis dramatized without naming Deleuze. The [[Digital Panopticon]] of "voluntary self-exposure," where "Big Brother now wears a friendly face" and control operates through the freedom to communicate rather than through confinement, is the lived form of the snake regime diagnosed in Ch. 3. Deleuze is not cited here, so the link is inferential. Label: `Strongly implied`.
+
+### Source 7
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> In What Is Philosophy? Deleuze and Guattari extol eros as the transcendental condition for the possibility of thinking: "What does friend mean when it becomes … a condition for the exercise of thought? Or rather, are we not talking of the lover? Does not the friend reintroduce into thought a vital relationship with the Other that was supposed to have been excluded from pure thought?"
+
+Supports: Deleuze's fourth vault appearance, now in an **affirmative-adoption** register. In the final chapter of *The Agony of Eros*, Han cites Deleuze and Guattari's *What Is Philosophy?* to underwrite his thesis that [[Eros|eros]] is the ground of thinking — that the friend/lover is "a condition of possibility of thought itself" and that thought needs "a vital relationship with [[The Other|the Other]]" excluded from pure calculation. Unlike the *Psychopolitics* citations, which both borrowed *and* redirected Deleuze, this one is adopted without qualification: the Deleuze–Guattari claim is identical to Han's own (data-driven thought, lacking the Other, "always reproduces the Same"). The friend/lover block quote is attributed to Deleuze and Guattari, quoted by Han. Label: `Directly stated`.

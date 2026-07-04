@@ -14,6 +14,8 @@ sources:
     passage: "Pain is constitutive for experience (Erfahrung)."
   - source_file: "raw/Han - The Burnout Society/09 Burnout Society.md"
     passage: "Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares."
+  - source_file: "raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory.md"
+    passage: "Experiencing (Erlebnis) is also additive and cumulative. That is what distinguishes it from transformative experience (Erfahrung), which often occurs only once. Thus, information society has no access to the wholly Other. It lacks eros—which transforms."
 related_concepts:
   - "[[Byung-Chul Han]]"
   - "[[Negativity]]"
@@ -25,8 +27,9 @@ related_concepts:
   - "[[Acceleration]]"
   - "[[Intimacy as Psychological Formula of Transparency|Intimacy]]"
   - "[[Information]]"
+  - "[[Eros]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Erfahrung vs Erlebnis — Byung-Chul Han
@@ -39,7 +42,7 @@ This note tracks a single opposition — the German *Erfahrung* ("experience") v
 - In ***Psychopolitics***, the distinction is *political and subject-constituting*. *Erfahrung* "is founded on discontinuity," "means transformation," and "wrenches the subject from itself" — it tears the subject out of subjection. *Erlebnis*, recast as "the neoliberal psychopolitics of experiencing or emotion," does the opposite: it "ensnares the subject deeper and deeper" in subjugation.
 - In ***The Burnout Society***, the distinction is given its *sharpest single formulation*, in the title chapter and again via Richard Sennett's diagnosis of narcissism: "Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares." Here *Erlebnis* is bound to the narcissistic self-reference of the achievement-subject; *Erfahrung*, as the encounter that *alters*, is what the worldless, world-destroying ego forecloses.
 
-The through-line is that *Erfahrung* names a negativity-bearing event that frees and alters, while *Erlebnis* names a positivity-bound stimulus that preserves the ego in place by expanding it into the world. The *Burnout Society* and *Psychopolitics* treatments are recorded in the new sections below; the older *Transparency Society* treatment is preserved unchanged in the sections that follow.
+The through-line is that *Erfahrung* names a negativity-bearing event that frees and alters, while *Erlebnis* names a positivity-bound stimulus that preserves the ego in place by expanding it into the world. The *Burnout Society* and *Psychopolitics* treatments are recorded in the new sections below; the older *Transparency Society* treatment is preserved unchanged in the sections that follow. A fourth book, ***The Agony of Eros***, extends the distinction from love and the subject into the epistemology of the *information society*, welding it to [[Eros|eros]] and "the wholly Other" (see the final Han section below).
 
 ## Author's Definition
 
@@ -87,6 +90,12 @@ Han ties this directly to [[Negativity|negativity]] and distance. "Love of self 
 
 This is the same definitional structure carried by the other two books — *Erfahrung* = negativity + otherness + transformation; *Erlebnis* = positivity + self-reference + preservation of the existing — now welded to the [[Achievement Society|achievement society]]'s logic of [[Auto-Exploitation|self-exploitation]]. The achievement-subject's incapacity for *Erfahrung* (the altering encounter with the Other) is of a piece with its depressive, world-destroying self-reference, which "often culminates in burnout." The convergence is interpretive only at the seams: Han states the *Erfahrung*/*Erlebnis* distinction and its grounding in narcissistic negativity-loss directly, while the link to burnout-as-self-exploitation is the chapter's broader argument rather than a claim made of the distinction itself [Strongly implied].
 
+## The Agony of Eros (Han) — the information society as a society of Erlebnis
+
+In "The End of Theory," the final chapter of *The Agony of Eros*, Han carries the distinction into an *epistemological* register — the theory of knowledge in the [[Information|information]] society — and, for the first time, binds it explicitly to [[Eros|eros]] and to "the wholly Other." The chapter's larger argument is that theory "in the emphatic sense is erotic": genuine thinking requires the [[Negativity|negativity]] of the atopic [[The Other|Other]], the resistance of the incalculable, and without that seduction it "withers into mere work, which always reproduces the Same." Against Chris Anderson's *Wired* thesis that abundant data makes theory superfluous, Han distinguishes positive, additive, "only cognized" *information* from the negativity of *insight* (*recognition*), "which is exclusive, exquisite, and executive" and alone can shake "up the status quo in its entirety and allow something wholly Other to begin" [Directly stated].
+
+It is inside this argument that Han restates the *Erfahrung*/*Erlebnis* opposition, now applied to society as such: "Our information society is a society of experience. Experiencing (Erlebnis) is also additive and cumulative. That is what distinguishes it from transformative experience (Erfahrung), which often occurs only once. Thus, information society has no access to the wholly Other. It lacks eros—which transforms." This is continuous with the three earlier books — *Erlebnis* is again *additive and cumulative*, *Erfahrung* again *transformative* — but it adds two new determinations. First, the *scarcity* of *Erfahrung*: unlike the endlessly summable stream of *Erlebnis*, transformative experience "often occurs only once." Second, the naming of what the additive society thereby forecloses: because it consists only of *Erlebnis*, the information society "has no access to the wholly Other" and "lacks eros—which transforms" [Directly stated]. The [[Byung-Chul Han and Eva Illouz|self]]-enclosed positivity that *The Transparency Society* diagnosed as leaving "no outside" is here diagnosed as the loss of the very [[Eros|eros]] whose function is to open the subject onto alterity — so that *Erfahrung* is not merely opposed to *Erlebnis* but is the erotic, once-occurring event by which the wholly Other becomes accessible at all [Strongly implied].
+
 ## Related Concepts
 
 - [[Negativity]] — what *Erfahrung* possesses and *Erlebnis* lacks
@@ -104,6 +113,7 @@ This is the same definitional structure carried by the other two books — *Erfa
 - [[Exploitation of Freedom]] — the "art of living" / practice of freedom *Erfahrung* serves via de-psychologization
 - [[Byung-Chul Han and Richard Sennett]] — Han adopts and corrects Sennett's narcissism diagnosis in *The Burnout Society*, the setting for the sharpest *Erfahrung*/*Erlebnis* formulation
 - [[Auto-Exploitation]] — the achievement-subject's self-exploitation, of a piece with its *Erlebnis*-bound, world-destroying self-reference (*The Burnout Society*)
+- [[Eros]] — what the *Erlebnis*-only information society "lacks"; the transformative force *Erfahrung* carries and *Erlebnis* forecloses (*The Agony of Eros*)
 
 ## Sources
 
@@ -172,3 +182,14 @@ Relevant passage:
 > Experience [Erfahrung] involves encountering the Other. It alters. Experiencing [Erlebnis], in contrast, expands the ego into the Other, into the world. It com-pares. Love of self is still determined by negativity insofar as it devalues and wards off the Other in favor of the Own. The Own sets itself against the Other. Thereby, the Other acts to preserve distance. Self-love means taking an explicit stand vis-à-vis the Other. Narcissism, in contrast, blurs the border.
 
 Supports: The sharpest single formulation of the opposition in Han's corpus, stated in the title chapter immediately after the [[Byung-Chul Han and Richard Sennett|Sennett]] quotation on narcissism. Establishes *Erfahrung* as the altering encounter with [[The Other|the Other]] and *Erlebnis* as the ego's expansion into the world that "com-pares," and grounds both in the [[Negativity|negativity]]/distance that narcissism's border-blurring destroys. Label: Directly stated.
+
+### Source 7
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> Our information society is a society of experience. Experiencing (Erlebnis) is also additive and cumulative. That is what distinguishes it from transformative experience (Erfahrung), which often occurs only once. Thus, information society has no access to the wholly Other. It lacks eros—which transforms.
+
+Supports: Extends the distinction into the epistemology of the [[Information|information]] society, and is the first passage to bind it explicitly to [[Eros|eros]] and "the wholly Other." Adds two determinations to the additive/transformative axis: the *scarcity* of *Erfahrung* ("often occurs only once"), and the diagnosis that an *Erlebnis*-only society "has no access to the wholly Other" and "lacks eros—which transforms." Situated inside the chapter's argument that theory in the emphatic sense is erotic and that positive, additive information produces neither insight nor truth. Label: Directly stated.

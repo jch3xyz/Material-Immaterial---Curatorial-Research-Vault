@@ -16,6 +16,11 @@ sources:
   - "[[raw/Han - The Burnout Society/04 Profound Boredom]]"
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
   - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 related:
   - "[[Transparency]]"
   - "[[Smoothness]]"
@@ -34,7 +39,7 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-07-04
 ---
 
 # Positivity
@@ -117,6 +122,14 @@ Excess positivity also reorganizes attention and, finally, the human itself. In 
 - Is the digital negative-less photograph a metaphor for positivity or a *cause* of it? Han slides between the two; the slippage deserves auditing.
 - Han claims positivity produces "an inferno of the same." Is the "Same" here Levinasian, Heideggerian, or Han's own coinage? The note [[The Same]] should sort this.
 - Does positivity admit of degrees, or is it a threshold concept — either a domain has been positivized or it has not?
+
+## Byung-Chul Han (The Agony of Eros)
+
+*[[The Agony of Eros]]* carries positivity into the register of love, and there its cost becomes explicit: positivity is not merely subtractive but **lifeless**. The chapter "Bare Life" states it flatly — "Whatever is merely positive is lifeless. Negativity is essential to vitality" (ch.4) — glossing Hegel's claim that "Something is alive … only to the extent that it contains contradiction within itself." "The society of positivity, from which negativity has disappeared, is a society of bare life," and its "vigor or fitness" is not vitality at all. The same thought is stated as a general law in "Being Able Not to Be Able": "The power of negativity lies in the fact that things are enlivened precisely by their opposite. Mere positivity lacks any such power to animate" (ch.3). This sharpens the earlier registers of the note: where *[[The Transparency Society]]* and *[[The Burnout Society]]* trace positivity's *effects* (exhaustion, aura's depletion, burnout), *The Agony of Eros* names its *deficiency of being* — positivity, cut off from its animating opposite, is inert. It is the reason the erotic relation to [[The Other]] cannot survive a positivized field: [[Eros]] lives on the negativity that positivity dissolves.
+
+The book also supplies positivity's most memorable emblem. Reading Lars von Trier's *Melancholia*, Han glosses a painting in Justine's library: "In contrast, Bruegel's Land of Cockaigne depicts an overstuffed society of positivity—an inferno of the same. Here, the swollen figures lie about apathetically, exhausted by satiety: even the cactus has no thorns; it is made of bread. Everything is positive inasmuch as it is edible and consumable" (ch.2). Cockaigne — a land where nothing resists, nothing wounds, everything is consumable — is positivity made visual, and Han explicitly identifies it with the [[Hell of the Same|inferno of the same]]. Justine places it beside a Blake print of a slave suspended by the ribs: "Here, the invisible violence of positivity stands opposed to the brutal power of negativity, which exploits and robs" (ch.2). The pairing gives the two violences a face — positivity's saturating, thornless, invisible violence against negativity's depriving, brutal one, the same distinction Han draws pathologically in *The Burnout Society*.
+
+The mechanism by which positivity abolishes alterity is spelled out across the erotic chapters as the replacement of *otherness* by *difference*. Because "the negativity of the atopic Other refuses consumption," consumer society "endeavors to eliminate atopic otherness in favor of consumable—heterotopic—differences," and, Han insists, "in contrast to otherness, difference is positive" (ch.2). Difference is marketed while alterity is destroyed. In "Fantasy" this becomes an account of the informational image: "Information, as such, is positivity that leads to a dismantling of the Other's negativity" (ch.6) — hypervisibility and high-definition imagery are positivity in the visual register, and they stifle the fantasy that constructs the Other. The final chapter transposes the same logic into thought: data-driven calculation "is work on the positive," which "always reproduces the Same" because it "lacks the negativity of atopia" (ch.8). Across love, image, and thinking, then, positivity is one operation — the elimination of the animating negativity of [[The Other]] — and its product is always the [[Hell of the Same]]. *(Confidence: `Directly stated` for all five anchor quotations; `Interpretive synthesis` for reading them as one continuous "positivity = lifelessness / elimination of otherness" thesis spanning the love, image, and thinking chapters.)*
 
 ## Sources
 
@@ -350,3 +363,25 @@ Relevant passage:
 > Rather, they are caused by a too-much of positivity. The excessiveness of performance enhancement leads to psychic infarctions.
 
 Supports: The book's closing diagnosis — exhaustion and tiredness are caused by a too-much of positivity, leading to psychic infarctions; the clinical endpoint that grounds [[Burnout]]. Label: `Directly stated`.
+
+### Source 22
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]
+Relevant passage:
+
+> Whatever is merely positive is lifeless. Negativity is essential to vitality: "Something is alive … only to the extent that it contains contradiction within itself: indeed, [its] force is this, to hold and endure contradiction within." Thus, vitality differs from the vigor or fitness of bare life, which lacks all negativity.
+
+Supports: The Agony-of-Eros register's core claim — that positivity, cut off from its animating opposite, is inert; the society of positivity is a society of [[Bare Life]] whose fitness is not vitality. Grounds the "positivity = lifelessness" thesis and the opposition to [[Negativity]]. Label: `Directly stated`.
+
+### Source 23
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]
+Relevant passage:
+
+> In contrast, Bruegel's Land of Cockaigne depicts an overstuffed society of positivity—an inferno of the same. Here, the swollen figures lie about apathetically, exhausted by satiety: even the cactus has no thorns; it is made of bread. Everything is positive inasmuch as it is edible and consumable. ... Here, the invisible violence of positivity stands opposed to the brutal power of negativity, which exploits and robs.
+
+Supports: The emblematic image of positivity — Bruegel's thornless, edible Land of Cockaigne as "an overstuffed society of positivity—an inferno of the same," paired against Blake's slave to oppose the "invisible violence of positivity" to the "brutal power of negativity." Links positivity to [[Hell of the Same]] and [[Negativity]]. Label: `Directly stated`.

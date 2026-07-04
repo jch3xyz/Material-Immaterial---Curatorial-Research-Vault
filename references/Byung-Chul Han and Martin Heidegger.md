@@ -12,8 +12,10 @@ sources:
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
   - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
   - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Byung-Chul Han and Martin Heidegger
@@ -63,6 +65,12 @@ And on the picture / simulacrum:
 The most pointed Heidegger engagement is in **"The Society of Tiredness"** (Ch. 8), where Han names him directly — and revises him. Glossing the Sabbath, he writes: "The Sabbath, too—a word that originally meant stopping [aufhören]—is a day of not-to; speaking with Heidegger, it is a day free of all in-order-to, of all care." The Sabbath is thus assimilated to [[Negative Potency|the negative potency of the not-to]] and to [[Fundamental Tiredness|fundamental tiredness]]: "It is a day of tiredness," "a day on which the use of the useless proves possible." But Han then breaks with Heidegger on time itself. The Sabbath "is a matter of interval [Zwischenzeit]," "a time without work, a time of, and for, play [Spielzeit]; *it also differs from Heidegger's definition of time, which is essentially a matter of care and work*." Where Heidegger anchors temporality in *Sorge* (care) and resolute, work-bound projection toward the future, Han's redemptive time is play-time freed of all in-order-to — and the tired person's "long, slow gaze" is one in which "resolution [Entschlossenheit] yields to a state of calm." This is at once a use of Heidegger (the Sabbath as freedom from care, the *aufhören* / not-to) and a correction of him (his time of care/work is too narrow to hold the disarmed, playful interval). Han also lifts Heidegger's *Gelassenheit*: fundamental tiredness "enables the human being to experience singular calm [Gelassenheit], serene not-doing" (`Directly stated`).
 
 The same term returns critically in **"Vita Activa"** (Ch. 5). Han charges Hannah Arendt with "heroic actionism, like her teacher Heidegger" — Arendt's revaluation of the *vita activa* and her wonder at human natality inherit, he argues, Heidegger's emphasis on resolute action (even as she reorients it from the early Heidegger's *being-toward-death* to birth). Against this whole lineage of activation, Han diagnoses the late-modern ego as constitutively lacking *Gelassenheit*: an animal merged into the life-process of its species "would at least have the serenity [Gelassenheit] of an animal," and belonging to a species "might benefit an animal . . . to achieve brute Gelassenheit," but "the late-modern ego [Ich] stands utterly alone," "hyperactive and hyperneurotic," its life "radically fleeting" for lack of Being [*Bestand*]. *Gelassenheit* — the serene letting-be that Heidegger named — is here the missing remedy whose absence drives the hysteria and nervousness of achievement society (`Directly stated`). Per the forward-stub policy, *Gelassenheit* is Heidegger's term and awaits a Heidegger ingest; it is captured here as plain text rather than minted as a Han-tinted concept note. The net relationship in *The Burnout Society* is therefore the same double gesture as in *The Transparency Society* — Heidegger as both armature and target: Han keeps *Angst*, the not-to, and *Gelassenheit* as instruments of his cure, while rejecting Heidegger's resolute, care-and-work definition of time in favor of the disarmed, playful interval of [[Fundamental Tiredness|fundamental tiredness]] and the Sabbath.
+
+## The Agony of Eros — Wohnen/non-sites and Eros as the oldest god
+
+*The Agony of Eros* (2012; trans. Erik Butler, 2017) draws on Heidegger twice, and in both cases affirmatively — Heidegger supplies the positive measure against which Han diagnoses a loss. In the **"Porn"** chapter (Ch. 5), the *Wohnen* motif of *The Transparency Society* returns, now enlisted in Han's polemic against Giorgio Agamben's "In Praise of Profanation." Against Agamben's redemptive reading of exhibited nudity, Han argues that "musealization and exhibition are precisely what destroy their cult value and replace it with exhibition value," and that "tourism and pilgrimage stand in opposition to each other. Tourism creates 'non-sites,' whereas pilgrimage is tied to places." It is Heidegger who grounds the distinction between place and non-place: "According to Heidegger, the quality that makes human dwelling (Wohnen) possible is the 'divine.' Such sites are constituted by history, memory, and identity. These same features are missing in the 'non-sites' of tourism, where people pass by instead of lingering and spending time." Heidegger's *Wohnen* is thus the same instrument as in the Exhibition chapter — dwelling, place, and the divine set-apart as the conditions the [[Exhibition Value|exhibition-value]] regime dissolves — here transposed from the display-room to the deritualized, pornographic world (`Directly stated`).
+
+In the final chapter, **"The End of Theory"** (Ch. 8), Heidegger's role inverts: he is not the diagnosed loss but the ally who names its remedy. The chapter opens with a verbatim block quote from Heidegger's *Letters to His Wife: 1915–1970* in which Heidegger names Eros — "the oldest of the gods according to Parmenides" — as the god whose beating wings move his thinking onto "untrodden paths." Han reads this as Heidegger following "Plato's theory of eros": genuine thinking requires the negativity of the atopic [[The Other|Other]], the seduction that carries thought beyond the calculable, and "[[Eros]] leads and seduces (führt und verführt) thinking down untrodden paths, through the atopic Other." The counter-term Han draws directly from Heidegger is the "sheer" or "mere" work into which thought degrades when eros is withdrawn: "Heidegger speaks of the 'sheer' or 'mere' work into which thinking degrades when it is not driven by eros to venture down 'untrodden paths,' into the incalculable." This is the philosophical spine of Han's inversion of Chris Anderson's Dataist "end of theory" — [[Dataism|data-driven calculation]] is "work on the positive" that "always reproduces the [[Hell of the Same|Same]]," whereas thinking, "moved by the beating wings of Eros," ventures into the incalculable Other. Heidegger's Eros passage is here the primary-text hinge between the *Agony of Eros* vocabulary of eros and the Other and Han's *[[Psychopolitics]]* critique of [[Big Data|Big Data]] (`Directly stated` for the citations; the block quote below is Heidegger's own words, quoted by Han).
 
 ## Sources
 
@@ -186,3 +194,25 @@ Relevant passage:
 > If one abandoned one’s individuality and dissolved into the life process of the species entirely, one would at least have the serenity [Gelassenheit] of an animal. But the late-modern animal laborans is anything but animalian. It is hyperactive and hyperneurotic.
 
 Supports: *Gelassenheit* (Heidegger's serene letting-be) is named as the calm the hyperactive, hyperneurotic late-modern ego lacks; captured as plain text per the forward-stub policy (Heidegger's term, awaiting a Heidegger ingest). Label: `Directly stated`.
+
+### Source 12
+
+Book: *The Agony of Eros*
+Author: [[Byung-Chul Han]]
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]
+Relevant passage:
+
+> According to Heidegger, the quality that makes human dwelling (Wohnen) possible is the "divine." Such sites are constituted by history, memory, and identity. These same features are missing in the "non-sites" of tourism, where people pass by instead of lingering and spending time.
+
+Supports: The *Wohnen* motif of *The Transparency Society* returns in the "Porn" chapter's polemic against Agamben's profanation. Heidegger's dwelling grounds Han's distinction between place (constituted by history, memory, identity — as in pilgrimage) and the "non-sites" of tourism; place and the divine set-apart are the conditions the [[Exhibition Value|exhibition-value]] regime dissolves. Label: `Directly stated`.
+
+### Source 13
+
+Book: *The Agony of Eros*
+Author: [[Martin Heidegger]] (quoted by [[Byung-Chul Han]])
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> The other thing, inseparable in a different way from my love for you and from my thinking, is difficult to say. I call it Eros, the oldest of the gods according to Parmenides. … The beat of that god's wings moves me every time I take a substantial step in my thinking and venture onto untrodden paths.
+
+Supports: The framing block quote of "The End of Theory," from Heidegger's *Letters to His Wife: 1915–1970*, attributed to **Heidegger** (quoted by Han). Names [[Eros]] as "the oldest of the gods," whose beating wings move thinking onto "untrodden paths" — the primary-text hinge Han uses to argue that thinking requires the negativity of the atopic [[The Other|Other]], degrading into Heidegger's "sheer" or "mere" work when eros is withdrawn. Grounds Han's inversion of Chris Anderson's Dataist "end of theory." Label: `Directly stated`.

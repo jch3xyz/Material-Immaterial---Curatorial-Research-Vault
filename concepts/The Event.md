@@ -3,6 +3,8 @@ type: concept
 status: generated
 sources:
   - "[[raw/Han - Psychopolitics/12 Beyond the Subject]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]"
 related:
   - "[[Erfahrung vs Erlebnis (Han)]]"
   - "[[Freedom vs Control]]"
@@ -14,7 +16,7 @@ opposes:
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-07-04
 ---
 
 # The Event
@@ -35,15 +37,18 @@ Read against the data-driven order, the event names what statistics structurally
 
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — The event is the incalculable rupture that the predictive apparatus of psychopolitics and Big Data cannot pre-empt; it breaks the subject open, wrests it from subjection, and opens "new spaces for action." It is the structural condition of freedom and "an unwritten future."
+- **[[Byung-Chul Han]]** — The event is the incalculable rupture that the predictive apparatus of psychopolitics and Big Data cannot pre-empt; it breaks the subject open, wrests it from subjection, and opens "new spaces for action." It is the structural condition of freedom and "an unwritten future." In *The Agony of Eros* Han grounds the same anti-calculation core from the side of love, following Badiou: the event's essence is "the negativity of rupture, which allows something wholly Other to begin," and "eventfulness connects love with politics and art," all commanding "fidelity" — a "transcendental fidelity" that is "a universal quality of eros." Stripped of eros, "logos is deteriorating into data-driven calculation, which is incapable of reckoning the event, the incalculable."
 - **[[Friedrich Nietzsche]]** *(forward-stub)* — Source of the "naturification" (*Vernatürlichung*) Han invokes, which includes "readiness for what is absolutely sudden and thwarting"; the event is the natural, incalculable break this readiness opens onto.
 - **[[Michel Foucault]]** *(forward-stub)* — Defines the event as "the reversal of a relationship of forces, the usurpation of power, the appropriation of a vocabulary against those who had once used it"; events are *Kehren* (turns) after which "one suddenly speaks another language."
+- **Alain Badiou** *(forward-stub)* — In *In Praise of Love* and *Ethics*, source (via Han) of the love-event: the "Two scene," the demand to "completely rework my ordinary way of 'living' [habiter] my situation," and the "fidelity" to the event that binds love, politics, and art.
 
 ## Related Concepts
 
 - [[Erfahrung vs Erlebnis (Han)]] — the event is founded on the discontinuity of *Erfahrung* (experience as transformation), opposed to the *Erlebnis* (experiencing/emotion) that psychopolitics farms.
 - [[Freedom vs Control]] — the event is Han's structural site of emancipation, the outside that control through prediction cannot foreclose.
 - [[Big Data]] *(forward-stub)* — the predictive regime whose calculation the event "defies"; the event is its constitutive blind spot.
+- [[Eros]] — for Han in *The Agony of Eros*, "fidelity" to the event "may be understood as a universal quality of eros"; without eros, logos degrades into calculation blind to the event.
+- [[The Other]] — the event is "the negativity of rupture, which allows something wholly Other to begin"; the incalculable Other is precisely what data-driven calculation cannot reckon.
 
 ## Opposing Concepts
 
@@ -56,6 +61,7 @@ Read against the data-driven order, the event names what statistics structurally
 - Is the appeal to an incalculable "outside" a genuine politics of emancipation, or does it risk romanticizing rupture while leaving the standing order's everyday operations untouched?
 - Does ever-expanding predictive capacity (Big Data) actually shrink the space of the event, or does the singular remain structurally irreducible to the average and the probable?
 - How does the event differ from mere novelty or accident, given that for Han it specifically "wrests the subject from subjection" rather than simply surprising it?
+- If the event is "a universal quality of eros," does the erosion of eros under neoliberalism (its degradation into sexuality and calculation) foreclose the event across love, politics, and thought alike?
 
 ## Sources
 
@@ -91,3 +97,36 @@ Relevant passage:
 > What Nietzsche refers to as the 'naturificatiori' (Vernatürlichung) of the human being includes 'readiness for what is absolutely sudden and thwarting (das absolut Plötzliche und Durchkreuzende)\l
 
 Supports: Documents the Nietzschean routing of the event through "naturification" and the readiness for "what is absolutely sudden and thwarting." Label: `Directly stated`
+
+### Source 4
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]
+Relevant passage:
+
+> The essence of the event is the negativity of rupture, which allows something wholly Other to begin. Eventfulness connects love with politics and art. They all command "fidelity" to the event. This transcendental fidelity may be understood as a universal quality of eros.
+
+Supports: Grounds the Badiouian love-event that Han adopts — the event as the negativity of rupture that lets the wholly Other begin, and "fidelity" to the event as the universal quality of eros binding love, politics, and art. (The "Two scene," "habiter," and "fidelity" phrasing is Badiou's, cited by Han.) Label: `Directly stated`
+
+### Source 5
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]
+Relevant passage:
+
+> Moreover, without eros, logos is deteriorating into data-driven calculation, which is incapable of reckoning the event, the incalculable.
+
+Supports: Ties the erotic love-event to the same anti-calculation core as the Psychopolitics account — data-driven calculation, deprived of eros, cannot reckon the event/the incalculable. Label: `Directly stated`
+
+### Source 6
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/08 The End of Theory]]
+Relevant passage:
+
+> There is no such thing as data-driven thinking. Only calculation is data driven. The negativity of the incalculable is inscribed in thinking.
+
+Supports: Reinforces the Psychopolitics core in the register of thought — "Google science," blind to the event/the incalculable, ends theory of the emphatic sort; the negativity of the incalculable is inscribed in thinking itself. Label: `Directly stated`

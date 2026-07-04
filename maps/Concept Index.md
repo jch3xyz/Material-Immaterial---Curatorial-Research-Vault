@@ -33,6 +33,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Bare Life]] — Han re-reads Agamben: bare life as the un-killable, holy, undead residue of denarrativized existence (Burnout Society)
 - [[Autoamputation]] — McLuhan's keystone: every technology is a defensive self-amputation of an over-stressed organ by the central nervous system
 - [[Automation as Learning a Living]] — McLuhan: 'automation is information'; work, consumption, and learning fuse into one process; man as a nomadic gatherer of knowledge
+- [[Atopia]] — Han: the Other as atopos — placeless, escaping comparison and the leveling of consumption; Socrates the lover as atopos (Barthes/Levinas) (The Agony of Eros)
 - [[Advertising as the Extension of Automation Toward a Collective Consciousness]] — McLuhan: advertising as a crude attempt to extend automation toward a programmed collective consciousness
 - [[Beyond the Subject]] — Han's de-psychologized, de-voided existence past the subject-form; the emancipatory horizon of psychopolitics
 - [[Big Data]] — the aperspectival instrument of digital psychopolitics that pre-empts free will (Han)
@@ -73,6 +74,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Elements Interconnections and Purpose]] — Meadows: the three constituents of a system, ranked — elements (least defining) < interconnections (information) < purpose (most crucial) (Ch1)
 - [[Eliminativism]] — the denial that consciousness exists (Dennett's Cartesian theater, Strawson's 'Great Denial'); itself crypto-Cartesian
 - [[The Electric Age as Extension of the Central Nervous System]] — McLuhan: electric technology as a live model of the central nervous system set outside us
+- [[Eros]] — Han: the relation to the wholly Other beyond ability, achievement, and performance; bound intrinsically to negativity and death, the antagonist of pornography and the erotic ground of thinking; realizes the long-committed Han-anchored forward-stub (The Agony of Eros)
 - [[Embodiment]] — Hayles's instantiated, local, non-replicable particular (against 'the body' as Platonic abstraction); the ground of thought the disembodiment of information erases
 - [[Form Exhaustion]] — Burnham: sculptural form as a finite grouping; how the vitalist idiom died (Ch2; contra Focillon)
 - [[Formalism (Burnham)]] — the material-optical-tactile features of sculpture as a prescientific methodology
@@ -90,6 +92,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Feedback Loops]] — the mechanism that puts the autonomous subject's boundaries 'up for grabs,' looping between subject and environment
 - [[Feedback Policy]] — Meadows: 'make feedback policies for feedback systems' — dynamic systems need meta-feedback loops that alter, correct, and expand loops, not static rules (Ch7)
 - [[Flickering Signifier]] — Hayles's figure for signification under conditions of code and mutation, the informatic successor to the floating signifier
+- [[Fantasy]] — Han: imagination against information; the negativity of visual privation (Flaubert, Ballard, Barthes/Kafka) that hypervisibility destroys (The Agony of Eros)
 - [[Fractured Identities]] — Haraway: identities as contradictory, partial, strategic, historically constituted; 'woman disintegrates into women'
 - [[Free Will as Fiction (Harari)]] — Harari: free will an empty word like 'soul'; the self steered by deterministic and random biochemical processes
 - [[Freedom of Information]] — Dataism's supreme value, the first genuinely new value since 1789 (Harari)
@@ -153,8 +156,10 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Money as a Medium]] — McLuhan: money as extension, storehouse, and translator of communal work; its commodity→credit/information arc and electric reversal into the credit card
 - [[The Mock Robot]] — Burnham: figurative sculpture that looks mechanical but lacks function/feedback (Ch8)
 - [[The Mosaic]] — McLuhan: the corporate/collective image of discontinuous juxtaposed items, with no point of view, that commands deep communal participation (press, ads, telegraph, photograph)
+- [[Melancholia (Han)]] — Han: depression as a narcissistic malady, the opposite of eros; the success-induced depression of the achievement-subject who can no longer love (The Agony of Eros)
 - [[Multitasking]] — Han: not civilizational progress but a regression to the divided vigilance of wild animals; the cognitive form of hyperattention (Burnout Society)
 - [[Nanobots]] — blood-cell-sized robots that scan the brain from inside its capillaries; the route to upload-grade detail (Kurzweil)
+- [[Narcissism (Han)]] — Han: distinct from self-love; the dissolution of the self/Other boundary that makes the world mere adumbrations of the narcissist's own self (The Agony of Eros)
 - [[Narcosis]] — McLuhan: the constitutive numbness accompanying every extension; the etymological root of Narcissus
 - [[Narrativity]] — directional, scenic, selective quality that resists acceleration and additive accumulation; narration vs additive data
 - [[Negative Potency]] — Han's 'power not to do' / the power to say no; the active core of the vita contemplativa, distinct from mere inability (Burnout Society)
@@ -187,6 +192,8 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[Pornography (Han)]] — structural form of total exposure: smooth, post-hermeneutic, infectious; datasexuality and the pornographic traits of dataism
 - [[Positivity]] — the regime of additive, smooth same-only experience that follows from dismantled negativity; positivity as a theory of power
 - [[Posthumanism]] — the posthuman as a point of view, not the end of humanity but of the liberal conception of the human; benign when grounded in embodiment
+- [[Primal Distance (Urdistanz)]] — Han via Buber: distance as the principle of being-human and the transcendental condition of alterity; eroded by total proximity (The Agony of Eros)
+- [[The Politics of Eros]] — Han: eros as the ground of the We; the Platonic (thumos), Badiouian (the Two scene), and Surrealist (Breton) frames of revolutionary desire (The Agony of Eros)
 - [[Print as the Architect of Nationalism]] — McLuhan: print homogenizes vernaculars into the nation as 'continuity and competition in homogeneous space'
 - [[Profound Boredom]] — 'the peak of mental relaxation,' the dream bird that hatches the egg of experience; the deep boredom hyperattention destroys (Burnout Society)
 - [[Psychopolitics]] — Han's titular master concept: neoliberal power that steers the psyche, passing from passive surveillance to active steering
@@ -262,6 +269,7 @@ All concept notes in `concepts/`. Updated after each generation pass.
 - [[The Measurement Problem]] — the quantum observer effect; the paradigm case where the perceiving subject cannot be eliminated
 - [[The Mind-Body Problem]] — the dilemma of immaterial mind and material body (Descartes's res extensa/res cogitans); the computer metaphor covertly re-inscribes it
 - [[The Observer]] — the figure whose inclusion in the system is, for von Foerster, the central issue of cybernetics
+- [[The Other]] — Han: the atopos whose alterity eludes all ability; the wholly Other of the event; the crisis of love is the erosion of the Other, leveled by calculation and consumption; realizes the forward-stub (The Agony of Eros)
 - [[The Platonic Backhand and Forehand]] — the paired rhetorical moves that reify abstraction as the Real and make embodiment derivative
 - [[The Project (Han)]] — the self as a free self-refashioning project that re-subjugates itself; freedom's collapse into compulsion
 - [[The Schizoid Android]] — Hayles's master figure in Dick: a signifier that enacts the split between human and not-human subject positions
@@ -495,7 +503,7 @@ Each cluster now has its own page. The full alphabetical list is above.
 - [[The Emancipatory Turn — Han (Concepts)|The Emancipatory Turn (Han)]] — - [[Beyond the Subject]] — de-psychologized, de-voided existence past the subject-form
 - [[The Achievement Society — Han, The Burnout Society (Concepts)|The Achievement Society (Han, The Burnout Society)]] — The book-length diagnosis of the pathologies of excess positivity that supersede the disciplinary regime.
 - [[The Contemplative Cure — Han, The Burnout Society (Concepts)|The Contemplative Cure (Han, The Burnout Society)]] — Han's affirmative counter-program: the revaluation of attention, boredom, tiredness, and the power to say no.
-- [[Desire, Interiority & Psychoanalysis (Concepts)|Desire / Interiority / Psychoanalysis]] — - [[Negativity]] — secret, veil, Other; condition of eros and thinking
+- [[Desire, Interiority & Psychoanalysis (Concepts)|Desire / Interiority / Psychoanalysis]] — - [[Negativity]] — secret, veil, Other; condition of eros and thinking; now home to the Agony-of-Eros cluster: [[Eros]], [[The Other]], [[Atopia]], [[Narcissism (Han)]], [[Melancholia (Han)]], [[Fantasy]], [[The Politics of Eros]], and [[Primal Distance (Urdistanz)]]
 - [[Media Ecology & Extensions of Man — McLuhan (Concepts)|Media Ecology / Extensions of Man (McLuhan)]] — - [[The Medium Is the Message]] — the signature thesis: the form/scale of a medium, not its content, restructures human affairs
 - [[Systems Esthetics & Sculpture from Object to System — Burnham (Concepts)|Systems Esthetics / Sculpture from Object to System (Burnham)]] — Burnham's art-historical narrative of the dematerializing object: from the withering base, through vitalism and the exhausted scientific model, to the kinetic, luminous, …
 - [[Media, Art & Perception (Concepts)|Media / Art / Perception]] — - [[Conceptual Art]] — 'idea art': the idea supersedes the visual/material result

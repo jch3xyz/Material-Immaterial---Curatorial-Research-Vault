@@ -26,6 +26,15 @@ All ~132 tension notes in `tensions/`, organized by theme. Each theme has its ow
 
 ## By Book
 
+### Byung-Chul Han — The Agony of Eros
+
+Han's fourth book stages the crisis of love as a set of oppositions between the negativity that eros requires and the positivity that abolishes it. The book also extends the vault's [[Positivity vs Negativity]] tension with the Agony-of-Eros register.
+
+- [[Eros vs Depression]] — eros pulls the subject out toward the Other; depression plunges it into the self (foreword, Melancholia)
+- [[Eros vs Sexuality]] — the book-wide antithesis: the Two scene / the wholly Other / the veil vs the One scene / the Same / the self-identical object of consumption (ch5, ch7)
+- [[Fantasy vs Information]] — the undefined, negative, withdrawn image against positivity and high-definition immediacy (ch6)
+- [[Positivity vs Negativity]] — extended with the Agony-of-Eros register (the erosion of negativity as the erosion of the Other)
+
 ### Donella Meadows — Thinking in Systems
 
 The vault's first native-discipline systems source stages its oppositions as the working tensions of the systems lens itself: the holistic against the reductionist, structure against event, the stabilizing loop against the amplifying one, and — the spine that ties Meadows to the vault's master axis — leverage rising as the point of intervention becomes more immaterial.

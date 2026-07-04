@@ -10,8 +10,9 @@ sources:
   - "[[raw/Byung-Chul Han - The Transparency Society/08 Ch5 - Acceleration]]"
   - "[[raw/Byung-Chul Han - The Transparency Society/12 Ch9 - Control]]"
   - "[[raw/Han - The Burnout Society/02 Neuronal Power]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Byung-Chul Han and Jean Baudrillard
@@ -39,6 +40,14 @@ In *The Burnout Society* (Ch. "Neuronal Power"), Han turns to Baudrillard a seco
 The credit is immediately qualified by the charge: "herein lies the weakness of his theory—Baudrillard pictures the totalitarianism of the Same from an immunological standpoint." Han diagnoses the result as incoherence: "Baudrillard's theory of power [Gewalt] is riddled with leaps of argument and vague definitions because it attempts to describe the violence of positivity—or, in other words, the violence of the Same when no Otherness is involved—in immunological terms." Baudrillard's own formula for "the violence of networks and the virtual" — that it is "viral," operating "by contiguity, contagion, and chain reaction, its aim being the loss of all our immunities" — keeps the immunological frame even while naming hyperpositivity, which Han treats as the symptom of the contradiction (`Directly stated`).
 
 The deepest part of the critique is Han's reading of Baudrillard's **genealogy of hostility** (wolf → rat → insect → virus). Even at its terminal, viral stage — the "ghostly enemy" that slips in "like a virus, welling up from all the interstices of power" — "hostility obeys the immunological scheme: the enemy virus intrudes into a system, which functions immunologically and fights off the invader." For Han this is exactly why Baudrillard cannot reach the phenomenon he intuited: viral violence "presumes the existence of singularity or alterity which is hostile to the system," whereas [[Neuronal Violence]] "does not proceed from system-foreign negativity" but is "systemic—that is, system-immanent." Han's terse verdict — "Viral violence cannot account for neuronal illnesses such as depression, ADHD, or burnout syndrome, for it follows the immunological scheme of inside and outside, Own and Other" — is the precise point of departure: Baudrillard's *virus* is still a foreign agent, and so still belongs to the [[Immunological Age]] Han says has ended (`Directly stated`). The disagreement is therefore the inverse of the *Transparency Society* one: there Han accepted Baudrillard's terms and updated his timeline; here Han accepts Baudrillard's *target* (the [[Hell of the Same|Same]]) but rejects his *vocabulary* (immunology) as constitutively unable to grasp it.
+
+## The Agony of Eros (Han) — porn, seduction, and the destruction of ritual
+
+In *The Agony of Eros* (Ch. 5, "Porn"), Han enlists Baudrillard a third time — now as an *ally* against pornography and, by extension, against [[Giorgio Agamben]]'s celebration of profanation. The register is neither the temporal update of *The Transparency Society* nor the methodological critique of *The Burnout Society*; here Baudrillard is drawn on approvingly, his diagnoses supplying the load-bearing terms for Han's own case that porn is the antagonist of [[Eros]]. Baudrillard's [[Seduction (Baudrillard)|seduction]] and obscenity are the negativity that porn abolishes (`Directly stated`).
+
+The chapter opens on Baudrillard's definition of porn as *the more sexual than sex*. Against the puritanical hypothesis that sex is threatened by a "pure reason" that avoids it as "dirty," Han quotes Baudrillard: "Sexuality does not fade into sublimation, repression and morality, but fades much more surely into the more sexual than sex: porn." Pornography, on this reading, derives its appeal from the "anticipation of dead sex in living sexuality" — porn is obscene not by an excess of sex but because "it contains no sex at all." Han then borrows Baudrillard's *ascending series of the lesser secret*: "From one figure to the other, from seduction to love, then to desire, sexuality, finally to pure and simple porno; the farther you go, the closer you come to the lesser secret, the smaller enigma." Seduction stands at the head of the series (the greatest secret), pornography at its terminus (no secret at all) — which is why "the erotic is never free of secrecy," while the pornographic face "says nothing" (`Directly stated`).
+
+The chapter's decisive Baudrillard citation sets **seduction in opposition to love** in order to ground Han's thesis that porn "completes the deritualization of love." Where [[Georges Bataille]]'s "holy eroticism" still included ritualized communication — "festivals and ceremonial games providing particularized sites, places at a remove" — pornography "is eliminating erotic seduction, which toys with scenic illusion and deceptive appearances." Han quotes Baudrillard directly: "Ritual is in the realm of seduction. Love is born from the destruction of ritual forms, from their liberation. Its energy is an energy of the dissolution of these forms." For Baudrillard, ritual belongs to seduction and love is the *dissolution* of ritual; Han enlists this against Agamben's profanation, which "even promotes the deritualization and pornographication of the world in that it suspects ritual spaces of constituting compulsive forms of sequestration." Baudrillard's seduction/obscenity thus becomes Han's weapon against porn's deritualization — the same seduction-and-secret apparatus the *Transparency Society* note already records, now turned toward the destruction of ritual form rather than of the scene (`Directly stated`; the framing of Baudrillard as *ally against Agamben* is `Strongly implied`).
 
 ## Source Passages
 
@@ -88,9 +97,29 @@ Han then explicitly reverses the diagnosis for the digital era:
 
 The reversal is generous, not hostile: "When he wrote these words, Baudrillard could not know about digital networking, of course." See [[Aperspectival Panopticon (Han)|Aperspectival Panopticon]], [[Digital Panopticon]], [[The Panopticon|Panopticon]].
 
+### Porn as "the more sexual than sex" and the ascending lesser secret (*The Agony of Eros*, Ch. 5)
+
+In the chapter "Porn," Han opens on Baudrillard's *Fatal Strategies* definition of porn, using it to invert the puritanical hypothesis about sex:
+
+> "Sexuality does not fade into sublimation, repression and morality, but fades much more surely into the more sexual than sex: porn."
+
+He immediately adds Baudrillard's account of porn's appeal — "the 'anticipation of dead sex in living sexuality'" — and, later in the chapter, Baudrillard's descending series of the secret, in which seduction holds the greatest secret and pornography none:
+
+> "From one figure to the other, from seduction to love, then to desire, sexuality, finally to pure and simple porno; the farther you go, the closer you come to the lesser secret, the smaller enigma."
+
+Against this, "the erotic is never free of secrecy." See [[Seduction (Baudrillard)]], [[Pornography (Han)]], [[Eros]], [[The Veil]].
+
+### Seduction in opposition to love — "Love is born from the destruction of ritual forms" (*The Agony of Eros*, Ch. 5)
+
+Han's culminating Baudrillard citation grounds his thesis that "pornography completes the deritualization of love." Porn "is eliminating erotic seduction, which toys with scenic illusion and deceptive appearances," and Han quotes Baudrillard directly to set seduction against love:
+
+> Indeed, Baudrillard sets seduction in opposition to love: "Ritual is in the realm of seduction. Love is born from the destruction of ritual forms, from their liberation. Its energy is an energy of the dissolution of these forms."
+
+Han enlists Baudrillard's seduction/ritual here against [[Giorgio Agamben]]'s profanation, which "even promotes the deritualization and pornographication of the world in that it suspects ritual spaces of constituting compulsive forms of sequestration." See [[Pornography (Han)]], [[Seduction (Baudrillard)]].
+
 ## Confidence
 
-**High.** The relationship is *directly stated* on every count: Han names Baudrillard, dates him (1978), and quotes him verbatim five times across four chapters. The lexical inheritance (obscenity, more-visible-than-visible, promiscuity, prostitution, seduction, scene) is textually undeniable, and the Ch. 9 disagreement is explicit and bounded. The only interpretive layer is the framing of the relationship as inheritance-plus-update rather than rupture — but Han's own "of course he could not know" sentence licenses that reading.
+**High.** The relationship is *directly stated* on every count: Han names Baudrillard, dates him (1978), and quotes him verbatim across four chapters of *The Transparency Society*, a chapter of *The Burnout Society*, and a chapter of *The Agony of Eros*. The lexical inheritance (obscenity, more-visible-than-visible, promiscuity, prostitution, seduction, scene, the more-sexual-than-sex, the lesser secret, ritual/seduction-vs-love) is textually undeniable, and the Ch. 9 disagreement is explicit and bounded. The only interpretive layers are the framing of the *Transparency Society* relationship as inheritance-plus-update rather than rupture — licensed by Han's own "of course he could not know" sentence — and the reading of the *Agony of Eros* use of Baudrillard as an *alliance against Agamben*, which is strongly implied by the chapter's structure though not stated in those words.
 
 ## Sources
 
@@ -178,3 +207,24 @@ And the genealogy-of-hostility verdict:
 > Viral violence cannot account for neuronal illnesses such as depression, ADHD, or burnout syndrome, for it follows the immunological scheme of inside and outside, Own and Other; it presumes the existence of singularity or alterity which is hostile to the system.
 
 Supports: Grounds the second, *Burnout Society* sense of the relationship — Han credits Baudrillard with intuiting the [[Hell of the Same|violence of the Same]] (the "obesity of all current systems," fat that provokes no immune reaction) but charges that his theory of viral violence is contradictory, since it describes positivity in the very immunological terms it should have abandoned. Baudrillard's genealogy of hostility (wolf→rat→insect→virus) remains immunological, so it cannot grasp the system-immanent [[Neuronal Violence]] that Han locates beyond the [[Immunological Age]]. Label: `Directly stated`.
+
+### Source 6
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/05 Porn]]
+Relevant passage:
+
+> "Sexuality does not fade into sublimation, repression and morality, but fades much more surely into the more sexual than sex: porn."
+
+Also (porn's appeal, and the descending series of the secret):
+
+> Pornography derives its appeal from the "anticipation of dead sex in living sexuality."
+
+> "From one figure to the other, from seduction to love, then to desire, sexuality, finally to pure and simple porno; the farther you go, the closer you come to the lesser secret, the smaller enigma."
+
+And seduction set in opposition to love:
+
+> Indeed, Baudrillard sets seduction in opposition to love: "Ritual is in the realm of seduction. Love is born from the destruction of ritual forms, from their liberation. Its energy is an energy of the dissolution of these forms."
+
+Supports: Grounds the third, *Agony of Eros* sense of the relationship — Han draws on Baudrillard approvingly, taking porn as "the more sexual than sex" (*Fatal Strategies*), the "anticipation of dead sex in living sexuality," and the ascending-lesser-secret series (seduction → love → desire → sexuality → porno) to argue that porn abolishes the secret on which [[Eros]] depends. The seduction-vs-love citation ("Love is born from the destruction of ritual forms") supplies the load-bearing term for Han's thesis that "pornography completes the deritualization of love," and is enlisted against [[Giorgio Agamben]]'s profanation. All quoted phrases are Baudrillard's, cited by Han. Label: `Directly stated`.

@@ -9,6 +9,10 @@ sources:
   - "[[raw/Han - The Burnout Society/03 Beyond Disciplinary Society]]"
   - "[[raw/Han - The Burnout Society/05 Vita Activa]]"
   - "[[raw/Han - The Burnout Society/09 Burnout Society]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]"
 related:
   - "[[Auto-Exploitation]]"
   - "[[The Transparency Society]]"
@@ -18,13 +22,16 @@ related:
   - "[[Burnout]]"
   - "[[Doping Society]]"
   - "[[Can vs Should]]"
+  - "[[Negative Potency]]"
+  - "[[Eros]]"
+  - "[[The Other]]"
 opposes:
   - "[[Disciplinary Society]]"
   - "[[Allo-Exploitation]]"
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Achievement Society
@@ -57,9 +64,17 @@ This is the same inversion the original note tracked in the field of visibility,
 
 "Healing as Killing" supplies the terminus the original note anticipated when it forward-linked exhaustion and the *Burnout Society*: the achievement-subject does not so much resist as collapse. "The neoliberal subject is running aground on the imperative of self-optimization, that is, on the compulsion always to achieve more and more" (Directly stated). Because perpetual self-optimization "coincides point-for-point with the optimization of the system" and tolerates no [[Negativity|negativity]] — "the only pain that is tolerated is pain that can be exploited for the purposes of optimization" — it ends in "mental collapse," in [[Burnout|depression and burnout]]: "Healing, it turns out, means killing" (Directly stated). The "outside" the original note asked after is not liberation but breakdown.
 
+## Byung-Chul Han (The Agony of Eros)
+
+*The Agony of Eros* returns the achievement-subject to the register of love, and its verdict is that **the narcissistic achievement-subject cannot love**. In "Melancholia" (ch. 2), Han distinguishes eros — which "pulls the subject out of itself, toward the Other" — from depression, which "plunges the subject into itself"; the two "are opposites." The achievement-subject falls on the depressive side because its whole motion is a return to the ego: "Today's narcissistic 'achievement-subject' seeks out success above all. Finding success validates the One through the Other. Thereby, the Other is robbed of otherness and degrades into a mirror of the One—a mirror affirming the latter's image. This logic of recognition ensnares the narcissistic achievement-subject more deeply in the ego. The corollary is success-induced depression: the depressive achievement-subject sinks into, and suffocates in, itself" (Directly stated). Success is not an escape from the ego but its consummation: the drive to be validated turns [[The Other]] into an affirming mirror, so the [[Eros|erotic]] relation to otherness — the one thing that could lead "the One out of a narcissistic inferno" — never opens. The achievement society is thus not merely a regime of exhaustion but a regime that forecloses love.
+
+"Being Able Not to Be Able" (ch. 3) re-derives the achievement-subject from its modal verb and pushes Han's coercion-of-freedom thesis to its sharpest formulation. Achievement society "is wholly dominated by the modal verb can—in contrast to disciplinary society, which issues prohibitions and deploys should"; "As an entrepreneur of the self, the achievement-subject is free insofar as he or she is not subjugated to a commanding and exploiting Other. However, the subject is still not really free because he or she now engages in self-exploitation... The exploiter is the exploited. The achievement-subject is perpetrator and victim in one" (Directly stated). The boundless *You can* is *more* coercive than the disciplinary *You should*, because the compulsion now issues from the self and so admits no outside to push against: "You can exercises even greater constraint than You should. Auto-compulsion proves more fatal than allo-compulsion, because there is no way to resist oneself" (Directly stated). This is the erotic application of Han's [[Negative Potency|negative potency]]: because ability, mastery, and grasping convert alterity into an object to be consumed, "absolutizing ability is precisely what annihilates the Other," and only eros — "being able not to be able" ([[Can vs Should|the power *not*-to]]) — lets the Other appear. The achievement society's cult of unlimited *Can* is therefore, at once, a machinery of self-exploitation and a machinery for the destruction of [[The Other]].
+
+The book's later chapters trace the wider costs of this foreclosure. In "Fantasy" (ch. 6), the impossibility of the contemplative pause — of closing one's eyes — is read straight back into the achievement-subject's collapse: "Shutting your eyes is negativity, which does not pair well with the positivity and hyperactivity of contemporary acceleration society. Compulsive hypervigilance makes it hard to close your eyes. This also accounts for the achievement-subject's nervous exhaustion" (Directly stated). And "The Politics of Eros" (ch. 7) draws the political consequence: because neoliberalism "is depoliticizing society in general—and not least of all, by replacing eros with sexuality and pornography," the isolated achievement-subject loses the *thumos* (spirited rage) that could rupture the given order. "In a burnout society of isolated, self-alienated achievement-subjects, thumos is also withering away. Communal action—a we—now proves impossible" (Directly stated). The atomized self-exploiter is not only unable to love but unable to act in common; the achievement society's erosion of [[Eros|eros]] is, for Han, also the erosion of the political.
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — Coins/uses *Leistungsgesellschaft* as a cross-corpus signature category. In *[[The Burnout Society]]* (the **primary source**) it grounds the historical supersession of [[Disciplinary Society|Foucault's disciplinary society]] (fitness studios/office towers vs prisons/factories; obedience-subject→achievement-subject), the *Should*→*Can* modal shift driven by productivity, the master/slave inversion (the *totalization of labour*; the internal work camp), and the evolution into a [[Doping Society]] — terminating in [[Burnout]]. In *The Transparency Society* the category grounds the claim that surveillance is auto-administered. In *Psychopolitics* the same category is radicalized into the figure of the "absolute slave" who exploits himself without a master (Hegel inverted), and "Healing as Killing" delivers the exhaustion/burnout terminus.
+- **[[Byung-Chul Han]]** — Coins/uses *Leistungsgesellschaft* as a cross-corpus signature category. In *[[The Burnout Society]]* (the **primary source**) it grounds the historical supersession of [[Disciplinary Society|Foucault's disciplinary society]] (fitness studios/office towers vs prisons/factories; obedience-subject→achievement-subject), the *Should*→*Can* modal shift driven by productivity, the master/slave inversion (the *totalization of labour*; the internal work camp), and the evolution into a [[Doping Society]] — terminating in [[Burnout]]. In *The Transparency Society* the category grounds the claim that surveillance is auto-administered. In *Psychopolitics* the same category is radicalized into the figure of the "absolute slave" who exploits himself without a master (Hegel inverted), and "Healing as Killing" delivers the exhaustion/burnout terminus. In *The Agony of Eros* the achievement-subject is shown to be *incapable of love*: seeking success turns [[The Other]] into an affirming mirror ("success-induced depression"), the boundless *You can* is more coercive than the disciplinary *You should* ("there is no way to resist oneself"), and absolutizing ability annihilates the Other, so the erosion of [[Eros|eros]] is also the erosion of the political ("thumos is also withering away").
 - **[[Guy Debord]]** — Speculative connection. The [[The Society of the Spectacle]] anticipates a regime where subjects participate in their own subordination through images, though Debord does not yet thematize self-entrepreneurship as the structural form.
 - **[[Herbert Marcuse]]** — Speculative connection. *Eros and Civilization*'s account of "surplus repression" and the performance principle could be read as a precursor to Han's *Leistung*, though Marcuse still presumes an external dominating apparatus.
 
@@ -69,6 +84,9 @@ This is the same inversion the original note tracked in the field of visibility,
 - [[Burnout]] — the achievement society's title malady; the terminal pathology of voluntary self-exploitation that *The Burnout Society* develops at length.
 - [[Doping Society]] — the achievement society's own internal evolution; "the inner logic of achievement society dictates its evolution into a doping society."
 - [[Can vs Should]] — the modal shift that distinguishes the achievement society from the disciplinary society; "Unlimited Can is the positive modal verb of achievement society."
+- [[Negative Potency]] — the "being able not to be able" (*Nicht-Können-Können*) that eros requires and that the achievement society's boundless *Can* forecloses.
+- [[Eros]] — the relation to the Other that the narcissistic achievement-subject cannot reach; its erosion is, in *The Agony of Eros*, also the erosion of the political.
+- [[The Other]] — degraded by the achievement-subject into "a mirror of the One"; annihilated when ability is absolutized.
 - [[Freedom vs Control|Dialectic of Freedom]] — the formal structure by which freedom collapses into control.
 - [[The Transparency Society]] — the visibility-side analogue of the achievement society; same logic applied to exposure.
 - [[Digital Panopticon]] — the institutional form of the achievement society's surveillance regime, voluntarily inhabited.
@@ -86,6 +104,7 @@ This is the same inversion the original note tracked in the field of visibility,
 - Does Han's category presuppose a prior, non-achievement self that could in principle refuse — or is the achievement-subject coextensive with contemporary subjectivity as such?
 - How does *Leistungsgesellschaft* relate to the older Marxist concept of [[Alienation]]? Is auto-exploitation a deepening of alienation or its dissolution into self-identification?
 - What is the relation between achievement and exhaustion developed in *[[The Burnout Society]]* (→ [[Burnout]]), and is exhaustion the achievement society's only "outside"? Han's answer in ch. 9 is bleak: the formation evolves not toward an outside but inward, into a [[Doping Society]] of bare, "undead" vital functioning.
+- If the narcissistic achievement-subject is constitutively unable to reach [[The Other]] (*The Agony of Eros*), then the "outside" it lacks is not only rest but *love* — and, politically, a *we*. Is [[Eros|eros]] the achievement society's genuine exterior, or does the regime absorb even that into self-optimizing "sexuality"?
 
 ## Sources
 
@@ -198,3 +217,20 @@ Relevant passage:
 > Achievement society is the society of self-exploitation. The achievement-subject exploits itself until it burns out. [...] The achievement-subject that understands itself as its own master, as homo liber, turns out to be homo sacer. [...] The injunction that makes us all homines sacri is not a sovereign injunction, but the injunction to achieve [Bann der Leistung]. [...] The inner logic of achievement society dictates its evolution into a doping society. Life reduced to bare, vital functioning is life to be kept healthy unconditionally. Health is the new goddess. [...] They are too alive to die, and too dead to live.
 
 Supports: Grounds self-exploitation as the achievement society's engine, the *homo liber*→*homo sacer* inversion under the "injunction to achieve," and the doping-society/society-of-activeness intensification (ch. 8/9) that terminates in [[Burnout]] and bare "undead" life. Label: `Directly stated`.
+
+### Source 11
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/02 Melancholia]]; [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]; [[raw/Byung-Chul Han - The Agony of Eros/06 Fantasy]]; [[raw/Byung-Chul Han - The Agony of Eros/07 The Politics of Eros]]
+Relevant passages:
+
+> Today's narcissistic "achievement-subject" seeks out success above all. Finding success validates the One through the Other. Thereby, the Other is robbed of otherness and degrades into a mirror of the One—a mirror affirming the latter's image. This logic of recognition ensnares the narcissistic achievement-subject more deeply in the ego. The corollary is success-induced depression: the depressive achievement-subject sinks into, and suffocates in, itself.
+
+> As an entrepreneur of the self, the achievement-subject is free insofar as he or she is not subjugated to a commanding and exploiting Other. However, the subject is still not really free because he or she now engages in self-exploitation—and does so of his or her own free will. The exploiter is the exploited. The achievement-subject is perpetrator and victim in one. [...] You can exercises even greater constraint than You should. Auto-compulsion proves more fatal than allo-compulsion, because there is no way to resist oneself.
+
+> Shutting your eyes is negativity, which does not pair well with the positivity and hyperactivity of contemporary acceleration society. Compulsive hypervigilance makes it hard to close your eyes. This also accounts for the achievement-subject's nervous exhaustion.
+
+> In a burnout society of isolated, self-alienated achievement-subjects, thumos is also withering away. Communal action—a we—now proves impossible.
+
+Supports: Grounds the *Agony of Eros* extension — the narcissistic achievement-subject cannot love because success turns [[The Other]] into an affirming mirror ("success-induced depression"); the boundless *You can* is more coercive than the disciplinary *You should* ("there is no way to resist oneself"), and absolutizing ability annihilates the Other so that only [[Negative Potency|being able not to be able]] restores [[Eros|eros]]; compulsive hypervigilance forecloses the contemplative pause, feeding the achievement-subject's "nervous exhaustion"; and the atomized achievement-subject loses the *thumos* for communal action, so the erosion of eros is also the erosion of the political. Label: `Directly stated`.

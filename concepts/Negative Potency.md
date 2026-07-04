@@ -5,15 +5,14 @@ sources:
   - "[[raw/Han - The Burnout Society/06 The Pedagogy of Seeing]]"
   - "[[raw/Han - The Burnout Society/07 The Bartleby Case]]"
   - "[[raw/Han - The Burnout Society/08 The Society of Tiredness]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]"
 related:
   - "[[Negativity]]"
   - "[[Byung-Chul Han and Giorgio Agamben]]"
-opposes:
-  - "[[Positivity]]"
 authors:
   - "[[Byung-Chul Han]]"
 confidence: high
-last_updated: 2026-06-04
+last_updated: 2026-07-04
 ---
 
 # Negative Potency
@@ -36,14 +35,23 @@ In "The Society of Tiredness," Han re-reads tiredness through the same distincti
 
 "The Bartleby Case" is the negative test. Bartleby's "I would prefer not to" looks like the power of the *not-to* but is its counterfeit: it "expresses neither the negative potency of not-to nor the instinct for delay and deferral that is essential for 'spirituality.' Rather, it stands for a lack of drive and for apathy, which seal Bartleby's doom." Bartleby is thus the figure of impotence masquerading as negative potency — apathy, "lack of drive," a "negative being-unto-death" — which is exactly why Han rejects Agamben's reading of him as the "being of pure potentiality." Negative potency is sovereign and active; Bartleby's refusal is neither (Directly stated).
 
+## Byung-Chul Han (The Agony of Eros)
+
+*The Agony of Eros* gives negative potency its **erotic** application, and Ch. 3 — whose title, "Being Able Not to Be Able" (*Nicht-Können-Können*), simply names the faculty — is the fullest statement of the power-not-to in Han's corpus. Here the *not-to* is no longer only the condition of perception, action, and reflective thought (the burnout-society register); it becomes the condition of the relation to the Other. Where *The Burnout Society* diagnosed the erosion of negative potency under "increasing positivization," *The Agony of Eros* names its positive counterpart directly: "[[Eros]] is a relationship to the Other situated beyond achievement, performance, and ability. Being able not to be able (Nicht-Können-Können) represents its negative counterpart." Negative potency is thus the negative pole of [[Achievement Society|achievement society's]] boundless *You can* — the courage, against the compulsion to master, to *not* be able (Directly stated).
+
+The stakes are the appearance of the Other as such. Because "[p]ossessing, knowing, and grasping are synonyms of power," any object one *can* master ceases to be [[The Other|other]]: "If one could possess, grasp, and know the other, it would not be other." Absolutized ability therefore does not conquer alterity, it abolishes it — and the erotic relation, judged in the vocabulary of power, must register as a *failure*. Han: "Absolutizing ability is precisely what annihilates the Other. A successful relationship with the Other finds expression as a kind of failure. Only by way of being able not to be able does the Other appear." The *not-to* is the same faculty the vault records under this note — Agamben's *potenza di non*, "the power not-to" — now turned on the Other: only the one who is able *not* to grasp lets the Other be. This is the erotic edge of the burnout diagnosis, not a second concept: the negative counterpart of the "can" that, made absolute, yields both hyperactivity and the annihilation of alterity (Directly stated).
+
 ## Authors and Variants
 
-- **[[Byung-Chul Han]]** — coins the positive/negative-potency distinction in *The Burnout Society* and makes negative potency, the power of the *not-to* (the power to say no), the active core of the *vita contemplativa* and the condition of perception, action, and reflective thought. He reads it **pathologically**: its erosion under "increasing positivization" is the diagnosis of the achievement/burnout society. Folds *Innehalten* (making-pause), serene not-doing (*Gelassenheit*), and the inspiring tiredness of the *not-to* into the same faculty.
+- **[[Byung-Chul Han]]** — coins the positive/negative-potency distinction in *The Burnout Society* and makes negative potency, the power of the *not-to* (the power to say no), the active core of the *vita contemplativa* and the condition of perception, action, and reflective thought. He reads it **pathologically**: its erosion under "increasing positivization" is the diagnosis of the achievement/burnout society. Folds *Innehalten* (making-pause), serene not-doing (*Gelassenheit*), and the inspiring tiredness of the *not-to* into the same faculty. In *The Agony of Eros* he gives negative potency its **erotic** application — "being able not to be able" (*Nicht-Können-Können*) as the negative counterpart of achievement society's *You can*: only being able *not* to master, grasp, or possess lets the Other appear.
 - **Giorgio Agamben** — Han's source and antagonist. Han takes the vocabulary of potentiality / *potenza di non* (the Aristotelian *adynamia*, the "potential not to") from Agamben, but reads it **against** him: where Agamben elevates Bartleby to "pure, absolute potentiality" (*potentia absoluta*), Han insists Bartleby exhibits apathy and impotence, not negative potency. This dispute is housed in [[Byung-Chul Han and Giorgio Agamben]], not here.
 
 ## Related Concepts
 
 - [[Negativity]] — the broader dialectical/immunological category in Han (the negativity of the Other, of interruption, of the immune response). Negative potency is the specific *faculty* of the *not-to*, kept distinct from this category: negativity is what the *not-to* preserves in the world; negative potency is the power that holds it open.
+- [[Eros]] — the erotic realization of negative potency: eros is "a relationship to the Other situated beyond achievement, performance, and ability," and *being able not to be able* is its "negative counterpart."
+- [[The Other]] — the wholly other whose alterity "eludes all ability"; only by way of the *not-to* does the Other appear, because "[p]ossessing, knowing, and grasping are synonyms of power."
+- [[Achievement Society]] — the register of the boundless *can* whose negative counterpart is negative potency; *The Agony of Eros* pairs "being able not to be able" against achievement society's *You can*.
 - [[Byung-Chul Han and Giorgio Agamben]] — the cross-author lineage to Agamben's *potenza di non* and Aristotelian *adynamia*, and Han's pathological reading **against** Agamben (the Bartleby dispute).
 
 ## Opposing Concepts
@@ -58,6 +66,7 @@ In "The Society of Tiredness," Han re-reads tiredness through the same distincti
 - Where exactly is the line between negative potency (sovereign refusal, the *not-to*) and impotence/apathy (Bartleby's "lack of drive")? Han asserts the difference but the criterion is largely diagnostic.
 - Is Han's reading of Agamben's potentiality fair, or does he convert an ontological category (the *potenza di non*) into a psychological/pathological one and then fault Agamben for the conversion?
 - Can negative potency be cultivated — through meditation, the Sabbath, "fundamental tiredness" — or only lost, under conditions of acceleration and "increasing positivization" that abolish all intervals?
+- In its erotic form, is "being able not to be able" a genuine capacity that can be exercised, or only a name for the constitutive limit of power before the Other — such that eros is less something one *does* than something one suffers when mastery fails?
 
 ## Sources
 
@@ -126,3 +135,14 @@ Relevant passage:
 > his signature phrase, "I would prefer not to," expresses neither the negative potency of not-to nor the instinct for delay and deferral that is essential for "spirituality." Rather, it stands for a lack of drive and for apathy, which seal Bartleby's doom.
 
 Supports: The negative test case — Bartleby's refusal is apathy/impotence, NOT negative potency; grounds Han's reading against Agamben's "pure potentiality" (housed in the Han–Agamben reference). Label: `Directly stated`.
+
+### Source 7
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]
+Relevant passage:
+
+> Eros is a relationship to the Other situated beyond achievement, performance, and ability. Being able not to be able (Nicht-Können-Können) represents its negative counterpart. […] Absolutizing ability is precisely what annihilates the Other. A successful relationship with the Other finds expression as a kind of failure. Only by way of being able not to be able does the Other appear
+
+Supports: The erotic application of negative potency — the chapter's title concept, *Nicht-Können-Können*, as the negative counterpart of achievement society's boundless *can*; absolutizing ability annihilates the Other, and only being able not to be able lets the Other appear. Cross-links [[Eros]], [[The Other]], [[Achievement Society]]. Label: `Directly stated`.

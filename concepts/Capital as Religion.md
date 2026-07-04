@@ -9,6 +9,8 @@ sources:
   - "[[raw/Zuboff - The Age of Surveillance Capitalism/10 Chapter 8 - Rendition - From Experience to Data]]"
   - "[[raw/Debord - The Society of the Spectacle/04 Ch1 - Separation Perfected]]"
   - "[[raw/Debord - The Society of the Spectacle/06 Ch3 - Unity and Division Within Appearances]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]]"
+  - "[[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]"
 related:
   - "[[Byung-Chul Han and Walter Benjamin]]"
   - "[[Exploitation of Freedom]]"
@@ -32,6 +34,8 @@ Capital, in Byung-Chul Han's reading of Walter Benjamin, becomes a new transcend
 
 > The term and the title belong to Walter Benjamin: "Capitalism as Religion" (*Kapitalismus als Religion*, 1921). Han adopts and extends it in *Psychopolitics*. This note routes the citation through [[Byung-Chul Han and Walter Benjamin]] and is distinct from the Benjaminian citations (cult value / aura / the veil) Han makes in *The Transparency Society*.
 
+> **Intra-Han nuance:** In *The Agony of Eros* (2012) Han sharpens the thesis to the point of *denying* that capitalism is a religion — precisely because a religion pairs debt (guilt) with *relief* (pardon), and capitalism offers only debt and default, "no possibility for atonement." See the Agony-of-Eros section below; the two treatments are complementary, not contradictory (both turn on the *Schuld/Schulden* structure), but the valence flips on the question of atonement.
+
 ## Longer Explanation
 
 In the opening chapter of *Psychopolitics*, Han argues that under neoliberalism "we no longer work in order to satisfy our own needs. Instead, we work for Capital." Capital "generates needs of its own" which we misperceive as ours, and thereby "represents a new kind of transcendence, which entails a new form of subjectivation." The modern political project — emancipation from a transcendent, religiously grounded order so that society could "construct itself anew, purely from within" — is reversed at the moment Capital "achieves the status of being a new transcendency — a new master." At that point "politics lapses into servitude again. It becomes the handmaiden of Capital." (Label: `Directly stated`.)
@@ -41,6 +45,14 @@ Han then poses the question through which Benjamin enters: "Could it be that Cap
 The German *Schuld* — at once "debt" and "guilt" — is the hinge of the concept. Han explicitly mobilizes the pun: "Before God, we are all debtors: guilty (*schuldig*). But debt — guilt — destroys freedom." Debt is not merely an economic condition but a theological one; to be indebted is to be guilty, and to be guilty is to be unfree. Han suggests this unfreedom may even be desired: "Didn't we invent God so we wouldn't have to be free? . . . Perhaps we run up debts perpetually so we won't need to do so — that is, so we won't need to be free, or responsible." Debt thus functions as a self-administered renunciation of freedom — the religious form of the [[Exploitation of Freedom]]. (Label: `Strongly implied`.)
 
 In "The Mole and the Snake" the same *Schuld/Schulden* doubling is named as a technology of power. Describing the snake as the animal of the neoliberal [[Society of Control]], Han writes: "Above all, the snake embodies the guilt and debts (*die Schuld, die Schulden*) that the neoliberal regime employs as instruments of domination." Where the disciplinary mole was governed as a "body" through confinement, the neoliberal snake is governed as a "soul" through motivation, competition, and debt — psychopolitics rather than biopolitics. Capital-as-religion is therefore not metaphorical decoration but Han's account of how a debt-economy disciplines the psyche from within, without a visible master. (Label: `Directly stated`.)
+
+## Byung-Chul Han (The Agony of Eros)
+
+*The Agony of Eros* returns to the same Benjaminian material but reverses its verdict on one decisive point: here Han argues that capitalism is *not* a religion. The hinge is atonement. Because "relief from debt, financial and psychological, and gratification both presume the Other," and because the achievement-subject lacks "a binding connection to the Other," the neoliberal economy produces "crises of gratification and debt." Those crises expose what capitalism, unlike any religion, cannot supply: "Such crises make it plain that capitalism—counter to widespread belief (e.g., Benjamin)—is not a religion. Every religion operates with both debt (guilt) and relief (pardon). But capitalism only works with debt and default. It offers no possibility for atonement, which would free the debtor from liability." This is not a retraction of the *Psychopolitics* thesis so much as its intensification: the *Schuld/Schulden* structure remains, but the missing term is now named as *pardon*, the sacramental relief a religion offers and capitalism structurally withholds. Guilt without atonement is worse than a cult of guilt — it is a cult that has lost even the machinery of absolution. (Label: `Directly stated`.)
+
+The consequence Han draws is clinical rather than theological. Because the debt can never be paid off and the failure can never be forgiven, the achievement-subject's collapse is "unredeemable": "Together with burnout, depression represents an unredeemable failure of ability—that is, it amounts to psychic insolvency. Literally, 'insolvency' (from the Latin *solvere*) signifies the impossibility of paying off a debt." Depression is thus the psychic form of a debt-economy without pardon — the [[Achievement Society]]'s bankruptcy of the soul, the mirror-image of the perpetual, atonement-free indebtedness that *Psychopolitics* named an "instrument of domination." (Label: `Directly stated`.)
+
+In "Bare Life" (ch. 4) Han adds the concept's cosmic register. Capital's accumulation is not merely without atonement but without *end* — it is oriented against death itself: "Capitalism absolutizes bare life. Its telos is not the good life. Capitalism's compulsive accumulation and growth is specifically aimed against death, which counts as absolute loss." Stripped of the teleology of the good life (Aristotle's *living well* as against mere *living*), production "assuming infinite dimensions" loses all direction: "This is how capitalism becomes obscene." Read against the *Psychopolitics* God-of-debt, this gives the concept its far pole — where Benjamin's cult had at least the form of the sacred, Han's late diagnosis is of an accumulation that has voided even that form, chasing not transcendence but the deferral of death, a religion of survival ([[Bare Life]]) rather than of guilt. (Label: `Directly stated`; the guilt-cult ↔ accumulation-against-death continuity is `Interpretive synthesis`.)
 
 ## Shoshana Zuboff (The Age of Surveillance Capitalism)
 
@@ -59,20 +71,21 @@ In Chapter 3 ("Unity and Division Within Appearances") the cult becomes explicit
 ## Authors and Variants
 
 - **[[Walter Benjamin]]** — originator of the thesis in the fragment "Capitalism as Religion" (1921): capitalism is a cultic religion with no theology and no day of atonement, "the first case of a cult that creates guilt, not atonement," in which guilt accumulates without relief. Han cites this directly; the term and its formulation are Benjamin's. (Forward-stub — Benjamin's own text is not yet ingested in `raw/`.)
-- **[[Byung-Chul Han]]** — adopts Benjamin's thesis to diagnose neoliberal financial capitalism, fusing it with his own analysis: Capital as "a new transcendency" and "new master"; the *Schuld/Schulden* pun (guilt = debt) as an "instrument of domination" wielded by the neoliberal regime; perpetual indebtedness as the mechanism by which "the state of unfreedom perpetuates itself."
+- **[[Byung-Chul Han]]** — adopts Benjamin's thesis to diagnose neoliberal financial capitalism, fusing it with his own analysis: Capital as "a new transcendency" and "new master"; the *Schuld/Schulden* pun (guilt = debt) as an "instrument of domination" wielded by the neoliberal regime; perpetual indebtedness as the mechanism by which "the state of unfreedom perpetuates itself." **In *The Agony of Eros* (2012) he sharpens this into a *denial*: capitalism is "not a religion" precisely because "every religion operates with both debt (guilt) and relief (pardon)," whereas capitalism "only works with debt and default" and "offers no possibility for atonement" — hence depression as "psychic insolvency" and, in "Bare Life," accumulation "specifically aimed against death." A complementary, not contradictory, valence: the same *Schuld* structure, now defined by the *absence* of pardon.**
 - **[[Shoshana Zuboff]]** — supplies the surveillance-economic register: capital sacralized by a pseudoscientific "natural law" / "divine plan" (the robber-baron lineage), a "pre-Gutenberg" *priesthood* of computational specialists hoarding the "shadow text," and a "continuous tithe" of behavioral surplus exacted under "the dictatorship of no alternatives." Not a cult of guilt but a cult of secret knowledge and accumulation, "profoundly antidemocratic" and not originating in the state.
 - **[[Guy Debord]]** — supplies the genealogical ground: the spectacle as "the material reconstruction of the religious illusion" (th.20), religion not dispersed but "brought down to earth"; and the commodity-cult of consumption, where the fetishism of commodities generates "religious fervor," collectors accumulate "commodity indulgences-glorious tokens of the commodity's real presence among the faithful" (th.67). Where Han's Capital makes us guilty, Debord's commodity makes us worship — the same secularization of religion approached through consumption's rapture rather than debt's guilt.
 
 ## Related Concepts
 
-- [[Byung-Chul Han and Walter Benjamin]] — the reference note that carries the citation lineage; this concept extends that relationship from *The Transparency Society* into *Psychopolitics*.
+- [[Byung-Chul Han and Walter Benjamin]] — the reference note that carries the citation lineage; this concept extends that relationship from *The Transparency Society* into *Psychopolitics*, and again into *The Agony of Eros* where the verdict flips (capitalism is *not* a religion, for want of atonement).
 - [[Byung-Chul Han and Guy Debord]] — the keystone Han↔Debord reference; Han's diagnosis of transparency/spectacle descends from Debord, and the capital-as-secularized-religion figure is one of the inherited threads.
 - [[Spectacle]] — Debord's central concept; capital-as-religion is here grounded in the spectacle as "the material reconstruction of the religious illusion."
 - [[Reification]] — the commodity fetishism (Marx/Lukács, extended by Debord) that supplies the commodity-cult of "the faithful" and "commodity transcendence."
 - [[Exploitation of Freedom]] — debt is the theological face of self-exploitation: freedom is surrendered voluntarily through perpetual indebtedness.
 - [[Auto-Exploitation]] — the debtor is "master and slave in one"; Capital-as-religion is the cult under which the self-exploiting subject worships and is made guilty.
 - [[Society of Control]] — in "The Mole and the Snake," guilt and debt are named as the control society's instruments of domination.
-- [[Achievement Society]] — the indebted, guilty subject is the achievement-subject who, failing, "feel[s] shame instead of questioning society or the system."
+- [[Achievement Society]] — the indebted, guilty subject is the achievement-subject who, failing, "feel[s] shame instead of questioning society or the system"; in *The Agony of Eros* this failure becomes "psychic insolvency," an unredeemable debt.
+- [[Bare Life]] — in "Bare Life," capitalism's accumulation is "aimed against death" and "absolutizes bare life," voiding the teleology of the good life — the concept's far pole, a religion of survival rather than of guilt.
 
 ## Opposing Concepts
 
@@ -86,6 +99,7 @@ In Chapter 3 ("Unity and Division Within Appearances") the cult becomes explicit
 - Is the smartphone-as-rosary and "Like is the digital Amen" passage a continuation of the same cult, relocating the religion of Capital into devotional digital objects?
 - Is Zuboff's "pre-Gutenberg" priesthood of computational specialists the same religion Han diagnoses, or a different cult — one of secret knowledge rather than of guilt — and what would atonement (or Reformation) look like for it?
 - If Debord is right that the spectacle merely brings the religious mists "down to earth" rather than dispersing them, is Han's cult of debt and Debord's cult of consumption two faces of one secularized religion — and does either the guilt-pole or the worship-pole admit an exit the other forecloses?
+- Is the *Agony of Eros* denial ("capitalism is not a religion") a genuine reversal of the *Psychopolitics* thesis, or its completion — is a cult that offers debt but forecloses atonement still a religion, or a religion's ruin? And does the reading through the missing Other (whose absence forecloses relief) point to the only exit — a "binding connection to the Other" that no accumulation can supply?
 
 ## Sources
 
@@ -164,3 +178,20 @@ Relevant passage:
 > Those who collect the trinkets that have been manufactured for the sole purpose of being collected are accumulating commodity indulgences-glorious tokens of the commodity's real pres ence among the faithful. (thesis 67)
 
 Supports: Debord grounds the capital-as-secularized-religion reading that Han and Harari inherit: the spectacle *materializes* rather than disperses religion (th.20), bringing the "religious mists down to earth"; and the commodity-cult of consumption — "religious fervor," "commodity indulgences," "the faithful," "the commodity's real presence" (th.67) — the eucharistic/penitential apparatus transposed onto the commodity. Where Han's Capital makes us guilty (the cult of debt), Debord's commodity makes us worship (the cult of consumption), both cases of religion brought down to earth. Label: `Directly stated` (Debord's own claims); the Debord→Han descent is `Interpretive synthesis` / `Conceptual parallel`.
+
+### Source 7
+
+Book: *The Agony of Eros*
+Author: Byung-Chul Han
+Raw file: [[raw/Byung-Chul Han - The Agony of Eros/03 Being Able Not to Be Able]] , [[raw/Byung-Chul Han - The Agony of Eros/04 Bare Life]]
+Relevant passage:
+
+> Such crises make it plain that capitalism—counter to widespread belief (e.g., Benjamin)—is not a religion. Every religion operates with both debt (guilt) and relief (pardon). But capitalism only works with debt and default. It offers no possibility for atonement, which would free the debtor from liability.
+
+> Together with burnout, depression represents an unredeemable failure of ability—that is, it amounts to psychic insolvency. Literally, "insolvency" (from the Latin solvere) signifies the impossibility of paying off a debt.
+
+> Capitalism absolutizes bare life. Its telos is not the good life. Capitalism's compulsive accumulation and growth is specifically aimed against death, which counts as absolute loss.
+
+> The process of capitalization and production is assuming infinite dimensions by doing away with the teleology of the good life. Its motion forward is speeding up more and more by losing all sense of direction. This is how capitalism becomes obscene.
+
+Supports: Supplies the two-valence handling of the concept. Ch. 3 ("Being Able Not to Be Able") *denies* — contra Benjamin's "Capitalism as Religion" and contra Han's own *Psychopolitics* reading — that capitalism is a religion, on the grounds that religion pairs debt (guilt) with relief (pardon) while capitalism offers "no possibility for atonement"; hence depression as "psychic insolvency." Ch. 4 ("Bare Life") adds that capitalism "absolutizes bare life" and its accumulation is "specifically aimed against death," voiding the teleology of the good life until "capitalism becomes obscene." A complementary, not contradictory, extension: the same *Schuld/Schulden* structure, now defined by the absence of pardon and reoriented against death. Label: `Directly stated` (Han's claims); the continuity with the *Psychopolitics* guilt-cult is `Interpretive synthesis`.

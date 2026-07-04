@@ -70,6 +70,7 @@ All symbol and metaphor notes.
 - [[The Age of the Iron Whim]] — the typewriter-and-typist as agents of female vocation and the homogenizing of business; the 'twelve-pound look' (McLuhan)
 - [[The Tribal Drum]] — radio reaching the subliminal depths, turning psyche and society into 'a single echo chamber' (McLuhan)
 - [[The Schmoo]] — Al Capp's creature as the figure of automation's custom-on-demand abundance; the custom-built supplanting the mass-produced (McLuhan)
+- *The Agony of Eros* (Han's fourth book) minted no standalone metaphor/symbol notes: its figures — the white butterflies and the carriage (Flaubert), the inverted cave-and-sun (Plato), 'shutting my eyes to see' (Kafka via Barthes), and the beating wings of Eros (Heidegger) — are captured inside [[Fantasy]], [[The Politics of Eros]], [[Eros]], and [[The Event]] rather than as thin standalone notes; the existing [[The Veil]] carries the veil-of-negativity figure that eros requires.
 - [[The Project as Projectile]] — the self-as-project boomeranging back as self-aggression; freedom's collapse into auto-violence (Han, The Burnout Society)
 - [[Prometheus and the Eagle]] — Kafka's Prometheus reread as self-exploitation: the eagle the chained hero's own exhaustion feeding on itself (Han, The Burnout Society)
 - [[The Dream Bird That Hatches the Egg of Experience]] — Benjamin's figure for deep boredom as the womb of creative experience, killed by hyperattention (Han, The Burnout Society)
