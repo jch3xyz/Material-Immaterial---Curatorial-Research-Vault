@@ -790,3 +790,9 @@ Two classes of legitimate forward-stub:
 > Every wiki-link target must be a bare canonical note title — identical to the filename without `.md`. It must resolve to (a) a note that exists, (b) a note being created in the same pass, or (c) a declared forward-stub per the policy above. Never wrap link targets in a type prefix (`Argument -`, `Concept -`, `Metaphor -`, etc.). When in doubt, prefer plain text over an invented link.
 
 See also: [[_system/schemas|Schemas]] (Link Naming Rule section), [[_system/ingest_pipeline|Ingest Pipeline]].
+
+---
+
+## 2026-07-04 — Dialectical Transparency (synthesis essay)
+
+New **declared forward-stub**: `Illuminations` (Walter Benjamin's essay collection, ed. Arendt, trans. Zohn — its raw folder `raw/Benjamin - Illuminations` is on disk and quoted directly by the essay `Dialectical Transparency`; the book note will be realized when Benjamin is ingested, which is the queued next ingest). `Walter Benjamin` remains a reused existing forward-stub. No other new canonical names: the essay links only existing book/author notes plus raw chapters.

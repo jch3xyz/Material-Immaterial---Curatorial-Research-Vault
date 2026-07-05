@@ -33,3 +33,9 @@ The full loop — tiers, promotion gate, who distills — is documented at the t
 forms, and the role of art and artist in a posthuman society?*
 
 <!-- John: your notes on this essay go here. -->
+
+## Dialectical Transparency (2026-07-04)
+
+*Question: are the era's several transparencies — the sealed device, the person legible to opaque systems, the market's demand for self-exhibition, the mechanistic idiom of self-description, the diagnostic wish to see inside the other — one phenomenon distributed backwards, and do selfhood, trust, and eros depend constitutively on opacity?*
+
+<!-- John: your notes on this essay go here. -->
