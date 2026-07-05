@@ -39,3 +39,9 @@ forms, and the role of art and artist in a posthuman society?*
 *Question: are the era's several transparencies — the sealed device, the person legible to opaque systems, the market's demand for self-exhibition, the mechanistic idiom of self-description, the diagnostic wish to see inside the other — one phenomenon distributed backwards, and do selfhood, trust, and eros depend constitutively on opacity?*
 
 <!-- John: your notes on this essay go here. -->
+
+## The Well-Defined Task (2026-07-05)
+
+*Question: is the "agent" now succeeding the database as the dominant symbolic form of the computer age (Manovich), with its own characteristic user operations (ask/instruct/delegate/converse/interrupt/correct in place of view/navigate/search) and its own characteristic ethical problem (alignment in place of organization)? Occasioned by Lev Manovich, "Database as Symbolic Form" (1998).*
+
+<!-- John: your notes on this essay go here. -->
