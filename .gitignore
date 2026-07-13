@@ -1,1 +1,12 @@
 .obsidian/*
+
+# --- Quartz site (.site/) — dependencies & generated output, never committed ---
+.site/node_modules/
+.site/public/
+.site/.quartz/
+.site/.quartz-cache/
+.site/tsconfig.tsbuildinfo
+.site/prof/
+
+# macOS
+.DS_Store
